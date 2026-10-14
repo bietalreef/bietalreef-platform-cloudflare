@@ -8,16 +8,17 @@ export const config = {
   },
 };
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
+  if (!process.env.OPENAI_API_KEY) {
+    return res.status(503).json({ error: 'Transcription is not configured' });
+  }
+
   try {
+    const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
     const form = formidable({});
     
     const [fields, files] = await form.parse(req);

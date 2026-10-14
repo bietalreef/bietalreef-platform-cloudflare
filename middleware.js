@@ -10,6 +10,16 @@ function isCloudflareStaging(request) {
 
 export function middleware(request) {
   const pathname = request.nextUrl.pathname;
+  const staging = isCloudflareStaging(request);
+
+  // Preview access is read-only. Never write analytics, orders, uploads or contacts
+  // to the production Supabase project from a publicly reachable test hostname.
+  if (staging && !['GET', 'HEAD', 'OPTIONS'].includes(request.method)) {
+    return NextResponse.json(
+      { error: 'Staging is read-only' },
+      { status: 403, headers: { 'X-Robots-Tag': 'noindex, nofollow, noarchive, nosnippet', 'Cache-Control': 'no-store' } }
+    );
+  }
   const match = pathname.match(ARKLEEN_PRODUCT_ROUTE);
   const response = match
     ? NextResponse.redirect(
@@ -18,7 +28,7 @@ export function middleware(request) {
       )
     : NextResponse.next();
 
-  if (isCloudflareStaging(request)) {
+  if (staging) {
     response.headers.set('X-Robots-Tag', 'noindex, nofollow, noarchive, nosnippet');
     response.headers.set('Cache-Control', 'no-store');
   }

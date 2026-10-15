@@ -19,7 +19,6 @@ import {
   ChevronUp,
   Globe2
 } from 'lucide-react';
-import PlatformOverviewLink from './PlatformOverviewLink';
 import PlatformAccessActions from './PlatformAccessActions';
 import { UAE_EMIRATES, SERVICE_CATEGORIES } from '../data/siteTaxonomy';
 import styles from './Navbar.module.css';
@@ -113,11 +112,18 @@ export default function Navbar({ locale = 'ar' }) {
     if (!isOpen) return;
     const previousFocus = document.activeElement;
     const previousOverflow = document.body.style.overflow;
-    const background = [...document.querySelectorAll('main, header, footer')].filter((element) => !drawer.current?.contains(element));
+    const background = [];
+    let branch = drawer.current?.parentElement;
+    while (branch && branch !== document.body) {
+      for (const sibling of branch.parentElement?.children || []) {
+        if (sibling !== branch && sibling instanceof HTMLElement && !['SCRIPT', 'STYLE', 'LINK'].includes(sibling.tagName)) background.push(sibling);
+      }
+      branch = branch.parentElement;
+    }
     const inertValues = background.map((element) => element.inert);
     background.forEach((element) => { element.inert = true; });
     document.body.style.overflow = 'hidden';
-    drawer.current?.querySelector('button')?.focus();
+    const focusFrame = requestAnimationFrame(() => drawer.current?.querySelector('button')?.focus({ preventScroll: true }));
     const onKey = (event) => {
       if (event.key === 'Escape') { event.preventDefault(); setIsOpen(false); }
       if (event.key !== 'Tab') return;
@@ -131,6 +137,7 @@ export default function Navbar({ locale = 'ar' }) {
     window.addEventListener('popstate', onNavigation);
     router.events.on('routeChangeStart', onNavigation);
     return () => {
+      cancelAnimationFrame(focusFrame);
       document.body.style.overflow = previousOverflow;
       background.forEach((element, index) => { element.inert = inertValues[index]; });
       document.removeEventListener('keydown', onKey);
@@ -191,7 +198,7 @@ export default function Navbar({ locale = 'ar' }) {
 
             <div className="border-t border-gray-100 p-5 pb-[max(env(safe-area-inset-bottom),20px)]">
               <PlatformAccessActions locale={isEnglish ? 'en' : 'ar'} compact className="mb-3" />
-              <PlatformOverviewLink className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></PlatformOverviewLink>
+              <Link href={`${prefix}/how-it-works`} className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></Link>
             </div>
           </aside>
         </div>

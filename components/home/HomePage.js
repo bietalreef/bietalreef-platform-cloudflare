@@ -233,7 +233,7 @@ export default function HomePage({ locale = 'ar' }) {
               </div>
             </div>
 
-            <div className="relative z-10 mx-auto -mt-1 max-w-[1440px] px-3 pb-5 md:-mt-28 md:px-8 md:pb-8">
+            <div className="relative z-10 mx-auto mt-0 max-w-[1440px] px-3 pb-5 md:mt-0 md:px-8 md:pb-8">
               <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 sm:gap-2 md:gap-4" dir="rtl">
                 {content.introModels.map((item) => {
                   const Icon = item.icon;

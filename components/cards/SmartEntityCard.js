@@ -107,8 +107,8 @@ function UnifiedProviderCard({ item }) {
     item.name?.includes('أركلين') ||
     item.name?.includes('ARKLEEN');
   const copy = isEnglish
-    ? { fallbackName: 'Service provider', fallbackCity: 'UAE', fallbackArea: '', fallbackType: 'Service provider', servicesLabel: 'Main services', map: 'Location on Google Maps', open: 'Open profile', whatsapp: 'WhatsApp', verified: 'Verified provider' }
-    : { fallbackName: 'مزود خدمة', fallbackCity: 'الإمارات', fallbackArea: '', fallbackType: 'مزود خدمة', servicesLabel: 'الخدمات الرئيسية', map: 'الموقع على خرائط Google', open: 'فتح الملف', whatsapp: 'واتساب', verified: 'مزود موثق' };
+    ? { fallbackName: 'Business / Professional', fallbackCity: 'UAE', fallbackArea: '', fallbackType: 'Business / Professional', servicesLabel: 'Main services', map: 'Location on Google Maps', open: 'Open profile', whatsapp: 'WhatsApp', verified: 'Verified account' }
+    : { fallbackName: 'شركة / مهني', fallbackCity: 'الإمارات', fallbackArea: '', fallbackType: 'شركة / مهني', servicesLabel: 'الخدمات الرئيسية', map: 'الموقع على خرائط Google', open: 'فتح الملف', whatsapp: 'واتساب', verified: 'حساب موثق' };
   const serviceIcons = [Home, Package, Store];
   const services = (item.specialties || []).slice(0, 3).map((label, index) => ({
     label,

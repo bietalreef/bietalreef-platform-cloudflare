@@ -18,14 +18,14 @@ const premiumHeroSlides = [
 
 const gatewayCards = [
   { title: 'دليل الإمارات', desc: 'ابدأ من المكان: الإمارة، المدينة، المنطقة، ثم الخدمة المناسبة لمشروعك.', href: '/uae', icon: MapPinned, label: 'بحث حسب المكان', image: '/images/gateway/uae-directory-gateway.webp', imageAlt: 'خريطة الإمارات ثلاثية الأبعاد لدليل الإمارات داخل بيت الريف' },
-  { title: 'مزودو الخدمات', desc: 'أدر نشاطك التجاري من هاتفك، وابنِ حضورك الرقمي، واستقبل الطلبات والمناقصات من العملاء الذين يبحثون عن خدماتك.', href: '/providers', icon: UsersRound, label: 'حضور رقمي', image: '/images/gateway/providers-gateway.webp', imageAlt: 'مزودو خدمات البناء والمقاولات داخل بيت الريف' },
+  { title: 'دليل الشركات والمهنيين', desc: 'تصفح الشركات والمهنيين، وراجع تخصصاتهم ونطاق عملهم ووسائل التواصل معهم.', href: '/providers', icon: UsersRound, label: 'حضور رقمي', image: '/images/gateway/providers-gateway.webp', imageAlt: 'مزودو خدمات البناء والمقاولات داخل بيت الريف' },
   { title: 'الخدمات والعروض', desc: 'اختر الخدمة المطلوبة، ثم تواصل مباشرة أو اطلب من وياك تحويل احتياجك إلى مسار واضح.', href: '/services', icon: Wrench, label: 'طلب خدمة', image: '/images/gateway/services-offers-gateway.webp', imageAlt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
   { title: 'سوق بيت الريف', desc: 'تصفح مواد البناء والتشطيب والمنتجات والخدمات والعروض داخل السوق العام.', href: MARKET_URL, icon: ShoppingBag, label: 'افتح السوق', image: '/images/gateway/materials-products-gateway.webp', imageAlt: 'سوق بيت الريف للمواد والمنتجات والخدمات' },
 ];
 
 const introModels = [
   { title: 'دليل الإمارات', desc: 'ابدأ من المكان', image: '/images/gateway/uae-directory-gateway.webp', href: '/uae', icon: MapPinned },
-  { title: 'مزودون موثوقون', desc: 'شركات وورش', image: '/images/gateway/providers-gateway.webp', href: '/providers', icon: UsersRound },
+  { title: 'الشركات والمهنيون', desc: 'شركات وورش', image: '/images/gateway/providers-gateway.webp', href: '/providers', icon: UsersRound },
   { title: 'خدمات وعروض', desc: 'طلب أو مقارنة', image: '/images/gateway/services-offers-gateway.webp', href: '/services', icon: Wrench },
   { title: 'سوق بيت الريف', desc: 'مواد وموردون', image: '/images/gateway/materials-products-gateway.webp', href: MARKET_URL, icon: ShoppingBag },
 ];
@@ -62,13 +62,13 @@ const englishCopy = {
   ],
   gatewayCards: [
     { title: 'UAE Directory', desc: 'Start with the place: emirate, city and area, then choose the right service for your project.', href: '/en/uae', icon: MapPinned, label: 'Search by place', image: '/images/gateway/uae-directory-gateway.webp', imageAlt: '3D UAE map for the Biet Al Reef directory' },
-    { title: 'Service Providers', desc: 'Manage your business from your phone, build a digital presence and receive relevant customer requests.', href: '/en/providers', icon: UsersRound, label: 'Digital presence', image: '/images/gateway/providers-gateway.webp', imageAlt: 'Construction service providers on Biet Al Reef' },
+    { title: 'Businesses & Professionals', desc: 'Browse businesses and professionals, review their specialties and service areas, and contact them directly.', href: '/en/providers', icon: UsersRound, label: 'Digital presence', image: '/images/gateway/providers-gateway.webp', imageAlt: 'Construction service providers on Biet Al Reef' },
     { title: 'Services & Offers', desc: 'Choose a service, contact a provider directly or let Weyaak turn your need into a clear path.', href: '/en/services', icon: Wrench, label: 'Request a service', image: '/images/gateway/services-offers-gateway.webp', imageAlt: 'Construction, maintenance and finishing services on Biet Al Reef' },
     { title: 'Biet Al Reef Market', desc: 'Browse products, services and offers in the public marketplace.', href: MARKET_URL, icon: ShoppingBag, label: 'Open the market', image: '/images/gateway/materials-products-gateway.webp', imageAlt: 'Biet Al Reef marketplace for products and services' },
   ],
   introModels: [
     { title: 'UAE Directory', desc: 'Start by place', image: '/images/gateway/uae-directory-gateway.webp', href: '/en/uae', icon: MapPinned },
-    { title: 'Trusted Providers', desc: 'Companies & workshops', image: '/images/gateway/providers-gateway.webp', href: '/en/providers', icon: UsersRound },
+    { title: 'Businesses & Professionals', desc: 'Companies & workshops', image: '/images/gateway/providers-gateway.webp', href: '/en/providers', icon: UsersRound },
     { title: 'Services & Offers', desc: 'Request or compare', image: '/images/gateway/services-offers-gateway.webp', href: '/en/services', icon: Wrench },
     { title: 'Biet Al Reef Market', desc: 'Materials & suppliers', image: '/images/gateway/materials-products-gateway.webp', href: MARKET_URL, icon: ShoppingBag },
   ],
@@ -123,7 +123,7 @@ const pageText = {
     providerEyebrow: 'لصاحب النشاط التجاري', providerTitle: 'هل تعمل في مجال المقاولات أو البناء؟', providerText: 'تغيّرت قواعد الظهور في السوق. لم يعد نشاطك بحاجة إلى إعلان مؤقت فقط، بل إلى حضور رقمي منظم يستطيع العملاء ومحركات البحث وأنظمة الذكاء الاصطناعي فهمه والوصول إليه في أي وقت. انضم إلى بيت الريف، وسنساعدك في تقديم خدماتك ومشاريعك ومناطق عملك داخل ملف مهني واضح، وبناء محتوى قابل للاكتشاف على المنصة وGoogle ومحركات الذكاء الاصطناعي. حضور رقمي مستدام لا يتوقف بانتهاء حملة إعلانية، وتتحسن فعاليته مع اكتمال بيانات نشاطك وجودة محتواه.',
     providerPrimaryAction: 'حمّل التطبيق وانضم كمزود خدمة', providerSecondaryAction: 'تعرّف على خطط الانضمام',
     experienceTitle: 'لا نبيع لك إعلاناً مؤقتاً', experienceText: 'الحملات الإعلانية تنتهي بانتهاء الميزانية. أما بيت الريف فيبني لك حضوراً رقمياً مستداماً يعتمد على تخصصك، خدماتك، محتواك، مستنداتك، وسمعتك المهنية.',
-    h1: 'منصة بيت الريف الذكية', heroText: <>كل ما يحتاجه مشروعك في مكان واحد:<br />مزود، خدمة، منتج، أو مسار واضح مع وياك.</>, heroTitle: <>ابحث... تواصل مباشر<br />أو دع وياك يتولى المهمة</>,
+    h1: 'منصة بيت الريف الذكية', heroText: <>كل ما يحتاجه مشروعك في مكان واحد:<br />شركة أو مهني، خدمة أو منتج، ومساعدة من وياك.</>, heroTitle: <>ابحث... تواصل مباشر<br />أو دع وياك يتولى المهمة</>,
     weyaakAction: 'حمّل التطبيق وتحدث مع وياك', providerAction: 'حمّل التطبيق وانضم كمزود خدمة',
   },
   en: {
@@ -131,7 +131,7 @@ const pageText = {
     providerEyebrow: 'For business owners', providerTitle: 'Do you work in construction or contracting?', providerText: 'The rules of market visibility have changed. Your business needs more than a temporary advertisement; it needs a structured digital presence that customers, search engines and AI systems can understand and discover at any time. Join Biet Al Reef and we will help present your services, projects and coverage areas in a clear professional profile, with discoverable content across the platform, Google and AI search engines. It is a lasting presence that does not end with an advertising campaign and becomes more effective as your business information and content improve.',
     providerPrimaryAction: 'Download the app and join as a provider', providerSecondaryAction: 'Explore membership plans',
     experienceTitle: 'We do not sell temporary advertising', experienceText: 'Advertising stops when its budget ends. Biet Al Reef builds a lasting digital presence around your specialty, services, content, documents and professional reputation.',
-    h1: 'Biet Al Reef Smart Platform', heroText: <>Everything your project needs in one place:<br />a provider, service, product or a clear path with Weyaak.</>, heroTitle: <>Search and contact directly...<br />or let Weyaak handle the journey</>,
+    h1: 'Biet Al Reef Smart Platform', heroText: <>Everything your project needs in one place:<br />a business or professional, a service or product, and help from Weyaak.</>, heroTitle: <>Search and contact directly...<br />or let Weyaak handle the journey</>,
     weyaakAction: 'Download the app and talk to Weyaak', providerAction: 'Download the app and join as a provider',
   },
 };
@@ -189,7 +189,7 @@ export default function HomePage({ locale = 'ar' }) {
   const structuredData = [
     { '@context': 'https://schema.org', '@type': 'Organization', name: isEnglish ? 'Biet Al Reef' : 'بيت الريف', alternateName: isEnglish ? 'بيت الريف' : 'Biet Al Reef', url: SITE_URL, logo: `${SITE_URL}/logo.png`, description, areaServed: { '@type': 'Country', name: 'United Arab Emirates' } },
     { '@context': 'https://schema.org', '@type': 'WebSite', name: isEnglish ? 'Biet Al Reef' : 'بيت الريف', url: isEnglish ? `${SITE_URL}/en` : SITE_URL, inLanguage: isEnglish ? 'en-AE' : 'ar-AE', potentialAction: { '@type': 'SearchAction', target: `${SITE_URL}${isEnglish ? '/en' : ''}/providers?search={search_term_string}`, 'query-input': 'required name=search_term_string' } },
-    { '@context': 'https://schema.org', '@type': 'WebPage', name: content.seo.title, url: isEnglish ? `${SITE_URL}/en` : SITE_URL, description, inLanguage: isEnglish ? 'en-AE' : 'ar-AE', about: isEnglish ? ['construction', 'contracting', 'maintenance', 'interior design', 'building materials', 'UAE service providers'] : ['البناء', 'المقاولات', 'الصيانة', 'التصميم الداخلي', 'مواد البناء', 'مزودو الخدمات في الإمارات'] },
+    { '@context': 'https://schema.org', '@type': 'WebPage', name: content.seo.title, url: isEnglish ? `${SITE_URL}/en` : SITE_URL, description, inLanguage: isEnglish ? 'en-AE' : 'ar-AE', about: isEnglish ? ['construction', 'contracting', 'maintenance', 'interior design', 'building materials', 'UAE service providers'] : ['البناء', 'المقاولات', 'الصيانة', 'التصميم الداخلي', 'مواد البناء', 'دليل الشركات والمهنيين في الإمارات'] },
   ];
 
   return (
@@ -230,7 +230,7 @@ export default function HomePage({ locale = 'ar' }) {
             </div>
 
             <div className="relative z-10 mx-auto -mt-1 max-w-[1440px] px-3 pb-5 md:-mt-28 md:px-8 md:pb-8">
-              <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 sm:gap-2 md:gap-4" dir={isEnglish ? 'ltr' : 'rtl'}>
+              <div className="grid grid-cols-2 gap-3 sm:grid-cols-4 sm:gap-2 md:gap-4" dir="rtl">
                 {content.introModels.map((item) => {
                   const Icon = item.icon;
                   return (

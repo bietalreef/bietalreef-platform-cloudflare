@@ -123,7 +123,7 @@ export default function Navbar({ locale = 'ar' }) {
     const inertValues = background.map((element) => element.inert);
     background.forEach((element) => { element.inert = true; });
     document.body.style.overflow = 'hidden';
-    const focusFrame = requestAnimationFrame(() => drawer.current?.querySelector('button')?.focus({ preventScroll: true }));
+    const focusTimer = window.setTimeout(() => drawer.current?.querySelector('button')?.focus({ preventScroll: true }), 230);
     const onKey = (event) => {
       if (event.key === 'Escape') { event.preventDefault(); setIsOpen(false); }
       if (event.key !== 'Tab') return;
@@ -137,7 +137,7 @@ export default function Navbar({ locale = 'ar' }) {
     window.addEventListener('popstate', onNavigation);
     router.events.on('routeChangeStart', onNavigation);
     return () => {
-      cancelAnimationFrame(focusFrame);
+      window.clearTimeout(focusTimer);
       document.body.style.overflow = previousOverflow;
       background.forEach((element, index) => { element.inert = inertValues[index]; });
       document.removeEventListener('keydown', onKey);

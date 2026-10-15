@@ -43,10 +43,10 @@ const providerPresenceCards = [
 ];
 
 const experienceCards = [
-  { title: 'مسار واضح', desc: 'كل زائر يبدأ من بوابة مفهومة بدل التشتت بين الصفحات.', icon: Search },
-  { title: 'وياك حاضر', desc: 'المساعد الذكي يربط السؤال بالقسم المناسب داخل المنصة.', icon: Compass },
-  { title: 'هوية عربية', desc: 'تصميم يحافظ على اتجاه وتجربة بيت الريف حتى مع تعدد اللغات.', icon: Languages },
-  { title: 'قابل للنمو', desc: 'كل قسم مرتبط بمحتوى وبيانات منظمة قابلة للتوسع والتحديث.', icon: Building2 },
+  { title: 'اختر موقع الخدمة', desc: 'ابدأ بالإمارة والمدينة للوصول إلى الخدمات المتاحة في منطقتك.', icon: MapPinned, href: '/uae' },
+  { title: 'اسأل وياك', desc: 'اشرح احتياجك لتحصل على مساعدة في تحديد الخدمة والخطوة التالية.', icon: Bot, href: '/weyaak' },
+  { title: 'استعرض الشركات', desc: 'راجع التخصص ونطاق العمل ووسائل التواصل قبل اختيار الجهة المناسبة.', icon: UsersRound, href: '/providers' },
+  { title: 'تصفح منتجات المشروع', desc: 'انتقل إلى السوق المفتوح للاطلاع على المواد والمنتجات والعروض المنشورة.', icon: ShoppingBag, href: MARKET_URL },
 ];
 
 const trustBadges = [
@@ -83,10 +83,10 @@ const englishCopy = {
     { title: 'Content structured for search and AI', desc: 'We help search engines and AI systems understand and discover your specialty.', icon: Sparkles },
   ],
   experienceCards: [
-    { title: 'A clear path', desc: 'Every visitor starts from an understandable gateway instead of scattered pages.', icon: Search },
-    { title: 'Weyaak is available', desc: 'The smart assistant connects each question to the right section of the platform.', icon: Compass },
-    { title: 'One visual identity', desc: 'The English experience preserves the same trusted Biet Al Reef interface.', icon: Languages },
-    { title: 'Built to grow', desc: 'Every section is connected to structured content that can expand and stay current.', icon: Building2 },
+    { title: 'Choose a service location', desc: 'Start with an emirate and city to find services available in your area.', icon: MapPinned, href: '/uae' },
+    { title: 'Ask Weyaak', desc: 'Describe what you need for help choosing a service and your next step.', icon: Bot, href: '/weyaak' },
+    { title: 'Explore businesses', desc: 'Review specialties, coverage and contact options before choosing a business.', icon: UsersRound, href: '/providers' },
+    { title: 'Browse project products', desc: 'Open the market to explore published materials, products and offers.', icon: ShoppingBag, href: MARKET_URL },
   ],
   trustBadges: [
     { title: 'Trust', desc: 'Clearer providers', icon: ShieldCheck },
@@ -122,7 +122,7 @@ const pageText = {
     eyebrow: 'ابدأ من هنا', gatewayTitle: 'اختر بوابة بيت الريف المناسبة', gatewayText: 'اختر المدينة أو الخدمة، وراجع الشركات المناسبة، ثم تواصل معها مباشرة.', explore: 'استكشف الآن',
     providerEyebrow: 'لصاحب النشاط التجاري', providerTitle: 'هل تعمل في مجال المقاولات أو البناء؟', providerText: 'تغيّرت قواعد الظهور في السوق. لم يعد نشاطك بحاجة إلى إعلان مؤقت فقط، بل إلى حضور رقمي منظم يستطيع العملاء ومحركات البحث وأنظمة الذكاء الاصطناعي فهمه والوصول إليه في أي وقت. انضم إلى بيت الريف، وسنساعدك في تقديم خدماتك ومشاريعك ومناطق عملك داخل ملف مهني واضح، وبناء محتوى قابل للاكتشاف على المنصة وGoogle ومحركات الذكاء الاصطناعي. حضور رقمي مستدام لا يتوقف بانتهاء حملة إعلانية، وتتحسن فعاليته مع اكتمال بيانات نشاطك وجودة محتواه.',
     providerPrimaryAction: 'حمّل التطبيق وأدر نشاطك', providerSecondaryAction: 'تعرّف على خطط الانضمام',
-    experienceTitle: 'لا نبيع لك إعلاناً مؤقتاً', experienceText: 'الحملات الإعلانية تنتهي بانتهاء الميزانية. أما بيت الريف فيبني لك حضوراً رقمياً مستداماً يعتمد على تخصصك، خدماتك، محتواك، مستنداتك، وسمعتك المهنية.',
+    experienceTitle: 'ما الذي تحتاجه الآن؟', experienceText: 'اختر المكان أو الشركة أو المنتج، أو اطلب مساعدة وياك لتحديد الخطوة المناسبة.',
     h1: 'منصة بيت الريف الذكية', heroText: <>كل ما يحتاجه مشروعك في مكان واحد:<br />شركة أو مهني، خدمة أو منتج، ومساعدة من وياك.</>, heroTitle: <>ابحث... تواصل مباشر<br />أو دع وياك يتولى المهمة</>,
     weyaakAction: 'حمّل التطبيق وتحدث مع وياك', providerAction: 'حمّل التطبيق وأدر نشاطك',
   },
@@ -130,7 +130,7 @@ const pageText = {
     eyebrow: 'Start here', gatewayTitle: 'Choose the right Biet Al Reef gateway', gatewayText: 'Choose a city or service, review suitable businesses, then contact them directly.', explore: 'Explore now',
     providerEyebrow: 'For business owners', providerTitle: 'Do you work in construction or contracting?', providerText: 'The rules of market visibility have changed. Your business needs more than a temporary advertisement; it needs a structured digital presence that customers, search engines and AI systems can understand and discover at any time. Join Biet Al Reef and we will help present your services, projects and coverage areas in a clear professional profile, with discoverable content across the platform, Google and AI search engines. It is a lasting presence that does not end with an advertising campaign and becomes more effective as your business information and content improve.',
     providerPrimaryAction: 'Download the app for your business', providerSecondaryAction: 'Explore membership plans',
-    experienceTitle: 'We do not sell temporary advertising', experienceText: 'Advertising stops when its budget ends. Biet Al Reef builds a lasting digital presence around your specialty, services, content, documents and professional reputation.',
+    experienceTitle: 'What do you need today?', experienceText: 'Choose a location, business or product, or ask Weyaak to help you find the next step.',
     h1: 'Biet Al Reef Smart Platform', heroText: <>Everything your project needs in one place:<br />a business or professional, a service or product, and help from Weyaak.</>, heroTitle: <>Search and contact directly...<br />or let Weyaak handle the journey</>,
     weyaakAction: 'Download the app and talk to Weyaak', providerAction: 'Download the app for your business',
   },
@@ -295,7 +295,7 @@ export default function HomePage({ locale = 'ar' }) {
             </div>
           </section>
 
-          <section className="deferred-section bg-white py-12 md:py-18"><div className="mx-auto max-w-7xl px-4"><div className="mb-8 text-center"><h2 className="text-3xl font-black text-[#0F3F1A] md:text-4xl">{t.experienceTitle}</h2><p className="mx-auto mt-4 max-w-3xl font-semibold leading-8 text-gray-600">{t.experienceText}</p></div><div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">{content.experienceCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-[#FDFBF7] p-6 shadow-sm ${isEnglish ? 'text-left' : 'text-right'}`}><div className={`mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F4EEDC] text-[#0F4C4A] ${isEnglish ? 'mr-auto' : 'ml-auto'}`}><Icon className="h-7 w-7" strokeWidth={1.7} aria-hidden="true" /></div><h3 className="text-xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm leading-8 text-gray-600">{item.desc}</p></div>; })}</div></div></section>
+          <section className="deferred-section bg-white py-12 md:py-18"><div className="mx-auto max-w-7xl px-4"><div className="mb-8 text-center"><h2 className="text-3xl font-black text-[#0F3F1A] md:text-4xl">{t.experienceTitle}</h2><p className="mx-auto mt-4 max-w-3xl font-semibold leading-8 text-gray-600">{t.experienceText}</p></div><div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">{content.experienceCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-[#FDFBF7] p-6 shadow-sm ${isEnglish ? 'text-left' : 'text-right'}`}><div className={`mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F4EEDC] text-[#0F4C4A] ${isEnglish ? 'mr-auto' : 'ml-auto'}`}><Icon className="h-7 w-7" strokeWidth={1.7} aria-hidden="true" /></div><h3 className="text-xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm leading-8 text-gray-600">{item.desc}</p><Link href={item.href.startsWith('http') ? item.href : `${isEnglish ? '/en' : ''}${item.href}`} className="mt-4 inline-flex min-h-11 items-center gap-2 rounded-xl px-2 text-sm font-bold text-[#0F3F1A] underline decoration-[#D4AF37] underline-offset-4 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">{t.explore}<Arrow className="h-4 w-4" aria-hidden="true" /></Link></div>; })}</div></div></section>
         </main>
         <Footer locale={language} showRequestCTA={false} />
       </div>

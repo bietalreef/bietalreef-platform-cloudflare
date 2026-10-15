@@ -17,11 +17,15 @@ import {
   Building2,
   ChevronDown,
   ChevronUp,
-  Globe2
+  Globe2,
+  Smartphone,
+  Monitor,
+  Tablet
 } from 'lucide-react';
 import PlatformAccessActions from './PlatformAccessActions';
 import { UAE_EMIRATES, SERVICE_CATEGORIES } from '../data/siteTaxonomy';
 import styles from './Navbar.module.css';
+import { APP_EDITIONS } from '../lib/appDiscovery';
 import { MARKET_URL } from '../lib/platformUrls';
 
 const primaryLinks = [
@@ -87,6 +91,7 @@ export default function Navbar({ locale = 'ar' }) {
   const [isOpen, setIsOpen] = useState(false);
   const [platformOpen, setPlatformOpen] = useState(false);
   const [companyOpen, setCompanyOpen] = useState(false);
+  const [appsOpen, setAppsOpen] = useState(false);
   const languageHref = getLocalizedPath(router.asPath || router.pathname || '/', isEnglish ? 'ar' : 'en');
   const prefix = isEnglish ? '/en' : '';
   const localize = (items) => items.map((item) => ({
@@ -187,6 +192,9 @@ export default function Navbar({ locale = 'ar' }) {
                 </div>;
               })}</nav>
               <div className="mt-5 space-y-3">
+                <DrawerSection href={`${prefix}/app`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef apps' : 'تطبيقات بيت الريف'} icon={Smartphone} textDir={textDir} open={appsOpen} onToggle={() => setAppsOpen(value => !value)}>
+                  {APP_EDITIONS.filter(item => item.key !== 'app').map(item => <DrawerLink key={item.key} href={`${prefix}${item.path}`} label={isEnglish ? item.en : item.ar} icon={item.key === 'web-app' ? Monitor : item.key === 'ios' ? Tablet : Smartphone} nested textDir={textDir} active={isActivePath(currentPath, `${prefix}${item.path}`)} onClick={closeMenu} />)}
+                </DrawerSection>
                 <DrawerSection href={`${prefix}/how-it-works`} onNavigate={closeMenu} title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={platformOpen} onToggle={() => setPlatformOpen((value) => !value)}>
                   {localizedPlatformLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>

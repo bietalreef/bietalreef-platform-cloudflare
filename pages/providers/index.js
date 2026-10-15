@@ -42,8 +42,8 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'مزودو الخدمات في بيت الريف',
-    description: 'قسم مستقل لمزودي الخدمات في الإمارات: مقاولون، موردون، ورش، مصانع، مكاتب هندسية وحرفيون.',
+    name: 'الشركات والمهنيون في بيت الريف',
+    description: 'قسم مستقل لالشركات والمهنيين في الإمارات: مقاولون، موردون، ورش، مصانع، مكاتب هندسية وحرفيون.',
     url: 'https://bietalreef.ae/providers',
     mainEntity: providers.map((provider) => ({
       '@type': 'LocalBusiness',
@@ -57,7 +57,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
   return (
     <div dir="rtl" className="min-h-screen bg-[#FDFBF7]">
       <SEOHead
-        title="مزودو الخدمات | مقاولون وموردون وحرفيون | بيت الريف"
+        title="الشركات والمهنيون | مقاولون وموردون وحرفيون | بيت الريف"
         description="تصفح مزودي خدمات البناء والمقاولات والصيانة والتصميم الداخلي داخل بيت الريف، وافتح الملفات الرقمية أو تعرف على آلية الانضمام."
         keywords="مزودي خدمات الإمارات, مقاولين, موردين, حرفيين, شركات بناء, ورش نجارة, تسجيل مزود خدمة"
         canonicalPath="/providers"
@@ -65,7 +65,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
         structuredData={structuredData}
       />
 
-      <Navbar pageTitle="مزودو الخدمات" />
+      <Navbar pageTitle="الشركات والمهنيون" />
       <SectionBackBar />
 
       <main className="-mt-[1px] [&>section:nth-of-type(2)]:hidden">
@@ -96,7 +96,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
             <div className="relative z-10 mx-auto flex min-h-[600px] max-w-6xl flex-col justify-end px-4 pb-8 pt-20 md:min-h-[680px] md:pb-12 lg:min-h-[740px]">
               <div className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-[#D4AF37]/45 bg-[#123A46]/95 px-4 py-2 text-xs font-black text-white shadow-lg shadow-[#123A46]/22 backdrop-blur-xl md:text-sm">
                 <Users className="h-4 w-4 text-[#F7E7A0]" aria-hidden="true" />
-                بوابة مزودي الخدمات
+                بوابة الشركات والمهنيين
               </div>
 
               <h1 className="max-w-3xl text-4xl font-black leading-tight text-[#0F3F1A] drop-shadow-[0_2px_12px_rgba(255,255,255,0.85)] md:text-6xl">

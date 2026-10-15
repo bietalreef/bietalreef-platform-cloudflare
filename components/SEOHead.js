@@ -5,7 +5,7 @@ const SITE_DOMAIN = 'https://bietalreef.ae';
 const SITE_NAME = 'بيت الريف';
 const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/og-weyaak.jpg';
 const MIRRORED_ENGLISH_ROUTES = new Set([
-  '/', '/about', '/why-biet-alreef', '/how-it-works', '/pricing',
+  '/', '/app', '/android', '/web-app', '/ios', '/about', '/why-biet-alreef', '/how-it-works', '/pricing',
   '/contact', '/services', '/marketplace', '/tools', '/weyaak', '/providers',
   '/categories', '/customer-service', '/privacy', '/legal', '/cookies',
   '/partners', '/suppliers', '/factories', '/faq', '/support-policy', '/providers/register',

@@ -1,0 +1,8 @@
+.layer { position: fixed; inset: 0; z-index: 100; visibility: hidden; pointer-events: none; transition: visibility 220ms; }
+.open { visibility: visible; pointer-events: auto; }
+.backdrop { opacity: 0; transition: opacity 220ms ease; }
+.drawer { transform: translateX(100%); transition: transform 220ms ease; }
+.open .backdrop { opacity: 1; }
+.open .drawer { transform: translateX(0); }
+.layer a:focus-visible, .layer button:focus-visible { outline: 2px solid #0F3F1A; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { .layer, .backdrop, .drawer { transition: none; } }

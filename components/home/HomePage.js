@@ -37,7 +37,7 @@ const clientJourneyCards = [
 ];
 
 const providerPresenceCards = [
-  { title: 'حضورك حيث يبحث عميلك', desc: 'لا نبيع لك إعلاناً... نبني لك حضوراً رقمياً دائماً في Google، والذكاء الاصطناعي، وبيت الريف.', icon: MapPinned },
+  { title: 'حضورك حيث يبحث عميلك', desc: 'اعرض تخصصك وخدماتك ونطاق عملك في ملف واضح يساعد العملاء على التواصل معك.', icon: MapPinned },
   { title: 'أدوات تشغيل من هاتفك', desc: 'أدر نشاطك التجاري بالكامل من هاتفك. ملف مهني، طلبات، عروض أسعار، ومتابعة أعمالك.', icon: Building2 },
   { title: 'محتوى موجه للبحث والذكاء الاصطناعي', desc: 'نساعد تخصصك على الظهور عبر محتوى منظم يخدم Google ومحركات الذكاء الاصطناعي.', icon: Sparkles },
 ];
@@ -78,7 +78,7 @@ const englishCopy = {
     { title: 'Qualified internal request', desc: 'Turn your need into a structured request matched by activity, area and specialty.', icon: UsersRound },
   ],
   providerPresenceCards: [
-    { title: 'Be present where clients search', desc: 'We build a lasting presence across Google, AI engines and Biet Al Reef—not a temporary ad.', icon: MapPinned },
+    { title: 'Be present where clients search', desc: 'Present your specialties, services and coverage in a clear profile that helps customers contact you.', icon: MapPinned },
     { title: 'Operate from your phone', desc: 'Manage a professional profile, requests, quotations and business follow-up from your phone.', icon: Building2 },
     { title: 'Content structured for search and AI', desc: 'We help search engines and AI systems understand and discover your specialty.', icon: Sparkles },
   ],
@@ -119,20 +119,20 @@ const arabicCopy = {
 
 const pageText = {
   ar: {
-    eyebrow: 'ابدأ من هنا', gatewayTitle: 'اختر بوابة بيت الريف المناسبة', gatewayText: 'كل طريق يبدأ من اختيار القسم الصحيح: مكان، مزود، خدمة، أو منتج.', explore: 'استكشف الآن',
+    eyebrow: 'ابدأ من هنا', gatewayTitle: 'اختر بوابة بيت الريف المناسبة', gatewayText: 'اختر المدينة أو الخدمة، وراجع الشركات المناسبة، ثم تواصل معها مباشرة.', explore: 'استكشف الآن',
     providerEyebrow: 'لصاحب النشاط التجاري', providerTitle: 'هل تعمل في مجال المقاولات أو البناء؟', providerText: 'تغيّرت قواعد الظهور في السوق. لم يعد نشاطك بحاجة إلى إعلان مؤقت فقط، بل إلى حضور رقمي منظم يستطيع العملاء ومحركات البحث وأنظمة الذكاء الاصطناعي فهمه والوصول إليه في أي وقت. انضم إلى بيت الريف، وسنساعدك في تقديم خدماتك ومشاريعك ومناطق عملك داخل ملف مهني واضح، وبناء محتوى قابل للاكتشاف على المنصة وGoogle ومحركات الذكاء الاصطناعي. حضور رقمي مستدام لا يتوقف بانتهاء حملة إعلانية، وتتحسن فعاليته مع اكتمال بيانات نشاطك وجودة محتواه.',
-    providerPrimaryAction: 'حمّل التطبيق وانضم كمزود خدمة', providerSecondaryAction: 'تعرّف على خطط الانضمام',
+    providerPrimaryAction: 'حمّل التطبيق وأدر نشاطك', providerSecondaryAction: 'تعرّف على خطط الانضمام',
     experienceTitle: 'لا نبيع لك إعلاناً مؤقتاً', experienceText: 'الحملات الإعلانية تنتهي بانتهاء الميزانية. أما بيت الريف فيبني لك حضوراً رقمياً مستداماً يعتمد على تخصصك، خدماتك، محتواك، مستنداتك، وسمعتك المهنية.',
     h1: 'منصة بيت الريف الذكية', heroText: <>كل ما يحتاجه مشروعك في مكان واحد:<br />شركة أو مهني، خدمة أو منتج، ومساعدة من وياك.</>, heroTitle: <>ابحث... تواصل مباشر<br />أو دع وياك يتولى المهمة</>,
-    weyaakAction: 'حمّل التطبيق وتحدث مع وياك', providerAction: 'حمّل التطبيق وانضم كمزود خدمة',
+    weyaakAction: 'حمّل التطبيق وتحدث مع وياك', providerAction: 'حمّل التطبيق وأدر نشاطك',
   },
   en: {
-    eyebrow: 'Start here', gatewayTitle: 'Choose the right Biet Al Reef gateway', gatewayText: 'Every journey starts from the right section: place, provider, service or product.', explore: 'Explore now',
+    eyebrow: 'Start here', gatewayTitle: 'Choose the right Biet Al Reef gateway', gatewayText: 'Choose a city or service, review suitable businesses, then contact them directly.', explore: 'Explore now',
     providerEyebrow: 'For business owners', providerTitle: 'Do you work in construction or contracting?', providerText: 'The rules of market visibility have changed. Your business needs more than a temporary advertisement; it needs a structured digital presence that customers, search engines and AI systems can understand and discover at any time. Join Biet Al Reef and we will help present your services, projects and coverage areas in a clear professional profile, with discoverable content across the platform, Google and AI search engines. It is a lasting presence that does not end with an advertising campaign and becomes more effective as your business information and content improve.',
-    providerPrimaryAction: 'Download the app and join as a provider', providerSecondaryAction: 'Explore membership plans',
+    providerPrimaryAction: 'Download the app for your business', providerSecondaryAction: 'Explore membership plans',
     experienceTitle: 'We do not sell temporary advertising', experienceText: 'Advertising stops when its budget ends. Biet Al Reef builds a lasting digital presence around your specialty, services, content, documents and professional reputation.',
     h1: 'Biet Al Reef Smart Platform', heroText: <>Everything your project needs in one place:<br />a business or professional, a service or product, and help from Weyaak.</>, heroTitle: <>Search and contact directly...<br />or let Weyaak handle the journey</>,
-    weyaakAction: 'Download the app and talk to Weyaak', providerAction: 'Download the app and join as a provider',
+    weyaakAction: 'Download the app and talk to Weyaak', providerAction: 'Download the app for your business',
   },
 };
 
@@ -225,6 +225,10 @@ export default function HomePage({ locale = 'ar' }) {
                   <h1 className="text-3xl font-black leading-tight text-[#0F3F1A] md:text-5xl">{t.h1}</h1>
                   <p className="mx-auto mt-4 max-w-2xl text-base font-bold leading-8 text-gray-700 md:mx-0 md:text-xl">{t.heroText}</p>
                   <h2 className="mt-5 text-2xl font-black leading-tight text-[#0F3F1A] md:mt-8 md:text-4xl">{t.heroTitle}</h2>
+                  <div className="mt-6 flex flex-wrap justify-center gap-3 md:justify-start" dir="rtl">
+                    <Link href={`${isEnglish ? '/en' : ''}/services`} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-5 py-3 text-sm font-bold text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"><Search className="h-4 w-4" aria-hidden="true" /><span dir={isEnglish ? 'ltr' : 'rtl'}>{isEnglish ? 'Find a service' : 'ابحث عن خدمة'}</span></Link>
+                    <Link href={`${isEnglish ? '/en' : ''}/uae`} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl border border-[#E6DCC8] bg-white px-5 py-3 text-sm font-bold text-[#0F3F1A] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2"><MapPinned className="h-4 w-4" aria-hidden="true" /><span dir={isEnglish ? 'ltr' : 'rtl'}>{isEnglish ? 'Choose your location' : 'اختر مدينتك'}</span></Link>
+                  </div>
                 </div>
               </div>
             </div>
@@ -271,13 +275,13 @@ export default function HomePage({ locale = 'ar' }) {
 
           <section className="deferred-section mx-auto max-w-7xl px-4 py-8 md:py-12">
             <div className={`mb-6 text-center ${isEnglish ? 'md:text-left' : 'md:text-right'}`}><span className="text-sm font-black text-[#6F5400]">{t.eyebrow}</span><h2 className="mt-2 text-3xl font-black text-[#0F3F1A] md:text-5xl">{t.gatewayTitle}</h2><p className="mt-4 max-w-4xl text-base leading-8 text-gray-600 md:text-lg">{t.gatewayText}</p></div>
-            <div className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-4">
+            <div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-4">
               {content.gatewayCards.map((card) => <GatewayCard key={card.href} card={card} explore={t.explore} isEnglish={isEnglish} />)}
             </div>
           </section>
 
           <section className="deferred-section mx-auto max-w-7xl px-4 py-8 md:py-12">
-            <div className="grid grid-cols-1 gap-5 md:grid-cols-3">{content.clientJourneyCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-white p-7 shadow-sm transition-shadow hover:shadow-md ${isEnglish ? 'text-left' : 'text-right'}`}><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#0F3F1A] text-white shadow-lg shadow-[#0F3F1A]/15"><Icon className="h-7 w-7" aria-hidden="true" /></div><h3 className="text-2xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm font-semibold leading-8 text-gray-600">{item.desc}</p></div>; })}</div>
+            <div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-3">{content.clientJourneyCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-white p-7 shadow-sm transition-shadow hover:shadow-md ${isEnglish ? 'text-left' : 'text-right'}`}><div className="mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#0F3F1A] text-white shadow-lg shadow-[#0F3F1A]/15"><Icon className="h-7 w-7" aria-hidden="true" /></div><h3 className="text-2xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm font-semibold leading-8 text-gray-600">{item.desc}</p></div>; })}</div>
           </section>
 
           <PlatformStoryVideo locale={language} />
@@ -285,13 +289,13 @@ export default function HomePage({ locale = 'ar' }) {
           <section className="deferred-section bg-[#FDFBF7] py-12 text-gray-900 md:py-18">
             <div className="mx-auto max-w-7xl px-4">
               <div className="mb-7 text-center md:mb-10"><span className="text-sm font-black text-[#6F5400]">{t.providerEyebrow}</span><h2 className="mx-auto mt-3 max-w-4xl text-3xl font-black leading-tight text-[#0F3F1A] md:text-5xl">{t.providerTitle}</h2><p className="mx-auto mt-5 max-w-5xl text-base font-semibold leading-9 text-gray-600 md:text-lg">{t.providerText}</p><div className="mt-6 flex flex-col justify-center gap-3 sm:flex-row"><a href={GOOGLE_PLAY_URL} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-12 items-center justify-center rounded-2xl bg-[#0F4C4A] px-7 py-3 text-sm font-black text-white transition hover:bg-[#17615E]">{t.providerPrimaryAction}</a><Link href={`${isEnglish ? '/en' : ''}/pricing`} className="inline-flex min-h-12 items-center justify-center rounded-2xl border border-[#D8C59F] bg-white px-7 py-3 text-sm font-black text-[#0F3F1A] transition hover:border-[#D4AF37] hover:bg-[#FFF9E8]">{t.providerSecondaryAction}</Link></div></div>
-              <div className="grid grid-cols-1 gap-5 md:grid-cols-3">
+              <div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-3">
                 {content.providerPresenceCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`relative overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white p-7 shadow-sm transition hover:-translate-y-1 hover:shadow-xl ${isEnglish ? 'text-left' : 'text-right'}`}><div className="absolute -left-12 -top-12 h-32 w-32 rounded-full bg-[#D4AF37]/10" /><div className={`relative mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F7F2E8] text-[#B0912F] shadow-sm ${isEnglish ? 'mr-auto' : 'ml-auto'}`}><Icon className="h-7 w-7" aria-hidden="true" /></div><h3 className="relative text-2xl font-black text-[#0F3F1A]">{item.title}</h3><p className="relative mt-3 text-sm font-semibold leading-8 text-gray-600">{item.desc}</p></div>; })}
               </div>
             </div>
           </section>
 
-          <section className="deferred-section bg-white py-12 md:py-18"><div className="mx-auto max-w-7xl px-4"><div className="mb-8 text-center"><h2 className="text-3xl font-black text-[#0F3F1A] md:text-4xl">{t.experienceTitle}</h2><p className="mx-auto mt-4 max-w-3xl font-semibold leading-8 text-gray-600">{t.experienceText}</p></div><div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">{content.experienceCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-[#FDFBF7] p-6 shadow-sm ${isEnglish ? 'text-left' : 'text-right'}`}><div className={`mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F4EEDC] text-[#0F4C4A] ${isEnglish ? 'mr-auto' : 'ml-auto'}`}><Icon className="h-7 w-7" strokeWidth={1.7} aria-hidden="true" /></div><h3 className="text-xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm leading-8 text-gray-600">{item.desc}</p></div>; })}</div></div></section>
+          <section className="deferred-section bg-white py-12 md:py-18"><div className="mx-auto max-w-7xl px-4"><div className="mb-8 text-center"><h2 className="text-3xl font-black text-[#0F3F1A] md:text-4xl">{t.experienceTitle}</h2><p className="mx-auto mt-4 max-w-3xl font-semibold leading-8 text-gray-600">{t.experienceText}</p></div><div dir="rtl" className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">{content.experienceCards.map((item) => { const Icon = item.icon; return <div key={item.title} dir={isEnglish ? 'ltr' : 'rtl'} className={`rounded-[2rem] border border-[#E6DCC8] bg-[#FDFBF7] p-6 shadow-sm ${isEnglish ? 'text-left' : 'text-right'}`}><div className={`mb-5 flex h-14 w-14 items-center justify-center rounded-2xl bg-[#F4EEDC] text-[#0F4C4A] ${isEnglish ? 'mr-auto' : 'ml-auto'}`}><Icon className="h-7 w-7" strokeWidth={1.7} aria-hidden="true" /></div><h3 className="text-xl font-black text-[#0F3F1A]">{item.title}</h3><p className="mt-3 text-sm leading-8 text-gray-600">{item.desc}</p></div>; })}</div></div></section>
         </main>
         <Footer locale={language} showRequestCTA={false} />
       </div>

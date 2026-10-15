@@ -22,6 +22,7 @@ import {
 import PlatformOverviewLink from './PlatformOverviewLink';
 import PlatformAccessActions from './PlatformAccessActions';
 import { UAE_EMIRATES, SERVICE_CATEGORIES } from '../data/siteTaxonomy';
+import styles from './Navbar.module.css';
 import { MARKET_URL } from '../lib/platformUrls';
 
 const primaryLinks = [
@@ -45,7 +46,7 @@ const companyLinks = [
 function isActivePath(pathname, href) {
   if (!href || href.startsWith('http') || href.startsWith('tel:') || href.startsWith('mailto:')) return false;
   const cleanHref = href.split('?')[0];
-  if (cleanHref === '/') return pathname === '/';
+  if (cleanHref === '/' || cleanHref === '/en') return pathname === cleanHref;
   return pathname === cleanHref || pathname.startsWith(`${cleanHref}/`);
 }
 
@@ -60,13 +61,13 @@ function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, 
   return <Link href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</Link>;
 }
 
-function DrawerSection({ title, icon: Icon, open, onToggle, children, textDir = 'rtl' }) {
+function DrawerSection({ title, href, onNavigate, icon: Icon, open, onToggle, children, textDir = 'rtl' }) {
   return (
     <div className="border-t border-gray-100 pt-3">
-      <button type="button" onClick={onToggle} className="flex w-full items-center justify-between rounded-2xl px-3 py-3 text-right text-[15px] font-bold text-gray-800 hover:bg-primary/5" aria-expanded={open}>
-        <span className="flex items-center gap-3"><Icon className="h-5 w-5 text-primary" /><span dir={textDir}>{title}</span></span>
-        {open ? <ChevronUp className="h-4 w-4 text-primary" /> : <ChevronDown className="h-4 w-4 text-gray-500" />}
-      </button>
+      <div className="flex items-center">
+        <Link href={href} onClick={onNavigate} className="flex min-h-11 min-w-0 flex-1 items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-bold text-gray-800 hover:bg-primary/5"><Icon className="h-5 w-5 shrink-0 text-primary" /><span dir={textDir}>{title}</span></Link>
+        <button type="button" onClick={onToggle} className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl text-primary hover:bg-primary/5" aria-expanded={open} aria-label={textDir === 'ltr' ? `Toggle ${title}` : `أقسام ${title}`}><ChevronDown className={`h-4 w-4 transition-transform ${open ? 'rotate-180' : ''}`} /></button>
+      </div>
       <div hidden={!open} className="mt-1 space-y-1 pb-2">{children}</div>
     </div>
   );
@@ -112,6 +113,9 @@ export default function Navbar({ locale = 'ar' }) {
     if (!isOpen) return;
     const previousFocus = document.activeElement;
     const previousOverflow = document.body.style.overflow;
+    const background = [...document.querySelectorAll('main, header, footer')].filter((element) => !drawer.current?.contains(element));
+    const inertValues = background.map((element) => element.inert);
+    background.forEach((element) => { element.inert = true; });
     document.body.style.overflow = 'hidden';
     drawer.current?.querySelector('button')?.focus();
     const onKey = (event) => {
@@ -128,6 +132,7 @@ export default function Navbar({ locale = 'ar' }) {
     router.events.on('routeChangeStart', onNavigation);
     return () => {
       document.body.style.overflow = previousOverflow;
+      background.forEach((element, index) => { element.inert = inertValues[index]; });
       document.removeEventListener('keydown', onKey);
       window.removeEventListener('popstate', onNavigation);
       router.events.off('routeChangeStart', onNavigation);
@@ -138,12 +143,12 @@ export default function Navbar({ locale = 'ar' }) {
   return (
     <>
       <header className="fixed inset-x-0 top-0 z-50 w-full border-b border-gray-100 bg-white/95 shadow-sm backdrop-blur" dir="rtl">
-        <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-2.5" dir="rtl">
+        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-3 py-2.5 sm:px-4" dir="rtl">
           <div className="flex min-w-0 items-center gap-2" dir="rtl">
           <button ref={menuButton} type="button" onClick={() => setIsOpen(true)} aria-expanded={isOpen} aria-controls="platform-navigation" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-gray-200 text-primary shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2" aria-label={isEnglish ? 'Open menu' : 'فتح القائمة'}><Menu className="h-6 w-6" /></button>
-          <Link href={isEnglish ? '/en' : '/'} className="flex flex-shrink-0 items-center gap-2">
+          <Link href={isEnglish ? '/en' : '/'} className="flex min-w-0 items-center gap-2">
             <div className="relative h-11 w-11"><Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={44} height={44} className="h-full w-full object-contain" loading="eager" /></div>
-            <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-sm font-bold text-primary">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="text-xs text-gray-500">{isEnglish ? 'Smart building platform' : 'منصة البناء الذكية'}</span></div>
+            <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-sm font-bold text-primary">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="hidden text-xs text-gray-500 min-[360px]:block">{isEnglish ? 'Smart building platform' : 'منصة البناء الذكية'}</span></div>
           </Link>
 
           </div>
@@ -155,16 +160,16 @@ export default function Navbar({ locale = 'ar' }) {
       </header>
       <div className="h-[65px] w-full" aria-hidden="true" />
 
-      <div hidden={!isOpen} className="fixed inset-0 z-[100]" dir="rtl">
-          <button type="button" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'} onClick={closeMenu} className="absolute inset-0 bg-black/35 backdrop-blur-[2px]" />
-          <aside ref={drawer} id="platform-navigation" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Main navigation' : 'القائمة الرئيسية'} className="absolute bottom-0 right-0 top-0 flex w-[88vw] max-w-[410px] flex-col rounded-l-[28px] bg-white shadow-2xl" dir={textDir}>
+      <div className={`${styles.layer} ${isOpen ? styles.open : ''}`} aria-hidden={!isOpen} dir="rtl">
+          <button type="button" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'} onClick={closeMenu} tabIndex={-1} className={`${styles.backdrop} absolute inset-0 bg-black/35 backdrop-blur-[2px]`} />
+          <aside ref={drawer} id="platform-navigation" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Main navigation' : 'القائمة الرئيسية'} className={`${styles.drawer} absolute bottom-0 right-0 top-0 flex w-[88vw] max-w-[410px] flex-col rounded-l-[28px] bg-white shadow-2xl`} dir={textDir}>
             <div className="flex items-center justify-between border-b border-gray-100 px-5 py-4">
               <button type="button" onClick={closeMenu} className="flex h-10 w-10 items-center justify-center rounded-full text-gray-900 hover:bg-gray-100" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'}><X className="h-6 w-6" /></button>
               <Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={72} height={72} className="h-16 w-16 object-contain" />
               <span className="h-10 w-10" />
             </div>
 
-            <div className="flex-1 overflow-y-auto px-5 py-4">
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain px-4 py-4">
               <nav aria-label={isEnglish ? 'Sections' : 'الأقسام'} className="space-y-1">{localizedPrimaryLinks.map((item, index) => {
                 const children = childrenFor(item.href);
                 const panelId = `navigation-section-${index}`;
@@ -175,10 +180,10 @@ export default function Navbar({ locale = 'ar' }) {
                 </div>;
               })}</nav>
               <div className="mt-5 space-y-3">
-                <DrawerSection title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={platformOpen} onToggle={() => setPlatformOpen((value) => !value)}>
+                <DrawerSection href={`${prefix}/how-it-works`} onNavigate={closeMenu} title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={platformOpen} onToggle={() => setPlatformOpen((value) => !value)}>
                   {localizedPlatformLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>
-                <DrawerSection title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={companyOpen} onToggle={() => setCompanyOpen((value) => !value)}>
+                <DrawerSection href={`${prefix}/about`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={companyOpen} onToggle={() => setCompanyOpen((value) => !value)}>
                   {localizedCompanyLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>
               </div>
@@ -186,7 +191,6 @@ export default function Navbar({ locale = 'ar' }) {
 
             <div className="border-t border-gray-100 p-5 pb-[max(env(safe-area-inset-bottom),20px)]">
               <PlatformAccessActions locale={isEnglish ? 'en' : 'ar'} compact className="mb-3" />
-              <div className="mb-3 grid grid-cols-2 gap-2"><span className="flex items-center justify-center gap-2 rounded-2xl border border-[#E6DCC8] px-4 py-3 text-sm font-black text-primary">{isEnglish ? 'English' : 'AE عربي'}</span><LanguageSwitch href={languageHref} mobile onClick={closeMenu} label={isEnglish ? 'AR' : 'EN'} ariaLabel={isEnglish ? 'النسخة العربية' : 'English version'} /></div>
               <PlatformOverviewLink className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></PlatformOverviewLink>
             </div>
           </aside>

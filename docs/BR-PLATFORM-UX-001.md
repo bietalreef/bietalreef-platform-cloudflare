@@ -1,32 +1,59 @@
-# BR-PLATFORM-UX-001 — implementation checkpoint
+# BR-PLATFORM-UX-001 — تقرير التنفيذ والنشر التجريبي
 
-Baseline: `bbb329dbe196dd34ca05333150330741f7e87186` (`master`).
-Branch: `br-platform-ux-001`. No production/DNS/other repository changes.
+تاريخ المراجعة: 15 أكتوبر 2026. الحالة: **الواجهة الرئيسية والتنقل منشوران تجريبيًا؛ قبول المهمة الشاملة ما زال جزئيًا**.
 
-## Reuse and changes
-- Existing shared Navbar: fixed right-hand menu trigger followed by original logo/name, language control at far left in both locales.
-- Drawer stays right with locale-specific text direction; existing primary order retained.
-- Added independent section expansion using existing UAE_EMIRATES and SERVICE_CATEGORIES, rendered as HTML links even while collapsed.
-- Added modal semantics, Escape, focus trap/restore, scroll lock and navigation/popstate closure.
-- Extracted existing locale path helper without changing routes; tests cover query/hash round trips, category aliases and city service routes.
-- Existing shared HomePage and directory hero: business/professional labels, customer-oriented gateway description, stable gateway order.
-- Existing SmartEntityCard: neutral business/professional fallback; no invented verification or presence added.
-- Dependency install was rejected by environment minimum-release-age policy for existing dotenvx 2.36.0 and qs 6.16.1. Re-resolved with older overrides (2.35.0 / 6.15.0), without relaxing policy. Lockfile refresh also resolves compatible patch/minor versions in existing ranges; requires review.
+## 1. النسخ والمستودع
+- المستودع: bietalreef/bietalreef-platform-cloudflare.
+- أحدث master عند بدء المراجعة وإعادة الفحص: bbb329dbe196dd34ca05333150330741f7e87186.
+- فرع العمل: br-platform-ux-001؛ PR #7 مفتوح كمسودة؛ لم يُدمج في master.
+- Commit الكود المنشور: 1e0867f81f390f99062e40ec1218121d06a60543.
+- النسخة: https://bietalreef-platform-staging.bietalreef.workers.dev/
+- Cloudflare Build: 1a41c14e-cde9-4526-aab7-56d55ade36eb — success.
+- Deployment: 86d4523d-c3c6-4bb1-9925-39c5803df6f8.
+- Worker Version: add5a883-4452-4596-97e2-2dbaaf694329 — 100%.
+- وقت النشر: 2026-10-15T02:40:39Z، أي 06:40 بتوقيت الإمارات.
 
-## Validation
-- Site structure audit: passes, 22 bilingual pairs.
-- Existing local service/growth tests + 3 locale navigation cases: 24/24 pass.
-- Next.js production compilation: passes. Static generation runs without public Supabase configuration locally, so database-backed coverage is NOT accepted on that build.
-- Existing staging homepage inspected in browser before changes; old left drawer/header confirmed.
+## 2. المكونات المعاد استخدامها والملفات
+أُعيد استخدام Navbar وHomePage وProvidersDirectoryHero وSmartEntityCard وFooter، والأصول الحالية، ومسارات الصفحات، وUAE_EMIRATES وSERVICE_CATEGORIES. لم ينشأ نظام حسابات أو رسائل أو قاعدة بيانات موازية.
 
-## Not completed / acceptance blockers
-- Full browser QA for new code (mobile/tablet/desktop), focus/back/outside-click and visual parity.
-- Live data and all submenu destination verification; existing presentation taxonomy must be checked against current database taxonomy.
-- Six business-entity groups require mapping to existing legal identity/activity data, not a parallel taxonomy.
-- Existing platform cards expose profile/WhatsApp, not documented Flutter chat/follow deep links. Do not invent routes; chat/follow/RFQ end-to-end is pending existing Flutter contract inspection.
-- Full homepage copy review, profile/service/offer card requirements and site-wide naming migration remain incomplete.
-- No staging deployment or deployment ID for these changes yet. No after screenshots yet.
+الملفات المعدلة/المضافة: components/Navbar.js، components/Navbar.module.css، components/home/HomePage.js، components/ProvidersDirectoryHero.js، components/cards/SmartEntityCard.js، components/Footer.js، pages/providers/index.js، pages/en/providers/index.js، lib/navigation.js، scripts/navigation.test.cjs، pnpm-lock.yaml، pnpm-workspace.yaml، وهذا التقرير.
 
-Do not treat this checkpoint, compilation, or tests as full task completion.
+## 3. المنفذ
+- القائمة في أقصى يمين الشريط، ثم الشعار؛ اللغة أقصى اليسار في العربية والإنجليزية.
+- القائمة تفتح من اليمين دائمًا؛ اتجاه النص حسب اللغة، مع ترتيب الأقسام الحالي.
+- أسهم مستقلة لتوسيع الإمارات والخدمات؛ اسم القسم ينقل إلى صفحته.
+- حركة فتح وإغلاق مع احترام تقليل الحركة، وEscape والضغط خارجها، ومنع تمرير/التفاعل مع الخلفية.
+- تركيز زر الإغلاق بعد الفتح، وحصر Tab وShift+Tab وإعادة التركيز إلى زر الفتح عند الإغلاق.
+- تصحيح رابط «تعرّف على المنصة» داخل القائمة الإنجليزية ليبقى إنجليزيًا.
+- إضافة «ابحث عن خدمة» و«اختر مدينتك» في المقدمة، ومعالجة تغطية البطاقات لهما.
+- ثبات ترتيب بوابات الرئيسية في اللغتين، مع الإبقاء على الصور والألوان والشعار.
+- تحديث المسميات في التنقل والرئيسية ودليل الشركات والتذييل، وإزالة الادعاء العام «مزودون موثوقون» من بوابة الرئيسية.
+- إبقاء روابط التنقل في HTML عند إغلاق القائمة؛ المحافظة على آلية تبديل اللغة مع query/hash.
+- إزالة تداخل شريط الخصوصية مع القائمة دون تغيير سياسة الموافقة.
 
-Build final result: failed with ENOTEMPTY on .next/export/en/uae/sharjah after successful compilation and generation. This is not a successful full build. Staging deploy is withheld.
+## 4. الاختبارات والأدلة
+- فحص بنية الموقع: ناجح؛ 22 زوجًا ثنائي اللغة.
+- اختبارات خدمات محلية/SEO ونقل اللغة: 24/24 ناجحة.
+- البناء المحلي النظيف: نجح بعد استبعاد مجلد الإخراج السابق. بيانات Supabase العامة غير مهيأة محليًا؛ لذلك ليس دليلًا على اكتمال البيانات.
+- بناء OpenNext/Cloudflare بالإعدادات الحالية على الفرع: ناجح؛ التحقق لم يقتصر عليه.
+- فحص متصفح فعلي للرئيسية العربية والإنجليزية؛ مواضع الشريط والقائمة، التوسيع دون انتقال، Escape، Tab/Shift+Tab، الضغط خارج القائمة: ناجحة على عرض سطح المكتب.
+- المحافظة على سياق الشركة: تغيير اللغة من /providers/alrehab-home-clean?city=al-ain#services وصل إلى النظير الإنجليزي مع query/hash.
+- فحص صفحات /services و/en/services و/providers و/en/providers وصفحتي العين: ظهرت H1 وcanonical الإنتاج وبدائل اللغة؛ لا overflow أفقي في العرض المختبر.
+- فحص دليل تنظيف العين وصفحة home-villa-cleaning: ظهر محتوى الخدمة وملف الرحاب وروابط الاتصال وواتساب الحالية. لم تُرسل رسائل ولم تُجر مكالمات فعلية.
+- سجل المتصفح المفحوص: لا أخطاء صادرة عن الموقع؛ رسائل إضافة المتصفح استُبعدت من أخطاء المنتج.
+- صور قبل/بعد للعربية والإنجليزية وصورة القائمة محفوظة ومرفقة بالتسليم.
+
+## 5. SEO وCloudflare وحدود الحماية
+لم تتغير URLs أو قواعد Canonical أو hreflang أو Sitemap أو Robots أو عقود Supabase. canonical في الصفحات المفحوصة ما زال على bietalreef.ae. بقيت حماية noindex الخاصة بـworkers.dev في middleware دون تغيير، ولم تُطلب فهرسة. تعذّر فحص HTTP المستقل من بيئة الأوامر (403)، لذلك لا ندعي قياس رؤوس الاستجابة أو Core Web Vitals في هذا التشغيل.
+
+لم يتغير DNS أو الإنتاج أو Vercel أو السوق أو تطبيق Flutter أو MX. نُشرت التعديلات إلى Worker التجريبي فقط من فرع العمل.
+
+## 6. اعتماديات البناء
+رفضت سياسة البيئة القفل السابق بسبب حد عمر نشر dotenvx 2.36.0 وqs 6.16.1. استُخدمت overrides لنسخ أقدم 2.35.0 و6.15.0 دون تعطيل السياسة. إعادة الحل حدّثت بعض النسخ المتوافقة ضمن الحدود الموجودة؛ يبقى فرق القفل ضمن مراجعة PR. لم تُضف مكتبة واجهة جديدة.
+
+## 7. ما لم يُنجز بعد — لا يُعد معتمدًا
+- اختبار هاتف وتابلت فعلي أو محاكاة أحجام موثقة، وفحص جميع الروابط الفرعية وCore Web Vitals.
+- اعتماد التصنيفات الستة وربطها بالهوية القانونية/النشاط في البيانات الحالية. لم نحول تصنيفات النشاط الحالية إلى كيانات قانونية أو ننشئ تصنيفات موازية.
+- استكمال جميع بطاقات الشركات بالأزرار الخمسة، وحالة الاتصال والتقييمات الحية، ومراجعة المحتوى العام لكل الملفات.
+- فحص كود Flutter main.dart أثبت وجود رابط ملف الشركة بالرقم BR/معرف الشركة واحتفاظه بسياق الدخول، ولم يثبت مسار URL يفتح الرسالة أو ينفذ المتابعة مباشرة. لم نختلق مسارات أو ننشئ نظام محادثات جديدًا. الربط المباشر يحتاج عقدًا موجودًا يُثبت أو تعديلًا متوافقًا في التطبيق ضمن مهمة منفصلة.
+- لا يجوز إعلان اكتمال BR-PLATFORM-UX-001 ككل أو نقل الإنتاج اعتمادًا على هذه الدفعة.

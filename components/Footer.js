@@ -170,7 +170,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
               <h2 className="mt-2 text-2xl font-black leading-tight text-[#102F18]">{t.promoTitle}</h2>
               <p className="mt-3 max-w-3xl text-sm font-semibold leading-7 text-gray-600">{t.promoText}</p>
             </div>
-            <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-xs" />
+            <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-sm" />
           </div>
           <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.4fr_repeat(5,minmax(0,1fr))]">
             <div className={`text-center lg:col-span-2 xl:col-span-1 ${desktopAlign}`}>

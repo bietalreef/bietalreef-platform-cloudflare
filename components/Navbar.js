@@ -56,24 +56,25 @@ function isActivePath(pathname, href) {
 export { getLocalizedPath } from '../lib/navigation';
 import { getLocalizedPath } from '../lib/navigation';
 
-function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, textDir = 'rtl' }) {
+function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, sticker, textDir = 'rtl' }) {
   const external = href?.startsWith('http');
-  const content = <><Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary/90'}`} /><span dir={textDir}>{label}</span></>;
+  const content = <>{sticker ? <span className={styles.sticker} aria-hidden="true">{sticker}</span> : <Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary/90'}`} />}<span dir={textDir}>{label}</span></>;
   const className = `flex items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-semibold transition ${active ? 'bg-primary/8 text-primary' : 'text-gray-800 hover:bg-primary/5 hover:text-primary'} ${nested ? 'ms-8' : ''}`;
   if (external) return <a href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</a>;
   return <Link href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</Link>;
 }
 
 function DrawerSection({ title, href, onNavigate, icon: Icon, open, onToggle, children, textDir = 'rtl' }) {
-  return (
-    <div className="border-t border-gray-100 pt-3">
-      <div className="flex items-center">
-        <Link href={href} onClick={onNavigate} className="flex min-h-11 min-w-0 flex-1 items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-bold text-gray-800 hover:bg-primary/5"><Icon className="h-5 w-5 shrink-0 text-primary" /><span dir={textDir}>{title}</span></Link>
-        <button type="button" onClick={onToggle} className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl text-primary hover:bg-primary/5" aria-expanded={open} aria-label={textDir === 'ltr' ? `Toggle ${title}` : `أقسام ${title}`}><ChevronDown className={`h-4 w-4 transition-transform ${open ? 'rotate-180' : ''}`} /></button>
-      </div>
-      <div hidden={!open} className="mt-1 space-y-1 pb-2">{children}</div>
+  const id = `drawer-group-${href.replace(/[^a-z0-9]/gi, '-')}`;
+  return <section className={styles.group}>
+    <button type="button" onClick={onToggle} className={styles.groupToggle} aria-expanded={open} aria-controls={id}>
+      <span className={styles.groupIcon}><Icon aria-hidden="true" /></span><span dir={textDir}>{title}</span><ChevronDown className={open ? styles.chevronOpen : ''} aria-hidden="true" />
+    </button>
+    <div id={id} hidden={!open} className={styles.groupChildren}>
+      <DrawerLink href={href} label={textDir === 'ltr' ? `Explore ${title}` : `استعرض ${title}`} icon={Icon} onClick={onNavigate} textDir={textDir} />
+      {children}
     </div>
-  );
+  </section>;
 }
 
 function LanguageSwitch({ href, mobile = false, onClick, label = 'EN', ariaLabel = 'English version' }) {
@@ -89,9 +90,8 @@ export default function Navbar({ locale = 'ar' }) {
   const isEnglish = locale === 'en';
   const textDir = isEnglish ? 'ltr' : 'rtl';
   const [isOpen, setIsOpen] = useState(false);
-  const [platformOpen, setPlatformOpen] = useState(false);
-  const [companyOpen, setCompanyOpen] = useState(false);
-  const [appsOpen, setAppsOpen] = useState(false);
+  const [openGroup, setOpenGroup] = useState(null);
+  const toggleGroup = (key) => setOpenGroup(current => current === key ? null : key);
   const languageHref = getLocalizedPath(router.asPath || router.pathname || '/', isEnglish ? 'ar' : 'en');
   const prefix = isEnglish ? '/en' : '';
   const localize = (items) => items.map((item) => ({
@@ -105,12 +105,12 @@ export default function Navbar({ locale = 'ar' }) {
   const closeMenu = () => setIsOpen(false);
   const menuButton = useRef(null);
   const drawer = useRef(null);
-  const [expanded, setExpanded] = useState({});
   const currentPath = (router.asPath || '/').split(/[?#]/)[0];
   // Use the existing taxonomy and routes; do not download a second directory.
   const childrenFor = (href) => {
     if (href === `${prefix}/uae`) return UAE_EMIRATES.map((entry) => ({ href: `${prefix}/uae/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: MapPin }));
-    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench }));
+    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench, sticker: entry.icon }));
+    if (href === `${prefix}/providers`) return SERVICE_CATEGORIES.map(entry => ({ href: `${prefix}/providers/specialty/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: UserRound, sticker: entry.icon }));
     return [];
   };
   useEffect(() => {
@@ -181,30 +181,29 @@ export default function Navbar({ locale = 'ar' }) {
               <span className="h-10 w-10" />
             </div>
 
-            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain px-4 py-4">
-              <nav aria-label={isEnglish ? 'Sections' : 'الأقسام'} className="space-y-1">{localizedPrimaryLinks.map((item, index) => {
+            <div className={styles.drawerScroll}>
+              <p className={styles.groupLabel}>{isEnglish ? 'DISCOVER' : 'التصفح والاكتشاف'}</p>
+              <nav aria-label={isEnglish ? 'Sections' : 'الأقسام'} className={styles.groups}>{localizedPrimaryLinks.map((item) => {
                 const children = childrenFor(item.href);
-                const panelId = `navigation-section-${index}`;
-                return <div key={item.href}>
-                  <div className="flex items-center"><div className="min-w-0 flex-1"><DrawerLink {...item} textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} /></div>
-                  {children.length > 0 && <button type="button" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl text-primary hover:bg-primary/5" aria-label={`${isEnglish ? 'Expand' : 'توسيع'} ${item.label}`} aria-controls={panelId} aria-expanded={Boolean(expanded[item.href])} onClick={() => setExpanded((value) => ({ ...value, [item.href]: !value[item.href] }))}><ChevronDown className={`h-5 w-5 transition-transform motion-reduce:transition-none ${expanded[item.href] ? 'rotate-180' : ''}`} /></button>}</div>
-                  <div id={panelId} hidden={!expanded[item.href]}>{children.map((child) => <DrawerLink key={child.href} {...child} nested textDir={textDir} active={isActivePath(currentPath, child.href)} onClick={closeMenu} />)}</div>
-                </div>;
+                if (!children.length) return <div className={styles.group} key={item.href}><DrawerLink {...item} textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} /></div>;
+                return <DrawerSection key={item.href} href={item.href} title={item.label} icon={item.icon} textDir={textDir} onNavigate={closeMenu} open={openGroup === item.href} onToggle={() => toggleGroup(item.href)}>
+                  {children.map(child => <DrawerLink key={child.href} {...child} textDir={textDir} active={isActivePath(currentPath, child.href)} onClick={closeMenu} />)}
+                </DrawerSection>;
               })}</nav>
-              <div className="mt-5 space-y-3">
-                <DrawerSection href={`${prefix}/app`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef apps' : 'تطبيقات بيت الريف'} icon={Smartphone} textDir={textDir} open={appsOpen} onToggle={() => setAppsOpen(value => !value)}>
+              <div className="mt-5 space-y-3"><p className={styles.groupLabel}>{isEnglish ? 'APPS & INFORMATION' : 'التطبيقات والمعلومات'}</p>
+                <DrawerSection href={`${prefix}/app`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef apps' : 'تطبيقات بيت الريف'} icon={Smartphone} textDir={textDir} open={openGroup === 'apps'} onToggle={() => toggleGroup('apps')}>
                   {APP_EDITIONS.filter(item => item.key !== 'app').map(item => <DrawerLink key={item.key} href={`${prefix}${item.path}`} label={isEnglish ? item.en : item.ar} icon={item.key === 'web-app' ? Monitor : item.key === 'ios' ? Tablet : Smartphone} nested textDir={textDir} active={isActivePath(currentPath, `${prefix}${item.path}`)} onClick={closeMenu} />)}
                 </DrawerSection>
-                <DrawerSection href={`${prefix}/how-it-works`} onNavigate={closeMenu} title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={platformOpen} onToggle={() => setPlatformOpen((value) => !value)}>
+                <DrawerSection href={`${prefix}/how-it-works`} onNavigate={closeMenu} title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={openGroup === 'platform'} onToggle={() => toggleGroup('platform')}>
                   {localizedPlatformLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>
-                <DrawerSection href={`${prefix}/about`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={companyOpen} onToggle={() => setCompanyOpen((value) => !value)}>
+                <DrawerSection href={`${prefix}/about`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={openGroup === 'company'} onToggle={() => toggleGroup('company')}>
                   {localizedCompanyLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>
               </div>
             </div>
 
-            <div className="border-t border-gray-100 p-5 pb-[max(env(safe-area-inset-bottom),20px)]">
+            <div className={styles.drawerFooter}>
               <PlatformAccessActions locale={isEnglish ? 'en' : 'ar'} compact className="mb-3" />
               <Link href={`${prefix}/how-it-works`} className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></Link>
             </div>

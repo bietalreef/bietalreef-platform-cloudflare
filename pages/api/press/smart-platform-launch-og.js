@@ -1,9 +1,13 @@
 import { ImageResponse } from 'next/og';
 
-export const config = { runtime: 'edge' };
+export default async function handler(req, res) {
+  if (req.method !== 'GET') {
+    res.setHeader('Allow', 'GET');
+    return res.status(405).end();
+  }
 
-export default function handler() {
-  return new ImageResponse(
+  try {
+    const image = new ImageResponse(
     (
       <div
         style={{
@@ -48,5 +52,13 @@ export default function handler() {
         'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=2592000',
       },
     },
-  );
+    );
+    const body = Buffer.from(await image.arrayBuffer());
+    res.setHeader('Content-Type', 'image/png');
+    res.setHeader('Cache-Control', 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=2592000');
+    return res.status(200).send(body);
+  } catch (error) {
+    console.error('Press OG image generation failed', { message: error?.message });
+    return res.status(500).end();
+  }
 }

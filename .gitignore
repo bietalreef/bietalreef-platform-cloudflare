@@ -10,3 +10,8 @@ rclone_*.conf
 .DS_Store
 
 supabase/.temp/
+
+# Cloudflare staging build outputs
+.open-next/
+.wrangler/
+cloudflare-env.d.ts

@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowRight, Search, MapPin, Building2, Wrench, ShoppingBag, 
 import { SERVICE_CATEGORIES } from '../../data/siteTaxonomy';
 import { MARKET_URL, PROVIDERS_APP_URL } from '../../lib/platformUrls';
 import styles from './ProjectDiscovery.module.css';
+import PlatformStoryVideo from '../PlatformStoryVideo';
 
 const copy = {
   ar: {
@@ -74,6 +75,8 @@ export default function ProjectDiscovery({ locale = 'ar' }) {
     <section className={`${styles.section} ${styles.weyaak}`} aria-labelledby="home-weyaak-title"><div className={styles.weyaakMark}><Image src="/icons/logo-512.webp" alt="" width={62} height={62}/></div><div><span className={styles.eyebrow}>{en?'WEYAAK':'وياك'}</span><h2 id="home-weyaak-title">{t.weyaak}</h2><p>{t.weyaakText}</p></div><a className={styles.primary} href={PROVIDERS_APP_URL}>{t.ask}<Arrow aria-hidden="true"/></a></section>
 
     <section className={styles.section} aria-labelledby="identity-title"><div className={styles.sectionHead}><div><span className={styles.eyebrow}>{en?'CONNECTED CHANNELS':'قنوات مترابطة'}</span><h2 id="identity-title">{t.identity}</h2><p>{t.identityText}</p></div></div><div className={styles.channelGrid}>{[[Smartphone,t.appTitle,t.appText,`${prefix}/web-app`],[ShoppingBag,t.marketTitle,t.marketText,MARKET_URL],[Globe2,t.platformTitle,t.platformText,`${prefix}/how-it-works`]].map(([Icon,title,text,href])=><Link key={title} href={href} className={styles.channel}><Icon aria-hidden="true"/><h3>{title}</h3><p>{text}</p><Arrow aria-hidden="true"/></Link>)}</div></section>
+
+    <PlatformStoryVideo locale={en ? 'en' : 'ar'} />
 
     <section className={`${styles.section} ${styles.owner}`} aria-labelledby="owner-title"><div><span className={styles.eyebrow}>{t.work}</span><h2 id="owner-title">{t.workTitle}</h2><p>{t.workText}</p></div><div className={styles.actions}><a className={styles.primary} href={PROVIDERS_APP_URL}>{t.openApp}<Arrow aria-hidden="true"/></a><Link className={styles.secondary} href={`${prefix}/app`}>{t.editions}<Smartphone aria-hidden="true"/></Link></div></section>
   </div>;

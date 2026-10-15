@@ -1,8 +1,6 @@
 name: Cloudflare staging — local SEO contract tests
 on:
-  push:
-    branches: [feat/cloudflare-opennext-staging-20261015]
-    paths: [.github/workflows/cloudflare-staging-qa.yml]
+  workflow_dispatch:
 permissions:
   contents: read
 jobs:

@@ -26,7 +26,7 @@ export default function DiscoveryDirectoryHero({ type, locale = 'ar' }) {
   const Icon = section.Icon;
 
   return (
-    <section dir={isAr ? 'rtl' : 'ltr'} className="bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10">
+    <section dir={isAr ? 'rtl' : 'ltr'} className="br-discovery-hero bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10">
       <div className="mx-auto max-w-6xl overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white shadow-[0_20px_55px_rgba(18,58,70,0.08)] md:rounded-[2.5rem]">
         <div className="grid lg:grid-cols-[1.05fr_.95fr] lg:items-stretch">
           <div className="flex flex-col justify-center p-6 md:p-10 lg:p-12">

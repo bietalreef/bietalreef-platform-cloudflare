@@ -112,7 +112,7 @@ function ExistingLocalServicesPage({ model }) {
         <section><h2 className="text-2xl font-bold">{en ? `Questions about services in ${place}` : `أسئلة عن الخدمات في ${place}`}</h2><div className="mt-4 space-y-4">{faqs.map(([question, answer]) => <article key={question} className="rounded-2xl border border-[#E6DCC8] bg-white p-5"><h3 className="font-bold">{question}</h3><p className="mt-2 leading-8">{answer}</p></article>)}</div></section>
         {area && <section><h2 className="text-2xl font-bold">{en ? 'Other Al Ain districts' : 'مناطق أخرى في العين'}</h2><div className="mt-4 flex flex-wrap gap-3">{areas.filter(item => item.slug !== area.slug).map(item => <Link className={button} key={item.slug} href={localPath({ locale, area: item.slug, category: category || undefined })}>{name(item)}</Link>)}</div></section>}
         <p className="text-sm leading-7">{en ? 'Source: published provider profile on Biet Alreef. Service coverage reviewed for the Al Ain pilot on 5 October 2026. Confirm availability with the provider.' : 'المصدر: ملف المزود المنشور على بيت الريف. روجع نطاق خدمة تجربة العين بتاريخ 5 أكتوبر 2026. أكد توفر الخدمة مع المزود.'}</p>
-      </main><Footer showRequestCTA={false} />
+      </main><Footer locale={locale} showRequestCTA={false} />
     </div>
   </>;
 }

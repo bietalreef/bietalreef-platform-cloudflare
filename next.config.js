@@ -28,6 +28,20 @@ const nextConfig = {
         source: '/:path*',
         headers: securityHeaders,
       },
+      // Read-only responsive QA on the staging host only. Production keeps DENY.
+      {
+        source: '/preview/al-ain-responsive',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }],
+        headers: securityHeaders.filter(header => header.key === 'Content-Security-Policy').map(header => ({ ...header, value: header.value.replace('frame-src https:', "frame-src 'self' https:") })),
+      },
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }, { type: 'query', key: '__responsive', value: '1' }],
+        headers: [
+          ...securityHeaders.filter(header => header.key === 'Content-Security-Policy').map(header => ({ ...header, value: header.value.replace("frame-ancestors 'none'", "frame-ancestors 'self'") })),
+          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+        ],
+      },
       {
         source: '/images/:path*',
         headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],

@@ -1,3 +1,4 @@
+import BusinessCategoryIcon from './BusinessCategoryIcon';
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
@@ -79,7 +80,7 @@ function DrawerSection({ title, href, onNavigate, icon: Icon, open, onToggle, ch
 
 function LanguageSwitch({ href, mobile = false, onClick, label = 'EN', ariaLabel = 'English version' }) {
   return (
-    <Link href={href} onClick={onClick} className={`${mobile ? 'h-11 px-2.5 text-[11px]' : 'min-h-[36px] px-3 py-1.5 text-xs'} inline-flex items-center justify-center gap-1.5 rounded-full border border-[#E6DCC8] bg-white font-black text-primary shadow-sm transition hover:border-primary`} aria-label={ariaLabel}>
+    <Link href={href} onClick={onClick} className={`${mobile ? 'h-11 px-2.5 text-[11px]' : 'min-h-[36px] px-3 py-1.5 text-xs'} inline-flex items-center justify-center gap-1.5 rounded-full border border-[#E1E5DD] bg-white font-black text-primary shadow-sm transition hover:border-primary`} aria-label={ariaLabel}>
       <span>{label}</span><Globe2 className="h-3.5 w-3.5" aria-hidden="true" />
     </Link>
   );
@@ -109,8 +110,8 @@ export default function Navbar({ locale = 'ar' }) {
   // Use the existing taxonomy and routes; do not download a second directory.
   const childrenFor = (href) => {
     if (href === `${prefix}/uae`) return UAE_EMIRATES.map((entry) => ({ href: `${prefix}/uae/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: MapPin }));
-    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench, sticker: entry.icon }));
-    if (href === `${prefix}/providers`) return SERVICE_CATEGORIES.map(entry => ({ href: `${prefix}/providers/specialty/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: UserRound, sticker: entry.icon }));
+    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
+    if (href === `${prefix}/providers`) return SERVICE_CATEGORIES.map(entry => ({ href: `${prefix}/providers/specialty/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: UserRound, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
     return [];
   };
   useEffect(() => {
@@ -159,8 +160,8 @@ export default function Navbar({ locale = 'ar' }) {
           <div className="flex min-w-0 items-center gap-2" dir="rtl">
           <button ref={menuButton} type="button" onClick={() => setIsOpen(true)} aria-expanded={isOpen} aria-controls="platform-navigation" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-gray-200 text-primary shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2" aria-label={isEnglish ? 'Open menu' : 'فتح القائمة'}><Menu className="h-6 w-6" /></button>
           <Link href={isEnglish ? '/en' : '/'} className="flex min-w-0 items-center gap-2">
-            <div className="relative h-11 w-11"><Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={44} height={44} className="h-full w-full object-contain" loading="eager" /></div>
-            <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-sm font-bold text-primary">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="hidden text-xs text-gray-500 min-[360px]:block">{isEnglish ? 'Smart building platform' : 'منصة البناء الذكية'}</span></div>
+            <Home className="h-9 w-9 shrink-0 text-primary sm:h-11 sm:w-11" strokeWidth={1.7} aria-hidden="true" />
+            <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-lg font-black text-primary sm:text-2xl">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="hidden text-xs text-gray-500 min-[360px]:block">{isEnglish ? 'Business platform' : 'منصة الأعمال'}</span></div>
           </Link>
 
           </div>

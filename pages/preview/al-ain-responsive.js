@@ -10,7 +10,7 @@ export default function ResponsivePreview({ width, locale, category, view }) {
   return <><Head><title>Al Ain responsive QA</title><meta name="robots" content="noindex,nofollow,noarchive" /></Head>
     <main style={{ margin: 0, padding: 16, background: '#e5e9e5', minHeight: '100vh', fontFamily: 'sans-serif' }}>
       <nav aria-label="Preview widths" style={{ display: 'flex', gap: 16, flexWrap: 'wrap', marginBottom: 16 }}>{WIDTHS.map(value => <a key={value} href={`?${query}&width=${value}`} aria-current={width === value ? 'page' : undefined}>{value}px</a>)}</nav>
-      <div style={{ overflow: 'auto', maxWidth: '100%' }}><iframe title={`${locale} ${category} ${width}px`} src={src} width={width} height={1050} style={{ display: 'block', border: '1px solid #abb9ab', background: 'white', marginInline: 'auto', maxWidth: 'none' }} /></div>
+      <div style={{ overflow: 'auto', maxWidth: '100%' }}><iframe title={`${locale} ${category} ${width}px`} src={`${src}?__responsive=1`} width={width} height={1050} style={{ display: 'block', border: '1px solid #abb9ab', background: 'white', marginInline: 'auto', maxWidth: 'none' }} /></div>
     </main></>;
 }
 export function getServerSideProps({ req, res, query }) {

@@ -2,12 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --br-forest: #173f35;
+  --br-ink: #253e36;
+  --br-ivory: #fcfcf8;
+  --br-sage: #edf1e7;
+  --br-sand: #f0ede4;
+  --br-sky: #edf5f6;
+  --br-line: #e1e5dd;
+  --br-gold: #aa9561;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  background-color: #F7F1E8;
+  background-color: var(--br-ivory);
   direction: rtl;
   text-align: right;
   min-width: 320px;

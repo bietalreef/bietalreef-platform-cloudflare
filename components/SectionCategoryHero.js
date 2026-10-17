@@ -12,7 +12,7 @@ export default function SectionCategoryHero({ locale = 'ar', type, title, descri
   const requestLabel = isService ? (isEn ? 'Request service guidance' : 'اطلب توجيه للخدمة') : (isEn ? 'Request sourcing help' : 'اطلب مساعدة في التوريد');
   const Icon = isService ? Wrench : Boxes;
   return (
-    <section dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FDFBF7] px-4 pb-10 pt-6 md:pb-14 md:pt-10">
+    <section dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FCFCF8] px-4 pb-10 pt-6 md:pb-14 md:pt-10">
       <div className="relative mx-auto min-h-[360px] max-w-6xl overflow-hidden rounded-[2.5rem] border border-[#D4AF37]/35 bg-[#123A46] shadow-[0_30px_80px_rgba(18,58,70,.18)] md:min-h-[460px]">
         <Image src={image} alt={title} fill priority className="object-cover" sizes="(max-width: 1200px) 100vw, 1200px" />
         <div className="absolute inset-0 bg-gradient-to-t from-[#061B28]/96 via-[#061B28]/48 to-transparent" />
@@ -22,7 +22,7 @@ export default function SectionCategoryHero({ locale = 'ar', type, title, descri
           <h1 className="mt-5 max-w-4xl text-3xl font-black leading-relaxed sm:text-4xl md:text-5xl">{title}</h1>
           <p className="mt-4 max-w-3xl text-sm font-semibold leading-8 text-white/85 md:text-lg md:leading-9">{description}</p>
           <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-            {primaryHref ? <Link href={primaryHref} className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 py-3 text-center font-black text-white">{isEn ? 'Explore services in Al Ain' : 'استكشف الخدمات في العين'}</Link> : <a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 py-3 text-center font-black text-white"><MessageCircle className="h-5 w-5 shrink-0" />{requestLabel}</a>}
+            {primaryHref ? <Link href={primaryHref} className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#173F35] px-6 py-3 text-center font-black text-white">{isEn ? 'Explore services in Al Ain' : 'استكشف الخدمات في العين'}</Link> : <a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#173F35] px-6 py-3 text-center font-black text-white"><MessageCircle className="h-5 w-5 shrink-0" />{requestLabel}</a>}
             <Link href={backHref} className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl border border-white/25 bg-white/12 px-6 py-3 text-center font-black text-white backdrop-blur-xl transition hover:-translate-y-0.5 hover:bg-white/20">{backLabel}<ExternalLink className="h-4 w-4" /></Link>
           </div>
         </div>

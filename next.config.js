@@ -28,6 +28,15 @@ const nextConfig = {
         source: '/:path*',
         headers: securityHeaders,
       },
+      // Host-matched protection also covers prerendered assets and static pages.
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }],
+        headers: [
+          { key: 'X-Robots-Tag', value: 'noindex, nofollow, noarchive, nosnippet' },
+          { key: 'Cache-Control', value: 'no-store' },
+        ],
+      },
       // Read-only responsive QA on the staging host only. Production keeps DENY.
       {
         source: '/preview/al-ain-responsive',

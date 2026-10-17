@@ -40,3 +40,13 @@ test('embedding exception is restricted to exact staging host and diagnostic que
   assert.ok(policy.includes("object-src 'none'"));
   assert.ok(policy.includes("default-src 'self'"));
 });
+
+test('all staging paths receive a host-matched noindex header without changing production', async () => {
+  const rules = await require('../next.config').headers();
+  const noindex = rules.find(r => r.headers.some(h => h.key === 'X-Robots-Tag'));
+  assert.equal(noindex.source, '/:path*');
+  assert.equal(noindex.has.length, 1);
+  assert.equal(noindex.has[0].value, 'bietalreef-platform-staging.bietalreef.workers.dev');
+  assert.ok(noindex.headers.find(h => h.key === 'X-Robots-Tag').value.includes('noindex'));
+  assert.equal(noindex.headers.find(h => h.key === 'Cache-Control').value, 'no-store');
+});

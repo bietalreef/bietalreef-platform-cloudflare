@@ -1,3 +1,4 @@
+import { isAppExperience } from '../lib/appExperience';
 import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -157,6 +158,11 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
   const pathParts = String(router.asPath || '').split(/[?#]/)[0].split('/').filter(Boolean);
   const uaeIndex = pathParts.indexOf('uae');
   const activeEmirate = uaeIndex >= 0 ? getEmirate(pathParts[uaeIndex + 1]) : null;
+
+  if (isAppExperience(router.asPath)) return <footer className="br-app-footer" dir={t.dir}>
+    <div className="br-footer-shortcuts"><Link href={t.home}>{language === 'en' ? 'Biet Al Reef' : 'بيت الريف'}</Link><Link href={`${t.prefix}/contact`}>{language === 'en' ? 'Contact' : 'تواصل معنا'}</Link><Link href={`${t.prefix}/privacy`}>{language === 'en' ? 'Privacy' : 'الخصوصية'}</Link><span>© 2026</span></div>
+    <details><summary>{language === 'en' ? 'About, help & more' : 'عن بيت الريف والمساعدة'}</summary><div className="br-footer-details">{t.sections.map(section => <section key={section.id}><h2>{section.title}</h2>{section.links.map(([href,label]) => <FooterLink href={href} key={href}>{label}</FooterLink>)}</section>)}</div><PlatformAccessActions locale={language} compact /><EmirateFooterContext language={language} emirate={activeEmirate}/></details>
+  </footer>;
 
   return (
     <>

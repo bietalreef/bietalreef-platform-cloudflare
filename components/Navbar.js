@@ -1,5 +1,6 @@
 'use client';
 
+import AppNavigation from './AppNavigation';
 import BusinessCategoryIcon from './BusinessCategoryIcon';
 
 import { useEffect, useRef, useState } from 'react';
@@ -173,6 +174,7 @@ export default function Navbar({ locale = 'ar' }) {
         </nav>
       </header>
       <div className="h-[65px] w-full" aria-hidden="true" />
+      <AppNavigation locale={locale} />
 
       <div className={`${styles.layer} ${isOpen ? styles.open : ''}`} aria-hidden={!isOpen} dir="rtl">
           <button type="button" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'} onClick={closeMenu} tabIndex={-1} className={`${styles.backdrop} absolute inset-0 bg-black/35 backdrop-blur-[2px]`} />

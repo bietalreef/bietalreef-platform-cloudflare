@@ -1,4 +1,6 @@
 import "../styles/globals.css";
+import "../styles/app-experience.css";
+import { isAppExperience } from "../lib/appExperience";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import dynamic from "next/dynamic";
@@ -10,7 +12,7 @@ import PwaLifecycleManager from "../components/PwaLifecycleManager";
 import PwaInstallPrompt from "../components/PwaInstallPrompt";
 import BusinessLandingMeta, { resolveBusinessLandingPath } from "../components/BusinessLandingMeta";
 import { initPublicAnalytics } from "../lib/publicAnalytics";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 const ProviderProductInteraction = dynamic(
   () => import("../components/provider/ProviderProductInteraction"),
@@ -29,6 +31,19 @@ const FloatingWhatsAppSupport = dynamic(() => import('../components/FloatingWhat
 
 export default function MyApp({ Component, pageProps }) {
   const router = useRouter();
+  const [navigating, setNavigating] = useState(false);
+  useEffect(() => {
+    const start = () => setNavigating(true);
+    const finish = () => setNavigating(false);
+    router.events.on("routeChangeStart", start);
+    router.events.on("routeChangeComplete", finish);
+    router.events.on("routeChangeError", finish);
+    return () => {
+      router.events.off("routeChangeStart", start);
+      router.events.off("routeChangeComplete", finish);
+      router.events.off("routeChangeError", finish);
+    };
+  }, [router.events]);
   const currentPath = router.asPath?.split('?')[0] || '/';
   const metadataPath = resolveBusinessLandingPath({
     currentPath,
@@ -92,7 +107,7 @@ export default function MyApp({ Component, pageProps }) {
 
   return (
     <ClientSafetyBoundary>
-      <Component {...pageProps} />
+      <div className={isAppExperience(currentPath) ? "br-app" : undefined}>{navigating && isAppExperience(currentPath) && <div className="br-route-progress" role="progressbar" aria-label={isEnglishPage ? "Opening page" : "فتح الصفحة"} />}<Component {...pageProps} /></div>
       {!isPreviewSurface && <>
       <BusinessLandingMeta path={metadataPath} />
       {currentPath === '/weyaak' || currentPath === '/en/weyaak' ? (

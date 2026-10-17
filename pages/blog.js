@@ -47,7 +47,7 @@ export default function Blog() {
         />
         <meta
           name="keywords"
-          content="مدونة بيت الريف, البناء في الإمارات, مقاولات الإمارات, مواد البناء, تصميم داخلي, صيانة, مزودي الخدمات, حلول الأعمال الرقمية"
+          content="مدونة بيت الريف, البناء في الإمارات, مقاولات الإمارات, مواد البناء, تصميم داخلي, صيانة, الشركات والمهنيين, حلول الأعمال الرقمية"
         />
         <meta name="robots" content="index, follow, max-image-preview:large" />
         <link rel="canonical" href="https://bietalreef.ae/blog" />
@@ -55,7 +55,7 @@ export default function Blog() {
         <link rel="alternate" hrefLang="en-AE" href="https://bietalreef.ae/en/blog" />
         <link rel="alternate" hrefLang="x-default" href="https://bietalreef.ae/blog" />
         <meta property="og:title" content="مدونة بيت الريف | أدلة ومقالات للأعمال والبناء في الإمارات" />
-        <meta property="og:description" content="محتوى عملي يساعد أصحاب المشاريع والشركات ومزودي الخدمات على فهم البناء والمواد والتصميم والصيانة وحلول الأعمال الرقمية." />
+        <meta property="og:description" content="محتوى عملي يساعد أصحاب المشاريع والشركات والشركات والمهنيين على فهم البناء والمواد والتصميم والصيانة وحلول الأعمال الرقمية." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://bietalreef.ae/blog" />
         <meta property="og:locale" content="ar_AE" />
@@ -72,7 +72,7 @@ export default function Blog() {
               <p className="text-emerald-100 font-bold mb-3">معرفة عملية من بيت الريف</p>
               <h1 className="text-3xl md:text-5xl font-black mb-4">مدونة بيت الريف</h1>
               <p className="text-lg md:text-xl text-emerald-100 max-w-4xl leading-9">
-                مقالات وأدلة عملية حول البناء والمقاولات والتصميم والصيانة ومواد البناء، مع محتوى يساعد الشركات ومزودي الخدمات على فهم الحضور الرقمي وأدوات الأعمال الحديثة داخل الإمارات.
+                مقالات وأدلة عملية حول البناء والمقاولات والتصميم والصيانة ومواد البناء، مع محتوى يساعد الشركات والشركات والمهنيين على فهم الحضور الرقمي وأدوات الأعمال الحديثة داخل الإمارات.
               </p>
             </div>
           </section>

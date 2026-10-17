@@ -1,3 +1,5 @@
+import AlAinSectorDiscovery from '../../../components/AlAinSectorDiscovery';
+import { CONTENT } from '../../../data/alAinContent';
 import Head from 'next/head';
 import Link from 'next/link';
 import EnglishLayout from '../../../components/EnglishLayout';
@@ -74,7 +76,8 @@ export default function EnglishCategoryPage({
       <EnglishLayout>
         <SectionBackBar locale="en" href="/en/services" label="Back to Services & Offers" />
         <main className="bg-[#FDFBF7]">
-          <SectionCategoryHero locale="en" type="services" title={service.nameEn} description={service.descEn || `Browse ${service.nameEn.toLowerCase()} services, offers and request paths across the UAE.`} image={getSectorCardImage(service.slug)} />
+          <SectionCategoryHero locale="en" type="services" title={service.nameEn} description={service.descEn || `Browse ${service.nameEn.toLowerCase()} services, offers and request paths across the UAE.`} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/en/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
+          <AlAinSectorDiscovery category={service.slug} locale="en" />
           <PublishedEntityGrid items={publishedServices} locale="en" type="service" />
           {publishedServices.length === 0 && (
             <section className="mx-auto max-w-6xl px-4 pb-16">

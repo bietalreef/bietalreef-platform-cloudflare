@@ -1,0 +1,3 @@
+overrides:
+  '@dotenvx/dotenvx': 2.35.0
+  qs: 6.15.0

@@ -1,6 +1,8 @@
 'use client';
 
-import { useState } from 'react';
+import BusinessCategoryIcon from './BusinessCategoryIcon';
+
+import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -17,16 +19,21 @@ import {
   Building2,
   ChevronDown,
   ChevronUp,
-  Globe2
+  Globe2,
+  Smartphone,
+  Monitor,
+  Tablet
 } from 'lucide-react';
-import PlatformOverviewLink from './PlatformOverviewLink';
 import PlatformAccessActions from './PlatformAccessActions';
+import { UAE_EMIRATES, SERVICE_CATEGORIES } from '../data/siteTaxonomy';
+import styles from './Navbar.module.css';
+import { APP_EDITIONS } from '../lib/appDiscovery';
 import { MARKET_URL } from '../lib/platformUrls';
 
 const primaryLinks = [
   { href: '/', label: 'الرئيسية', labelEn: 'Home', icon: Home },
   { href: '/uae', label: 'دليل الإمارات', labelEn: 'UAE Directory', icon: MapPin },
-  { href: '/providers', label: 'مزودو الخدمات', labelEn: 'Service Providers', icon: UserRound },
+  { href: '/providers', label: 'دليل الشركات والمهنيين', labelEn: 'Businesses & Professionals', icon: UserRound },
   { href: '/services', label: 'الخدمات والعروض', labelEn: 'Services & Offers', icon: Wrench },
   { href: MARKET_URL, label: 'سوق بيت الريف', labelEn: 'Biet Al Reef Market', icon: ShoppingBag }
 ];
@@ -44,61 +51,37 @@ const companyLinks = [
 function isActivePath(pathname, href) {
   if (!href || href.startsWith('http') || href.startsWith('tel:') || href.startsWith('mailto:')) return false;
   const cleanHref = href.split('?')[0];
-  if (cleanHref === '/') return pathname === '/';
+  if (cleanHref === '/' || cleanHref === '/en') return pathname === cleanHref;
   return pathname === cleanHref || pathname.startsWith(`${cleanHref}/`);
 }
 
-export function getLocalizedPath(asPath = '/', targetLocale = 'en') {
-  const hashIndex = asPath.indexOf('#');
-  const hash = hashIndex >= 0 ? asPath.slice(hashIndex) : '';
-  const pathAndQuery = hashIndex >= 0 ? asPath.slice(0, hashIndex) : asPath;
-  const queryIndex = pathAndQuery.indexOf('?');
-  const query = queryIndex >= 0 ? pathAndQuery.slice(queryIndex) : '';
-  const rawPathname = queryIndex >= 0 ? pathAndQuery.slice(0, queryIndex) : pathAndQuery;
-  const pathname = rawPathname.startsWith('/') ? rawPathname : `/${rawPathname}`;
-  const arabicPath = pathname === '/en'
-    ? '/'
-    : pathname.startsWith('/en/')
-      ? pathname.slice(3)
-      : pathname;
+export { getLocalizedPath } from '../lib/navigation';
+import { getLocalizedPath } from '../lib/navigation';
 
-  let localizedPath;
-  if (targetLocale === 'ar') {
-    localizedPath = arabicPath;
-    if (localizedPath.startsWith('/categories/')) localizedPath = localizedPath.replace('/categories/', '/services/');
-  } else {
-    const englishSource = arabicPath.startsWith('/services/') && arabicPath.split('/').length === 3
-      ? arabicPath.replace('/services/', '/categories/')
-      : arabicPath;
-    localizedPath = englishSource === '/' ? '/en' : `/en${englishSource}`;
-  }
-
-  return `${localizedPath}${query}${hash}`;
-}
-
-function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, textDir = 'rtl' }) {
+function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, sticker, textDir = 'rtl' }) {
   const external = href?.startsWith('http');
-  const content = <><Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary/90'}`} /><span dir={textDir}>{label}</span></>;
-  const className = `flex items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-semibold transition ${active ? 'bg-primary/8 text-primary' : 'text-gray-800 hover:bg-primary/5 hover:text-primary'} ${nested ? 'mr-8' : ''}`;
-  if (external) return <a href={href} onClick={onClick} className={className}>{content}</a>;
-  return <Link href={href} onClick={onClick} className={className}>{content}</Link>;
+  const content = <>{sticker ? <span className={styles.sticker} aria-hidden="true">{sticker}</span> : <Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary/90'}`} />}<span dir={textDir}>{label}</span></>;
+  const className = `flex items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-semibold transition ${active ? 'bg-primary/8 text-primary' : 'text-gray-800 hover:bg-primary/5 hover:text-primary'} ${nested ? 'ms-8' : ''}`;
+  if (external) return <a href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</a>;
+  return <Link href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</Link>;
 }
 
-function DrawerSection({ title, icon: Icon, open, onToggle, children, textDir = 'rtl' }) {
-  return (
-    <div className="border-t border-gray-100 pt-3">
-      <button type="button" onClick={onToggle} className="flex w-full items-center justify-between rounded-2xl px-3 py-3 text-right text-[15px] font-bold text-gray-800 hover:bg-primary/5" aria-expanded={open}>
-        <span className="flex items-center gap-3"><Icon className="h-5 w-5 text-primary" /><span dir={textDir}>{title}</span></span>
-        {open ? <ChevronUp className="h-4 w-4 text-primary" /> : <ChevronDown className="h-4 w-4 text-gray-500" />}
-      </button>
-      {open && <div className="mt-1 space-y-1 pb-2">{children}</div>}
+function DrawerSection({ title, href, onNavigate, icon: Icon, open, onToggle, children, textDir = 'rtl' }) {
+  const id = `drawer-group-${href.replace(/[^a-z0-9]/gi, '-')}`;
+  return <section className={styles.group}>
+    <button type="button" onClick={onToggle} className={styles.groupToggle} aria-expanded={open} aria-controls={id}>
+      <span className={styles.groupIcon}><Icon aria-hidden="true" /></span><span dir={textDir}>{title}</span><ChevronDown className={open ? styles.chevronOpen : ''} aria-hidden="true" />
+    </button>
+    <div id={id} hidden={!open} className={styles.groupChildren}>
+      <DrawerLink href={href} label={textDir === 'ltr' ? `Explore ${title}` : `استعرض ${title}`} icon={Icon} onClick={onNavigate} textDir={textDir} />
+      {children}
     </div>
-  );
+  </section>;
 }
 
 function LanguageSwitch({ href, mobile = false, onClick, label = 'EN', ariaLabel = 'English version' }) {
   return (
-    <Link href={href} onClick={onClick} className={`${mobile ? 'h-10 px-2.5 text-[11px]' : 'min-h-[36px] px-3 py-1.5 text-xs'} inline-flex items-center justify-center gap-1.5 rounded-full border border-[#E6DCC8] bg-white font-black text-primary shadow-sm transition hover:border-primary`} aria-label={ariaLabel}>
+    <Link href={href} onClick={onClick} className={`${mobile ? 'h-11 px-2.5 text-[11px]' : 'min-h-[36px] px-3 py-1.5 text-xs'} inline-flex items-center justify-center gap-1.5 rounded-full border border-[#E1E5DD] bg-white font-black text-primary shadow-sm transition hover:border-primary`} aria-label={ariaLabel}>
       <span>{label}</span><Globe2 className="h-3.5 w-3.5" aria-hidden="true" />
     </Link>
   );
@@ -109,8 +92,8 @@ export default function Navbar({ locale = 'ar' }) {
   const isEnglish = locale === 'en';
   const textDir = isEnglish ? 'ltr' : 'rtl';
   const [isOpen, setIsOpen] = useState(false);
-  const [platformOpen, setPlatformOpen] = useState(false);
-  const [companyOpen, setCompanyOpen] = useState(false);
+  const [openGroup, setOpenGroup] = useState(null);
+  const toggleGroup = (key) => setOpenGroup(current => current === key ? null : key);
   const languageHref = getLocalizedPath(router.asPath || router.pathname || '/', isEnglish ? 'ar' : 'en');
   const prefix = isEnglish ? '/en' : '';
   const localize = (items) => items.map((item) => ({
@@ -122,54 +105,112 @@ export default function Navbar({ locale = 'ar' }) {
   const localizedPlatformLinks = localize(platformLinks);
   const localizedCompanyLinks = localize(companyLinks);
   const closeMenu = () => setIsOpen(false);
+  const menuButton = useRef(null);
+  const drawer = useRef(null);
+  const currentPath = (router.asPath || '/').split(/[?#]/)[0];
+  // Use the existing taxonomy and routes; do not download a second directory.
+  const childrenFor = (href) => {
+    if (href === `${prefix}/uae`) return UAE_EMIRATES.map((entry) => ({ href: `${prefix}/uae/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: MapPin }));
+    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
+    if (href === `${prefix}/providers`) return SERVICE_CATEGORIES.map(entry => ({ href: `${prefix}/providers/specialty/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: UserRound, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
+    return [];
+  };
+  useEffect(() => {
+    if (!isOpen) return;
+    const previousFocus = document.activeElement;
+    const previousOverflow = document.body.style.overflow;
+    const background = [];
+    let branch = drawer.current?.parentElement;
+    while (branch && branch !== document.body) {
+      for (const sibling of branch.parentElement?.children || []) {
+        if (sibling !== branch && sibling instanceof HTMLElement && !['SCRIPT', 'STYLE', 'LINK'].includes(sibling.tagName)) background.push(sibling);
+      }
+      branch = branch.parentElement;
+    }
+    const inertValues = background.map((element) => element.inert);
+    background.forEach((element) => { element.inert = true; });
+    document.body.style.overflow = 'hidden';
+    const focusTimer = window.setTimeout(() => drawer.current?.querySelector('button')?.focus({ preventScroll: true }), 230);
+    const onKey = (event) => {
+      if (event.key === 'Escape') { event.preventDefault(); setIsOpen(false); }
+      if (event.key !== 'Tab') return;
+      const elements = [...drawer.current.querySelectorAll('a[href], button:not([disabled]), [tabindex="0"]')].filter((element) => element.getClientRects().length);
+      const first = elements[0], last = elements[elements.length - 1];
+      if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last?.focus(); }
+      else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first?.focus(); }
+    };
+    const onNavigation = () => setIsOpen(false);
+    document.addEventListener('keydown', onKey);
+    window.addEventListener('popstate', onNavigation);
+    router.events.on('routeChangeStart', onNavigation);
+    return () => {
+      window.clearTimeout(focusTimer);
+      document.body.style.overflow = previousOverflow;
+      background.forEach((element, index) => { element.inert = inertValues[index]; });
+      document.removeEventListener('keydown', onKey);
+      window.removeEventListener('popstate', onNavigation);
+      router.events.off('routeChangeStart', onNavigation);
+      if (previousFocus?.isConnected) previousFocus.focus();
+    };
+  }, [isOpen, router.events]);
 
   return (
     <>
       <header className="fixed inset-x-0 top-0 z-50 w-full border-b border-gray-100 bg-white/95 shadow-sm backdrop-blur" dir="rtl">
-        <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 py-2.5" dir="rtl">
-          <Link href={isEnglish ? '/en' : '/'} className="flex flex-shrink-0 items-center gap-2">
-            <div className="relative h-11 w-11"><Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={44} height={44} className="h-full w-full object-contain" loading="eager" /></div>
-            <div className="hidden flex-col sm:flex" dir={textDir}><span className="text-sm font-bold text-primary">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="text-xs text-gray-500">{isEnglish ? 'Smart building platform' : 'منصة البناء الذكية'}</span></div>
+        <nav className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-3 py-2.5 sm:px-4" dir="rtl">
+          <div className="flex min-w-0 items-center gap-2" dir="rtl">
+          <button ref={menuButton} type="button" onClick={() => setIsOpen(true)} aria-expanded={isOpen} aria-controls="platform-navigation" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-gray-200 text-primary shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2" aria-label={isEnglish ? 'Open menu' : 'فتح القائمة'}><Menu className="h-6 w-6" /></button>
+          <Link href={isEnglish ? '/en' : '/'} className="flex min-w-0 items-center gap-2">
+            <Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={48} height={48} className="h-12 w-12 shrink-0 object-contain" priority />
+            <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-lg font-black text-primary sm:text-2xl">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="hidden text-xs text-gray-500 min-[360px]:block">{isEnglish ? 'Business platform' : 'منصة الأعمال'}</span></div>
           </Link>
 
-          <div className="flex items-center gap-2" dir="rtl">
+          </div>
+          <div className="flex shrink-0 items-center gap-2" dir="rtl">
             <LanguageSwitch href={languageHref} mobile label={isEnglish ? 'AR' : 'EN'} ariaLabel={isEnglish ? 'النسخة العربية' : 'English version'} />
-            <button onClick={() => setIsOpen(true)} className="flex h-10 w-10 items-center justify-center rounded-xl border border-gray-200 text-primary shadow-sm" aria-label={isEnglish ? 'Open menu' : 'فتح القائمة'}><Menu className="h-6 w-6" /></button>
+
           </div>
         </nav>
       </header>
       <div className="h-[65px] w-full" aria-hidden="true" />
 
-      {isOpen && (
-        <div className="fixed inset-0 z-[100]" dir="rtl">
-          <button type="button" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'} onClick={closeMenu} className="absolute inset-0 bg-black/35 backdrop-blur-[2px]" />
-          <aside className="absolute bottom-0 left-0 top-0 flex w-[88vw] max-w-[410px] flex-col rounded-r-[28px] bg-white shadow-2xl" dir="rtl">
+      <div className={`${styles.layer} ${isOpen ? styles.open : ''}`} aria-hidden={!isOpen} dir="rtl">
+          <button type="button" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'} onClick={closeMenu} tabIndex={-1} className={`${styles.backdrop} absolute inset-0 bg-black/35 backdrop-blur-[2px]`} />
+          <aside ref={drawer} id="platform-navigation" role="dialog" aria-modal="true" aria-label={isEnglish ? 'Main navigation' : 'القائمة الرئيسية'} className={`${styles.drawer} absolute bottom-0 right-0 top-0 flex w-[88vw] max-w-[410px] flex-col rounded-l-[28px] bg-white shadow-2xl`} dir={textDir}>
             <div className="flex items-center justify-between border-b border-gray-100 px-5 py-4">
               <button type="button" onClick={closeMenu} className="flex h-10 w-10 items-center justify-center rounded-full text-gray-900 hover:bg-gray-100" aria-label={isEnglish ? 'Close menu' : 'إغلاق القائمة'}><X className="h-6 w-6" /></button>
               <Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={72} height={72} className="h-16 w-16 object-contain" />
               <span className="h-10 w-10" />
             </div>
 
-            <div className="flex-1 overflow-y-auto px-5 py-4">
-              <div className="space-y-1">{localizedPrimaryLinks.map((item) => <DrawerLink key={item.href} {...item} textDir={textDir} active={isActivePath(router.pathname, item.href)} onClick={closeMenu} />)}</div>
-              <div className="mt-5 space-y-3">
-                <DrawerSection title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={platformOpen} onToggle={() => setPlatformOpen((value) => !value)}>
-                  {localizedPlatformLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(router.pathname, item.href)} onClick={closeMenu} />)}
+            <div className={styles.drawerScroll}>
+              <p className={styles.groupLabel}>{isEnglish ? 'DISCOVER' : 'التصفح والاكتشاف'}</p>
+              <nav aria-label={isEnglish ? 'Sections' : 'الأقسام'} className={styles.groups}>{localizedPrimaryLinks.map((item) => {
+                const children = childrenFor(item.href);
+                if (!children.length) return <div className={styles.group} key={item.href}><DrawerLink {...item} textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} /></div>;
+                return <DrawerSection key={item.href} href={item.href} title={item.label} icon={item.icon} textDir={textDir} onNavigate={closeMenu} open={openGroup === item.href} onToggle={() => toggleGroup(item.href)}>
+                  {children.map(child => <DrawerLink key={child.href} {...child} textDir={textDir} active={isActivePath(currentPath, child.href)} onClick={closeMenu} />)}
+                </DrawerSection>;
+              })}</nav>
+              <div className="mt-5 space-y-3"><p className={styles.groupLabel}>{isEnglish ? 'APPS & INFORMATION' : 'التطبيقات والمعلومات'}</p>
+                <DrawerSection href={`${prefix}/app`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef apps' : 'تطبيقات بيت الريف'} icon={Smartphone} textDir={textDir} open={openGroup === 'apps'} onToggle={() => toggleGroup('apps')}>
+                  {APP_EDITIONS.filter(item => item.key !== 'app').map(item => <DrawerLink key={item.key} href={`${prefix}${item.path}`} label={isEnglish ? item.en : item.ar} icon={item.key === 'web-app' ? Monitor : item.key === 'ios' ? Tablet : Smartphone} nested textDir={textDir} active={isActivePath(currentPath, `${prefix}${item.path}`)} onClick={closeMenu} />)}
                 </DrawerSection>
-                <DrawerSection title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={companyOpen} onToggle={() => setCompanyOpen((value) => !value)}>
-                  {localizedCompanyLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(router.pathname, item.href)} onClick={closeMenu} />)}
+                <DrawerSection href={`${prefix}/how-it-works`} onNavigate={closeMenu} title={isEnglish ? 'Platform' : 'المنصة'} icon={Rocket} textDir={textDir} open={openGroup === 'platform'} onToggle={() => toggleGroup('platform')}>
+                  {localizedPlatformLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
+                </DrawerSection>
+                <DrawerSection href={`${prefix}/about`} onNavigate={closeMenu} title={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} icon={Building2} textDir={textDir} open={openGroup === 'company'} onToggle={() => toggleGroup('company')}>
+                  {localizedCompanyLinks.map((item) => <DrawerLink key={item.href} {...item} nested textDir={textDir} active={isActivePath(currentPath, item.href)} onClick={closeMenu} />)}
                 </DrawerSection>
               </div>
             </div>
 
-            <div className="border-t border-gray-100 p-5 pb-[max(env(safe-area-inset-bottom),20px)]">
+            <div className={styles.drawerFooter}>
               <PlatformAccessActions locale={isEnglish ? 'en' : 'ar'} compact className="mb-3" />
-              <div className="mb-3 grid grid-cols-2 gap-2"><span className="flex items-center justify-center gap-2 rounded-2xl border border-[#E6DCC8] px-4 py-3 text-sm font-black text-primary">{isEnglish ? 'English' : 'AE عربي'}</span><LanguageSwitch href={languageHref} mobile onClick={closeMenu} label={isEnglish ? 'AR' : 'EN'} ariaLabel={isEnglish ? 'النسخة العربية' : 'English version'} /></div>
-              <PlatformOverviewLink className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></PlatformOverviewLink>
+              <Link href={`${prefix}/how-it-works`} className="flex w-full items-center justify-center gap-2 rounded-2xl bg-primary px-5 py-3 text-center text-base font-black text-white shadow-lg" onClick={closeMenu}>{isEnglish ? 'Discover the platform' : 'تعرّف على المنصة'}<Rocket className="h-4 w-4" /></Link>
             </div>
           </aside>
         </div>
-      )}
     </>
   );
 }

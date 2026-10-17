@@ -26,7 +26,7 @@ const comparison=[
   ['ربط النطاق (Domain DNS)','ضبط MX وSPF وDKIM يدويًا وقد يسبب أخطاء في التسليم عند الإعداد غير الصحيح','ربط فني شامل لسجلات البريد والأمان بحسب نطاق الخدمة لتقليل أخطاء التسليم وتحسين موثوقية البريد'],
   ['هيكلة الحسابات','إنشاء فردي للحسابات بدون تنظيم واضح','تصميم هيكل مستخدمين وصلاحيات بحسب الأقسام والمسميات الوظيفية واحتياج الشركة'],
   ['نقل البيانات (Migration)','تنفيذ يدوي قد يعرض الرسائل أو الملفات لمخاطر أثناء الانتقال','تقييم بيئة العمل ودعم نقل البريد والملفات وفق خطة انتقال متفق عليها'],
-  ['القيمة المضافة في الإمارات','اشتراك تقني معزول عن حضور الشركة الرقمي','إمكانية ربط خدمة Workspace بمسار أعمال بيت الريف والانضمام إلى دليل مزودي بيت الريف عند استيفاء متطلبات الحساب والنشر']
+  ['القيمة المضافة في الإمارات','اشتراك تقني معزول عن حضور الشركة الرقمي','إمكانية ربط خدمة Workspace بمسار أعمال بيت الريف والانضمام إلى دليل شركات بيت الريف عند استيفاء متطلبات الحساب والنشر']
 ];
 
 const tools=[
@@ -79,8 +79,8 @@ export default function Workspace(){return <>
       </div>
       <div className="overflow-x-auto rounded-[2rem] border border-violet-100 bg-white shadow-sm">
         <table className="min-w-[880px] w-full text-right">
-          <thead className="bg-[#34245E] text-white"><tr><th className="p-5 text-lg">وجه المقارنة</th><th className="p-5 text-lg">الإعداد الذاتي / المزودون التقليديون</th><th className="p-5 text-lg">خدمة Google Workspace من بيت الريف</th></tr></thead>
-          <tbody>{comparison.map(([a,b,c],i)=><tr key={a} className={i%2?'bg-violet-50/50':'bg-white'}><td className="p-5 align-top font-black text-[#34245E]">{a}</td><td className="p-5 align-top leading-8 text-gray-600">{b}</td><td className="p-5 align-top leading-8 text-gray-700">{c}{a==='القيمة المضافة في الإمارات'?<><br/><Link href="/join-provider" className="mt-2 inline-flex font-black text-[#5B3E96] underline">دليل مزودي بيت الريف</Link></>:null}</td></tr>)}</tbody>
+          <thead className="bg-[#34245E] text-white"><tr><th className="p-5 text-lg">وجه المقارنة</th><th className="p-5 text-lg">الإعداد الذاتي / الشركات التقليديون</th><th className="p-5 text-lg">خدمة Google Workspace من بيت الريف</th></tr></thead>
+          <tbody>{comparison.map(([a,b,c],i)=><tr key={a} className={i%2?'bg-violet-50/50':'bg-white'}><td className="p-5 align-top font-black text-[#34245E]">{a}</td><td className="p-5 align-top leading-8 text-gray-600">{b}</td><td className="p-5 align-top leading-8 text-gray-700">{c}{a==='القيمة المضافة في الإمارات'?<><br/><Link href="/join-provider" className="mt-2 inline-flex font-black text-[#5B3E96] underline">دليل شركات بيت الريف</Link></>:null}</td></tr>)}</tbody>
         </table>
       </div>
     </section>

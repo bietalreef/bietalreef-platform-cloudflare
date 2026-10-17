@@ -97,13 +97,13 @@ export default function CategoriesPage() {
                 <Image src="/images/seo/home/platform-features.webp" alt="Background" fill className="object-cover" />
               </div>
               <div className="relative z-10">
-                <h2 className="text-3xl md:text-4xl font-black mb-6">هل أنت مزود خدمة محترف؟</h2>
+                <h2 className="text-3xl md:text-4xl font-black mb-6">هل أنت شركة متخصصة محترف؟</h2>
                 <p className="text-lg text-white/80 mb-10 max-w-2xl mx-auto font-medium">
                   انضم إلى شبكة بيت الريف المعتمدة وابدأ في تنمية أعمالك والوصول إلى آلاف العملاء في جميع أنحاء الإمارات.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
                   <Link href="/providers" className="bg-[#D4AF37] text-[#0F3F1A] px-10 py-4 rounded-2xl font-black hover:bg-[#B8922B] transition-colors">
-                    سجل كمزود خدمة
+                    سجل كشركة متخصصة
                   </Link>
                   <Link href="/about" className="bg-white/10 backdrop-blur-md border border-white/20 px-10 py-4 rounded-2xl font-black hover:bg-white/20 transition-colors">
                     تعرف علينا أكثر

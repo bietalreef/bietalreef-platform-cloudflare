@@ -35,11 +35,12 @@ export default function MyApp({ Component, pageProps }) {
     pathname: router.pathname,
     pageProps,
   });
+  const isPreviewSurface = currentPath === '/preview/al-ain-responsive';
   const isEnglishPage = currentPath === '/en' || currentPath.startsWith('/en/');
   const isProviderProfile = /^\/(?:en\/)?providers\/(?!register(?:\/|$))[^/?#]+/.test(currentPath);
   const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline|alrehab-home-clean)(?:\/|$)/.test(currentPath);
 
-  useEffect(() => initPublicAnalytics(router), [router]);
+  useEffect(() => isPreviewSurface ? undefined : initPublicAnalytics(router), [router, isPreviewSurface]);
 
   useEffect(() => {
     const html = document.documentElement;
@@ -92,6 +93,7 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <ClientSafetyBoundary>
       <Component {...pageProps} />
+      {!isPreviewSurface && <>
       <BusinessLandingMeta path={metadataPath} />
       {currentPath === '/weyaak' || currentPath === '/en/weyaak' ? (
         <WeyakChat locale={isEnglishPage ? 'en' : 'ar'} standalone />
@@ -117,6 +119,7 @@ export default function MyApp({ Component, pageProps }) {
       <ConsentAwareSpeedInsights />
       <PwaInstallPrompt locale={isEnglishPage ? "en" : "ar"} />
       <PwaLifecycleManager locale={isEnglishPage ? "en" : "ar"} />
+      </>}
     </ClientSafetyBoundary>
   );
 }

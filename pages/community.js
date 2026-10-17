@@ -9,7 +9,7 @@ export default function CommunityPage() {
     <>
       <Head>
         <title>المجتمع | بيت الريف</title>
-        <meta name="description" content="مجتمع بيت الريف هو مساحة لتبادل الأسئلة والخبرات حول البناء والصيانة والتشطيب ومزودي الخدمات في الإمارات." />
+        <meta name="description" content="مجتمع بيت الريف هو مساحة لتبادل الأسئلة والخبرات حول البناء والصيانة والتشطيب والشركات والمهنيين في الإمارات." />
         <link rel="canonical" href="https://bietalreef.ae/community" />
       </Head>
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900">
@@ -23,7 +23,7 @@ export default function CommunityPage() {
               </span>
               <h1 className="mt-6 text-3xl font-black leading-tight md:text-5xl">مجتمع بيت الريف</h1>
               <p className="mt-5 max-w-3xl text-lg leading-9 text-white/90">
-                مساحة مخصصة لأسئلة أصحاب المشاريع، خبرات مزودي الخدمات، ومحتوى يساعد على اتخاذ قرارات أفضل في البناء والصيانة والتشطيب.
+                مساحة مخصصة لأسئلة أصحاب المشاريع، خبرات الشركات والمهنيين، ومحتوى يساعد على اتخاذ قرارات أفضل في البناء والصيانة والتشطيب.
               </p>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:justify-center md:justify-start">
                 <Link href="/faq" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-8 py-4 font-black text-[#0F3F1A]">
@@ -42,8 +42,8 @@ export default function CommunityPage() {
             <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
               {[
                 ['أسئلة العملاء', 'أسئلة قصيرة حول المقاولات والصيانة والمواد قبل طلب عرض السعر.'],
-                ['خبرات المزودين', 'محتوى يساعد المزودين على شرح خدماتهم ومناطق عملهم بوضوح.'],
-                ['نصائح البناء', 'إرشادات عملية تساعد المستخدم على اختيار الخدمة والمزود المناسب.'],
+                ['خبرات الشركات', 'محتوى يساعد الشركات على شرح خدماتهم ومناطق عملهم بوضوح.'],
+                ['نصائح البناء', 'إرشادات عملية تساعد المستخدم على اختيار الخدمة والشركة المناسبة.'],
               ].map(([title, desc]) => (
                 <div key={title} className="rounded-3xl border border-[#E6DCC8] bg-white p-7 shadow-sm">
                   <Wrench className="mb-4 h-7 w-7 text-primary" />

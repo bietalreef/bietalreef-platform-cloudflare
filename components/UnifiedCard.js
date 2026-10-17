@@ -124,7 +124,7 @@ export default function UnifiedCard({
         </div>
 
         <p className="text-xs text-gray-500 line-clamp-2 mb-4 leading-relaxed">
-          {description || `استكشف أفضل الخدمات والمزودين في ${config.location}.`}
+          {description || `استكشف أفضل الخدمات والشركات في ${config.location}.`}
         </p>
 
         {(seo || services) && (

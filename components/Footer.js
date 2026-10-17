@@ -38,11 +38,11 @@ const copy = {
     promoEyebrow: 'بيت الريف للأعمال',
     promoTitle: 'بيت الريف معك في المكتب، في الموقع، وفي كل مكان',
     promoText: 'استخدم منصة بيت الريف من متصفح الكمبيوتر في المكتب، واستمر من تطبيق بيت الريف على Android أثناء وجودك في موقع العمل أو أثناء التنقل.',
-    description: 'منصة رقمية إماراتية تساعد أصحاب المشاريع على اكتشاف مزودي الخدمات، وتمكّن الشركات والموردين والورش والحرفيين من تقديم أعمالهم وخدماتهم ومنتجاتهم بصورة واضحة ومنظمة.',
+    description: 'منصة رقمية إماراتية تساعد أصحاب المشاريع على اكتشاف الشركات والمهنيين، وتمكّن الشركات والموردين والورش والحرفيين من تقديم أعمالهم وخدماتهم ومنتجاتهم بصورة واضحة ومنظمة.',
     rights: 'جميع الحقوق محفوظة © 2026 بيت الريف',
     sections: [
       { id: 'biet-alreef', title: 'بيت الريف', icon: Home, links: [['/about', 'عن بيت الريف'], ['/why-biet-alreef', 'لماذا بيت الريف']] },
-      { id: 'platform', title: 'المنصة', icon: Layers3, links: [['/platform-for-business', 'كيف تعمل منصة بيت الريف للأعمال'], ['/join-provider', 'انضم كمزود خدمة إلى بيت الريف'], ['/business-solutions', 'حلول وخدمات بيت الريف للأعمال'], ['/start-your-store', 'أنشئ متجرك على بيت الريف'], ['/business-plans', 'خطط الأعمال والاشتراكات'], ['/blog', 'المدونة']] },
+      { id: 'platform', title: 'المنصة', icon: Layers3, links: [['/platform-for-business', 'كيف تعمل منصة بيت الريف للأعمال'], ['/join-provider', 'انضم كشركة متخصصة إلى بيت الريف'], ['/business-solutions', 'حلول وخدمات بيت الريف للأعمال'], ['/start-your-store', 'أنشئ متجرك على بيت الريف'], ['/business-plans', 'خطط الأعمال والاشتراكات'], ['/blog', 'المدونة']] },
       { id: 'partners', title: 'الشركاء', icon: Handshake, links: [['/partner-with-biet-alreef', 'الشراكة مع بيت الريف'], ['/join-biet-alreef', 'ضم شركتك إلى بيت الريف'], ['/google-cloud-biet-alreef', 'Google Cloud | بيت الريف'], ['/google-workspace-biet-alreef', 'Google Workspace | بيت الريف'], ['/weyaak-ai', 'وياك – الذكاء الاصطناعي من بيت الريف'], ['/suppliers-biet-alreef', 'الموردون مع بيت الريف'], ['/factories-workshops-biet-alreef', 'المصانع والورش مع بيت الريف']] },
       { id: 'support', title: 'الدعم', icon: Headphones, links: [['/contact', 'تواصل معنا'], ['/faq', 'الأسئلة الشائعة'], ['/support-policy', 'سياسة الدعم'], ['tel:+971564456337', 'اتصل بنا']] },
       { id: 'legal', title: 'القانونية', icon: ShieldCheck, links: [['/privacy', 'سياسة الخصوصية'], ['/legal', 'الشروط والأحكام'], ['/cookies', 'سياسة ملفات الارتباط'], ['/refund-policy', 'سياسة الاسترداد']] },
@@ -124,7 +124,7 @@ function EmirateFooterContext({ language, emirate }) {
             {isEnglish ? `${name} directory` : `دليل ${name}`}
           </p>
           <h2 className="mt-2 text-xl font-black text-[#0F3F1A]">
-            {isEnglish ? `Explore providers and services across ${name}` : `استكشف مزودي الخدمات والأعمال في ${name}`}
+            {isEnglish ? `Explore providers and services across ${name}` : `استكشف الشركات والمهنيين والأعمال في ${name}`}
           </h2>
         </div>
         <Link href={root} className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[#0F3F1A] px-5 py-2.5 text-sm font-black text-white">
@@ -170,7 +170,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
               <h2 className="mt-2 text-2xl font-black leading-tight text-[#102F18]">{t.promoTitle}</h2>
               <p className="mt-3 max-w-3xl text-sm font-semibold leading-7 text-gray-600">{t.promoText}</p>
             </div>
-            <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-xs" />
+            <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-sm" />
           </div>
           <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.4fr_repeat(5,minmax(0,1fr))]">
             <div className={`text-center lg:col-span-2 xl:col-span-1 ${desktopAlign}`}>

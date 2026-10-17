@@ -1,3 +1,5 @@
+import AlAinSectorDiscovery from '../../components/AlAinSectorDiscovery';
+import { CONTENT } from '../../data/alAinContent';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
@@ -119,15 +121,15 @@ export default function ServiceLandingPage({
         <Navbar pageTitle="الخدمات والعروض" />
         <SectionBackBar href="/services" label="العودة إلى الخدمات والعروض" />
         <main>
-          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} />
+          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
 
-          <section className="max-w-6xl mx-auto px-4 py-14">
+          {Object.hasOwn(CONTENT, service.slug) ? <AlAinSectorDiscovery category={service.slug} /> : <section className="max-w-6xl mx-auto px-4 py-14">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {['وصف الخدمة', 'طلب عرض سعر', 'اختيار المكان'].map((item, index) => (
                 <div key={item} className="rounded-3xl bg-white border border-[#E6DCC8] p-7 shadow-sm"><span className="text-sm font-black text-[#6F5400]">0{index + 1}</span><h2 className="mt-3 text-xl font-black text-[#0F3F1A]">{item}</h2><p className="mt-3 text-sm leading-8 text-gray-600">{index === 0 && `تعرف على نطاق ${service.nameAr} وما يناسب مشروعك.`}{index === 1 && 'أرسل تفاصيل المشروع لتحصل على توجيه مناسب بدل الأسعار العشوائية.'}{index === 2 && 'إذا كنت تبحث حسب المدينة، انتقل إلى دليل الإمارات لاختيار الإمارة والمنطقة.'}</p></div>
               ))}
             </div>
-          </section>
+          </section>}
 
           {false && isWorkshopsPage && (
             <section className="max-w-6xl mx-auto px-4 py-10" aria-label="إعلان مصنع الحوت">
@@ -142,7 +144,7 @@ export default function ServiceLandingPage({
                     </div>
                   </div>
                   <div className="bg-white p-8 md:p-10">
-                    <div className="flex flex-wrap gap-2"><span className="rounded-full bg-emerald-50 px-3 py-1.5 text-xs font-black text-emerald-700">موثق</span><span className="rounded-full bg-[#FFF8E5] px-3 py-1.5 text-xs font-black text-[#8A6A00]">مزود خدمة</span><span className="rounded-full bg-[#FDFBF7] px-3 py-1.5 text-xs font-black text-[#0F3F1A]">الورش الصناعية</span></div>
+                    <div className="flex flex-wrap gap-2"><span className="rounded-full bg-emerald-50 px-3 py-1.5 text-xs font-black text-emerald-700">موثق</span><span className="rounded-full bg-[#FFF8E5] px-3 py-1.5 text-xs font-black text-[#8A6A00]">شركة متخصصة</span><span className="rounded-full bg-[#FDFBF7] px-3 py-1.5 text-xs font-black text-[#0F3F1A]">الورش الصناعية</span></div>
                     <div className="mt-6 grid gap-3 sm:grid-cols-4">{['رخام طبيعي', 'جرانيت', 'كوارتز', 'تركيب احترافي'].map((item) => <div key={item} className="rounded-2xl border border-[#E6DCC8] bg-[#FDFBF7] px-4 py-3 text-center text-xs font-black text-[#0F3F1A]">{item}</div>)}</div>
                     <div className="mt-7 flex flex-col gap-3 sm:flex-row"><Link href="/providers/al-hoot-marble-granite-factory" className="inline-flex justify-center rounded-2xl bg-[#0F3F1A] px-7 py-3 text-sm font-black text-white hover:bg-[#D4AF37] hover:text-[#0F3F1A] transition">افتح ملف المصنع</Link><a href={WHITE_WHALE_SERVICE_WHATSAPP} target="_blank" rel="noopener noreferrer" className="inline-flex justify-center rounded-2xl border border-[#D4AF37]/50 px-7 py-3 text-sm font-black text-[#0F3F1A] hover:bg-[#FFF8E5] transition">تواصل واتساب</a></div>
                   </div>

@@ -31,7 +31,7 @@ export default function EmiratePage({ emirate, emirateSlug, directoryCards = [] 
     h1: `خدمات بيت الريف في ${emirate.nameAr}`,
     desc: isAbuDhabi
       ? 'اكتشف شركات المقاولات والمؤسسات والورش والحرفيين والموردين والمتاجر والخدمات والمنتجات في أبوظبي والعين ومناطق الإمارة عبر دليل بيت الريف.'
-      : `استكشف قطاعات البناء والمقاولات والصيانة والتصميم ومواد البناء والموردين ومزودي الخدمات في ${emirate.nameAr} عبر دليل بيت الريف.`,
+      : `استكشف قطاعات البناء والمقاولات والصيانة والتصميم ومواد البناء والموردين والشركات والمهنيين في ${emirate.nameAr} عبر دليل بيت الريف.`,
   };
   const pageTitle = isAbuDhabi
     ? 'دليل أبوظبي للخدمات والمنتجات والموردين | بيت الريف'
@@ -106,14 +106,14 @@ export default function EmiratePage({ emirate, emirateSlug, directoryCards = [] 
 
           <AbuDhabiDirectoryIntro locale="ar" emirate={emirate} />
 
-          {showAlHootSeoPath && <SeoProofCards title="مسار حقيقي داخل صفحة أبوظبي" desc="هذه الصفحة لا تكتفي بنص SEO عام. يوجد داخلها مثال واضح لمسار العميل: مزود موثق للرخام والجرانيت، خدمة قابلة للطلب، منتج واضح، وخطوة معاينة أو عرض سعر مرتبطة بملف مصنع الحوت." />}
+          {showAlHootSeoPath && <SeoProofCards title="مسار حقيقي داخل صفحة أبوظبي" desc="هذه الصفحة لا تكتفي بنص SEO عام. يوجد داخلها مثال واضح لمسار العميل: جهة موثق للرخام والجرانيت، خدمة قابلة للطلب، منتج واضح، وخطوة معاينة أو عرض سعر مرتبطة بملف مصنع الحوت." />}
 
           <UaeDirectorySectorCards emirate={emirate} locale="ar" directoryCards={directoryCards} />
 
           <SeoContent title={`${emirate.nameAr} داخل دليل بيت الريف`}>
             <p>{emirate.description}</p>
             <p className="mt-4">تعرض الصفحة سبع بطاقات للوصول إلى الشركات والمؤسسات والورش والحرفيين، وسبع بطاقات للخدمات والعروض، وأربع بطاقات للمنتجات والمتاجر. تأتي أسماء البطاقات وترتيبها مباشرة من القاموس المركزي للمنصة.</p>
-            {showAlHootSeoPath && <p className="mt-4">تم دعم صفحة أبوظبي بمسار داخلي واضح يربط بين محتوى البحث الجغرافي ومزود خدمة فعلي داخل المنصة، مثل مصنع الحوت الأبيض للرخام والجرانيت.</p>}
+            {showAlHootSeoPath && <p className="mt-4">تم دعم صفحة أبوظبي بمسار داخلي واضح يربط بين محتوى البحث الجغرافي وشركة متخصصة فعلي داخل المنصة، مثل مصنع الحوت الأبيض للرخام والجرانيت.</p>}
           </SeoContent>
 
           <UaeSmartFooter locale="ar" pageType="emirate" emirate={emirate} directoryCards={directoryCards} />

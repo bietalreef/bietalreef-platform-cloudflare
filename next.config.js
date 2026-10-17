@@ -28,6 +28,29 @@ const nextConfig = {
         source: '/:path*',
         headers: securityHeaders,
       },
+      // Host-matched protection also covers prerendered assets and static pages.
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }],
+        headers: [
+          { key: 'X-Robots-Tag', value: 'noindex, nofollow, noarchive, nosnippet' },
+          { key: 'Cache-Control', value: 'no-store' },
+        ],
+      },
+      // Read-only responsive QA on the staging host only. Production keeps DENY.
+      {
+        source: '/preview/al-ain-responsive',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }],
+        headers: securityHeaders.filter(header => header.key === 'Content-Security-Policy').map(header => ({ ...header, value: header.value.replace('frame-src https:', "frame-src 'self' https:") })),
+      },
+      {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'bietalreef-platform-staging.bietalreef.workers.dev' }, { type: 'query', key: '__responsive', value: '1' }],
+        headers: [
+          ...securityHeaders.filter(header => header.key === 'Content-Security-Policy').map(header => ({ ...header, value: header.value.replace("frame-ancestors 'none'", "frame-ancestors 'self'") })),
+          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+        ],
+      },
       {
         source: '/images/:path*',
         headers: [{ key: 'Cache-Control', value: 'public, max-age=31536000, immutable' }],

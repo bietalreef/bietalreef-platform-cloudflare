@@ -11,7 +11,7 @@ const organizationSchema = {
   legalName: 'مؤسسة بيت الريف للمقاولات العامة',
   url: 'https://bietalreef.ae',
   logo: { '@type': 'ImageObject', url: 'https://bietalreef.ae/logo.png' },
-  description: 'بيت الريف منصة رقمية إماراتية متخصصة في قطاع البناء والمقاولات والتشطيبات، تربط العملاء بمزودي الخدمات والمقاولين والموردين وتوفر مسارات لاكتشاف الخدمات والمنتجات.',
+  description: 'بيت الريف منصة رقمية إماراتية متخصصة في قطاع البناء والمقاولات والتشطيبات، تربط العملاء بالشركات والمهنيين والمقاولين والموردين وتوفر مسارات لاكتشاف الخدمات والمنتجات.',
   areaServed: { '@type': 'Country', name: 'United Arab Emirates' },
   knowsLanguage: ['ar-AE', 'en-AE'],
   contactPoint: {

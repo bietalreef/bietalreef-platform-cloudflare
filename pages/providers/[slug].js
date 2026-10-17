@@ -11,10 +11,10 @@ export default function ProviderPage({ provider, emirate, area }) {
   if (!provider) {
     return (
       <>
-        <Head><title>مزود الخدمة غير موجود | بيت الريف</title></Head>
+        <Head><title>الشركة غير موجود | بيت الريف</title></Head>
         <Navbar />
         <div className="min-h-screen flex items-center justify-center bg-[#FDFBF7]">
-          <div className="text-center"><h1 className="text-3xl font-black text-[#0F3F1A] mb-4">مزود الخدمة غير موجود</h1><Link href="/providers" className="text-[#B8922B] font-black hover:underline">العودة إلى قائمة المزودين</Link></div>
+          <div className="text-center"><h1 className="text-3xl font-black text-[#0F3F1A] mb-4">الشركة غير موجود</h1><Link href="/providers" className="text-[#B8922B] font-black hover:underline">العودة إلى قائمة الشركات</Link></div>
         </div>
         <Footer />
       </>
@@ -58,7 +58,7 @@ export default function ProviderPage({ provider, emirate, area }) {
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'الرئيسية', item: 'https://bietalreef.ae' },
-      { '@type': 'ListItem', position: 2, name: 'مزودو الخدمات', item: 'https://bietalreef.ae/providers' },
+      { '@type': 'ListItem', position: 2, name: 'الشركات والمهنيون', item: 'https://bietalreef.ae/providers' },
       { '@type': 'ListItem', position: 3, name: provider.nameAr, item: providerUrl },
     ],
   };
@@ -92,7 +92,7 @@ export default function ProviderPage({ provider, emirate, area }) {
             <div className="mx-auto max-w-6xl">
               <Link href="/providers" className="mb-4 inline-flex items-center gap-2 rounded-full border border-[#B8922B]/30 bg-white px-4 py-2 text-sm font-black text-[#0F3F1A] shadow-sm transition hover:bg-[#FFF8E5]">
                 <ChevronDown className="h-4 w-4 rotate-90" />
-                العودة إلى مزودي الخدمات
+                العودة إلى الشركات والمهنيين
               </Link>
 
               <div className="group relative min-h-[720px] overflow-hidden rounded-[2.5rem] border border-[#E8C968]/35 bg-[#071A24] shadow-[0_35px_100px_-35px_rgba(4,23,34,.9)]">
@@ -108,7 +108,7 @@ export default function ProviderPage({ provider, emirate, area }) {
                       <div className="relative mx-auto lg:mx-0">
                         <div className="relative flex h-44 w-44 items-center justify-center rounded-full border-[5px] border-[#D4AF37] bg-white p-0 shadow-[0_0_0_5px_rgba(255,255,255,.9),0_0_0_8px_rgba(212,175,55,.35),0_24px_50px_rgba(15,63,26,.25)] md:h-48 md:w-48">
                           <Image src={provider.logo} alt={`شعار ${provider.nameAr}`} width={220} height={220} className="h-full w-full scale-[1.22] rounded-full object-contain" />
-                          {provider.verified && <span className="absolute bottom-0 right-0 flex h-12 w-12 items-center justify-center rounded-full border-4 border-white bg-gradient-to-br from-[#F4D76B] to-[#B8860B] text-[#0B3D23] shadow-[0_8px_20px_rgba(184,134,11,.4)]" aria-label="مزود موثق"><BadgeCheck className="h-7 w-7" /></span>}
+                          {provider.verified && <span className="absolute bottom-0 right-0 flex h-12 w-12 items-center justify-center rounded-full border-4 border-white bg-gradient-to-br from-[#F4D76B] to-[#B8860B] text-[#0B3D23] shadow-[0_8px_20px_rgba(184,134,11,.4)]" aria-label="جهة موثق"><BadgeCheck className="h-7 w-7" /></span>}
                         </div>
                       </div>
                       <div className="min-w-0 text-center lg:text-right">
@@ -140,7 +140,7 @@ export default function ProviderPage({ provider, emirate, area }) {
 
           <section className="border-b border-[#D4AF37]/20 bg-[#111812] text-white"><div className="mx-auto max-w-6xl px-4 py-10"><div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4"><BusinessInfo icon={<Factory />} label="النشاط الرئيسي" value="تصنيع وتوريد الرخام والجرانيت" /><BusinessInfo icon={<MapPin />} label="الموقع" value="مزيد، مدينة العين – أبوظبي" /><BusinessInfo icon={<Navigation />} label="نطاق الخدمة" value="العين وأبوظبي وحسب المشروع" /><BusinessInfo icon={<Clock />} label="مواعيد العمل" value={provider.workingHours} /></div></div></section>
 
-          {provider.aboutAr && <section className="mx-auto max-w-6xl px-4 py-16"><div className="grid gap-10 lg:grid-cols-2 lg:items-center"><div className="relative overflow-hidden rounded-[2rem]"><Image src="/images/providers/al-hoot/about-factory.jpg" alt="مصنع الحوت الأبيض للرخام والجرانيت" width={1344} height={768} className="w-full h-auto rounded-[2rem] object-cover" /></div><div><p className="font-black text-[#B8922B]">تعرف على المصنع</p><h2 className="mt-2 text-3xl font-black text-[#0F3F1A] leading-tight">مزود متخصص في الرخام والجرانيت والكوارتز</h2><p className="mt-6 leading-9 text-gray-600">{provider.aboutAr}</p><div className="mt-8 grid grid-cols-3 gap-4"><FeatureCard icon={<Hammer className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="تصنيع حسب الطلب" /><FeatureCard icon={<Layers className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="خامات متنوعة" /><FeatureCard icon={<Users className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="تنسيق مباشر" /></div></div></div></section>}
+          {provider.aboutAr && <section className="mx-auto max-w-6xl px-4 py-16"><div className="grid gap-10 lg:grid-cols-2 lg:items-center"><div className="relative overflow-hidden rounded-[2rem]"><Image src="/images/providers/al-hoot/about-factory.jpg" alt="مصنع الحوت الأبيض للرخام والجرانيت" width={1344} height={768} className="w-full h-auto rounded-[2rem] object-cover" /></div><div><p className="font-black text-[#B8922B]">تعرف على المصنع</p><h2 className="mt-2 text-3xl font-black text-[#0F3F1A] leading-tight">جهة متخصص في الرخام والجرانيت والكوارتز</h2><p className="mt-6 leading-9 text-gray-600">{provider.aboutAr}</p><div className="mt-8 grid grid-cols-3 gap-4"><FeatureCard icon={<Hammer className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="تصنيع حسب الطلب" /><FeatureCard icon={<Layers className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="خامات متنوعة" /><FeatureCard icon={<Users className="mx-auto h-6 w-6 text-[#D4AF37]" />} label="تنسيق مباشر" /></div></div></div></section>}
 
           <section className="mx-auto max-w-6xl px-4 pb-16"><div className="relative overflow-hidden rounded-[2.5rem_1rem_2.5rem_1rem] border border-[#D4AF37]/35 bg-[#071A24] p-7 shadow-[0_28px_70px_-34px_rgba(4,23,34,.8)] md:p-10"><Image src="/images/providers/al-hoot/gallery-6.jpg" alt="تصنيع الرخام داخل مصنع الحوت الأبيض" fill className="object-cover" /><div className="absolute inset-0 bg-gradient-to-l from-[#03131D]/95 via-[#061B28]/88 to-[#061B28]/65" /><div className="relative"><p className="font-black text-[#F4D76B]">الخدمات والمنتجات</p><h2 className="mt-2 max-w-3xl text-3xl font-black leading-tight text-white">مسارات عمل حقيقية من التوريد إلى التركيب</h2><p className="mt-3 max-w-3xl leading-8 text-white/70">خدمات المصنع منظمة حسب احتياج المشروع ونوع الخامة، من اختيار الحجر وحتى التصنيع والتركيب في الموقع.</p><div className="mt-8 grid grid-cols-2 gap-3 lg:grid-cols-4">{(provider.services || []).map((service, index) => <div key={service} className="group flex min-h-[88px] items-center gap-3 rounded-2xl border border-white/15 bg-black/30 p-3 text-sm font-black text-white backdrop-blur-md transition duration-300 hover:-translate-y-1 hover:border-[#D4AF37]/60 hover:bg-[#D4AF37]/15"><span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-gradient-to-br from-[#F5D96F] to-[#A97D12] text-xs text-[#102D20] shadow-lg">{String(index + 1).padStart(2, '0')}</span><span className="leading-6">{service}</span></div>)}</div></div></div></section>
 

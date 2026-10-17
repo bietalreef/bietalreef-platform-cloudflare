@@ -76,7 +76,7 @@ function DirectoryProviderCard({ provider, emirateSlug, locale }) {
         <div className="flex items-start justify-between gap-3">
           <div>
             <h3 className="text-xl font-black leading-8 text-[#0F3F1A]">{name}</h3>
-            <p className="mt-2 flex items-center gap-1.5 text-sm font-bold text-[#6B5530]"><MapPin className="h-4 w-4" />{isEn ? 'Provider location:' : 'موقع المزود:'} {primaryLocationLabel(provider, locale)}</p>
+            <p className="mt-2 flex items-center gap-1.5 text-sm font-bold text-[#6B5530]"><MapPin className="h-4 w-4" />{isEn ? 'Provider location:' : 'موقع الشركة:'} {primaryLocationLabel(provider, locale)}</p>
             <p className="mt-1 text-xs font-bold leading-6 text-gray-500">{isEn ? 'Service coverage:' : 'نطاق تقديم الخدمة:'} {locationLabel(provider, emirateSlug, locale)}</p>
           </div>
           {provider.verified ? <BadgeCheck className="h-6 w-6 shrink-0 text-[#B8860B]" aria-label={isEn ? 'Verified' : 'موثّق'} /> : null}
@@ -98,10 +98,10 @@ export default function UaeActivityProviders({ emirate, area = null, service, lo
   return (
     <section dir={isEn ? 'ltr' : 'rtl'} className="mx-auto max-w-6xl px-4 py-12 md:py-16">
       <div className={isEn ? 'mb-8 text-left' : 'mb-8 text-right'}>
-        <span className="inline-flex rounded-full border border-[#DCCAA7] bg-[#FFF9EC] px-4 py-1.5 text-xs font-black text-[#8A611B]">{isEn ? 'Approved providers' : 'مزودون معتمدون'}</span>
-        <h2 className="mt-4 text-3xl font-black text-[#0F3F1A]">{isEn ? `${service.nameEn} providers in ${locationName}` : `مزودو ${service.nameAr} في ${locationName}`}</h2>
+        <span className="inline-flex rounded-full border border-[#DCCAA7] bg-[#FFF9EC] px-4 py-1.5 text-xs font-black text-[#8A611B]">{isEn ? 'Approved providers' : 'شركاتن معتمدون'}</span>
+        <h2 className="mt-4 text-3xl font-black text-[#0F3F1A]">{isEn ? `${service.nameEn} providers in ${locationName}` : `شركات ${service.nameAr} في ${locationName}`}</h2>
       </div>
-      {providers.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2">{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-dashed border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600">{isEn ? 'Approved subscribed providers will appear here.' : 'ستظهر هنا ملفات مزودي الخدمة المشتركين بعد اعتمادها.'}</div>}
+      {providers.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2">{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-dashed border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600">{isEn ? 'Approved subscribed providers will appear here.' : 'ستظهر هنا ملفات الشركات المشتركين بعد اعتمادها.'}</div>}
     </section>
   );
 }

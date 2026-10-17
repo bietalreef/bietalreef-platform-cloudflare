@@ -12,7 +12,7 @@ export default function UaeProviderJoinCTA({ locale = 'ar', emirate = null, area
     : `العميل الذي يبحث عن ${specialty ? `${specialty} في ` : 'خدمة داخل '}${location} يجب أن يجد شركتك هنا. انضم إلى بيت الريف واجعل نشاطك حاضرًا في المكان الذي يبحث فيه العميل عن خدمتك.`;
 
   return (
-    <section dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FDFBF7] px-4 py-8 md:py-11" aria-label={isEn ? 'Join the Biet Al Reef provider directory' : 'انضم إلى دليل مزودي بيت الريف'}>
+    <section dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FDFBF7] px-4 py-8 md:py-11" aria-label={isEn ? 'Join the Biet Al Reef provider directory' : 'انضم إلى دليل الشركات على بيت الريف'}>
       <div className="mx-auto grid max-w-6xl items-center gap-5 overflow-hidden rounded-[2rem] border border-[#D9B75A]/55 bg-[linear-gradient(135deg,#FFFDF7_0%,#F8F0DA_100%)] p-6 shadow-[0_20px_55px_rgba(138,106,0,.10)] md:grid-cols-[150px_1fr_auto] md:p-8">
         <div className="relative mx-auto h-28 w-28 md:h-36 md:w-36"><Image src="/images/ui-icons-3d/provider-worker.webp" alt="" fill className="object-contain" sizes="144px" /></div>
         <div className={isEn ? 'text-left' : 'text-right'}>

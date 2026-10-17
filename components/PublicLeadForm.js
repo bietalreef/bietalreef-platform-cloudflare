@@ -103,7 +103,7 @@ export default function PublicLeadForm({ formType = 'quote' }) {
     const work = (WORK_TYPES[category] || []).find(item => item[1] === params.get('work') || item[2] === params.get('work'));
     const workName = work?.[1] || service?.name.ar || CONTENT[category]?.name.ar || '';
     if (params.get('city') === 'al-ain') {
-      setForm(current => ({ ...current, city: `العين${area ? ` – ${area.nameAr}` : ''}`, project_description: `طلب عرض سعر${workName ? ` — ${workName}` : ''}${validSlug(provider) ? ` — ${provider}` : ''}. تفاصيل العمل المطلوب:` }));
+      setForm(current => ({ ...current, emirate: 'أبوظبي', city: `العين${area ? ` – ${area.nameAr}` : ''}`, project_description: `طلب عرض سعر${workName ? ` — ${workName}` : ''}${validSlug(provider) ? ` — ${provider}` : ''}. تفاصيل العمل المطلوب:` }));
     }
   }, []);
 

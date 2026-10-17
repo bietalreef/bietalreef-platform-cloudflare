@@ -1,3 +1,4 @@
+import { CONTENT } from '../../../../data/alAinContent';
 import LocalServicesPage from '../../../../components/LocalServicesPage';
 import { localProps } from '../../../../lib/localRouteProps';
 import { AREAS, CATEGORY } from '../../../../data/localServices';
@@ -53,7 +54,7 @@ export default function AreaServicePage({ model, emirate, area, service, emirate
 }
 
 export async function getStaticProps({ params }) {
-  if (params.activity === 'abu-dhabi' && params.emirate === 'al-ain' && (params.service === CATEGORY.slug || AREAS.some(area => area.slug === params.service))) return localProps('ar', [params.service]);
+  if (params.activity === 'abu-dhabi' && params.emirate === 'al-ain' && (Boolean(CONTENT[params.service]) || AREAS.some(area => area.slug === params.service))) return localProps('ar', [params.service]);
   if (params.activity === '[emirate]' && params.emirate === '[area]' && params.service === '[service]') {
     return {
       redirect: {

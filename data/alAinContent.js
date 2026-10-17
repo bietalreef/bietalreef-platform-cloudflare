@@ -1,0 +1,54 @@
+// Editorial guidance, never a substitute for published company/service records.
+// Search research: docs/al-ain-search-research-2026-10-17.md.
+const REVIEWED_AT = '2026-10-17';
+const CONTENT = {
+  'cleaning-services': {
+    name: { ar: 'شركات وخدمات التنظيف', en: 'Cleaning companies and services' },
+    image: '/images/providers/alrehab/service-sofa.webp',
+    queries: { ar: ['شركة تنظيف العين', 'شركات تنظيف المنازل في العين', 'تنظيف فلل العين', 'تنظيف عميق العين'], en: ['cleaning companies Al Ain', 'villa cleaning Al Ain', 'deep cleaning Al Ain'] },
+    intro: { ar: 'ابدأ بنوع التنظيف المطلوب: منزل كامل، فيلا، كنب أو واجهة. راجع نطاق الخدمة المنشور لكل شركة، ثم أرسل تفاصيل المكان لتتلقى عرضًا يناسب العمل المطلوب.', en: 'Start with the work you need: a home, villa, sofa or facade. Review each company’s published scope, then share property details for a quotation matching the work.' },
+    sections: [
+      { title: { ar: 'اختر نطاق التنظيف قبل مقارنة الشركات', en: 'Choose the cleaning scope before comparing companies' }, body: { ar: 'التنظيف العميق للمطبخ والحمامات والأرضيات يختلف عن ترتيب المنزل الدوري أو تنظيف المفروشات. حدد الأسطح والغرف المطلوبة، وما إذا كان العقار مأهولًا أو فارغًا أو بعد التشطيب. لا تفترض أن الزجاج الخارجي أو إزالة مخلفات البناء داخل العرض.', en: 'Deep cleaning kitchens, bathrooms and floors differs from routine housekeeping or upholstery cleaning. Specify rooms, surfaces and whether the property is occupied, empty or recently finished. Do not assume exterior glass or construction waste removal is included.' } },
+      { title: { ar: 'تنظيف عميق أم مساعدة منزلية بالساعة؟', en: 'Deep cleaning or hourly housekeeping?' }, body: { ar: 'حدد الخدمة قبل التواصل. التنظيف العميق بالمعدات له نطاق ونتيجة متفق عليهما، بينما المساعدة المنزلية بالساعة طلب مختلف. لا يُنسب إلى أي شركة توفير عاملات أو خدمة بالساعة إلا إذا كانت منشورة في بياناتها.', en: 'Agree on the service before contacting a company. Equipment-based deep cleaning has an agreed scope and outcome; hourly housekeeping is a different request. Hourly staff are only offered where explicitly published by the company.' } },
+    ],
+    checklist: { ar: ['نوع العقار والمساحة وعدد الغرف والحمامات', 'منزل مأهول أم فارغ أم بعد التشطيب؟', 'صور الأسطح والبقع والأماكن التي تحتاج عناية', 'منطقة العين والموعد وإمكانية الوصول'], en: ['Property type, area and room/bathroom count', 'Occupied, empty or post-construction?', 'Photos of surfaces, stains and priority areas', 'Al Ain district, preferred date and access'] },
+    pricing: { ar: 'تتأثر التكلفة بمساحة العقار وحالته، والأسطح المطلوبة، والمعدات ووقت التنفيذ. قارن عروضًا لنفس البنود، واسأل عن المواد والتنقل والتجفيف وأي إضافات قبل اعتماد السعر.', en: 'Cost depends on property size, condition, surfaces, equipment and work time. Compare like-for-like scopes and confirm materials, transport, drying and extras before accepting a quote.' },
+    faq: [
+      { q: { ar: 'هل تشمل خدمة تنظيف المنزل الكنب والسجاد؟', en: 'Does home cleaning include sofas and carpets?' }, a: { ar: 'ليس تلقائيًا. راجع الخدمات المنشورة واتفق على عدد القطع والخامة وطريقة التنظيف وإدراجها في العرض.', en: 'Not automatically. Review published services and agree on item count, material, cleaning method and inclusion in the quotation.' } },
+      { q: { ar: 'كيف أعرف أن الشركة تخدم منطقتي في العين؟', en: 'How do I know a company serves my Al Ain district?' }, a: { ar: 'راجع نطاق التغطية في ملف الشركة وأرسل المنطقة قبل الحجز؛ التغطية لا تعني وجود فرع داخل الحي.', en: 'Check the company’s coverage and confirm your district before booking. Service coverage does not imply a neighbourhood branch.' } },
+    ],
+  },
+  'general-maintenance': {
+    name: { ar: 'صيانة المنازل والفلل', en: 'Home and villa maintenance' },
+    image: '/images/sector-cards/maintenance-finishing-ac-plumbing-electrical-card.webp',
+    queries: { ar: ['شركة صيانة العين', 'صيانة منازل العين', 'صيانة فلل العين', 'شركة صيانة عامة في العين'], en: ['home maintenance Al Ain', 'villa maintenance Al Ain', 'general maintenance Al Ain'] },
+    intro: { ar: 'حدد العطل أو أعمال الصيانة التي تحتاجها، ثم قارن نطاق العمل والفحص والمواد والضمان المكتوب. صيانة عطل واحد تختلف عن تجديد الفيلا أو عقد الصيانة الدوري.', en: 'Describe the fault or maintenance work, then compare inspection, scope, materials and written warranty. Repairing one fault differs from renovating a villa or arranging routine maintenance.' },
+    sections: [
+      { title: { ar: 'فحص واضح قبل الإصلاح', en: 'Define the inspection before repair' }, body: { ar: 'اذكر متى بدأ العطل وما الأجزاء المتأثرة، وهل المشكلة متكررة. اطلب تحديد تكلفة المعاينة، وما إذا كان العرض يشمل التشخيص وقطع الغيار وإعادة التشطيب بعد الإصلاح. الصور تساعد في تجهيز الزيارة ولا تحل محل الفحص المطلوب.', en: 'Explain when the issue started, affected areas and whether it recurs. Confirm inspection charges and whether diagnosis, replacement parts and making good after repair are included. Photos help prepare a visit but do not replace necessary inspection.' } },
+      { title: { ar: 'طلب واحد أم عقد صيانة؟', en: 'One repair or a maintenance contract?' }, body: { ar: 'للعطل المحدد، اطلب عرضًا يصف الإصلاح واختبار النتيجة. للعقد الدوري، قارن عدد الزيارات والأجهزة المشمولة والاستثناءات وقطع الغيار وطريقة استقبال البلاغات. لا تفترض توفر طوارئ أو استجابة خلال وقت محدد دون تأكيد الشركة.', en: 'For a specific fault, request a scope describing the repair and completion checks. For a recurring contract, compare visits, covered systems, exclusions, parts and reporting arrangements. Emergency availability or response times need company confirmation.' } },
+    ],
+    checklist: { ar: ['نوع العقار ومنطقة العين', 'وصف العطل والأجزاء المتأثرة وتاريخ ظهوره', 'صور متاحة وبيانات الجهاز إن وجدت', 'إصلاح منفرد أم أعمال متعددة أم عقد دوري؟'], en: ['Property type and Al Ain district', 'Fault description, affected areas and onset', 'Available photos and equipment details', 'Single repair, multiple tasks or routine contract?'] },
+    pricing: { ar: 'يعتمد السعر على الفحص ونوع العطل وصعوبة الوصول والمواد وقطع الغيار وإعادة التشطيب. اطلب فصل أجور العمل والمواد والاستثناءات، وتحديد الضمان ونطاقه كتابةً.', en: 'Price depends on inspection, fault type, access, materials, replacement parts and making good. Ask for labour, materials and exclusions separately, with the warranty scope in writing.' },
+    faq: [
+      { q: { ar: 'هل الصيانة العامة تشمل التكييف والكهرباء والسباكة؟', en: 'Does general maintenance cover AC, electrical and plumbing work?' }, a: { ar: 'يختلف نطاق كل شركة. تظهر التخصصات والخدمات المعتمدة من بياناتها، ويجب تأكيد البنود المطلوبة قبل التعاقد.', en: 'Each company has a different scope. Check its published specialties and confirm the required work before contracting.' } },
+      { q: { ar: 'هل أختار عقد صيانة سنويًا؟', en: 'Should I choose an annual maintenance contract?' }, a: { ar: 'قارن احتياج العقار للزيارات الدورية مع البنود والاستثناءات والتكلفة، واطلب عقدًا يوضح الخدمات الفعلية المشمولة.', en: 'Compare the property’s recurring needs against coverage, exclusions and cost. Request a written contract listing the work included.' } },
+    ],
+  },
+  'general-contracting': {
+    name: { ar: 'شركات المقاولات وبناء الفلل', en: 'Contracting companies and villa construction' },
+    image: '/images/sector-cards/general-contracting-construction-card.webp',
+    queries: { ar: ['شركة مقاولات العين', 'شركات مقاولات في العين', 'مقاول بناء فلل العين', 'مقاولات عامة العين'], en: ['contracting companies Al Ain', 'villa construction Al Ain', 'general contracting Al Ain'] },
+    intro: { ar: 'تبحث عن مقاول لبناء فيلا أو ملحق أو تنفيذ أعمال إنشائية؟ ابدأ بمرحلة مشروعك والمخططات ونطاق التنفيذ، وقارن عروضًا على مواصفات وكميات واضحة.', en: 'Looking for a contractor for a villa, annex or structural work? Start with the project stage, drawings and construction scope, then compare quotations against clear quantities and specifications.' },
+    sections: [
+      { title: { ar: 'حدد مرحلة المشروع ونوع العقد', en: 'Define the project stage and contract scope' }, body: { ar: 'وضح إن كان الطلب بناءً جديدًا أو توسعة أو ترميمًا، وهل لديك مخططات وجدول كميات. حدد إن كان العرض للهيكل فقط أو يشمل التشطيب، وما المواد التي يقدمها المقاول. تختلف مسؤوليات التنفيذ والإشراف والتصميم؛ اطلب توضيحها في العرض.', en: 'State whether this is new construction, an extension or refurbishment, and whether drawings and quantities are available. Specify shell-only or finishing-inclusive work and who supplies materials. Clarify construction, supervision and design responsibilities in the quotation.' } },
+      { title: { ar: 'قارن العرض بالتفاصيل', en: 'Compare the details of each quotation' }, body: { ar: 'راجع الكميات والمواصفات والاستثناءات ومراحل الدفع والمدة وآلية التغييرات والتسليم. اطلب نماذج أعمال فعلية ذات صلة بمشروعك، وتحقق من بيانات الشركة ونطاق نشاطها قبل التعاقد. لا تعتمد على سعر متر منفرد دون معرفة ما يشمله.', en: 'Review quantities, specifications, exclusions, payment stages, programme, variations and handover. Request relevant completed work and check company details and business scope before contracting. A price per square metre alone does not define what is included.' } },
+    ],
+    checklist: { ar: ['موقع المشروع ونوع العقار ومرحلة العمل', 'المخططات والمساحة وجدول الكميات إن توفر', 'هيكل فقط أم تنفيذ مع التشطيب؟', 'المواصفات والموعد المستهدف وحدود نطاق المقاول'], en: ['Project location, property type and work stage', 'Drawings, area and quantities if available', 'Shell-only or construction with finishes?', 'Specifications, target programme and contractor scope'] },
+    pricing: { ar: 'يتحدد عرض المقاولات من المخططات والكميات والمواصفات وطبيعة الموقع ونطاق التنفيذ. اطلب عرضًا مفصلًا يوضح المواد والأعمال والاستثناءات ومراحل الدفع بدل الاعتماد على سعر موحد لجميع الفلل.', en: 'A construction quotation depends on drawings, quantities, specifications, site conditions and scope. Request an itemised proposal covering materials, work, exclusions and payment stages rather than a universal villa price.' },
+    faq: [
+      { q: { ar: 'ما المطلوب لطلب عرض بناء فيلا في العين؟', en: 'What is needed for a villa construction quotation in Al Ain?' }, a: { ar: 'موقع المشروع والمساحة والمخططات المتاحة ومستوى التشطيب ونطاق العمل المطلوب. يوضح المقاول ما ينقص لتقديم عرض قابل للمقارنة.', en: 'Provide the location, area, available drawings, finish level and required scope. The contractor can identify missing details needed for a comparable quotation.' } },
+      { q: { ar: 'هل المقاول يتولى التصميم والإشراف؟', en: 'Does the contractor handle design and supervision?' }, a: { ar: 'لا تفترض ذلك. اطلب تحديد مسؤوليات كل جهة والخدمات المتعاقد عليها بصورة مستقلة وواضحة.', en: 'Do not assume so. Ask for the responsibilities and contracted services of each party to be clearly defined.' } },
+    ],
+  },
+};
+module.exports = { CONTENT, REVIEWED_AT };

@@ -1,3 +1,4 @@
+import AlAinContentPage from './AlAinContentPage';
 import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -10,6 +11,10 @@ import { CONSENT_EVENT, analyticsConsent } from './PrivacyConsentCenter';
 import { trackPublicEvent } from '../lib/publicAnalytics';
 
 export default function LocalServicesPage({ model }) {
+  return model.content ? <AlAinContentPage model={model} /> : <ExistingLocalServicesPage model={model} />;
+}
+
+function ExistingLocalServicesPage({ model }) {
   const { locale, area, city, category, providers, areas } = model;
   const en = locale === 'en';
   const name = item => en ? item.nameEn : item.nameAr;

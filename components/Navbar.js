@@ -1,5 +1,6 @@
-import BusinessCategoryIcon from './BusinessCategoryIcon';
 'use client';
+
+import BusinessCategoryIcon from './BusinessCategoryIcon';
 
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';

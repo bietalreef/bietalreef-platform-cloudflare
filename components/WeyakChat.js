@@ -8,7 +8,7 @@ import { applyAnswerToWeyaakState } from '../lib/weyaakConversationState';
 const AUDIENCE_ACTIONS = {
   ar: [
     { label: 'أنا مستخدم وأبحث عن خدمة', message: 'أنا مستخدم أو عميل وأبحث عن خدمة.' },
-    { label: 'أنا مزود خدمة', message: 'أنا مزود خدمة وصاحب نشاط تجاري.' },
+    { label: 'أنا شركة متخصصة', message: 'أنا شركة متخصصة وصاحب نشاط تجاري.' },
   ],
   en: [
     { label: 'I need a service', message: 'I am a customer looking for a service.' },
@@ -19,7 +19,7 @@ const AUDIENCE_ACTIONS = {
 const CHAT_COPY = {
   ar: {
     greeting: 'يا مرحبا، أنا وياك. أرتب طلبك خطوة بخطوة، وأراجع التفاصيل معك قبل أي تسجيل. قل لي وين نبدأ؟',
-    subtitle: 'وكيل خدمة العملاء ومزودي الخدمات',
+    subtitle: 'وكيل خدمة العملاء والشركات والمهنيين',
     open: 'فتح محادثة وياك',
     close: 'إغلاق المحادثة',
     dialog: 'وياك وكيل منصة بيت الريف',

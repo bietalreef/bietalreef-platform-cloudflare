@@ -31,19 +31,19 @@ const SITE_URL = 'https://bietalreef.ae';
 const platformGateways = [
   {
     title: 'دليل الإمارات',
-    description: 'ابدأ من الإمارة والمدينة والمنطقة للوصول إلى الأنشطة والخدمات والمزودين المرتبطين بالموقع.',
+    description: 'ابدأ من الإمارة والمدينة والمنطقة للوصول إلى الأنشطة والخدمات والشركات المرتبطين بالموقع.',
     href: '/uae',
     icon: MapPinned,
     image: '/images/gateway/uae-directory-gateway.webp',
     imageAlt: 'دليل الإمارات لخدمات البناء والمقاولات عبر منصة بيت الريف',
   },
   {
-    title: 'مزودو الخدمات',
+    title: 'الشركات والمهنيون',
     description: 'استعرض ملفات الشركات والمقاولين والمصانع والموردين والورش والحرفيين بعد اعتماد بياناتهم.',
     href: '/providers',
     icon: UsersRound,
     image: '/images/gateway/providers-gateway.webp',
-    imageAlt: 'مزودو خدمات البناء والمقاولات في الإمارات',
+    imageAlt: 'شركات خدمات البناء والمقاولات في الإمارات',
   },
   {
     title: 'الخدمات والعروض',
@@ -67,7 +67,7 @@ const customerJourney = [
   {
     number: '01',
     title: 'البحث والتواصل المباشر',
-    description: 'اختر الموقع أو الخدمة، راجع الملفات المنشورة، ثم تواصل مع المزود أو اطلب منه عرض سعر.',
+    description: 'اختر الموقع أو الخدمة، راجع الملفات المنشورة، ثم تواصل مع الشركة أو اطلب منه عرض سعر.',
     icon: Search,
   },
   {
@@ -157,11 +157,11 @@ const principles = [
 const faqItems = [
   {
     question: 'متى أطلب عرض سعر؟',
-    answer: 'اطلب عرض سعر عندما تكون الخدمة أو المنتج المطلوب واضحًا، ويمكن توجيه الطلب إلى مزود خدمة أو مورد مناسب بناءً على الموقع والمواصفات المتاحة.',
+    answer: 'اطلب عرض سعر عندما تكون الخدمة أو المنتج المطلوب واضحًا، ويمكن توجيه الطلب إلى شركة متخصصة أو مورد مناسب بناءً على الموقع والمواصفات المتاحة.',
   },
   {
     question: 'متى أطلب مناقصة داخلية؟',
-    answer: 'اطلب مناقصة داخلية عندما لا تحصل على سعر أو حل مناسب من الخيارات المتاحة، أو عندما يحتاج المشروع إلى مقارنة أوسع بين عدة مزودين أو موردين أو مصانع.',
+    answer: 'اطلب مناقصة داخلية عندما لا تحصل على سعر أو حل مناسب من الخيارات المتاحة، أو عندما يحتاج المشروع إلى مقارنة أوسع بين عدة شركاتن أو موردين أو مصانع.',
   },
   {
     question: 'من ينشئ المناقصة الداخلية؟',
@@ -169,7 +169,7 @@ const faqItems = [
   },
   {
     question: 'هل المناقصة عامة ومفتوحة للجميع؟',
-    answer: 'لا. هي مناقصة داخلية مُدارة، وتُرسل إلى مزودين أو موردين أو مصانع أو ورش يتوافق نشاطهم وموقعهم وقدرتهم مع الطلب.',
+    answer: 'لا. هي مناقصة داخلية مُدارة، وتُرسل إلى شركاتن أو موردين أو مصانع أو ورش يتوافق نشاطهم وموقعهم وقدرتهم مع الطلب.',
   },
   {
     question: 'هل يمكن أن تكون المناقصة لخدمة أو منتج؟',
@@ -200,7 +200,7 @@ function SectionHeading({ eyebrow, title, description }) {
 }
 
 export default function HowItWorksPage() {
-  const description = 'تعرّف على طريقة عمل منصة بيت الريف: البحث حسب الموقع والخدمة، التواصل مع مزودي الخدمات، طلب عروض الأسعار، ودور وياك والمناقصات الداخلية المُدارة.';
+  const description = 'تعرّف على طريقة عمل منصة بيت الريف: البحث حسب الموقع والخدمة، التواصل مع الشركات والمهنيين، طلب عروض الأسعار، ودور وياك والمناقصات الداخلية المُدارة.';
 
   const structuredData = {
     '@context': 'https://schema.org',
@@ -286,7 +286,7 @@ export default function HowItWorksPage() {
                   <span className="mt-2 block text-[#A27E18]">ووداعًا للتعقيد</span>
                 </h1>
                 <p className="mt-6 max-w-2xl text-lg leading-9 text-gray-700">
-                  منصة رقمية متخصصة تجمع دليل الإمارات، مزودي الخدمات، المنتجات، طلبات عروض الأسعار، المناقصات الداخلية، ومساعد وياك الذكي في رحلة واحدة متكاملة.
+                  منصة رقمية متخصصة تجمع دليل الإمارات، الشركات والمهنيين، المنتجات، طلبات عروض الأسعار، المناقصات الداخلية، ومساعد وياك الذكي في رحلة واحدة متكاملة.
                 </p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                   <Link href="/uae" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-7 py-4 font-black text-white shadow-lg transition hover:-translate-y-0.5 hover:bg-[#164E25]">
@@ -379,10 +379,10 @@ export default function HowItWorksPage() {
                   </span>
                   <h2 className="mt-6 text-3xl font-black leading-tight md:text-5xl">منصة تربط المشروع بالخبرة المناسبة في الوقت والمكان المناسبين</h2>
                   <p className="mt-5 text-base leading-9 text-white/88 md:text-lg">
-                    تجمع بيت الريف البحث الجغرافي، ملفات مزودي الخدمات، المنتجات، طلبات عروض الأسعار، والمناقصة الداخلية في مسار واحد يساعد العميل على اتخاذ قرار أوضح ويمنح مزود الخدمة حضورًا رقميًا منظمًا.
+                    تجمع بيت الريف البحث الجغرافي، ملفات الشركات والمهنيين، المنتجات، طلبات عروض الأسعار، والمناقصة الداخلية في مسار واحد يساعد العميل على اتخاذ قرار أوضح ويمنح الشركة حضورًا رقميًا منظمًا.
                   </p>
                   <div className="mt-7 grid gap-3 sm:grid-cols-2">
-                    {['بحث حسب الإمارة والمنطقة', 'مزودون وبيانات منظمة', 'طلبات وعروض أكثر وضوحًا', 'وياك لتبسيط القرار'].map((item) => (
+                    {['بحث حسب الإمارة والمنطقة', 'شركات وبيانات منظمة', 'طلبات وعروض أكثر وضوحًا', 'وياك لتبسيط القرار'].map((item) => (
                       <div key={item} className="flex items-center gap-3 rounded-2xl border border-white/12 bg-white/10 p-4 font-bold backdrop-blur-sm">
                         <CheckCircle2 className="h-5 w-5 shrink-0 text-[#F3D46B]" />
                         {item}
@@ -458,7 +458,7 @@ export default function HowItWorksPage() {
 
         <section className="bg-white px-4 py-16 md:py-24">
           <div className="mx-auto max-w-6xl">
-            <span className="text-sm font-black text-[#A27E18]">لمزود الخدمة والشريك</span>
+            <span className="text-sm font-black text-[#A27E18]">لالشركة والشريك</span>
             <h2 className="mt-3 max-w-4xl text-3xl font-black leading-tight text-[#0F3F1A] md:text-5xl">حضور رقمي وفرص مرتبطة بتخصصك</h2>
             <p className="mt-5 max-w-4xl text-lg leading-9 text-gray-600">يعتمد الوصول إلى الطلبات والمناقصات على اكتمال الملف واعتماد البيانات وتوافق النشاط والخدمات والمنتجات ومناطق العمل مع احتياج العميل.</p>
 
@@ -473,7 +473,7 @@ export default function HowItWorksPage() {
 
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <Link href="https://play.google.com/store/apps/details?id=ae.bietalreef.app" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-7 py-4 font-black text-white shadow-lg transition hover:-translate-y-0.5">
-                انضم كمزود خدمة <ArrowLeft className="h-5 w-5" />
+                انضم كشركة متخصصة <ArrowLeft className="h-5 w-5" />
               </Link>
               <Link href="/partners" className="inline-flex items-center justify-center rounded-2xl border border-[#CBAF5A] bg-[#FFF9E8] px-7 py-4 font-black text-[#0F3F1A] transition hover:-translate-y-0.5">تعرّف على الشراكة</Link>
             </div>

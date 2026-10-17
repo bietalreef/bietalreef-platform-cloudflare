@@ -10,7 +10,7 @@ const premiumSeoCards = [
 
 export default function SeoProofCards({
   title = 'مسار حقيقي داخل الصفحة',
-  desc = 'هذه ليست صفحة SEO نصية فقط؛ يوجد مسار واضح يربط العميل بمزود خدمة وخدمة ومنتج أو طلب معاينة داخل نفس الرحلة.',
+  desc = 'هذه ليست صفحة SEO نصية فقط؛ يوجد مسار واضح يربط العميل بشركة متخصصة وخدمة ومنتج أو طلب معاينة داخل نفس الرحلة.',
   eyebrow = 'SEO / AEO / GEO Proof',
 }) {
   if (!premiumSeoCards.length) return null;
@@ -24,7 +24,7 @@ export default function SeoProofCards({
         <h2 className="mt-4 text-2xl font-black leading-tight text-[#0F3F1A] md:text-4xl">{title}</h2>
         <p className="mt-3 max-w-4xl text-sm font-semibold leading-8 text-[#304333] md:text-base">{desc}</p>
         <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          {['صفحة SEO', 'مزود موثق', 'خدمة قابلة للطلب', 'منتج/معاينة واضحة'].map((item) => (
+          {['صفحة SEO', 'جهة موثق', 'خدمة قابلة للطلب', 'منتج/معاينة واضحة'].map((item) => (
             <div key={item} className="rounded-2xl border border-[#E6DCC8] bg-white/70 px-4 py-3 text-center text-xs font-black text-[#0F3F1A] shadow-sm">
               {item}
             </div>

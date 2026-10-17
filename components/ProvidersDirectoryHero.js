@@ -2,7 +2,7 @@ import Image from 'next/image';
 import { ArrowLeft, ArrowRight, Building2, MessageCircle, Users } from 'lucide-react';
 
 const content = {
-  ar: { home: 'الرئيسية', label: 'دليل الشركات والمهنيين', title: 'اختر الشركة أو المهني المناسب لمشروعك', description: 'ابدأ من القطاع، ثم افتح بطاقة الجهة للاطلاع على التخصص ونطاق الخدمة والمشاريع وطرق التواصل في مسار واضح وسهل.', browse: 'استعرض القطاعات', contact: 'تحدث مع فريق الانضمام', alt: 'مزودو خدمات البناء والمقاولات والصيانة في بيت الريف' },
+  ar: { home: 'الرئيسية', label: 'دليل الشركات والمهنيين', title: 'اختر الشركة أو المهني المناسب لمشروعك', description: 'ابدأ من القطاع، ثم افتح بطاقة الجهة للاطلاع على التخصص ونطاق الخدمة والمشاريع وطرق التواصل في مسار واضح وسهل.', browse: 'استعرض القطاعات', contact: 'تحدث مع فريق الانضمام', alt: 'شركات خدمات البناء والمقاولات والصيانة في بيت الريف' },
   en: { home: 'Home', label: 'Businesses & Professionals', title: 'Choose the right business or professional for your project', description: 'Start with a sector, then open a business profile to review specialties, service coverage, projects and contact channels through one clear journey.', browse: 'Browse sectors', contact: 'Talk to onboarding', alt: 'Building, contracting and maintenance providers on Biet Al Reef' },
 };
 

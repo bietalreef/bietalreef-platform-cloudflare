@@ -115,3 +115,7 @@
 ## حدود التنفيذ
 الروابط التي تعذر فتحها لم تدخل في استنتاج تفصيلي. نتائج Reddit وتقارير PDF العامة ليست نموذجًا لصفحة خدمة محلية. لم نستورد ترخيصًا أو سعرًا أو تقييمًا من أي منافس. القياس المطلوب لاحقًا: ظهور/نقرات Search Console ثم زيارة ملف الشركة ونقر اتصال/واتساب وطلب عرض سعر؛ هذه النقرات ليست أعمالًا مكتملة أو إيرادًا.
 
+
+## Content-first correction
+
+The Al Ain guides now group work by search intent with useful scope details and contextual quotation links: home/deep/post-construction/upholstery cleaning; AC/plumbing/electrical/finishing maintenance; villa/shell/extensions/handover contracting. These are sections of existing URLs, not duplicate synonym pages. Empty company blocks are hidden without changing publication decisions, account data, identifiers or database contracts. Company records can populate the existing section later. Original header logo restored. Quotation links preserve the city, sector and selected work; work labels are accepted only from the authored bilingual work-type list. Staging remains noindex.

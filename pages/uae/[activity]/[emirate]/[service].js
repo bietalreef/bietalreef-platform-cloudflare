@@ -24,12 +24,12 @@ export default function AreaServicePage({ model, emirate, area, service, emirate
   const faqItems = [
     [`كيف أجد ${service.nameAr} في ${area.nameAr}؟`, 'حدد المكان والخدمة ثم أرسل طلبك ليتم توجيهه حسب تفاصيل المشروع.'],
     ['هل الأسعار ثابتة؟', 'لا نعرض أسعارًا غير معتمدة. السعر يعتمد على تفاصيل المشروع ونطاق العمل.'],
-    ['هل توجد بطاقة مزود أو منتج داخل الصفحة؟', showAlHootPath ? 'نعم، في هذه الصفحة يظهر مسار مرتبط بمزود خدمة فعلي وخدمة ومنتج وطلب معاينة.' : 'تتم إضافة البطاقات تدريجياً بعد مراجعة المزودين والمنتجات.'],
+    ['هل توجد بطاقة جهة أو منتج داخل الصفحة؟', showAlHootPath ? 'نعم، في هذه الصفحة يظهر مسار مرتبط بشركة متخصصة فعلي وخدمة ومنتج وطلب معاينة.' : 'تتم إضافة البطاقات تدريجياً بعد مراجعة الشركات والمنتجات.'],
   ];
 
   return (
     <>
-      <UaeDirectorySeo locale="ar" title={title} description={`دليل ${title} داخل ${emirate.nameAr} مع بروفايلات مزودي الخدمة ومسارات المنطقة المرتبطة.`} path={`/uae/${emirateSlug}/${areaSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}/${service.slug}`} emirate={emirate} service={service} />
+      <UaeDirectorySeo locale="ar" title={title} description={`دليل ${title} داخل ${emirate.nameAr} مع بروفايلات الشركات ومسارات المنطقة المرتبطة.`} path={`/uae/${emirateSlug}/${areaSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}/${service.slug}`} emirate={emirate} service={service} />
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900 font-sans">
         <Navbar pageTitle={title} />
         <SecondaryHeader backUrl={`/uae/${emirateSlug}/${areaSlug}`} backLabel={`العودة إلى ${area.nameAr}`} />
@@ -40,8 +40,8 @@ export default function AreaServicePage({ model, emirate, area, service, emirate
           <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} />
           {showAlHootPath && (
             <SeoProofCards
-              title={`مزود وخدمة ومنتج داخل صفحة ${title}`}
-              desc="هذا المربع يربط صفحة SEO الجغرافية بمسار حقيقي: مصنع الحوت كمزود خدمة، خدمة توريد وتركيب، منتج رخام/جرانيت حسب الطلب، وخطوة معاينة أو عرض سعر واضحة."
+              title={`جهة وخدمة ومنتج داخل صفحة ${title}`}
+              desc="هذا المربع يربط صفحة SEO الجغرافية بمسار حقيقي: مصنع الحوت كشركة متخصصة، خدمة توريد وتركيب، منتج رخام/جرانيت حسب الطلب، وخطوة معاينة أو عرض سعر واضحة."
             />
           )}
           <FAQ items={faqItems} title={`أسئلة شائعة حول ${title}`} />

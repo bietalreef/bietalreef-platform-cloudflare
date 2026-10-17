@@ -15,7 +15,7 @@ export default function WeyaakPage() {
       <SEOHead
         title={title}
         description={description}
-        keywords="وياك, Weyaak, مساعد بيت الريف, مزودو الخدمات, خدمات الإمارات"
+        keywords="وياك, Weyaak, مساعد بيت الريف, الشركات والمهنيون, خدمات الإمارات"
         canonicalPath="/weyaak"
         ogImage={`${SITE_URL}/og-weyaak.jpg`}
         structuredData={{

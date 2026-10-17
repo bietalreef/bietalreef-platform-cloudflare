@@ -30,7 +30,7 @@ const faqItems = [
   {
     question: "ما هي بيت الريف؟",
     answer:
-      "بيت الريف منصة رقمية إماراتية متخصصة في تنظيم الوصول إلى مزودي خدمات البناء والمقاولات والتشطيبات والصيانة ومواد البناء في دولة الإمارات."
+      "بيت الريف منصة رقمية إماراتية متخصصة في تنظيم الوصول إلى شركات خدمات البناء والمقاولات والتشطيبات والصيانة ومواد البناء في دولة الإمارات."
   },
   {
     question: "من أين بدأت فكرة بيت الريف؟",
@@ -40,23 +40,23 @@ const faqItems = [
   {
     question: "كيف تساعد بيت الريف العميل؟",
     answer:
-      "تساعد العميل على توضيح احتياجه، والبحث حسب الخدمة والموقع، واستعراض مزودي الخدمات، والتواصل معهم أو إرسال طلب عرض سعر."
+      "تساعد العميل على توضيح احتياجه، والبحث حسب الخدمة والموقع، واستعراض الشركات والمهنيين، والتواصل معهم أو إرسال طلب عرض سعر."
   },
   {
-    question: "كيف تساعد بيت الريف مزود الخدمة؟",
+    question: "كيف تساعد بيت الريف الشركة؟",
     answer:
       "تمنح الشركات والمصانع والموردين والورش والحرفيين حضورًا رقميًا منظمًا يعرض خدماتهم ومنتجاتهم ومشاريعهم ومناطق عملهم أمام العملاء ومحركات البحث."
   },
   {
     question: "ما دور وياك في المنصة؟",
     answer:
-      "يساعد وياك على فهم الطلب وتحديد الخدمة والموقع والمعلومات المطلوبة، ثم البحث في بيانات المزودين المنشورة للوصول إلى خيارات متوافقة مع احتياج العميل."
+      "يساعد وياك على فهم الطلب وتحديد الخدمة والموقع والمعلومات المطلوبة، ثم البحث في بيانات الشركات المنشورة للوصول إلى خيارات متوافقة مع احتياج العميل."
   }
 ];
 
 export default function About() {
   const description =
-    "تعرف على قصة بيت الريف، منصة رقمية إماراتية وُلدت من خبرة تتجاوز 10 سنوات في المقاولات لتربط أصحاب المشاريع بمزودي خدمات البناء في الإمارات.";
+    "تعرف على قصة بيت الريف، منصة رقمية إماراتية وُلدت من خبرة تتجاوز 10 سنوات في المقاولات لتربط أصحاب المشاريع بشركات خدمات البناء في الإمارات.";
 
   const structuredData = {
     "@context": "https://schema.org",
@@ -89,7 +89,7 @@ export default function About() {
           "المقاولات والبناء",
           "التشطيبات والصيانة",
           "مواد البناء",
-          "مزودو الخدمات",
+          "الشركات والمهنيون",
           "الذكاء الاصطناعي في قطاع البناء"
         ]
       },
@@ -145,7 +145,7 @@ export default function About() {
         <meta name="description" content={description} />
         <meta
           name="keywords"
-          content="بيت الريف, عن بيت الريف, منصة مقاولات في الإمارات, مزودو خدمات البناء, شركات المقاولات, مواد البناء, وياك, الذكاء الاصطناعي في المقاولات"
+          content="بيت الريف, عن بيت الريف, منصة مقاولات في الإمارات, شركات خدمات البناء, شركات المقاولات, مواد البناء, وياك, الذكاء الاصطناعي في المقاولات"
         />
         <meta name="robots" content="index, follow, max-image-preview:large" />
         <link rel="canonical" href="https://bietalreef.ae/about" />
@@ -185,7 +185,7 @@ export default function About() {
               عن بيت الريف: تجربة من قلب المقاولات تحولت إلى منصة رقمية
             </h1>
             <p className="mx-auto max-w-3xl text-base leading-8 text-gray-700 md:text-xl">
-              <strong>بيت الريف</strong> منصة رقمية إماراتية متخصصة في البناء والمقاولات والتشطيبات والصيانة ومواد البناء، تساعد أصحاب المشاريع على الوصول إلى مزودي الخدمات المناسبين، وتمكّن أصحاب الأنشطة من تقديم خبراتهم بصورة واضحة ومنظمة.
+              <strong>بيت الريف</strong> منصة رقمية إماراتية متخصصة في البناء والمقاولات والتشطيبات والصيانة ومواد البناء، تساعد أصحاب المشاريع على الوصول إلى الشركات والمهنيين المناسبين، وتمكّن أصحاب الأنشطة من تقديم خبراتهم بصورة واضحة ومنظمة.
             </p>
             <div className="flex flex-col justify-center gap-3 sm:flex-row">
               <Link href="/why-biet-alreef" className="rounded-2xl bg-primary px-6 py-3 font-bold text-white shadow-lg transition hover:opacity-90">
@@ -209,7 +209,7 @@ export default function About() {
               </div>
               <div className="rounded-2xl bg-green-50 p-5 text-center">
                 <p className="text-sm font-bold text-primary">من نخدم؟</p>
-                <p className="mt-2 font-semibold text-gray-900">أصحاب المشاريع والعملاء ومزودو الخدمات</p>
+                <p className="mt-2 font-semibold text-gray-900">أصحاب المشاريع والعملاء والشركات والمهنيون</p>
               </div>
               <div className="rounded-2xl bg-amber-50 p-5 text-center">
                 <p className="text-sm font-bold text-primary">نطاق العمل</p>
@@ -251,7 +251,7 @@ export default function About() {
               <p className="text-sm font-bold text-primary">مهمتنا</p>
               <h2 className="mt-2 text-2xl font-black text-gray-900">تنظيم المعلومات وتسهيل الوصول</h2>
               <p className="mt-5 leading-8 text-gray-800">
-                نعمل على تحويل بيانات السوق المتفرقة إلى منظومة واضحة تربط النشاط بالخدمة والمنتج والمشروع والموقع، وتساعد العميل على اتخاذ خطوة أكثر وعيًا، وتمكّن مزود الخدمة من بناء حضور رقمي مستدام.
+                نعمل على تحويل بيانات السوق المتفرقة إلى منظومة واضحة تربط النشاط بالخدمة والمنتج والمشروع والموقع، وتساعد العميل على اتخاذ خطوة أكثر وعيًا، وتمكّن الشركة من بناء حضور رقمي مستدام.
               </p>
             </article>
           </section>
@@ -262,14 +262,14 @@ export default function About() {
                 <p className="text-sm font-bold text-[#F3D46B]">وياك والذكاء الاصطناعي</p>
                 <h2 className="mt-2 text-2xl font-black md:text-3xl">التقنية في خدمة الخبرة البشرية</h2>
                 <p className="mt-5 leading-8 text-white/90">
-                  تعتمد بيت الريف على الذكاء الاصطناعي للمساعدة في تبسيط عمليات البحث والمقارنة وتنظيم الطلب. ويأتي <strong>وياك</strong> ليساعد العميل على توضيح احتياجه وتحديد الخدمة والموقع، ثم الوصول إلى بيانات مزودين منشورة ومتوافقة مع الطلب.
+                  تعتمد بيت الريف على الذكاء الاصطناعي للمساعدة في تبسيط عمليات البحث والمقارنة وتنظيم الطلب. ويأتي <strong>وياك</strong> ليساعد العميل على توضيح احتياجه وتحديد الخدمة والموقع، ثم الوصول إلى بيانات شركاتن منشورة ومتوافقة مع الطلب.
                 </p>
                 <p className="mt-4 leading-8 text-white/90">
                   هدفنا ليس أن يحل الذكاء الاصطناعي محل المهندس أو المقاول أو الحرفي، بل أن يجعل الوصول إلى الخبرة المناسبة أسرع وأكثر وضوحًا.
                 </p>
               </div>
               <div className="grid gap-3 sm:grid-cols-2">
-                {["فهم احتياج العميل", "اختصار وقت البحث", "تنظيم بيانات المزود", "دعم القرار بالمعلومات"].map((item) => (
+                {["فهم احتياج العميل", "اختصار وقت البحث", "تنظيم بيانات الشركة", "دعم القرار بالمعلومات"].map((item) => (
                   <div key={item} className="rounded-2xl border border-white/10 bg-white/10 p-4 font-bold">{item}</div>
                 ))}
               </div>
@@ -285,11 +285,11 @@ export default function About() {
               <article className="rounded-3xl border border-blue-100 bg-white p-6 shadow-lg md:p-8">
                 <h3 className="text-xl font-black text-gray-900">إلى أصحاب المشاريع والعملاء</h3>
                 <p className="mt-4 leading-8 text-gray-700">
-                  نعمل على توفير طريق أكثر وضوحًا لفهم الاحتياج، واكتشاف الخيارات المناسبة، والوصول إلى مزودي الخدمات بحسب التخصص والموقع، ثم التواصل أو طلب عرض سعر دون بحث مشتت.
+                  نعمل على توفير طريق أكثر وضوحًا لفهم الاحتياج، واكتشاف الخيارات المناسبة، والوصول إلى الشركات والمهنيين بحسب التخصص والموقع، ثم التواصل أو طلب عرض سعر دون بحث مشتت.
                 </p>
               </article>
               <article className="rounded-3xl border border-green-100 bg-white p-6 shadow-lg md:p-8">
-                <h3 className="text-xl font-black text-gray-900">إلى الشركات ومزودي الخدمات</h3>
+                <h3 className="text-xl font-black text-gray-900">إلى الشركات والشركات والمهنيين</h3>
                 <p className="mt-4 leading-8 text-gray-700">
                   نساعدكم على تقديم خبراتكم وخدماتكم ومنتجاتكم ومشاريعكم بصورة مباشرة وواضحة، وبناء حضور رقمي يساعد العملاء ومحركات البحث ونماذج الذكاء الاصطناعي على فهم نشاطكم والوصول إليه.
                 </p>
@@ -322,7 +322,7 @@ export default function About() {
             <div className="mt-7 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
               {[
                 ["/why-biet-alreef", "لماذا بيت الريف؟", "المشكلة التي عشناها وما الذي يميز الحل."],
-                ["/how-it-works", "كيف يعمل؟", "رحلة العميل ومزود الخدمة ودور وياك."],
+                ["/how-it-works", "كيف يعمل؟", "رحلة العميل والشركة ودور وياك."],
                 ["/how-it-works", "طريقة عمل المنصة", "مكونات المنظومة والبيانات والبحث والطلبات."],
                 ["/partners", "الشركاء", "طرق الانضمام والتعاون وبناء الحضور الرقمي."]
               ].map(([href, title, text]) => (
@@ -355,7 +355,7 @@ export default function About() {
             </p>
             <div className="mt-7 flex flex-col justify-center gap-3 sm:flex-row">
               <Link href="/uae" className="rounded-2xl bg-white px-6 py-3 font-bold text-primary">استكشف دليل الإمارات</Link>
-              <Link href="https://play.google.com/store/apps/details?id=ae.bietalreef.app" className="rounded-2xl border border-white/50 bg-white/10 px-6 py-3 font-bold text-white">انضم كمزود خدمة</Link>
+              <Link href="https://play.google.com/store/apps/details?id=ae.bietalreef.app" className="rounded-2xl border border-white/50 bg-white/10 px-6 py-3 font-bold text-white">انضم كشركة متخصصة</Link>
               <Link href="https://play.google.com/store/apps/details?id=ae.bietalreef.app" className="rounded-2xl border border-white/50 bg-white/10 px-6 py-3 font-bold text-white">تحدث مع وياك</Link>
             </div>
           </section>

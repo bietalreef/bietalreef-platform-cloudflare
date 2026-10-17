@@ -94,8 +94,8 @@ function ProviderCard({ provider, card, locale, type, priority = false }) {
         <div className="mt-4 rounded-xl bg-[#FAF8F3] px-3 py-2 font-mono text-[10px] font-black text-[#6D675E]" dir="ltr">{card.cardId}</div>
         <p className="mt-3 text-xs font-bold leading-6 text-[#6C6A65]">
           {isEn
-            ? 'Price is confirmed directly with the provider after reviewing the requested scope. No intermediary commission on service execution.'
-            : 'يتم تحديد السعر مباشرة مع مزود الخدمة بعد مراجعة نطاق العمل، دون وسيط أو عمولة على تنفيذ الخدمة.'}
+            ? 'Request a quotation covering the work, materials and duration.'
+            : 'اطلب عرض سعر يوضح الأعمال والمواد والمدة.'}
         </p>
         {whatsapp ? (
           <a href={whatsapp} target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex min-h-[48px] w-full items-center justify-center gap-2 rounded-xl bg-[#0F3F1A] px-4 text-sm font-black text-white transition hover:bg-[#174E2A]">
@@ -129,7 +129,7 @@ function ProfileContent({ provider, locale }) {
   return (
     <main dir={isEn ? 'ltr' : 'rtl'} className="min-h-screen bg-[#FDFBF7] text-[#0F3F1A]">
       <section className="mx-auto max-w-6xl px-4 py-6 md:py-10">
-        <Link href={`${base}/providers`} className="mb-5 inline-flex items-center gap-2 rounded-full border border-[#DCCBAE] bg-white px-4 py-2 text-sm font-black">{isEn ? <ArrowLeft className="h-4 w-4" /> : <ArrowRight className="h-4 w-4" />}{isEn ? 'Back to providers' : 'العودة إلى مزودي الخدمات'}</Link>
+        <Link href={`${base}/providers`} className="mb-5 inline-flex items-center gap-2 rounded-full border border-[#DCCBAE] bg-white px-4 py-2 text-sm font-black">{isEn ? <ArrowLeft className="h-4 w-4" /> : <ArrowRight className="h-4 w-4" />}{isEn ? 'Back to providers' : 'العودة إلى الشركات والمهنيين'}</Link>
         <div className="overflow-hidden rounded-[2.5rem] border border-[#DCCBAE] bg-white shadow-[0_24px_70px_rgba(15,63,26,.12)]">
           <div className="relative aspect-[16/5]"><Image src={provider.cover} alt={name} fill priority className="object-cover" /><div className="absolute inset-0 bg-gradient-to-t from-[#071A10]/75 via-transparent to-transparent" /></div>
           <div className="relative px-5 pb-8 pt-16 md:px-10">
@@ -138,17 +138,17 @@ function ProfileContent({ provider, locale }) {
               <div>
                 <div className="flex items-center gap-2"><h1 className="text-3xl font-black md:text-5xl">{name}</h1>{provider.verified ? <BadgeCheck className="h-7 w-7 text-[#B8860B]" /> : null}</div>
                 <div className="mt-3 flex flex-wrap items-center gap-2">
-                  <span className="rounded-full border border-[#D8C997] bg-[#FFF9E8] px-3 py-1 font-mono text-xs font-black" dir="ltr">PRD-{provider.providerId}</span>
-                  <span className="inline-flex items-center gap-1.5 rounded-full bg-[#EFF8F2] px-3 py-1 text-xs font-black text-[#167A4A]"><ShieldCheck className="h-4 w-4" />{isEn ? 'Verified provider' : 'مزود موثق'}</span>
+                  <span className="rounded-full border border-[#D8C997] bg-[#FFF9E8] px-3 py-1 font-mono text-xs font-black" dir="ltr">{provider.providerId}</span>
+                  {provider.verified && <span className="inline-flex items-center gap-1.5 rounded-full bg-[#EFF8F2] px-3 py-1 text-xs font-black text-[#167A4A]"><ShieldCheck className="h-4 w-4" />{isEn ? 'Verified provider' : 'حساب موثق'}</span>}
                 </div>
               </div>
               <div className="flex flex-wrap gap-2">
-                {whatsapp ? <a href={whatsapp} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[48px] items-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 font-black text-white"><MessageCircle className="h-5 w-5" />{isEn ? 'Contact provider' : 'تواصل مع المزود'}</a> : null}
+                {whatsapp ? <a href={whatsapp} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[48px] items-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 font-black text-white"><MessageCircle className="h-5 w-5" />{isEn ? 'Contact provider' : 'تواصل مع الشركة'}</a> : null}
                 {provider.phone ? <a href={`tel:${provider.phone}`} className="inline-flex min-h-[48px] items-center gap-2 rounded-2xl border border-[#DCCBAE] bg-white px-5 font-black"><Phone className="h-5 w-5" />{isEn ? 'Call' : 'اتصال'}</a> : null}
               </div>
             </div>
             <p className="mt-7 max-w-4xl text-base font-semibold leading-9 text-gray-600">{description}</p>
-            <p className="mt-4 max-w-4xl rounded-2xl bg-[#F8F4EB] px-4 py-3 text-sm font-black leading-7 text-[#5E542F]">{isEn ? 'Direct communication with the provider for scope and pricing — no intermediary commission on service execution.' : 'تواصل مباشر مع مزود الخدمة لتحديد النطاق والسعر — بدون وسيط وبدون عمولة على تنفيذ الخدمة.'}</p>
+            <p className="mt-4 max-w-4xl rounded-2xl bg-[#F8F4EB] px-4 py-3 text-sm font-black leading-7 text-[#5E542F]">{isEn ? 'Agree the scope, appointment and price directly with the company.' : 'ناقش تفاصيل العمل والموعد والسعر مع الشركة قبل الاتفاق.'}</p>
             <div className="mt-6 flex flex-wrap gap-2">{locations.map((location) => <span key={location} className="inline-flex items-center gap-1.5 rounded-full bg-[#F8F4EB] px-4 py-2 text-sm font-black"><MapPin className="h-4 w-4 text-[#9A6B16]" />{location}</span>)}</div>
             <a href={marketUrl} className="mt-6 inline-flex min-h-[48px] items-center gap-2 rounded-2xl border border-[#D4AF37]/40 bg-[#FFF9E8] px-5 font-black text-[#765A17]">{isEn ? 'Open Biet Al Reef store' : 'فتح متجر سوق بيت الريف'}{isEn ? <ArrowRight className="h-4 w-4" /> : <ArrowLeft className="h-4 w-4" />}</a>
           </div>

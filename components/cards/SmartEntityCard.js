@@ -17,7 +17,7 @@ import {
 } from 'lucide-react';
 
 const cardTypeConfig = {
-  provider: { label: 'مزود خدمة', Icon: Building2 },
+  provider: { label: 'شركة متخصصة', Icon: Building2 },
   service: { label: 'خدمة', Icon: Wrench },
   product: { label: 'منتج', Icon: Package },
   offer: { label: 'عرض', Icon: Tag },

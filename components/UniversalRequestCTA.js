@@ -11,7 +11,7 @@ import { GOOGLE_PLAY_URL, PROVIDERS_APP_URL } from '../lib/platformUrls';
 
 const copy = {
   ar: {
-    eyebrow: 'للشركات والمصانع والورش ومزودي الخدمات',
+    eyebrow: 'للشركات والمصانع والورش والشركات والمهنيين',
     title: 'اعرض نشاطك وخدماتك داخل بيت الريف',
     desc: 'انضم إلى دليل بيت الريف بملف مهني يوضح نشاطك الرئيسي وتخصصاتك وخدماتك ومنتجاتك ومناطق عملك، ويساعد العملاء ومحركات البحث على الوصول إلى شركتك في المكان والتخصص الصحيحين.',
     primary: 'حمّل تطبيق بيت الريف',
@@ -65,7 +65,7 @@ export default function UniversalRequestCTA({ locale = 'ar', className = '' }) {
     <section
       dir={current.dir}
       className={`bg-[#FFFDF8] px-4 py-8 md:py-11 ${className}`}
-      aria-label={locale === 'en' ? 'Join the Biet Al Reef provider directory' : 'انضم إلى دليل مزودي بيت الريف'}
+      aria-label={locale === 'en' ? 'Join the Biet Al Reef provider directory' : 'انضم إلى دليل الشركات على بيت الريف'}
     >
       <div className="relative mx-auto max-w-6xl overflow-hidden rounded-[2rem] border border-[#D7B44A]/45 bg-gradient-to-br from-white via-[#FFFCF3] to-[#F8EBC2]/45 shadow-[0_24px_70px_-40px_rgba(94,67,4,0.45)]">
         <div className="pointer-events-none absolute -right-24 -top-32 h-72 w-72 rounded-full bg-[#E7C75E]/20 blur-[80px]" />
@@ -80,7 +80,7 @@ export default function UniversalRequestCTA({ locale = 'ar', className = '' }) {
             </div>
             <span className="absolute bottom-0 inline-flex items-center gap-2 rounded-full border border-[#0F3F1A]/12 bg-white/85 px-4 py-2 text-xs font-black text-[#0F3F1A] shadow-sm">
               <BadgeCheck className="h-4 w-4 text-[#B58A16]" />
-              {locale === 'en' ? 'Provider directory' : 'دليل مزودي بيت الريف'}
+              {locale === 'en' ? 'Provider directory' : 'دليل الشركات على بيت الريف'}
             </span>
           </div>
 

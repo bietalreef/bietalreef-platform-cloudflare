@@ -21,10 +21,10 @@ const visualSections = [
   {
     eyebrow: 'إدارة وشفافية',
     title: 'لوحات تحكم وبيانات تساعد على متابعة المشروع بوضوح',
-    desc: 'نوضح للعميل ومزود الخدمة أن بيت الريف ليس صفحة عرض فقط، بل بنية منظمة لإدارة الطلبات، العروض، البيانات، ومراحل المشروع.',
+    desc: 'نوضح للعميل والشركة أن بيت الريف ليس صفحة عرض فقط، بل بنية منظمة لإدارة الطلبات، العروض، البيانات، ومراحل المشروع.',
     image: '/images/webp/bait-alreef-control-dashboard-leadership-transparency.webp',
     href: '/providers',
-    cta: 'مزودو الخدمات'
+    cta: 'الشركات والمهنيون'
   },
   {
     eyebrow: 'أدوات ذكية',
@@ -38,7 +38,7 @@ const visualSections = [
 
 const quickLinks = [
   { href: '/uae', title: 'دليل الإمارات', desc: 'صفحات لجميع الإمارات والمدن والمناطق', icon: '🇦🇪' },
-  { href: '/providers', title: 'مزودو الخدمات', desc: 'مقاولون وموردون وحرفيون ومكاتب هندسية', icon: '👷' },
+  { href: '/providers', title: 'الشركات والمهنيون', desc: 'مقاولون وموردون وحرفيون ومكاتب هندسية', icon: '👷' },
   { href: 'https://app.bietalreef.ae/', title: 'السوق', desc: 'مواد بناء وأثاث وديكور ومنتجات', icon: '🛒' },
   { href: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', title: 'وياك', desc: 'المساعد الذكي داخل تطبيق بيت الريف', icon: '🤖' }
 ];

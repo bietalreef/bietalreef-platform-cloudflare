@@ -58,8 +58,8 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
     <div dir="rtl" className="min-h-screen bg-[#FDFBF7]">
       <SEOHead
         title="الشركات والمهنيون | مقاولون وموردون وحرفيون | بيت الريف"
-        description="تصفح مزودي خدمات البناء والمقاولات والصيانة والتصميم الداخلي داخل بيت الريف، وافتح الملفات الرقمية أو تعرف على آلية الانضمام."
-        keywords="مزودي خدمات الإمارات, مقاولين, موردين, حرفيين, شركات بناء, ورش نجارة, تسجيل مزود خدمة"
+        description="تصفح شركات خدمات البناء والمقاولات والصيانة والتصميم الداخلي داخل بيت الريف، وافتح الملفات الرقمية أو تعرف على آلية الانضمام."
+        keywords="شركات خدمات الإمارات, مقاولين, موردين, حرفيين, شركات بناء, ورش نجارة, تسجيل شركة متخصصة"
         canonicalPath="/providers"
         ogImage="https://bietalreef.ae/images/providers-hero.webp"
         structuredData={structuredData}
@@ -74,7 +74,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
           <div className="relative min-h-[600px] overflow-hidden md:min-h-[680px] lg:min-h-[740px]">
             <Image
               src="/images/providers-hero.webp"
-              alt="مزودو خدمات البناء والمقاولات والصيانة داخل بيت الريف"
+              alt="شركات خدمات البناء والمقاولات والصيانة داخل بيت الريف"
               fill
               priority
               className="-translate-y-[6%] scale-[1.16] object-cover object-[52%_36%] md:-translate-y-[4%] md:scale-110 md:object-center"
@@ -145,7 +145,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
             </span>
             <h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">اختر القطاع الأقرب لنشاطك</h2>
             <p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">
-              اختر القطاع المناسب للوصول إلى مزودي الخدمة والتخصصات المرتبطة به ضمن رحلة تصفح واضحة ومتناسقة.
+              اختر القطاع المناسب للوصول إلى الشركات والتخصصات المرتبطة به ضمن رحلة تصفح واضحة ومتناسقة.
             </p>
           </div>
 
@@ -159,11 +159,11 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
         <section className="mx-auto max-w-6xl px-4 py-14">
           <div className="mb-10 text-center md:text-right">
             <span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00]">
-              مزودون فعليون داخل المنصة
+              شركاتن فعليون داخل المنصة
             </span>
-            <h2 className="mb-3 mt-4 text-3xl font-black text-[#0F3F1A]">مزودون متاحون الآن</h2>
+            <h2 className="mb-3 mt-4 text-3xl font-black text-[#0F3F1A]">شركاتن متاحون الآن</h2>
             <p className="leading-8 text-gray-500">
-              كل كارت يفتح ملف مزود فعليًا، مع معلومات النشاط والخدمات والمشاريع ومسارات التواصل وطلب التفاصيل.
+              كل كارت يفتح ملف جهة فعليًا، مع معلومات النشاط والخدمات والمشاريع ومسارات التواصل وطلب التفاصيل.
             </p>
           </div>
 

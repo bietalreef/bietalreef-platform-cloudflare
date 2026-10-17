@@ -334,7 +334,7 @@ export default function ArklinePage() {
               className="mb-4 inline-flex items-center gap-2 rounded-2xl border border-[#D8C8AA] bg-white px-4 py-3 text-sm font-black text-[#0F3F1A] shadow-[0_8px_20px_rgba(77,53,20,.08)]"
             >
               <ArrowLeft className="h-4 w-4 rotate-180" />
-              العودة إلى مزودي الخدمات
+              العودة إلى الشركات والمهنيين
             </Link>
 
             <div className="relative overflow-hidden rounded-[2.2rem] border border-[#E6DCC8] shadow-[0_24px_70px_rgba(66,45,17,.14)]">
@@ -431,7 +431,7 @@ export default function ArklinePage() {
             </p>
 
             <div className="mt-7 grid grid-cols-3 gap-2.5 md:gap-4">
-              <TrustBadge icon={BadgeCheck} title="مزود مسجل لدى بيت الريف" />
+              <TrustBadge icon={BadgeCheck} title="جهة مسجل لدى بيت الريف" />
               <TrustBadge icon={ShieldCheck} title="بيانات التواصل معتمدة" />
               <TrustBadge icon={History} title="تأسيس النشاط 2015" />
             </div>
@@ -521,7 +521,7 @@ export default function ArklinePage() {
             <div className="mx-auto max-w-6xl px-4">
               <SectionHeading eyebrow="معرض الصور" title="معرض صور أركلين" />
               <p className="mt-4 max-w-3xl leading-8 text-[#625A50]">
-                الصور الحالية المعتمدة داخل ملف المزود، ويمكن إضافة صور المشاريع والأعمال الجديدة لاحقاً دون تغيير تصميم المعرض.
+                الصور الحالية المعتمدة داخل ملف الشركة، ويمكن إضافة صور المشاريع والأعمال الجديدة لاحقاً دون تغيير تصميم المعرض.
               </p>
 
               <div className="mt-8 grid gap-5 md:grid-cols-2">

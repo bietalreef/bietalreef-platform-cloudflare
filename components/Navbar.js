@@ -161,7 +161,7 @@ export default function Navbar({ locale = 'ar' }) {
           <div className="flex min-w-0 items-center gap-2" dir="rtl">
           <button ref={menuButton} type="button" onClick={() => setIsOpen(true)} aria-expanded={isOpen} aria-controls="platform-navigation" className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl border border-gray-200 text-primary shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2" aria-label={isEnglish ? 'Open menu' : 'فتح القائمة'}><Menu className="h-6 w-6" /></button>
           <Link href={isEnglish ? '/en' : '/'} className="flex min-w-0 items-center gap-2">
-            <Home className="h-9 w-9 shrink-0 text-primary sm:h-11 sm:w-11" strokeWidth={1.7} aria-hidden="true" />
+            <Image src="/icons/logo-512.webp" alt={isEnglish ? 'Biet Al Reef' : 'بيت الريف'} width={48} height={48} className="h-12 w-12 shrink-0 object-contain" priority />
             <div className="flex min-w-0 flex-col" dir={textDir}><span className="text-lg font-black text-primary sm:text-2xl">{isEnglish ? 'Biet Al Reef' : 'بيت الريف'}</span><span className="hidden text-xs text-gray-500 min-[360px]:block">{isEnglish ? 'Business platform' : 'منصة الأعمال'}</span></div>
           </Link>
 

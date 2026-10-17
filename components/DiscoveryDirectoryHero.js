@@ -3,7 +3,7 @@ import { ArrowLeft, ArrowRight, MessageCircle, Search, ShoppingBag, Wrench } fro
 
 const content = {
   services: {
-    ar: { label: 'الخدمات والعروض', title: 'اختر الخدمة، ثم انتقل إلى تفاصيل الطلب وعرض السعر', description: 'ابدأ من نوع الخدمة المطلوبة، ثم أضف موقع المشروع والصور والمقاسات للوصول إلى مسار واضح يربط احتياجك بالخدمة والمزود المناسب.', browse: 'استعرض الخدمات', contact: 'اطلب توجيه من الفريق', alt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
+    ar: { label: 'الخدمات والعروض', title: 'اختر الخدمة، ثم انتقل إلى تفاصيل الطلب وعرض السعر', description: 'ابدأ من نوع الخدمة المطلوبة، ثم أضف موقع المشروع والصور والمقاسات للوصول إلى مسار واضح يربط احتياجك بالخدمة والشركة المناسبة.', browse: 'استعرض الخدمات', contact: 'اطلب توجيه من الفريق', alt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
     en: { label: 'Services & Offers', title: 'Choose a service, then continue to request and quotation details', description: 'Start with the required service, then add the project location, photos and measurements to reach a clear path connecting your need with the right service and provider.', browse: 'Browse services', contact: 'Ask our team', alt: 'Construction, maintenance and finishing services and offers on Biet Al Reef' },
     image: '/images/services-offers-hero.webp',
     target: '#services-list',

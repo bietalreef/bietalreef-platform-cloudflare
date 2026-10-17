@@ -29,7 +29,7 @@ export default function UAEDirectoryHome() {
     h1: 'دليل الإمارات',
     desc: 'ابدأ رحلتك لاكتشاف ما يحتاج إليه مشروعك من مقاولين وموردين ومنتجات، واستكشف أفضل الفرص في مختلف إمارات الدولة.',
     seoTitle: 'دليل الإمارات للبناء والمقاولات والخدمات والموردين | بيت الريف',
-    seoDesc: 'استكشف خدمات البناء والمقاولات والصيانة والتصميم ومواد البناء والموردين ومزودي الخدمات في الإمارات السبع من خلال دليل بيت الريف.',
+    seoDesc: 'استكشف خدمات البناء والمقاولات والصيانة والتصميم ومواد البناء والموردين والشركات والمهنيين في الإمارات السبع من خلال دليل بيت الريف.',
   };
   const emirateCards = UAE_EMIRATES.map((emirate) => ({ ...emirate, atlasImage: atlasImageBySlug[emirate.slug]?.image, atlasThumb: atlasImageBySlug[emirate.slug]?.thumb, experience: experienceBySlug[emirate.slug] || emirate.description }));
   const structuredData = { '@context': 'https://schema.org', '@type': 'WebPage', name: pageData.h1, description: pageData.seoDesc, url: 'https://bietalreef.ae/uae', inLanguage: 'ar-AE', primaryImageOfPage: { '@type': 'ImageObject', contentUrl: shareImage } };

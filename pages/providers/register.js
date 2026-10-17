@@ -20,8 +20,8 @@ const steps = [
 ];
 
 export default function ProviderRegisterPage() {
-  const title = 'انضم كمزود خدمة إلى بيت الريف';
-  const desc = 'صفحة تشرح لمزود الخدمة كيف يساعده بيت الريف على بناء حضور رقمي منظم واستقبال طلبات أوضح عبر صفحة منشورة يديرها فريق المنصة.';
+  const title = 'انضم كشركة متخصصة إلى بيت الريف';
+  const desc = 'صفحة تشرح لالشركة كيف يساعده بيت الريف على بناء حضور رقمي منظم واستقبال طلبات أوضح عبر صفحة منشورة يديرها فريق المنصة.';
 
   return (
     <>
@@ -37,7 +37,7 @@ export default function ProviderRegisterPage() {
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(212,175,55,0.28),transparent_38%),radial-gradient(circle_at_bottom_right,rgba(255,255,255,0.12),transparent_34%)]" />
             <div className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 py-16 md:grid-cols-[1.1fr_0.9fr] md:py-24">
               <div>
-                <span className="inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/45 bg-[#D4AF37]/15 px-4 py-2 text-xs font-black text-[#F4D46B]"><BadgeCheck size={16} /> بوابة مزود الخدمة</span>
+                <span className="inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/45 bg-[#D4AF37]/15 px-4 py-2 text-xs font-black text-[#F4D46B]"><BadgeCheck size={16} /> بوابة الشركة</span>
                 <h1 className="mt-6 max-w-4xl text-4xl font-black leading-tight md:text-6xl">اجعل نشاطك حاضرًا حيث يبحث العميل عن الخدمة</h1>
                 <p className="mt-6 max-w-3xl text-base font-semibold leading-9 text-white/88 md:text-xl">بيت الريف لا يضعك في قائمة أسماء فقط؛ بل يبني لك مسارًا رقميًا واضحًا يربط نشاطك بالمكان، التخصص، الطلبات، والظهور داخل منصة موجهة لقطاع البناء والصيانة في الإمارات.</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -64,7 +64,7 @@ export default function ProviderRegisterPage() {
           <section className="mx-auto max-w-7xl px-4 py-14 md:py-20">
             <div className="mb-9 text-center">
               <span className="text-sm font-black text-[#6F5400]">مميزات الانضمام</span>
-              <h2 className="mt-3 text-3xl font-black text-[#0F3F1A] md:text-5xl">لماذا تنضم كمزود خدمة؟</h2>
+              <h2 className="mt-3 text-3xl font-black text-[#0F3F1A] md:text-5xl">لماذا تنضم كشركة متخصصة؟</h2>
             </div>
             <div className="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
               {features.map((feature) => { const Icon = feature.icon; return (
@@ -82,7 +82,7 @@ export default function ProviderRegisterPage() {
               <div>
                 <span className="text-sm font-black text-[#6F5400]">قبل طلب الإضافة</span>
                 <h2 className="mt-3 text-3xl font-black text-[#0F3F1A] md:text-5xl">مسار الانضمام واضح</h2>
-                <p className="mt-5 text-base font-semibold leading-9 text-gray-600">تواصل مع فريق بيت الريف وأرسل البيانات الأساسية. ينشئ الفريق مسودة برقم مزود، يراجع المحتوى والصور معك، ثم ينشر الصفحة بعد الاعتماد.</p>
+                <p className="mt-5 text-base font-semibold leading-9 text-gray-600">تواصل مع فريق بيت الريف وأرسل البيانات الأساسية. ينشئ الفريق مسودة برقم جهة، يراجع المحتوى والصور معك، ثم ينشر الصفحة بعد الاعتماد.</p>
               </div>
               <div className="space-y-4">
                 {steps.map((step, index) => (

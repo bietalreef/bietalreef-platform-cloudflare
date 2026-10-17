@@ -6,10 +6,10 @@ import { getSectionCardHref } from '../lib/sectionCardRoutes';
 const COPY = {
   ar: {
     providers: {
-      eyebrow: 'مزودو الخدمات',
+      eyebrow: 'الشركات والمهنيون',
       itemLabel: 'تخصص',
       summary: 'عرض باقي التخصصات',
-      explore: 'استكشف المزودين',
+      explore: 'استكشف الشركات',
     },
     services_offers: {
       eyebrow: 'خدمات وعروض',

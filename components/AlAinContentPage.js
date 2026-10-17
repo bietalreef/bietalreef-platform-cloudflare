@@ -1,3 +1,4 @@
+import styles from './AlAinContentPage.module.css';
 import { useEffect, useRef } from 'react';
 import { CONSENT_EVENT, analyticsConsent } from './PrivacyConsentCenter';
 import Link from 'next/link';
@@ -30,25 +31,25 @@ export default function AlAinContentPage({ model }) {
   const quote = provider => `${en ? '/en' : ''}/request-quote?${new URLSearchParams({ city: 'al-ain', category, ...(service ? { service } : {}), ...(provider ? { provider: provider.slug } : {}) })}`;
   return <>
     <SEOHead title={model.title} description={model.description} canonicalPath={path} alternatePath={model.alternates.en.replace('https://bietalreef.ae', '')} noIndex={!model.indexable} noIndexFollow structuredData={model.schema} breadcrumbs={model.breadcrumbs} />
-    <div dir={en ? 'ltr' : 'rtl'} lang={locale} className="min-h-screen bg-[#F8FBFA] text-[#1D2E22]">
+    <div dir={en ? 'ltr' : 'rtl'} lang={locale} className={`${styles.page} min-h-screen bg-[#F8FBFA] text-[#1D2E22]`}>
       <Navbar locale={locale} />
-      <main className="mx-auto max-w-6xl space-y-8 px-4 py-8">
+      <main className={styles.main}>
         <nav aria-label={en ? 'Breadcrumbs' : 'مسار التصفح'} className="flex flex-wrap gap-3 text-sm">{model.breadcrumbs.map(item => <Link href={item.href} key={item.href}>{item.name}</Link>)}</nav>
-        <section className="grid overflow-hidden rounded-3xl border border-[#E6DCC8] bg-white md:grid-cols-2">
-          <div className="p-6 md:p-10"><p className="font-bold text-[#0F3F1A]">{en ? 'Biet Alreef · Al Ain' : 'بيت الريف · العين'}</p><h1 className="mt-4 text-3xl font-black leading-relaxed">{model.title.split(' | ')[0]}</h1><p className="mt-4 leading-8">{label(content.intro)}</p><div className="mt-6 flex flex-wrap gap-3"><a className={action} href="#companies">{en ? 'View companies' : 'عرض الشركات'}</a><a className={outline} href="#quote-details">{en ? 'Prepare a quote request' : 'جهز طلب عرض السعر'}</a></div></div>
-          <div className="relative min-h-[240px]"><Image src={content.image} alt={en ? 'Service illustration' : 'صورة توضيحية للخدمة'} fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" priority /></div>
+        <section className={styles.hero}>
+          <div className={styles.copy}><p className="font-bold text-[#0F3F1A]">{en ? 'Biet Alreef · Al Ain' : 'بيت الريف · العين'}</p><h1 >{model.title.split(' | ')[0]}</h1><p className="mt-4 leading-8">{label(content.intro)}</p><div className={styles.actions}><a className={action} href="#companies">{en ? 'View companies' : 'عرض الشركات'}</a><a className={outline} href="#quote-details">{en ? 'Prepare a quote request' : 'جهز طلب عرض السعر'}</a></div></div>
+          <div className={styles.visual}><Image src={content.image} alt={en ? 'Service illustration' : 'صورة توضيحية للخدمة'} fill sizes="(max-width: 900px) 100vw, 50vw" className="object-cover" priority /></div>
         </section>
-        <nav aria-label={en ? 'Al Ain service sectors' : 'قطاعات خدمات العين'} className="flex flex-wrap gap-3">{model.sectorLinks.map(item => <Link key={item.href} href={item.href} aria-current={path === item.href ? 'page' : undefined} className={path === item.href ? action : outline}>{item.name}</Link>)}</nav>
+        <nav aria-label={en ? 'Al Ain service sectors' : 'قطاعات خدمات العين'} className={styles.sectors}>{model.sectorLinks.map(item => <Link key={item.href} href={item.href} aria-current={path === item.href ? 'page' : undefined} className={path === item.href ? action : outline}>{item.name}</Link>)}</nav>
         {category === 'cleaning-services' && !service && <section className="rounded-3xl bg-[#EAF5FA] p-6"><h2 className="text-2xl font-bold">{en ? 'Home and villa cleaning' : 'تنظيف المنازل والفلل'}</h2><p className="my-4 leading-8">{en ? 'Review the scope and information needed for a home or villa cleaning quotation.' : 'راجع نطاق التنظيف والمعلومات اللازمة لطلب عرض سعر لمنزل أو فيلا.'}</p><Link className={action} href={localPath({ locale, category, service: 'home-villa-cleaning' })}>{en ? 'View service details' : 'تفاصيل الخدمة'}</Link></section>}
         <div className="grid gap-5 md:grid-cols-2">{content.sections.map(section => <section key={section.title.en} className="rounded-3xl border border-[#E6DCC8] bg-white p-6"><h2 className="text-2xl font-bold">{label(section.title)}</h2><p className="mt-4 leading-8">{label(section.body)}</p></section>)}</div>
         <section id="companies" className="scroll-mt-24"><h2 className="text-2xl font-bold">{en ? 'Companies serving Al Ain' : 'شركات تخدم العين'}</h2>
           {!providers.length && <div className="mt-4 rounded-3xl border border-[#D8C8AA] bg-white p-6"><p className="leading-8">{en ? 'No eligible company is published in this section yet. You can prepare your requirements below; service availability needs company confirmation.' : 'لا توجد شركة مؤهلة منشورة في هذا القسم حاليًا. يمكنك تجهيز متطلباتك أدناه؛ توفر الخدمة يحتاج تأكيد الشركة.'}</p></div>}
           <div className="mt-5 grid gap-5 md:grid-cols-2">{providers.map(provider => {
             const profile = `${en ? '/en' : ''}/providers/${provider.slug}`;
-            return <article className="rounded-3xl border border-[#E6DCC8] bg-white p-6" key={provider.id}>
+            return <article className={`${styles.company} rounded-3xl border border-[#E6DCC8] bg-white p-5 sm:p-6`} key={provider.id}>
               <div className="flex items-center gap-4"><Image src={provider.image} alt={provider.name[locale]} width={64} height={64} /><h3 className="text-xl font-bold"><Link href={profile}>{provider.name[locale]}</Link></h3></div>
               <p className="mt-4">{en ? 'Service coverage: Al Ain. Confirm your district and appointment.' : 'نطاق الخدمة: العين. أكد منطقتك والموعد مع الشركة.'}</p>
-              <div className="mt-5 flex flex-wrap gap-3"><Link className={action} href={profile} onClick={() => track('provider_view_from_service', provider)}>{en ? 'Visit profile' : 'زيارة الملف'}</Link>
+              <div className={styles.actions}><Link className={action} href={profile} onClick={() => track('provider_view_from_service', provider)}>{en ? 'Visit profile' : 'زيارة الملف'}</Link>
                 {provider.phone && <a className={outline} href={`tel:${provider.phone}`} onClick={() => track('phone_click', provider)}>{en ? 'Call' : 'اتصال'}</a>}
                 {provider.whatsapp && <a className={outline} href={`https://wa.me/${provider.whatsapp.replace(/[^0-9]/g, '')}?text=${encodeURIComponent(`${en ? 'Quote request: ' : 'طلب عرض سعر: '}${label(content.name)} ${en ? 'in Al Ain' : 'في العين'}`)}`} target="_blank" rel="noopener noreferrer" onClick={() => track('whatsapp_click', provider)}>{en ? 'WhatsApp' : 'واتساب'}</a>}
                 <Link className={outline} href={quote(provider)} onClick={() => track('request_quote', provider)}>{en ? 'Request a quote' : 'طلب عرض سعر'}</Link>

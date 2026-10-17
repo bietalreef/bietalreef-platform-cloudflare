@@ -93,6 +93,8 @@ export async function getServerSideProps({ res }) {
     );
   };
 
+  for (const path of ['/app', '/android', '/web-app']) addPair(path, `/en${path}`, '/icons/logo-512.webp', { changefreq: 'monthly', priority: 0.6 });
+
   addPair(
     '/press/smart-platform-launch',
     '/en/press/smart-platform-launch',

@@ -1,0 +1,18 @@
+.page { overflow-wrap: anywhere; }
+.main { width: min(1152px, 100%); padding: 24px 20px 40px; margin-inline: auto; display: grid; gap: 28px; }
+.main > * { min-width: 0; }
+.hero { display: grid; grid-template-columns: minmax(0,1.1fr) minmax(0,.9fr); overflow: hidden; border-radius: 26px; border: 1px solid #dedfce; background: #fff; }
+.copy { padding: clamp(24px,4vw,48px); align-self: center; min-width: 0; }
+.copy h1 { font-size: clamp(26px,3vw,40px); line-height: 1.6; font-weight: 900; margin-top: 16px; }
+.copy p { line-height: 2; }
+.visual { position: relative; min-height: 340px; background: #e8f0ed; }
+.actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
+.actions > * { min-width: 0; max-width: 100%; white-space: normal; line-height: 1.65; text-align: center; }
+.sectors { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 12px; }
+.sectors > a { text-align: center; line-height: 1.8; }
+.company { min-width: 0; }
+.company h3 { min-width: 0; }
+.main a:focus-visible, .main summary:focus-visible { outline: 3px solid #a88b38; outline-offset: 4px; }
+@media (max-width: 900px) { .hero { grid-template-columns: 1fr; } .visual { min-height: 230px; max-height: 300px; } .copy { padding: 28px; } }
+@media (max-width: 600px) { .main { padding: 16px 14px 30px; gap: 22px; } .hero { border-radius: 20px; } .copy { padding: 24px 20px; } .copy h1 { font-size: 27px; } .visual { min-height: 200px; } .actions { display: grid; grid-template-columns: 1fr; } .actions > * { width: 100%; } .sectors { grid-template-columns: 1fr; gap: 8px; } .main h2 { font-size: 22px; line-height: 1.7; } }
+@media (prefers-reduced-motion:reduce) { .main * { scroll-behavior: auto; } }

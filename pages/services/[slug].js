@@ -1,3 +1,5 @@
+import AlAinSectorDiscovery from '../../components/AlAinSectorDiscovery';
+import { CONTENT } from '../../data/alAinContent';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
@@ -119,15 +121,15 @@ export default function ServiceLandingPage({
         <Navbar pageTitle="الخدمات والعروض" />
         <SectionBackBar href="/services" label="العودة إلى الخدمات والعروض" />
         <main>
-          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} />
+          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
 
-          <section className="max-w-6xl mx-auto px-4 py-14">
+          {Object.hasOwn(CONTENT, service.slug) ? <AlAinSectorDiscovery category={service.slug} /> : <section className="max-w-6xl mx-auto px-4 py-14">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {['وصف الخدمة', 'طلب عرض سعر', 'اختيار المكان'].map((item, index) => (
                 <div key={item} className="rounded-3xl bg-white border border-[#E6DCC8] p-7 shadow-sm"><span className="text-sm font-black text-[#6F5400]">0{index + 1}</span><h2 className="mt-3 text-xl font-black text-[#0F3F1A]">{item}</h2><p className="mt-3 text-sm leading-8 text-gray-600">{index === 0 && `تعرف على نطاق ${service.nameAr} وما يناسب مشروعك.`}{index === 1 && 'أرسل تفاصيل المشروع لتحصل على توجيه مناسب بدل الأسعار العشوائية.'}{index === 2 && 'إذا كنت تبحث حسب المدينة، انتقل إلى دليل الإمارات لاختيار الإمارة والمنطقة.'}</p></div>
               ))}
             </div>
-          </section>
+          </section>}
 
           {false && isWorkshopsPage && (
             <section className="max-w-6xl mx-auto px-4 py-10" aria-label="إعلان مصنع الحوت">

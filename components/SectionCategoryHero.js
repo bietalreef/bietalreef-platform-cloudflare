@@ -12,7 +12,7 @@ export default function SectionCategoryHero({ locale = 'ar', type, title, descri
   const requestLabel = isService ? (isEn ? 'Request service guidance' : 'اطلب توجيه للخدمة') : (isEn ? 'Request sourcing help' : 'اطلب مساعدة في التوريد');
   const Icon = isService ? Wrench : Boxes;
   return (
-    <section dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FCFCF8] px-4 pb-10 pt-6 md:pb-14 md:pt-10">
+    <section dir={isEn ? 'ltr' : 'rtl'} className="br-sector-hero bg-[#FCFCF8] px-4 pb-10 pt-6 md:pb-14 md:pt-10">
       <div className="relative mx-auto min-h-[360px] max-w-6xl overflow-hidden rounded-[2.5rem] border border-[#D4AF37]/35 bg-[#123A46] shadow-[0_30px_80px_rgba(18,58,70,.18)] md:min-h-[460px]">
         <Image src={image} alt={title} fill priority className="object-cover" sizes="(max-width: 1200px) 100vw, 1200px" />
         <div className="absolute inset-0 bg-gradient-to-t from-[#061B28]/90 via-[#061B28]/50 to-transparent" />

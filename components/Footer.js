@@ -158,6 +158,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
   const uaeIndex = pathParts.indexOf('uae');
   const activeEmirate = uaeIndex >= 0 ? getEmirate(pathParts[uaeIndex + 1]) : null;
 
+
   return (
     <>
       {showRequestCTA ? <UniversalRequestCTA locale={language} /> : null}

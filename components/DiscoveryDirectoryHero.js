@@ -3,7 +3,7 @@ import { ArrowLeft, ArrowRight, MessageCircle, Search, ShoppingBag, Wrench } fro
 
 const content = {
   services: {
-    ar: { label: 'الخدمات والعروض', title: 'اختر الخدمة، ثم انتقل إلى تفاصيل الطلب وعرض السعر', description: 'ابدأ من نوع الخدمة المطلوبة، ثم أضف موقع المشروع والصور والمقاسات للوصول إلى مسار واضح يربط احتياجك بالخدمة والمزود المناسب.', browse: 'استعرض الخدمات', contact: 'اطلب توجيه من الفريق', alt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
+    ar: { label: 'الخدمات والعروض', title: 'اختر الخدمة، ثم انتقل إلى تفاصيل الطلب وعرض السعر', description: 'ابدأ من نوع الخدمة المطلوبة، ثم أضف موقع المشروع والصور والمقاسات للوصول إلى مسار واضح يربط احتياجك بالخدمة والشركة المناسبة.', browse: 'استعرض الخدمات', contact: 'اطلب توجيه من الفريق', alt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
     en: { label: 'Services & Offers', title: 'Choose a service, then continue to request and quotation details', description: 'Start with the required service, then add the project location, photos and measurements to reach a clear path connecting your need with the right service and provider.', browse: 'Browse services', contact: 'Ask our team', alt: 'Construction, maintenance and finishing services and offers on Biet Al Reef' },
     image: '/images/services-offers-hero.webp',
     target: '#services-list',
@@ -26,7 +26,7 @@ export default function DiscoveryDirectoryHero({ type, locale = 'ar' }) {
   const Icon = section.Icon;
 
   return (
-    <section dir={isAr ? 'rtl' : 'ltr'} className="bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10">
+    <section dir={isAr ? 'rtl' : 'ltr'} className="br-discovery-hero bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10">
       <div className="mx-auto max-w-6xl overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white shadow-[0_20px_55px_rgba(18,58,70,0.08)] md:rounded-[2.5rem]">
         <div className="grid lg:grid-cols-[1.05fr_.95fr] lg:items-stretch">
           <div className="flex flex-col justify-center p-6 md:p-10 lg:p-12">

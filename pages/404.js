@@ -8,7 +8,7 @@ import { MARKET_URL } from '../lib/platformUrls';
 const links = [
   { href: '/', label: 'الرئيسية', icon: Home },
   { href: '/uae', label: 'دليل الإمارات', icon: MapPinned },
-  { href: '/providers', label: 'مزودو الخدمات', icon: UsersRound },
+  { href: '/providers', label: 'الشركات والمهنيون', icon: UsersRound },
   { href: '/services', label: 'الخدمات والعروض', icon: Wrench },
   { href: MARKET_URL, label: 'سوق بيت الريف', icon: ShoppingBag },
 ];
@@ -18,7 +18,7 @@ export default function NotFoundPage() {
     <>
       <SEOHead
         title="الصفحة غير موجودة | بيت الريف"
-        description="الصفحة التي تبحث عنها غير موجودة داخل بيت الريف. يمكنك العودة إلى الرئيسية أو استكشاف دليل الإمارات ومزودي الخدمات والخدمات والعروض والمنتجات والمتاجر."
+        description="الصفحة التي تبحث عنها غير موجودة داخل بيت الريف. يمكنك العودة إلى الرئيسية أو استكشاف دليل الإمارات والشركات والمهنيين والخدمات والعروض والمنتجات والمتاجر."
         canonicalPath="/404"
         noIndex
         structuredData={{

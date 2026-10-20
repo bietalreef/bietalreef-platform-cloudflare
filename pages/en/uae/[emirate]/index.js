@@ -1,3 +1,4 @@
+import DirectoryLandingPage from '../../../../components/DirectoryLandingPage';
 import Head from 'next/head';
 import Navbar from '../../../../components/Navbar';
 import Footer from '../../../../components/Footer';
@@ -16,6 +17,7 @@ import { UAE_DIRECTORY_SECTION_SLUGS, getEnglishUaeDirectoryCards } from '../../
 const atlasImageBySlug = Object.fromEntries(UAE_ATLAS_IMAGES.emirates.map((item) => [item.slug, item.image]));
 
 export default function EnglishEmiratePage({ emirate, directoryCards = [] }) {
+  if (emirate.slug === 'abu-dhabi') return <DirectoryLandingPage locale="en" mode="abu-dhabi"/>;
   const isAbuDhabi = emirate.slug === 'abu-dhabi';
   const canonical = `https://bietalreef.ae/en/uae/${emirate.slug}`;
   const shareImage = `https://bietalreef.ae${atlasImageBySlug[emirate.slug]}`;
@@ -105,6 +107,7 @@ export default function EnglishEmiratePage({ emirate, directoryCards = [] }) {
 export async function getStaticProps({ params }) {
   const emirate = getEmirate(params.emirate);
   if (!emirate) return { notFound: true };
+  if (emirate.slug === 'abu-dhabi') return {props:{emirate,directoryCards:[]},revalidate:3600};
   const directoryCards = await getEnglishUaeDirectoryCards();
   return { props: { emirate, directoryCards }, revalidate: 3600 };
 }

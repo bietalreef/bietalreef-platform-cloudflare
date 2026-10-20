@@ -1,5 +1,5 @@
 {
-  "name": "bietalreef-landing",
+  "name": "bietalreef-platform-cloudflare",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.28.0",
@@ -8,7 +8,6 @@
     "audit:site": "node scripts/audit-site-structure.js",
     "prebuild": "node scripts/audit-site-structure.js",
     "build": "next build",
-    "postbuild": "node scripts/postbuild-preview-smoke.mjs",
     "test:weyaak:live": "node scripts/weyaak-preview-smoke.mjs && node scripts/weyaak-provider-search-smoke.mjs",
     "start": "next start",
     "test:local-services": "node --test scripts/local-services.test.cjs",
@@ -20,7 +19,6 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.3.0",
-    "@vercel/speed-insights": "2.0.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "formidable": "^3.5.4",

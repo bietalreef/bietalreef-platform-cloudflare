@@ -40,12 +40,12 @@ function pageCopy(card, locale, area, emirate) {
   const title = type === 'providers'
     ? card.activity.slug === 'construction-contracting'
       ? `أفضل المقاولين الموثقين في المقاولات والإنشاءات العامة في ${location}`
-      : `أفضل مزودي ${card.activity.name} الموثقين في ${location}`
+      : `أفضل شركات ${card.activity.name} الموثقين في ${location}`
     : `${card.title} في ${location}`;
   return {
     location,
     title,
-    description: `استكشف ${card.activity.name} في ${location} عبر بيت الريف، وقارن ${type === 'providers' ? 'التخصصات ومزودي الخدمة الموثقين' : type === 'services_offers' ? 'الخدمات والعروض المتاحة' : 'فئات المنتجات والمتاجر والموردين'}، ثم اطلب من وياك توجيهك إلى الخطوة المناسبة.`,
+    description: `استكشف ${card.activity.name} في ${location} عبر بيت الريف، وقارن ${type === 'providers' ? 'التخصصات والشركات الموثقين' : type === 'services_offers' ? 'الخدمات والعروض المتاحة' : 'فئات المنتجات والمتاجر والموردين'}، ثم اطلب من وياك توجيهك إلى الخطوة المناسبة.`,
     coverageTitle: `أقسام ${card.activity.name} في ${location}`,
     coverageText: `تنظم هذه الصفحة الموجهة لمحركات البحث جميع الأقسام التي ظهرت على بطاقة الدليل قبل فتحها، مع الحفاظ على مسار واضح للعودة إلى ${location} ومناطقها.`,
     back: `العودة إلى ${location}`,
@@ -56,7 +56,7 @@ function DirectoryEntityCard({ entity, locale }) {
   const isEn = locale === 'en';
   const Arrow = isEn ? ArrowRight : ArrowLeft;
   const typeLabel = entity.entityType === 'provider'
-    ? (isEn ? 'Verified provider' : 'مزود خدمة')
+    ? (isEn ? 'Verified provider' : 'شركة متخصصة')
     : entity.entityType === 'service'
       ? (isEn ? 'Published service' : 'خدمة منشورة')
       : (isEn ? 'Published product' : 'منتج منشور');
@@ -179,7 +179,7 @@ function LandingContent({
             </div>
           ) : (
             <div className="rounded-[2rem] border border-dashed border-[#D7C7A7] bg-white p-8 text-center">
-              <p className="text-sm font-bold leading-7 text-gray-600">{isEn ? 'No published card currently matches this activity and location. Approved providers and content will appear here automatically.' : 'لا توجد بطاقة منشورة حاليًا تطابق هذا النشاط والموقع. سيظهر المزود أو المحتوى هنا تلقائيًا بعد اعتماده من لوحة الإدارة.'}</p>
+              <p className="text-sm font-bold leading-7 text-gray-600">{isEn ? 'No published card currently matches this activity and location. Approved providers and content will appear here automatically.' : 'لا توجد بطاقة منشورة حاليًا تطابق هذا النشاط والموقع. سيظهر الشركة أو المحتوى هنا تلقائيًا بعد اعتماده من لوحة الإدارة.'}</p>
             </div>
           )}
         </section>

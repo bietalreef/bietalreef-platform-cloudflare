@@ -60,7 +60,7 @@ export const arklineProvider = {
   ]
 };
 
-export const providers = [
+const legacyProviders = [
   {
     slug: 'al-hoot-marble-granite-factory',
     providerId: 'BR-PROV-HOT-001',
@@ -162,7 +162,7 @@ export const providers = [
 // Publishing is controlled by the provider record; keep the discovery list aligned
 // with the providers activated in Supabase.
 const hiddenFromDiscovery = new Set([]);
-export const directoryProviders = [arklineProvider, ...providers].filter((provider) => !hiddenFromDiscovery.has(provider.slug));
+export const directoryProviders = [];
 
 export function getProvidersByCategory(categorySlug) {
   return directoryProviders.filter((provider) => provider.categorySlugs?.includes(categorySlug));
@@ -176,3 +176,6 @@ export function getProvidersByAreaAndCategory(emirateSlug, areaSlug, categorySlu
     return matchesEmirate && matchesArea && matchesCategory;
   });
 }
+
+// Historical fixtures are not public directory data.
+export const providers = [];

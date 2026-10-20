@@ -33,12 +33,12 @@ const CONFIG = {
   providers: {
     icon: Users,
     ar: {
-      eyebrow: 'بوابة مزودي الخدمات',
-      title: 'أكمل رحلتك داخل مزودي الخدمات',
-      description: 'الوصول إلى النشاط والتخصص والإمارة وملف المزود عبر روابط واضحة متصلة ببيانات المنصة المعتمدة.',
-      activitiesTitle: 'أنشطة مزودي الخدمات',
+      eyebrow: 'بوابة الشركات والمهنيين',
+      title: 'أكمل رحلتك داخل الشركات والمهنيين',
+      description: 'الوصول إلى النشاط والتخصص والإمارة وملف الشركة عبر روابط واضحة متصلة ببيانات المنصة المعتمدة.',
+      activitiesTitle: 'أنشطة الشركات والمهنيين',
       activitiesSubtitle: '7 أنشطة رئيسية من قاعدة بيانات المنصة',
-      journeyTitle: 'مسار مزود الخدمة',
+      journeyTitle: 'مسار الشركة',
       journeySubtitle: 'من تجهيز البيانات إلى نشر الملف',
       ctaTitle: 'جاهز تنشر ملف نشاطك؟',
       ctaDescription: 'أرسل بيانات النشاط إلى فريق بيت الريف لتجهيز الملف ومراجعته قبل النشر.',
@@ -57,7 +57,7 @@ const CONFIG = {
       ctaLabel: 'Request a profile',
     },
     actions: [
-      { ar: 'حمّل التطبيق وانضم كمزود خدمة', en: 'Download the app and join as a provider', hrefAr: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', hrefEn: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', icon: Building2, descAr: 'ابدأ تجهيز ملف النشاط المعتمد من التطبيق.', descEn: 'Start preparing an approved business profile in the app.' },
+      { ar: 'حمّل التطبيق وانضم كشركة متخصصة', en: 'Download the app and join as a provider', hrefAr: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', hrefEn: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', icon: Building2, descAr: 'ابدأ تجهيز ملف النشاط المعتمد من التطبيق.', descEn: 'Start preparing an approved business profile in the app.' },
       { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/providers#provider-sectors', hrefEn: '/en/providers#provider-sectors', icon: Users, descAr: 'اختر النشاط ثم افتح التخصص المناسب.', descEn: 'Choose an activity, then open the right specialty.' },
       { ar: 'اطلب عرض سعر', en: 'Request a quotation', hrefAr: '/request-quote', hrefEn: '/en/request-quote', icon: FileText, descAr: 'أرسل احتياج المشروع بشكل منظم.', descEn: 'Send the project need in a structured way.' },
       { ar: 'تواصل مع فريق الانضمام', en: 'Talk to onboarding', hrefAr: WHATSAPP_URL, hrefEn: WHATSAPP_URL, icon: MessageCircle, descAr: 'احصل على توجيه مباشر قبل التسجيل.', descEn: 'Get direct guidance before registration.' },
@@ -76,7 +76,7 @@ const CONFIG = {
     ar: {
       eyebrow: 'بوابة الخدمات والعروض',
       title: 'أكمل رحلتك داخل الخدمات والعروض',
-      description: 'انتقل من النشاط والخدمة إلى موقع المشروع وطلب العرض ومزود الخدمة المناسب عبر شجرة واحدة واضحة.',
+      description: 'انتقل من النشاط والخدمة إلى موقع المشروع وطلب العرض والشركة المناسبة عبر شجرة واحدة واضحة.',
       activitiesTitle: 'أنشطة الخدمات والعروض',
       activitiesSubtitle: '7 أنشطة رئيسية من قاعدة بيانات المنصة',
       journeyTitle: 'مسار طلب الخدمة',
@@ -100,14 +100,14 @@ const CONFIG = {
     actions: [
       { ar: 'ابدأ طلب خدمة', en: 'Start a service request', hrefAr: '/request-quote', hrefEn: '/en/request-quote', icon: Search, descAr: 'أرسل الخدمة والموقع والتفاصيل.', descEn: 'Send the service, location and details.' },
       { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/services#services-list', hrefEn: '/en/services#services-list', icon: Wrench, descAr: 'افتح النشاط ثم الخدمة المناسبة.', descEn: 'Open the activity, then the right service.' },
-      { ar: 'تصفح مزودي الخدمات', en: 'Browse service providers', hrefAr: '/providers', hrefEn: '/en/providers', icon: Users, descAr: 'انتقل إلى ملفات المزودين المنشورة.', descEn: 'Move to published provider profiles.' },
+      { ar: 'تصفح الشركات والمهنيين', en: 'Browse service providers', hrefAr: '/providers', hrefEn: '/en/providers', icon: Users, descAr: 'انتقل إلى ملفات الشركات.', descEn: 'Move to published provider profiles.' },
       { ar: 'تحدث مع فريق بيت الريف', en: 'Talk to Biet Al Reef', hrefAr: WHATSAPP_URL, hrefEn: WHATSAPP_URL, icon: MessageCircle, descAr: 'اطلب مساعدة مباشرة في تحديد المسار.', descEn: 'Ask for direct help choosing the right path.' },
     ],
     journey: [
       { ar: 'حدد نوع الخدمة', en: 'Define the service type', hrefAr: '/services#services-list', hrefEn: '/en/services#services-list' },
       { ar: 'أضف الموقع والمقاسات والصور', en: 'Add location, measurements and photos', hrefAr: '/request-quote', hrefEn: '/en/request-quote' },
       { ar: 'اطلب عرض سعر واضح', en: 'Request a clear quotation', hrefAr: '/request-quote', hrefEn: '/en/request-quote' },
-      { ar: 'تابع مع مزود مناسب', en: 'Continue with a suitable provider', hrefAr: '/providers', hrefEn: '/en/providers' },
+      { ar: 'تابع مع جهة مناسب', en: 'Continue with a suitable provider', hrefAr: '/providers', hrefEn: '/en/providers' },
     ],
     ctaHrefAr: '/request-quote',
     ctaHrefEn: '/en/request-quote',
@@ -141,7 +141,7 @@ const CONFIG = {
     actions: [
       { ar: 'فتح سوق بيت الريف', en: 'Open Biet Al Reef Market', hrefAr: 'https://app.bietalreef.ae/', hrefEn: 'https://app.bietalreef.ae/', icon: Search, descAr: 'ابدأ من فئة المنتج أو المادة.', descEn: 'Start with the product or material category.' },
       { ar: 'اطلب تسعير مواد', en: 'Request material pricing', hrefAr: '/request-quote', hrefEn: '/en/request-quote', icon: ClipboardList, descAr: 'أرسل الكمية والمواصفات والموقع.', descEn: 'Send quantity, specifications and location.' },
-      { ar: 'تصفح الموردين والمتاجر', en: 'Browse suppliers and stores', hrefAr: '/providers', hrefEn: '/en/providers', icon: Store, descAr: 'انتقل إلى ملفات المزودين المنشورة.', descEn: 'Move to published supplier profiles.' },
+      { ar: 'تصفح الموردين والمتاجر', en: 'Browse suppliers and stores', hrefAr: '/providers', hrefEn: '/en/providers', icon: Store, descAr: 'انتقل إلى ملفات الشركات.', descEn: 'Move to published supplier profiles.' },
       { ar: 'مساعدة في التوريد', en: 'Sourcing help', hrefAr: WHATSAPP_URL, hrefEn: WHATSAPP_URL, icon: MessageCircle, descAr: 'احصل على توجيه مباشر لمسار التوريد.', descEn: 'Get direct guidance for the sourcing path.' },
     ],
     journey: [
@@ -157,7 +157,7 @@ const CONFIG = {
 
 const RELATED_LINKS = [
   { ar: 'دليل الإمارات', en: 'UAE Directory', hrefAr: '/uae', hrefEn: '/en/uae' },
-  { ar: 'مزودو الخدمات', en: 'Service Providers', hrefAr: '/providers', hrefEn: '/en/providers' },
+  { ar: 'الشركات والمهنيون', en: 'Service Providers', hrefAr: '/providers', hrefEn: '/en/providers' },
   { ar: 'الخدمات والعروض', en: 'Services & Offers', hrefAr: '/services', hrefEn: '/en/services' },
   { ar: 'سوق بيت الريف', en: 'Biet Al Reef Market', hrefAr: 'https://app.bietalreef.ae/', hrefEn: 'https://app.bietalreef.ae/' },
 ];

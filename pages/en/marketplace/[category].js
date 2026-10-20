@@ -136,26 +136,7 @@ export default function MarketplaceCategoryEnglishPage({
             </section>
           )}
 
-          {false && slug === 'finishing-works' && (
-            <section className="mx-auto max-w-6xl px-4 pb-16" aria-label="Featured product from White Whale Marble and Granite Factory">
-              <div className="overflow-hidden rounded-[2rem] border border-[#D4AF37]/40 bg-white shadow-2xl shadow-[#8A6A00]/10">
-                <div className="grid lg:grid-cols-[0.9fr_1.35fr]">
-                  <div className="relative min-h-[280px] bg-[radial-gradient(circle_at_top,#F7F1E8_0%,#E9DDC7_42%,#B8922B_100%)] p-8 md:p-10">
-                    <span className="inline-flex rounded-full bg-[#0F3F1A] px-4 py-1.5 text-xs font-black text-white">Featured product</span>
-                    <h2 className="mt-5 text-3xl font-black leading-tight text-[#0F3F1A] md:text-5xl">Premium Kitchen Quartz</h2>
-                    <p className="mt-4 text-sm font-bold text-[#6F5400]">Kitchen tops · Countertops · Kitchen islands</p>
-                    <div className="mt-8 rounded-3xl border border-white/60 bg-white/45 p-5 shadow-inner"><div className="h-24 rounded-2xl border border-white/70 bg-gradient-to-br from-white via-[#EFE7D8] to-[#CDBB98]" /></div>
-                  </div>
-                  <div className="p-8 md:p-10">
-                    <div className="flex flex-wrap gap-2"><span className="rounded-full bg-[#FFF8E5] px-3 py-1.5 text-xs font-black text-[#8A6A00]">Quartz</span><span className="rounded-full bg-emerald-50 px-3 py-1.5 text-xs font-black text-emerald-700">Premium finish</span><span className="rounded-full bg-[#FDFBF7] px-3 py-1.5 text-xs font-black text-[#0F3F1A]">White Whale Factory</span></div>
-                    <h3 className="mt-5 text-2xl font-black text-[#0F3F1A]">Custom premium kitchen quartz</h3>
-                    <p className="mt-4 text-base font-semibold leading-8 text-gray-700">A product suitable for kitchen tops, countertops and kitchen islands. It can be supplied, fabricated and installed according to project measurements and finishing requirements.</p>
-                    <div className="mt-7 flex flex-col gap-3 sm:flex-row"><Link href="/en/providers/al-hoot-marble-granite-factory" className="inline-flex justify-center rounded-2xl bg-[#0F3F1A] px-7 py-3 text-sm font-black text-white transition hover:bg-[#D4AF37] hover:text-[#0F3F1A]">View product</Link><a href={WHITE_WHALE_QUARTZ_WHATSAPP} target="_blank" rel="noopener noreferrer" className="inline-flex justify-center rounded-2xl border border-[#D4AF37]/50 px-7 py-3 text-sm font-black text-[#0F3F1A] transition hover:bg-[#FFF8E5]">Request price on WhatsApp</a></div>
-                  </div>
-                </div>
-              </div>
-            </section>
-          )}
+          {null}
 
           <section className="mx-auto max-w-6xl px-4 pb-16">
             <div className="rounded-[40px] border border-[#E6DCC8] bg-white p-8 md:p-14">

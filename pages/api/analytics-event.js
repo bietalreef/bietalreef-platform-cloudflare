@@ -78,9 +78,9 @@ function sanitizeMetadata(raw, req) {
     if (value) metadata[key] = value;
   }
 
-  const country = text(req.headers['x-vercel-ip-country'], 8);
-  const region = text(req.headers['x-vercel-ip-country-region'], 80);
-  const city = text(req.headers['x-vercel-ip-city'], 120);
+  const country = text(req.headers['cf-ipcountry'], 8);
+  const region = '';
+  const city = '';
   if (country) metadata.country = country;
   if (region) metadata.region = region;
   if (city) metadata.visitor_city = city;

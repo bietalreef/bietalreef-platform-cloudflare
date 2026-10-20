@@ -1,6 +1,6 @@
 import Script from 'next/script';
 import { useRouter } from 'next/router';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { analyticsConsent, CONSENT_EVENT } from './PrivacyConsentCenter';
 
 export const GOOGLE_ADS_TAG_ID = 'AW-17691718176';
@@ -13,6 +13,8 @@ function consentState() {
 
 export default function ConsentAwareGoogleTag() {
   const router = useRouter();
+  const [productionHost, setProductionHost] = useState(false);
+  useEffect(() => setProductionHost(['bietalreef.ae', 'www.bietalreef.ae'].includes(window.location.hostname)), []);
 
   useEffect(() => {
     const syncConsent = () => {
@@ -45,6 +47,8 @@ export default function ConsentAwareGoogleTag() {
     router.events.on('routeChangeComplete', trackPage);
     return () => router.events.off('routeChangeComplete', trackPage);
   }, [router.events]);
+
+  if (!productionHost) return null;
 
   return (
     <>

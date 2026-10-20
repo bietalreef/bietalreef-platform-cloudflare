@@ -2,8 +2,8 @@ import Image from 'next/image';
 import { ArrowLeft, ArrowRight, Building2, MessageCircle, Users } from 'lucide-react';
 
 const content = {
-  ar: { home: 'الرئيسية', label: 'دليل مزودي الخدمات', title: 'اختر مزود الخدمة المناسب لنشاط مشروعك', description: 'ابدأ من القطاع، ثم افتح بطاقة المزود للاطلاع على التخصص ونطاق الخدمة والمشاريع وطرق التواصل في مسار واضح وسهل.', browse: 'استعرض القطاعات', contact: 'تحدث مع فريق الانضمام', alt: 'مزودو خدمات البناء والمقاولات والصيانة في بيت الريف' },
-  en: { home: 'Home', label: 'Service Provider Directory', title: 'Choose the right provider for your project activity', description: 'Start with a sector, then open a provider card to review specialties, service coverage, projects and contact channels through one clear journey.', browse: 'Browse sectors', contact: 'Talk to onboarding', alt: 'Building, contracting and maintenance providers on Biet Al Reef' },
+  ar: { home: 'الرئيسية', label: 'دليل الشركات والمهنيين', title: 'اختر الشركة أو المهني المناسب لمشروعك', description: 'ابدأ من القطاع، ثم افتح بطاقة الجهة للاطلاع على التخصص ونطاق الخدمة والمشاريع وطرق التواصل في مسار واضح وسهل.', browse: 'استعرض القطاعات', contact: 'تحدث مع فريق الانضمام', alt: 'شركات خدمات البناء والمقاولات والصيانة في بيت الريف' },
+  en: { home: 'Home', label: 'Businesses & Professionals', title: 'Choose the right business or professional for your project', description: 'Start with a sector, then open a business profile to review specialties, service coverage, projects and contact channels through one clear journey.', browse: 'Browse sectors', contact: 'Talk to onboarding', alt: 'Building, contracting and maintenance providers on Biet Al Reef' },
 };
 
 export default function ProvidersDirectoryHero({ locale = 'ar' }) {
@@ -11,7 +11,7 @@ export default function ProvidersDirectoryHero({ locale = 'ar' }) {
   const t = content[locale];
   const DirectionArrow = isAr ? ArrowLeft : ArrowRight;
   return (
-    <section className="bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10" dir={isAr ? 'rtl' : 'ltr'}>
+    <section className="br-discovery-hero bg-[#FDFBF7] px-4 pb-8 pt-6 md:pb-12 md:pt-10" dir={isAr ? 'rtl' : 'ltr'}>
       <div className="mx-auto max-w-6xl overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white shadow-[0_20px_55px_rgba(18,58,70,0.08)] md:rounded-[2.5rem]">
         <div className="grid lg:grid-cols-[1.05fr_.95fr] lg:items-stretch">
           <div className="flex flex-col justify-center p-6 md:p-10 lg:p-12">

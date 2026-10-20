@@ -11,7 +11,7 @@ export default function CategoryPage({ service, relatedProviders }) {
     <>
       <Head>
         <title>{`${service.nameAr} في الإمارات | دليل بيت الريف للمقاولات`}</title>
-        <meta name="description" content={`دليل ${service.nameAr} الشامل في الإمارات. ابحث عن أفضل مزودي الخدمات، الشركات، والمقاولين المعتمدين في أبوظبي، دبي، والشارقة.`} />
+        <meta name="description" content={`دليل ${service.nameAr} الشامل في الإمارات. ابحث عن أفضل الشركات والمهنيين، الشركات، والمقاولين المعتمدين في أبوظبي، دبي، والشارقة.`} />
         <link rel="canonical" href={`https://bietalreef.ae/categories/${service.slug}`} />
       </Head>
 
@@ -57,7 +57,7 @@ export default function CategoryPage({ service, relatedProviders }) {
             <section className="max-w-7xl mx-auto px-4 py-20">
               <div className="flex items-end justify-between mb-12">
                 <div>
-                  <h2 className="text-3xl font-black text-[#0F3F1A] mb-3">مزودو خدمات معتمدون</h2>
+                  <h2 className="text-3xl font-black text-[#0F3F1A] mb-3">شركات خدمات معتمدون</h2>
                   <p className="text-gray-600 font-medium">نخبة من الشركات والمحترفين في مجال {service.nameAr}</p>
                 </div>
               </div>

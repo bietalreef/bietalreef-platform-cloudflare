@@ -1,10 +1,13 @@
+import { findAlAinSector } from '../data/alAinHub';
+import { WORK_TYPES } from '../data/alAinWorkTypes';
+import { CONTENT } from '../data/alAinContent';
 import { SERVICE_INTENTS } from '../data/localServices';
 import { getLocalArea, validSlug } from '../lib/localServices';
 import { useEffect, useMemo, useState } from 'react';
 import { ArrowLeft, CheckCircle2, Copy, ImagePlus, Loader2, MessageSquareText, Phone, ShieldCheck, X } from 'lucide-react';
 
 const emirates = ['أبوظبي', 'دبي', 'الشارقة', 'عجمان', 'رأس الخيمة', 'الفجيرة', 'أم القيوين'];
-const serviceCategories = ['مقاولات وتشطيبات', 'تصميم داخلي', 'نجارة وأبواب', 'رخام وسيراميك', 'صيانة عامة', 'كهرباء وسباكة', 'مواد بناء', 'أخرى'];
+const serviceCategories = ['مقاولات وتشطيبات', 'تصميم داخلي', 'نجارة وأبواب', 'رخام وسيراميك', 'صيانة عامة', 'كهرباء وسباكة', 'مواد بناء', 'خدمات التنظيف', 'تنظيف المنازل بالساعة', 'المصانع والتوريد', 'الألمنيوم والخشب والزجاج', 'أخرى'];
 const MAX_ATTACHMENTS = 4;
 const MAX_ORIGINAL_IMAGE_SIZE = 8 * 1024 * 1024;
 const MAX_COMPRESSED_SIZE = 1_500_000;
@@ -97,13 +100,19 @@ export default function PublicLeadForm({ formType = 'quote' }) {
     const area = getLocalArea(params.get('area'));
     const service = SERVICE_INTENTS.find(item => item.slug === params.get('service') && item.category === params.get('category'));
     const provider = params.get('provider');
-    if (params.get('city') === 'al-ain' && validSlug(provider)) {
-      setForm(current => ({ ...current, city: `العين${area ? ` – ${area.nameAr}` : ''}`, project_description: `طلب عرض سعر للمزود ${provider}${service ? ` — ${service.name.ar}` : ''}. يرجى وصف نطاق التنظيف المطلوب:` }));
+    const sector = findAlAinSector(params.get('category'));
+    const category = sector || Object.hasOwn(CONTENT, params.get('category')) ? params.get('category') : '';
+    const requestedHours = ['2','3','4','5','6','8'].includes(params.get('hours')) ? params.get('hours') : '';
+    const requestCategory = { 'cleaning-services':'خدمات التنظيف', 'hourly-cleaning':'تنظيف المنازل بالساعة', 'general-maintenance':'صيانة عامة', 'general-contracting':'مقاولات وتشطيبات', 'interior-design':'تصميم داخلي', 'building-materials':'مواد بناء', 'aluminium-wood-glass':'الألمنيوم والخشب والزجاج', 'factories-suppliers':'المصانع والتوريد' }[category];
+    const work = (WORK_TYPES[category] || []).find(item => item[1] === params.get('work') || item[2] === params.get('work'));
+    const workName = work?.[1] || service?.name.ar || sector?.name.ar || CONTENT[category]?.name.ar || '';
+    if (params.get('city') === 'al-ain') {
+      setForm(current => ({ ...current, ...(requestCategory ? {service_category:requestCategory} : {}), emirate: 'أبوظبي', city: `العين${area ? ` – ${area.nameAr}` : ''}`, project_description: `طلب عرض سعر${workName ? ` — ${workName}` : ''}${validSlug(provider) ? ` — ${provider}` : ''}${category === 'hourly-cleaning' && requestedHours ? ` — عدد الساعات المطلوبة: ${requestedHours}` : ''}. تفاصيل العمل المطلوب:` }));
     }
   }, []);
 
   const title = isQuote ? 'طلب عرض سعر' : 'إرسال استفسار';
-  const description = isQuote ? 'اكتب تفاصيل مشروعك أو الخدمة المطلوبة وسنحوّل الطلب لمسار منظم داخل بيت الريف.' : 'اكتب سؤالك أو احتياجك وسنرد عليك من خلال فريق بيت الريف.';
+  const description = isQuote ? 'اكتب العمل المطلوب والمنطقة والموعد المناسب للتواصل معك.' : 'اكتب سؤالك أو احتياجك وسنرد عليك من خلال فريق بيت الريف.';
 
   const canSubmit = useMemo(() => {
     if (!form.accepted) return false;

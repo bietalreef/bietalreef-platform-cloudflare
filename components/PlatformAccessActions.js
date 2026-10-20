@@ -1,35 +1,18 @@
-import { Download, Globe2, ShoppingBag } from 'lucide-react';
+import Image from 'next/image';
+import { Globe2 } from 'lucide-react';
 import { GOOGLE_PLAY_URL, MARKET_URL, PROVIDERS_APP_URL } from '../lib/platformUrls';
-
-const copy = {
-  ar: {
-    download: 'حمّل تطبيق بيت الريف',
-    browser: 'الدخول من المتصفح',
-    market: 'فتح سوق بيت الريف',
-  },
-  en: {
-    download: 'Download Biet Al Reef',
-    browser: 'Open the web app',
-    market: 'Open Biet Al Reef Market',
-  },
-};
+import styles from './PlatformAccessActions.module.css';
 
 export default function PlatformAccessActions({ locale = 'ar', compact = false, className = '' }) {
-  const t = copy[locale] || copy.ar;
-  const base = 'inline-flex items-center justify-center gap-2 rounded-2xl font-black transition hover:-translate-y-0.5';
-  const spacing = compact ? 'min-h-11 px-4 py-2.5 text-xs' : 'min-h-[52px] px-6 py-3 text-sm';
-
-  return (
-    <div className={`grid gap-2 ${compact ? 'grid-cols-1' : 'sm:grid-cols-3'} ${className}`} data-platform-access-actions>
-      <a href={GOOGLE_PLAY_URL} target="_blank" rel="noopener noreferrer" className={`${base} ${spacing} bg-[#D4AF37] text-[#0F3F1A]`}>
-        <Download className="h-4 w-4" />{t.download}
-      </a>
-      <a href={PROVIDERS_APP_URL} className={`${base} ${spacing} bg-[#0F3F1A] text-white`}>
-        <Globe2 className="h-4 w-4" />{t.browser}
-      </a>
-      <a href={MARKET_URL} className={`${base} ${spacing} border border-[#D8C9A8] bg-white text-[#0F3F1A]`}>
-        <ShoppingBag className="h-4 w-4" />{t.market}
-      </a>
-    </div>
-  );
+  const en = locale === 'en';
+  const actions = [
+    { href: GOOGLE_PLAY_URL, label: 'Android', title: en ? 'Download Biet Al Reef from Google Play' : 'حمّل تطبيق بيت الريف من Google Play', image: '/icons/logo-512.webp', external: true },
+    { href: PROVIDERS_APP_URL, label: en ? 'Web app' : 'المتصفح', title: en ? 'Open the Biet Al Reef web app' : 'افتح تطبيق بيت الريف من المتصفح' },
+    { href: MARKET_URL, label: en ? 'Market' : 'السوق', title: en ? 'Open Biet Al Reef Market' : 'افتح سوق بيت الريف', image: '/images/gateway/materials-products-gateway.webp' },
+  ];
+  return <div className={`${styles.row} ${compact ? styles.compact : ''} ${className}`} data-platform-access-actions>
+    {actions.map(action => <a key={action.href} href={action.href} aria-label={action.title} title={action.title} target={action.external ? '_blank' : undefined} rel={action.external ? 'noopener noreferrer' : undefined}>
+      <span className={styles.mark}>{action.image ? <Image src={action.image} alt="" width={32} height={32} /> : <Globe2 aria-hidden="true" />}</span><span>{action.label}</span>
+    </a>)}
+  </div>;
 }

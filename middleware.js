@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { PROVIDER_PUBLICATION_ENABLED } from './lib/providerPublication';
 
 const ARKLEEN_PRODUCT_ROUTE = /^\/(?:en\/)?products\/arkleen\/([a-z0-9]+(?:-[a-z0-9]+)*)\/?$/i;
 
@@ -11,6 +12,14 @@ function isCloudflareStaging(request) {
 export function middleware(request) {
   const pathname = request.nextUrl.pathname;
   const staging = isCloudflareStaging(request);
+  const publicPath = pathname.replace(/^\/_next\/data\/[^/]+/, '').replace(/^\/en(?=\/)/, '').replace(/\.json$/, '');
+  const privateListing = /^\/(products?|providers)\//.test(publicPath) && !/^\/providers\/(register|specialty)(\/|$)/.test(publicPath);
+  if (!PROVIDER_PUBLICATION_ENABLED && privateListing) {
+    return new NextResponse('Not found', { status: 404, headers: { 'X-Robots-Tag': 'noindex', 'Cache-Control': 'no-store' } });
+  }
+  if (staging && pathname === '/robots.txt') {
+    return new NextResponse('User-agent: *\nDisallow: /\n', { headers: { 'Content-Type': 'text/plain', 'X-Robots-Tag': 'noindex', 'Cache-Control': 'no-store' } });
+  }
 
   // Preview access is read-only. Never write analytics, orders, uploads or contacts
   // to the production Supabase project from a publicly reachable test hostname.

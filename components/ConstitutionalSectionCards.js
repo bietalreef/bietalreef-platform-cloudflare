@@ -6,10 +6,10 @@ import { getSectionCardHref } from '../lib/sectionCardRoutes';
 const COPY = {
   ar: {
     providers: {
-      eyebrow: 'مزودو الخدمات',
+      eyebrow: 'الشركات والمهنيون',
       itemLabel: 'تخصص',
       summary: 'عرض باقي التخصصات',
-      explore: 'استكشف المزودين',
+      explore: 'استكشف الشركات',
     },
     services_offers: {
       eyebrow: 'خدمات وعروض',
@@ -54,7 +54,7 @@ function getItems(card, sectionKey) {
 
 function ConstitutionalItem({ item, meta, isEn = false }) {
   return (
-    <li className="flex min-h-[26px] items-center rounded-xl border border-[#E9D5A7] bg-gradient-to-b from-white to-[#FFF7E5] px-2 py-0.5 text-[9px] font-black leading-4 text-[#5F4A00] shadow-[0_6px_0_#E8D7B3,0_10px_18px_rgba(111,87,0,0.10)] sm:min-h-[30px] sm:px-3 sm:text-[11px] sm:leading-5">
+    <li className="br-category-tag flex min-h-[26px] items-center rounded-xl border border-[#E9D5A7] bg-gradient-to-b from-white to-[#FFF7E5] px-2 py-0.5 text-[9px] font-black leading-4 text-[#5F4A00] shadow-[0_6px_0_#E8D7B3,0_10px_18px_rgba(111,87,0,0.10)] sm:min-h-[30px] sm:px-3 sm:text-[11px] sm:leading-5">
       <span dir={isEn ? 'ltr' : 'rtl'}>{item.name}</span>
       <span className="sr-only">{meta.itemLabel}</span>
     </li>
@@ -75,7 +75,7 @@ export default function ConstitutionalSectionCards({
   return (
     <div
       dir="rtl"
-      className={`grid grid-cols-2 gap-3 sm:gap-4 ${
+      className={`br-category-grid grid grid-cols-2 gap-3 sm:gap-4 ${
         sectionKey === 'products_stores'
           ? 'lg:grid-cols-4 lg:gap-5'
           : 'lg:grid-cols-3 lg:gap-5'
@@ -89,7 +89,7 @@ export default function ConstitutionalSectionCards({
         return (
           <article
             key={card.id}
-            className="group relative overflow-hidden rounded-[1.5rem] border border-[#DCC895] bg-gradient-to-br from-white via-white to-[#FFF8E8] shadow-[0_10px_0_#E7DAC0,0_24px_55px_rgba(18,58,70,0.14)] transition duration-300 hover:-translate-y-2 hover:shadow-[0_14px_0_#DCC895,0_32px_70px_rgba(18,58,70,0.20)] sm:rounded-[2rem]"
+            className="br-category-card group relative overflow-hidden rounded-[1.5rem] border border-[#DCC895] bg-gradient-to-br from-white via-white to-[#FFF8E8] shadow-[0_10px_0_#E7DAC0,0_24px_55px_rgba(18,58,70,0.14)] transition duration-300 hover:-translate-y-2 hover:shadow-[0_14px_0_#DCC895,0_32px_70px_rgba(18,58,70,0.20)] sm:rounded-[2rem]"
           >
             <div className="relative h-28 overflow-hidden bg-[#F5EFE4] sm:h-36">
               <Image
@@ -155,7 +155,7 @@ export default function ConstitutionalSectionCards({
               )}
               <Link
                 href={getSectionCardHref(card, sectionKey, locale)}
-                className="mt-2.5 inline-flex min-h-[36px] w-full items-center justify-center gap-1 rounded-2xl border border-[#B9922E] bg-gradient-to-b from-[#FFF2B8] to-[#EBC75B] px-2 py-1.5 text-[10px] font-black text-[#173F2A] shadow-[0_5px_0_#B9922E,0_10px_20px_rgba(185,146,46,0.22)] transition hover:-translate-y-0.5 hover:from-[#FFF7D1] hover:to-[#F4D47A] sm:mt-3 sm:min-h-[40px] sm:gap-2 sm:px-5 sm:py-2 sm:text-sm"
+                className="br-category-action mt-2.5 inline-flex min-h-[36px] w-full items-center justify-center gap-1 rounded-2xl border border-[#B9922E] bg-gradient-to-b from-[#FFF2B8] to-[#EBC75B] px-2 py-1.5 text-[10px] font-black text-[#173F2A] shadow-[0_5px_0_#B9922E,0_10px_20px_rgba(185,146,46,0.22)] transition hover:-translate-y-0.5 hover:from-[#FFF7D1] hover:to-[#F4D47A] sm:mt-3 sm:min-h-[40px] sm:gap-2 sm:px-5 sm:py-2 sm:text-sm"
               >
                 <Search className="h-3.5 w-3.5 shrink-0 sm:h-4 sm:w-4" aria-hidden="true" />
                 <span dir={isEn ? 'ltr' : 'rtl'}>{meta.explore}</span>

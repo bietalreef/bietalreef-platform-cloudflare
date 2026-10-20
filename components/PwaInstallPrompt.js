@@ -21,8 +21,10 @@ export default function PwaInstallPrompt({ locale = 'ar' }) {
     const onInstallAvailable = (event) => {
       event.preventDefault();
       setInstallEvent(event);
-      if (!recentlyDismissed) setVisible(true);
+      // Installation is offered through the app toolbar, without stacking banners.
     };
+    const onRequested = () => setVisible(true);
+    window.addEventListener('bietalreef:install', onRequested);
     const onInstalled = () => {
       setInstallEvent(null);
       setVisible(false);
@@ -31,14 +33,16 @@ export default function PwaInstallPrompt({ locale = 'ar' }) {
     window.addEventListener('beforeinstallprompt', onInstallAvailable);
     window.addEventListener('appinstalled', onInstalled);
     return () => {
+      window.removeEventListener('bietalreef:install', onRequested);
       window.removeEventListener('beforeinstallprompt', onInstallAvailable);
       window.removeEventListener('appinstalled', onInstalled);
     };
   }, []);
 
-  if (!visible || !installEvent) return null;
+  if (!visible) return null;
   const isEnglish = locale === 'en';
   const install = async () => {
+    if (!installEvent) return;
     await installEvent.prompt();
     const choice = await installEvent.userChoice;
     if (choice.outcome === 'accepted') setVisible(false);
@@ -55,9 +59,10 @@ export default function PwaInstallPrompt({ locale = 'ar' }) {
         <Image src="/icons/logo-512.webp" alt="" width={48} height={48} className="h-12 w-12 shrink-0 rounded-xl object-cover" />
         <div className="min-w-0 flex-1">
           <h2 className="font-black text-[#102F18]">{isEnglish ? 'Add Biet Al Reef to your device' : 'ثبّت بيت الريف على جهازك'}</h2>
-          <p className="mt-1 text-xs font-semibold leading-6 text-gray-600">{isEnglish ? 'Faster access from your home screen with the same public website and identity.' : 'وصول أسرع من الشاشة الرئيسية إلى نفس الموقع العام وبنفس الهوية.'}</p>
+          <p className="mt-1 text-xs font-semibold leading-6 text-gray-600">{isEnglish ? 'Open Biet Al Reef from your home screen in its own window.' : 'افتح بيت الريف من الشاشة الرئيسية في نافذة مستقلة.'}</p>
+          {!installEvent && <p className="mt-3 text-sm leading-7">{isEnglish ? 'From your browser menu, choose “Install app” or “Add to Home Screen”. On iPhone and iPad, use Share, then Add to Home Screen.' : 'من قائمة المتصفح اختر «تثبيت التطبيق» أو «إضافة إلى الشاشة الرئيسية». على آيفون وآيباد: مشاركة، ثم إضافة إلى الشاشة الرئيسية.'}</p>}
           <div className="mt-3 flex gap-2">
-            <button type="button" onClick={install} className="min-h-[44px] flex-1 rounded-xl bg-[#102F18] px-4 py-2 text-xs font-black text-white">{isEnglish ? 'Install' : 'تثبيت'}</button>
+            {installEvent && <button type="button" onClick={install} className="min-h-[44px] flex-1 rounded-xl bg-[#102F18] px-4 py-2 text-xs font-black text-white">{isEnglish ? 'Install' : 'تثبيت'}</button>}
             <button type="button" onClick={dismiss} className="min-h-[44px] rounded-xl border border-[#E6DCC8] bg-white px-4 py-2 text-xs font-black text-[#102F18]">{isEnglish ? 'Not now' : 'ليس الآن'}</button>
           </div>
         </div>

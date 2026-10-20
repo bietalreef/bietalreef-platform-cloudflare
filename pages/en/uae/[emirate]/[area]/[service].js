@@ -1,3 +1,5 @@
+import { findAlAinSector } from '../../../../../data/alAinHub';
+import { CONTENT } from '../../../../../data/alAinContent';
 import LocalServicesPage from '../../../../../components/LocalServicesPage';
 import { localProps } from '../../../../../lib/localRouteProps';
 import { AREAS, CATEGORY } from '../../../../../data/localServices';
@@ -40,7 +42,7 @@ export default function EnglishLocalServicePage({ model, emirate, area, service 
 }
 
 export async function getStaticProps({ params }) {
-  if (params.emirate === 'abu-dhabi' && params.area === 'al-ain' && (params.service === CATEGORY.slug || AREAS.some(area => area.slug === params.service))) return localProps('en', [params.service]);
+  if (params.emirate === 'abu-dhabi' && params.area === 'al-ain' && (Boolean(CONTENT[params.service]) || Boolean(findAlAinSector(params.service)) || AREAS.some(area => area.slug === params.service))) return localProps('en', [params.service]);
   const emirate = getEmirate(params.emirate);
   const area = getArea(params.emirate, params.area);
   const service = getServiceCategory(params.service);

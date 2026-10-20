@@ -116,7 +116,7 @@ export default function ContactPage() {
                   </span>
                   <div>
                     <h2 className="text-xl font-black text-[#0F3F1A]">نطاق الخدمة</h2>
-                    <p className="mt-3 leading-8 text-gray-700">تخدم منصة بيت الريف العملاء ومزودي الخدمات داخل إمارات دولة الإمارات، مع انطلاقها من مدينة العين.</p>
+                    <p className="mt-3 leading-8 text-gray-700">تخدم منصة بيت الريف العملاء والشركات والمهنيين داخل إمارات دولة الإمارات، مع انطلاقها من مدينة العين.</p>
                   </div>
                 </div>
               </div>

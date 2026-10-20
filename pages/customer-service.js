@@ -6,27 +6,27 @@ import SEOHead from '../components/SEOHead';
 import { ArrowLeft, Bot, CheckCircle2, FileText, Headphones, MessageCircle, Search, ShieldCheck, Sparkles } from 'lucide-react';
 
 const supportPaths = [
-  { title: 'لم تجد مزود الخدمة المناسب؟', desc: 'أرسل نوع الخدمة والموقع، وسيساعدك فريق بيت الريف في تجهيز المسار المناسب للوصول إلى مزود أقرب لاحتياجك.', icon: Search },
+  { title: 'لم تجد الشركة المناسبة؟', desc: 'أرسل نوع الخدمة والموقع، وسيساعدك فريق بيت الريف في تجهيز المسار المناسب للوصول إلى جهة أقرب لاحتياجك.', icon: Search },
   { title: 'لم تجد المنتج أو المادة؟', desc: 'اكتب اسم المنتج أو الكمية أو المواصفات المتاحة لديك، وسنساعدك في توجيه الطلب للمورد أو القسم الأنسب.', icon: FileText },
   { title: 'طلبك غير واضح؟', desc: 'يمكنك إرسال الصور والمقاسات والملاحظات، أو استخدام وياك لاحقًا لترتيب التفاصيل قبل إرسال الطلب.', icon: Bot },
 ];
 
 const freeServicePoints = [
   'إرسال طلب عرض سعر أو استفسار للعميل بدون رسوم من بيت الريف.',
-  'توجيه العميل إلى مسار أوضح حسب الإمارة، الخدمة، المنتج أو نوع المزود.',
+  'توجيه العميل إلى مسار أوضح حسب الإمارة، الخدمة، المنتج أو نوع الشركة.',
   'إمكانية التواصل مع الدعم أو وكيل وياك عند عدم العثور على النتيجة المناسبة.',
   'ظهور رقم طلب بعد الإرسال للاحتفاظ به والمتابعة لاحقًا.',
 ];
 
 export default function CustomerServicePage() {
-  const description = 'خدمة العميل في بيت الريف مجانية. إذا لم تجد الخدمة أو المنتج أو مزود الخدمة المناسب، أرسل طلبك وسيساعدك فريق بيت الريف أو وكيل وياك في الوصول للمسار المناسب.';
+  const description = 'خدمة العميل في بيت الريف مجانية. إذا لم تجد الخدمة أو المنتج أو الشركة المناسبة، أرسل طلبك وسيساعدك فريق بيت الريف أو وكيل وياك في الوصول للمسار المناسب.';
 
   return (
     <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900">
       <SEOHead
         title="خدمة العميل مجانية | بيت الريف"
         description={description}
-        keywords="خدمة العميل مجانية, بيت الريف, طلب عرض سعر, مزود خدمة, منتجات بناء, خدمات الإمارات, وياك"
+        keywords="خدمة العميل مجانية, بيت الريف, طلب عرض سعر, شركة متخصصة, منتجات بناء, خدمات الإمارات, وياك"
         canonicalPath="/customer-service"
         structuredData={{
           '@context': 'https://schema.org',
@@ -62,7 +62,7 @@ export default function CustomerServicePage() {
               <div>
                 <span className="inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/45 bg-[#D4AF37]/15 px-4 py-2 text-xs font-black text-[#F7E7A0] backdrop-blur"><Sparkles className="h-4 w-4" /> للعميل أولًا</span>
                 <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight md:text-6xl">خدمة العميل في بيت الريف مجانية</h1>
-                <p className="mt-6 max-w-3xl text-base font-semibold leading-9 text-white/90 md:text-xl">إذا لم تجد الخدمة، المنتج، أو مزود الخدمة المناسب، لا تخرج من المنصة بدون حل. أرسل طلبك الآن، وسيساعدك فريق بيت الريف أو وكيل وياك في ترتيب المسار المناسب داخل الإمارات.</p>
+                <p className="mt-6 max-w-3xl text-base font-semibold leading-9 text-white/90 md:text-xl">إذا لم تجد الخدمة، المنتج، أو الشركة المناسبة، لا تخرج من المنصة بدون حل. أرسل طلبك الآن، وسيساعدك فريق بيت الريف أو وكيل وياك في ترتيب المسار المناسب داخل الإمارات.</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                   <Link href="/request-quote" className="inline-flex min-h-[54px] items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#102F18] shadow-xl transition hover:-translate-y-0.5 hover:bg-[#E7C45A]">إرسال طلبك الآن<ArrowLeft className="h-5 w-5" /></Link>
                   <a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[54px] items-center justify-center gap-2 rounded-2xl border border-white/25 bg-white/12 px-7 py-4 text-base font-black text-white shadow-lg backdrop-blur-xl transition hover:bg-white/18"><MessageCircle className="h-5 w-5 text-[#F7E7A0]" />تواصل مع الدعم</a>
@@ -108,7 +108,7 @@ export default function CustomerServicePage() {
           <div className="mx-auto max-w-5xl rounded-[2.25rem] border border-[#E6DCC8] bg-[#FDFBF7] p-7 text-center shadow-sm md:p-10">
             <Headphones className="mx-auto mb-5 h-12 w-12 text-[#D4AF37]" />
             <h2 className="text-3xl font-black text-[#0F3F1A] md:text-4xl">رسالتنا للعميل</h2>
-            <p className="mx-auto mt-5 max-w-3xl text-base font-semibold leading-9 text-gray-700">استخدام العميل لمنصة بيت الريف مجاني. نحن هنا لنساعدك في الوصول للخدمة أو المنتج أو مزود الخدمة المناسب، بينما تكون خطط الأسعار مخصصة لمزودي الخدمات الذين يريدون بناء حضور رقمي داخل المنصة.</p>
+            <p className="mx-auto mt-5 max-w-3xl text-base font-semibold leading-9 text-gray-700">استخدام العميل لمنصة بيت الريف مجاني. نحن هنا لنساعدك في الوصول للخدمة أو المنتج أو الشركة المناسبة، بينما تكون خطط الأسعار مخصصة لالشركات والمهنيين الذين يريدون بناء حضور رقمي داخل المنصة.</p>
           </div>
         </section>
       </main>

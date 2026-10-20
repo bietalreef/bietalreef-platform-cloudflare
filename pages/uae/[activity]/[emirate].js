@@ -30,12 +30,12 @@ function EmirateServiceHub({ emirate, service, emirateSlug }) {
   const faqItems = [
     [`هل توجد ${service.nameAr} في مناطق ${emirate.nameAr}؟`, `نعم، روابط المناطق متاحة أسفل الصفحة، ويمكنك الانتقال إلى ${service.nameAr} حسب كل منطقة داخل ${emirate.nameAr}.`],
     ['هل تم حذف صفحات المناطق القديمة؟', 'لا، صفحات المناطق القديمة ما زالت تعمل، لكنها أصبحت روابط داخلية مساندة وليست خطوة رئيسية في الصفحة.'],
-    ['هل توجد أمثلة حقيقية داخل الصفحة؟', showAlHootPath ? 'نعم، تم إضافة مسار واضح يربط صفحة النشاط بمزود خدمة فعلي ومنتج وخدمة وطلب معاينة.' : 'يتم إضافة المزودين والمنتجات تدريجياً بعد مراجعة البيانات.'],
+    ['هل توجد أمثلة حقيقية داخل الصفحة؟', showAlHootPath ? 'نعم، تم إضافة مسار واضح يربط صفحة النشاط بشركة متخصصة فعلي ومنتج وخدمة وطلب معاينة.' : 'يتم إضافة الشركات والمنتجات تدريجياً بعد مراجعة البيانات.'],
   ];
 
   return (
     <>
-      <UaeDirectorySeo locale="ar" title={title} description={`صفحة ${title} داخل دليل الإمارات مع مزودي الخدمة والمناطق والمسارات المرتبطة.`} path={`/uae/${emirateSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${service.slug}`} emirate={emirate} service={service} />
+      <UaeDirectorySeo locale="ar" title={title} description={`صفحة ${title} داخل دليل الإمارات مع الشركات والمناطق والمسارات المرتبطة.`} path={`/uae/${emirateSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${service.slug}`} emirate={emirate} service={service} />
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900 font-sans">
         <Navbar pageTitle={title} />
         <SecondaryHeader backUrl={`/uae/${emirateSlug}`} backLabel={`العودة إلى ${emirate.nameAr}`} />
@@ -45,12 +45,12 @@ function EmirateServiceHub({ emirate, service, emirateSlug }) {
           {showAlHootPath && (
             <SeoProofCards
               title={`مسار حقيقي لخدمة ${service.nameAr} في ${emirate.nameAr}`}
-              desc="تم تثبيت مربع عملي داخل صفحة النشاط يوضح أن الصفحة مرتبطة بمزود خدمة حقيقي، خدمة قابلة للطلب، منتج واضح، وخطوة معاينة/عرض سعر عبر ملف مصنع الحوت الأبيض للرخام والجرانيت."
+              desc="تم تثبيت مربع عملي داخل صفحة النشاط يوضح أن الصفحة مرتبطة بشركة متخصصة حقيقي، خدمة قابلة للطلب، منتج واضح، وخطوة معاينة/عرض سعر عبر ملف مصنع الحوت الأبيض للرخام والجرانيت."
             />
           )}
           <SeoContent title={`${title} داخل بيت الريف`}>
             <p>هذه صفحة نشاط على مستوى الإمارة. تظهر روابط المدن والمناطق في قسم منظم أسفل الصفحة حتى تبقى الرحلة واضحة وسهلة.</p>
-            {showAlHootPath && <p className="mt-4">ولأن هذه الصفحة مرتبطة بمجال الرخام أو مواد البناء أو التشطيبات، تم دعمها بمسار فعلي يفتح ملف مزود خدمة داخل المنصة بدلاً من الاكتفاء بنص عام.</p>}
+            {showAlHootPath && <p className="mt-4">ولأن هذه الصفحة مرتبطة بمجال الرخام أو مواد البناء أو التشطيبات، تم دعمها بمسار فعلي يفتح ملف شركة متخصصة داخل المنصة بدلاً من الاكتفاء بنص عام.</p>}
           </SeoContent>
           <FAQ items={faqItems} title={`أسئلة شائعة حول ${title}`} />
           <UaeSmartFooter locale="ar" pageType="emirateService" emirate={emirate} service={service} />
@@ -92,9 +92,9 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
         <main>
           <UaeDirectoryHero locale="ar" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
 
-          <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض مزودي الخدمة المرتبطين بالمكان والتخصص.`} />
+          <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />
 
-          <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى مزود الخدمة أو مسار الطلب المناسب.`} />
+          <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى الشركة أو مسار الطلب المناسب.`} />
 
           <UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />
 

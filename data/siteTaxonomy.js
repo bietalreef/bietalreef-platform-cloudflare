@@ -193,7 +193,7 @@ const SPECIALTY_CARD_META = {
 export const UAE_DIRECTORY_SPECIALTIES = SERVICE_CATEGORIES.map((service) => ({
   ...service,
   ...SPECIALTY_CARD_META[service.slug],
-  directoryTitleAr: `مزودو ${service.nameAr}`,
+  directoryTitleAr: `شركات ${service.nameAr}`,
   directoryTitleEn: `${service.nameEn} Providers`,
   routeKind: 'providers',
 }));
@@ -249,7 +249,7 @@ export const UAE_PRODUCT_CATEGORIES = [
 ];
 
 export const UAE_DIRECTORY_SECTIONS = [
-  { key: 'providers', titleAr: 'مزودو الخدمات', titleEn: 'Service Providers', descAr: 'اختر التخصص لعرض بروفايلات مزودي الخدمة المشتركين حسب الإمارة.', descEn: 'Choose a specialty to browse subscribed provider profiles by emirate.', items: UAE_DIRECTORY_SPECIALTIES },
+  { key: 'providers', titleAr: 'الشركات والمهنيون', titleEn: 'Businesses & Professionals', descAr: 'اختر التخصص والإمارة للوصول إلى الشركات والمهنيين.', descEn: 'Choose a specialty to browse subscribed provider profiles by emirate.', items: UAE_DIRECTORY_SPECIALTIES },
   { key: 'services', titleAr: 'الخدمات والعروض', titleEn: 'Services & Offers', descAr: 'اختر الخدمة أو العرض المناسب ثم أضف تفاصيل مشروعك وموقعه.', descEn: 'Choose a service or offer, then add your project details and location.', items: UAE_SERVICE_OFFER_CATEGORIES },
   { key: 'products', titleAr: 'المنتجات والمتاجر', titleEn: 'Products & Stores', descAr: 'اختر فئة المادة أو المنتج للوصول إلى المتاجر والموردين ومسار التسعير.', descEn: 'Choose a material or product category to reach stores, suppliers and pricing.', items: UAE_PRODUCT_CATEGORIES },
 ];
@@ -298,7 +298,7 @@ export function getAllAreaServicePaths() {
 export const NAV_CONFIG = [
   { href: '/', label: 'الرئيسية' },
   { href: '/uae', label: 'دليل الإمارات' },
-  { href: '/providers', label: 'مزودو الخدمات' },
+  { href: '/providers', label: 'الشركات والمهنيون' },
   { href: '/services', label: 'الخدمات والعروض' },
   { href: 'https://app.bietalreef.ae/', label: 'سوق بيت الريف' },
   { href: '/weyaak', label: 'وياك' },

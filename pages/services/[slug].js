@@ -1,3 +1,5 @@
+import AlAinSectorDiscovery from '../../components/AlAinSectorDiscovery';
+import { CONTENT } from '../../data/alAinContent';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
@@ -119,37 +121,17 @@ export default function ServiceLandingPage({
         <Navbar pageTitle="الخدمات والعروض" />
         <SectionBackBar href="/services" label="العودة إلى الخدمات والعروض" />
         <main>
-          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} />
+          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
 
-          <section className="max-w-6xl mx-auto px-4 py-14">
+          {Object.hasOwn(CONTENT, service.slug) ? <AlAinSectorDiscovery category={service.slug} /> : <section className="max-w-6xl mx-auto px-4 py-14">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {['وصف الخدمة', 'طلب عرض سعر', 'اختيار المكان'].map((item, index) => (
                 <div key={item} className="rounded-3xl bg-white border border-[#E6DCC8] p-7 shadow-sm"><span className="text-sm font-black text-[#6F5400]">0{index + 1}</span><h2 className="mt-3 text-xl font-black text-[#0F3F1A]">{item}</h2><p className="mt-3 text-sm leading-8 text-gray-600">{index === 0 && `تعرف على نطاق ${service.nameAr} وما يناسب مشروعك.`}{index === 1 && 'أرسل تفاصيل المشروع لتحصل على توجيه مناسب بدل الأسعار العشوائية.'}{index === 2 && 'إذا كنت تبحث حسب المدينة، انتقل إلى دليل الإمارات لاختيار الإمارة والمنطقة.'}</p></div>
               ))}
             </div>
-          </section>
+          </section>}
 
-          {false && isWorkshopsPage && (
-            <section className="max-w-6xl mx-auto px-4 py-10" aria-label="إعلان مصنع الحوت">
-              <div className="overflow-hidden rounded-[2rem] border border-[#D4AF37]/40 bg-[#071A12] shadow-2xl shadow-[#8A6A00]/15">
-                <div className="grid lg:grid-cols-[1.05fr_1.35fr]">
-                  <div className="relative min-h-[280px] bg-[radial-gradient(circle_at_top,#1A5C28_0%,#071A12_58%,#020B06_100%)] p-8 text-white md:p-10">
-                    <div className="absolute inset-0 opacity-20 bg-[linear-gradient(135deg,transparent_0%,#D4AF37_45%,transparent_70%)]" />
-                    <div className="relative z-10">
-                      <span className="inline-flex rounded-full border border-[#D4AF37]/50 bg-[#D4AF37]/15 px-4 py-1.5 text-xs font-black text-[#F3D46B]">بطاقة إعلان مميزة</span>
-                      <h2 className="mt-5 text-3xl md:text-5xl font-black leading-tight">مصنع الحوت الأبيض<br />للرخام والجرانيت</h2>
-                      <p className="mt-5 text-base leading-8 text-white/85">توريد وتصنيع وتركيب الرخام والجرانيت والكوارتز للمطابخ والواجهات والأرضيات في العين وأبوظبي وجميع أنحاء الإمارات.</p>
-                    </div>
-                  </div>
-                  <div className="bg-white p-8 md:p-10">
-                    <div className="flex flex-wrap gap-2"><span className="rounded-full bg-emerald-50 px-3 py-1.5 text-xs font-black text-emerald-700">موثق</span><span className="rounded-full bg-[#FFF8E5] px-3 py-1.5 text-xs font-black text-[#8A6A00]">مزود خدمة</span><span className="rounded-full bg-[#FDFBF7] px-3 py-1.5 text-xs font-black text-[#0F3F1A]">الورش الصناعية</span></div>
-                    <div className="mt-6 grid gap-3 sm:grid-cols-4">{['رخام طبيعي', 'جرانيت', 'كوارتز', 'تركيب احترافي'].map((item) => <div key={item} className="rounded-2xl border border-[#E6DCC8] bg-[#FDFBF7] px-4 py-3 text-center text-xs font-black text-[#0F3F1A]">{item}</div>)}</div>
-                    <div className="mt-7 flex flex-col gap-3 sm:flex-row"><Link href="/providers/al-hoot-marble-granite-factory" className="inline-flex justify-center rounded-2xl bg-[#0F3F1A] px-7 py-3 text-sm font-black text-white hover:bg-[#D4AF37] hover:text-[#0F3F1A] transition">افتح ملف المصنع</Link><a href={WHITE_WHALE_SERVICE_WHATSAPP} target="_blank" rel="noopener noreferrer" className="inline-flex justify-center rounded-2xl border border-[#D4AF37]/50 px-7 py-3 text-sm font-black text-[#0F3F1A] hover:bg-[#FFF8E5] transition">تواصل واتساب</a></div>
-                  </div>
-                </div>
-              </div>
-            </section>
-          )}
+          {null}
 
           <PublishedEntityGrid items={publishedServices} locale="ar" type="service" />
 

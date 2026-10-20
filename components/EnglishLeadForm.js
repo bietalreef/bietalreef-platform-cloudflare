@@ -1,3 +1,5 @@
+import { WORK_TYPES } from '../data/alAinWorkTypes';
+import { CONTENT } from '../data/alAinContent';
 import { SERVICE_INTENTS } from '../data/localServices';
 import { getLocalArea, validSlug } from '../lib/localServices';
 import { useEffect, useMemo, useState } from 'react';
@@ -97,13 +99,16 @@ export default function EnglishLeadForm({ formType = 'quote' }) {
     const area = getLocalArea(params.get('area'));
     const service = SERVICE_INTENTS.find(item => item.slug === params.get('service') && item.category === params.get('category'));
     const provider = params.get('provider');
-    if (params.get('city') === 'al-ain' && validSlug(provider)) {
-      setForm(current => ({ ...current, city: `Al Ain${area ? ` – ${area.nameEn}` : ''}`, project_description: `Quotation request for provider ${provider}${service ? ` — ${service.name.en}` : ''}. Please describe the cleaning scope:` }));
+    const category = Object.hasOwn(CONTENT, params.get('category')) ? params.get('category') : '';
+    const work = (WORK_TYPES[category] || []).find(item => item[1] === params.get('work') || item[2] === params.get('work'));
+    const workName = work?.[2] || service?.name.en || CONTENT[category]?.name.en || '';
+    if (params.get('city') === 'al-ain') {
+      setForm(current => ({ ...current, emirate: 'Abu Dhabi', city: `Al Ain${area ? ` – ${area.nameEn}` : ''}`, project_description: `Quotation request${workName ? ` — ${workName}` : ''}${validSlug(provider) ? ` — ${provider}` : ''}. Describe the work required:` }));
     }
   }, []);
 
   const title = isQuote ? 'Request a quotation' : 'Send a service inquiry';
-  const description = isQuote ? 'Share your project or service details and we will route the request through an organized Biet Al Reef path.' : 'Send your question or service need and the Biet Al Reef team will respond.';
+  const description = isQuote ? 'Describe the work, location and a suitable time to contact you.' : 'Send your question or service need and the Biet Al Reef team will respond.';
 
   const canSubmit = useMemo(() => {
     if (!form.accepted) return false;

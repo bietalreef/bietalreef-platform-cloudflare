@@ -15,7 +15,7 @@ const MODIFIED_AT = '2026-09-01T20:00:00+04:00';
 
 export default function SmartPlatformLaunchPressPage() {
   const title = 'إطلاق منظومة بيت الريف الذكية لقطاع البناء في الإمارات | بيت الريف';
-  const description = 'بيت الريف تطلق منظومة تشغيل رقمية لقطاع البناء والمقاولات في الإمارات تربط العميل ومزود الخدمة والسوق ومساحات العمل والمستندات والذكاء الاصطناعي «وياك» داخل رحلة واحدة.';
+  const description = 'بيت الريف تطلق منظومة تشغيل رقمية لقطاع البناء والمقاولات في الإمارات تربط العميل والشركة والسوق ومساحات العمل والمستندات والذكاء الاصطناعي «وياك» داخل رحلة واحدة.';
   const organization = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -70,7 +70,7 @@ export default function SmartPlatformLaunchPressPage() {
       <SEOHead
         title={title}
         description={description}
-        keywords="بيت الريف, منصة بيت الريف, البناء في الإمارات, المقاولات, مزودو الخدمات, سوق بيت الريف, وياك, الذكاء الاصطناعي, Google Cloud"
+        keywords="بيت الريف, منصة بيت الريف, البناء في الإمارات, المقاولات, الشركات والمهنيون, سوق بيت الريف, وياك, الذكاء الاصطناعي, Google Cloud"
         ogImage={OG_IMAGE}
         ogImageWidth={1200}
         ogImageHeight={627}

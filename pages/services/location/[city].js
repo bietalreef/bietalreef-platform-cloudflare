@@ -42,7 +42,7 @@ export default function CityServices({ city, cityData }) {
         <div style={{ background: 'linear-gradient(135deg, #1a5f3f 0%, #2d8659 100%)', color: 'white', padding: '60px 20px', textAlign: 'right', direction: 'rtl' }}>
           <h1 style={{ fontSize: '2.5rem', marginBottom: '20px', fontWeight: 'bold' }}>{cityData.arabicName}</h1>
           <p style={{ fontSize: '1.1rem', marginBottom: '30px', maxWidth: '800px', margin: '0 auto' }}>{cityData.description}</p>
-          <p style={{ fontSize: '0.95rem', opacity: 0.9 }}>🤖 وياك يساعدك في اختيار أفضل مزود خدمة في {cityData.name}</p>
+          <p style={{ fontSize: '0.95rem', opacity: 0.9 }}>🤖 وياك يساعدك في اختيار أفضل شركة متخصصة في {cityData.name}</p>
         </div>
         <div style={{ maxWidth: '1200px', margin: '60px auto', padding: '0 20px' }}>
           <h2 style={{ fontSize: '2rem', textAlign: 'center', marginBottom: '40px', fontWeight: 'bold', color: '#1a5f3f' }}>الخدمات المتاحة في {cityData.name}</h2>
@@ -54,7 +54,7 @@ export default function CityServices({ city, cityData }) {
         </div>
         <div style={{ background: 'linear-gradient(135deg, #1a5f3f 0%, #2d8659 100%)', color: 'white', padding: '60px 20px', textAlign: 'center', marginTop: '60px' }}>
           <h2 style={{ fontSize: '2rem', marginBottom: '20px', fontWeight: 'bold' }}>جاهز لبدء مشروعك في {cityData.name}؟</h2>
-          <p style={{ fontSize: '1.1rem', marginBottom: '30px', maxWidth: '600px', margin: '0 auto' }}>ابدأ من صفحة مزود الخدمة أو أرسل طلبك إلى فريق بيت الريف مباشرة</p>
+          <p style={{ fontSize: '1.1rem', marginBottom: '30px', maxWidth: '600px', margin: '0 auto' }}>ابدأ من صفحة الشركة أو أرسل طلبك إلى فريق بيت الريف مباشرة</p>
           <Link href="https://play.google.com/store/apps/details?id=ae.bietalreef.app"><button style={{ backgroundColor: 'white', color: '#1a5f3f', border: 'none', padding: '15px 40px', borderRadius: '6px', cursor: 'pointer', fontSize: '1rem', fontWeight: 'bold' }}>ابدأ الآن مع بيت الريف</button></Link>
         </div>
       </div>

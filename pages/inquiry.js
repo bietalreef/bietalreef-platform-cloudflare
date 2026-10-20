@@ -4,14 +4,14 @@ import SEOHead from '../components/SEOHead';
 import PublicLeadForm from '../components/PublicLeadForm';
 
 export default function InquiryPage() {
-  const description = 'أرسل استفسارك إلى بيت الريف حول الخدمات، مزودي الخدمة، المنتجات، أو طريقة طلب المشروع داخل الإمارات.';
+  const description = 'أرسل استفسارك إلى بيت الريف حول الخدمات، الشركات، المنتجات، أو طريقة طلب المشروع داخل الإمارات.';
 
   return (
     <>
       <SEOHead
         title="إرسال استفسار | بيت الريف"
         description={description}
-        keywords="استفسار بيت الريف, تواصل بيت الريف, خدمات البناء الإمارات, مزودو الخدمات"
+        keywords="استفسار بيت الريف, تواصل بيت الريف, خدمات البناء الإمارات, الشركات والمهنيون"
         canonicalPath="/inquiry"
         alternatePath="/en/service-inquiry"
       />

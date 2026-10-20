@@ -23,11 +23,11 @@ const providerSpecialties = [
 ];
 
 export default function ProviderSpecialtyPage({ service, matchedProviders, directoryCards = [] }) {
-  const title = `مزودو ${service.nameAr}`;
-  const description = `تصفح مزودي ${service.nameAr} المعتمدين، ومواقعهم وخدماتهم ووسائل التواصل المباشر داخل بيت الريف.`;
+  const title = `شركات ${service.nameAr}`;
+  const description = `تصفح شركات ${service.nameAr} المعتمدين، ومواقعهم وخدماتهم ووسائل التواصل المباشر داخل بيت الريف.`;
   return <>
-    <SEOHead title={`${title} | بيت الريف`} description={description} canonicalPath={`/providers/specialty/${service.slug}`} alternatePath={`/en/providers/specialty/${service.slug}`} ogImage={`https://bietalreef.ae${service.image || '/images/providers-hero.webp'}`} breadcrumbs={[{ name: 'مزودو الخدمات', href: '/providers' }, { name: service.nameAr, href: `/providers/specialty/${service.slug}` }]} />
-    <div dir="rtl" className="min-h-screen bg-[#FDFBF7]"><Navbar pageTitle="مزودو الخدمات" /><SectionBackBar href="/providers" label="العودة إلى مزودي الخدمات" /><ProviderSpecialtyView service={service} providers={matchedProviders} locale="ar" /><ProvidersSmartFooter locale="ar" directoryCards={directoryCards} /><Footer showRequestCTA={false} /></div>
+    <SEOHead title={`${title} | بيت الريف`} description={description} canonicalPath={`/providers/specialty/${service.slug}`} alternatePath={`/en/providers/specialty/${service.slug}`} ogImage={`https://bietalreef.ae${service.image || '/images/providers-hero.webp'}`} breadcrumbs={[{ name: 'الشركات والمهنيون', href: '/providers' }, { name: service.nameAr, href: `/providers/specialty/${service.slug}` }]} />
+    <div dir="rtl" className="min-h-screen bg-[#FDFBF7]"><Navbar pageTitle="الشركات والمهنيون" /><SectionBackBar href="/providers" label="العودة إلى الشركات والمهنيين" /><ProviderSpecialtyView service={service} providers={matchedProviders} locale="ar" /><ProvidersSmartFooter locale="ar" directoryCards={directoryCards} /><Footer showRequestCTA={false} /></div>
   </>;
 }
 export async function getStaticProps({ params }) {

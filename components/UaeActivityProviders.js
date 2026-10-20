@@ -76,7 +76,7 @@ function DirectoryProviderCard({ provider, emirateSlug, locale }) {
         <div className="flex items-start justify-between gap-3">
           <div>
             <h3 className="text-xl font-black leading-8 text-[#0F3F1A]">{name}</h3>
-            <p className="mt-2 flex items-center gap-1.5 text-sm font-bold text-[#6B5530]"><MapPin className="h-4 w-4" />{isEn ? 'Provider location:' : 'موقع المزود:'} {primaryLocationLabel(provider, locale)}</p>
+            <p className="mt-2 flex items-center gap-1.5 text-sm font-bold text-[#6B5530]"><MapPin className="h-4 w-4" />{isEn ? 'Provider location:' : 'موقع الشركة:'} {primaryLocationLabel(provider, locale)}</p>
             <p className="mt-1 text-xs font-bold leading-6 text-gray-500">{isEn ? 'Service coverage:' : 'نطاق تقديم الخدمة:'} {locationLabel(provider, emirateSlug, locale)}</p>
           </div>
           {provider.verified ? <BadgeCheck className="h-6 w-6 shrink-0 text-[#B8860B]" aria-label={isEn ? 'Verified' : 'موثّق'} /> : null}
@@ -93,15 +93,16 @@ function DirectoryProviderCard({ provider, emirateSlug, locale }) {
 
 export default function UaeActivityProviders({ emirate, area = null, service, locale = 'ar' }) {
   const isEn = locale === 'en';
-  const providers = directoryProviders.filter((provider) => coversLocation(provider, emirate.slug, area?.slug) && matchesSector(provider, service.slug));
+  // Removed from these directory listings at the owner's request; retain its profile.
+  const providers = directoryProviders.filter((provider) => provider.providerId !== 'BR-PROV-ALR-001' && coversLocation(provider, emirate.slug, area?.slug) && matchesSector(provider, service.slug));
   const locationName = area ? (isEn ? area.nameEn : area.nameAr) : (isEn ? emirate.nameEn : emirate.nameAr);
   return (
     <section dir={isEn ? 'ltr' : 'rtl'} className="mx-auto max-w-6xl px-4 py-12 md:py-16">
       <div className={isEn ? 'mb-8 text-left' : 'mb-8 text-right'}>
-        <span className="inline-flex rounded-full border border-[#DCCAA7] bg-[#FFF9EC] px-4 py-1.5 text-xs font-black text-[#8A611B]">{isEn ? 'Approved providers' : 'مزودون معتمدون'}</span>
-        <h2 className="mt-4 text-3xl font-black text-[#0F3F1A]">{isEn ? `${service.nameEn} providers in ${locationName}` : `مزودو ${service.nameAr} في ${locationName}`}</h2>
+        <span className="inline-flex rounded-full border border-[#DCCAA7] bg-[#FFF9EC] px-4 py-1.5 text-xs font-black text-[#8A611B]">{isEn ? 'Find a company' : 'اختر الشركة المناسبة'}</span>
+        <h2 className="mt-4 text-3xl font-black text-[#0F3F1A]">{isEn ? `${service.nameEn} providers in ${locationName}` : `شركات ${service.nameAr} في ${locationName}`}</h2>
       </div>
-      {providers.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2">{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-dashed border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600">{isEn ? 'Approved subscribed providers will appear here.' : 'ستظهر هنا ملفات مزودي الخدمة المشتركين بعد اعتمادها.'}</div>}
+      {providers.length ? <div className="grid grid-cols-1 gap-6 md:grid-cols-2">{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600"><p>{isEn ? 'Tell Biet Al Reef customer support what you need and where, and get help with your quotation request.' : 'حدّد الخدمة والمنطقة وتواصل مع خدمة عملاء بيت الريف لمساعدتك في طلب عرض السعر المناسب لاحتياجك.'}</p><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex min-h-[44px] items-center rounded-xl bg-[#0F3F1A] px-5 text-white">{isEn ? 'Contact customer support' : 'تواصل مع خدمة العملاء'}</a></div>}
     </section>
   );
 }

@@ -1,7 +1,7 @@
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
 import { AREAS } from '../data/localServices';
-const { buildSearchIndexEntries } = require('../lib/searchIndexRoutes');
+import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
 import {
   UAE_DIRECTORY_SECTION_SLUGS,
@@ -92,6 +92,8 @@ export async function getServerSideProps({ res }) {
       { ...shared, loc: alternates.en }
     );
   };
+
+  for (const path of ['/app', '/android', '/web-app']) addPair(path, `/en${path}`, '/icons/logo-512.webp', { changefreq: 'monthly', priority: 0.6 });
 
   addPair(
     '/press/smart-platform-launch',

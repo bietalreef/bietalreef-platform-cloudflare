@@ -32,7 +32,20 @@ export default function HomePage({ locale = 'ar' }) {
     <SEOHead title={content.seo.title} description={description} keywords={content.seo.keywords} ogImage={content.seo.ogImage} canonicalPath={isEnglish ? '/en' : '/'} structuredData={structuredData} />
     <div dir={isEnglish ? 'ltr' : 'rtl'} lang={isEnglish ? 'en' : 'ar'} className="app-viewport-lock bg-[#FCFBF7] text-gray-900 font-sans">
       <Navbar locale={language} />
-      <main><ProjectDiscovery locale={language} /></main>
+      <main>
+        <section aria-label={isEnglish ? 'Google Workspace first-year referral offer' : 'عرض Google Workspace للشركات'} className="border-b border-[#D9E6D8] bg-[#F3F7EF]">
+          <div className="mx-auto flex max-w-7xl flex-col gap-3 px-5 py-4 sm:flex-row sm:items-center sm:justify-between">
+            <div className="text-sm leading-7 text-[#173F35]">
+              <strong className="font-black">{isEnglish ? 'Google Workspace · 10% eligible first-year savings' : 'ميزة للأعمال: خصم مؤهل 10% على السنة الأولى من Google Workspace'}</strong>
+              <span className="block text-xs text-[#52675B]">{isEnglish ? 'New customers; a unique individual promotion code is required. Google Cloud is not included.' : 'للاشتراكات الجديدة المؤهلة وباستخدام رمز ترويجي فردي. الخصم لا يشمل Google Cloud.'}</span>
+            </div>
+            <a href={isEnglish ? '/en/google-workspace-biet-alreef' : '/google-workspace-biet-alreef'} className="inline-flex shrink-0 items-center justify-center rounded-xl bg-[#173F35] px-5 py-3 text-sm font-black text-white hover:bg-[#275949]">
+              {isEnglish ? 'Explore the offer and setup' : 'التفاصيل وتجهيز مساحة عمل لشركتك'}
+            </a>
+          </div>
+        </section>
+        <ProjectDiscovery locale={language} />
+      </main>
       <Footer locale={language} showRequestCTA={false} />
     </div>
   </>;

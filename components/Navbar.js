@@ -61,7 +61,7 @@ import { getLocalizedPath } from '../lib/navigation';
 
 function DrawerLink({ href, label, icon: Icon, active, onClick, nested = false, sticker, textDir = 'rtl' }) {
   const external = href?.startsWith('http');
-  const content = <>{sticker ? <span className={styles.sticker} aria-hidden="true">{sticker}</span> : <Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary/90'}`} />}<span dir={textDir}>{label}</span></>;
+  const content = <>{sticker ? <span className={styles.sticker} aria-hidden="true">{sticker}</span> : <Icon className={`h-5 w-5 ${active ? 'text-primary' : 'text-primary'}`} />}<span dir={textDir}>{label}</span></>;
   const className = `flex items-center gap-3 rounded-2xl px-3 py-3 text-[15px] font-semibold transition ${active ? 'bg-primary/8 text-primary' : 'text-gray-800 hover:bg-primary/5 hover:text-primary'} ${nested ? 'ms-8' : ''}`;
   if (external) return <a href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</a>;
   return <Link href={href} onClick={onClick} aria-current={active ? 'page' : undefined} className={className}>{content}</Link>;

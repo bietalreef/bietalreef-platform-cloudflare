@@ -4,25 +4,25 @@
 .drawer { transform: translateX(100%); transition: transform 220ms ease; }
 .open .backdrop { opacity: 1; }
 .open .drawer { transform: translateX(0); }
-.layer a:focus-visible, .layer button:focus-visible { outline: 2px solid #173F35; outline-offset: 2px; }
+.layer a:focus-visible, .layer button:focus-visible { outline: 2px solid #24354B; outline-offset: 2px; }
 .drawer { background: #f5f5f0; border: 1px solid rgba(255,255,255,.7); max-width: 410px; }
 .drawerScroll { min-height: 0; flex: 1; overflow-y: auto; overscroll-behavior: contain; padding: 18px 16px; scrollbar-width: thin; }
-.groupLabel { font-size: 10px; letter-spacing: .5px; color: #7c8375; padding: 0 12px; margin: 0 0 10px; }
+.groupLabel { font-size: 10px; letter-spacing: .5px; color: #686868; padding: 0 12px; margin: 0 0 10px; }
 .groups { display: grid; gap: 9px; }
 .group { border: 1px solid #e7e8df; background: #fff; border-radius: 16px; overflow: hidden; }
-.groupToggle { display: flex; align-items: center; width: 100%; min-height: 58px; gap: 12px; text-align: start; padding: 11px 13px; font: inherit; font-size: 14px; font-weight: 650; color: #253c2b; }
+.groupToggle { display: flex; align-items: center; width: 100%; min-height: 58px; gap: 12px; text-align: start; padding: 11px 13px; font: inherit; font-size: 14px; font-weight: 650; color: #24354B; }
 .groupToggle > span:nth-child(2) { flex: 1; }
-.groupIcon { display: grid; place-items: center; height: 35px; width: 35px; background: #f0f3e9; border-radius: 11px; color: #56734f; }
+.groupIcon { display: grid; place-items: center; height: 35px; width: 35px; background: #E9DFCE; border-radius: 11px; color: #686868; }
 .groupIcon svg { width: 20px; height: 20px; stroke-width: 1.65; }
-.groupToggle > svg:last-child { width: 16px; height: 16px; color: #88907c; transition: transform 180ms ease; }
+.groupToggle > svg:last-child { width: 16px; height: 16px; color: #686868; transition: transform 180ms ease; }
 .chevronOpen { transform: rotate(180deg); }
-.groupChildren { border-top: 1px solid #eef0e6; padding: 7px; background: #fcfcf9; }
+.groupChildren { border-top: 1px solid #E9DFCE; padding: 7px; background: #fcfcf9; }
 .groupChildren a { font-size: 12px; font-weight: 500; min-height: 47px; padding: 10px; margin: 0; border-radius: 10px; }
-.groupChildren a:hover { background: #eef2e7; }
+.groupChildren a:hover { background: #E9DFCE; }
 .sticker { display: grid; place-items: center; width: 27px; height: 27px; font-size: 20px; flex-shrink: 0; }
-.drawerFooter { border-top: 1px solid #e2e5d8; padding: 13px 15px max(env(safe-area-inset-bottom),15px); background: #fafbf7; }
+.drawerFooter { border-top: 1px solid #E9DFCE; padding: 13px 15px max(env(safe-area-inset-bottom),15px); background: #FAF9F6; }
 .drawerFooter > a { font-size: 12px; min-height: 44px; box-shadow: none; }
 @media(max-width:480px) { .drawer { width: 92vw; border-radius: 22px 0 0 22px; } .drawerScroll { padding: 15px 12px; } .groupToggle { font-size: 13px; } }
 @media (prefers-reduced-motion: reduce) { .layer, .backdrop, .drawer { transition: none; } }
 
-.sticker svg { width: 23px; height: 23px; color: #173f35; stroke-width: 1.6; }
+.sticker svg { width: 23px; height: 23px; color: #24354B; stroke-width: 1.6; }

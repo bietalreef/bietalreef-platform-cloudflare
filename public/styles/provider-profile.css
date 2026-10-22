@@ -4,9 +4,9 @@
 
 /* Source: styles/provider_styles.css */
 :root{  
-  --primary:#0d4d3c;  
-  --primary-dark:#083328;  
-  --primary-light:#1a6b54;  
+  --primary:#24354B;  
+  --primary-dark:#24354B;  
+  --primary-light:#24354B;  
   --gold:#d4a84b;  
   --gold-light:#e8c277;  
   --bg:#f7f5f0;  
@@ -14,7 +14,7 @@
   --text:#1a1a1a;  
   --muted:#6b6b6b;  
   --white:#fff;  
-  --success:#10b981;  
+  --success:#686868;  
   --warning:#f59e0b;  
   --danger:#ef4444;  
   --shadow-sm:0 2px 8px rgba(0,0,0,0.06);  
@@ -45,7 +45,7 @@
   
 /* ===== TRUST BAR ===== */  
 .trust-bar{  
-  background:linear-gradient(90deg,var(--success) 0%,#059669 100%);  
+  background:linear-gradient(90deg,var(--success) 0%,#24354B 100%);  
   color:white;  
   padding:14px 0;  
 }  
@@ -98,8 +98,8 @@
 }  
 .pa-btn-primary{background:var(--gold);color:var(--primary-dark)}  
 .pa-btn-primary:hover{background:var(--gold-light);transform:translateY(-2px);box-shadow:0 10px 25px rgba(212,168,75,0.4)}  
-.pa-btn-whatsapp{background:#25d366;color:white}  
-.pa-btn-whatsapp:hover{background:#1da851;transform:translateY(-2px)}  
+.pa-btn-whatsapp{background:#686868;color:white}  
+.pa-btn-whatsapp:hover{background:#686868;transform:translateY(-2px)}  
 .pa-btn-call{background:white;color:var(--primary-dark)}  
 .pa-btn-call:hover{background:var(--bg);transform:translateY(-2px)}  
 .pa-btn-ghost{background:transparent;color:white;border:2px solid rgba(255,255,255,0.3)}  
@@ -243,7 +243,7 @@ section{padding:80px 0}
  */
 
 #products {
-  --product-green: #0f3f1a;
+  --product-green: #24354B;
   --product-gold: #c9952a;
   --product-border: #e4d7c1;
   --product-muted: #625a50;

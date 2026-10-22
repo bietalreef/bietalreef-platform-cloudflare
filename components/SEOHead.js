@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 
 const SITE_DOMAIN = 'https://bietalreef.ae';
 const SITE_NAME = 'بيت الريف';
-const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/og-weyaak.jpg';
+const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/images/seo/home/hero-main.webp';
 const MIRRORED_ENGLISH_ROUTES = new Set([
   '/', '/app', '/android', '/web-app', '/ios', '/about', '/why-biet-alreef', '/how-it-works', '/pricing',
   '/contact', '/services', '/marketplace', '/tools', '/weyaak', '/providers',
@@ -96,6 +96,7 @@ export default function SEOHead({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:image" content={ogImage} />
+      <meta property="og:image:type" content={ogImage.toLowerCase().split(/[?#]/)[0].endsWith('.webp') ? 'image/webp' : 'image/jpeg'} />
       <meta property="og:image:secure_url" content={ogImage} />
       <meta property="og:image:width" content={String(ogImageWidth)} />
       <meta property="og:image:height" content={String(ogImageHeight)} />

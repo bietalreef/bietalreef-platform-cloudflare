@@ -12,22 +12,17 @@ import {
   Handshake,
   Headphones,
   ShieldCheck,
-  Instagram,
-  Facebook,
-  Youtube,
-  Linkedin,
-  MessageCircle,
   ChevronDown,
   ChevronUp,
 } from 'lucide-react';
 
 const socialLinks = [
-  { href: 'https://wa.me/971564456337', label: 'WhatsApp', icon: MessageCircle },
-  { href: 'https://www.instagram.com/bietalreef?igsh=Mzg0cDR4Y3YzbmJn', label: 'Instagram', icon: Instagram },
-  { href: 'https://www.facebook.com/share/14fy6hGM7SJ/', label: 'Facebook', icon: Facebook },
-  { href: 'https://youtube.com/@bietalreef', label: 'YouTube', icon: Youtube },
-  { href: 'https://www.tiktok.com/@bietalreef0?_r=1&_t=ZS-97iuKMbktCn', label: 'TikTok', icon: 'tiktok' },
-  { href: 'https://www.linkedin.com/in/bietalreef', label: 'LinkedIn', icon: Linkedin },
+  { href: 'https://wa.me/971564456337', label: 'WhatsApp', brand: 'whatsapp/25D366' },
+  { href: 'https://www.instagram.com/bietalreef?igsh=Mzg0cDR4Y3YzbmJn', label: 'Instagram', brand: 'instagram/E4405F' },
+  { href: 'https://www.facebook.com/share/14fy6hGM7SJ/', label: 'Facebook', brand: 'facebook/1877F2' },
+  { href: 'https://youtube.com/@bietalreef', label: 'YouTube', brand: 'youtube/FF0033' },
+  { href: 'https://www.tiktok.com/@bietalreef0?_r=1&_t=ZS-97iuKMbktCn', label: 'TikTok', brand: 'tiktok/000000' },
+  { href: 'https://www.linkedin.com/in/bietalreef', label: 'LinkedIn', brand: 'linkedin/0A66C2' },
 ];
 
 const copy = {
@@ -44,7 +39,7 @@ const copy = {
       { id: 'biet-alreef', title: 'بيت الريف', icon: Home, links: [['/about', 'عن بيت الريف'], ['/why-biet-alreef', 'لماذا بيت الريف']] },
       { id: 'platform', title: 'المنصة', icon: Layers3, links: [['/platform-for-business', 'كيف تعمل منصة بيت الريف للأعمال'], ['/join-provider', 'انضم كشركة متخصصة إلى بيت الريف'], ['/business-solutions', 'حلول وخدمات بيت الريف للأعمال'], ['/start-your-store', 'أنشئ متجرك على بيت الريف'], ['/business-plans', 'خطط الأعمال والاشتراكات'], ['/blog', 'المدونة']] },
       { id: 'google-services', title: 'خدمات وأدوات Google', icon: Layers3, links: [['/google-workspace-biet-alreef', 'Google Workspace وبريد الشركات · عرض خصم 10%'], ['https://app.bietalreef.ae/google-workspace-offer', 'دليل العرض وطريقة الحصول على الخصم'], ['/google-cloud-biet-alreef', 'Google Cloud وتطوير التطبيقات'], ['/android', 'تطبيقات Android وGoogle Play'], ['/business-solutions', 'حلول التحول الرقمي والتكاملات']] },
-      { id: 'partners', title: 'الشركاء', icon: Handshake, links: [['/partner-with-biet-alreef', 'الشراكة مع بيت الريف'], ['/join-biet-alreef', 'ضم شركتك إلى بيت الريف'], ['/google-cloud-biet-alreef', 'Google Cloud | بيت الريف'], ['/google-workspace-biet-alreef', 'Google Workspace | بيت الريف'], ['/weyaak-ai', 'وياك – الذكاء الاصطناعي من بيت الريف'], ['/suppliers-biet-alreef', 'الموردون مع بيت الريف'], ['/factories-workshops-biet-alreef', 'المصانع والورش مع بيت الريف']] },
+      { id: 'partners', title: 'الشركاء', icon: Handshake, links: [['/partner-with-biet-alreef', 'الشراكة مع بيت الريف'], ['/join-biet-alreef', 'ضم شركتك إلى بيت الريف'], ['/weyaak-ai', 'وياك – الذكاء الاصطناعي من بيت الريف'], ['/suppliers-biet-alreef', 'الموردون مع بيت الريف'], ['/factories-workshops-biet-alreef', 'المصانع والورش مع بيت الريف']] },
       { id: 'support', title: 'الدعم', icon: Headphones, links: [['/contact', 'تواصل معنا'], ['/faq', 'الأسئلة الشائعة'], ['/support-policy', 'سياسة الدعم'], ['tel:+971564456337', 'اتصل بنا']] },
       { id: 'legal', title: 'القانونية', icon: ShieldCheck, links: [['/privacy', 'سياسة الخصوصية'], ['/legal', 'الشروط والأحكام'], ['/cookies', 'سياسة ملفات الارتباط'], ['/refund-policy', 'سياسة الاسترداد']] },
     ],
@@ -62,27 +57,17 @@ const copy = {
       { id: 'biet-alreef', title: 'Biet Al Reef', icon: Home, links: [['/en/about', 'About Biet Al Reef'], ['/en/why-biet-alreef', 'Why Biet Al Reef']] },
       { id: 'platform', title: 'Platform', icon: Layers3, links: [['/en/platform-for-business', 'How Biet Al Reef works for business'], ['/en/join-provider', 'Join Biet Al Reef as a service provider'], ['/en/business-solutions', 'Biet Al Reef business solutions'], ['/en/start-your-store', 'Start your store on Biet Al Reef'], ['/en/business-plans', 'Business plans & subscriptions'], ['/en/blog', 'Blog']] },
       { id: 'google-services', title: 'Google services & tools', icon: Layers3, links: [['/en/google-workspace-biet-alreef', 'Google Workspace · eligible 10% first-year offer'], ['https://app.bietalreef.ae/google-workspace-offer', 'Offer terms and how to request a code'], ['/en/google-cloud-biet-alreef', 'Google Cloud & app development'], ['/en/android', 'Android apps & Google Play'], ['/en/business-solutions', 'Digital integrations & solutions']] },
-      { id: 'partners', title: 'Partners', icon: Handshake, links: [['/en/partner-with-biet-alreef', 'Partner with Biet Al Reef'], ['/en/join-biet-alreef', 'Bring your company to Biet Al Reef'], ['/en/google-cloud-biet-alreef', 'Google Cloud | Biet Al Reef'], ['/en/google-workspace-biet-alreef', 'Google Workspace | Biet Al Reef'], ['/en/weyaak-ai', 'Weyaak – AI from Biet Al Reef'], ['/en/suppliers-biet-alreef', 'Suppliers with Biet Al Reef'], ['/en/factories-workshops-biet-alreef', 'Factories & workshops with Biet Al Reef']] },
+      { id: 'partners', title: 'Partners', icon: Handshake, links: [['/en/partner-with-biet-alreef', 'Partner with Biet Al Reef'], ['/en/join-biet-alreef', 'Bring your company to Biet Al Reef'], ['/en/weyaak-ai', 'Weyaak – AI from Biet Al Reef'], ['/en/suppliers-biet-alreef', 'Suppliers with Biet Al Reef'], ['/en/factories-workshops-biet-alreef', 'Factories & workshops with Biet Al Reef']] },
       { id: 'support', title: 'Support', icon: Headphones, links: [['/en/contact', 'Contact us'], ['/en/faq', 'FAQ'], ['/en/support-policy', 'Support policy'], ['tel:+971564456337', 'Call us']] },
       { id: 'legal', title: 'Legal', icon: ShieldCheck, links: [['/en/privacy', 'Privacy Policy'], ['/en/legal', 'Terms & Conditions'], ['/en/cookies', 'Cookie Policy'], ['/en/refund-policy', 'Refund policy']] },
     ],
   },
 };
 
-function TikTokIcon(props) {
-  return (
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" {...props}>
-      <path d="M16.6 5.82c1.04.75 2.31 1.19 3.68 1.19v3.18c-1.34 0-2.6-.29-3.68-.82v5.87c0 3.58-2.9 6.48-6.48 6.48S3.64 18.82 3.64 15.24s2.9-6.48 6.48-6.48c.4 0 .79.04 1.17.11v3.33a3.14 3.14 0 1 0 2.14 2.98V2.28h3.17c.14 1.43.88 2.68 2 3.54Z" />
-    </svg>
-  );
-}
-
-function SocialLink({ href, label, icon: Icon }) {
-  return (
-    <a href={href} aria-label={label} title={label} target="_blank" rel="noopener noreferrer" className="flex h-9 w-9 items-center justify-center rounded-full bg-primary text-white transition hover:bg-primary-dark">
-      {Icon === 'tiktok' ? <TikTokIcon className="h-5 w-5" /> : <Icon className="h-5 w-5" />}
-    </a>
-  );
+function SocialLink({ href, label, brand }) {
+  return <a href={href} aria-label={label} title={label} target="_blank" rel="noopener noreferrer" className="flex h-11 w-11 items-center justify-center rounded-2xl border border-[#E8E4DC] bg-white transition hover:-translate-y-0.5 hover:border-[#C7A45B] focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#C7A45B]">
+    <img src={`https://cdn.simpleicons.org/${brand}`} width="22" height="22" loading="lazy" decoding="async" alt="" aria-hidden="true" className="h-[22px] w-[22px] object-contain" />
+  </a>;
 }
 
 function FooterLink({ href, children }) {
@@ -125,11 +110,11 @@ function EmirateFooterContext({ language, emirate }) {
             <MapPin className="h-4 w-4" />
             {isEnglish ? `${name} directory` : `دليل ${name}`}
           </p>
-          <h2 className="mt-2 text-xl font-black text-[#0F3F1A]">
+          <h2 className="mt-2 text-xl font-black text-[#24354B]">
             {isEnglish ? `Explore providers and services across ${name}` : `استكشف الشركات والمحلات والموردين والأعمال في ${name}`}
           </h2>
         </div>
-        <Link href={root} className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[#0F3F1A] px-5 py-2.5 text-sm font-black text-white">
+        <Link href={root} className="inline-flex min-h-11 items-center justify-center rounded-xl bg-[#24354B] px-5 py-2.5 text-sm font-black text-white">
           {isEnglish ? `Open ${name}` : `فتح دليل ${name}`}
         </Link>
       </div>
@@ -170,12 +155,12 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
           <div className={`mb-9 rounded-[2rem] border border-[#D4AF37]/35 bg-[#FFF9E8] p-6 shadow-[0_16px_40px_rgba(15,63,26,0.08)] md:flex md:items-center md:justify-between md:gap-8 ${textAlign}`}>
             <div>
               <p className="text-sm font-black text-[#A27E18]">{t.promoEyebrow}</p>
-              <h2 className="mt-2 text-2xl font-black leading-tight text-[#102F18]">{t.promoTitle}</h2>
+              <h2 className="mt-2 text-2xl font-black leading-tight text-[#24354B]">{t.promoTitle}</h2>
               <p className="mt-3 max-w-3xl text-sm font-semibold leading-7 text-gray-600">{t.promoText}</p>
             </div>
             <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-sm" />
           </div>
-          <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.25fr_repeat(3,minmax(0,1fr))]">
+          <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.3fr_repeat(3,minmax(0,1fr))]">
             <div className={`text-center lg:col-span-2 xl:col-span-1 ${desktopAlign}`}>
               <Link href={t.home} aria-label={language === 'en' ? 'Biet Al Reef home' : 'الرئيسية'}>
                 <Image src="/icons/logo-512.webp" alt={language === 'en' ? 'Biet Al Reef' : 'بيت الريف'} width={110} height={110} className={`mx-auto h-24 w-24 object-contain ${language === 'en' ? 'md:ml-0' : 'md:mr-0'}`} />

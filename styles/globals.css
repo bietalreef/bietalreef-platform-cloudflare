@@ -286,3 +286,26 @@ img[alt="شعار أركلين لأعمال النجارة والتصميم ال
   object-fit: contain !important;
   background: #ffffff !important;
 }
+
+
+/* BIET AL REEF SAND/NAVY LEGACY COLOR COMPAT
+   Preserve routes/components and remap legacy inline Tailwind utility colors.
+   Logos, photographs and external brand marks are never recolored. */
+:root{
+  --br-forest:#24354B;
+  --br-ink:#242424;
+  --br-ivory:#FAF9F6;
+  --br-sage:#E9DFCE;
+  --br-sand:#E9DFCE;
+  --br-sky:#F4F1EB;
+  --br-line:#E8E4DC;
+  --br-gold:#C7A45B;
+}
+body :is([class*="text-[#0F3F1A]"],[class*="text-[#143D1F]"],[class*="text-[#173f35]"],[class*="text-[#183f35]"],[class*="text-[#102F18]"],[class*="text-[#0f3f1a]"],[class*="text-[#27583F]"]){color:#24354B!important}
+body :is([class*="bg-[#0F3F1A]"],[class*="bg-[#143D1F]"],[class*="bg-[#173f35]"],[class*="bg-[#183f35]"],[class*="bg-[#102F18]"],[class*="bg-[#0f3f1a]"],[class*="bg-[#27583F]"]){background-color:#24354B!important}
+body :is([class*="border-[#0F3F1A]"],[class*="border-[#143D1F]"],[class*="border-[#173f35]"],[class*="border-[#183f35]"]){border-color:#C7A45B!important}
+body :is([class*="bg-[#F0F3E8]"],[class*="bg-[#EDF1E7]"],[class*="bg-[#EAF3F2]"],[class*="bg-[#E7EDDA]"],[class*="bg-[#eaf3f2]"],[class*="bg-[#f3f6f6]"]){background-color:#F3EFE7!important}
+body :is([class*="from-[#0F3F1A]"],[class*="from-[#173f35]"],[class*="from-[#183f35]"]){--tw-gradient-from:#24354B var(--tw-gradient-from-position)!important}
+body :is([class*="to-[#0F3F1A]"],[class*="to-[#173f35]"],[class*="to-[#183f35]"]){--tw-gradient-to:#24354B var(--tw-gradient-to-position)!important}
+html{scroll-behavior:smooth}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}body :is(a,button,[role="button"]){transform:none!important}}

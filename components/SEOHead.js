@@ -33,8 +33,8 @@ export default function SEOHead({
   description,
   keywords,
   ogImage = DEFAULT_OG_IMAGE,
-  ogImageWidth = 1200,
-  ogImageHeight = 630,
+  ogImageWidth = ogImage === DEFAULT_OG_IMAGE ? 2048 : undefined,
+  ogImageHeight = ogImage === DEFAULT_OG_IMAGE ? 1143 : undefined,
   ogType = 'website',
   noIndex = false,
   noIndexFollow = false,
@@ -98,8 +98,8 @@ export default function SEOHead({
       <meta property="og:image" content={ogImage} />
       <meta property="og:image:type" content={ogImage.toLowerCase().split(/[?#]/)[0].endsWith('.webp') ? 'image/webp' : 'image/jpeg'} />
       <meta property="og:image:secure_url" content={ogImage} />
-      <meta property="og:image:width" content={String(ogImageWidth)} />
-      <meta property="og:image:height" content={String(ogImageHeight)} />
+      {Number.isFinite(ogImageWidth) ? <meta property="og:image:width" content={String(ogImageWidth)} /> : null}
+      {Number.isFinite(ogImageHeight) ? <meta property="og:image:height" content={String(ogImageHeight)} /> : null}
       <meta property="og:image:alt" content={title} />
       <meta property="og:locale" content={paths.isEnglish ? 'en_AE' : 'ar_AE'} />
       <meta property="og:locale:alternate" content={paths.isEnglish ? 'ar_AE' : 'en_AE'} />

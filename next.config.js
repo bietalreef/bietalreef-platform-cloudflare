@@ -51,6 +51,7 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      { source: '/favicon.ico', destination: '/icons/favicon-48.png', permanent: true },
       ...AREAS.flatMap(area => ['', '/en'].map(prefix => ({ source: `${prefix}/uae/abu-dhabi/${area.slug}`, destination: `${prefix}/uae/abu-dhabi/al-ain/${area.slug}`, permanent: true }))),
       ...AREAS.flatMap(area => ['', '/en'].map(prefix => ({ source: `${prefix}/uae/abu-dhabi/${area.slug}/cleaning-services`, destination: `${prefix}/uae/abu-dhabi/al-ain/${area.slug}/cleaning-services`, permanent: true }))),
       {

@@ -101,7 +101,6 @@ export default function MyApp({ Component, pageProps }) {
       ) : null}
       <PrivacyConsentCenter locale={isEnglishPage ? "en" : "ar"} />
       {process.env.NEXT_PUBLIC_ISOLATED_REVIEW !== "true" && <ConsentAwareGoogleTag />}
-      {process.env.NEXT_PUBLIC_ISOLATED_REVIEW !== "true" && <ConsentAwareSpeedInsights />}
       <PwaInstallPrompt locale={isEnglishPage ? "en" : "ar"} />
       <PwaLifecycleManager locale={isEnglishPage ? "en" : "ar"} />
       </>}

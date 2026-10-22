@@ -1,8 +1,8 @@
 .row{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;min-width:0}
-.row a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;min-height:82px;padding:11px 5px;border:1px solid #e1e5d8;border-radius:14px;background:#fff;color:#21432e;font-size:12px;font-weight:650;text-align:center;transition:background .2s,transform .2s;min-width:0}
-.row a:hover{background:#edf2e7;transform:translateY(-2px)}
+.row a{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;min-height:82px;padding:11px 5px;border:1px solid #E9DFCE;border-radius:14px;background:#fff;color:#24354B;font-size:12px;font-weight:650;text-align:center;transition:background .2s,transform .2s;min-width:0}
+.row a:hover{background:#E9DFCE;transform:translateY(-2px)}
 .row a:focus-visible{outline:3px solid #b49b58;outline-offset:3px}
-.mark{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;overflow:hidden;background:#f2f4eb}
+.mark{display:grid;place-items:center;width:34px;height:34px;border-radius:10px;overflow:hidden;background:#E9DFCE}
 .mark img{width:32px;height:32px;object-fit:contain}
 .row a:last-child .mark img{object-fit:cover}
 .mark svg{height:24px;width:24px;stroke-width:1.6}

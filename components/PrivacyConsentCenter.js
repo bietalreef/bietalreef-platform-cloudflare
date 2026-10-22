@@ -66,7 +66,7 @@ const copy = {
   ar: {
     bannerTitle: 'تجربة أفضل على بيت الريف',
     bannerText:
-      'بموافقتك نستخدم بيانات استخدام مجهولة لفهم الصفحات والخدمات الأكثر فائدة وتحسين تجربة بيت الريف. لا نبيع بياناتك ولا نستخدمها لإنشاء حساب شخصي. ولتجربة أسرع، يمكنك تثبيت منصة بيت الريف على جهازك.',
+      'نستخدم ملفات اختيارية لتحسين الموقع وفهم الأقسام الأكثر زيارة. يمكنك الموافقة أو إدارة تفضيلات الخصوصية في أي وقت.',
     allow: 'موافق وتحسين التجربة',
     preferences: 'إدارة الخصوصية',
     title: 'مركز تفضيلات الخصوصية',
@@ -194,7 +194,7 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
               {status}
             </span>
           )}
-          {expanded ? <ChevronUp size={18} className="text-[#234936]" /> : <ChevronDown size={18} className="text-[#234936]" />}
+          {expanded ? <ChevronUp size={18} className="text-[#24354B]" /> : <ChevronDown size={18} className="text-[#24354B]" />}
         </div>
         {expanded ? (
           <p className="border-t border-[#E2E2E2] bg-[#FCFCFC] px-5 py-4 text-sm font-medium leading-8 text-[#444] md:px-8">{body}</p>
@@ -209,7 +209,7 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
     <>
       {choice === null ? (
         <div
-          className="fixed inset-x-0 bottom-0 z-[100] border-t border-[#E1D5BD] bg-[#FFF9ED]/97 px-4 py-4 text-[#183B34] shadow-[0_-12px_40px_rgba(31,52,46,.14)] backdrop-blur-xl"
+          className="fixed inset-x-0 bottom-0 z-[100] border-t border-[#E1D5BD] bg-[#FFF9ED]/97 px-4 py-3 text-[#242424] shadow-[0_-12px_40px_rgba(31,52,46,.14)] backdrop-blur-xl"
           dir={isArabic ? 'rtl' : 'ltr'}
           role="dialog"
           aria-label={t.bannerTitle}
@@ -220,13 +220,13 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
                 <Cookie size={19} className="text-[#B68B1E]" />
                 {t.bannerTitle}
               </h2>
-              <p className="mt-1.5 max-w-4xl text-sm font-medium leading-7 text-[#4F625D]">{t.bannerText}</p>
+              <p className="mt-1 max-w-3xl text-sm font-medium leading-6 text-[#686868]">{t.bannerText}</p>
             </div>
             <div className="flex flex-wrap items-center gap-2">
-              <button type="button" onClick={confirm} className="rounded-2xl bg-[#0F4C4A] px-6 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-[#17615E]">
+              <button type="button" onClick={confirm} className="rounded-2xl bg-[#24354B] px-6 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-[#364960]">
                 {t.allow}
               </button>
-              <button type="button" onClick={() => setOpen(true)} className="rounded-2xl border border-[#D8C59F] bg-white px-4 py-3 text-sm font-bold text-[#183B34] transition hover:border-[#C5A552] hover:bg-[#FFFCF5]">
+              <button type="button" onClick={() => setOpen(true)} className="rounded-2xl border border-[#D8C59F] bg-white px-4 py-3 text-sm font-bold text-[#242424] transition hover:border-[#C5A552] hover:bg-[#FFFCF5]">
                 {t.preferences}
               </button>
             </div>
@@ -252,7 +252,7 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
                 </span>
                 <h2 id="privacy-title" className="text-3xl font-bold leading-tight text-[#111] md:text-[38px]">{t.title}</h2>
                 <p className="mt-5 text-sm font-medium leading-8 text-[#333] md:text-base">{t.intro}</p>
-                <p className="mt-3 text-sm font-semibold leading-8 text-[#234936] md:text-base">{t.control}</p>
+                <p className="mt-3 text-sm font-semibold leading-8 text-[#24354B] md:text-base">{t.control}</p>
               </div>
               <h3 className="mb-4 mt-7 text-center text-xl font-bold text-[#111] md:text-2xl">{t.manage}</h3>
               <div className="overflow-hidden border border-[#CFCFCF]">
@@ -269,7 +269,7 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
               </div>
             </div>
             <div className="flex flex-col-reverse gap-2 border-t border-[#D8D8D8] bg-[#FAFAFA] px-5 py-5 sm:flex-row md:px-12">
-              <button type="button" disabled={!performance} onClick={confirm} className="flex items-center justify-center gap-2 rounded-2xl bg-[#0F4C4A] px-7 py-3.5 text-base font-bold text-white transition hover:bg-[#17615E] disabled:cursor-not-allowed disabled:bg-[#D7DDD9] disabled:text-[#78837F]">
+              <button type="button" disabled={!performance} onClick={confirm} className="flex items-center justify-center gap-2 rounded-2xl bg-[#24354B] px-7 py-3.5 text-base font-bold text-white transition hover:bg-[#364960] disabled:cursor-not-allowed disabled:bg-[#E8E4DC] disabled:text-[#686868]">
                 <Check size={19} />
                 {t.save}
               </button>

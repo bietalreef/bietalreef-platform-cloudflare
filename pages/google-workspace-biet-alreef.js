@@ -9,6 +9,8 @@ const faqs=[
   ['لماذا أحتاج Google Workspace بدلاً من حساب Gmail المجاني؟','الحساب الشخصي مخصص للاستخدام الفردي، بينما يوفر Google Workspace بريدًا مهنيًا باسم شركتك، وملكية مؤسسية للبيانات، وتحكمًا مركزيًا بحسابات الموظفين وأدوات إدارة وأمان موجهة للأعمال.'],
   ['هل تتكفل بيت الريف بربط الدومين وإنشاء البريد؟','يمكن أن يتضمن نطاق خدمتنا الإعداد الفني الكامل من ربط سجلات الدومين وإنشاء حسابات البريد الإلكتروني إلى ضبط الأدوات الأساسية وفق الاتفاق.'],
   ['هل يمكن نقل البريد الإلكتروني والملفات القديمة؟','نعم، يمكن تقييم بيئة العمل الحالية ودعم نقل الرسائل والملفات القديمة إلى Google Workspace ضمن خطة انتقال منظمة تهدف إلى تقليل توقف العمل والمخاطر.'],
+  ['هل يضمن رابط الإحالة وحده خصم 10%؟','لضمان الخصم يجب استيفاء أهلية العرض وإدخال رمز ترويجي فردي قبل نهاية فترة التجربة البالغة 14 يومًا. يُرسل الرمز لكل عميل بصورة فردية ولا يُنشر على الموقع.'],
+  ['هل خصم Workspace يشمل Google Cloud وتطوير التطبيقات؟','لا. العرض يتعلق باشتراك Google Workspace المؤهل فقط، أما Google Cloud وخدمات تطوير التطبيقات والتجهيز الفني فلها أسعار وشروط مستقلة.'],
   ['هل المزايا والباقات السنوية مقدمة من Google مباشرة؟','أي مزايا إضافية أو عروض مضمنة تكون ضمن باقات بيت الريف التجارية المؤهلة وشروطها الخاصة، وليست عرضًا مجانيًا عامًا من Google.']
 ];
 
@@ -40,8 +42,8 @@ const tools=[
 
 export default function Workspace(){return <>
   <Head>
-    <title>Google Workspace الإمارات | بريد إلكتروني رسمي وبنية عمل سحابية | بيت الريف</title>
-    <meta name="description" content="انقل أعمالك إلى بيئة احترافية مع Google Workspace في الإمارات عبر بيت الريف. احصل على بريد رسمي برابط دومين شركتك، ربط فني كامل للدومين، وإدارة مستخدمين منظمة."/>
+    <title>Google Workspace في الإمارات | خصم 10% مؤهل للسنة الأولى وبريد أعمال | بيت الريف</title>
+    <meta name="description" content="اكتشف طريقة إعداد Google Workspace وبريد شركتك الرسمي في الإمارات. تعرّف على عرض خصم 10% للسنة الأولى للاشتراكات الجديدة المؤهلة برمز ترويجي فردي عبر إحالة بيت الريف."/>
     <meta name="keywords" content="Google Workspace الإمارات، بريد إلكتروني برابط دومين الشركة، Gmail للأعمال، ربط الدومين بالبريد، بيت الريف Google Workspace، بيئة عمل سحابية للشركات"/>
     <meta name="robots" content="index, follow, max-image-preview:large"/>
     <link rel="canonical" href="https://bietalreef.ae/google-workspace-biet-alreef"/>
@@ -53,6 +55,20 @@ export default function Workspace(){return <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(faqSchema)}}/>
   </Head>
   <div dir="rtl" className="min-h-screen bg-[#FBFAFF]"><Navbar/><main>
+    <section aria-labelledby="workspace-referral" className="bg-[#173F35] py-10 text-white">
+      <div className="mx-auto grid max-w-7xl gap-7 px-4 lg:grid-cols-[1.3fr_.7fr] lg:items-center">
+        <div><p className="text-sm font-black text-[#E8D5A3]">عرض إحالة Google Workspace للشركات في الإمارات</p>
+          <h2 id="workspace-referral" className="mt-3 text-3xl font-black leading-tight md:text-4xl">خصم 10% على السنة الأولى للاشتراكات الجديدة المؤهلة</h2>
+          <p className="mt-3 max-w-3xl leading-8 text-white/85">افتح بريد شركتك باسم نطاقك، ونظم حسابات الموظفين والملفات والتقويم والاجتماعات. يتيح برنامج إحالة Google Workspace خصمًا للسنة الأولى عند استيفاء الشروط وإدخال رمز خصم فردي صالح أثناء التسجيل أو قبل نهاية تجربة 14 يومًا. قد يحصل بيت الريف على مكافأة إحالة من Google عند اشتراك عميل مؤهل.</p>
+          <p className="mt-2 text-sm text-white/70">الخصم خاص بـGoogle Workspace ولا يشمل Google Cloud أو Google Play أو خدمات تجهيز الحسابات التي قد تُسعّر منفصلة.</p>
+        </div>
+        <div className="flex flex-col gap-3">
+          <a href="https://referworkspace.app.goo.gl/Hsf7" target="_blank" rel="sponsored noopener noreferrer" className="rounded-xl bg-[#E8D5A3] px-6 py-4 text-center font-black text-[#173F35]">فتح رابط إحالة Google Workspace ↗</a>
+          <Link href="/contact" className="rounded-xl border border-white/40 px-6 py-4 text-center font-black text-white">طلب رمز خصم فردي قبل الاشتراك</Link>
+          <Link href="/google-cloud-biet-alreef" className="text-center text-sm font-bold underline underline-offset-4">تبحث عن Google Cloud وتطوير التطبيقات؟</Link>
+        </div>
+      </div>
+    </section>
 
     <section className="bg-gradient-to-b from-violet-50 to-white py-16 md:py-24">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 lg:grid-cols-2 lg:items-center">

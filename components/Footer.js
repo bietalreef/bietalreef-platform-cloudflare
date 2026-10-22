@@ -43,6 +43,7 @@ const copy = {
     sections: [
       { id: 'biet-alreef', title: 'بيت الريف', icon: Home, links: [['/about', 'عن بيت الريف'], ['/why-biet-alreef', 'لماذا بيت الريف']] },
       { id: 'platform', title: 'المنصة', icon: Layers3, links: [['/platform-for-business', 'كيف تعمل منصة بيت الريف للأعمال'], ['/join-provider', 'انضم كشركة متخصصة إلى بيت الريف'], ['/business-solutions', 'حلول وخدمات بيت الريف للأعمال'], ['/start-your-store', 'أنشئ متجرك على بيت الريف'], ['/business-plans', 'خطط الأعمال والاشتراكات'], ['/blog', 'المدونة']] },
+      { id: 'google-services', title: 'خدمات وأدوات Google', icon: Layers3, links: [['/google-workspace-biet-alreef', 'Google Workspace وبريد الشركات · عرض خصم 10%'], ['https://app.bietalreef.ae/google-workspace-offer', 'دليل العرض وطريقة الحصول على الخصم'], ['/google-cloud-biet-alreef', 'Google Cloud وتطوير التطبيقات'], ['/android', 'تطبيقات Android وGoogle Play'], ['/business-solutions', 'حلول التحول الرقمي والتكاملات']] },
       { id: 'partners', title: 'الشركاء', icon: Handshake, links: [['/partner-with-biet-alreef', 'الشراكة مع بيت الريف'], ['/join-biet-alreef', 'ضم شركتك إلى بيت الريف'], ['/google-cloud-biet-alreef', 'Google Cloud | بيت الريف'], ['/google-workspace-biet-alreef', 'Google Workspace | بيت الريف'], ['/weyaak-ai', 'وياك – الذكاء الاصطناعي من بيت الريف'], ['/suppliers-biet-alreef', 'الموردون مع بيت الريف'], ['/factories-workshops-biet-alreef', 'المصانع والورش مع بيت الريف']] },
       { id: 'support', title: 'الدعم', icon: Headphones, links: [['/contact', 'تواصل معنا'], ['/faq', 'الأسئلة الشائعة'], ['/support-policy', 'سياسة الدعم'], ['tel:+971564456337', 'اتصل بنا']] },
       { id: 'legal', title: 'القانونية', icon: ShieldCheck, links: [['/privacy', 'سياسة الخصوصية'], ['/legal', 'الشروط والأحكام'], ['/cookies', 'سياسة ملفات الارتباط'], ['/refund-policy', 'سياسة الاسترداد']] },
@@ -60,6 +61,7 @@ const copy = {
     sections: [
       { id: 'biet-alreef', title: 'Biet Al Reef', icon: Home, links: [['/en/about', 'About Biet Al Reef'], ['/en/why-biet-alreef', 'Why Biet Al Reef']] },
       { id: 'platform', title: 'Platform', icon: Layers3, links: [['/en/platform-for-business', 'How Biet Al Reef works for business'], ['/en/join-provider', 'Join Biet Al Reef as a service provider'], ['/en/business-solutions', 'Biet Al Reef business solutions'], ['/en/start-your-store', 'Start your store on Biet Al Reef'], ['/en/business-plans', 'Business plans & subscriptions'], ['/en/blog', 'Blog']] },
+      { id: 'google-services', title: 'Google services & tools', icon: Layers3, links: [['/en/google-workspace-biet-alreef', 'Google Workspace · eligible 10% first-year offer'], ['https://app.bietalreef.ae/google-workspace-offer', 'Offer terms and how to request a code'], ['/en/google-cloud-biet-alreef', 'Google Cloud & app development'], ['/en/android', 'Android apps & Google Play'], ['/en/business-solutions', 'Digital integrations & solutions']] },
       { id: 'partners', title: 'Partners', icon: Handshake, links: [['/en/partner-with-biet-alreef', 'Partner with Biet Al Reef'], ['/en/join-biet-alreef', 'Bring your company to Biet Al Reef'], ['/en/google-cloud-biet-alreef', 'Google Cloud | Biet Al Reef'], ['/en/google-workspace-biet-alreef', 'Google Workspace | Biet Al Reef'], ['/en/weyaak-ai', 'Weyaak – AI from Biet Al Reef'], ['/en/suppliers-biet-alreef', 'Suppliers with Biet Al Reef'], ['/en/factories-workshops-biet-alreef', 'Factories & workshops with Biet Al Reef']] },
       { id: 'support', title: 'Support', icon: Headphones, links: [['/en/contact', 'Contact us'], ['/en/faq', 'FAQ'], ['/en/support-policy', 'Support policy'], ['tel:+971564456337', 'Call us']] },
       { id: 'legal', title: 'Legal', icon: ShieldCheck, links: [['/en/privacy', 'Privacy Policy'], ['/en/legal', 'Terms & Conditions'], ['/en/cookies', 'Cookie Policy'], ['/en/refund-policy', 'Refund policy']] },
@@ -173,7 +175,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
             </div>
             <PlatformAccessActions locale={language} compact className="mt-5 w-full shrink-0 md:mt-0 md:max-w-sm" />
           </div>
-          <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.4fr_repeat(5,minmax(0,1fr))]">
+          <div className="grid grid-cols-1 gap-x-8 gap-y-0 lg:grid-cols-2 lg:gap-y-8 xl:grid-cols-[1.25fr_repeat(3,minmax(0,1fr))]">
             <div className={`text-center lg:col-span-2 xl:col-span-1 ${desktopAlign}`}>
               <Link href={t.home} aria-label={language === 'en' ? 'Biet Al Reef home' : 'الرئيسية'}>
                 <Image src="/icons/logo-512.webp" alt={language === 'en' ? 'Biet Al Reef' : 'بيت الريف'} width={110} height={110} className={`mx-auto h-24 w-24 object-contain ${language === 'en' ? 'md:ml-0' : 'md:mr-0'}`} />

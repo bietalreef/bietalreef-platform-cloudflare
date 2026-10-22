@@ -6,6 +6,8 @@ import FAQ from '../../components/FAQ';
 import { ArrowRight, Mail, FolderKanban, Video, CalendarDays, Users, ShieldCheck, CheckCircle2, Database, Settings2, Building2 } from 'lucide-react';
 
 const faqs=[
+  ['Does the referral link alone guarantee the discount?','Eligible new customers need a unique promotion code entered before the 14-day trial ends. Individual codes must not be published openly.'],
+  ['Does this discount cover Google Cloud?','No. The first-year discount applies only to eligible Google Workspace subscriptions, not Google Cloud, Google Play or setup services.'],
   ['Why do I need Google Workspace instead of a free Gmail account?','A personal account is designed for individual use, while Google Workspace provides professional email on your company domain, organisational ownership of data, central control over employee accounts, and business-focused administration and security tools.'],
   ['Can Biet Al Reef connect the domain and create the email accounts?','Yes. Our service scope can include the full technical setup, from connecting domain records and creating email accounts to configuring the core tools according to the agreed scope.'],
   ['Can old email and files be migrated?','Yes. We can assess your current environment and support the migration of existing messages and files to Google Workspace through an organised transition plan designed to reduce downtime and risk.'],
@@ -40,7 +42,7 @@ const tools=[
 
 export default function WorkspaceEnglish(){return <>
   <Head>
-    <title>Google Workspace UAE | Professional Email & Cloud Business Environment | Biet Al Reef</title>
+    <title>Google Workspace UAE · 10% eligible first-year offer | Professional Email & Cloud Business Environment | Biet Al Reef</title>
     <meta name="description" content="Move your business to a professional Google Workspace environment in the UAE with Biet Al Reef. Get company-domain email, complete domain connection and organised user administration."/>
     <meta name="keywords" content="Google Workspace UAE, company domain email, Gmail for business, connect domain to email, Biet Al Reef Google Workspace, cloud business environment UAE"/>
     <meta name="robots" content="index, follow, max-image-preview:large"/>
@@ -53,6 +55,19 @@ export default function WorkspaceEnglish(){return <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(faqSchema)}}/>
   </Head>
   <div dir="ltr" className="min-h-screen bg-[#FBFAFF]"><Navbar locale="en"/><main>
+  <section className="bg-[#173F35] py-10 text-white" aria-labelledby="workspace-referral-en">
+    <div className="mx-auto grid max-w-7xl gap-7 px-4 lg:grid-cols-[1.3fr_.7fr] lg:items-center">
+      <div><p className="text-sm font-black text-[#E8D5A3]">Google Workspace referral offer for UAE businesses</p>
+        <h2 id="workspace-referral-en" className="mt-3 text-3xl font-black leading-tight md:text-4xl">Eligible new customers: 10% off the first year of Google Workspace</h2>
+        <p className="mt-3 leading-8 text-white/85">Get business email on your own domain and organize Gmail, Drive, Meet and Calendar. To secure the referral discount, eligible new subscribers must apply an individually issued promotion code during sign-up or before their 14-day trial ends. Biet Al Reef may receive a referral reward for qualifying sign-ups.</p>
+        <p className="mt-2 text-sm text-white/70">This offer is for eligible Google Workspace subscriptions only—not Google Cloud, Google Play, or separately quoted setup services.</p>
+      </div><div className="flex flex-col gap-3">
+        <a href="https://referworkspace.app.goo.gl/Hsf7" target="_blank" rel="sponsored noopener noreferrer" className="rounded-xl bg-[#E8D5A3] px-6 py-4 text-center font-black text-[#173F35]">Open the Workspace referral link ↗</a>
+        <Link href="/en/contact" className="rounded-xl border border-white/40 px-6 py-4 text-center font-black text-white">Request an individual promotion code</Link>
+        <Link href="/en/google-cloud-biet-alreef" className="text-center text-sm font-bold underline underline-offset-4">Looking for Google Cloud or app development?</Link>
+      </div>
+    </div>
+  </section>
 
     <section className="bg-gradient-to-b from-violet-50 to-white py-16 md:py-24">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 lg:grid-cols-2 lg:items-center">

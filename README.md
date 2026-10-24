@@ -92,3 +92,11 @@ Prioritize **already indexed** Arabic and English pages on `bietalreef.ae`, espe
 ---
 
 <div align="center">**Biet Al Reef • Built for discoverability, interoperability and responsible engineering**</div>
+
+## Deployment freeze — company-data gate (2026-10-24)
+
+- Production is `https://bietalreef.ae` on Cloudflare Worker `bietalreef-platform-staging` (historical name only).
+- `bietalreef-landing-new` is legacy migration input only: read-only; never build, update, publish, or source live releases from it.
+- Hold this PageSpeed/security work on a draft PR; do not merge or publish until company data quality and channel review are approved by the owner.
+- No Search Console submission, company profile publication, notification modification, Supabase data mutation, DNS reassignment or alternate parallel stack is authorized under this task.
+- Before approved production release, verify desktop/mobile visual parity, user consent behavior, OAuth callback, structured data, sitemap, WAF and release rollback.

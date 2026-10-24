@@ -282,8 +282,8 @@ export default function HowItWorksPage() {
                   منظومة رقمية متخصصة بقطاع البناء
                 </span>
                 <h1 className="mt-6 max-w-3xl text-4xl font-black leading-[1.25] text-[#0F3F1A] md:text-6xl">
-                  قوة متكاملة في مكان واحد
-                  <span className="mt-2 block text-[#A27E18]">ووداعًا للتعقيد</span>
+                  اكتشف ما يحتاجه منزلك ومشروعك في مكان واحد
+                  <span className="mt-2 block text-[#A27E18]">من الفكرة إلى الاختيار والتنفيذ</span>
                 </h1>
                 <p className="mt-6 max-w-2xl text-lg leading-9 text-gray-700">
                   منصة رقمية متخصصة تجمع دليل الإمارات، الشركات والمهنيين، المنتجات، طلبات عروض الأسعار، المناقصات الداخلية، ومساعد وياك الذكي في رحلة واحدة متكاملة.
@@ -301,14 +301,7 @@ export default function HowItWorksPage() {
               <div className="order-1 lg:order-2">
                 <div className="relative overflow-hidden rounded-[2.4rem] border border-[#D7C8A7] bg-white shadow-[0_28px_70px_rgba(15,63,26,0.17)]">
                   <div className="relative aspect-[4/3] sm:aspect-[16/10] lg:aspect-[4/3]">
-                    <Image
-                      src="/images/webp/bait-alreef-unified-platform-design-build-manage-market.webp"
-                      alt="منظومة بيت الريف المتكاملة للتصميم والبناء والإدارة والمالية والتسويق"
-                      fill
-                      priority
-                      className="scale-[1.08] object-cover object-[center_68%]"
-                      sizes="(max-width: 1024px) 100vw, 48vw"
-                    />
+                    <img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3K5dNLPWMmFgrvZEgW8YXaVhh8h/c73ae366-45de-4644-8849-6ee9d727c9a8.png" alt="منظومة بيت الريف: السوق المفتوح والدليل وملفات الشركات والمنتجات والخدمات عبر الكمبيوتر والهاتف" loading="eager" fetchPriority="high" decoding="async" className="absolute inset-0 h-full w-full object-contain" />
                     <div className="absolute inset-x-0 top-0 h-[24%] bg-gradient-to-b from-[#F8F4EC] via-[#F8F4EC]/96 to-transparent" />
                   </div>
                 </div>
@@ -323,7 +316,7 @@ export default function HowItWorksPage() {
             <SectionHeading
               eyebrow="بوابات المنصة"
               title="ابدأ من المسار الأقرب إلى احتياجك"
-              description="أربع بوابات رئيسية بصور واضحة وحجم أصغر من بطاقات الصفحة الرئيسية، ترتبط جميعها بنفس بيانات النشاط والخدمة والمنتج والموقع."
+              description="ابدأ من دليل الإمارات أو الشركات أو الخدمات أو المنتجات؛ جميع المسارات تقود إلى معلومات منشورة تساعدك على الاختيار."
             />
             <div className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4 lg:gap-5">
               {platformGateways.map((item) => {
@@ -360,16 +353,10 @@ export default function HowItWorksPage() {
         </section>
 
         <section className="bg-[#F8F4EC] px-4 py-12 md:py-20">
-          <div className="mx-auto max-w-7xl overflow-hidden rounded-[2.75rem] border border-[#D9CBAF] bg-[#0F3F1A] shadow-[0_32px_80px_rgba(15,63,26,0.2)]">
+          <div className="mx-auto max-w-7xl overflow-hidden rounded-[2.75rem] border border-[#D9CBAF] bg-[#152B48] shadow-[0_32px_80px_rgba(15,36,64,0.18)]">
             <div className="relative min-h-[520px] md:min-h-[620px]">
-              <Image
-                src="/images/webp/bait-alreef-smart-construction-ecosystem-cover.webp"
-                alt="منصة بيت الريف الرقمية لقطاع البناء والمقاولات في الإمارات"
-                fill
-                className="object-cover object-center"
-                sizes="100vw"
-              />
-              <div className="absolute inset-0 bg-gradient-to-l from-[#071E11]/96 via-[#0F3F1A]/80 to-[#0F3F1A]/28" />
+              <img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3K5dNLPWMmFgrvZEgW8YXaVhh8h/6e37b665-f160-4226-8221-33c626ac62d5.png" alt="رحلة العميل في بيت الريف من الإلهام والبحث إلى اختيار مقدم الخدمة وطلب السعر والتواصل" loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover" />
+              <div className="absolute inset-0 bg-gradient-to-l from-[#0D203B]/90 via-[#0D203B]/75 to-[#0D203B]/28" />
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_bottom_left,rgba(212,175,55,0.2),transparent_36%)]" />
               <div className="relative z-10 flex min-h-[520px] items-center p-7 md:min-h-[620px] md:p-12 lg:p-16">
                 <div className="max-w-2xl text-white">

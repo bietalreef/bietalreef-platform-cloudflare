@@ -14,7 +14,16 @@ function consentState() {
 export default function ConsentAwareGoogleTag() {
   const router = useRouter();
   const [productionHost, setProductionHost] = useState(false);
-  useEffect(() => setProductionHost(['bietalreef.ae', 'www.bietalreef.ae'].includes(window.location.hostname)), []);
+  const [hasConsent, setHasConsent] = useState(false);
+  useEffect(() => {
+    const production = ['bietalreef.ae', 'www.bietalreef.ae'].includes(window.location.hostname);
+    setProductionHost(production);
+    if (!production) return undefined;
+    const update = () => setHasConsent(analyticsConsent() === 'accepted');
+    update();
+    window.addEventListener(CONSENT_EVENT, update);
+    return () => window.removeEventListener(CONSENT_EVENT, update);
+  }, []);
 
   useEffect(() => {
     const syncConsent = () => {
@@ -34,6 +43,7 @@ export default function ConsentAwareGoogleTag() {
 
   useEffect(() => {
     const trackPage = (url) => {
+      if (!hasConsent) return;
       window.gtag?.('config', GOOGLE_ANALYTICS_ID, {
         page_path: url,
         page_location: window.location.href,
@@ -46,9 +56,11 @@ export default function ConsentAwareGoogleTag() {
 
     router.events.on('routeChangeComplete', trackPage);
     return () => router.events.off('routeChangeComplete', trackPage);
-  }, [router.events]);
+  }, [router.events, hasConsent]);
 
-  if (!productionHost) return null;
+  // Basic Consent Mode: do not download third-party Google tags for visitors
+  // who have not opted in. This reduces unused JS and enforces the UI promise.
+  if (!productionHost || !hasConsent) return null;
 
   return (
     <>
@@ -76,6 +88,10 @@ export default function ConsentAwareGoogleTag() {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           window.gtag = window.gtag || gtag;
+          gtag('consent', 'update', {
+            analytics_storage: 'granted', ad_storage: 'granted',
+            ad_user_data: 'granted', ad_personalization: 'granted'
+          });
           gtag('js', new Date());
           gtag('config', '${GOOGLE_ADS_TAG_ID}');
           gtag('config', '${GOOGLE_ANALYTICS_ID}');

@@ -1,6 +1,14 @@
 name: Cloudflare staging — local SEO contract tests
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - 'components/home/ProjectDiscovery.js'
+      - 'components/home/ProjectDiscovery.module.css'
+      - 'components/ConsentAwareGoogleTag.js'
+      - 'next.config.js'
+      - 'scripts/pagespeed-cloudflare-gate.test.cjs'
+      - '.github/workflows/cloudflare-staging-qa.yml'
 permissions:
   contents: read
 jobs:
@@ -21,3 +29,5 @@ jobs:
         run: pnpm test:local-services
       - name: Local SEO growth tests
         run: pnpm test:local-growth
+      - name: Cloudflare production-scope PageSpeed and privacy contract
+        run: node --test scripts/pagespeed-cloudflare-gate.test.cjs

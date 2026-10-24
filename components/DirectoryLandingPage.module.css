@@ -13,3 +13,9 @@
 .illustratedHero figcaption small{color:#F2E9DD}
 @media(max-width:700px){.illustratedHero{aspect-ratio:16/9}.illustratedHero figcaption{font-size:11px;padding:8px 12px}}
 @media(prefers-reduced-motion:reduce){.emirateArtwork{transition:none}.placePhoto:hover .emirateArtwork{transform:none}}
+
+/* 2026 photo refresh: natural panoramas with no text baked into the media. */
+.heroPhoto,.emiratePhoto{object-fit:contain!important;object-position:center!important}
+.illustratedHero{background:#F3EEE5}
+.illustratedHero figcaption{bottom:14px}
+@media(max-width:700px){.illustratedHero figcaption{bottom:10px}}

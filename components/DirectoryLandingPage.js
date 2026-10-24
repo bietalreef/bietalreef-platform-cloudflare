@@ -1,7 +1,7 @@
 import {useState} from 'react';import Link from 'next/link';import Image from 'next/image';
 import {MapPin,ArrowUpLeft,Search,Building2,Store,Truck,Clock3,Check,MessageCircle,ChevronDown} from 'lucide-react';
 import Navbar from './Navbar';import EmirateVisual from './EmirateVisual';import Footer from './Footer';import SEOHead from './SEOHead';import {CleaningReadMore} from './AlAinCleaningPage';
-import {UAE_EMIRATES} from '../data/siteTaxonomy';import {UAE_ATLAS_IMAGES} from '../data/uaeAtlasImages';import {BUSINESS_TYPES} from '../data/alAinHub';
+import {UAE_EMIRATES} from '../data/siteTaxonomy';import {BUSINESS_TYPES} from '../data/alAinHub';
 import {DIRECTORY_SECTORS,ABU_DHABI_DESTINATIONS,ABU_DHABI_AREAS,DIRECTORY_EDITORIAL,discoveryPath,matchesDirectorySector,hourlyDestinationAllowed} from '../data/directoryDiscovery';
 import s from './AlAinHubPage.module.css';import d from './DirectoryLandingPage.module.css';
 export default function DirectoryLandingPage({locale='ar',mode='uae'}){

@@ -4,7 +4,7 @@
 ### منصة الأعمال والبناء والخدمات في دولة الإمارات
 **UAE Construction, Business & Local Services Platform**
 
-[![Platform](https://img.shields.io/badge/Live%20Platform-Vercel-173c2a?style=for-the-badge)](https://bietalreef.ae)
+[![Platform](https://img.shields.io/badge/Live%20Platform-Cloudflare%20Workers-173c2a?style=for-the-badge)](https://bietalreef.ae)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Workers%20Staging-f38020?style=for-the-badge)](https://bietalreef-platform-staging.bietalreef.workers.dev)
 [![Next](https://img.shields.io/badge/Next.js-15.5.27-black?style=for-the-badge)](https://nextjs.org)
 
@@ -52,11 +52,11 @@ flowchart LR
 
 ## ☁️ Cloudflare migration
 
-- **Migration source:** `bietalreef/bietalreef-landing-new` (`master`), preserved live on Vercel.
+- **Legacy migration source (READ-ONLY / EXCLUDED):** `bietalreef/bietalreef-landing-new`. Do not commit, deploy, build, or restore its assets to production.
 - **This independent repository:** `bietalreef/bietalreef-platform-cloudflare`.
-- **Staging target:** [`bietalreef-platform-staging.bietalreef.workers.dev`](https://bietalreef-platform-staging.bietalreef.workers.dev).
+- **Current production:** `https://bietalreef.ae` is mapped in Cloudflare to the existing Worker `bietalreef-platform-staging` (despite its historical name). Do not mistake the worker name for an isolated staging environment.
 - **Pages Router retained**; Next.js 15.5.27 + OpenNext 1.20.11 + Wrangler 4.149.0; Supabase is the single data source.
-- **No custom domain or DNS migration**. Do not redirect `bietalreef.ae`, `app.bietalreef.ae` or `providers.bietalreef.ae` here.
+- **No additional domain cutover.** Production routing is already live on Cloudflare. Do not modify DNS or deploy over `bietalreef.ae` from a test or branch.
 - **SEO staging protected:** `workers.dev` responses use `X-Robots-Tag: noindex`; staging writes are blocked.
 - A successful upload does **not** replace browser smoke tests, runtime API checks, cache/ISR validation or SEO parity. The production cutover requires separate approval.
 

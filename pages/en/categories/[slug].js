@@ -1,3 +1,4 @@
+import { getPlatformChannelServiceCards } from '../../../lib/platformPublishedServiceCards';
 import AlAinSectorDiscovery from '../../../components/AlAinSectorDiscovery';
 import { CONTENT } from '../../../data/alAinContent';
 import Head from 'next/head';
@@ -115,10 +116,12 @@ export async function getStaticProps({ params }) {
   const service = customServices[params.slug] || getServiceCategory(params.slug);
   if (!service) return { notFound: true };
   const activitySlug = getSectionActivitySlug('services_offers', service.slug);
-  const [directoryCards, publishedServices] = await Promise.all([
+  const [directoryCards, legacyServices, platformServices] = await Promise.all([
     getUaeFooterCards('en'),
     getPublishedSectionEntities('en', 'services_offers', activitySlug),
+    getPlatformChannelServiceCards('en',service.slug),
   ]);
+  const publishedServices=[...legacyServices,...platformServices.filter(x=>!legacyServices.some(y=>y.id===x.id))];
   return { props: { service, directoryCards, publishedServices }, revalidate: 300 };
 }
 

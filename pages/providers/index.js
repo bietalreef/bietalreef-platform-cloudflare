@@ -19,6 +19,8 @@ import {
 } from '../../lib/platformDirectoryCards';
 import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../components/SectionBackBar';
+import RehabDirectoryCard from '../../components/provider/RehabDirectoryCard';
+import { getRehabSiteData } from '../../lib/rehabPresence';
 
 const steps = [
   {
@@ -38,7 +40,7 @@ const steps = [
   },
 ];
 
-export default function ProvidersPage({ providers = [], directoryCards = [] }) {
+export default function ProvidersPage({ providers = [], directoryCards = [], rehab = null }) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
@@ -168,6 +170,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
           </div>
 
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+            {rehab ? <RehabDirectoryCard data={rehab} locale="ar" /> : null}
             {providers.map((provider) => (
               <ProviderCard key={provider.id} item={provider} />
             ))}
@@ -215,13 +218,14 @@ export default function ProvidersPage({ providers = [], directoryCards = [] }) {
   );
 }
 
-export async function getStaticProps() {
-  const [providers, directoryCards] = await Promise.all([
+export async function getServerSideProps({ res }) {
+  const [providers, directoryCards, rehab] = await Promise.all([
     getPublishedProviderCards('ar'),
     getUaeSectionCards('ar', 'providers'),
+    getRehabSiteData().catch(() => null),
   ]);
+  res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=180');
   return {
-    props: { providers, directoryCards },
-    revalidate: 300,
+    props: { providers, directoryCards, rehab },
   };
 }

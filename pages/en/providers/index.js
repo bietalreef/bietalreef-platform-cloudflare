@@ -12,6 +12,8 @@ import {
 } from '../../../lib/platformDirectoryCards';
 import ProvidersDirectoryHero from '../../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../../components/SectionBackBar';
+import RehabDirectoryCard from '../../../components/provider/RehabDirectoryCard';
+import { getRehabSiteData } from '../../../lib/rehabPresence';
 
 const steps = [
   { t: 'Learn how joining works', d: 'Review the platform process and the information required for a business profile.', i: '01' },
@@ -19,7 +21,7 @@ const steps = [
   { t: 'Publish the reviewed profile', d: 'The Biet Al Reef team reviews, prepares and publishes the profile in the correct section.', i: '03' }
 ];
 
-export default function ProvidersEnglishPage({ providers = [], directoryCards = [] }) {
+export default function ProvidersEnglishPage({ providers = [], directoryCards = [], rehab = null }) {
   return (
     <>
       <Head><title>Businesses & Professionals | Biet Al Reef</title><meta name="description" content="Browse Biet Al Reef service providers by specialty or register your business to appear inside the platform." /><meta name="robots" content="index, follow" /><link rel="canonical" href="https://bietalreef.ae/en/providers" /><link rel="alternate" hrefLang="ar-AE" href="https://bietalreef.ae/providers" /><link rel="alternate" hrefLang="en-AE" href="https://bietalreef.ae/en/providers" /><meta property="og:title" content="Businesses & Professionals | Biet Al Reef" /><meta property="og:description" content="Browse verified service-provider profiles by specialty across Biet Al Reef." /><meta property="og:type" content="website" /><meta property="og:url" content="https://bietalreef.ae/en/providers" /><meta property="og:image" content="https://bietalreef.ae/images/providers-hero.webp" /><meta property="og:image:alt" content="Businesses & Professionals | Biet Al Reef" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Businesses & Professionals | Biet Al Reef" /><meta name="twitter:image" content="https://bietalreef.ae/images/providers-hero.webp" /></Head>
@@ -36,7 +38,7 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
             </div>
             <ConstitutionalSectionCards cards={directoryCards} sectionKey="providers" locale="en" />
           </section>
-          <section className="mx-auto max-w-6xl px-4 py-14"><div className="mb-10 text-center md:text-left"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00]">Real providers inside the platform</span><h2 className="mt-4 mb-3 text-3xl font-black text-[#0F3F1A]">Available providers now</h2><p className="leading-8 text-gray-500">These are the first real service provider profiles inside Biet Al Reef. Each card opens a real provider profile and a contact or quotation path.</p></div><div className="grid grid-cols-1 gap-6 md:grid-cols-2">{providers.map((provider) => <ProviderCard key={provider.id} item={provider} />)}</div></section>
+          <section className="mx-auto max-w-6xl px-4 py-14"><div className="mb-10 text-center md:text-left"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00]">Real providers inside the platform</span><h2 className="mt-4 mb-3 text-3xl font-black text-[#0F3F1A]">Available providers now</h2><p className="leading-8 text-gray-500">These are the first real service provider profiles inside Biet Al Reef. Each card opens a real provider profile and a contact or quotation path.</p></div><div className="grid grid-cols-1 gap-6 md:grid-cols-2">{rehab ? <RehabDirectoryCard data={rehab} locale="en" /> : null}{providers.map((provider) => <ProviderCard key={provider.id} item={provider} />)}</div></section>
           <section className="border-y border-[#E6DCC8] bg-white py-20"><div className="mx-auto max-w-6xl px-4 text-center"><h2 className="mb-4 text-3xl font-black text-[#0F3F1A]">How do you join the Biet Al Reef network?</h2><p className="mb-12 text-gray-500">Simple steps to start your digital growth journey with us</p><div className="grid gap-12 md:grid-cols-3">{steps.map((step) => (<div key={step.i} className="relative text-center"><div className="absolute -top-10 left-1/2 z-0 -translate-x-1/2 text-8xl font-black text-gray-50">{step.i}</div><div className="relative z-10"><h3 className="mb-3 text-xl font-black text-[#0F3F1A]">{step.t}</h3><p className="text-sm leading-7 text-gray-500">{step.d}</p></div></div>))}</div></div></section>
           <ProvidersSmartFooter locale="en" directoryCards={directoryCards} />
         </main>
@@ -45,13 +47,14 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
   );
 }
 
-export async function getStaticProps() {
-  const [providers, directoryCards] = await Promise.all([
+export async function getServerSideProps({ res }) {
+  const [providers, directoryCards, rehab] = await Promise.all([
     getPublishedProviderCards('en'),
     getUaeSectionCards('en', 'providers'),
+    getRehabSiteData().catch(() => null),
   ]);
+  res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=180');
   return {
-    props: { providers, directoryCards },
-    revalidate: 300,
+    props: { providers, directoryCards, rehab },
   };
 }

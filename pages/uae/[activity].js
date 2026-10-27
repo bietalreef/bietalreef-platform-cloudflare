@@ -24,7 +24,8 @@ function providerSchemaTitle(activityName, emirateName) {
 
 export default function EmiratePage({ emirate, emirateSlug, directoryCards = [] }) {
   if (!emirate) return null;
-  if (emirate.slug === 'abu-dhabi') return <DirectoryLandingPage locale="ar" mode="abu-dhabi"/>;
+  return <DirectoryLandingPage locale="ar" mode={emirate.slug}/>;
+  /* legacy directory retained for route compatibility */
   const isAbuDhabi = emirate.slug === 'abu-dhabi';
   const showAlHootSeoPath = false;
   const canonical = `https://bietalreef.ae/uae/${emirateSlug}`;
@@ -131,9 +132,7 @@ export async function getStaticProps({ params }) {
   const emirateSlug = params.activity;
   const emirate = getEmirate(emirateSlug);
   if (!emirate) return { notFound: true };
-  if (emirateSlug === 'abu-dhabi') return {props:{emirate,emirateSlug,directoryCards:[]},revalidate:3600};
-  const directoryCards = await getArabicUaeDirectoryCards();
-  return { props: { emirate, emirateSlug, directoryCards }, revalidate: 3600 };
+  return { props: { emirate, emirateSlug, directoryCards: [] }, revalidate: 3600 };
 }
 
 export async function getStaticPaths() {

@@ -1,7 +1,7 @@
 // Editorial service guides. Never represent these as a provider's live offer.
 export const CLEANING_REVIEWED_AT = '2026-10-19';
 export const CLEANING_SERVICES = [
-  { slug:'home-villa-cleaning', title:{ar:'تنظيف المنازل والفلل',en:'Home & villa cleaning'}, image:'/images/providers/alrehab/account-cover.webp', tag:{ar:'مساحة كاملة',en:'Whole property'},
+  { slug:'home-villa-cleaning', title:{ar:'تنظيف المنازل والفلل',en:'Home & villa cleaning'}, image:'/hero-villa-1.webp', tag:{ar:'مساحة كاملة',en:'Whole property'},
     intro:{ar:'منزل مأهول، فيلا قبل الانتقال أو عقار بعد التشطيب؟ ابدأ بتحديد حالة المكان والغرف والأسطح المطلوبة، ثم قارن عرضًا مفصلًا بدل الاكتفاء بعبارة «تنظيف شامل».',en:'An occupied home, a villa before moving in or a recently finished property? Define its condition, rooms and surfaces, then compare itemised scopes rather than a vague “full clean”.'},
     includes:{ar:['الأرضيات والزوايا والأسطح المتاحة حسب نوعها','دهون المطبخ والأسطح الخارجية للخزائن حسب الاتفاق','الحمامات والزجاج الداخلي المتاح بأمان'],en:['Floors, corners and accessible surfaces, matched to their material','Kitchen grease and external cabinet surfaces as agreed','Bathrooms and safely accessible interior glass']},
     excludes:{ar:['غسيل الكنب والسجاد ما لم يُذكر في العرض','نقل الأثاث الثقيل وإزالة مخلفات البناء','الواجهات المرتفعة والمناطق التي تحتاج معدات وصول'],en:['Sofa and carpet washing unless itemised','Heavy furniture moving and construction-waste removal','High facades or areas requiring specialist access equipment']},

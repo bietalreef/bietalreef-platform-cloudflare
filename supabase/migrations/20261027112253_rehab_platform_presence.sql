@@ -130,4 +130,29 @@ set publication_status = 'published',
 where public_provider_code = 'BR-2000029' and slug = 'alrehab-home-clean'
   and verification_status = 'verified';
 
+-- Keep the existing app's activation record aligned with the actual
+-- platform publication; neither the app nor market channel is promoted.
+update public.provider_store_settings settings
+set channel_profile_review = jsonb_set(
+      coalesce(settings.channel_profile_review, '{}'::jsonb), '{platform}',
+      coalesce(settings.channel_profile_review -> 'platform', '{}'::jsonb) ||
+        jsonb_build_object('status', 'published',
+          'published_at', now(),
+          'provider_code', 'BR-2000029',
+          'publication_source', 'explicit_owner_authorized_live_platform_release_2026_10_27'),
+      true),
+    updated_at = now()
+from public.provider_public_profiles pub
+join public.provider_profiles pp on pp.id = pub.provider_profile_id
+where settings.provider_id = pub.id and settings.provider_user_id = pp.user_id
+  and pub.public_provider_code = 'BR-2000029' and pub.slug = 'alrehab-home-clean'
+  and pub.landing_page_status = 'published'
+  and exists (
+    select 1 from public.platform_provider_accounts acct
+    join public.platform_content_cards card on card.platform_provider_account_id = acct.id
+    where acct.provider_public_profile_id = pub.id
+      and acct.status = 'active' and card.card_type = 'service'
+      and card.status = 'published'
+  );
+
 commit;

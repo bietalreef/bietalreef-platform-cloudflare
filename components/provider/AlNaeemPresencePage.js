@@ -33,7 +33,7 @@ const texts = {
     companyDetails:'معلومات التواصل', emailNote:'التواصل المباشر مع الشركة عبر الهاتف أو واتساب.',
     imagesNote:'الصور توضيحية للخدمات وليست توثيقًا لأعمال نفّذتها الشركة.',
     noOffers:'لا توجد عروض متاحة حاليًا.', noAreas:'لا توجد مناطق معلنة حاليًا.',
-    stockCredit:'صور توضيحية: Unsplash', noService:'لا توجد خدمات متاحة حاليًا.',
+    noService:'لا توجد خدمات متاحة حاليًا.',
     secure:'لا توجد أسعار ثابتة غير مؤكدة', feedback:'خدمة مناسبة، عرض واضح، وقرار أسهل.',
     category:'دليل خدمات التنظيف', langSwitch:'English', discover:'تصفّح الأقسام',
   },
@@ -61,9 +61,8 @@ const texts = {
     view:'View details',all:'View all pages',back:'Back to company',more:'Learn more',
     official:'Business & Professionals Directory',offerBadge:'10% off',request:'Request details',serviceScope:'Before booking',
     companyDetails:'Contact details',emailNote:'Contact the company directly by phone or WhatsApp.',
-    imagesNote:'Illustrative service photographs, not a record of work performed by Al Nuaim.',
     noOffers:'No offers currently available.',noAreas:'No declared service areas.',
-    stockCredit:'Illustrative photos: Unsplash',noService:'No services currently available.',
+    noService:'No services currently available.',
     secure:'No unconfirmed fixed prices',feedback:'The right service, a clear quote, an easier decision.',
     category:'Cleaning service directory',langSwitch:'العربية',discover:'Browse sections',
   }
@@ -77,7 +76,7 @@ const safeTel = n => {
   const s=String(n||'').replace(/[^\d+]/g,'');
   return s.length>=10?'tel:'+s:null;
 };
-const mediaAlt = (item,locale) => pick(item,locale)+(locale==='ar'?' — صورة توضيحية':' — illustrative photo');
+const mediaAlt = (item,locale) => pick(item,locale);
 const mapUrl = 'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent('Damascus Street, Al Qusais, Dubai');
 function QuoteActions({phone,wa,locale,subject,large=false}) {
   const t=texts[locale];const phoneLink=safeTel(phone), waLink=whatsappHref(wa,subject);
@@ -180,9 +179,8 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
         <div className="overflow-hidden rounded-[24px] border border-[#e5e7e9] bg-white shadow-[0_14px_42px_rgba(21,49,68,.07)] sm:rounded-[30px]">
           <div className="grid md:grid-cols-[1fr_1.02fr]">
             <div className="relative min-h-[235px] sm:min-h-[330px] md:order-2 md:min-h-[440px]">
-              <img src={item?.image||photo} alt={item?mediaAlt(item,locale):en?'Illustrative photograph of professional home cleaning':'صورة توضيحية لخدمات تنظيف المنازل'} fetchPriority="high" className="absolute inset-0 h-full w-full object-cover" />
-              <div className="absolute inset-x-3 bottom-3 rounded-full bg-[#102d40]/80 px-4 py-1.5 text-center text-[11px] font-medium text-white backdrop-blur-sm">{t.imagesNote}</div>
-            </div>
+              <img src={item?.image||photo} alt={item?mediaAlt(item,locale):en?'Al Nuaim home cleaning services':'خدمات شركة النعيم لتنظيف المنازل والفلل'} fetchPriority="high" className="absolute inset-0 h-full w-full object-cover" />
+             </div>
             <div className="flex flex-col justify-center p-5 sm:p-9 md:order-1 md:p-10">
               <span className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-[#eadbc0] bg-[#fff9ed] px-3 py-2 text-[12px] font-bold text-[#8b6c37]"><Sparkles size={14}/>{t.badge}</span>
               {route.kind==='home'&&<p className="mb-2 text-[15px] font-bold text-[#aa8648]">{name}</p>}
@@ -235,8 +233,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
           <h2 className="text-[20px] font-extrabold text-[#173b53]">{t.companyDetails}</h2>
           <div className="mt-3 flex flex-wrap items-center justify-between gap-4"><p className="flex items-center gap-2 text-[15px] text-[#586d7b]"><MapPin size={17}/>{t.address}</p>
             <a href={mapUrl} target="_blank" rel="noopener noreferrer" className="rounded-xl border border-[#d3bea0] px-4 py-2.5 text-[14px] font-bold text-[#173b53]">{t.map}</a></div>
-          <p className="mt-4 text-[12px] text-[#788998]">{t.imagesNote} <a className="underline" href="https://unsplash.com/license" target="_blank" rel="noreferrer">{t.stockCredit}</a></p>
-        </div>
+         </div>
       </section>
     </main>
     <Footer locale={locale}/>

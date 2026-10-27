@@ -4,6 +4,7 @@ import { AREAS } from '../data/localServices';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
+import { getAlNaeemData, alNaeemPath } from '../lib/alNaeemPresence';
 import {
   UAE_DIRECTORY_SECTION_SLUGS,
   getArabicUaeDirectoryCards,
@@ -137,6 +138,25 @@ export async function getServerSideProps({ res }) {
     }
   } catch (error) {
     console.error('Sitemap provider channel unavailable:', error?.message);
+  }
+
+  // Al Nuaim is only indexed AFTER approval of its DISTINCT identity,
+  // live platform channel, service cards and local service areas.
+  try {
+    const alNaeem = await getAlNaeemData();
+    if (alNaeem) {
+      const routes = [{kind:'home'}];
+      for (const [kind,items] of [['services',alNaeem.services],['offers',alNaeem.offers],['service-areas',alNaeem.areas]]) {
+        if (!items.length) continue;
+        routes.push({kind});
+        for (const item of items) routes.push({kind,slug:item.slug});
+      }
+      for (const route of routes) {
+        addPair(alNaeemPath('ar',route),alNaeemPath('en',route),route.kind==='home'?alNaeem.profile.cover_image_url:null,{priority:route.kind==='home'?0.78:0.65});
+      }
+    }
+  } catch (error) {
+    console.error('Al Nuaim sitemap data unavailable:',error?.message);
   }
 
   products

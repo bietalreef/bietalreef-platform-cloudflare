@@ -1,8 +1,16 @@
 import AlNaeemPresencePage from '../../../components/provider/AlNaeemPresencePage';
+import PublishedCompanyPresencePage from '../../../components/provider/PublishedCompanyPresencePage';
 import { getAlNaeemProps, AL_NAEEM_SLUG } from '../../../lib/alNaeemPresence';
+import { getCompanyServerProps } from '../../../lib/publishedCompanyPresence';
 
-export default AlNaeemPresencePage;
+export default function PublicCompanyPage(props) {
+  return props.alNaeem ? <AlNaeemPresencePage {...props} /> : <PublishedCompanyPresencePage {...props} />;
+}
 export async function getServerSideProps(context) {
-  if (context.params?.slug !== AL_NAEEM_SLUG) return { notFound: true };
-  return getAlNaeemProps(context, 'en', []);
+  const slug = context.params?.slug;
+  if (slug === AL_NAEEM_SLUG) {
+    const r = await getAlNaeemProps(context, 'en', []);
+    return r.props ? {...r, props: {...r.props, alNaeem:true}} : r;
+  }
+  return getCompanyServerProps(context, 'en', slug, []);
 }

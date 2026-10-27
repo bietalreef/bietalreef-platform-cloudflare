@@ -35,6 +35,10 @@ const copy = {
 };
 
 const pick = (row, locale, key = 'name') => row?.[`${key}_${locale}`] || '';
+// Legacy Google Drive `uc?export=view` links are not direct, stable public
+// image assets. Leave the approved URL in the database for its owner to
+// replace, but never render a visibly broken image in the public page.
+const displayImage = (url) => /^https:\/\//i.test(String(url || '')) && !/^https:\/\/drive\.google\.com\/uc\?/i.test(url) ? url : null;
 const detailsFor = (route, data) => route?.slug && (route.kind === 'services' ? data.services : route.kind === 'offers' ? data.offers : data.areas).find((x) => x.slug === route.slug);
 function whatsappUrl(number, name) {
   const digits = String(number || '').replace(/\D/g, '');
@@ -94,7 +98,7 @@ function Seo({ data, locale, route, detail }) {
     <link rel="alternate" hrefLang="x-default" href={`${REHAB_ORIGIN}${presencePath('ar', route)}`} />
     {isEmptySection ? <meta name="robots" content="noindex,follow" /> : null}
     <meta property="og:title" content={title} /><meta property="og:description" content={description} />
-    {p.cover_image_url ? <meta property="og:image" content={p.cover_image_url} /> : null}
+    {displayImage(p.cover_image_url) ? <meta property="og:image" content={p.cover_image_url} /> : null}
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
   </Head>;
 }
@@ -134,7 +138,7 @@ export default function RehabPresencePage({ data, locale = 'ar', route = { kind:
     </header>
 
     <section className="relative isolate overflow-hidden bg-[#132D4D] text-white">
-      {p.cover_image_url ? <img alt="" className="absolute inset-0 -z-10 h-full w-full object-cover opacity-20" src={p.cover_image_url} /> : null}
+      {displayImage(p.cover_image_url) ? <img alt="" className="absolute inset-0 -z-10 h-full w-full object-cover opacity-20" src={p.cover_image_url} /> : null}
       <div className="mx-auto max-w-6xl px-4 py-10 sm:py-16">
         <div className="mb-4 flex flex-wrap items-center gap-2 text-sm text-white/75">
           <Link href={presencePath(locale)}>{name}</Link>{route.kind !== 'home' ? <span>/ {currentName}</span> : null}

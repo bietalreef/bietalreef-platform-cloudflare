@@ -35,3 +35,19 @@ test('Local sitemap requires platform-channel source evidence, not unpublished F
  assert.match(gate,/item\.provenance === 'platform_content_cards'/);
  assert.doesNotMatch(gate,/item\.provenance === 'provider_services'/);
 });
+
+test('Discount offers stay in the platform publication channel and carry bilingual navigation',()=>{
+ const loader=read('lib/platformPublishedServiceCards.js');
+ const card=read('components/provider/PublishedCompanyPresencePage.js');
+ const grid=read('components/PublishedOfferGrid.js');
+ const directory=read('pages/services.js');
+ const enDirectory=read('pages/en/services.js');
+ assert.match(loader,/getPlatformChannelOfferCards/);
+ assert.match(loader,/cardType==='offer'\?'offers':'services'/);
+ assert.match(loader,/c\.content\.channel!=='platform'/);
+ assert.match(card,/item\.discount_percent===10/);
+ assert.match(card,/detail\.linked_service_slug/);
+ assert.match(grid,/discountPercent===10/);
+ assert.match(directory,/PublishedOfferGrid/);
+ assert.match(enDirectory,/PublishedOfferGrid/);
+});

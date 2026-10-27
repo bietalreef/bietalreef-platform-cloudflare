@@ -1,4 +1,5 @@
-import { getPlatformChannelServiceCards } from '../../lib/platformPublishedServiceCards';
+import { getPlatformChannelServiceCards, getPlatformChannelOfferCards } from '../../lib/platformPublishedServiceCards';
+import PublishedOfferGrid from '../../components/PublishedOfferGrid';
 import AlAinSectorDiscovery from '../../components/AlAinSectorDiscovery';
 import { CONTENT } from '../../data/alAinContent';
 import Link from 'next/link';
@@ -63,6 +64,7 @@ export default function ServiceLandingPage({
   service,
   directoryCards = [],
   publishedServices = [],
+  publishedOffers = [],
 }) {
   const title = `${service.nameAr} | الخدمات والعروض`;
   const desc = `صفحة مخصصة لخدمة ${service.nameAr} داخل قسم الخدمات والعروض في بيت الريف، بعيدًا عن مسارات دليل الإمارات أو المنتجات.`;
@@ -135,6 +137,7 @@ export default function ServiceLandingPage({
           {null}
 
           <PublishedEntityGrid items={publishedServices} locale="ar" type="service" />
+          <PublishedOfferGrid items={publishedOffers} locale="ar" />
 
           {publishedServices.length === 0 && (
             <section className="max-w-6xl mx-auto px-4 py-10" aria-label="العروض المتاحة"><div className="rounded-3xl border border-[#E6DCC8] bg-white p-10 text-center shadow-sm" role="status"><h2 className="text-2xl font-black text-[#0F3F1A]">لا توجد خدمات منشورة حاليًا</h2><p className="mt-3 text-gray-600 leading-8">لا توجد بطاقة منشورة من قاعدة البيانات مرتبطة بقسم {service.nameAr} الآن. يمكنك طلب عرض سعر مخصص حسب تفاصيل مشروعك.</p><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-6 inline-block rounded-2xl bg-primary px-7 py-3 text-sm font-black text-white">اطلب عرض سعر مخصص</a></div></section>
@@ -157,13 +160,14 @@ export async function getStaticProps({ params }) {
   const service = customServices[serviceSlug] || getServiceCategory(serviceSlug);
   if (!service) return { notFound: true };
   const activitySlug = getSectionActivitySlug('services_offers', service.slug);
-  const [directoryCards, legacyServices, platformServices] = await Promise.all([
+  const [directoryCards, legacyServices, platformServices, publishedOffers] = await Promise.all([
     getUaeFooterCards('ar'),
     getPublishedSectionEntities('ar', 'services_offers', activitySlug),
     getPlatformChannelServiceCards('ar',service.slug),
+    getPlatformChannelOfferCards('ar',service.slug),
   ]);
   const publishedServices=[...legacyServices,...platformServices.filter(x=>!legacyServices.some(y=>y.id===x.id))];
-  return { props: { service, directoryCards, publishedServices }, revalidate: 300 };
+  return { props: { service, directoryCards, publishedServices, publishedOffers }, revalidate: 300 };
 }
 
 export async function getStaticPaths() {

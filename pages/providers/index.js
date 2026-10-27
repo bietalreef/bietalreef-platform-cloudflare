@@ -20,8 +20,10 @@ import {
 import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../components/SectionBackBar';
 import RehabDirectoryCard from '../../components/provider/RehabDirectoryCard';
+import AlNaeemDirectoryCard from '../../components/provider/AlNaeemDirectoryCard';
 import ProvidersSectorList from '../../components/ProvidersSectorList';
 import { getRehabSiteData } from '../../lib/rehabPresence';
+import { getAlNaeemData } from '../../lib/alNaeemPresence';
 
 const steps = [
   {
@@ -41,7 +43,7 @@ const steps = [
   },
 ];
 
-export default function ProvidersPage({ providers = [], directoryCards = [], rehab = null }) {
+export default function ProvidersPage({ providers = [], directoryCards = [], rehab = null, alNaeem = null }) {
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
@@ -167,7 +169,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
           </div>
 
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">
-            {rehab ? <RehabDirectoryCard data={rehab} locale="ar" /> : null}
+            {rehab ? <RehabDirectoryCard data={rehab} locale="ar" /> : null}{alNaeem ? <AlNaeemDirectoryCard data={alNaeem} locale="ar" /> : null}
             {providers.map((provider) => (
               <ProviderCard key={provider.id} item={provider} />
             ))}
@@ -216,13 +218,14 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
 }
 
 export async function getServerSideProps({ res }) {
-  const [providers, directoryCards, rehab] = await Promise.all([
+  const [providers, directoryCards, rehab, alNaeem] = await Promise.all([
     getPublishedProviderCards('ar'),
     getUaeSectionCards('ar', 'providers'),
     getRehabSiteData().catch(() => null),
+    getAlNaeemData().catch(() => null),
   ]);
   res.setHeader('Cache-Control', 'public, s-maxage=60, stale-while-revalidate=180');
   return {
-    props: { providers, directoryCards, rehab },
+    props: { providers, directoryCards, rehab, alNaeem },
   };
 }

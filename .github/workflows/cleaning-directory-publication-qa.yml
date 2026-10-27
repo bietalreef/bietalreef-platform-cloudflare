@@ -1,0 +1,28 @@
+name: Cleaning directory publication QA
+on:
+  push:
+    branches:
+      - fix/cleaning-directory-source-and-makkah-content-20261028
+  pull_request:
+    branches:
+      - master
+permissions:
+  contents: read
+jobs:
+  clean-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.28.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Publication contract
+        run: node --test scripts/cleaning-directory-publication.test.cjs
+      - name: Next.js 15 Pages Router build
+        run: pnpm build

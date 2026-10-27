@@ -2,7 +2,7 @@ name: Published provider presence release gate
 on:
   push:
     branches:
-      - release/provider-presence-makkah-20261028
+      - release/makkah-provider-live-20261028
   workflow_dispatch:
 permissions:
   contents: read

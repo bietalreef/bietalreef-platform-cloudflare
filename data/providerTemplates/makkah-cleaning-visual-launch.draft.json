@@ -1,0 +1,115 @@
+{
+  "status": "draft_only",
+  "preview_asset_package": "makkah_landing_preview_package.zip — conversation artifact; binary media NOT committed to this PR",
+  "legal_identity": {
+    "account_code": "BR-3000530",
+    "verified_ar": "اضواء مكه لخدمات التنظيف",
+    "requested_display_ar": "شركة مكة لخدمات التنظيف",
+    "matched_phone": "+971545575370",
+    "new_brand_approved": false
+  },
+  "seo": {
+    "indexable": false,
+    "robots": "noindex,nofollow",
+    "production_route_requires_approval": true
+  },
+  "plan": {
+    "code": "digital-presence",
+    "active_at_review": true,
+    "published": false,
+    "platform_cards_limit": 4,
+    "services_linked": 0
+  },
+  "locale": [
+    "ar",
+    "en"
+  ],
+  "areas": [
+    "al-ain",
+    "abu-dhabi",
+    "dubai"
+  ],
+  "services": [
+    {
+      "slug": "carpet-sofa-steam",
+      "ar": "غسيل السجاد والكنب بالبخار",
+      "en": "Carpet and sofa steam cleaning",
+      "file": "service-carpet-sofa.webp"
+    },
+    {
+      "slug": "tank-cleaning",
+      "ar": "تنظيف وتعقيم الخزانات",
+      "en": "Tank cleaning and sanitization",
+      "file": "service-water-tank.webp"
+    },
+    {
+      "slug": "home-villa-cleaning",
+      "ar": "تنظيف المنازل والفلل",
+      "en": "Home and villa cleaning",
+      "file": "service-home-villa.webp"
+    },
+    {
+      "slug": "pool-courtyard",
+      "ar": "تنظيف المسابح والأحواش",
+      "en": "Pool and courtyard cleaning",
+      "file": "service-pool-yard.webp"
+    }
+  ],
+  "offers": [
+    {
+      "slug": "deep-villa-10",
+      "ar": "تنظيف فيلا عميق",
+      "en": "Deep villa cleaning",
+      "discount_percent": 10,
+      "file": "offer-deep-villa.webp",
+      "status": "draft",
+      "approved": false,
+      "valid_from": null,
+      "valid_until": null,
+      "base_price": null
+    },
+    {
+      "slug": "pre-move-10",
+      "ar": "تنظيف قبل السكن",
+      "en": "Pre-move cleaning",
+      "discount_percent": 10,
+      "file": "offer-before-move.webp",
+      "status": "draft",
+      "approved": false,
+      "valid_from": null,
+      "valid_until": null,
+      "base_price": null
+    },
+    {
+      "slug": "tank-sanitization-10",
+      "ar": "تنظيف وتعقيم الخزانات",
+      "en": "Tank cleaning and sanitization",
+      "discount_percent": 10,
+      "file": "offer-water-tank.webp",
+      "status": "draft",
+      "approved": false,
+      "valid_from": null,
+      "valid_until": null,
+      "base_price": null
+    },
+    {
+      "slug": "pool-yard-10",
+      "ar": "تنظيف المسابح والأحواش",
+      "en": "Pool and courtyard cleaning",
+      "discount_percent": 10,
+      "file": "offer-pool-yard.webp",
+      "status": "draft",
+      "approved": false,
+      "valid_from": null,
+      "valid_until": null,
+      "base_price": null
+    }
+  ],
+  "publication_gates": [
+    "Confirm that Makkah is an approved display/trade name for BR-3000530",
+    "Confirm 3 approved service areas and taxonomy-linked services",
+    "Upload reviewed image assets to platform media storage",
+    "Confirm discount terms and platform card quota before enabling public offers",
+    "Use approved Next.js 15 Pages Router and existing company-directory components"
+  ]
+}

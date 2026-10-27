@@ -1,0 +1,201 @@
+{
+  "schema_version": "1.0",
+  "record_type": "unpublished_business_launch_content",
+  "prepared_on": "2026-10-27",
+  "source": "user-provided business details; taxonomy IDs checked against the existing Supabase project",
+  "identity_handling": {
+    "legacy_account_reference": "BR-2000030",
+    "legacy_entity": "شركة شمس البستان للصيانة العامة",
+    "new_entity_is_distinct": true,
+    "existing_account_must_not_be_rebranded_as_verified": true,
+    "retain_current_login_email": true,
+    "new_entity_verification": "required_before_publication",
+    "publication": "blocked_until_separate_identity_and_entitlement_resolved"
+  },
+  "profile": {
+    "name_ar": "شركة النعيم لخدمات التنظيف والتعقيم وتنظيف الخزانات",
+    "name_en": "Al Nuaim Cleaning, Sanitization & Water Tank Cleaning Services",
+    "english_trade_name_status": "provisional translation; legal English name must be verified",
+    "slug_candidate": "al-naeem-cleaning-services",
+    "short_ar": "خدمات تنظيف المنازل والفلل، غسيل وتعقيم الخزانات، والتنظيف بالبخار للمفروشات والسجاد في المناطق المعتمدة.",
+    "short_en": "Home and villa cleaning, water tank cleaning and sanitization, and steam cleaning for carpets and upholstery in approved service areas.",
+    "description_ar": "تقدم شركة النعيم خدمات تنظيف المنازل والفلل، وغسيل وتعقيم خزانات المياه، وغسيل السجاد والكنب بالبخار، والتنظيف العميق للستائر والمفروشات والمجالس. يتم تحديد نطاق العمل وموعد التنفيذ والسعر بعد توضيح تفاصيل الخدمة والموقع.",
+    "description_en": "Al Nuaim offers home and villa cleaning, water tank cleaning and sanitization, steam cleaning of carpets and sofas, and deep cleaning for curtains, upholstery and majlis seating. Scope, schedule and price are confirmed after reviewing the service and property details.",
+    "address_ar": "دبي، القصيص، شارع دمشق",
+    "address_en": "Damascus Street, Al Qusais, Dubai, United Arab Emirates",
+    "phone": "+971522837071",
+    "whatsapp_e164": "971522837071",
+    "call_url": "tel:+971522837071",
+    "whatsapp_url": "https://wa.me/971522837071",
+    "logo_url": "/images/providers/al-naeem/logo.svg",
+    "cover_image_url": null,
+    "google_maps_url": null,
+    "contact_verification": "user provided; not independently verified",
+    "avatar_image_url": "/images/providers/al-naeem/logo.svg",
+    "media_status": "Logo ready; original photographic images are illustrative and not uploaded to this branch; attach and review before production use."
+  },
+  "taxonomy": {
+    "category_slug": "cleaning-services",
+    "category_name_ar": "التنظيف",
+    "category_name_en": "Cleaning Services",
+    "create_new_taxonomy": false
+  },
+  "services": [
+    {
+      "slug": "home-villa-cleaning",
+      "title_ar": "تنظيف المنازل والفلل",
+      "title_en": "Home & Villa Cleaning",
+      "description_ar": "تنظيف المساحات المنزلية والفلل، مع إمكانية تضمين المجالس والأحواش ضمن نطاق الخدمة المتفق عليه.",
+      "description_en": "Cleaning of homes and villas, with majlis seating and courtyards included when specified in the agreed scope.",
+      "taxonomy_refs": [
+        "homes-buildings-cleaning-302"
+      ],
+      "status": "draft"
+    },
+    {
+      "slug": "water-tank-cleaning-sanitization",
+      "title_ar": "غسيل وتعقيم خزانات المياه",
+      "title_en": "Water Tank Cleaning & Sanitization",
+      "description_ar": "غسيل وتنظيف خزانات المياه وخدمات التعقيم المرتبطة بها، وفق حالة الخزان ونطاق العمل المتفق عليه.",
+      "description_en": "Water tank washing, cleaning and associated sanitization based on tank condition and the agreed service scope.",
+      "taxonomy_refs": [
+        "facades-tanks-cleaning-318",
+        "facades-tanks-cleaning-319"
+      ],
+      "status": "draft"
+    },
+    {
+      "slug": "steam-carpet-sofa-cleaning",
+      "title_ar": "غسيل السجاد والكنب بالبخار",
+      "title_en": "Steam Cleaning for Carpets & Sofas",
+      "description_ar": "تنظيف السجاد والكنب بالبخار حسب ملاءمة الأقمشة والمواد لطريقة التنظيف.",
+      "description_en": "Steam cleaning of carpets and sofas where fabric and material suitability permits.",
+      "taxonomy_refs": [
+        "steam-sofa-cleaning",
+        "carpet-rug-cleaning"
+      ],
+      "status": "draft"
+    },
+    {
+      "slug": "curtains-upholstery-majlis-cleaning",
+      "title_ar": "تنظيف عميق للستائر والمفروشات والمجالس",
+      "title_en": "Deep Cleaning for Curtains, Upholstery & Majlis",
+      "description_ar": "تنظيف عميق للستائر والمفروشات ومجالس الجلوس ضمن طريقة تنظيف تناسب نوع المواد وحالة القطع.",
+      "description_en": "Deep cleaning of curtains, upholstery and majlis seating using methods suitable for the material and condition.",
+      "taxonomy_refs": [
+        "steam-upholstery-cleaning-314",
+        "arabic-majlis-cleaning"
+      ],
+      "status": "draft"
+    }
+  ],
+  "offers": [
+    {
+      "slug": "home-villa-cleaning-10-percent",
+      "linked_service_slug": "home-villa-cleaning",
+      "title_ar": "خصم 10% على تنظيف المنازل والفلل",
+      "title_en": "10% Off Home & Villa Cleaning",
+      "discount_percent": 10,
+      "published": false,
+      "status": "draft",
+      "base_price": null,
+      "valid_until": null,
+      "terms_ar": "مسودة. يحدد السعر الأساسي وشروط الاستفادة وتاريخ السريان قبل اعتماد العرض.",
+      "terms_en": "Draft. Base price, eligibility terms and validity period must be approved before publishing."
+    },
+    {
+      "slug": "water-tank-cleaning-10-percent",
+      "linked_service_slug": "water-tank-cleaning-sanitization",
+      "title_ar": "خصم 10% على غسيل وتعقيم الخزانات",
+      "title_en": "10% Off Water Tank Cleaning & Sanitization",
+      "discount_percent": 10,
+      "published": false,
+      "status": "draft",
+      "base_price": null,
+      "valid_until": null,
+      "terms_ar": "مسودة. يحدد السعر الأساسي وشروط الاستفادة وتاريخ السريان قبل اعتماد العرض.",
+      "terms_en": "Draft. Base price, eligibility terms and validity period must be approved before publishing."
+    },
+    {
+      "slug": "steam-carpet-sofa-10-percent",
+      "linked_service_slug": "steam-carpet-sofa-cleaning",
+      "title_ar": "خصم 10% على غسيل السجاد والكنب بالبخار",
+      "title_en": "10% Off Steam Carpet & Sofa Cleaning",
+      "discount_percent": 10,
+      "published": false,
+      "status": "draft",
+      "base_price": null,
+      "valid_until": null,
+      "terms_ar": "مسودة. يحدد السعر الأساسي وشروط الاستفادة وتاريخ السريان قبل اعتماد العرض.",
+      "terms_en": "Draft. Base price, eligibility terms and validity period must be approved before publishing."
+    },
+    {
+      "slug": "curtains-majlis-10-percent",
+      "linked_service_slug": "curtains-upholstery-majlis-cleaning",
+      "title_ar": "خصم 10% على تنظيف الستائر والمفروشات والمجالس",
+      "title_en": "10% Off Curtains, Upholstery & Majlis Cleaning",
+      "discount_percent": 10,
+      "published": false,
+      "status": "draft",
+      "base_price": null,
+      "valid_until": null,
+      "terms_ar": "مسودة. يحدد السعر الأساسي وشروط الاستفادة وتاريخ السريان قبل اعتماد العرض.",
+      "terms_en": "Draft. Base price, eligibility terms and validity period must be approved before publishing."
+    }
+  ],
+  "coverage": [
+    {
+      "slug": "dubai",
+      "name_ar": "دبي",
+      "name_en": "Dubai",
+      "status": "proposed_within_plan"
+    },
+    {
+      "slug": "sharjah",
+      "name_ar": "الشارقة",
+      "name_en": "Sharjah",
+      "status": "proposed_within_plan"
+    },
+    {
+      "slug": "umm-al-quwain",
+      "name_ar": "أم القيوين",
+      "name_en": "Umm Al Quwain",
+      "status": "proposed_within_plan"
+    },
+    {
+      "slug": "ras-al-khaimah",
+      "name_ar": "رأس الخيمة",
+      "name_en": "Ras Al Khaimah",
+      "status": "proposed_within_plan"
+    },
+    {
+      "slug": "al-ain",
+      "name_ar": "العين",
+      "name_en": "Al Ain",
+      "status": "deferred_plan_limit"
+    }
+  ],
+  "constraints": {
+    "digital_presence_feature_limits": {
+      "service_limit": 4,
+      "offer_limit": 4,
+      "local_area_limit": 4,
+      "platform_item_limit": 4
+    },
+    "platform_item_limit_semantics": "must be confirmed by effective entitlement resolver; 4 services plus 4 offers are NOT presumed publishable",
+    "approved_or_published_services": 0,
+    "approved_or_published_offers": 0,
+    "approved_or_published_regions": 0
+  },
+  "go_live_checks": [
+    "Create or approve a distinct lawful business identity for Al Nuaim without inheriting Shams Al Bustan verification.",
+    "Preserve the existing login email; do not expose it as a public field.",
+    "Confirm license, legal name (Arabic and English), brand ownership and any required regulated sanitization permissions.",
+    "Apply an entitled publication flow before creating publicly accessible platform_provider_accounts and platform_content_cards.",
+    "Verify phone, actual map location and rights to any uploaded images.",
+    "Resolve the fifth requested region versus the plan's four-area quota.",
+    "Resolve shared platform-item quota versus four services and four offers.",
+    "Approve offer base prices, discount terms and validity before making public advertising claims.",
+    "Test Arabic and English Pages Router HTML, cards, canonical, hreflang, robots and live links before directing Google Ads."
+  ]
+}

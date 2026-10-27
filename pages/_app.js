@@ -51,7 +51,7 @@ export default function MyApp({ Component, pageProps }) {
   const isPreviewSurface = currentPath === '/preview/al-ain-responsive';
   const isEnglishPage = currentPath === '/en' || currentPath.startsWith('/en/');
   const isProviderProfile = /^\/(?:en\/)?providers\/(?!register(?:\/|$))[^/?#]+/.test(currentPath);
-  const isRehabPresence = /^\/(?:en\/)?providers\/alrehab-home-clean(?:\/|$)/.test(currentPath);
+  const isRehabPresence = /^\/(?:en\/)?providers\/(?:alrehab-home-clean|al-naeem-cleaning-services)(?:\/|$)/.test(currentPath);
   // Al Rehab now renders exclusively through its approved platform channel.
   // Legacy overlays inject illustrative media and obsolete business details.
   const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline)(?:\/|$)/.test(currentPath);

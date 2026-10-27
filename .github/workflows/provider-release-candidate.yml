@@ -1,0 +1,29 @@
+name: Release candidate — Next.js 15 Pages Router
+on:
+  push:
+    branches:
+      - release/provider-presence-makkah-20261028
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10.28.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - name: Frozen dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Structural audit and build
+        run: pnpm build
+      - name: SEO smoke scripts
+        run: |
+          pnpm test:local-services
+          pnpm test:local-growth

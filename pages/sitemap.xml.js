@@ -1,3 +1,4 @@
+import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
 import { AREAS } from '../data/localServices';
@@ -138,6 +139,24 @@ export async function getServerSideProps({ res }) {
     }
   } catch (error) {
     console.error('Sitemap provider channel unavailable:', error?.message);
+  }
+
+  // Only live, verified platform-channel company pages are sitemap eligible.
+  try {
+    const publishedCompanies = await getPublishedCompanySitemapRoutes();
+    for (const company of publishedCompanies) {
+      if (company.slug === 'alrehab-home-clean') continue;
+      for (const route of company.routes) {
+        addPair(
+          companyPath(company.slug, 'ar', route.kind, route.slug),
+          companyPath(company.slug, 'en', route.kind, route.slug),
+          route.kind === 'home' ? company.cover : null,
+          { priority: route.kind === 'home' ? 0.78 : 0.64 },
+        );
+      }
+    }
+  } catch (error) {
+    console.error('Published company sitemap unavailable:',error?.message);
   }
 
   // Al Nuaim is only indexed AFTER approval of its DISTINCT identity,

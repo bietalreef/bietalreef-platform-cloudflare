@@ -36,7 +36,9 @@
       "en": "Deep villa cleaning",
       "file": "photo-service-deep-villa-cleaning.webp",
       "poster_file": "service-deep-villa-cleaning.webp",
-      "taxonomy_slug": "homes-buildings-cleaning-302"
+      "taxonomy_slug": "homes-buildings-cleaning-302",
+      "description_ar": "لإعداد نطاق تنظيف الفيلا العميق بدقة، تُراجع مساحة المكان وعدد الغرف والحمامات وحالة الأرضيات والمطابخ والمجالس، وتُحدّد المناطق ذات الأولوية وأي بقع خاصة قبل تقديم عرض السعر.",
+      "description_en": "A detailed villa-cleaning quotation starts with floor area, rooms, bathrooms, floor finishes, kitchens and majlis spaces. Priority areas and special stains are discussed before the work scope and price are agreed."
     },
     {
       "slug": "pre-move-in-cleaning",
@@ -44,7 +46,9 @@
       "en": "Pre-move-in cleaning",
       "file": "photo-service-pre-move-in-cleaning.webp",
       "poster_file": "service-pre-move-in-cleaning.webp",
-      "taxonomy_slug": "homes-buildings-cleaning-307"
+      "taxonomy_slug": "homes-buildings-cleaning-307",
+      "description_ar": "يساعد التنظيف قبل السكن في تجهيز المنزل الخالي للانتقال. يجب تحديد ما إذا كان العقار جديدًا أو بعد تشطيب أو بعد خروج ساكن سابق، مع توضيح بقايا الغبار والأسطح المطلوبة ومواعيد تسليم المفاتيح.",
+      "description_en": "Pre-move cleaning prepares an empty home for occupancy. The provider first needs to know whether the property is newly finished or previously occupied, the dust and surface conditions, and the key-handover schedule."
     },
     {
       "slug": "water-tank-cleaning",
@@ -52,7 +56,9 @@
       "en": "Water tank cleaning and sanitization",
       "file": "photo-service-water-tank-cleaning.webp",
       "poster_file": "service-water-tank-cleaning.webp",
-      "taxonomy_slug": "facades-tanks-cleaning-318"
+      "taxonomy_slug": "facades-tanks-cleaning-318",
+      "description_ar": "تبدأ خدمة تنظيف الخزانات بتحديد نوع الخزان وحجمه وموقعه ودرجة الاتساخ وإمكانية الوصول الآمن إليه. تُتفق خطوات الغسيل والتعقيم المستخدمة وفق نوع الخزان ومتطلبات السلامة والتصاريح اللازمة.",
+      "description_en": "Water tank cleaning depends on tank type, capacity, accessibility and condition. Washing and sanitization methods must be agreed for the tank material, safety requirements and any applicable permits."
     },
     {
       "slug": "pool-yard-cleaning",
@@ -60,7 +66,9 @@
       "en": "Pool and courtyard cleaning",
       "file": "photo-service-pool-yard-cleaning.webp",
       "poster_file": "service-pool-yard-cleaning.webp",
-      "taxonomy_slug": "facades-tanks-cleaning-320"
+      "taxonomy_slug": "facades-tanks-cleaning-320",
+      "description_ar": "يُحدد نطاق تنظيف المسبح والحوش بعد معرفة مساحة المسبح وطبيعة البلاط والأرضيات وحالة الأوساخ والأوراق المتراكمة وطريقة التخلص منها. تنظيف أنظمة المعالجة أو اختبار المياه يحتاج اتفاقًا منفصلًا إذا لزم.",
+      "description_en": "Pool and courtyard cleaning depends on pool size, surrounding surfaces, accumulated debris and access. Water treatment system work or testing requires separate scope confirmation when relevant."
     }
   ],
   "offers": [

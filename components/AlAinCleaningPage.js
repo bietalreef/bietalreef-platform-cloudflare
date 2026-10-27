@@ -38,6 +38,14 @@ export default function AlAinCleaningPage({model}) {
   const exactMatch = !service || providers.length>0;
   const viewProviders=(exactMatch?providers:relatedProviders).filter(p=>!district||p.coverage.some(c=>c.approved&&c.city==='al-ain'&&c.areas.includes(district)));
   const linkMore=(slug)=>service===slug?'#scope':detailsHref(slug);
+  // Existing editorial cleaning guides remain unchanged; these are direct links
+  // to the independent Al Nuaim company landing pages, not verification records.
+  const alNaeemOffers = [
+    {slug:'home-villa-cleaning',name:{ar:'تنظيف المنازل والفلل',en:'Home & Villa Cleaning'},image:'/images/providers/al-naeem/home-villa-male.webp'},
+    {slug:'steam-carpet-sofa-cleaning',name:{ar:'غسيل السجاد والكنب بالبخار',en:'Carpet & Sofa Steam Cleaning'},image:'/images/providers/al-naeem/sofa-carpet-male.webp'},
+    {slug:'curtains-upholstery-majlis-cleaning',name:{ar:'تنظيف المراتب والمفروشات',en:'Upholstery Deep Cleaning'},image:'/images/providers/al-naeem/majlis-upholstery-male.webp'},
+    {slug:'curtains-upholstery-majlis-cleaning',name:{ar:'تنظيف المجالس العربية',en:'Arabic Majlis Cleaning'},image:'/images/providers/al-naeem/majlis-upholstery-male.webp'},
+  ];
   const sections=guide.sections;
   const allFaq=[...guide.faq,...(service?[{q:{ar:'كيف أطلب هذه الخدمة في العين؟',en:'How do I request this service in Al Ain?'},a:{ar:'حدد المنطقة والعدد أو المساحة وأرفق صورًا حديثة. اطلب تأكيد طريقة التنظيف والنطاق والسعر والموعد قبل اعتماد الحجز.',en:'Share your district, quantity or area and recent photos. Confirm method, scope, price and date before booking.'}}]:[])];
   const track=(event,p)=>void trackPublicEvent('click',{metadata:{local_event:event,city:'al-ain',category:'cleaning-services',service:service||'',provider_id:p.id}});
@@ -80,7 +88,12 @@ export default function AlAinCleaningPage({model}) {
           <aside className={styles.checklist}><span className={styles.asideIcon}><ClipboardList aria-hidden="true"/></span><h2>{en?'Ready for a clearer quote?':'للحصول على عرض أوضح'}</h2><p>{en?'Prepare these details before you contact a company.':'جهّز هذه التفاصيل قبل التواصل مع الشركة.'}</p><ul>{(service?t(guide.checklist):(en?['Your service and Al Ain district','Area, item count and dimensions','Recent photos and priority areas','Preferred date and access details']:['الخدمة والمنطقة داخل العين','المساحة أو عدد القطع والمقاسات','صور حديثة والأماكن ذات الأولوية','الموعد المناسب وتفاصيل الوصول'])).map(v=><li key={v}><Check aria-hidden="true"/>{v}</li>)}</ul><a className={styles.primary} href="#prepare-request">{en?'Prepare my request':'جهّز طلبي'}<Next aria-hidden="true"/></a><small>{en?'Share the precise address privately.':'شارك العنوان الدقيق بشكل خاص.'}</small></aside>
         </div>
         <section className={styles.areasSection}><div><MapPin aria-hidden="true"/><h2>{en?'Your district in Al Ain':'منطقتك داخل العين'}</h2></div><p>{en?'Select a district to prepare your request. Confirm coverage with the provider.':'اختر المنطقة لتجهيز الطلب. تأكد من تغطيتها مع الشركة قبل الحجز.'}</p><div className={styles.areaChips}>{areas.map(a=><button key={a.slug} type="button" aria-pressed={district===a.slug} onClick={()=>setDistrict(a.slug)}>{en?a.nameEn:a.nameAr}{district===a.slug&&<Check aria-hidden="true"/>}</button>)}</div><p className={styles.selectionStatus} role="status">{district?(en?'Selected: ':'المنطقة المختارة: ')+(en?areas.find(a=>a.slug===district).nameEn:areas.find(a=>a.slug===district).nameAr):''}</p></section>
-        {service&&<section className={styles.section}><div className={styles.sectionHead}><h2>{en?'Explore more cleaning services':'خدمات أخرى لبيتك'}</h2><Link href={hub} className={styles.textLink}>{en?'All services':'كل الخدمات'}<Next aria-hidden="true"/></Link></div><div className={styles.related}>{CLEANING_SERVICES.filter(s=>s.slug!==service).map(s=><Link key={s.slug} href={linkMore(s.slug)}><Image src={s.image} width={64} height={48} alt=""/><span>{t(s.title)}</span><Next aria-hidden="true"/></Link>)}</div></section>}
+        {service&&<section className={styles.section}><div className={styles.sectionHead}><h2>{en?'Explore more cleaning services':'خدمات أخرى لبيتك'}</h2><Link href={hub} className={styles.textLink}>{en?'All services':'كل الخدمات'}<Next aria-hidden="true"/></Link></div><div className={styles.related}>{CLEANING_SERVICES.filter(s=>s.slug!==service).map(s=><Link key={s.slug} href={linkMore(s.slug)}><Image src={s.image} width={64} height={48} alt=""/><span>{t(s.title)}</span><Next aria-hidden="true"/></Link>)}</div>
+          <div className={styles.sectionHead} style={{marginTop:24}}><div><span className={styles.kicker}>{en?'AL NUAIM CLEANING SERVICES':'شركة النعيم لخدمات التنظيف'}</span><h3>{en?'Explore these services with Al Nuaim':'بطاقات خدمات النعيم المرتبطة بهذا القسم'}</h3></div><Link href={`${prefix}/providers/al-naeem-cleaning-services`} className={styles.textLink}>{en?'Company page':'صفحة الشركة'}<Next aria-hidden="true"/></Link></div>
+          <div className={styles.related}>
+            {alNaeemOffers.map((v,i)=><Link key={i} href={`${prefix}/providers/al-naeem-cleaning-services/services/${v.slug}`}><Image src={v.image} width={64} height={48} alt="" /><span>{v.name[locale]} — {en?'Al Nuaim':'النعيم'}</span><Next aria-hidden="true"/></Link>)}
+          </div>
+        </section>}
         <p className={styles.editorialNote}>{en?'Your home, your priorities. Biet Alreef customer service is here to help you choose.':'بيتك وأولوياتك. وخدمة عملاء بيت الريف دائمًا معك لمساعدتك في الاختيار.'}</p>
       </main>
       <Footer locale={locale} showRequestCTA={false}/>

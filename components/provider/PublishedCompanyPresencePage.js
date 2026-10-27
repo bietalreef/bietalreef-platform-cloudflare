@@ -24,7 +24,7 @@ function Collections({items,kind,locale,slug,cover}){
  if(!items.length)return <p className="rounded-xl border border-dashed border-[#d9d3c7] bg-white p-5 text-sm text-slate-600">{t.none}</p>;
  return <div className="grid gap-2.5 sm:grid-cols-2 lg:grid-cols-3">{items.map(item=><Link href={companyPath(slug,locale,kind,item.slug)} key={item.id} className="group flex min-w-0 items-center gap-3 overflow-hidden rounded-2xl border border-[#e8e0d1] bg-white p-2 shadow-sm transition hover:border-[#b99b61] sm:block sm:p-0">
    {kind==='service-areas'?<div className="flex h-20 w-24 shrink-0 items-center justify-center rounded-xl bg-[#f1ece0] text-[#9c7a38] sm:h-44 sm:w-full"><MapPin size={31}/></div>:
-   (safeImg(item.image)||safeImg(cover))?<img alt={text(item,locale)} src={safeImg(item.image)||safeImg(cover)} width="400" height="250" loading="lazy" className="h-20 w-24 shrink-0 rounded-xl object-cover sm:h-44 sm:w-full sm:rounded-none"/>:<div className="flex h-20 w-24 shrink-0 items-center justify-center rounded-xl bg-[#f1ece0] sm:h-44 sm:w-full"><Building2/></div>}
+   safeImg(item.image)?<img alt={text(item,locale)} src={safeImg(item.image)} width="400" height="250" loading="lazy" className="h-20 w-24 shrink-0 rounded-xl object-cover sm:h-44 sm:w-full sm:rounded-none"/>:<div className="flex h-20 w-24 shrink-0 items-center justify-center rounded-xl bg-[#f1ece0] sm:h-44 sm:w-full"><Building2/></div>}
    <span className="flex min-w-0 flex-1 flex-col justify-center p-1 sm:p-4"><strong className="text-sm text-[#18334c] sm:text-lg">{text(item,locale)}</strong>{text(item,locale,'description')?<span className="mt-1 line-clamp-2 text-xs leading-5 text-slate-600 sm:line-clamp-3">{text(item,locale,'description')}</span>:null}<span className="mt-2 inline-flex items-center gap-1 text-xs font-bold text-[#8b6c37] sm:text-sm">{t.details}<ChevronLeft size={14}/></span></span>
  </Link>)}</div>;
 }
@@ -38,10 +38,15 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
  const collection=section==='services'?services:section==='offers'?offers:section==='service-areas'?areas:null;
  const detail=route.slug?collection?.find(x=>x.slug===route.slug):null;
  const name=text(profile,locale);const pageLabel=detail?text(detail,locale):section==='home'?name:t[section];
+ const detailSeo=detail?.seo?.[locale];
+ const isCleaning=categories.some(c=>c.slug==='cleaning-services');
+ const areaNames=areas.map(a=>text(a,locale));
+ const locationPhrase=areaNames.length?areaNames.join(locale==='ar'?' وأيضًا ':', '):'';
+ const searchHeading=section==='home'&&isCleaning&&locationPhrase?(locale==='ar'?name+' | خدمات التنظيف في '+locationPhrase:name+' | Cleaning services in '+locationPhrase):pageLabel;
  const relative=companyPath(slug,locale,section,route.slug);
  const arabic=companyPath(slug,'ar',section,route.slug);const english=companyPath(slug,'en',section,route.slug);
  const origin='https://bietalreef.ae';
- const description=(detail&&text(detail,locale,'description'))||text(profile,locale,'short_description')||t.description;
+ const description=(detailSeo?.intro)||((detail&&text(detail,locale,'description'))||text(profile,locale,'short_description')||t.description);
  const canonical=origin+relative;
  const empty=section==='services'&&!services.length||section==='offers'&&!offers.length||section==='service-areas'&&!areas.length;
  const schema={'@context':'https://schema.org','@type':'LocalBusiness','@id':origin+companyPath(slug,'ar')+'#company',name,url:origin+companyPath(slug,locale),telephone:profile.phone||undefined,image:safeImg(profile.cover_image_url)||undefined,areaServed:areas.map(a=>({'@type':'Place',name:text(a,locale)}))};
@@ -50,8 +55,8 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
  const cover=safeImg(profile.cover_image_url)||safeImg(profile.logo_url);
  return <div dir={rtl?'rtl':'ltr'} lang={locale==='ar'?'ar-AE':'en-AE'} className="min-h-screen bg-[#faf8f3] pb-24 sm:pb-0">
  <Head>
-  <title>{section==='home'?name+' | '+(rtl?'خدمات التنظيف | بيت الريف':'Cleaning services | Biet Al Reef'):pageLabel+' | '+name+' | '+(rtl?'بيت الريف':'Biet Al Reef')}</title>
-  <meta name="description" content={description}/><link rel="canonical" href={canonical}/>
+  <title>{section==='home'?searchHeading+' | '+(rtl?'بيت الريف':'Biet Al Reef'):pageLabel+' | '+name+' | '+(rtl?'بيت الريف':'Biet Al Reef')}</title>
+  <meta name="description" content={description.slice(0,165)}/><link rel="canonical" href={canonical}/>
   <link rel="alternate" hrefLang="ar-AE" href={origin+arabic}/><link rel="alternate" hrefLang="en-AE" href={origin+english}/><link rel="alternate" hrefLang="x-default" href={origin+arabic}/>
   {empty?<meta name="robots" content="noindex,follow"/>:null}
   <meta property="og:title" content={pageLabel+' | '+name}/><meta property="og:description" content={description}/>{cover?<meta property="og:image" content={cover}/>:null}
@@ -70,21 +75,32 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
  <div className="mx-auto max-w-6xl border-b border-[#e7ddcc] bg-white px-4 py-5 sm:rounded-b-2xl sm:px-7">
   <nav className="mb-2 flex items-center gap-2 text-xs text-[#755f34]"><Link href={locale==='en'?'/en/providers':'/providers'}>{t.allCompanies}</Link><span>/</span><Link href={companyPath(slug,locale)}>{name}</Link>{section!=='home'?<span>/ {pageLabel}</span>:null}</nav>
   <span className="inline-flex items-center gap-1 rounded-full bg-[#f6eedc] px-3 py-1 text-xs font-bold text-[#82682f]"><ShieldCheck size={14}/>{t.verified}</span>
-  <h1 className="mt-3 text-2xl font-black leading-relaxed text-[#163c30] sm:text-5xl">{pageLabel}</h1>
+  <h1 className="mt-3 text-2xl font-black leading-relaxed text-[#163c30] sm:text-5xl">{searchHeading}</h1>
   <p className="mt-2 max-w-3xl text-sm leading-7 text-slate-600 sm:text-base">{description}</p>
   <div className="mt-3 flex flex-wrap gap-2">{areas.map(a=><Link className="rounded-full border border-[#e3d8c2] bg-[#fdfbf7] px-3 py-1.5 text-xs" key={a.id} href={companyPath(slug,locale,'service-areas',a.slug)}><MapPin className="me-1 inline-block" size={13}/>{text(a,locale)}</Link>)}</div>
   <div className="mt-4 hidden flex-wrap gap-3 sm:flex">{call?<a className="rounded-xl bg-[#183d31] px-5 py-3 font-bold text-white" href={call}>{t.contact}</a>:null}{wa?<a className="rounded-xl border border-[#ceb77c] bg-white px-5 py-3 font-bold text-[#183d31]" href={wa}>{t.whatsapp}</a>:null}</div>
  </div>
  {section==='home'?<>
-  <Section title={t.about} locale={locale}><p className="rounded-2xl border border-[#e6dece] bg-white p-4 leading-8 text-slate-600">{text(profile,locale,'description')||description}</p></Section>
+  <Section title={t.about} locale={locale}><p className="whitespace-pre-line rounded-2xl border border-[#e6dece] bg-white p-4 leading-8 text-slate-600">{text(profile,locale,'description')||description}</p></Section>
   <Section title={t.services} url={companyPath(slug,locale,'services')} locale={locale}><Collections locale={locale} slug={slug} kind="services" items={services} cover={cover}/></Section>
   {offers.length?<Section title={t.offers} url={companyPath(slug,locale,'offers')} locale={locale}><Collections locale={locale} slug={slug} kind="offers" items={offers} cover={cover}/></Section>:null}
   <Section title={t.location} url={companyPath(slug,locale,'service-areas')} locale={locale}><Collections locale={locale} slug={slug} kind="service-areas" items={areas}/></Section>
  </>:detail? <Section title={pageLabel} locale={locale}>
    <div className="grid overflow-hidden rounded-2xl border border-[#e6dece] bg-white md:grid-cols-2">
-   {detail.image||cover?<img src={detail.image||cover} alt={pageLabel} width="600" height="350" className="h-56 w-full object-cover md:h-full"/>:null}
+   {detail.image?<img src={detail.image} alt={pageLabel} width="600" height="350" className="h-56 w-full object-cover md:h-full"/>:null}
    <div className="p-5"><p className="leading-8 text-slate-700">{text(detail,locale,'description')||t.description}</p>{section==='service-areas'?<p className="mt-2 leading-7 text-slate-500">{t.areaNotice}</p>:null}{wa?<a href={wa} className="mt-4 inline-flex rounded-xl bg-[#183d31] px-5 py-3 font-bold text-white">{t.direct}</a>:null}</div>
    </div>
+   {section==='services'&&detailSeo?<div className="mt-5 grid gap-4 lg:grid-cols-2">
+    <section className="rounded-2xl border border-[#e6dece] bg-white p-5">
+      <h2 className="mb-3 text-xl font-bold text-[#183d31]">{rtl?'ما المعلومات المطلوبة لتحديد نطاق الخدمة؟':'What details help define the service scope?'}</h2>
+      <p className="leading-8 text-slate-700">{detailSeo.intro}</p>
+      <ul className="mt-4 list-inside list-disc space-y-2 leading-8 text-slate-700">{(detailSeo.checklist||[]).map(item=><li key={item}>{item}</li>)}</ul>
+    </section>
+    <section className="rounded-2xl border border-[#e6dece] bg-white p-5">
+      <h2 className="mb-3 text-xl font-bold text-[#183d31]">{rtl?'أسئلة شائعة عن الخدمة':'Frequently asked questions'}</h2>
+      <div className="space-y-3">{(detailSeo.faqs||[]).map((item,i)=><details key={i} className="rounded-xl border border-[#e7ddcc] p-4"><summary className="cursor-pointer font-semibold">{item.question}</summary><p className="mt-3 leading-8 text-slate-600">{item.answer}</p></details>)}</div>
+    </section>
+   </div>:null}
    {section==='service-areas'&&services.length?<div className="mt-4"><h2 className="mb-3 text-lg font-bold">{t.services}</h2><Collections locale={locale} slug={slug} kind="services" items={services} cover={cover}/></div>:null}
   </Section>:<Section title={t[section]} locale={locale}><Collections items={collection||[]} locale={locale} slug={slug} kind={section} cover={cover}/></Section>}
   <Section title={t.location} locale={locale}><p className="text-xs text-slate-500">{areas.map(a=>text(a,locale)).join(locale==='ar'?'، ':', ')}</p></Section>

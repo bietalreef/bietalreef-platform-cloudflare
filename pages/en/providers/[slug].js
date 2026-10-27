@@ -1,2 +1,6 @@
-export default function UnpublishedListing() { return null; }
-export async function getServerSideProps() { return { notFound: true }; }
+import PublishedCompanyPresencePage from '../../../components/provider/PublishedCompanyPresencePage';
+import { getCompanyServerProps } from '../../../lib/publishedCompanyPresence';
+export default PublishedCompanyPresencePage;
+export async function getServerSideProps(context){
+ return getCompanyServerProps(context,'en',context.params.slug,[]);
+}

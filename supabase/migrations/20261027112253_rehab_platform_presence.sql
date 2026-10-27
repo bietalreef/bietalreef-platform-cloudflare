@@ -52,16 +52,19 @@ grant select (id, provider_public_profile_id, status)
 on public.platform_provider_accounts to anon;
 
 -- One canonical platform account; no duplicate provider or workspace.
--- An owner email is not required for a provider linked through the verified
--- public profile, and must not be invented or exposed to anonymous visitors.
-alter table public.platform_provider_accounts alter column owner_email drop not null;
+-- The owner's confirmed sign-in email is needed by the existing account
+-- lifecycle functions. Resolve it privately from the canonical auth account;
+-- never expose it through the public SELECT grant above.
 insert into public.platform_provider_accounts
-  (provider_public_profile_id, provider_numeric_id, display_name, status)
-select id, 2000029, name_ar, 'active'
-from public.provider_public_profiles
-where public_provider_code = 'BR-2000029' and slug = 'alrehab-home-clean'
+  (provider_public_profile_id, provider_numeric_id, display_name, owner_email, status)
+select pub.id, 2000029, pub.name_ar, lower(btrim(usr.email)), 'active'
+from public.provider_public_profiles pub
+join public.provider_profiles pp on pp.id = pub.provider_profile_id
+join auth.users usr on usr.id = pp.user_id and usr.email_confirmed_at is not null
+where pub.public_provider_code = 'BR-2000029' and pub.slug = 'alrehab-home-clean'
 on conflict (provider_public_profile_id) do update
-set status = 'active', display_name = excluded.display_name, updated_at = now();
+set status = 'active', display_name = excluded.display_name,
+    owner_email = excluded.owner_email, updated_at = now();
 
 -- Four actual, bilingual services from the canonical taxonomy link.
 -- Their existing APP is_published flags remain untouched.

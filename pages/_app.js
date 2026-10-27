@@ -51,7 +51,10 @@ export default function MyApp({ Component, pageProps }) {
   const isPreviewSurface = currentPath === '/preview/al-ain-responsive';
   const isEnglishPage = currentPath === '/en' || currentPath.startsWith('/en/');
   const isProviderProfile = /^\/(?:en\/)?providers\/(?!register(?:\/|$))[^/?#]+/.test(currentPath);
-  const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline|alrehab-home-clean)(?:\/|$)/.test(currentPath);
+  const isRehabPresence = /^\/(?:en\/)?providers\/alrehab-home-clean(?:\/|$)/.test(currentPath);
+  // Al Rehab now renders exclusively through its approved platform channel.
+  // Legacy overlays inject illustrative media and obsolete business details.
+  const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline)(?:\/|$)/.test(currentPath);
 
   useEffect(() => (isPreviewSurface || process.env.NEXT_PUBLIC_ISOLATED_REVIEW === "true") ? undefined : initPublicAnalytics(router), [router, isPreviewSurface]);
 
@@ -84,8 +87,8 @@ export default function MyApp({ Component, pageProps }) {
       <div className={isAppExperience(currentPath) ? "br-app" : undefined}>{navigating && isAppExperience(currentPath) && <div className="br-route-progress" role="progressbar" aria-label={isEnglishPage ? "Opening page" : "فتح الصفحة"} />}<Component {...pageProps} /></div>
       {!isPreviewSurface && <>
       <BusinessLandingMeta path={metadataPath} />
-      <FloatingWhatsAppSupport locale={isEnglishPage ? 'en' : 'ar'} />
-      {isProviderProfile ? (
+      {!isRehabPresence && <FloatingWhatsAppSupport locale={isEnglishPage ? 'en' : 'ar'} />}
+      {isProviderProfile && !isRehabPresence ? (
         <>
           <Head>
             <link rel="stylesheet" href="/styles/provider-profile.css" />

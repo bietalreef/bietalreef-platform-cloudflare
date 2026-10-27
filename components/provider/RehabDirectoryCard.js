@@ -10,15 +10,16 @@ export default function RehabDirectoryCard({ data, locale = 'ar' }) {
   const profile = data.profile;
   const title = nameFor(profile, locale);
   const intro = nameFor(profile, locale, 'short_description');
-  const logo = /^https:\/\//i.test(profile.logo_url || '') ? profile.logo_url : null;
+  const logo = data.media?.avatar || (/^https:\/\//i.test(profile.logo_url || '') ? profile.logo_url : null);
   const href = presencePath(locale);
 
   return (
     <article dir={ar ? 'rtl' : 'ltr'} className="overflow-hidden rounded-[1.5rem] border border-[#D8C79E] bg-white shadow-[0_16px_48px_rgba(18,42,73,.10)]">
+      {data.media?.cover ? <Link href={href} className="block"><img src={data.media.cover} alt={ar ? 'الغلاف المعتمد لشركة الرحاب في التطبيق' : 'Al Rehab approved app cover'} width="1376" height="386" loading="lazy" className="w-full object-cover" /></Link> : null}
       <div className="bg-gradient-to-r from-[#163958] to-[#122A49] px-5 py-7 text-white sm:px-7">
         <div className="flex items-center gap-4">
           <div className="flex h-20 w-20 shrink-0 items-center justify-center overflow-hidden rounded-2xl bg-white p-2">
-            {logo ? <img src={logo} alt={title} className="h-full w-full object-contain" loading="lazy" /> : <Building2 aria-hidden="true" className="h-9 w-9 text-[#B89149]" />}
+            {logo ? <img src={logo} alt={title} className="h-full w-full object-cover" loading="lazy" /> : <Building2 aria-hidden="true" className="h-9 w-9 text-[#B89149]" />}
           </div>
           <div className="min-w-0">
             <span className="inline-flex items-center gap-1 text-xs font-bold text-[#F4D698]"><BadgeCheck size={15} />{ar ? 'حضور موثق على المنصة' : 'Verified platform presence'}</span>

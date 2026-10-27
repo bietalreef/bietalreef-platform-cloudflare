@@ -11,6 +11,7 @@ import UaeSmartFooter from '../../../components/UaeSmartFooter';
 import SeoProofCards from '../../../components/SeoProofCards';
 import UaeDirectoryHero from '../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../components/UaeActivityProviders';
+import { getRehabSiteData } from '../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards';
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../components/UaeContextInfoCard';
@@ -24,7 +25,7 @@ function shouldShowAlHootPath(emirateSlug, serviceSlug) {
   return false;
 }
 
-function EmirateServiceHub({ emirate, service, emirateSlug }) {
+function EmirateServiceHub({ emirate, service, emirateSlug, rehab }) {
   const title = `${service.nameAr} في ${emirate.nameAr}`;
   const showAlHootPath = shouldShowAlHootPath(emirateSlug, service.slug);
   const faqItems = [
@@ -41,7 +42,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug }) {
         <SecondaryHeader backUrl={`/uae/${emirateSlug}`} backLabel={`العودة إلى ${emirate.nameAr}`} />
         <main>
           <UaeDirectoryHero locale="ar" title={title} description={service.descAr} emirate={emirate} service={service} cleanNavigation />
-          <UaeActivityProviders locale="ar" emirate={emirate} service={service} />
+          <UaeActivityProviders locale="ar" emirate={emirate} service={service} rehab={rehab} />
           {showAlHootPath && (
             <SeoProofCards
               title={`مسار حقيقي لخدمة ${service.nameAr} في ${emirate.nameAr}`}
@@ -61,12 +62,12 @@ function EmirateServiceHub({ emirate, service, emirateSlug }) {
   );
 }
 
-export default function AreaOrServicePage({ model, mode, emirate, area, service, emirateSlug, areaSlug, directoryCards = [] }) {
+export default function AreaOrServicePage({ model, mode, emirate, area, service, emirateSlug, areaSlug, directoryCards = [], rehab = null }) {
   if (model) return <LocalServicesPage model={model} />;
   if (!emirate) return null;
 
   if (mode === 'emirateService') {
-    return <EmirateServiceHub emirate={emirate} service={service} emirateSlug={emirateSlug} />;
+    return <EmirateServiceHub emirate={emirate} service={service} emirateSlug={emirateSlug} rehab={rehab} />;
   }
 
   if (!area) return null;
@@ -123,6 +124,7 @@ export async function getStaticProps({ params }) {
 
   if (!area && !service) return { notFound: true };
   const directoryCards = area ? await getArabicUaeDirectoryCards() : [];
+  const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData() : null;
 
   return {
     props: {
@@ -133,6 +135,7 @@ export async function getStaticProps({ params }) {
       emirateSlug,
       areaSlug: secondSlug,
       directoryCards,
+      rehab,
     },
     revalidate: 3600,
   };

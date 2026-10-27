@@ -13,12 +13,13 @@ import UaeDirectoryHero from '../../../../components/UaeDirectoryHero';
 import UaeDirectoryWeyaakCard from '../../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
+import { getRehabSiteData } from '../../../../lib/rehabPresence';
 import UaeDirectorySeo from '../../../../components/UaeDirectorySeo';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../data/siteTaxonomy';
 
 const AL_HOOT_SERVICE_SLUGS = ['marble-ceramic', 'building-materials', 'finishing-works'];
 
-export default function AreaServicePage({ model, emirate, area, service, emirateSlug, areaSlug }) {
+export default function AreaServicePage({ model, emirate, area, service, emirateSlug, areaSlug, rehab = null }) {
   if (model) return <LocalServicesPage model={model} />;
   const title = `${service.nameAr} في ${area.nameAr}`;
   const showAlHootPath = false;
@@ -38,7 +39,7 @@ export default function AreaServicePage({ model, emirate, area, service, emirate
           <UaeDirectoryHero locale="ar" title={title} description={service.descAr} emirate={emirate} area={area} service={service} cleanNavigation />
           <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`عن خدمة ${service.nameAr} في ${area.nameAr}`} description={`${service.descAr} تعرض الصفحة هذا التخصص ضمن موقعه الصحيح، مع مسار واضح للعودة إلى المنطقة والإمارة أو الانتقال إلى الطلب.`} />
           <UaeDirectoryWeyaakCard locale="ar" title={`اسأل وياك عن ${service.nameAr} في ${area.nameAr}`} description="أرسل تفاصيل الخدمة والمقاسات أو الصور المتاحة، وسيساعدك وياك في ترتيب الطلب وتوجيهه حسب المكان والتخصص." />
-          <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} />
+          <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} rehab={rehab} />
           {showAlHootPath && (
             <SeoProofCards
               title={`جهة وخدمة ومنتج داخل صفحة ${title}`}
@@ -71,7 +72,8 @@ export async function getStaticProps({ params }) {
   const area = getArea(emirateSlug, areaSlug);
   const service = getServiceCategory(serviceSlug);
   if (!emirate || !area || !service) return { notFound: true };
-  return { props: { emirate, area, service, emirateSlug, areaSlug }, revalidate: 3600 };
+  const rehab = service.slug === 'cleaning-services' ? await getRehabSiteData() : null;
+  return { props: { emirate, area, service, emirateSlug, areaSlug, rehab }, revalidate: 3600 };
 }
 
 export async function getStaticPaths() {

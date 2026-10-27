@@ -11,10 +11,11 @@ import SecondaryHeader from '../../../../../components/SecondaryHeader';
 import UaeDirectoryWeyaakCard from '../../../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../../components/UaeActivityProviders';
+import { getRehabSiteData } from '../../../../../lib/rehabPresence';
 import UaeDirectorySeo from '../../../../../components/UaeDirectorySeo';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../../data/siteTaxonomy';
 
-export default function EnglishLocalServicePage({ model, emirate, area, service }) {
+export default function EnglishLocalServicePage({ model, emirate, area, service, rehab = null }) {
   if (model) return <LocalServicesPage model={model} />;
   const title = `${service.nameEn} in ${area.nameEn}`;
   const faqItems = [
@@ -32,7 +33,7 @@ export default function EnglishLocalServicePage({ model, emirate, area, service 
           <UaeDirectoryHero locale="en" title={title} description={`Explore ${service.nameEn.toLowerCase()} information and provider paths for ${area.nameEn}, ${emirate.nameEn}.`} emirate={emirate} area={area} service={service} cleanNavigation />
           <UaeContextInfoCard locale="en" locationLabel={`${area.nameEn}, ${emirate.nameEn}`} title={`About ${service.nameEn} in ${area.nameEn}`} description={`This page places ${service.nameEn.toLowerCase()} in its correct location context and provides a clear path back to the area and emirate or forward to a project request.`} />
           <UaeDirectoryWeyaakCard locale="en" title={`Ask Weyaak about ${service.nameEn} in ${area.nameEn}`} description="Share the service details, measurements or available photos, and Weyaak will help structure and route the request by location and specialty." />
-          <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} />
+          <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} rehab={rehab} />
           <FAQ items={faqItems} title={`Frequently asked questions about ${title}`} />
           <UaeSmartFooter locale="en" pageType="service" emirate={emirate} area={area} service={service} />
         </main>
@@ -47,7 +48,8 @@ export async function getStaticProps({ params }) {
   const area = getArea(params.emirate, params.area);
   const service = getServiceCategory(params.service);
   if (!emirate || !area || !service) return { notFound: true };
-  return { props: { emirate, area, service }, revalidate: 3600 };
+  const rehab = service.slug === 'cleaning-services' ? await getRehabSiteData() : null;
+  return { props: { emirate, area, service, rehab }, revalidate: 3600 };
 }
 
 export async function getStaticPaths() {

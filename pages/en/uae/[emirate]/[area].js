@@ -8,6 +8,7 @@ import UaeSmartFooter from '../../../../components/UaeSmartFooter';
 import SeoProofCardsEn from '../../../../components/SeoProofCardsEn';
 import UaeDirectoryHero from '../../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
+import { getRehabSiteData } from '../../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../../components/UaeDirectorySectorCards';
 import SecondaryHeader from '../../../../components/SecondaryHeader';
 import UaeDirectoryWeyaakCard from '../../../../components/UaeDirectoryWeyaakCard';
@@ -16,7 +17,7 @@ import UaeDirectorySeo from '../../../../components/UaeDirectorySeo';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../data/siteTaxonomy';
 import { getEnglishUaeDirectoryCards } from '../../../../lib/platformDirectoryCards';
 
-function EnglishEmirateServiceHub({ emirate, service }) {
+function EnglishEmirateServiceHub({ emirate, service, rehab }) {
   const title = `${service.nameEn} in ${emirate.nameEn}`;
   const showSeoProof = false;
   const faqItems = [
@@ -32,7 +33,7 @@ function EnglishEmirateServiceHub({ emirate, service }) {
         <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={title} description={`Explore ${service.nameEn.toLowerCase()} providers and related locations across ${emirate.nameEn}.`} emirate={emirate} service={service} cleanNavigation />
-          <UaeActivityProviders locale="en" emirate={emirate} service={service} />
+          <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />
           {showSeoProof && (
             <SeoProofCardsEn
               title={`Real provider, service and product path for ${service.nameEn} in ${emirate.nameEn}`}
@@ -50,10 +51,10 @@ function EnglishEmirateServiceHub({ emirate, service }) {
   );
 }
 
-export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [] }) {
+export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], rehab = null }) {
   if (model) return <LocalServicesPage model={model} />;
   if (mode === 'emirateService') {
-    return <EnglishEmirateServiceHub emirate={emirate} service={service} />;
+    return <EnglishEmirateServiceHub emirate={emirate} service={service} rehab={rehab} />;
   }
 
   const pageData = {
@@ -101,6 +102,7 @@ export async function getStaticProps({ params }) {
 
   if (!area && !service) return { notFound: true };
   const directoryCards = area ? await getEnglishUaeDirectoryCards() : [];
+  const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData() : null;
 
   return {
     props: {
@@ -109,6 +111,7 @@ export async function getStaticProps({ params }) {
       area: area || null,
       service: service || null,
       directoryCards,
+      rehab,
     },
     revalidate: 3600,
   };

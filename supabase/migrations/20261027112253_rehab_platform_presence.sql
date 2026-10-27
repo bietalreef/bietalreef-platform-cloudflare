@@ -46,7 +46,15 @@ using (
   and (app_publication_status = 'published' or landing_page_status = 'published')
 );
 
+-- PostgREST needs a SQL grant as well as the RLS policy. Expose only the
+-- three non-sensitive identity fields; owner email stays private.
+grant select (id, provider_public_profile_id, status)
+on public.platform_provider_accounts to anon;
+
 -- One canonical platform account; no duplicate provider or workspace.
+-- An owner email is not required for a provider linked through the verified
+-- public profile, and must not be invented or exposed to anonymous visitors.
+alter table public.platform_provider_accounts alter column owner_email drop not null;
 insert into public.platform_provider_accounts
   (provider_public_profile_id, provider_numeric_id, display_name, status)
 select id, 2000029, name_ar, 'active'

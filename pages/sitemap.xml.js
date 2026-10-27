@@ -3,6 +3,7 @@ import { getLocalProviders } from '../lib/localProviderData';
 import { AREAS } from '../data/localServices';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
+import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
 import {
   UAE_DIRECTORY_SECTION_SLUGS,
   getArabicUaeDirectoryCards,
@@ -111,6 +112,32 @@ export async function getServerSideProps({ res }) {
       provider.coverImage || provider.logoImage
     );
   });
+
+  // Platform-channel publication is independent of Flutter app/market publication.
+  // Only crawlable records actually approved for the public platform are added.
+  try {
+    const rehab = await getRehabSiteData();
+    if (rehab) {
+      const routePairs = [{ kind: 'home' }];
+      for (const [kind, items] of [
+        ['services', rehab.services], ['offers', rehab.offers], ['service-areas', rehab.areas],
+      ]) {
+        if (!items.length) continue;
+        routePairs.push({ kind });
+        items.forEach((item) => routePairs.push({ kind, slug: item.slug }));
+      }
+      routePairs.forEach((route) => {
+        addPair(
+          presencePath('ar', route),
+          presencePath('en', route),
+          route.kind === 'home' ? rehab.profile.cover_image_url : undefined,
+          { priority: route.kind === 'home' ? 0.8 : 0.65 },
+        );
+      });
+    }
+  } catch (error) {
+    console.error('Sitemap provider channel unavailable:', error?.message);
+  }
 
   products
     .filter((product) => product.providerSlug !== 'arkleen')

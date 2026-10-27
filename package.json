@@ -12,6 +12,7 @@
     "start": "next start",
     "test:local-services": "node --test scripts/local-services.test.cjs",
     "test:local-growth": "node --test scripts/local-seo-growth.test.cjs",
+    "test:rehab:html": "node scripts/rehab-html-smoke.cjs",
     "check:google-edge": "tsc -p supabase/functions/tsconfig.json",
     "build:cloudflare": "opennextjs-cloudflare build",
     "preview:cloudflare": "opennextjs-cloudflare preview",

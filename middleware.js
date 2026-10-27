@@ -14,7 +14,10 @@ export function middleware(request) {
   const staging = isCloudflareStaging(request);
   const publicPath = pathname.replace(/^\/_next\/data\/[^/]+/, '').replace(/^\/en(?=\/)/, '').replace(/\.json$/, '');
   const privateListing = /^\/(products?|providers)\//.test(publicPath) && !/^\/providers\/(register|specialty)(\/|$)/.test(publicPath);
-  if (!PROVIDER_PUBLICATION_ENABLED && privateListing) {
+  // Al Rehab is served only from individually approved platform-channel records.
+  // All other provider and product listing gates retain their previous behavior.
+  const isolatedRehabPresence = /^\/providers\/alrehab-home-clean(?:\/|$)/.test(publicPath);
+  if (!PROVIDER_PUBLICATION_ENABLED && privateListing && !isolatedRehabPresence) {
     return new NextResponse('Not found', { status: 404, headers: { 'X-Robots-Tag': 'noindex', 'Cache-Control': 'no-store' } });
   }
   if (staging && pathname === '/robots.txt') {

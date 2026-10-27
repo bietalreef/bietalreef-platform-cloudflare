@@ -15,3 +15,4 @@ supabase/.temp/
 .open-next/
 .wrangler/
 cloudflare-env.d.ts
+.pnpm-store/

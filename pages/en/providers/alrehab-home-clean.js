@@ -1,2 +1,1 @@
-export default function UnpublishedListing() { return null; }
-export async function getServerSideProps() { return { notFound: true }; }
+export { default, getServerSideProps } from '../../../components/provider/AlrehabLanding';

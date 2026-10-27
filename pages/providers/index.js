@@ -20,6 +20,7 @@ import {
 import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../components/SectionBackBar';
 import RehabDirectoryCard from '../../components/provider/RehabDirectoryCard';
+import ProvidersSectorList from '../../components/ProvidersSectorList';
 import { getRehabSiteData } from '../../lib/rehabPresence';
 
 const steps = [
@@ -140,36 +141,32 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
           </div>
         </section>
 
-        <section id="provider-sectors" className="mx-auto max-w-6xl px-4 py-14 md:py-18">
-          <div className="mb-8 text-center md:text-right">
-            <span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">
+        <section id="provider-sectors" className="mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
+          <div className="mb-2 md:mb-8 md:text-right">
+            <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm md:inline-flex">
               7 قطاعات رئيسية
             </span>
-            <h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">اختر القطاع الأقرب لنشاطك</h2>
-            <p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">
+            <h2 className="text-base font-black text-[#0F3F1A] md:mt-4 md:text-4xl">الأقسام والتخصصات</h2>
+            <p className="mx-auto mt-3 hidden max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:block md:text-base">
               اختر القطاع المناسب للوصول إلى الشركات والتخصصات المرتبطة به ضمن رحلة تصفح واضحة ومتناسقة.
             </p>
           </div>
-
-          <ConstitutionalSectionCards
-            cards={directoryCards}
-            sectionKey="providers"
-            locale="ar"
-          />
+          <div className="md:hidden"><ProvidersSectorList cards={directoryCards} locale="ar" /></div>
+          <div className="hidden md:block"><ConstitutionalSectionCards cards={directoryCards} sectionKey="providers" locale="ar" /></div>
         </section>
 
-        <section className="mx-auto max-w-6xl px-4 py-14">
-          <div className="mb-10 text-center md:text-right">
-            <span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00]">
+        <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14">
+          <div className="mb-2 md:mb-10 md:text-right">
+            <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] md:inline-flex">
               شركاتن فعليون داخل المنصة
             </span>
-            <h2 className="mb-3 mt-4 text-3xl font-black text-[#0F3F1A]">شركاتن متاحون الآن</h2>
-            <p className="leading-8 text-gray-500">
+            <h2 className="text-base font-black text-[#0F3F1A] md:mb-3 md:mt-4 md:text-3xl">الشركات المتاحة الآن</h2>
+            <p className="hidden leading-8 text-gray-500 md:block">
               كل كارت يفتح ملف جهة فعليًا، مع معلومات النشاط والخدمات والمشاريع ومسارات التواصل وطلب التفاصيل.
             </p>
           </div>
 
-          <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+          <div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">
             {rehab ? <RehabDirectoryCard data={rehab} locale="ar" /> : null}
             {providers.map((provider) => (
               <ProviderCard key={provider.id} item={provider} />
@@ -177,7 +174,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
           </div>
         </section>
 
-        <section className="border-y border-[#E6DCC8] bg-white py-20">
+        <section className="hidden border-y border-[#E6DCC8] bg-white py-20 md:block">
           <div className="mx-auto max-w-6xl px-4">
             <div className="mb-16 text-center">
               <h2 className="mb-4 text-3xl font-black text-[#0F3F1A]">كيف تنضم لشبكة بيت الريف؟</h2>

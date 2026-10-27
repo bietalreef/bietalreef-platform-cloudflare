@@ -1,6 +1,6 @@
 {
   "status": "draft_only",
-  "preview_asset_package": "makkah_landing_preview_package.zip — conversation artifact; binary media NOT committed to this PR",
+  "preview_asset_package": "makkah_media_package_2026-10-27.zip — 8 separate WebP photo assets and 8 separate optional promo-poster WebPs; binary media NOT YET COMMITTED",
   "legal_identity": {
     "account_code": "BR-3000530",
     "verified_ar": "اضواء مكه لخدمات التنظيف",
@@ -31,37 +31,47 @@
   ],
   "services": [
     {
-      "slug": "carpet-sofa-steam",
-      "ar": "غسيل السجاد والكنب بالبخار",
-      "en": "Carpet and sofa steam cleaning",
-      "file": "service-carpet-sofa.webp"
+      "slug": "deep-villa-cleaning",
+      "ar": "تنظيف الفلل العميق",
+      "en": "Deep villa cleaning",
+      "file": "photo-service-deep-villa-cleaning.webp",
+      "poster_file": "service-deep-villa-cleaning.webp",
+      "taxonomy_slug": "homes-buildings-cleaning-302"
     },
     {
-      "slug": "tank-cleaning",
+      "slug": "pre-move-in-cleaning",
+      "ar": "تنظيف قبل السكن",
+      "en": "Pre-move-in cleaning",
+      "file": "photo-service-pre-move-in-cleaning.webp",
+      "poster_file": "service-pre-move-in-cleaning.webp",
+      "taxonomy_slug": "homes-buildings-cleaning-307"
+    },
+    {
+      "slug": "water-tank-cleaning",
       "ar": "تنظيف وتعقيم الخزانات",
-      "en": "Tank cleaning and sanitization",
-      "file": "service-water-tank.webp"
+      "en": "Water tank cleaning and sanitization",
+      "file": "photo-service-water-tank-cleaning.webp",
+      "poster_file": "service-water-tank-cleaning.webp",
+      "taxonomy_slug": "facades-tanks-cleaning-318"
     },
     {
-      "slug": "home-villa-cleaning",
-      "ar": "تنظيف المنازل والفلل",
-      "en": "Home and villa cleaning",
-      "file": "service-home-villa.webp"
-    },
-    {
-      "slug": "pool-courtyard",
+      "slug": "pool-yard-cleaning",
       "ar": "تنظيف المسابح والأحواش",
       "en": "Pool and courtyard cleaning",
-      "file": "service-pool-yard.webp"
+      "file": "photo-service-pool-yard-cleaning.webp",
+      "poster_file": "service-pool-yard-cleaning.webp",
+      "taxonomy_slug": "facades-tanks-cleaning-320"
     }
   ],
   "offers": [
     {
       "slug": "deep-villa-10",
-      "ar": "تنظيف فيلا عميق",
-      "en": "Deep villa cleaning",
+      "service_slug": "deep-villa-cleaning",
+      "ar": "خصم 10% على تنظيف الفلل العميق",
+      "en": "10% off deep villa cleaning",
+      "file": "photo-offer-deep-villa-cleaning.webp",
+      "poster_file": "offer-deep-villa-cleaning.webp",
       "discount_percent": 10,
-      "file": "offer-deep-villa.webp",
       "status": "draft",
       "approved": false,
       "valid_from": null,
@@ -70,10 +80,12 @@
     },
     {
       "slug": "pre-move-10",
-      "ar": "تنظيف قبل السكن",
-      "en": "Pre-move cleaning",
+      "service_slug": "pre-move-in-cleaning",
+      "ar": "خصم 10% على التنظيف قبل السكن",
+      "en": "10% off pre-move-in cleaning",
+      "file": "photo-offer-pre-move-in-cleaning.webp",
+      "poster_file": "offer-pre-move-in-cleaning.webp",
       "discount_percent": 10,
-      "file": "offer-before-move.webp",
       "status": "draft",
       "approved": false,
       "valid_from": null,
@@ -82,10 +94,12 @@
     },
     {
       "slug": "tank-sanitization-10",
-      "ar": "تنظيف وتعقيم الخزانات",
-      "en": "Tank cleaning and sanitization",
+      "service_slug": "water-tank-cleaning",
+      "ar": "خصم 10% على تنظيف وتعقيم الخزانات",
+      "en": "10% off tank cleaning and sanitization",
+      "file": "photo-offer-water-tank-cleaning.webp",
+      "poster_file": "offer-water-tank-cleaning.webp",
       "discount_percent": 10,
-      "file": "offer-water-tank.webp",
       "status": "draft",
       "approved": false,
       "valid_from": null,
@@ -94,10 +108,12 @@
     },
     {
       "slug": "pool-yard-10",
-      "ar": "تنظيف المسابح والأحواش",
-      "en": "Pool and courtyard cleaning",
+      "service_slug": "pool-yard-cleaning",
+      "ar": "خصم 10% على تنظيف المسابح والأحواش",
+      "en": "10% off pool and courtyard cleaning",
+      "file": "photo-offer-pool-yard-cleaning.webp",
+      "poster_file": "offer-pool-yard-cleaning.webp",
       "discount_percent": 10,
-      "file": "offer-pool-yard.webp",
       "status": "draft",
       "approved": false,
       "valid_from": null,
@@ -110,6 +126,40 @@
     "Confirm 3 approved service areas and taxonomy-linked services",
     "Upload reviewed image assets to platform media storage",
     "Confirm discount terms and platform card quota before enabling public offers",
-    "Use approved Next.js 15 Pages Router and existing company-directory components"
-  ]
+    "Use approved Next.js 15 Pages Router and existing company-directory components",
+    "Do not publish until account BR-3000530 is platform-published and provider identity matches verified trading name",
+    "Do not include draft or unapproved offers in public route or sitemap",
+    "Check all eight WebP files exist at asset_directory and return HTTP 200 before merging",
+    "Verify legal/service coverage for Al Ain separately from Abu Dhabi emirate coverage"
+  ],
+  "media_policy": {
+    "brand_palette": [
+      "#133d29",
+      "#bb973b",
+      "#f9f6ee"
+    ],
+    "image_provenance": "AI-created illustrations — not verified photographs of company work",
+    "image_text_strategy": "Use photo-* for HTML cards; show localizable titles, calls-to-action and any approved discount as semantic HTML outside images",
+    "asset_directory": "public/images/providers/makkah-cleaning/",
+    "required_media_files": [
+      "photo-service-deep-villa-cleaning.webp",
+      "photo-service-pre-move-in-cleaning.webp",
+      "photo-service-water-tank-cleaning.webp",
+      "photo-service-pool-yard-cleaning.webp",
+      "photo-offer-deep-villa-cleaning.webp",
+      "photo-offer-pre-move-in-cleaning.webp",
+      "photo-offer-water-tank-cleaning.webp",
+      "photo-offer-pool-yard-cleaning.webp"
+    ],
+    "optional_posters": [
+      "service-deep-villa-cleaning.webp",
+      "service-pre-move-in-cleaning.webp",
+      "service-water-tank-cleaning.webp",
+      "service-pool-yard-cleaning.webp",
+      "offer-deep-villa-cleaning.webp",
+      "offer-pre-move-in-cleaning.webp",
+      "offer-water-tank-cleaning.webp",
+      "offer-pool-yard-cleaning.webp"
+    ]
+  }
 }

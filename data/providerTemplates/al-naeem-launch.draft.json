@@ -27,10 +27,12 @@
     "whatsapp_e164": "971522837071",
     "call_url": "tel:+971522837071",
     "whatsapp_url": "https://wa.me/971522837071",
-    "logo_url": null,
+    "logo_url": "/images/providers/al-naeem/logo.svg",
     "cover_image_url": null,
     "google_maps_url": null,
-    "contact_verification": "user provided; not independently verified"
+    "contact_verification": "user provided; not independently verified",
+    "avatar_image_url": "/images/providers/al-naeem/logo.svg",
+    "media_status": "Logo ready; original photographic images are illustrative and not uploaded to this branch; attach and review before production use."
   },
   "taxonomy": {
     "category_slug": "cleaning-services",

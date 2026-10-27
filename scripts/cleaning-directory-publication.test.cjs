@@ -29,3 +29,9 @@ test('Public company detail uses bilingual approved SEO data, not synthetic fixe
  assert.match(p,/detailSeo\.faqs/);
  assert.match(p,/rel="canonical"/);
 });
+
+test('Local sitemap requires platform-channel source evidence, not unpublished Flutter service flag',()=>{
+ const gate=read('lib/localServices.js');
+ assert.match(gate,/item\.provenance === 'platform_content_cards'/);
+ assert.doesNotMatch(gate,/item\.provenance === 'provider_services'/);
+});

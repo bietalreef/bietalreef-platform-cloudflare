@@ -50,7 +50,7 @@ export default function MakkahDraftDetailPage({ locale='ar', section, slug }) {
           <div className="space-y-4 p-5 md:p-8">
             <p className="inline-flex rounded-full bg-[#f2e8cf] px-3 py-1 text-xs font-bold">{t.preview}</p>
             <h1 className="text-3xl font-extrabold leading-tight">{name}</h1>
-            <p className="leading-8 text-[#496250]">{section==='offers'?t.booking:t.description}</p>
+            <p className="leading-8 text-[#496250]">{section==='offers'?t.booking:(en?item.description_en:item.description_ar)||t.description}</p>
             <p className="text-sm leading-7">{t.areas}</p>
             <a href={'https://wa.me/971545575370?text='+subject} target="_blank" rel="noopener noreferrer" className="inline-flex rounded-xl bg-[#133d29] px-5 py-3 font-bold text-white">{t.inquiry}</a>
           </div>

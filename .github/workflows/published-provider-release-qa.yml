@@ -22,4 +22,14 @@ jobs:
       - name: Frozen install
         run: pnpm install --frozen-lockfile
       - name: Next.js 15 Pages Router build
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co
+          NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_QXLpvjjb8LtUqfv0oeV1Ag_p0_zPV_B
         run: pnpm build
+      - name: Published company route contract
+        run: node --test scripts/published-company-release.test.cjs
+      - name: Cloudflare credential availability (no value disclosed)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then echo 'Cloudflare secret is configured'; else echo 'Cloudflare secret is not configured'; fi

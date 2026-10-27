@@ -4,6 +4,7 @@ import { AREAS } from '../data/localServices';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
+import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
 import {
   UAE_DIRECTORY_SECTION_SLUGS,
   getArabicUaeDirectoryCards,
@@ -137,6 +138,20 @@ export async function getServerSideProps({ res }) {
     }
   } catch (error) {
     console.error('Sitemap provider channel unavailable:', error?.message);
+  }
+
+  // Add only approved, publicly reachable company subsections. Unapproved
+  // offers, drafts and inactive accounts are excluded at source.
+  try {
+    const companies = await getPublishedCompanySitemapRoutes();
+    for (const company of companies) {
+      if (company.slug === 'alrehab-home-clean') continue; // legacy paths above
+      for (const route of company.routes) {
+        addPair(companyPath(company.slug, 'ar', route.kind, route.slug), companyPath(company.slug, 'en', route.kind, route.slug), route.kind === 'home' ? company.cover : null, { priority: route.kind === 'home' ? 0.8 : 0.65 });
+      }
+    }
+  } catch (error) {
+    console.error('Unable to collect publicly published company pages for sitemap:', error?.message);
   }
 
   products

@@ -25,4 +25,7 @@ jobs:
       - name: Publication contract
         run: node --test scripts/cleaning-directory-publication.test.cjs
       - name: Next.js 15 Pages Router build
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co
+          NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_QXLpvjjb8LtUqfv0oeV1Ag_p0_zPV_B
         run: pnpm build

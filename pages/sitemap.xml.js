@@ -44,6 +44,12 @@ function buildSitemapXml(entries) {
   const uniqueEntries = Array.from(
     entries.reduce((map, entry) => {
       if (!map.has(entry.loc)) map.set(entry.loc, entry);
+      else if (entry.lastmod) {
+        const previous = map.get(entry.loc);
+        if (!previous.lastmod || entry.lastmod > previous.lastmod) {
+          map.set(entry.loc, { ...previous, lastmod: entry.lastmod });
+        }
+      }
       return map;
     }, new Map()).values(),
   ).sort((left, right) => left.loc.localeCompare(right.loc));

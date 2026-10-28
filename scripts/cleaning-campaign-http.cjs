@@ -62,6 +62,10 @@ async function main() {
   for (const company of companies) assert.equal((await fetch(origin + '/providers/' + company + '/services/not-a-published-service')).status, 404, 'unknown service must be a real 404');
   const sitemap = await (await fetch(origin + '/sitemap.xml')).text();
   for (const company of companies) assert.ok(sitemap.includes('https://bietalreef.ae/providers/' + company), 'company in sitemap');
+  for (const company of companies) {
+    const entry = [...sitemap.matchAll(/<url>([\s\S]*?)<\/url>/g)].find(match => match[1].includes(`<loc>https://bietalreef.ae/providers/${company}</loc>`));
+    assert.ok(entry?.[1].includes('<lastmod>2026-10-28</lastmod>'), 'edited company date survives sitemap deduplication');
+  }
   assert.ok(!sitemap.includes('https://bietalreef.ae/providers/alrehab-home-clean/offers<'), 'empty collection excluded');
   const local = await (await fetch(origin + '/uae/abu-dhabi/al-ain/cleaning-services/sofa-cleaning')).text();
   assert.ok(local.includes('/providers/alrehab-home-clean/services/sofa-cleaning'), 'local intent links directly to Rehab service');

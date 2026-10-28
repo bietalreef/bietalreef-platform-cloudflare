@@ -25,7 +25,7 @@ function Collections({items,kind,locale,slug,cover}){
  return <div className="grid gap-2.5 sm:grid-cols-2 lg:grid-cols-3">{items.map(item=><Link href={companyPath(slug,locale,kind,item.slug)} key={item.id} className="group flex min-w-0 items-center gap-3 overflow-hidden rounded-2xl border border-[#e8e0d1] bg-white p-2 shadow-sm transition hover:border-[#b99b61] sm:block sm:p-0">
    {kind==='service-areas'?<div className="flex h-20 w-24 shrink-0 items-center justify-center rounded-xl bg-[#f1ece0] text-[#9c7a38] sm:h-44 sm:w-full"><MapPin size={31}/></div>:
    safeImg(item.image)?<img alt={text(item,locale)} src={safeImg(item.image)} width="400" height="250" loading="lazy" className="h-20 w-24 shrink-0 rounded-xl object-cover sm:h-44 sm:w-full sm:rounded-none"/>:<div className="flex h-20 w-24 shrink-0 items-center justify-center rounded-xl bg-[#f1ece0] sm:h-44 sm:w-full"><Building2/></div>}
-   <span className="flex min-w-0 flex-1 flex-col justify-center p-1 sm:p-4">{kind==='offers'&&item.discount_percent===10?<span className="mb-1 w-fit rounded-full bg-[#eee0bf] px-2.5 py-1 text-xs font-black text-[#634718]">{locale==='ar'?'خصم 10%':'10% OFF'}</span>:null}<strong className="text-sm text-[#18334c] sm:text-lg">{text(item,locale)}</strong>{text(item,locale,'description')?<span className="mt-1 line-clamp-2 text-xs leading-5 text-slate-600 sm:line-clamp-3">{text(item,locale,'description')}</span>:null}<span className="mt-2 inline-flex items-center gap-1 text-xs font-bold text-[#8b6c37] sm:text-sm">{t.details}<ChevronLeft size={14}/></span></span>
+   <span className="flex min-w-0 flex-1 flex-col justify-center p-1 sm:p-4">{kind==='offers'&&item.discount_percent===10?<span className="mb-1 w-fit rounded-full bg-[#eee0bf] px-2.5 py-1 text-xs font-black text-[#634718]">{locale==='ar'?'خصم 10%':'10% OFF'}</span>:null}{item.image_illustrative?<small className="mb-1 text-[10px] text-slate-500">{locale==='ar'?'صورة توضيحية':'Illustrative photo'}</small>:null}<strong className="text-sm text-[#18334c] sm:text-lg">{text(item,locale)}</strong>{text(item,locale,'description')?<span className="mt-1 line-clamp-2 text-xs leading-5 text-slate-600 sm:line-clamp-3">{text(item,locale,'description')}</span>:null}{item.image_attribution?.author?<small className="mt-1 text-[10px] text-slate-500">{item.image_attribution.author} · {item.image_attribution.license}</small>:null}<span className="mt-2 inline-flex items-center gap-1 text-xs font-bold text-[#8b6c37] sm:text-sm">{t.details}<ChevronLeft size={14}/></span></span>
  </Link>)}</div>;
 }
 function Section({title,url,children,locale}){
@@ -71,7 +71,15 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
    </span>
   </nav>
  </header>
- {cover?<img src={cover} alt={name} fetchPriority="high" width="1200" height="340" className="mx-auto block max-h-80 w-full max-w-6xl object-contain bg-white"/>:null}
+ {cover?(profile.cover_media_is_illustrative?<div className="relative mx-auto h-56 max-w-6xl overflow-hidden bg-[#1e364a] sm:h-80">
+   <img src={cover} alt={rtl?'صورة توضيحية لخدمات التنظيف':'Illustrative cleaning services photograph'} fetchPriority="high" width="1600" height="650" className="absolute inset-0 h-full w-full object-cover"/>
+   <div className="absolute inset-0 bg-gradient-to-t from-[#142c45]/95 via-[#142c45]/40 to-transparent"/>
+   <div className="absolute inset-x-0 bottom-0 flex items-end gap-3 px-4 pb-5 text-white sm:px-8 sm:pb-7">
+     {safeImg(profile.logo_url)?<img src={profile.logo_url} alt={rtl?'شعار الشركة':'Company logo'} width="65" height="65" className="h-12 w-12 shrink-0 rounded-xl border-2 border-white/80 bg-white object-contain p-1 shadow-lg sm:h-16 sm:w-16"/>:null}
+     <div><p className="mb-1 text-[11px] text-white/80">{rtl?'صورة توضيحية — ليست تصويرًا موثقًا لأعمال الشركة':'Illustrative photo — not documented company work'}</p>
+       <p className="text-lg font-extrabold leading-snug sm:text-3xl">{name}</p></div>
+   </div>
+  </div>:<img src={cover} alt={name} fetchPriority="high" width="1200" height="340" className="mx-auto block max-h-80 w-full max-w-6xl object-contain bg-white"/>):null}
  <div className="mx-auto max-w-6xl border-b border-[#e7ddcc] bg-white px-4 py-5 sm:rounded-b-2xl sm:px-7">
   <nav className="mb-2 flex items-center gap-2 text-xs text-[#755f34]"><Link href={locale==='en'?'/en/providers':'/providers'}>{t.allCompanies}</Link><span>/</span><Link href={companyPath(slug,locale)}>{name}</Link>{section!=='home'?<span>/ {pageLabel}</span>:null}</nav>
   <span className="inline-flex items-center gap-1 rounded-full bg-[#f6eedc] px-3 py-1 text-xs font-bold text-[#82682f]"><ShieldCheck size={14}/>{t.verified}</span>
@@ -87,7 +95,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
   <Section title={t.location} url={companyPath(slug,locale,'service-areas')} locale={locale}><Collections locale={locale} slug={slug} kind="service-areas" items={areas}/></Section>
  </>:detail? <Section title={pageLabel} locale={locale}>
    <div className="grid overflow-hidden rounded-2xl border border-[#e6dece] bg-white md:grid-cols-2">
-   {detail.image?<img src={detail.image} alt={pageLabel} width="600" height="350" className="h-56 w-full object-cover md:h-full"/>:null}
+   {detail.image?<figure className="min-w-0"><img src={detail.image} alt={pageLabel} width="600" height="350" className="h-56 w-full object-cover md:h-80"/>{detail.image_illustrative?<figcaption className="px-3 py-1.5 text-[11px] text-slate-500">{rtl?'صورة توضيحية للخدمة، وليست من أعمال الشركة':'Illustrative service photo, not company work'}{detail.image_attribution?.author?<> · {detail.image_attribution.author} · <a href={detail.image_attribution.source} target="_blank" rel="noreferrer" className="underline">{detail.image_attribution.license}</a></>:null}</figcaption>:null}</figure>:null}
    <div className="p-5">{section==='offers'&&detail.discount_percent===10?<span className="mb-3 inline-flex rounded-lg bg-[#eee0bf] px-3 py-2 text-lg font-black text-[#5f4720]">{rtl?'خصم 10% على الخدمة':'10% discount on this service'}</span>:null}<p className="leading-8 text-slate-700">{text(detail,locale,'description')||t.description}</p>{section==='offers'&&detail.linked_service_slug?<Link className="mt-3 inline-flex rounded-lg border border-[#ceb77c] px-4 py-2 text-sm font-semibold text-[#173d31]" href={companyPath(slug,locale,'services',detail.linked_service_slug)}>{rtl?'اقرأ تفاصيل الخدمة الأصلية':'View the original service'}</Link>:null}{section==='service-areas'?<p className="mt-2 leading-7 text-slate-500">{t.areaNotice}</p>:null}{wa?<a href={wa} className="mt-4 inline-flex rounded-xl bg-[#183d31] px-5 py-3 font-bold text-white">{t.direct}</a>:null}</div>
    </div>
    {section==='services'&&detailSeo?<div className="mt-5 grid gap-4 lg:grid-cols-2">

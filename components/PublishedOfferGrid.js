@@ -25,6 +25,8 @@ export default function PublishedOfferGrid({ items = [], locale = 'ar' }) {
           <div className="flex flex-1 flex-col p-3 sm:p-4">
             <h3 className="text-sm font-extrabold leading-6 text-[#21374f] sm:text-base"><Link href={item.href}>{item.name}</Link></h3>
             <p className="mt-1 line-clamp-3 text-xs leading-6 text-slate-600">{item.description}</p>
+            {item.imageIllustrative?<small className="mt-1 text-[10px] text-slate-500">{en?'Illustrative photo, not provider work':'صورة توضيحية وليست من أعمال الشركة'}</small>:null}
+            {item.photoAttribution?.author?<small className="mt-1 text-[10px] text-slate-500">{item.photoAttribution.author} · <a href={item.photoAttribution.source} target="_blank" rel="noreferrer" className="underline">{item.photoAttribution.license}</a></small>:null}
             <Link className="mt-2 text-xs font-semibold text-[#786039]" href={item.providerHref}>{item.providerName}</Link>
             <div className="mt-auto flex flex-wrap items-center justify-between gap-2 pt-4 text-xs font-bold">
               <Link href={item.href} className="inline-flex items-center gap-1 rounded-lg bg-[#20354a] px-3 py-2.5 text-white">{en?'Offer details':'تفاصيل العرض'}<Arrow size={15}/></Link>

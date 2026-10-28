@@ -6,6 +6,7 @@ import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
 import { getAlNaeemData, alNaeemPath } from '../lib/alNaeemPresence';
+import { CLEANING_CONTENT_UPDATED_AT } from '../lib/cleaningLandingContent';
 import {
   UAE_DIRECTORY_SECTION_SLUGS,
   getArabicUaeDirectoryCards,
@@ -133,7 +134,7 @@ export async function getServerSideProps({ res }) {
           presencePath('ar', route),
           presencePath('en', route),
           route.kind === 'home' ? rehab.profile.cover_image_url : undefined,
-          { priority: route.kind === 'home' ? 0.8 : 0.65 },
+          { priority: route.kind === 'home' ? 0.8 : 0.65, lastmod: CLEANING_CONTENT_UPDATED_AT },
         );
       });
     }
@@ -171,7 +172,7 @@ export async function getServerSideProps({ res }) {
         for (const item of items) routes.push({kind,slug:item.slug});
       }
       for (const route of routes) {
-        addPair(alNaeemPath('ar',route),alNaeemPath('en',route),route.kind==='home'?alNaeem.profile.cover_image_url:null,{priority:route.kind==='home'?0.78:0.65});
+        addPair(alNaeemPath('ar',route),alNaeemPath('en',route),route.kind==='home'?alNaeem.profile.cover_image_url:null,{priority:route.kind==='home'?0.78:0.65,lastmod:CLEANING_CONTENT_UPDATED_AT});
       }
     }
   } catch (error) {

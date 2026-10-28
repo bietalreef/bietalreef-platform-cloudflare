@@ -1,0 +1,6 @@
+const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict'),ts=require(process.cwd()+'/node_modules/typescript');
+const code=ts.transpileModule(fs.readFileSync('lib/directoryCompanyCards.js','utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText;
+const sandbox={exports:{}};vm.runInNewContext(code,sandbox);const {uniqueCompanyCards,directoryCompanyCards}=sandbox.exports;
+const cards=uniqueCompanyCards([{href:'/providers/alrehab-home-clean',name:'preferred'},{href:'/en/providers/alrehab-cleaning-sanitizing?x=1',name:'duplicate'},{href:'/providers/adwaa-makkah-cleaning'}]);assert.equal(cards.length,2);assert.equal(cards[0].name,'preferred');
+assert.equal(directoryCompanyCards([],null,null).length,0);
+const {resolveLanguagePaths,buildSearchIndexEntries}=require(process.cwd()+'/lib/searchIndexRoutes');const entries=buildSearchIndexEntries();assert.equal(new Set(entries.map(e=>e.loc)).size,entries.length);for(const e of entries){const p=resolveLanguagePaths(e.path);assert.equal('https://bietalreef.ae'+p.arabicPath,e.alternates.ar);assert.equal('https://bietalreef.ae'+p.englishPath,e.alternates.en)}assert.equal(resolveLanguagePaths('/en/service-inquiry?a=b').arabicPath,'/inquiry'); console.log('Directory deduplication and all sitemap language pairs passed');

@@ -1,33 +1,10 @@
+import { resolveLanguagePaths } from '../lib/searchIndexRoutes';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
 
 const SITE_DOMAIN = 'https://bietalreef.ae';
 const SITE_NAME = 'بيت الريف';
 const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/images/seo/home/hero-main.webp';
-const MIRRORED_ENGLISH_ROUTES = new Set([
-  '/', '/app', '/android', '/web-app', '/ios', '/about', '/why-biet-alreef', '/how-it-works', '/pricing',
-  '/contact', '/services', '/marketplace', '/tools', '/weyaak', '/providers',
-  '/categories', '/customer-service', '/privacy', '/legal', '/cookies',
-  '/partners', '/suppliers', '/factories', '/faq', '/support-policy', '/providers/register',
-]);
-
-function englishAlternateFor(path) {
-  if (path === '/') return '/en';
-  if (MIRRORED_ENGLISH_ROUTES.has(path) || path.startsWith('/providers/') || path.startsWith('/categories/')) {
-    return `/en${path}`;
-  }
-  return null;
-}
-
-function localePaths(path) {
-  const isEnglish = path === '/en' || path.startsWith('/en/');
-  if (isEnglish) {
-    const arabicPath = path === '/en' ? '/' : path.slice(3) || '/';
-    return { isEnglish, arabicPath, englishPath: path };
-  }
-  return { isEnglish, arabicPath: path, englishPath: englishAlternateFor(path) };
-}
-
 export default function SEOHead({
   title,
   description,
@@ -44,9 +21,9 @@ export default function SEOHead({
   alternatePath,
 }) {
   const router = useRouter();
-  const cleanPath = canonicalPath || router.asPath.split('?')[0];
+  const cleanPath = String(canonicalPath || router.asPath).replace(SITE_DOMAIN, '').split(/[?#]/)[0] || '/';
   const canonicalUrl = cleanPath === '/' || cleanPath === '' ? SITE_DOMAIN : `${SITE_DOMAIN}${cleanPath}`;
-  const paths = localePaths(cleanPath);
+  const paths = resolveLanguagePaths(cleanPath);
   const enPath = alternatePath || paths.englishPath;
   const arabicUrl = paths.arabicPath === '/' ? SITE_DOMAIN : `${SITE_DOMAIN}${paths.arabicPath}`;
   const englishUrl = enPath ? `${SITE_DOMAIN}${enPath}` : null;

@@ -1,3 +1,4 @@
+import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import Image from 'next/image';
 import Link from 'next/link';
 import { ArrowLeft, BadgeCheck, MapPin, MessageCircle } from 'lucide-react';
@@ -67,31 +68,7 @@ function DirectoryProviderCard({ provider, emirateSlug, locale }) {
     summary: isEn ? provider.descriptionEn || provider.descriptionAr : provider.descriptionAr,
     profilePath: href,
   }) || href;
-  return (
-    <article className="overflow-hidden rounded-[2rem] border border-[#E1D4BD] bg-white shadow-[0_16px_42px_rgba(15,63,26,.08)]">
-      <div className="relative h-44 bg-[#F3EEE4]">
-        <Image src={provider.cover || provider.logo} alt={name} fill className="object-cover" sizes="(max-width: 768px) 92vw, 560px" />
-      </div>
-      <div className="relative px-5 pb-5 pt-14">
-        <div className={`absolute -top-11 ${isEn ? 'left-5' : 'right-5'} flex h-22 w-22 h-[88px] w-[88px] items-center justify-center overflow-hidden rounded-full border-4 border-white bg-white shadow-lg`}>
-          <Image src={provider.logo} alt={isEn ? `${name} logo` : `شعار ${name}`} fill className="object-contain p-1" sizes="88px" />
-        </div>
-        <div className="flex items-start justify-between gap-3">
-          <div>
-            <h3 className="text-xl font-black leading-8 text-[#0F3F1A]">{name}</h3>
-            <p className="mt-2 flex items-center gap-1.5 text-sm font-bold text-[#6B5530]"><MapPin className="h-4 w-4" />{isEn ? 'Provider location:' : 'موقع الشركة:'} {primaryLocationLabel(provider, locale)}</p>
-            <p className="mt-1 text-xs font-bold leading-6 text-gray-500">{isEn ? 'Service coverage:' : 'نطاق تقديم الخدمة:'} {locationLabel(provider, emirateSlug, locale)}</p>
-          </div>
-          {provider.verified ? <BadgeCheck className="h-6 w-6 shrink-0 text-[#B8860B]" aria-label={isEn ? 'Verified' : 'موثّق'} /> : null}
-        </div>
-        <p className="mt-4 rounded-xl bg-[#F8F4EB] px-3 py-2 font-mono text-xs font-black text-[#0F3F1A]" dir="ltr">{provider.providerId}</p>
-        <div className="mt-4 grid grid-cols-2 gap-2">
-          <Link href={href} className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl bg-[#0F3F1A] px-3 text-sm font-black text-white">{isEn ? 'Open profile' : 'فتح الملف'}<ArrowLeft className={`h-4 w-4 ${isEn ? 'rotate-180' : ''}`} /></Link>
-          <a href={whatsapp} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded-xl border border-[#DCCBAE] px-3 text-sm font-black text-[#0F3F1A]"><MessageCircle className="h-4 w-4" />{isEn ? 'Contact' : 'تواصل'}</a>
-        </div>
-      </div>
-    </article>
-  );
+  return <DirectoryCompanyCard locale={locale} item={{id:provider.slug,href,name,city:primaryLocationLabel(provider,locale),summary:isEn?provider.descriptionEn||provider.descriptionAr:provider.descriptionAr,coverImage:provider.cover,logoImage:provider.logo,verified:provider.verified,whatsapp,phone:provider.phone,specialties:(provider.directoryServices||[]).map(s=>isEn?s.nameEn:s.nameAr).filter(Boolean)}}/>;
 }
 
 export default function UaeActivityProviders({ emirate, area = null, service, locale = 'ar', rehab = null }) {
@@ -106,7 +83,7 @@ export default function UaeActivityProviders({ emirate, area = null, service, lo
     && AL_NAEEM_EDITORIAL_DATA.areas.some(location => location.slug === naeemCoverageSlug)
     && (emirate.slug !== 'abu-dhabi' || area?.slug === 'al-ain');
   // Removed from these directory listings at the owner's request; retain its profile.
-  const providers = directoryProviders.filter((provider) => provider.providerId !== 'BR-PROV-ALR-001' && coversLocation(provider, emirate.slug, area?.slug) && matchesSector(provider, service.slug));
+  const providers = directoryProviders.filter((provider) => !(showRehab && ['alrehab-home-clean','alrehab-cleaning-sanitizing'].includes(provider.slug)) && !(showNaeem && provider.slug === 'al-naeem-cleaning-services') && provider.providerId !== 'BR-PROV-ALR-001' && coversLocation(provider, emirate.slug, area?.slug) && matchesSector(provider, service.slug));
   const locationName = area ? (isEn ? area.nameEn : area.nameAr) : (isEn ? emirate.nameEn : emirate.nameAr);
   return (
     <section dir={isEn ? 'ltr' : 'rtl'} className="mx-auto max-w-6xl px-4 py-12 md:py-16">

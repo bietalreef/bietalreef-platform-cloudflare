@@ -69,7 +69,7 @@ export default function ProviderSpecialtyView({ service, providers, locale = 'ar
 
       <section className="mx-auto max-w-6xl px-4 py-14">
         <div className={`mb-8 ${isEn ? 'text-left' : 'text-right'}`}><span className="inline-flex items-center gap-2 rounded-full bg-[#FFF8E5] px-4 py-2 text-xs font-black text-[#8A6A00]"><Sparkles className="h-4 w-4" />{isEn ? 'Published from approved provider data' : 'منشور من بيانات الشركات المعتمدة'}</span><h2 className="mt-4 text-3xl font-black">{isEn ? 'Available providers now' : 'شركات متاحون الآن'}</h2></div>
-        {providers.length || rehab ? <div className="grid items-start gap-6 md:grid-cols-2">{rehab ? <RehabDirectoryCard data={rehab} locale={locale} /> : null}{providers.map((provider) => {
+        {providers.length || rehab ? <div className="grid items-start gap-6 md:grid-cols-2">{rehab ? <RehabDirectoryCard data={rehab} locale={locale} /> : null}{providers.filter(provider => !(rehab && (provider.slug === 'alrehab-home-clean' || provider.href?.replace('/en/', '/') === '/providers/alrehab-home-clean'))).map((provider) => {
           const item = provider.entityType === 'provider'
             ? {
               ...provider,

@@ -51,6 +51,21 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      { source: '/cleaning-uae', destination: '/categories/cleaning-services', permanent: true },
+      { source: '/en/cleaning-uae', destination: '/en/categories/cleaning-services', permanent: true },
+      { source: '/maintenance-uae', destination: '/categories/general-maintenance', permanent: true },
+      { source: '/en/maintenance-uae', destination: '/en/categories/general-maintenance', permanent: true },
+      { source: '/furniture-uae', destination: '/categories/furniture-decor', permanent: true },
+      { source: '/en/furniture-uae', destination: '/en/categories/furniture-decor', permanent: true },
+      { source: '/electrical-contractors-uae', destination: '/categories/electrical', permanent: true },
+      { source: '/en/electrical-contractors-uae', destination: '/en/categories/electrical', permanent: true },
+      { source: '/equipment-rental-uae', destination: '/categories/equipment-rental', permanent: true },
+      { source: '/en/equipment-rental-uae', destination: '/en/categories/equipment-rental', permanent: true },
+      { source: '/villa-renovation-uae', destination: '/categories/finishing-works', permanent: true },
+      { source: '/en/villa-renovation-uae', destination: '/en/categories/finishing-works', permanent: true },
+      { source: '/providers/provider-2000029', destination: '/providers/alrehab-home-clean', permanent: true },
+      { source: '/en/providers/provider-2000029', destination: '/en/providers/alrehab-home-clean', permanent: true },
+
       { source: '/favicon.ico', destination: '/icons/favicon-48.png', permanent: true },
       ...AREAS.flatMap(area => ['', '/en'].map(prefix => ({ source: `${prefix}/uae/abu-dhabi/${area.slug}`, destination: `${prefix}/uae/abu-dhabi/al-ain/${area.slug}`, permanent: true }))),
       ...AREAS.flatMap(area => ['', '/en'].map(prefix => ({ source: `${prefix}/uae/abu-dhabi/${area.slug}/cleaning-services`, destination: `${prefix}/uae/abu-dhabi/al-ain/${area.slug}/cleaning-services`, permanent: true }))),

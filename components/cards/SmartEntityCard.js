@@ -1,3 +1,4 @@
+import DirectoryCompanyCard from '../provider/DirectoryCompanyCard';
 import Image from 'next/image';
 import Link from 'next/link';
 import {
@@ -100,96 +101,7 @@ function GoogleMapMark() {
 }
 
 function UnifiedProviderCard({ item }) {
-  const isEnglish = item.href?.startsWith('/en/');
-  const isArkleen =
-    item.href === '/providers/arkleen' ||
-    item.href === '/en/providers/arkleen' ||
-    item.name?.includes('أركلين') ||
-    item.name?.includes('ARKLEEN');
-  const copy = isEnglish
-    ? { fallbackName: 'Business / Professional', fallbackCity: 'UAE', fallbackArea: '', fallbackType: 'Business / Professional', servicesLabel: 'Main services', map: 'Location on Google Maps', open: 'Open profile', whatsapp: 'WhatsApp', verified: 'Verified account' }
-    : { fallbackName: 'شركة / مهني', fallbackCity: 'الإمارات', fallbackArea: '', fallbackType: 'شركة / مهني', servicesLabel: 'الخدمات الرئيسية', map: 'الموقع على خرائط Google', open: 'فتح الملف', whatsapp: 'واتساب', verified: 'حساب موثق' };
-  const serviceIcons = [Home, Package, Store];
-  const services = (item.specialties || []).slice(0, 3).map((label, index) => ({
-    label,
-    Icon: serviceIcons[index],
-  }));
-  const mapHref = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${item.name || copy.fallbackName} ${item.city || copy.fallbackCity} ${item.area || copy.fallbackArea}`)}`;
-
-  return (
-    <CardShell
-      href={item.href}
-      className="border-[#D7C7A7] bg-white shadow-[0_18px_48px_rgba(41,63,45,.12)]"
-    >
-      <div className="relative h-48 overflow-hidden bg-[#EFE7D8] sm:h-52">
-        <Image
-          src={item.coverImage || '/images/providers/arkline/arkline-hero-exterior.webp'}
-          alt={item.name}
-          fill
-          className="object-cover object-center transition duration-700 group-hover:scale-[1.025]"
-          sizes="(max-width: 768px) 92vw, 540px"
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#102F1A]/24 via-transparent to-transparent" />
-      </div>
-
-      <div className="relative px-5 pb-5 pt-14 md:px-6">
-        <div className={`absolute -top-12 flex h-24 w-24 items-center justify-center rounded-full border-[5px] border-white bg-white shadow-[0_12px_0_rgba(96,63,9,.08),0_20px_38px_rgba(52,47,35,.20)] ${isEnglish ? 'left-5' : 'right-5'}`}>
-          <div className="relative h-full w-full overflow-hidden rounded-full bg-white">
-            <Image
-              src={isArkleen ? '/images/providers/arkleen-logo.png' : (item.logoImage || '/images/providers/arkleen-logo.png')}
-              alt={isEnglish ? `${item.name || copy.fallbackName} logo` : `شعار ${item.name || copy.fallbackName}`}
-              fill
-              className="object-contain p-1.5"
-              sizes="96px"
-            />
-          </div>
-          {item.verified ? (
-            <span className={`absolute -bottom-1 flex h-8 w-8 items-center justify-center rounded-full border-4 border-white bg-[#0F3F1A] text-[#F4CA61] shadow-md ${isEnglish ? '-right-1' : '-left-1'}`} aria-label={copy.verified}>
-              <BadgeCheck className="h-4 w-4" />
-            </span>
-          ) : null}
-        </div>
-
-        <div className={`min-h-[40px] ${isEnglish ? 'ml-28' : 'mr-28'}`} />
-
-        <h3 className="text-2xl font-black leading-tight text-[#0F3F1A]">{item.name}</h3>
-        <p className="mt-2 flex items-center gap-2 text-sm font-black text-[#8A611B]">
-          <Building2 className="h-4 w-4" />
-          {item.providerType || copy.fallbackType}
-        </p>
-        {item.providerId ? (
-          <p dir="ltr" className={`mt-2 inline-flex rounded-full border border-[#E3D5BD] bg-[#FBF8F1] px-3 py-1 font-mono text-[11px] font-black text-[#0F3F1A] ${isEnglish ? 'self-start' : 'self-end'}`}>
-            ID {item.providerId}
-          </p>
-        ) : null}
-
-        {services.length ? <div className="mt-4 grid grid-cols-3 gap-2" aria-label={copy.servicesLabel}>
-          {services.map(({ label, Icon }) => (
-            <div key={label} className="flex min-h-[64px] flex-col items-center justify-center gap-1.5 rounded-2xl border border-[#E8DDCA] bg-[#FBF8F1] text-[#0F3F1A] shadow-[0_5px_0_rgba(81,58,23,.05)]">
-              <Icon className="h-5 w-5 text-[#A66B19]" />
-              <span className="line-clamp-2 px-1 text-center text-xs font-black leading-5">{label}</span>
-            </div>
-          ))}
-        </div> : null}
-
-        <a
-          href={mapHref}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`pointer-events-auto mt-4 flex min-h-[62px] items-center gap-3 rounded-2xl border border-[#E3D5BD] bg-white px-3 py-2.5 shadow-[0_8px_22px_rgba(52,47,35,.07)] transition hover:-translate-y-0.5 hover:border-[#C9952A] ${isEnglish ? 'text-left' : 'text-right'}`}
-          aria-label={isEnglish ? `Open ${item.name} on Google Maps` : `فتح موقع ${item.name} في خرائط Google`}
-        >
-          <GoogleMapMark />
-          <span className="min-w-0">
-            <span className="block text-[11px] font-black text-[#A66B19]">{copy.map}</span>
-            <span className="mt-0.5 block text-sm font-black leading-6 text-[#0F3F1A]">{item.city} – {item.area}</span>
-          </span>
-        </a>
-
-        <ActionRow href={item.href} whatsapp={item.whatsapp} primary={copy.open} secondary={copy.whatsapp} />
-      </div>
-    </CardShell>
-  );
+  return <DirectoryCompanyCard item={item}/>;
 }
 
 function PremiumAlHootProviderCard({ item }) {

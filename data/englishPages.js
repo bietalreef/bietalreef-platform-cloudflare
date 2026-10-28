@@ -1,4 +1,5 @@
 export const ENGLISH_STATIC_PAGES = {
+  community: { title: 'Community', heading: 'Share your questions about your home and project', description: 'Find guidance on building, maintenance and finishing, explore common questions, and contact Biet Al Reef for help choosing your next step.', cta: 'Explore UAE areas' },
   services: { title: 'Services', heading: 'Construction and maintenance service categories in the UAE', description: 'Browse building, maintenance, design, materials and provider-related categories across UAE cities and service areas.', cta: 'Browse categories' },
   providers: { title: 'Providers', heading: 'Service providers, contractors and suppliers', description: 'A public information page for companies, workshops, suppliers and individual specialists who will later connect through Biet Al Reef.', cta: 'Explore UAE areas' },
   marketplace: { title: 'Marketplace', heading: 'Building materials and product marketplace', description: 'A structured public page for materials, smart systems, decor, furniture and future product listings connected to Biet Al Reef.', cta: 'Explore categories' },

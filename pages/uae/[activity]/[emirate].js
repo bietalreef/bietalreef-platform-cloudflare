@@ -11,8 +11,9 @@ import UaeSmartFooter from '../../../components/UaeSmartFooter';
 import SeoProofCards from '../../../components/SeoProofCards';
 import UaeDirectoryHero from '../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../components/UaeActivityProviders';
-import AlNaeemDirectoryCard from '../../../components/provider/AlNaeemDirectoryCard';
+import AlNaeemLocalDiscovery from '../../../components/provider/AlNaeemLocalDiscovery';
 import { AL_NAEEM_EDITORIAL_DATA } from '../../../lib/alNaeemPresence';
+import { alNaeemCoverageFor } from '../../../lib/alNaeemLocalSeo';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards';
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
@@ -79,8 +80,8 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
     desc: `اختر الخدمة المناسبة في ${area.nameAr} داخل ${emirate.nameAr}: مقاولات، نجارة، رخام، صيانة، تصميم داخلي ومواد بناء.`,
   };
 
-  const alNaeemAreaSlug = emirate.slug === 'abu-dhabi' ? 'al-ain' : emirate.slug;
-  const showAlNaeemArea = AL_NAEEM_EDITORIAL_DATA.areas.some(item => item.slug === alNaeemAreaSlug)
+  const alNaeemAreaSlug = alNaeemCoverageFor(emirate.slug, area.slug);
+  const showAlNaeemArea = AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(item => item.slug === alNaeemAreaSlug)
     && (emirate.slug !== 'abu-dhabi' || area.slug === 'al-ain');
 
   const faqItems = [
@@ -106,7 +107,7 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
           <UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
-            <div className="max-w-[520px]"><AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale="ar" /></div>
+            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" /></div>
           </section>}
 
           <SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
@@ -134,7 +135,7 @@ export async function getStaticProps({ params }) {
 
   if (!area && !service) return { notFound: true };
   const directoryCards = area ? await getArabicUaeDirectoryCards() : [];
-  const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData() : null;
+  const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData().catch(() => null) : null;
 
   return {
     props: {

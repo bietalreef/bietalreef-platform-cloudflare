@@ -12,9 +12,9 @@ const texts = {
   ar: {
     brand: 'شركة النعيم', sector: 'خدمات التنظيف والتعقيم', home:'الرئيسية', services:'الخدمات', offers:'العروض', 'service-areas':'مناطق الخدمة',
     badge:'تنظيف المنازل والمفروشات والخزانات', hero:'النعيم لخدمات تنظيف بيتك ومفروشاتك.',
-    lead:'تنظيف المنازل والفلل، غسيل وتعقيم الخزانات، وتنظيف الكنب والسجاد والستائر والمجالس. أخبرنا بالتفاصيل لتحصل على عرض واضح قبل التنفيذ.',
+    lead:'تنظيف المنازل والفلل والخزانات والمجالس والكنب والسجاد والستائر، مع استقبال طلبات تنظيف الواجهات والأحواش والحدائق والمواقف. أخبرنا بالتفاصيل لتحصل على عرض واضح قبل التنفيذ.',
     book:'اطلب عرض سعر عبر واتساب', call:'اتصل الآن', whatsapp:'واتساب', seeServices:'استكشف الخدمات',
-    locations:'دبي • الشارقة • أم القيوين • رأس الخيمة • العين', serviceTitle:'اختر الخدمة التي تحتاجها',
+    locations:'دبي • الشارقة • أم القيوين • رأس الخيمة • العين • الفجيرة • كلباء • خورفكان', serviceTitle:'اختر الخدمة التي تحتاجها',
     serviceLead:'اختر ما يحتاجه بيتك، وتعرّف على التفاصيل لترتيب الخدمة المناسبة.',
     offerTitle:'عروض النعيم لخدمات التنظيف', offerLead:'تعرّف على تفاصيل الخصم واطلب تأكيد السعر الأساسي وشروط السريان مباشرة من الشركة قبل الحجز.',
     areaTitle:'أين تتوفر خدمات النعيم؟', areaLead:'اختر منطقتك لعرض تفاصيل التواصل والخدمات، ثم أكّد إمكانية الوصول والموعد قبل الحجز.',
@@ -30,6 +30,7 @@ const texts = {
     ],
     city:'الموقع الأساسي', address:'القصيص، شارع دمشق، دبي', map:'ابحث عن العنوان في خرائط Google',
     related:'خدمات قد تهمك', coverageNote:'توافر الخدمة والموعد والسعر يؤكدها فريق الشركة بعد مراجعة الموقع.',
+    localScope:'تفاصيل تساعدنا في تجهيز طلبك', localScopeNote:'أرسل موقعك والتفاصيل المطلوبة عبر واتساب، واطلب تأكيد نطاق الخدمة والموعد والسعر قبل الحجز.',
     view:'عرض التفاصيل', all:'عرض جميع الصفحات', back:'العودة إلى الشركة', more:'اكتشف المزيد',
     official:'دليل الشركات والمهنيين', offerBadge:'خصم عشرة بالمئة', request:'اطلب التفاصيل', serviceScope:'قبل طلب الخدمة',
     companyDetails:'معلومات التواصل', emailNote:'التواصل المباشر مع الشركة عبر الهاتف أو واتساب.',
@@ -40,15 +41,15 @@ const texts = {
     category:'دليل خدمات التنظيف', langSwitch:'English', discover:'تصفّح الأقسام',
   },
   en: {
-    brand:'Al Nuaim',sector:'Cleaning & Sanitization Services',home:'Home',services:'Services',offers:'Offers','service-areas':'Service areas',
-    badge:'Homes, upholstery and water tank cleaning',hero:'Al Nuaim cleaning for your home and furnishings.',
-    lead:'Home and villa cleaning, water tank cleaning and sanitization, steam cleaning for sofas and carpets, plus curtains and majlis care. Share your requirements to receive a clear quotation.',
+    brand:'Al Naeem',sector:'Cleaning & Sanitization Services',home:'Home',services:'Services',offers:'Offers','service-areas':'Service areas',
+    badge:'Homes, upholstery and water tank cleaning',hero:'Al Naeem cleaning for your home and furnishings.',
+    lead:'Home, villa, water tank, sofa, carpet, curtain and majlis cleaning. Ask about facade, courtyard, garden-area and parking-lot cleaning too. Share your requirements for a clear quotation.',
     book:'Request a quote on WhatsApp',call:'Call now',whatsapp:'WhatsApp',seeServices:'Explore services',
-    locations:'Dubai • Sharjah • Umm Al Quwain • Ras Al Khaimah • Al Ain',serviceTitle:'Find the cleaning service you need',
+    locations:'Dubai • Sharjah • Umm Al Quwain • Ras Al Khaimah • Al Ain • Fujairah • Kalba • Khorfakkan',serviceTitle:'Find the cleaning service you need',
     serviceLead:'Choose what your home needs and explore the details to plan a suitable visit.',
-    offerTitle:'Al Nuaim cleaning offers',offerLead:'Check the service-specific offer, then confirm the original price, discount conditions and availability with the company before booking.',
-    areaTitle:'Where does Al Nuaim take requests?',areaLead:'Explore service-area details and contact options, and confirm scheduling and availability before booking.',
-    about:'About Al Nuaim',aboutTitle:'Good cleaning starts with understanding the space',
+    offerTitle:'Al Naeem cleaning offers',offerLead:'Check the service-specific offer, then confirm the original price, discount conditions and availability with the company before booking.',
+    areaTitle:'Where does Al Naeem take requests?',areaLead:'Explore service-area details and contact options, and confirm scheduling and availability before booking.',
+    about:'About Al Naeem',aboutTitle:'Good cleaning starts with understanding the space',
     aboutCopy:'A villa needs a different cleaning plan from an apartment, and water tanks require different procedures from upholstery and majlis seating. Start by describing the location, scope, materials and condition, then agree on timing, price and the included work.',
     process:'How to request a service',processSteps:['Choose the appropriate service','Share photos or details of your property and required work','Request a written quotation and confirm the date'],
     faqs:'Frequently asked questions',
@@ -60,6 +61,7 @@ const texts = {
     ],
     city:'Business contact location',address:'Damascus Street, Al Qusais, Dubai',map:'Find address on Google Maps',
     related:'Related services',coverageNote:'Final service availability, appointment and pricing are confirmed after reviewing your property and requirements.',
+    localScope:'What to include in your request',localScopeNote:'Send your location and service details on WhatsApp, then confirm the scope, appointment and price before booking.',
     view:'View details',all:'View all pages',back:'Back to company',more:'Learn more',
     official:'Business & Professionals Directory',offerBadge:'ten percent off',request:'Request details',serviceScope:'Before booking',
     companyDetails:'Contact details',emailNote:'Contact the company directly by phone or WhatsApp.',
@@ -90,10 +92,11 @@ function QuoteActions({phone,wa,locale,subject,large=false}) {
 }
 function ServiceCard({item,locale,kind='services'}) {
   const t=texts[locale];const isOffer=kind==='offers';
+  const href=item.isInquiry?alNaeemPath(locale)+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug});
   return <article className="group overflow-hidden rounded-[22px] border border-[#e4e5e5] bg-white shadow-[0_8px_26px_rgba(19,48,70,.055)] transition hover:-translate-y-0.5 hover:shadow-lg">
-    <Link href={alNaeemPath(locale,{kind,slug:item.slug})} className="flex sm:block focus-visible:outline-offset-4">
+    <Link href={href} className="flex sm:block focus-visible:outline-offset-4">
       <div className="relative h-28 w-28 shrink-0 overflow-hidden sm:h-auto sm:w-full sm:aspect-[16/10] bg-[#edf0ec]">
-        <img src={item.image} alt={mediaAlt(item,locale)} loading="lazy" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />
+        {item.image?<img src={item.image} alt={mediaAlt(item,locale)} loading="lazy" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />:<span className="flex h-full w-full items-center justify-center bg-[#f4efe5] text-[#a78347]"><Sparkles size={36} aria-hidden="true"/></span>}
         {isOffer&&<span className="absolute end-3 top-3 rounded-full bg-[#d7ad61] px-3 py-1.5 text-sm font-black text-[#102f46]">{t.offerBadge}</span>}
       </div>
       <div className="flex min-w-0 flex-1 flex-col gap-2 p-3 sm:p-5">
@@ -108,7 +111,7 @@ function CardGrid({items,kind,locale}) {
   const t=texts[locale];
   if(!items?.length)return <p className="rounded-2xl border border-dashed p-5">{kind==='offers'?t.noOffers:t.noService}</p>;
   if(kind==='service-areas')return <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-    {items.map(x=><Link href={alNaeemPath(locale,{kind,slug:x.slug})} key={x.slug} className="flex min-h-28 flex-col items-start justify-between rounded-[18px] border border-[#e6e8e9] bg-white p-4 shadow-sm transition hover:border-[#c9aa68]">
+    {items.map(x=><Link href={x.directoryPath?prefixPath(locale,x.directoryPath):alNaeemPath(locale,{kind,slug:x.slug})} key={x.slug} className="flex min-h-28 flex-col items-start justify-between rounded-[18px] border border-[#e6e8e9] bg-white p-4 shadow-sm transition hover:border-[#c9aa68]">
       <MapPin size={23} className="text-[#c59b4f]"/><span className="text-[16px] font-bold text-[#163b56]">{pick(x,locale)}</span><span className="text-[12px] text-[#6c7e8d]">{t.view}</span>
     </Link>)}
   </div>;
@@ -136,12 +139,50 @@ function FAQ({locale,subject,phone,wa}) {
     <QuoteActions phone={phone} wa={wa} locale={locale} subject={subject}/>
   </section>;
 }
+function AdditionalCleaningRequests({data,locale,wa}) {
+  const en = locale === 'en';
+  if (!data.additionalRequests?.length) return null;
+  const localCleaningPaths = [
+    { slug:'fujairah', path:'/uae/fujairah/fujairah-city/cleaning-services' },
+    { slug:'kalba', path:'/uae/sharjah/kalba/cleaning-services' },
+    { slug:'khorfakkan', path:'/uae/sharjah/khorfakkan/cleaning-services' },
+  ];
+  return <section id="additional-cleaning" className="mx-auto max-w-[1180px] px-4 py-8 sm:px-6">
+    <h2 className="text-[24px] font-extrabold leading-9 text-[#153b55]">{en ? 'Exterior, courtyard and parking-area cleaning' : 'تنظيف الواجهات والأحواش والحدائق ومواقف السيارات'}</h2>
+    <p className="mt-2 max-w-4xl text-[15px] leading-8 text-[#526b7b]">{en ? 'Ask about these additional services. Share the location, surface type and photos to confirm availability, safe access, work scope and the quotation before booking.' : 'يمكنك الاستفسار عن الخدمات التالية. أرسل الموقع ونوع السطح والصور لتأكيد التوافر وإمكانية الوصول الآمن ونطاق العمل والسعر قبل الحجز.'}</p>
+    <div className="mt-5 grid gap-3 md:grid-cols-3">
+      {data.additionalRequests.map(request => <article id={'request-'+request.slug} key={request.slug} className="scroll-mt-28 rounded-[18px] border border-[#e2e6e7] bg-white p-5">
+        <h3 className="text-[18px] font-extrabold leading-8 text-[#153b55]">{pick(request,locale)}</h3>
+        <p className="mt-2 text-[14px] leading-7 text-[#526b7b]">{pick(request,locale,'description')}</p>
+        <a className="mt-4 inline-flex min-h-11 items-center rounded-xl border border-[#d4bb89] px-4 text-sm font-bold text-[#173b55]" href={whatsappHref(wa,en?`Hello Al Naeem, please quote ${pick(request,locale)}. My location and photos are: `:`مرحبًا النعيم، أريد عرض سعر لخدمة ${pick(request,locale)}. الموقع والصور: `)} target="_blank" rel="noopener noreferrer">{en ? 'Request a quote' : 'اطلب عرض سعر'}</a>
+      </article>)}
+    </div>
+    <nav aria-label={en?'East Coast cleaning directory':'دليل التنظيف في الساحل الشرقي'} className="mt-6 flex flex-wrap items-center gap-2 text-sm">
+      <span className="font-bold text-[#153b55]">{en?'Explore cleaning by area:':'استكشف التنظيف حسب المنطقة:'}</span>
+      {localCleaningPaths.map(item => <Link key={item.slug} href={prefixPath(locale,item.path)} className="rounded-xl border border-[#d4bb89] bg-white px-4 py-2 font-bold text-[#173b55]">{pick(data.coverageAreas.find(area=>area.slug===item.slug),locale)}</Link>)}
+    </nav>
+  </section>;
+}
+function BrandMediaGallery({gallery,locale}) {
+  if (!gallery?.length) return null;
+  const en=locale==='en';
+  return <section className="mx-auto max-w-[1180px] px-4 py-8 sm:px-6" aria-label={en?'Al Naeem service images':'صور خدمات شركة النعيم'}>
+    <h2 className="text-[24px] font-extrabold leading-9 text-[#153b55]">{en?'Al Naeem service images':'صور خدمات شركة النعيم'}</h2>
+    <div className="mt-5 grid gap-4 md:grid-cols-2">
+      {gallery.map(item=><figure key={item.id} className="min-w-0 overflow-hidden rounded-[20px] border border-[#e1e5e7] bg-white">
+        <div className="aspect-[4/3] overflow-hidden bg-[#f8f7f3] sm:aspect-[16/10]"><img src={item.image} alt={pick(item,locale)} loading="lazy" decoding="async" className="h-full w-full object-contain"/></div>
+        <figcaption className="px-4 py-3 text-sm leading-7 text-[#526b7b]">{pick(item,locale,'description')}</figcaption>
+      </figure>)}
+    </div>
+  </section>;
+}
 export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'},unavailable=false}) {
   const en=locale==='en',t=texts[locale];
   if(unavailable||!data)return <><Navbar locale={locale}/><main className="p-8" role="status">{en?'The company page is temporarily unavailable.':'صفحة الشركة غير متاحة مؤقتًا.'}</main><Footer locale={locale}/></>;
   const root=alNaeemPath(locale), path=alNaeemPath(locale,route);
   const alt=alNaeemPath(en?'ar':'en',route);
-  const cols={services:data.services,offers:data.offers,'service-areas':data.areas};
+  const serviceChoices=[...data.services,...(data.additionalRequests||[]).map(request=>({...request,isInquiry:true}))];
+  const cols={services:serviceChoices,offers:data.offers,'service-areas':data.coverageAreas||data.areas};
   const item=route.slug?cols[route.kind]?.find(x=>x.slug===route.slug):null;
   const name=pick(data.profile,locale), title=route.kind==='home'?name:item?pick(item,locale):t[route.kind];
   const subject=cleaningRequestMessage({locale,company:t.brand,title,path});
@@ -152,7 +193,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
   const photo=data.profile.cover_image_url;
   const phone=data.profile.phone,wa=data.profile.whatsapp;
   const related=item?data.services.filter(x=>x.slug!==item.slug).slice(0,2):[];
-  const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+root+'#company',name,url:AL_NAEEM_ORIGIN+root,telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:data.areas.map(a=>({'@type':'Place',name:pick(a,locale)}))};
+  const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+root+'#company',name,url:AL_NAEEM_ORIGIN+root,telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:(data.coverageAreas||data.areas).map(a=>({'@type':'Place',name:pick(a,locale)}))};
   const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
   const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{name:t.official,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/providers'},{name:t.brand,item:AL_NAEEM_ORIGIN+root},...(route.kind==='home'?[]:[{name:t[route.kind],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:route.kind})}]),...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])].map((entry,index)=>({'@type':'ListItem',position:index+1,...entry}))};
   const structured=[companySchema,pageSchema,breadcrumbSchema];
@@ -184,7 +225,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
         <div className="overflow-hidden rounded-[24px] border border-[#e5e7e9] bg-white shadow-[0_14px_42px_rgba(21,49,68,.07)] sm:rounded-[30px]">
           <div className="grid md:grid-cols-[1fr_1.02fr]">
             <div className="relative h-40 sm:h-auto sm:min-h-[330px] md:order-2 md:min-h-[440px]">
-              <img src={item?.image||photo} alt={item?mediaAlt(item,locale):en?'Al Nuaim home cleaning services':'خدمات شركة النعيم لتنظيف المنازل والفلل'} fetchPriority="high" className="absolute inset-0 h-full w-full object-cover" />
+              <img src={item?.image||photo} alt={item?mediaAlt(item,locale):en?'Al Naeem home cleaning services':'خدمات شركة النعيم لتنظيف المنازل والفلل'} fetchpriority="high" className="absolute inset-0 h-full w-full object-cover" />
              </div>
             <div className="flex flex-col justify-center p-5 sm:p-9 md:order-1 md:p-10">
               <span className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-[#eadbc0] bg-[#fff9ed] px-3 py-2 text-[12px] font-bold text-[#8b6c37]"><Sparkles size={14}/>{t.badge}</span>
@@ -205,9 +246,10 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
         </div>
       </nav>
       {route.kind==='home'?<>
-        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={data.services}/>
+        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={serviceChoices}/>
         <div className="border-y border-[#e9e6df] bg-[#f2f1eb]"><Segment kind="offers" locale={locale} title={t.offerTitle} lead={t.offerLead} items={data.offers}/></div>
-        <Segment kind="service-areas" locale={locale} title={t.areaTitle} lead={t.areaLead} items={data.areas}/>
+        <Segment kind="service-areas" locale={locale} title={t.areaTitle} lead={t.areaLead} items={data.coverageAreas||data.areas}/>
+        <BrandMediaGallery gallery={data.gallery} locale={locale}/>
         <section className="mx-auto grid max-w-[1180px] gap-6 px-4 py-9 sm:px-6 md:grid-cols-2">
           <div className="rounded-[25px] border border-[#e7e3db] bg-white p-6 sm:p-8">
             <span className="text-[12px] font-bold text-[#ad8444]">{t.about}</span>
@@ -227,13 +269,23 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <p className="mt-4 max-w-4xl text-[16px] leading-9 text-[#526b7b]">{pick(item,locale,'details')||pick(item,locale,'description')||t.coverageNote}</p>
             {serviceContent&&<CleaningServiceDetails content={serviceContent} locale={locale}/>}
             {route.kind==='offers'&&item.service_slug&&<Link href={alNaeemPath(locale,{kind:'services',slug:item.service_slug})} className="mt-4 inline-flex items-center gap-2 rounded-xl border border-[#d7c49d] px-4 py-2.5 text-[14px] font-bold text-[#174059]">{en?'Explore included service':'تفاصيل الخدمة المرتبطة'}<ArrowLeft size={16} className={en?'rotate-180':''}/></Link>}
-            {route.kind==='service-areas'&&<p className="mt-4 rounded-xl bg-[#f7f4eb] p-4 text-[14px] leading-7 text-[#735e39]">{t.coverageNote}</p>}
+            {route.kind==='service-areas'&&<>
+              {Array.isArray(item[en?'highlights_en':'highlights_ar'])&&<div className="mt-6 border-t border-[#e9e8e1] pt-5">
+                <h3 className="text-[19px] font-extrabold text-[#153b55]">{t.localScope}</h3>
+                <ul className="mt-4 grid gap-3 md:grid-cols-3">
+                  {item[en?'highlights_en':'highlights_ar'].map((point,index)=><li key={index} className="flex items-start gap-2 rounded-xl bg-[#f8faf9] p-4 text-[14px] leading-7 text-[#526b7b]"><CheckCircle2 size={18} className="mt-1 shrink-0 text-[#b18b49]" aria-hidden="true"/><span>{point}</span></li>)}
+                </ul>
+                <p className="mt-4 text-[14px] leading-7 text-[#526b7b]">{t.localScopeNote}</p>
+              </div>}
+              <p className="mt-4 rounded-xl bg-[#f7f4eb] p-4 text-[14px] leading-7 text-[#735e39]">{t.coverageNote}</p>
+            </>}
             <QuoteActions phone={phone} wa={wa} locale={locale} subject={subject}/>
           </div>
         </section>
         {relatedOffers.length>0&&<Segment kind="offers" locale={locale} items={relatedOffers} title={en?'Offers for this service':'عروض هذه الخدمة'} showAll={false}/>}
-        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={data.services} title={t.related} showAll/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related}/>:null}
+        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related}/>:null}
       </>:<Segment kind={route.kind} locale={locale} items={cols[route.kind]||[]} title={route.kind==='services'?t.serviceTitle:route.kind==='offers'?t.offerTitle:t.areaTitle} lead={route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead} showAll={false}/>}
+      {(route.kind==='home'||route.kind==='service-areas')&&<AdditionalCleaningRequests data={data} locale={locale} wa={wa}/>}
       {!serviceContent&&<FAQ locale={locale} subject={subject} phone={phone} wa={wa}/>}
       <section className="mx-auto max-w-[1180px] px-4 py-6 sm:px-6"><h2 className="text-xl font-bold text-[#173b53]">{en?'Explore cleaning on Biet Al Reef':'اكتشف خدمات التنظيف في بيت الريف'}</h2><div className="mt-4 flex flex-wrap gap-3 text-sm font-bold underline underline-offset-4"><Link href={en?'/en/categories/cleaning-services':'/services/cleaning'}>{en?'Cleaning services':'خدمات التنظيف'}</Link><Link href={prefixPath(locale,'/uae/abu-dhabi/al-ain/cleaning-services')}>{en?'Cleaning in Al Ain':'خدمات التنظيف في العين'}</Link><Link href={root}>{t.brand}</Link></div></section>
       <section className="mx-auto max-w-[1180px] px-4 pb-12 sm:px-6">

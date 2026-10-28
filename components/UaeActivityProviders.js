@@ -5,8 +5,9 @@ import { ArrowLeft, BadgeCheck, MapPin, MessageCircle } from 'lucide-react';
 import { directoryProviders } from '../data/providers';
 import { buildProviderWhatsappUrl } from '../lib/providerWhatsapp';
 import RehabDirectoryCard from './provider/RehabDirectoryCard';
-import AlNaeemDirectoryCard from './provider/AlNaeemDirectoryCard';
+import AlNaeemLocalDiscovery from './provider/AlNaeemLocalDiscovery';
 import { AL_NAEEM_EDITORIAL_DATA } from '../lib/alNaeemPresence';
+import { alNaeemCoverageFor } from '../lib/alNaeemLocalSeo';
 
 const emirateCities = {
   'abu-dhabi': ['abu-dhabi-city', 'al-ain'],
@@ -78,9 +79,9 @@ export default function UaeActivityProviders({ emirate, area = null, service, lo
     rehab.areas?.some((location) => location.slug === emirate.slug);
   // Standalone company page appears only within its explicitly named coverage;
   // it does not inherit the database verification state of another business.
-  const naeemCoverageSlug = emirate.slug === 'abu-dhabi' ? 'al-ain' : emirate.slug;
+  const naeemCoverageSlug = alNaeemCoverageFor(emirate.slug, area?.slug || null);
   const showNaeem = service.slug === 'cleaning-services'
-    && AL_NAEEM_EDITORIAL_DATA.areas.some(location => location.slug === naeemCoverageSlug)
+    && AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(location => location.slug === naeemCoverageSlug)
     && (emirate.slug !== 'abu-dhabi' || area?.slug === 'al-ain');
   // Removed from these directory listings at the owner's request; retain its profile.
   const providers = directoryProviders.filter((provider) => !(showRehab && ['alrehab-home-clean','alrehab-cleaning-sanitizing'].includes(provider.slug)) && !(showNaeem && provider.slug === 'al-naeem-cleaning-services') && provider.providerId !== 'BR-PROV-ALR-001' && coversLocation(provider, emirate.slug, area?.slug) && matchesSector(provider, service.slug));
@@ -91,7 +92,7 @@ export default function UaeActivityProviders({ emirate, area = null, service, lo
         <span className="inline-flex rounded-full border border-[#DCCAA7] bg-[#FFF9EC] px-4 py-1.5 text-xs font-black text-[#8A611B]">{isEn ? 'Find a company' : 'اختر الشركة المناسبة'}</span>
         <h2 className="mt-4 text-3xl font-black text-[#0F3F1A]">{isEn ? `${service.nameEn} providers in ${locationName}` : `شركات ${service.nameAr} في ${locationName}`}</h2>
       </div>
-      {providers.length || showRehab || showNaeem ? <div className="grid grid-cols-1 items-start gap-6 md:grid-cols-2">{showRehab ? <RehabDirectoryCard data={rehab} locale={locale} /> : null}{showNaeem ? <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} /> : null}{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600"><p>{isEn ? 'Tell Biet Al Reef customer support what you need and where, and get help with your quotation request.' : 'حدّد الخدمة والمنطقة وتواصل مع خدمة عملاء بيت الريف لمساعدتك في طلب عرض السعر المناسب لاحتياجك.'}</p><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex min-h-[44px] items-center rounded-xl bg-[#0F3F1A] px-5 text-white">{isEn ? 'Contact customer support' : 'تواصل مع خدمة العملاء'}</a></div>}
+      {providers.length || showRehab || showNaeem ? <div className="grid grid-cols-1 items-start gap-6 md:grid-cols-2">{showRehab ? <RehabDirectoryCard data={rehab} locale={locale} /> : null}{showNaeem ? <AlNaeemLocalDiscovery emirate={emirate} area={area} locale={locale} detailed /> : null}{providers.map((provider) => <DirectoryProviderCard key={provider.slug} provider={provider} emirateSlug={emirate.slug} locale={locale} />)}</div> : <div className="rounded-[2rem] border border-[#D7C7A7] bg-white p-8 text-center text-sm font-bold leading-7 text-gray-600"><p>{isEn ? 'Tell Biet Al Reef customer support what you need and where, and get help with your quotation request.' : 'حدّد الخدمة والمنطقة وتواصل مع خدمة عملاء بيت الريف لمساعدتك في طلب عرض السعر المناسب لاحتياجك.'}</p><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-4 inline-flex min-h-[44px] items-center rounded-xl bg-[#0F3F1A] px-5 text-white">{isEn ? 'Contact customer support' : 'تواصل مع خدمة العملاء'}</a></div>}
     </section>
   );
 }

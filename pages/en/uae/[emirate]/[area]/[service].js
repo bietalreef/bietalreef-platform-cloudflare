@@ -48,7 +48,7 @@ export async function getStaticProps({ params }) {
   const area = getArea(params.emirate, params.area);
   const service = getServiceCategory(params.service);
   if (!emirate || !area || !service) return { notFound: true };
-  const rehab = service.slug === 'cleaning-services' ? await getRehabSiteData() : null;
+  const rehab = service.slug === 'cleaning-services' ? await getRehabSiteData().catch(() => null) : null;
   return { props: { emirate, area, service, rehab }, revalidate: 3600 };
 }
 

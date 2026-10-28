@@ -148,7 +148,7 @@ function Toggle({ enabled, isArabic, onChange }) {
   );
 }
 
-export default function PrivacyConsentCenter({ locale = 'ar' }) {
+export default function PrivacyConsentCenter({ locale = 'ar', contactSurface = null }) {
   const isArabic = locale !== 'en';
   const t = isArabic ? copy.ar : copy.en;
   const [choice, setChoice] = useState(null);
@@ -159,15 +159,15 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
 
   useEffect(() => {
     const stored = analyticsConsent();
-    setChoice(stored === 'accepted' ? 'accepted' : null);
+    setChoice(stored === 'accepted' || stored === 'rejected' ? stored : null);
     setPerformance(stored === 'accepted');
     setReady(true);
   }, []);
 
-  const confirm = () => {
-    saveConsent('accepted');
-    setChoice('accepted');
-    setPerformance(true);
+  const decide = (value) => {
+    saveConsent(value);
+    setChoice(value);
+    setPerformance(value === 'accepted');
     setOpen(false);
   };
 
@@ -209,25 +209,26 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
     <>
       {choice === null ? (
         <div
-          className="fixed inset-x-0 bottom-0 z-[100] border-t border-[#E1D5BD] bg-[#FFF9ED]/97 px-4 py-3 text-[#242424] shadow-[0_-12px_40px_rgba(31,52,46,.14)] backdrop-blur-xl"
+          className={`fixed inset-x-0 ${contactSurface === 'rehab' ? 'bottom-20 sm:bottom-0' : contactSurface ? 'bottom-20 md:bottom-0' : 'bottom-0'} z-[100] border-t border-[#E1D5BD] bg-[#FFF9ED]/97 px-4 py-3 text-[#242424] shadow-[0_-12px_40px_rgba(31,52,46,.14)] backdrop-blur-xl`}
           dir={isArabic ? 'rtl' : 'ltr'}
           role="dialog"
           aria-label={t.bannerTitle}
         >
-          <div className="mx-auto flex max-w-6xl flex-col gap-4 md:flex-row md:items-center">
+          <div className="mx-auto flex max-w-6xl flex-col gap-2 md:flex-row md:items-center">
             <div className="flex-1">
               <h2 className="flex items-center gap-2 text-base font-bold">
                 <Cookie size={19} className="text-[#B68B1E]" />
                 {t.bannerTitle}
               </h2>
-              <p className="mt-1 max-w-3xl text-sm font-medium leading-6 text-[#686868]">{t.bannerText}</p>
+              <p className="mt-1 max-w-3xl text-sm font-medium leading-6 text-[#686868]">{contactSurface ? (isArabic ? 'اختر ما يناسبك من إعدادات الخصوصية.' : 'Choose the privacy settings that suit you.') : t.bannerText}</p>
             </div>
             <div className="flex flex-wrap items-center gap-2">
-              <button type="button" onClick={confirm} className="rounded-2xl bg-[#24354B] px-6 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-[#364960]">
-                {t.allow}
+              <button type="button" onClick={() => decide('accepted')} className="rounded-2xl bg-[#24354B] px-6 py-3 text-sm font-bold text-white shadow-sm transition hover:bg-[#364960]">
+                {contactSurface ? (isArabic ? 'موافق' : 'Allow') : t.allow}
               </button>
+              <button type="button" onClick={() => decide('rejected')} className="rounded-2xl border border-[#D8C59F] bg-white px-4 py-3 text-sm font-bold text-[#242424]">{isArabic ? 'الأساسي فقط' : 'Essential only'}</button>
               <button type="button" onClick={() => setOpen(true)} className="rounded-2xl border border-[#D8C59F] bg-white px-4 py-3 text-sm font-bold text-[#242424] transition hover:border-[#C5A552] hover:bg-[#FFFCF5]">
-                {t.preferences}
+                {contactSurface ? (isArabic ? 'الخصوصية' : 'Privacy') : t.preferences}
               </button>
             </div>
           </div>
@@ -269,9 +270,9 @@ export default function PrivacyConsentCenter({ locale = 'ar' }) {
               </div>
             </div>
             <div className="flex flex-col-reverse gap-2 border-t border-[#D8D8D8] bg-[#FAFAFA] px-5 py-5 sm:flex-row md:px-12">
-              <button type="button" disabled={!performance} onClick={confirm} className="flex items-center justify-center gap-2 rounded-2xl bg-[#24354B] px-7 py-3.5 text-base font-bold text-white transition hover:bg-[#364960] disabled:cursor-not-allowed disabled:bg-[#E8E4DC] disabled:text-[#686868]">
+              <button type="button" onClick={() => decide(performance ? 'accepted' : 'rejected')} className="flex items-center justify-center gap-2 rounded-2xl bg-[#24354B] px-7 py-3.5 text-base font-bold text-white transition hover:bg-[#364960] disabled:cursor-not-allowed disabled:bg-[#E8E4DC] disabled:text-[#686868]">
                 <Check size={19} />
-                {t.save}
+                {isArabic ? 'حفظ اختياراتي' : 'Save my choices'}
               </button>
             </div>
           </section>

@@ -102,7 +102,7 @@ export default function MyApp({ Component, pageProps }) {
           <ArklineProjectsAndChannels currentPath={router.asPath || ''} />
         </>
       ) : null}
-      <PrivacyConsentCenter locale={isEnglishPage ? "en" : "ar"} />
+      <PrivacyConsentCenter locale={isEnglishPage ? "en" : "ar"} contactSurface={isRehabPresence ? (currentPath.includes("al-naeem-cleaning-services") ? "naeem" : "rehab") : null} />
       {process.env.NEXT_PUBLIC_ISOLATED_REVIEW !== "true" && <ConsentAwareGoogleTag />}
       <PwaInstallPrompt locale={isEnglishPage ? "en" : "ar"} />
       <PwaLifecycleManager locale={isEnglishPage ? "en" : "ar"} />

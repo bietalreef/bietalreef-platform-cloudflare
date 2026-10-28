@@ -11,6 +11,8 @@ import UaeSmartFooter from '../../../components/UaeSmartFooter';
 import SeoProofCards from '../../../components/SeoProofCards';
 import UaeDirectoryHero from '../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../components/UaeActivityProviders';
+import AlNaeemDirectoryCard from '../../../components/provider/AlNaeemDirectoryCard';
+import { AL_NAEEM_EDITORIAL_DATA } from '../../../lib/alNaeemPresence';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards';
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
@@ -77,6 +79,10 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
     desc: `اختر الخدمة المناسبة في ${area.nameAr} داخل ${emirate.nameAr}: مقاولات، نجارة، رخام، صيانة، تصميم داخلي ومواد بناء.`,
   };
 
+  const alNaeemAreaSlug = emirate.slug === 'abu-dhabi' ? 'al-ain' : emirate.slug;
+  const showAlNaeemArea = AL_NAEEM_EDITORIAL_DATA.areas.some(item => item.slug === alNaeemAreaSlug)
+    && (emirate.slug !== 'abu-dhabi' || area.slug === 'al-ain');
+
   const faqItems = [
     [`ما الخدمات المتاحة في ${area.nameAr}؟`, `تستطيع تصفح خدمات المقاولات والصيانة والتشطيبات والنجارة والرخام والتصميم الداخلي وغيرها داخل ${area.nameAr}.`],
     ['كيف أطلب عرض سعر؟', 'اختر الخدمة المطلوبة ثم استخدم زر طلب العرض أو اسأل وياك لتوجيه طلبك.'],
@@ -98,6 +104,10 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
           <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى الشركة أو مسار الطلب المناسب.`} />
 
           <UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />
+          {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
+            <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
+            <div className="max-w-[520px]"><AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale="ar" /></div>
+          </section>}
 
           <SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
             <p>صفحة {area.nameAr} داخل {emirate.nameAr} تربط الموقع بالخدمات المتاحة، مع الحفاظ على الروابط الجغرافية ومسار تصفح واضح.</p>

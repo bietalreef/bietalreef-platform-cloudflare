@@ -8,6 +8,8 @@ import UaeSmartFooter from '../../../../components/UaeSmartFooter';
 import SeoProofCardsEn from '../../../../components/SeoProofCardsEn';
 import UaeDirectoryHero from '../../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
+import AlNaeemDirectoryCard from '../../../../components/provider/AlNaeemDirectoryCard';
+import { AL_NAEEM_EDITORIAL_DATA } from '../../../../lib/alNaeemPresence';
 import { getRehabSiteData } from '../../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../../components/UaeDirectorySectorCards';
 import SecondaryHeader from '../../../../components/SecondaryHeader';
@@ -61,6 +63,10 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
     h1: `Construction and contracting services in ${area.nameEn}`,
     desc: `Choose the right service in ${area.nameEn}, ${emirate.nameEn}: contracting, carpentry, marble, maintenance, interior design and building materials.`,
   };
+  const alNaeemAreaSlug = emirate.slug === 'abu-dhabi' ? 'al-ain' : emirate.slug;
+  const showAlNaeemArea = AL_NAEEM_EDITORIAL_DATA.areas.some(item => item.slug === alNaeemAreaSlug)
+    && (emirate.slug !== 'abu-dhabi' || area.slug === 'al-ain');
+
   const faqItems = [
     [`What services are available in ${area.nameEn}?`, `Browse contracting, maintenance, finishing, carpentry, marble, interior design and other services available in ${area.nameEn}.`],
     ['How do I request a quotation?', 'Choose the required service, then use the quotation path or ask Weyaak to help route your request.'],
@@ -79,6 +85,10 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
           <UaeDirectoryWeyaakCard locale="en" title={`Weyaak in ${area.nameEn}`} description={`Tell Weyaak what your project needs in ${area.nameEn}, and it will help you choose the specialty and reach the right provider or request path.`} />
 
           <UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />
+          {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="Cleaning company serving this area">
+            <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">Cleaning company serving this area</h2>
+            <div className="max-w-[520px]"><AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale="en" /></div>
+          </section>}
 
           <SeoContent title={`${area.nameEn} inside Biet Al Reef UAE Directory`}>
             <p>The {area.nameEn} page in {emirate.nameEn} connects the location with available services while preserving the geographic links and a clear browsing path.</p>

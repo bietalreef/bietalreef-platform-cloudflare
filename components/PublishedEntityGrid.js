@@ -121,6 +121,8 @@ export default function PublishedEntityGrid({
               </div>
 
               <div className="p-5">
+                {item.imageIllustrative?<small className="mb-2 block text-[10px] text-slate-500">{isEn?'Illustrative photo — not verified company work':'صورة توضيحية وليست تصويرًا لأعمال الشركة'}</small>:null}
+                {item.photoAttribution?.author?<small className="mb-2 block text-[10px] text-slate-500">{item.photoAttribution.author} · <a href={item.photoAttribution.source} target="_blank" rel="noreferrer" className="underline">{item.photoAttribution.license}</a></small>:null}
                 <div className="flex flex-wrap gap-2">
                   {item.category ? (
                     <span className="rounded-full bg-[#FFF8E5] px-3 py-1 text-xs font-black text-[#8A6A00]">

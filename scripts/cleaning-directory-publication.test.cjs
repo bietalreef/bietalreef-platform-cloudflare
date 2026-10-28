@@ -51,3 +51,18 @@ test('Discount offers stay in the platform publication channel and carry bilingu
  assert.match(directory,/PublishedOfferGrid/);
  assert.match(enDirectory,/PublishedOfferGrid/);
 });
+
+test('Platform image isolation: publication-only cover and original account avatar',()=>{
+ const loader=read('lib/publishedCompanyPresence.js');
+ const site=read('components/provider/PublishedCompanyPresencePage.js');
+ const cards=read('lib/platformPublishedServiceCards.js');
+ const offers=read('components/PublishedOfferGrid.js');
+ assert.match(loader,/platformCoverCard/);
+ assert.match(loader,/row\.content\?\.media_attribution/);
+ assert.match(loader,/profile:platformProfile/);
+ assert.match(site,/cover_media_is_illustrative/);
+ assert.match(site,/صورة توضيحية/);
+ assert.match(site,/image_attribution/);
+ assert.match(cards,/imageIllustrative/);
+ assert.match(offers,/Illustrative photo/);
+});

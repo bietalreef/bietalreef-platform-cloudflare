@@ -24,6 +24,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - name: Publication contract
         run: node --test scripts/cleaning-directory-publication.test.cjs
+      - name: Consent and Google tag regression
+        run: node --test scripts/google-tag-consent-regression.test.cjs
       - name: Next.js 15 Pages Router build
         env:
           NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co

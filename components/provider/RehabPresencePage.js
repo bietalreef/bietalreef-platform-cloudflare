@@ -64,11 +64,11 @@ function whatsappUrl(number, name) {
   return `https://wa.me/${e164}?text=${encodeURIComponent(name)}`;
 }
 
-function Collection({ items, locale, routeKind, empty, companyCover }) {
+function Collection({ items, locale, routeKind, empty, companyCover, areaSlug }) {
   const t = copy[locale];
   if (!items.length) return <p className="rounded-xl border border-dashed border-slate-300 bg-white p-3 text-sm text-slate-600 sm:rounded-2xl sm:p-7">{empty}</p>;
   return <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
-    {items.map((item) => <Link key={item.id} href={presencePath(locale, { kind: routeKind, slug: item.slug })} className="group flex min-w-0 flex-row overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-[0_2px_9px_rgba(18,42,73,.04)] transition hover:border-[#B89149] hover:shadow-lg sm:flex-col sm:rounded-[1.35rem] sm:shadow-sm sm:hover:-translate-y-1">
+    {items.map((item) => <Link key={item.id} href={presencePath(locale, { kind: routeKind, slug: item.slug, ...(routeKind === 'services' && areaSlug ? { areaSlug } : {}) })} className="group flex min-w-0 flex-row overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-[0_2px_9px_rgba(18,42,73,.04)] transition hover:border-[#B89149] hover:shadow-lg sm:flex-col sm:rounded-[1.35rem] sm:shadow-sm sm:hover:-translate-y-1">
       {item.image || (routeKind === 'services' && companyCover) ? <img loading="lazy" src={item.image || companyCover} alt={item.image ? pick(item, locale) : (locale === 'ar' ? 'الغلاف المعتمد للرحاب هوم كلين' : 'Approved Al Rehab Home Clean company cover')} className="h-24 w-24 shrink-0 object-cover sm:h-44 sm:w-full" /> : <div className="flex h-24 w-24 shrink-0 items-center justify-center bg-[#F7F3E9] text-[#B89149] sm:h-36 sm:w-full">{routeKind === 'service-areas' ? <MapPin size={28} strokeWidth={1.4} /> : <Sparkles size={28} strokeWidth={1.4} />}</div>}
       <span className="flex min-w-0 flex-1 flex-col justify-center p-3 sm:justify-start sm:p-5">
         <span className="text-[14px] font-extrabold leading-snug text-[#122A49] sm:mb-2 sm:text-lg">{pick(item, locale)}</span>
@@ -114,12 +114,13 @@ function BusinessInformation({ data, locale }) {
 function Seo({ data, locale, route, detail }) {
   const p = data.profile;
   const t = copy[locale];
+  const area = route.areaSlug ? data.areas.find((item) => item.slug === route.areaSlug) : null;
   const path = presencePath(locale, route);
   const baseName = pick(p, locale);
-  const pageName = detail ? pick(detail, locale) : route.kind === 'home' ? baseName : t[route.kind];
+  const pageName = detail ? (area ? (locale === 'ar' ? `${pick(detail, locale)} في ${pick(area, locale)}` : `${pick(detail, locale)} in ${pick(area, locale)}`) : pick(detail, locale)) : route.kind === 'home' ? baseName : t[route.kind];
   const brand = locale === 'ar' ? 'بيت الريف' : 'Biet Al Reef';
   const title = route.kind === 'home' ? `${baseName} | ${locale === 'ar' ? 'خدمات التنظيف من العين إلى الإمارات' : 'Cleaning services from Al Ain across the UAE'} | ${brand}` : `${pageName} | ${baseName} | ${brand}`;
-  const description = detail ? (route.kind === 'service-areas' ? (locale === 'ar' ? `خدمات ${baseName} في ${pageName}. اختر خدمة التنظيف المناسبة وأرسل تفاصيل موقعك لترتيب عرض السعر والموعد.` : `${baseName} cleaning in ${pageName}. Explore services and share your location to arrange a quotation and visit.`) : `${pageName} — ${baseName}. ${pick(detail, locale, 'description')}`) : route.kind === 'home' ? (pick(p, locale, 'short_description') || t.intro) : `${pageName} — ${baseName}. ${t.intro}`;
+  const description = area && detail ? (locale === 'ar' ? `${pick(detail, locale)} في ${pick(area, locale)} من ${baseName}. اطلب الخدمة وحدد الموقع والموعد عبر الاتصال أو واتساب.` : `${pick(detail, locale)} in ${pick(area, locale)} by ${baseName}. Call or send your location and requirements for a quote.`) : detail ? (route.kind === 'service-areas' ? (locale === 'ar' ? `خدمات ${baseName} في ${pageName}. اختر خدمة التنظيف المناسبة وأرسل تفاصيل موقعك لترتيب عرض السعر والموعد.` : `${baseName} cleaning in ${pageName}. Explore services and share your location to arrange a quotation and visit.`) : `${pageName} — ${baseName}. ${pick(detail, locale, 'description')}`) : route.kind === 'home' ? (pick(p, locale, 'short_description') || t.intro) : `${pageName} — ${baseName}. ${t.intro}`;
   const isEmptySection = !detail && ((route.kind === 'offers' && !data.offers.length) || (route.kind === 'services' && !data.services.length) || (route.kind === 'service-areas' && !data.areas.length));
   const organization = {
     '@context': 'https://schema.org', '@type': 'LocalBusiness', '@id': `${REHAB_ORIGIN}/providers/alrehab-home-clean#company`,
@@ -130,9 +131,9 @@ function Seo({ data, locale, route, detail }) {
     ...(data.areas.length ? { areaServed: data.areas.map((area) => ({ '@type': 'AdministrativeArea', name: pick(area, locale) })) } : {}),
   };
   const schema = detail && route.kind === 'services' ? {
-    '@context': 'https://schema.org', '@type': 'Service', name: pageName, description, provider: { '@id': organization['@id'] }, areaServed: organization.areaServed,
+    '@context': 'https://schema.org', '@type': 'Service', name: pageName, description, provider: { '@id': organization['@id'] }, areaServed: area ? [{ '@type': 'AdministrativeArea', name: pick(area, locale) }] : organization.areaServed,
   } : route.kind === 'home' ? organization : { '@context': 'https://schema.org', '@type': detail && route.kind === 'offers' ? 'WebPage' : 'CollectionPage', name: title, url: `${REHAB_ORIGIN}${path}`, about: { '@id': organization['@id'] } };
-  const breadcrumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ name: t.browseDirectory, item: `${REHAB_ORIGIN}${locale === 'en' ? '/en' : ''}/providers` }, { name: baseName, item: `${REHAB_ORIGIN}${presencePath(locale)}` }, ...(route.kind === 'home' ? [] : [{ name: t[route.kind], item: `${REHAB_ORIGIN}${presencePath(locale, { kind: route.kind })}` }]), ...(detail ? [{ name: pageName, item: `${REHAB_ORIGIN}${path}` }] : [])].map((entry, index) => ({ '@type': 'ListItem', position: index + 1, ...entry })) };
+  const breadcrumbs = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ name: t.browseDirectory, item: `${REHAB_ORIGIN}${locale === 'en' ? '/en' : ''}/providers` }, { name: baseName, item: `${REHAB_ORIGIN}${presencePath(locale)}` }, ...(route.kind === 'home' ? [] : area ? [{ name: t['service-areas'], item: `${REHAB_ORIGIN}${presencePath(locale, { kind: 'service-areas' })}` }, { name: pick(area, locale), item: `${REHAB_ORIGIN}${presencePath(locale, { kind: 'service-areas', slug: area.slug })}` }] : [{ name: t[route.kind], item: `${REHAB_ORIGIN}${presencePath(locale, { kind: route.kind })}` }]), ...(detail ? [{ name: pageName, item: `${REHAB_ORIGIN}${path}` }] : [])].map((entry, index) => ({ '@type': 'ListItem', position: index + 1, ...entry })) };
   return <Head>
     <title>{title}</title><meta name="description" content={description} />
     <link rel="canonical" href={`${REHAB_ORIGIN}${path}`} />
@@ -152,9 +153,10 @@ export default function RehabPresencePage({ data, locale = 'ar', route = { kind:
   if (unavailable || !data) return <main dir={rtl ? 'rtl' : 'ltr'} className="mx-auto max-w-4xl p-10 text-center" role="alert"><h1>{t.unavailable}</h1></main>;
   const p = data.profile;
   const detail = detailsFor(route, data);
+  const area = route.areaSlug ? data.areas.find((item) => item.slug === route.areaSlug) : null;
   const name = pick(p, locale);
   const phone = String(p.phone || '').replace(/[^+\d]/g, '');
-  const currentName = detail ? pick(detail, locale) : route.kind === 'home' ? name : t[route.kind];
+  const currentName = detail ? (area ? (rtl ? `${pick(detail, locale)} في ${pick(area, locale)}` : `${pick(detail, locale)} in ${pick(area, locale)}`) : pick(detail, locale)) : route.kind === 'home' ? name : t[route.kind];
   const wa = whatsappUrl(p.whatsapp, cleaningRequestMessage({ locale, company: name, title: currentName, path: presencePath(locale, route) }));
   const serviceContent = detail && route.kind === 'services' ? cleaningContent(detail.slug, locale) : null;
   const categories = [
@@ -220,7 +222,8 @@ export default function RehabPresencePage({ data, locale = 'ar', route = { kind:
         <article className="overflow-hidden rounded-[1.5rem] border border-slate-200 bg-white shadow-sm">
           {detail?.image ? <img src={detail.image} alt={currentName} className="max-h-96 w-full object-cover" /> : null}
           <div className="p-6 sm:p-9">{serviceContent ? <CleaningServiceDetails content={serviceContent} locale={locale} /> : <p className="whitespace-pre-line text-base leading-9 text-slate-700">{pick(detail, locale, 'description') || (route.kind === 'service-areas' ? t.offeredInArea : t.inquiry)}</p>}
-            {route.kind === 'service-areas' ? <><p className="mt-4 leading-8 text-slate-600">{rtl ? `اختر من خدمات ${name} في ${currentName}، وحدّد المنطقة ونوع العقار أو المفروشات والموعد المناسب. أرسل الصور لتوضيح المطلوب وترتيب تفاصيل الزيارة مع الشركة.` : `Explore ${name} services in ${currentName}. Share your district, property or furnishing details, photos and preferred date to arrange the visit with the company.`}</p><div className="mt-7"><Collection items={data.services} routeKind="services" locale={locale} empty={t.emptyServices} companyCover={data.media?.cover} /></div></> : null}
+            {route.kind === 'service-areas' ? <><p className="mt-4 leading-8 text-slate-600">{rtl ? `اختر من خدمات ${name} في ${currentName}، وحدّد المنطقة ونوع العقار أو المفروشات والموعد المناسب. أرسل الصور لتوضيح المطلوب وترتيب تفاصيل الزيارة مع الشركة.` : `Explore ${name} services in ${currentName}. Share your district, property or furnishing details, photos and preferred date to arrange the visit with the company.`}</p><div className="mt-7"><Collection items={data.services} routeKind="services" locale={locale} empty={t.emptyServices} companyCover={data.media?.cover} areaSlug={route.slug} /></div></> : null}
+            {area ? <p className="mt-4"><Link className="text-sm font-bold text-[#76531D] underline underline-offset-4" href={presencePath(locale, { kind: 'service-areas', slug: area.slug })}>{rtl ? `جميع خدمات الرحاب في ${pick(area, locale)}` : `All Al Rehab services in ${pick(area, locale)}`}</Link></p> : null}
             {route.kind === 'services' ? <p className="mt-5"><Link href={rtl ? '/services/cleaning' : '/en/categories/cleaning-services'} className="inline-flex min-h-11 items-center rounded-xl border border-[#C8AB76] px-5 py-3 text-sm font-bold text-[#76531D]">{rtl ? 'الخدمة ضمن قطاع التنظيف على بيت الريف' : 'Explore the cleaning sector on Biet Al Reef'}</Link></p> : null}
             <p className="mt-6 text-sm text-slate-600">{t.inquiry}</p>
             {wa ? <a className="mt-4 inline-flex items-center gap-2 rounded-xl bg-[#D4AD63] px-5 py-3 font-bold text-[#152E4A]" href={wa} target="_blank" rel="noopener noreferrer"><MessageCircle size={17} />{t.whatsapp}</a> : null}

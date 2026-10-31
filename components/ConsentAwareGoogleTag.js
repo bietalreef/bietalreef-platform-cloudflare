@@ -84,6 +84,24 @@ export default function ConsentAwareGoogleTag() {
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           window.gtag = window.gtag || gtag;
+          // Apply an existing affirmative choice before the first page-view hit.
+          // Default remains denied unless the visitor previously opted in.
+          try {
+            var stored = window.localStorage.getItem('bietalreef.privacy.v1');
+            var storedChoice = stored;
+            if (stored && stored.charAt(0) === '{') {
+              var parsed = JSON.parse(stored);
+              storedChoice = parsed && parsed.analytics;
+            }
+            if (storedChoice === 'accepted') {
+              gtag('consent', 'update', {
+                analytics_storage: 'granted',
+                ad_storage: 'granted',
+                ad_user_data: 'granted',
+                ad_personalization: 'granted'
+              });
+            }
+          } catch (e) {}
           gtag('js', new Date());
           gtag('config', '${GOOGLE_ADS_TAG_ID}');
           gtag('config', '${GOOGLE_ANALYTICS_ID}');

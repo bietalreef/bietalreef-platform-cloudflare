@@ -232,7 +232,7 @@ export default function RehabPresencePage({ data, locale = 'ar', route = { kind:
       </Section>
     </> : <Section title={categories.find((c) => c.kind === route.kind)?.title} locale={locale}><Collection items={categories.find((c) => c.kind === route.kind)?.items || []} routeKind={route.kind} locale={locale} empty={categories.find((c) => c.kind === route.kind)?.empty} companyCover={data.media?.cover} /></Section>}
 
-    {route.kind === 'services' && detail && data.services.length > 1 ? <Section title={rtl ? 'خدمات أخرى من الرحاب' : 'More Al Rehab services'} locale={locale}><Collection items={data.services.filter(item => item.slug !== detail.slug)} locale={locale} routeKind="services" companyCover={data.media?.cover} /></Section> : null}
+    {route.kind === 'services' && detail && data.services.length > 1 ? <Section title={rtl ? 'خدمات أخرى من الرحاب' : 'More Al Rehab services'} locale={locale}><Collection items={data.services.filter(item => item.slug !== detail.slug)} locale={locale} routeKind="services" companyCover={data.media?.cover} areaSlug={route.areaSlug} /></Section> : null}
     </main>
     <Footer locale={locale} showRequestCTA={false} />
     {(phone || wa) ? <nav aria-label={rtl ? 'اتصال مباشر بالرحاب' : 'Contact Al Rehab'} className="fixed inset-x-0 bottom-0 z-40 flex gap-2 border-t border-slate-200 bg-white/95 px-3 pb-[max(8px,env(safe-area-inset-bottom))] pt-2 shadow-[0_-5px_22px_rgba(18,42,73,.10)] backdrop-blur-xl sm:hidden">

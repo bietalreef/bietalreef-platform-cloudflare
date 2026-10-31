@@ -29,3 +29,5 @@ jobs:
           NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co
           NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_QXLpvjjb8LtUqfv0oeV1Ag_p0_zPV_B
         run: pnpm build
+      - name: Published provider service HTTP checks
+        run: node scripts/live-provider-service-smoke.cjs

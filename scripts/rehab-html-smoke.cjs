@@ -2,6 +2,20 @@ const assert = require('node:assert/strict');
 const { test } = require('node:test');
 const React = require('react');
 const { renderToStaticMarkup } = require('react-dom/server');
+const { RouterContext } = require('next/dist/shared/lib/router-context.shared-runtime');
+
+// Next/link needs the Pages Router context when we render a compiled page directly.
+const router = {
+  route: '/', pathname: '/', asPath: '/', query: {}, basePath: '', locale: 'ar',
+  locales: ['ar', 'en'], defaultLocale: 'ar',
+  isReady: true, isFallback: false, isPreview: false,
+  push: async () => true, replace: async () => true, prefetch: async () => {},
+  back: () => {}, beforePopState: () => {},
+  events: { on: () => {}, off: () => {}, emit: () => {} },
+};
+const renderPage = (page, props) => renderToStaticMarkup(
+  React.createElement(RouterContext.Provider, { value: { ...router, locale: props.locale || 'ar' } }, React.createElement(page, props))
+);
 
 const ar = require('../.next/server/pages/providers/alrehab-home-clean.js').default;
 const en = require('../.next/server/pages/en/providers/alrehab-home-clean.js').default;
@@ -18,7 +32,7 @@ const data = { profile, services: [service], offers: [], areas: [area], projects
 
 test('Bilingual company page includes real-data cards, navigation and contact in SSR HTML', () => {
   for (const [locale, page] of [['ar', ar], ['en', en]]) {
-    const html = renderToStaticMarkup(React.createElement(page, { data, locale, route: { kind: 'home' } }));
+    const html = renderPage(page, { data, locale, route: { kind: 'home' } });
     const prefix = locale === 'en' ? '/en' : '';
     assert.match(html, /<h1[^>]*>/);
     assert.ok(html.includes('href="tel:0547761290"'), 'phone CTA must be real');
@@ -30,7 +44,21 @@ test('Bilingual company page includes real-data cards, navigation and contact in
 });
 
 test('Detail pages render the service content in server HTML, not client-only fragments', () => {
-  const html = renderToStaticMarkup(React.createElement(ar, { data, locale: 'ar', route: { kind: 'services', slug: 'sofa-cleaning' } }));
+  const html = renderPage(ar, { data, locale: 'ar', route: { kind: 'services', slug: 'sofa-cleaning' } });
   assert.ok(html.includes('تنظيف الأقمشة حسب حالتها'));
   assert.ok(html.includes('تنظيف الكنب'));
+});
+
+test('Area-specific Rehab service links keep geographic context in SSR markup (Arabic and English)', () => {
+  for (const [locale, page] of [['ar', ar], ['en', en]]) {
+    const areaSlug = 'abu-dhabi';
+    const prefix = locale === 'en' ? '/en' : '';
+    const nested = `${prefix}/providers/alrehab-home-clean/service-areas/${areaSlug}/services/sofa-cleaning`;
+    const areaPage = renderPage(page, { data, locale, route: { kind: 'service-areas', slug: areaSlug } });
+    assert.ok(areaPage.includes(nested), 'service cards in area must keep the selected area');
+    const servicePage = renderPage(page, { data, locale, route: { kind: 'services', slug: 'sofa-cleaning', areaSlug } });
+    assert.ok(servicePage.includes(nested), 'service page must preserve its nested canonical URL');
+    assert.ok(servicePage.includes(locale === 'ar' ? 'تنظيف الكنب في أبوظبي' : 'Sofa cleaning in Abu Dhabi'), 'localized service and area should appear together');
+    assert.ok(servicePage.includes(`${prefix}/providers/alrehab-home-clean/service-areas/abu-dhabi`), 'service page must link back to the area');
+  }
 });

@@ -143,6 +143,14 @@ export async function getServerSideProps({ res }) {
           { priority: route.kind === 'home' ? 0.8 : 0.65, lastmod: CLEANING_CONTENT_UPDATED_AT },
         );
       });
+      // Geographic service combinations are backed by the same published service
+      // and approved coverage records, not duplicated editorial data.
+      rehab.areas.forEach((area) => {
+        rehab.services.forEach((service) => {
+          const route = { kind: 'services', slug: service.slug, areaSlug: area.slug };
+          addPair(presencePath('ar', route), presencePath('en', route), undefined, { priority: 0.61, lastmod: CLEANING_CONTENT_UPDATED_AT });
+        });
+      });
     }
   } catch (error) {
     console.error('Sitemap provider channel unavailable:', error?.message);
@@ -180,6 +188,12 @@ export async function getServerSideProps({ res }) {
       for (const route of routes) {
         addPair(alNaeemPath('ar',route),alNaeemPath('en',route),route.kind==='home'?alNaeem.profile.cover_image_url:null,{priority:route.kind==='home'?0.78:0.65,lastmod:CLEANING_CONTENT_UPDATED_AT});
       }
+      alNaeem.areas.forEach((area) => {
+        alNaeem.services.forEach((service) => {
+          const route = { kind: 'services', slug: service.slug, areaSlug: area.slug };
+          addPair(alNaeemPath('ar', route), alNaeemPath('en', route), undefined, { priority: 0.61, lastmod: CLEANING_CONTENT_UPDATED_AT });
+        });
+      });
     }
   } catch (error) {
     console.error('Al Nuaim sitemap data unavailable:',error?.message);

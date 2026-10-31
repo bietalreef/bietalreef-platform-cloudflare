@@ -34,3 +34,17 @@ test('Detail pages render the service content in server HTML, not client-only fr
   assert.ok(html.includes('تنظيف الأقمشة حسب حالتها'));
   assert.ok(html.includes('تنظيف الكنب'));
 });
+
+test('Area-specific Rehab service links keep geographic context in SSR markup (Arabic and English)', () => {
+  for (const [locale, page] of [['ar', ar], ['en', en]]) {
+    const areaSlug = 'abu-dhabi';
+    const prefix = locale === 'en' ? '/en' : '';
+    const nested = `${prefix}/providers/alrehab-home-clean/service-areas/${areaSlug}/services/sofa-cleaning`;
+    const areaPage = renderToStaticMarkup(React.createElement(page, { data, locale, route: { kind: 'service-areas', slug: areaSlug } }));
+    assert.ok(areaPage.includes(nested), 'service cards in area must keep the selected area');
+    const servicePage = renderToStaticMarkup(React.createElement(page, { data, locale, route: { kind: 'services', slug: 'sofa-cleaning', areaSlug } }));
+    assert.ok(servicePage.includes(nested), 'service page must preserve its nested canonical URL');
+    assert.ok(servicePage.includes(locale === 'ar' ? 'تنظيف الكنب في أبوظبي' : 'Sofa cleaning in Abu Dhabi'), 'localized service and area should appear together');
+    assert.ok(servicePage.includes(`${prefix}/providers/alrehab-home-clean/service-areas/abu-dhabi`), 'service page must link back to the area');
+  }
+});

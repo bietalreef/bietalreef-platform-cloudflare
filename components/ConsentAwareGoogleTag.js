@@ -27,9 +27,17 @@ export default function ConsentAwareGoogleTag() {
       });
     };
 
+    // Initial consent may already be stored when this component mounts, while
+    // the Next.js Google tag scripts have not initialized window.gtag yet.
+    // Replay the saved preference after the tag's ready event, without
+    // changing a visitor's choice or granting consent implicitly.
     syncConsent();
     window.addEventListener(CONSENT_EVENT, syncConsent);
-    return () => window.removeEventListener(CONSENT_EVENT, syncConsent);
+    window.addEventListener('bietalreef:google-ready', syncConsent);
+    return () => {
+      window.removeEventListener(CONSENT_EVENT, syncConsent);
+      window.removeEventListener('bietalreef:google-ready', syncConsent);
+    };
   }, []);
 
   useEffect(() => {

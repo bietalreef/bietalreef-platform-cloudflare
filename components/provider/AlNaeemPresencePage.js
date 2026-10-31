@@ -86,8 +86,8 @@ const mapUrl = 'https://www.google.com/maps/search/?api=1&query='+encodeURICompo
 function QuoteActions({phone,wa,locale,subject,large=false}) {
   const t=texts[locale];const phoneLink=safeTel(phone), waLink=whatsappHref(wa,subject);
   return <div className={"flex flex-wrap items-center gap-2 "+(large?"mt-6":"mt-4")}>
-    {waLink&&<a href={waLink} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl bg-[#163d58] px-5 py-3 text-[15px] font-bold text-white shadow-sm transition hover:bg-[#0e2b40]"><MessageCircle size={18}/>{large?t.book:t.whatsapp}</a>}
-    {phoneLink&&<a href={phoneLink} className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl border border-[#d4bb89] bg-white px-5 py-3 text-[15px] font-bold text-[#173b56]"><Phone size={17}/>{t.call}</a>}
+    {phoneLink&&<a href={phoneLink} aria-label={t.call} className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl bg-[#D4AD63] px-5 py-3 text-[15px] font-extrabold text-[#102f46] shadow-sm transition hover:bg-[#E4BF79]"><Phone size={17}/>{t.call}</a>}
+    {waLink&&<a href={waLink} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl border border-[#d4bb89] bg-white px-5 py-3 text-[15px] font-bold text-[#173b56]"><MessageCircle size={18}/>{large?t.book:t.whatsapp}</a>}
   </div>;
 }
 function ServiceCard({item,locale,kind='services',areaSlug}) {
@@ -301,8 +301,8 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
     </main>
     <Footer locale={locale}/>
     <div className="fixed inset-x-0 bottom-0 z-40 flex gap-2 border-t border-[#e7e7e6] bg-white/95 px-3 pb-[max(12px,env(safe-area-inset-bottom))] pt-3 shadow-[0_-5px_22px_rgba(12,37,55,.13)] backdrop-blur-xl md:hidden">
-      <a href={safeTel(phone)} className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl border border-[#c8ac79] bg-white text-[14px] font-bold text-[#173b55]"><Phone size={17}/>{t.call}</a>
-      <a href={whatsappHref(wa,subject)} target="_blank" rel="noopener noreferrer" className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl bg-[#173e59] text-[14px] font-bold text-white"><MessageCircle size={18}/>{t.whatsapp}</a>
+      <a href={safeTel(phone)} aria-label={t.call} className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl bg-[#D4AD63] text-[14px] font-extrabold text-[#102f46]"><Phone size={17}/>{t.call}</a>
+      <a href={whatsappHref(wa,subject)} target="_blank" rel="noopener noreferrer" className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl border border-[#c8ac79] bg-white text-[14px] font-bold text-[#173b55]"><MessageCircle size={18}/>{t.whatsapp}</a>
     </div>
     <div className="h-20 md:hidden" aria-hidden="true"/>
   </div>;

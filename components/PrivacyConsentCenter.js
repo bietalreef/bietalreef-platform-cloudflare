@@ -235,6 +235,22 @@ export default function PrivacyConsentCenter({ locale = 'ar', contactSurface = n
         </div>
       ) : null}
 
+      {choice !== null ? (
+        <div className="mx-auto flex w-full max-w-6xl justify-end px-4 py-2" dir={isArabic ? 'rtl' : 'ltr'}>
+          <button
+            type="button"
+            onClick={() => {
+              setPerformance(choice === 'accepted');
+              setOpen(true);
+            }}
+            className="rounded-lg px-2 py-1 text-xs font-medium text-slate-500 underline underline-offset-4 hover:text-slate-900"
+            aria-label={t.manage}
+          >
+            {t.manage}
+          </button>
+        </div>
+      ) : null}
+
       {open ? (
         <div className="fixed inset-0 z-[120] flex items-center justify-center bg-black/45 p-3 backdrop-blur-[2px]" dir={isArabic ? 'rtl' : 'ltr'}>
           <section

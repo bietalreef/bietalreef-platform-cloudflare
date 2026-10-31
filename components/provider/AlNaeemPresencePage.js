@@ -90,9 +90,9 @@ function QuoteActions({phone,wa,locale,subject,large=false}) {
     {phoneLink&&<a href={phoneLink} className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl border border-[#d4bb89] bg-white px-5 py-3 text-[15px] font-bold text-[#173b56]"><Phone size={17}/>{t.call}</a>}
   </div>;
 }
-function ServiceCard({item,locale,kind='services'}) {
+function ServiceCard({item,locale,kind='services',areaSlug}) {
   const t=texts[locale];const isOffer=kind==='offers';
-  const href=item.isInquiry?alNaeemPath(locale)+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug});
+  const href=item.isInquiry?alNaeemPath(locale)+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{})});
   return <article className="group overflow-hidden rounded-[22px] border border-[#e4e5e5] bg-white shadow-[0_8px_26px_rgba(19,48,70,.055)] transition hover:-translate-y-0.5 hover:shadow-lg">
     <Link href={href} className="flex sm:block focus-visible:outline-offset-4">
       <div className="relative h-28 w-28 shrink-0 overflow-hidden sm:h-auto sm:w-full sm:aspect-[16/10] bg-[#edf0ec]">
@@ -107,7 +107,7 @@ function ServiceCard({item,locale,kind='services'}) {
     </Link>
   </article>;
 }
-function CardGrid({items,kind,locale}) {
+function CardGrid({items,kind,locale,areaSlug}) {
   const t=texts[locale];
   if(!items?.length)return <p className="rounded-2xl border border-dashed p-5">{kind==='offers'?t.noOffers:t.noService}</p>;
   if(kind==='service-areas')return <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
@@ -115,9 +115,9 @@ function CardGrid({items,kind,locale}) {
       <MapPin size={23} className="text-[#c59b4f]"/><span className="text-[16px] font-bold text-[#163b56]">{pick(x,locale)}</span><span className="text-[12px] text-[#6c7e8d]">{t.view}</span>
     </Link>)}
   </div>;
-  return <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:gap-5">{items.map(item=><ServiceCard key={item.id} item={item} locale={locale} kind={kind}/>)}</div>;
+  return <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:gap-5">{items.map(item=><ServiceCard key={item.id} item={item} locale={locale} kind={kind} areaSlug={areaSlug}/>)}</div>;
 }
-function Segment({kind,locale,items,title,lead,showAll=true}) {
+function Segment({kind,locale,items,title,lead,showAll=true,areaSlug}) {
   const t=texts[locale];return <section id={kind} className="mx-auto w-full max-w-[1180px] scroll-mt-28 px-4 py-8 sm:px-6 sm:py-12">
     <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
       <div className="max-w-[760px]"><span className="mb-2 block text-[12px] font-bold tracking-wide text-[#ab803b]">{t.brand} / {t[kind]}</span>
@@ -126,7 +126,7 @@ function Segment({kind,locale,items,title,lead,showAll=true}) {
       </div>
       {showAll&&items.length>0&&<Link href={alNaeemPath(locale,{kind})} className="rounded-full border border-[#d6c49e] px-4 py-2 text-[13px] font-bold text-[#163951]">{t.all}</Link>}
     </div>
-    <CardGrid items={items} kind={kind} locale={locale}/>
+    <CardGrid items={items} kind={kind} locale={locale} areaSlug={areaSlug}/>
   </section>;
 }
 function FAQ({locale,subject,phone,wa}) {
@@ -184,18 +184,19 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
   const serviceChoices=[...data.services,...(data.additionalRequests||[]).map(request=>({...request,isInquiry:true}))];
   const cols={services:serviceChoices,offers:data.offers,'service-areas':data.coverageAreas||data.areas};
   const item=route.slug?cols[route.kind]?.find(x=>x.slug===route.slug):null;
-  const name=pick(data.profile,locale), title=route.kind==='home'?name:item?pick(item,locale):t[route.kind];
+  const area=route.areaSlug?(data.coverageAreas||data.areas).find(x=>x.slug===route.areaSlug):null;
+  const name=pick(data.profile,locale), title=route.kind==='home'?name:item?(area?(en?`${pick(item,locale)} in ${pick(area,locale)}`:`${pick(item,locale)} في ${pick(area,locale)}`):pick(item,locale)):t[route.kind];
   const subject=cleaningRequestMessage({locale,company:t.brand,title,path});
   const serviceContent = item && route.kind === 'services' ? cleaningContent(item.slug,locale) : null;
   const relatedOffers = item && route.kind === 'services' ? data.offers.filter(offer=>offer.service_slug===item.slug) : [];
-  const summary=item ? `${pick(item,locale)} — ${t.brand}. ${pick(item,locale,'description')}` : route.kind==='home'?t.lead:`${t[route.kind]} — ${t.brand}. ${route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead}`;
+  const summary=item ? `${title} — ${t.brand}. ${pick(item,locale,'description')}` : route.kind==='home'?t.lead:`${t[route.kind]} — ${t.brand}. ${route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead}`;
   const metaTitle=title+' | '+(route.kind==='home'?t.sector:t.brand)+' | '+(en?'Biet Al Reef':'بيت الريف');
   const photo=data.profile.cover_image_url;
   const phone=data.profile.phone,wa=data.profile.whatsapp;
   const related=item?data.services.filter(x=>x.slug!==item.slug).slice(0,2):[];
   const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+root+'#company',name,url:AL_NAEEM_ORIGIN+root,telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:(data.coverageAreas||data.areas).map(a=>({'@type':'Place',name:pick(a,locale)}))};
-  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
-  const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{name:t.official,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/providers'},{name:t.brand,item:AL_NAEEM_ORIGIN+root},...(route.kind==='home'?[]:[{name:t[route.kind],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:route.kind})}]),...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])].map((entry,index)=>({'@type':'ListItem',position:index+1,...entry}))};
+  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:area?[{'@type':'Place',name:pick(area,locale)}]:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
+  const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{name:t.official,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/providers'},{name:t.brand,item:AL_NAEEM_ORIGIN+root},...(route.kind==='home'?[]:area?[{name:t['service-areas'],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas'})},{name:pick(area,locale),item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}]:[{name:t[route.kind],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:route.kind})}]),...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])].map((entry,index)=>({'@type':'ListItem',position:index+1,...entry}))};
   const structured=[companySchema,pageSchema,breadcrumbSchema];
   return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className="min-h-screen bg-[#faf9f6] font-sans text-[#1a3143]">
     <Head>
@@ -217,7 +218,8 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       <div className="mx-auto max-w-[1180px] px-4 pt-4 sm:px-6">
         <nav aria-label={en?'Breadcrumb':'مسار التنقل'} className="mb-4 flex flex-wrap items-center gap-2 text-[12px] text-[#67798b]">
           <Link href={en?'/en/providers':'/providers'}>{t.official}</Link><span>›</span><Link href={root}>{t.brand}</Link>
-          {route.kind!=='home'&&<><span>›</span><Link href={alNaeemPath(locale,{kind:route.kind})}>{t[route.kind]}</Link></>}
+          {route.kind!=='home'&&<><span>›</span><Link href={alNaeemPath(locale,{kind:area?'service-areas':route.kind})}>{area?t['service-areas']:t[route.kind]}</Link></>}
+          {area&&<><span>›</span><Link href={alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}>{pick(area,locale)}</Link></>}
           {item&&<><span>›</span><span className="font-bold text-[#183852]">{title}</span></>}
         </nav>
       </div>
@@ -268,6 +270,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <h2 className="mt-2 text-[24px] font-extrabold text-[#153b55]">{route.kind==='services'?(en?'Service details':'تفاصيل الخدمة'):title}</h2>
             <p className="mt-4 max-w-4xl text-[16px] leading-9 text-[#526b7b]">{pick(item,locale,'details')||pick(item,locale,'description')||t.coverageNote}</p>
             {serviceContent&&<CleaningServiceDetails content={serviceContent} locale={locale}/>}
+            {area&&<p className="mt-4"><Link href={alNaeemPath(locale,{kind:'service-areas',slug:area.slug})} className="text-[14px] font-bold text-[#174059] underline underline-offset-4">{en?`All Al Naeem services in ${pick(area,locale)}`:`جميع خدمات النعيم في ${pick(area,locale)}`}</Link></p>}
             {route.kind==='offers'&&item.service_slug&&<Link href={alNaeemPath(locale,{kind:'services',slug:item.service_slug})} className="mt-4 inline-flex items-center gap-2 rounded-xl border border-[#d7c49d] px-4 py-2.5 text-[14px] font-bold text-[#174059]">{en?'Explore included service':'تفاصيل الخدمة المرتبطة'}<ArrowLeft size={16} className={en?'rotate-180':''}/></Link>}
             {route.kind==='service-areas'&&<>
               {Array.isArray(item[en?'highlights_en':'highlights_ar'])&&<div className="mt-6 border-t border-[#e9e8e1] pt-5">
@@ -283,7 +286,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
           </div>
         </section>
         {relatedOffers.length>0&&<Segment kind="offers" locale={locale} items={relatedOffers} title={en?'Offers for this service':'عروض هذه الخدمة'} showAll={false}/>}
-        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related}/>:null}
+        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll areaSlug={route.slug}/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related}/>:null}
       </>:<Segment kind={route.kind} locale={locale} items={cols[route.kind]||[]} title={route.kind==='services'?t.serviceTitle:route.kind==='offers'?t.offerTitle:t.areaTitle} lead={route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead} showAll={false}/>}
       {(route.kind==='home'||route.kind==='service-areas')&&<AdditionalCleaningRequests data={data} locale={locale} wa={wa}/>}
       {!serviceContent&&<FAQ locale={locale} subject={subject} phone={phone} wa={wa}/>}

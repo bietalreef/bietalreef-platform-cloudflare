@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from './Navbar';
 import Footer from './Footer';
+import KawkabMobileContactBar from './provider/KawkabMobileContactBar';
 import {KAWKAB_AL_AIN_AREAS,kawkabAreaServicePath,KAWKAB_SPECIALTIES,KAWKAB_ORIGIN,kawkabWhatsapp,kawkabServiceImage} from '../lib/kawkabPresence';
 
 export default function AlAinMaintenanceAreaPage({model}) {
@@ -14,7 +15,7 @@ export default function AlAinMaintenanceAreaPage({model}) {
  const description=selectedService?(en?`${selectedService.enDesc} in ${name}, Al Ain. Request a quote from Kawkab Al Saeed and confirm local availability.`:`${selectedService.arDesc} في ${name} بالعين. تواصل مع كوكب الصعيد لتأكيد نطاق الخدمة وطلب عرض سعر.`):(en?`Find verified maintenance, painting, AC, plumbing and finishing businesses serving ${name}, Al Ain. Review services and request a detailed quotation.`:`اكتشف شركات الصيانة والدهانات والتشطيبات الموثقة في بيت الريف التي تخدم ${name} في العين. قارن الخدمات، شاهد ملفات الشركات واطلب عرض سعر يناسب عملك.`);
  const hasKawkab=providers.some(p=>p.id==='c93b1b94-4d2e-4736-b1de-37e5bc93afa2');
   const schema={'@context':'https://schema.org','@type':'CollectionPage',name:title,url:canon,description,mainEntity:{'@type':'ItemList',itemListElement:providers.map((p,i)=>({'@type':'ListItem',position:i+1,name:p.name[locale],url:KAWKAB_ORIGIN+pre+'/providers/'+p.slug}))}};
- return <div dir={en?'ltr':'rtl'} lang={locale} className="min-h-screen bg-[#fbfaf7] text-[#28231e]">
+ return <div dir={en?'ltr':'rtl'} lang={locale} className="min-h-screen bg-[#fbfaf7] pb-20 text-[#28231e] sm:pb-0">
  <Head><title>{title}</title><meta name="description" content={description}/><meta name="robots" content={providers.length?'index, follow, max-image-preview:large':'noindex, follow'}/><link rel="canonical" href={canon}/><link rel="alternate" hrefLang="ar-AE" href={KAWKAB_ORIGIN+`/uae/abu-dhabi/al-ain/${area.slug}/general-maintenance${selectedService?`/${selectedService.id}`:""}`}/><link rel="alternate" hrefLang="en-AE" href={KAWKAB_ORIGIN+`/en/uae/abu-dhabi/al-ain/${area.slug}/general-maintenance${selectedService?`/${selectedService.id}`:""}`}/><script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema)}}/></Head>
  <Navbar/>
  <main className="mx-auto max-w-6xl px-3 py-4 md:px-5 md:py-9">
@@ -33,5 +34,5 @@ export default function AlAinMaintenanceAreaPage({model}) {
  {hasKawkab&&<section className="mt-7"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?`Kawkab Al Saeed services for ${name}`:`خدمات كوكب الصعيد المطلوبة في ${name}`}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-3 md:gap-4">{(selectedService?[selectedService]:KAWKAB_SPECIALTIES).map(service=><article key={service.id} className="overflow-hidden rounded-xl border bg-white"><Link href={kawkabAreaServicePath(locale,area.slug,service.id)}><img src={kawkabServiceImage(service.id).url} alt={kawkabServiceImage(service.id)['alt_'+locale]} loading="lazy" width="400" height="300" className="aspect-[4/3] w-full object-cover"/><h3 className="px-3 py-2 text-sm font-bold">{service[locale]}</h3></Link><p className="hidden px-3 pb-3 text-sm leading-7 text-[#6b6052] md:block">{service[locale+'Desc']}</p></article>)}</div></section>}
  <section className="mt-6 hidden rounded-xl border bg-white p-6 md:block"><h2 className="text-lg font-bold">{en?'Plan a clear quotation':'جهّز طلب عرض سعر واضحًا'}</h2><p className="mt-3 leading-8 text-[#6b6052]">{en?`For work in ${name}, include your address, dimensions, pictures of existing finishes or equipment, desired materials and a suitable date. Compare the scope with providers before selecting a quote.`:`عند طلب الصيانة أو التشطيبات في ${name}، حدد عنوان العقار ومساحة العمل وصور الجدران أو الأجهزة والخامات المطلوبة والموعد المناسب. قارن نطاق التنفيذ والمواد ومدة العمل مع الشركة قبل اتخاذ القرار.`}</p></section>
  <section className="mt-7"><h2 className="mb-3 text-lg font-bold">{en?'Other Al Ain districts':'مناطق أخرى في العين'}</h2><div className="grid grid-cols-3 gap-2 md:grid-cols-5">{KAWKAB_AL_AIN_AREAS.filter(a=>a.slug!==area.slug).map(a=><Link key={a.slug} href={selectedService?kawkabAreaServicePath(locale,a.slug,selectedService.id):pre+`/uae/abu-dhabi/al-ain/${a.slug}/general-maintenance`} className="rounded-lg border bg-white px-2 py-2 text-center text-xs md:text-sm">{a[locale]}</Link>)}</div></section>
- </main><Footer/></div>;
+ </main><Footer/>{selectedService&&hasKawkab?<KawkabMobileContactBar locale={locale} service={`${selectedService[locale]} - ${name}`}/>:null}</div>;
 }

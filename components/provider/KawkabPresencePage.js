@@ -52,7 +52,7 @@ function Areas({locale,short=false}){
 function Gallery({locale,short=false}){
   const t=i18n[locale];return <section className="mx-auto max-w-6xl px-4 py-7 sm:py-10">
     <SectionTitle title={t.galleryTitle} desc={t.galleryDesc} href={short?kawkabPath(locale,'gallery'):null} cta={t.seeAll}/>
-    <div className="grid grid-cols-2 gap-2.5 lg:grid-cols-4">{KAWKAB_GALLERY.map((image,index)=><ImageCard key={image.id} image={image} locale={locale} prefetch={false}/>)}</div>
+    <div className="grid grid-cols-2 gap-2.5 lg:grid-cols-4">{KAWKAB_GALLERY.map((image,index)=><div key={image.id} className={short && index>1?"hidden md:block":""}><ImageCard image={image} locale={locale} prefetch={false}/></div>)}</div>
     {!short&&<><h3 className="mb-3 mt-9 text-lg font-bold text-[#29241e]">{t.detailTitle}</h3><div className="grid grid-cols-2 gap-2.5 md:grid-cols-4">{KAWKAB_DETAILS.map(image=><ImageCard key={image.id} image={image} locale={locale}/>)}</div><p className="mt-4 text-xs leading-6 text-[#756e66]">{t.note}</p></>}
   </section>;
 }
@@ -68,7 +68,7 @@ function AlAinCoverage({locale,short=false}){
  const t=i18n[locale],items=short?KAWKAB_AL_AIN_AREAS.slice(0,6):KAWKAB_AL_AIN_AREAS;
  return <section className="mx-auto w-full max-w-6xl px-4 py-7 sm:py-10" id="al-ain-districts">
   <SectionTitle title={t.ainTitle} desc={t.ainDesc} href={short?kawkabPath(locale,'al-ain'):null} cta={t.seeAll}/>
-  <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:grid-cols-5">{items.map(area=><article key={area.slug} id={'district-'+area.slug} className="min-w-0 rounded-xl border border-[#e8dfd4] bg-white p-3 sm:p-4">
+  <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:grid-cols-5">{items.map(area=><article key={area.slug} id={'district-'+area.slug} className={`min-w-0 rounded-xl border border-[#e8dfd4] bg-white p-3 sm:p-4 ${short && items.indexOf(area)>3 ? "hidden md:block" : ""}`}>
    <h3 className="truncate text-sm font-bold text-[#302b24]">{area[locale]}</h3>
    <Link className="mt-2 inline-flex text-xs font-semibold leading-6 text-[#806333]" href={`${kawkabAreaPath(locale,area.slug)}/general-maintenance`}>{locale==='en'?'View maintenance services':'خدمات الصيانة في المنطقة'} ←</Link>
   </article>)}</div>
@@ -79,6 +79,51 @@ function ProcessGuide({locale}){
  const t=i18n[locale];return <section className="mx-auto max-w-6xl px-4 py-7"><h2 className="text-xl font-bold">{t.workGuideTitle}</h2><p className="mt-3 max-w-4xl text-sm leading-7 text-[#62594d]">{t.workGuide}</p>
  <div className="mt-4 grid grid-cols-2 gap-2 md:grid-cols-4">{(locale==='en'?['Share site location','Describe surfaces and work','Select finishes and materials','Confirm scope and quote']:['حدد الموقع والمساحة','اشرح حالة الجدران ونوع العمل','اختر الألوان والخامات','راجع نطاق العمل وعرض السعر']).map((item,i)=><div key={item} className="rounded-xl border border-[#e8dfd4] bg-white p-3"><span className="text-xs font-semibold text-[#977746]">{String(i+1).padStart(2,'0')}</span><h3 className="mt-2 text-sm font-semibold">{item}</h3></div>)}</div></section>;
 }
+
+// Detailed, helpful service guidance remains in the rendered HTML. Mobile keeps a
+// compact first view with optional details; desktop reads as a complete guide.
+const WORK_NOTES = {
+  ar: [
+    {name:'الدهانات والديكور',when:'تجديد لون الجدران والأسقف أو معالجة التشققات والدهان المتقشر.',inspect:'حالة الدهان القديم، الرطوبة، استواء السطح، عدد الطبقات ونوع التشطيب.',quote:'مساحة الجدران والأسقف، صور الموقع، اللون المطلوب ونطاق الحماية والتنظيف.'},
+    {name:'البلاستر وتجهيز الأسطح',when:'تسوية الجدران قبل أعمال الطلاء أو معالجة عيوب السطح.',inspect:'درجة استواء الجدار، مناطق الشروخ، التماسك ونقاط الرطوبة.',quote:'المساحة، حالة السطح، سمك المعالجة إن لزم والمراحل المطلوبة قبل الدهان.'},
+    {name:'ورق الجدران',when:'تنفيذ جدار مميز أو تحديث تشطيب غرفة دون تغيير كامل الديكور.',inspect:'نعومة الجدار وجفافه، أبعاد الزوايا، فتحات الكهرباء ونقشة الورق.',quote:'القياسات، نوع الورق، عدد الجدران وصور الزوايا والتفاصيل.'},
+    {name:'النجارة والأرضيات الخشبية',when:'تجديد عناصر خشبية أو تركيب تشطيب أرضيات يناسب استخدام المساحة.',inspect:'المقاسات، استواء الأرضية، الرطوبة، طبيعة الاستخدام والتفاصيل الطرفية.',quote:'رسم أو قياسات مبدئية، صور الموقع، نوع الخامة وأعمال الفك أو التركيب.'},
+    {name:'السباكة والتمديدات',when:'مراجعة تمديدات أو تجهيز نقاط صحية ضمن أعمال الصيانة والتجديد.',inspect:'موضع المشكلة أو نقطة التمديد، إمكانية الوصول وحالة الوصلات.',quote:'وصف العمل، صور واضحة، موقع العقار وتحديد ما إذا كان هناك تكسير أو إعادة تشطيب.'},
+    {name:'التكييف والتهوية',when:'تركيب أو صيانة أجهزة التكييف أو تحسين توزيع التهوية.',inspect:'نوع النظام، الموديل، حالة التركيب، مسار الهواء والتصريف.',quote:'صور الوحدة، الموديل، وصف العطل أو العمل المطلوب والموقع.'}
+  ],
+  en: [
+    {name:'Painting and decorating',when:'Refresh walls and ceilings or address cracking and worn coatings.',inspect:'Existing paint, moisture, surface flatness, preparation and finish.',quote:'Approximate area, site images, preferred colour and protection requirements.'},
+    {name:'Plaster and surface preparation',when:'Prepare uneven or damaged walls before finishing.',inspect:'Surface adhesion, cracks, dampness and levelling needs.',quote:'Area, current condition and expected preparation stages.'},
+    {name:'Wallpaper installation',when:'Create an accent wall or refresh a room finish.',inspect:'Wall dryness, corners, outlets, dimensions and pattern repeat.',quote:'Wall sizes, chosen wallpaper and detailed location photographs.'},
+    {name:'Carpentry and wooden flooring',when:'Renew woodwork or install an interior floor finish.',inspect:'Measurements, level, moisture, usage and finishing edges.',quote:'Dimensions, images, material preference and installation requirements.'},
+    {name:'Plumbing and sanitary work',when:'Maintain plumbing or adjust sanitary connections during refurbishment.',inspect:'Connection access, problem location and surrounding finishes.',quote:'Service description, photos, location and any associated reinstatement.'},
+    {name:'Air conditioning and ventilation',when:'Install, maintain or review air-conditioning and ventilation equipment.',inspect:'Unit model, current condition, airflow and drainage.',quote:'Model, unit photos, symptoms and property location.'}
+  ]
+};
+function DetailedCompanyGuide({locale}) {
+  const en=locale==='en';
+  const notes=WORK_NOTES[locale];
+  const blocks=<>
+    <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">{notes.map((note,index)=><article key={note.name} className="rounded-xl border border-[#e9dfd0] bg-white p-5">
+      <span className="text-xs font-semibold text-[#856737]">{String(index+1).padStart(2,'0')}</span>
+      <h3 className="mt-1 text-lg font-bold text-[#29251e]">{note.name}</h3>
+      <p className="mt-3 text-sm leading-7 text-[#524d43]"><strong>{en?'When it is relevant: ':'متى تحتاجها؟ '}</strong>{note.when}</p>
+      <p className="mt-2 text-sm leading-7 text-[#524d43]"><strong>{en?'What to inspect: ':'ما الذي يُراجع؟ '}</strong>{note.inspect}</p>
+      <p className="mt-2 text-sm leading-7 text-[#524d43]"><strong>{en?'For a quotation: ':'قبل طلب السعر: '}</strong>{note.quote}</p>
+    </article>)}</div>
+    <div className="mt-5 grid gap-4 md:grid-cols-2">
+      <div className="rounded-xl bg-[#f2ece2] p-5"><h3 className="font-bold">{en?'Site review and execution scope':'تحديد نطاق العمل قبل التنفيذ'}</h3><p className="mt-2 text-sm leading-7">{en?'A useful quotation separates inspection and preparation, materials, installation or finishing, protection of existing areas, waste removal and expected timing. Confirm the scope with the provider before starting.':'يتضمن عرض السعر الواضح حالة الموقع، أعمال التحضير والمعالجة، الخامات، التنفيذ، حماية الأثاث والأرضيات، التنظيف بعد العمل والمدة المتوقعة. تختلف البنود بحسب المساحة وحالة الموقع ونوع التشطيب، لذا ينبغي الاتفاق عليها مع الشركة قبل التنفيذ.'}</p></div>
+      <div className="rounded-xl bg-[#f2ece2] p-5"><h3 className="font-bold">{en?'How to request an accurate quotation':'كيف تطلب عرض سعر أدق؟'}</h3><p className="mt-2 text-sm leading-7">{en?'Send your district and property type, choose one or more specialties, describe the condition and approximate dimensions, and include clear photos. The provider can then confirm availability and discuss an assessment.':'أرسل اسم المنطقة ونوع العقار، وحدد التخصص المطلوب ووصف المشكلة أو التشطيب، ثم أرفق قياسات تقريبية وصورًا واضحة. بعد ذلك يمكن للشركة تأكيد توفر الخدمة ومراجعة ما إذا كانت المعاينة مطلوبة قبل التسعير.'}</p></div>
+    </div>
+  </>;
+  return <section className="mx-auto max-w-6xl px-4 py-5 md:py-12" aria-labelledby="kawkab-detailed-guide">
+    <h2 id="kawkab-detailed-guide" className="text-lg font-bold md:text-2xl">{en?'Technical services and quotation guide':'دليل خدمات كوكب الصعيد وتفاصيل طلب عرض السعر'}</h2>
+    <p className="mt-2 hidden max-w-4xl text-sm leading-7 text-[#62594d] md:block">{en?'Learn what each trade involves, what to check on site and which details help a contractor prepare a useful quotation. These are general planning guidelines; the actual scope is confirmed with the company.':'تعرف على نطاق كل تخصص وما يجب فحصه قبل البدء والمعلومات التي يحتاجها المقاول لإعداد عرض واضح. هذه إرشادات عامة تساعد العميل على اختيار الخدمة، ويُحدد نطاق التنفيذ الفعلي بالتنسيق مع الشركة.'}</p>
+    <div className="mt-4 hidden md:block">{blocks}</div>
+    <details className="mt-2 rounded-lg border border-[#e9dfd0] bg-white px-3 py-2 md:hidden"><summary className="cursor-pointer text-xs font-semibold">{en?'Full service and quotation guide':'عرض تفاصيل الخدمات والتسعير'}</summary><div className="mt-3">{blocks}</div></details>
+  </section>;
+}
+
 function Faq({locale}){const t=i18n[locale];return <section className="mx-auto max-w-6xl px-4 py-8"><h2 className="mb-4 text-xl font-bold">{t.faq}</h2><div className="grid gap-3 md:grid-cols-2">{[[t.faq1,t.answer1],[t.faq2,t.answer2]].map(([q,a])=><div key={q} className="rounded-xl border border-[#e9e1d7] bg-white p-4"><h3 className="font-semibold">{q}</h3><p className="mt-2 text-sm leading-7 text-[#625b54]">{a}</p></div>)}</div></section>}
 export default function KawkabPresencePage({locale='ar',section='home'}){
   const lang=locale==='en'?'en':'ar', t=i18n[lang], direction=lang==='ar'?'rtl':'ltr';
@@ -111,19 +156,19 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
     <main>
       <div className="border-b border-[#e8dfd5] bg-white"><nav aria-label="Breadcrumb" className="mx-auto flex max-w-6xl items-center gap-2 px-4 py-3 text-xs text-[#786e60]"><Link href={lang==='en'?'/en/providers':'/providers'} className="hover:underline">{t.directory}</Link><span>/</span>{section==='home'?<span className="font-medium text-[#302a23]">{t.business}</span>:<><Link href={kawkabPath(lang)} className="hover:underline">{t.business}</Link><span>/</span><span className="font-medium">{titles[section]}</span></>}</nav></div>
       <header className="bg-[#f3efe7]">
-        <div className="mx-auto grid max-w-6xl gap-3 px-3 py-4 md:grid-cols-1 md:items-start md:gap-5 md:px-4 md:py-12">
+        <div className="mx-auto grid max-w-6xl gap-3 px-3 py-4 md:grid-cols-1 md:items-start md:gap-5 md:px-4 md:py-8">
           <div className="min-w-0"><div className="mb-3 flex flex-wrap items-center gap-2 text-[11px] font-semibold text-[#806333]"><span className="rounded-full border border-[#c9b694] bg-white px-3 py-1">{t.badge}</span><span>{t.sub}</span></div>
             <h1 className="text-2xl font-extrabold leading-tight tracking-tight sm:text-4xl">{section==='home'?t.business:titles[section]}</h1>
             <p className="mt-2 font-semibold text-[#765936]">{t.sub}</p>
             <p className="mt-3 text-sm leading-6 text-[#514941] md:hidden">{lang==='en'?'Painting, finishing and maintenance. Choose a service and request a quote.':'دهانات وتشطيبات وصيانة. اختر الخدمة واطلب عرض سعر بسهولة.'}</p><p className="mt-3 hidden max-w-xl text-base leading-8 text-[#514941] md:block">{section==='home'?t.intro:descriptions[section]}</p>
             <div className="mt-5 flex flex-wrap gap-2"><a href={kawkabWhatsapp(lang)} target="_blank" rel="noopener noreferrer" className="rounded-lg bg-[#302b24] px-4 py-3 text-sm font-semibold text-white">{t.whatsapp}</a><a href="tel:+971556485364" className="rounded-lg border border-[#bfb5a4] bg-white px-4 py-3 text-sm font-semibold text-[#332c24]">{t.call}</a></div>
           </div>
-          <div className="relative min-w-0 overflow-hidden rounded-xl bg-[#f7f3ec]"><picture><source media="(max-width: 639px)" srcSet={KAWKAB_HERO.mobile_url || KAWKAB_HERO.url}/><img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" fetchPriority="high" decoding="async" className="aspect-[4/3] w-full object-contain sm:aspect-[3/1]" /></picture><img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="640" height="640" loading="eager" decoding="async" className="absolute bottom-3 end-3 h-16 w-16 rounded-xl border border-white/80 bg-white/95 p-1 object-contain shadow-lg sm:h-24 sm:w-24"/></div>
+          <div className="relative w-full min-w-0 overflow-hidden rounded-xl bg-[#f7f3ec]"><picture className="block w-full"><source media="(max-width: 639px)" srcSet={KAWKAB_HERO.mobile_url || KAWKAB_HERO.url}/><img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" fetchPriority="high" decoding="async" style={{display:"block",width:"100%",height:"auto",maxWidth:"none"}} className="block w-full h-auto object-cover" /></picture><img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="512" height="512" loading="eager" decoding="async" className="absolute bottom-3 end-3 h-16 w-16 rounded-xl border border-white/80 bg-white/95 p-1 object-contain shadow-lg sm:h-20 sm:w-20"/></div>
         </div>
       </header>
       <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-2 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>
-      {section==='home'?<><Services locale={lang} short/><Gallery locale={lang} short/><ProcessGuide locale={lang}/><Areas locale={lang} short/><AlAinCoverage locale={lang} short/><Faq locale={lang}/></>:null}
-      {section==='services'?<><Services locale={lang}/><ProcessGuide locale={lang}/><Gallery locale={lang} short/></>:null}
+      {section==='home'?<><Services locale={lang} short/><DetailedCompanyGuide locale={lang}/><Gallery locale={lang} short/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><Areas locale={lang} short/><AlAinCoverage locale={lang} short/><Faq locale={lang}/></>:null}
+      {section==='services'?<><Services locale={lang}/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><Gallery locale={lang} short/></>:null}
       {section==='service-areas'?<><Areas locale={lang}/><AlAinCoverage locale={lang}/><Services locale={lang} short/><Faq locale={lang}/></>:null}
       {section==='gallery'?<><Gallery locale={lang}/><Services locale={lang} short/></>:null}
       {section==='al-ain'?<><AlAinCoverage locale={lang}/><Services locale={lang}/><ProcessGuide locale={lang}/><Faq locale={lang}/></>:null}

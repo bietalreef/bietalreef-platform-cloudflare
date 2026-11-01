@@ -140,3 +140,13 @@ test('Kawkab service photos use verified relevant portfolio media and do not inv
  assert.match(presence,/function Faq\(\{locale\}\)/);
  assert.match(read('components/KawkabServicePage.js'),/id="service-faq"/);
 });
+
+test('Kawkab cover enforces full image width even if utility style is unavailable',()=>{
+ const page=read('components/provider/KawkabPresencePage.js');
+ assert.match(page,/width:"100%",height:"auto",minHeight:"160px"/);
+ assert.match(page,/src=\{KAWKAB_HERO.url\}/);
+});
+test('global PWA install prompt never covers company-owned mobile contact bar',()=>{
+ const page=read('pages/_app.js');
+ assert.match(page,/!isCompanyLanding && !isKawkabDistrictLanding && <PwaInstallPrompt/);
+});

@@ -19,6 +19,7 @@ import {
 } from '../../lib/platformDirectoryCards';
 import { getSectionActivitySlug } from '../../lib/sectionCardRoutes';
 import { buildCardWhatsappUrl } from '../../lib/providerWhatsapp';
+import { KAWKAB_PROFILE, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_SPECIALTIES, kawkabServicePath, kawkabWhatsapp, kawkabPath } from '../../lib/kawkabPresence';
 
 const SITE_URL = 'https://bietalreef.ae';
 const WHITE_WHALE_SERVICE_WHATSAPP = buildCardWhatsappUrl({
@@ -60,6 +61,36 @@ const aliases = {
   'engineering-consultation': 'engineering-consultants',
 };
 
+
+function KawkabMaintenanceSection() {
+  const companyHref=kawkabPath('ar');
+  const quoteHref=kawkabWhatsapp('ar','الصيانة العامة والتشطيبات');
+  return <section id="general-maintenance-companies" aria-label="شركات الصيانة العامة" className="mx-auto max-w-6xl px-4 py-5 md:py-14">
+    <div className="mb-3 flex items-center justify-between gap-2 md:mb-6"><h2 className="text-lg font-extrabold text-[#29251e] md:text-3xl">شركات الصيانة العامة والتشطيبات</h2><Link className="shrink-0 text-xs font-bold text-[#805d32] underline md:text-sm" href="/providers/specialty/general-maintenance">دليل الشركات</Link></div>
+    <article className="overflow-hidden rounded-2xl border border-[#dfd3bf] bg-white shadow-sm md:rounded-3xl">
+      <Link href={companyHref} className="block w-full bg-[#f1ebe2]" aria-label="ملف كوكب الصعيد للخدمات الفنية">
+        <img src={KAWKAB_HERO.url} alt="كوكب الصعيد للخدمات الفنية – غلاف الشركة" width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" decoding="async" className="block h-auto w-full object-cover" style={{display:'block',width:'100%',height:'auto'}}/>
+      </Link>
+      <div className="px-3 py-3 sm:px-6 sm:py-5">
+        <div className="flex items-center gap-3">
+          <img src={KAWKAB_LOGO.url} alt="شعار كوكب الصعيد" width="72" height="72" loading="lazy" className="h-12 w-12 shrink-0 rounded-lg border border-[#eee5d7] bg-white object-contain p-1 md:h-16 md:w-16"/>
+          <div className="min-w-0"><h3 className="text-base font-extrabold text-[#26241f] md:text-2xl"><Link href={companyHref}>{KAWKAB_PROFILE.nameAr}</Link></h3>
+          <p className="mt-1 line-clamp-1 text-xs text-[#665c4e] md:text-sm">دهانات، بلاستر، ورق جدران، نجارة، سباكة وتكييف</p></div>
+        </div>
+        <p className="mt-4 hidden text-sm leading-8 text-[#50483e] md:block">{KAWKAB_PROFILE.descriptionAr} يمكنك اختيار التخصص، قراءة خطوات التحضير المرتبطة به، ثم إرسال بيانات العقار والقياسات والصور المطلوبة للشركة. يُحدّد السعر النهائي حسب حالة الموقع ونطاق الأعمال والخامات والموقع الجغرافي.</p>
+        <div className="mt-3 flex flex-wrap gap-2"><Link href={companyHref} className="inline-flex min-h-10 flex-1 items-center justify-center rounded-lg bg-[#273f51] px-3 text-xs font-bold text-white md:flex-none md:px-6 md:text-sm">عرض ملف الشركة</Link><a href={quoteHref} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-10 flex-1 items-center justify-center rounded-lg border border-[#c8b694] px-3 text-xs font-bold text-[#30271e] md:flex-none md:px-6 md:text-sm">طلب عرض سعر</a></div>
+      </div>
+    </article>
+    <div className="mt-6 hidden md:block">
+      <h3 className="text-xl font-bold text-[#29251e]">اختر مجال الصيانة المطلوب</h3>
+      <p className="mt-2 max-w-4xl text-sm leading-7 text-[#5b5146]">تختلف أعمال التشطيب والصيانة بحسب حالة الأسطح والتمديدات ونوع الخامات، لذلك من الأفضل تحديد العمل بدقة قبل مقارنة عروض الأسعار. اختر التخصص المناسب للاطلاع على التفاصيل والصور ومعلومات التواصل مع كوكب الصعيد.</p>
+      <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">{KAWKAB_SPECIALTIES.map((specialty,index)=><Link key={specialty.id} href={kawkabServicePath('ar',specialty.id)} className="rounded-xl border border-[#e5dac9] bg-white p-5 transition hover:border-[#b49b76]"><span className="text-xs font-semibold text-[#95764a]">{String(index+1).padStart(2,'0')}</span><h4 className="mt-2 font-bold text-[#29251e]">{specialty.ar}</h4><p className="mt-2 text-sm leading-7 text-[#695e53]">{specialty.arDesc}</p><span className="mt-3 inline-block text-sm font-semibold text-[#856232]">تفاصيل الخدمة ←</span></Link>)}</div>
+      <div className="mt-5 rounded-xl bg-[#f0e9dd] p-5"><h3 className="font-bold">قبل طلب السعر</h3><p className="mt-2 text-sm leading-7 text-[#554b41]">حدد نوع العقار وموقعه والمساحات التقريبية، وبيّن حالة السطح أو التجهيزات القائمة، وأرفق صورًا واضحة. اتفق مع الشركة على تفاصيل التحضير والخامات والتركيب أو المعالجة والتنظيف ومدة التنفيذ، وتحقق من نطاق الخدمة قبل بدء العمل.</p></div>
+    </div>
+    <details className="mt-3 rounded-lg border border-[#e5dac9] bg-white p-3 md:hidden"><summary className="cursor-pointer text-xs font-bold">عرض تخصصات الشركة الستة</summary><div className="mt-3 grid grid-cols-2 gap-2">{KAWKAB_SPECIALTIES.map(s=><Link key={s.id} href={kawkabServicePath('ar',s.id)} className="rounded-lg bg-[#f5f0e7] px-2 py-3 text-xs font-semibold">{s.ar}</Link>)}</div></details>
+  </section>;
+}
+
 export default function ServiceLandingPage({
   service,
   directoryCards = [],
@@ -70,6 +101,7 @@ export default function ServiceLandingPage({
   const desc = `صفحة مخصصة لخدمة ${service.nameAr} داخل قسم الخدمات والعروض في بيت الريف، بعيدًا عن مسارات دليل الإمارات أو المنتجات.`;
   const serviceUrl = `${SITE_URL}/services/${service.slug}`;
   const isWorkshopsPage = service.slug === 'workshops';
+  const isGeneralMaintenance = service.slug === 'general-maintenance';
   const faqItems = [
     [`ما هي خدمة ${service.nameAr}؟`, service.descAr],
     ['هل هذه الصفحة من دليل الإمارات؟', 'لا. هذه الصفحة تابعة لقسم الخدمات والعروض. البحث حسب المكان يتم من دليل الإمارات، أما هذه الصفحة فهي للخدمة نفسها.'],
@@ -124,7 +156,8 @@ export default function ServiceLandingPage({
         <Navbar pageTitle="الخدمات والعروض" />
         <SectionBackBar href="/services" label="العودة إلى الخدمات والعروض" />
         <main>
-          <SectionCategoryHero locale="ar" type="services" title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
+          <SectionCategoryHero locale="ar" type="services" compactMobile={isGeneralMaintenance} title={service.nameAr} description={service.descAr} image={getSectorCardImage(service.slug)} primaryHref={Object.hasOwn(CONTENT, service.slug) ? `/uae/abu-dhabi/al-ain/${service.slug}` : undefined} />
+          {isGeneralMaintenance ? <KawkabMaintenanceSection/> : null}
 
           {Object.hasOwn(CONTENT, service.slug) ? <AlAinSectorDiscovery category={service.slug} /> : <section className="max-w-6xl mx-auto px-4 py-14">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -139,7 +172,7 @@ export default function ServiceLandingPage({
           <PublishedEntityGrid items={publishedServices} locale="ar" type="service" />
           <PublishedOfferGrid items={publishedOffers} locale="ar" />
 
-          {publishedServices.length === 0 && (
+          {publishedServices.length === 0 && !isGeneralMaintenance && (
             <section className="max-w-6xl mx-auto px-4 py-10" aria-label="العروض المتاحة"><div className="rounded-3xl border border-[#E6DCC8] bg-white p-10 text-center shadow-sm" role="status"><h2 className="text-2xl font-black text-[#0F3F1A]">لا توجد خدمات منشورة حاليًا</h2><p className="mt-3 text-gray-600 leading-8">لا توجد بطاقة منشورة من قاعدة البيانات مرتبطة بقسم {service.nameAr} الآن. يمكنك طلب عرض سعر مخصص حسب تفاصيل مشروعك.</p><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-6 inline-block rounded-2xl bg-primary px-7 py-3 text-sm font-black text-white">اطلب عرض سعر مخصص</a></div></section>
           )}
 

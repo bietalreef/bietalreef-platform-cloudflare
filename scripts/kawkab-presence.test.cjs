@@ -106,3 +106,14 @@ test('the live sitemap contains all 15 districts times six specialty routes in b
  assert.match(hub,/دليل الصيانة حسب مناطق العين/);
  assert.match(hub,/KAWKAB_AL_AIN_AREAS\.map/);
 });
+
+test('Al Aamerah is the official published district label and former Al Yahar links redirect',()=>{
+ const localServices=read('data/localServices.js');
+ const redirects=read('next.config.js');
+ assert.match(model,/slug:'al-aamerah',ar:'العامرة',en:'Al Aamerah'/);
+ assert.match(localServices,/\['al-aamerah', 'العامرة', 'Al Aamerah'\]/);
+ assert.doesNotMatch(model,/slug:'al-yahar'/);
+ assert.doesNotMatch(localServices,/\['al-yahar'/);
+ assert.match(redirects,/al-yahar\/\:path\*/);
+ assert.match(redirects,/al-aamerah\/\:path\*/);
+});

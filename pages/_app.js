@@ -55,7 +55,7 @@ export default function MyApp({ Component, pageProps }) {
   // Business landing pages own their company contact actions. The platform
   // floating support button must not obscure profile sections or contact bars.
   const isCompanyLanding = isProviderProfile && !/^\/(?:en\/)?providers\/(?:specialty|register)(?:\/|$)/.test(currentPath);
-  const isKawkabDistrictLanding = /^\/(?:en\/)?uae\/abu-dhabi\/al-ain\/[^/]+\/general-maintenance(?:\/|$)/.test(currentPath);
+  const isKawkabDistrictLanding = /^\/(?:en\/)?uae\/abu-dhabi\/al-ain\/[^/]+\/general-maintenance\/[^/]+(?:\/|$)/.test(currentPath);
   // Al Rehab now renders exclusively through its approved platform channel.
   // Legacy overlays inject illustrative media and obsolete business details.
   const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline)(?:\/|$)/.test(currentPath);

@@ -4,7 +4,7 @@ import Navbar from '../Navbar';
 import Footer from '../Footer';
 import {
   KAWKAB_PROFILE, KAWKAB_PROVIDER_CODE, KAWKAB_COVERAGE, KAWKAB_SPECIALTIES,
-  KAWKAB_IMAGES, KAWKAB_GALLERY, KAWKAB_DETAILS, KAWKAB_ORIGIN, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_BRAND_GALLERY, KAWKAB_AL_AIN_AREAS, kawkabPath, kawkabWhatsapp,
+  KAWKAB_IMAGES, KAWKAB_GALLERY, KAWKAB_DETAILS, KAWKAB_ORIGIN, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_BRAND_GALLERY, KAWKAB_AL_AIN_AREAS, kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath,
 } from '../../lib/kawkabPresence';
 
 const i18n = {
@@ -31,11 +31,11 @@ function Services({locale,short=false}){
   const t=i18n[locale];const items=short?KAWKAB_SPECIALTIES.slice(0,4):KAWKAB_SPECIALTIES;
   return <section className="mx-auto w-full max-w-6xl px-4 py-7 sm:py-10">
     <SectionTitle title={t.servicesTitle} desc={t.servicesDesc} href={short?kawkabPath(locale,'services'):null} cta={t.seeAll}/>
-    <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:gap-4">{items.map((item,index)=><article key={item.id} className="flex min-w-0 flex-col rounded-xl border border-[#ebe5dc] bg-white p-3 sm:p-5">
+    <div className="grid grid-cols-2 gap-2 md:grid-cols-3 lg:gap-4">{items.map((item,index)=><article key={item.id} className="flex min-w-0 flex-col overflow-hidden rounded-xl border border-[#ebe5dc] bg-white p-2.5 sm:p-5"><Link href={kawkabServicePath(locale,item.id)} aria-label={item[locale]}><img src={kawkabServiceImage(item.id).url} alt={local(kawkabServiceImage(item.id),'alt',locale)} loading="lazy" decoding="async" className="mb-1 aspect-[4/3] w-full rounded-lg object-cover"/></Link>
       <span className="text-xs font-semibold text-[#a48752]">{String(index+1).padStart(2,'0')}</span>
       <h3 className="mt-2 text-sm font-bold leading-6 text-[#272321] sm:text-base">{item[locale]}</h3>
-      <p className="mt-1 line-clamp-3 grow text-xs leading-5 text-[#696057] sm:text-sm">{item[locale+'Desc']}</p>
-      <a href={kawkabWhatsapp(locale,item[locale])} target="_blank" rel="noopener noreferrer" className="mt-3 text-xs font-semibold text-[#846233] hover:underline">{t.ask} ←</a>
+      <p className="mt-1 line-clamp-1 grow text-xs leading-5 text-[#696057] md:line-clamp-none md:text-sm">{item[locale+'Desc']}</p>
+      <Link href={kawkabServicePath(locale,item.id)} className="mt-2 text-xs font-semibold text-[#846233] hover:underline">{locale==='en'?'Service details':'تفاصيل الخدمة'} ←</Link>
     </article>)}</div>
   </section>;
 }
@@ -70,7 +70,7 @@ function AlAinCoverage({locale,short=false}){
   <SectionTitle title={t.ainTitle} desc={t.ainDesc} href={short?kawkabPath(locale,'al-ain'):null} cta={t.seeAll}/>
   <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:grid-cols-5">{items.map(area=><article key={area.slug} id={'district-'+area.slug} className="min-w-0 rounded-xl border border-[#e8dfd4] bg-white p-3 sm:p-4">
    <h3 className="truncate text-sm font-bold text-[#302b24]">{area[locale]}</h3>
-   <a className="mt-2 inline-flex text-xs font-semibold leading-6 text-[#806333]" href={kawkabWhatsapp(locale,area[locale])} target="_blank" rel="noopener noreferrer">{t.areaAsk} ←</a>
+   <Link className="mt-2 inline-flex text-xs font-semibold leading-6 text-[#806333]" href={`${kawkabAreaPath(locale,area.slug)}/general-maintenance`}>{locale==='en'?'View maintenance services':'خدمات الصيانة في المنطقة'} ←</Link>
   </article>)}</div>
   {!short&&<div className="mt-5 rounded-xl bg-[#f3eee5] p-4"><h3 className="font-bold">{t.processTitle}</h3><p className="mt-2 text-sm leading-7 text-[#665e52]">{t.processDesc}</p><p className="mt-2 text-sm leading-7 text-[#665e52]">{t.workGuide}</p></div>}
  </section>;
@@ -87,9 +87,9 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
   const descriptions={home:t.intro,services:t.servicesDesc,'service-areas':t.areasDesc,gallery:t.galleryDesc,'al-ain':t.ainDesc};
   const currentPath=paths[lang],currentUrl=abs(currentPath);
   const mainImage=KAWKAB_GALLERY[0];
-  const imagesForPage=section==='gallery'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_IMAGES]:section==='home'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_GALLERY]:[];
+  const imagesForPage=section==='gallery'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_IMAGES]:section==='home'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_GALLERY]:[];
   const pageSchema={ '@context':'https://schema.org','@graph':[
-    {'@type':'HomeAndConstructionBusiness','@id':abs(kawkabPath('ar'))+'#business', name:KAWKAB_PROFILE.nameAr,alternateName:KAWKAB_PROFILE.nameEn,url:abs(kawkabPath('ar')),telephone:'+971556485364',identifier:KAWKAB_PROVIDER_CODE,areaServed:KAWKAB_COVERAGE.map(area=>({'@type':'AdministrativeArea',name:area.en})),image:[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_IMAGES].map(image=>abs(image.url)),description:KAWKAB_PROFILE.descriptionEn},
+    {'@type':'HomeAndConstructionBusiness','@id':abs(kawkabPath('ar'))+'#business', name:KAWKAB_PROFILE.nameAr,alternateName:KAWKAB_PROFILE.nameEn,url:abs(kawkabPath('ar')),telephone:'+971556485364',identifier:KAWKAB_PROVIDER_CODE,areaServed:KAWKAB_COVERAGE.map(area=>({'@type':'AdministrativeArea',name:area.en})),image:[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_IMAGES].map(image=>abs(image.url)),description:KAWKAB_PROFILE.descriptionEn},
     {'@type':'WebPage','@id':currentUrl+'#webpage',url:currentUrl,name:titles[section],description:descriptions[section],inLanguage:lang==='en'?'en-AE':'ar-AE',about:{'@id':abs(kawkabPath('ar'))+'#business'}},
     {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:t.directory,item:abs(lang==='en'?'/en/providers':'/providers')},{'@type':'ListItem',position:2,name:t.business,item:abs(kawkabPath(lang))},...(section==='home'?[]:[{'@type':'ListItem',position:3,name:titles[section],item:currentUrl}])]},
     ...imagesForPage.map((image,index)=>({'@type':'ImageObject',contentUrl:abs(image.url),name:local(image,'image_title',lang),caption:local(image,'caption',lang),width:image.width,height:image.height,encodingFormat:'image/webp',representativeOfPage:index===0&&section==='home'})),
@@ -111,21 +111,21 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
     <main>
       <div className="border-b border-[#e8dfd5] bg-white"><nav aria-label="Breadcrumb" className="mx-auto flex max-w-6xl items-center gap-2 px-4 py-3 text-xs text-[#786e60]"><Link href={lang==='en'?'/en/providers':'/providers'} className="hover:underline">{t.directory}</Link><span>/</span>{section==='home'?<span className="font-medium text-[#302a23]">{t.business}</span>:<><Link href={kawkabPath(lang)} className="hover:underline">{t.business}</Link><span>/</span><span className="font-medium">{titles[section]}</span></>}</nav></div>
       <header className="bg-[#f3efe7]">
-        <div className="mx-auto grid max-w-6xl gap-5 px-4 py-7 md:grid-cols-[1.05fr_1fr] md:items-center md:py-12">
+        <div className="mx-auto grid max-w-6xl gap-3 px-3 py-4 md:grid-cols-[1.05fr_1fr] md:items-center md:gap-5 md:px-4 md:py-12">
           <div className="min-w-0"><div className="mb-3 flex flex-wrap items-center gap-2 text-[11px] font-semibold text-[#806333]"><span className="rounded-full border border-[#c9b694] bg-white px-3 py-1">{t.badge}</span><span>{t.official}: {KAWKAB_PROVIDER_CODE}</span></div>
             <h1 className="text-2xl font-extrabold leading-tight tracking-tight sm:text-4xl">{section==='home'?t.business:titles[section]}</h1>
             <p className="mt-2 font-semibold text-[#765936]">{t.sub}</p>
-            <p className="mt-3 max-w-xl text-sm leading-7 text-[#514941] sm:text-base">{section==='home'?t.intro:descriptions[section]}</p>
+            <p className="mt-3 text-sm leading-6 text-[#514941] md:hidden">{lang==='en'?'Painting, finishing and maintenance. Choose a service and request a quote.':'دهانات وتشطيبات وصيانة. اختر الخدمة واطلب عرض سعر بسهولة.'}</p><p className="mt-3 hidden max-w-xl text-base leading-8 text-[#514941] md:block">{section==='home'?t.intro:descriptions[section]}</p>
             <div className="mt-5 flex flex-wrap gap-2"><a href={kawkabWhatsapp(lang)} target="_blank" rel="noopener noreferrer" className="rounded-lg bg-[#302b24] px-4 py-3 text-sm font-semibold text-white">{t.whatsapp}</a><a href="tel:+971556485364" className="rounded-lg border border-[#bfb5a4] bg-white px-4 py-3 text-sm font-semibold text-[#332c24]">{t.call}</a></div>
           </div>
-          <div className="relative min-w-0"><picture><source media="(max-width: 640px)" srcSet={KAWKAB_HERO.mobile_url}/><img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" fetchPriority="high" decoding="async" className="aspect-[16/10] w-full rounded-xl object-cover shadow-sm md:aspect-[16/9]" /></picture><img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="640" height="640" loading="eager" decoding="async" className="absolute bottom-3 end-3 h-16 w-16 rounded-xl border border-white/80 bg-white/95 p-1 object-contain shadow-lg sm:h-24 sm:w-24"/></div>
+          <div className="relative min-w-0"><picture><img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" fetchPriority="high" decoding="async" className="aspect-[16/9] w-full rounded-xl object-cover shadow-sm md:aspect-[16/9]" /></picture><img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="640" height="640" loading="eager" decoding="async" className="absolute bottom-3 end-3 h-16 w-16 rounded-xl border border-white/80 bg-white/95 p-1 object-contain shadow-lg sm:h-24 sm:w-24"/></div>
         </div>
       </header>
-      <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-3 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>
-      {section==='home'?<><Services locale={lang} short/><BrandingGallery locale={lang} short/><Gallery locale={lang} short/><ProcessGuide locale={lang}/><Areas locale={lang} short/><AlAinCoverage locale={lang} short/><Faq locale={lang}/></>:null}
+      <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-2 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>
+      {section==='home'?<><Services locale={lang} short/><Gallery locale={lang} short/><ProcessGuide locale={lang}/><Areas locale={lang} short/><AlAinCoverage locale={lang} short/><Faq locale={lang}/></>:null}
       {section==='services'?<><Services locale={lang}/><ProcessGuide locale={lang}/><Gallery locale={lang} short/></>:null}
       {section==='service-areas'?<><Areas locale={lang}/><AlAinCoverage locale={lang}/><Services locale={lang} short/><Faq locale={lang}/></>:null}
-      {section==='gallery'?<><BrandingGallery locale={lang}/><Gallery locale={lang}/><Services locale={lang} short/></>:null}
+      {section==='gallery'?<><Gallery locale={lang}/><Services locale={lang} short/></>:null}
       {section==='al-ain'?<><AlAinCoverage locale={lang}/><Services locale={lang}/><ProcessGuide locale={lang}/><Faq locale={lang}/></>:null}
       <section className="mt-4 bg-[#302b26] px-4 py-8 text-white"><div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4"><div><h2 className="text-xl font-semibold">{t.lead}</h2><p className="mt-2 max-w-xl text-sm leading-6 text-[#e9e0d2]">{t.leadText}</p></div><a href={kawkabWhatsapp(lang)} className="rounded-lg bg-[#e9d0a2] px-5 py-3 text-sm font-bold text-[#26211d]" target="_blank" rel="noopener noreferrer">{t.whatsapp}</a></div></section>
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-6 text-xs text-[#766b5d]"><span>{t.official}: {KAWKAB_PROVIDER_CODE} · {t.phone}: <a href="tel:+971556485364" className="hover:underline">0556485364</a></span><Link href={kawkabPath(lang)} className="font-semibold hover:underline">{t.back}</Link></div>

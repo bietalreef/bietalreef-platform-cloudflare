@@ -1,5 +1,5 @@
 import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
-import { KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_PROFILE_ID, kawkabPath } from '../lib/kawkabPresence';
+import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, KAWKAB_PROFILE_ID, kawkabPath, kawkabServicePath } from '../lib/kawkabPresence';
 import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
@@ -187,9 +187,16 @@ export async function getServerSideProps({ res }) {
       '&verification_status=eq.verified&publication_status=eq.published&landing_page_status=eq.published&limit=1'
     );
     if (liveKawkab.length && providerCards.some(card => card.id === KAWKAB_PROFILE_ID)) {
+      KAWKAB_SPECIALTIES.forEach(service => addPair(
+        kawkabServicePath('ar',service.id), kawkabServicePath('en',service.id),
+        null,{priority:0.7,lastmod:'2026-11-01'}));
+      KAWKAB_AL_AIN_AREAS.forEach(area => addPair(
+        '/uae/abu-dhabi/al-ain/'+area.slug+'/general-maintenance',
+        '/en/uae/abu-dhabi/al-ain/'+area.slug+'/general-maintenance',
+        null,{priority:0.64,lastmod:'2026-11-01'}));
       KAWKAB_SECTIONS.forEach(section => addPair(
         kawkabPath('ar',section),kawkabPath('en',section),
-        section==='home' ? KAWKAB_GALLERY[0]?.url : null,
+        section==='home' ? KAWKAB_HERO.url : null,
         { priority: section==='home' ? 0.82 : 0.66,
           lastmod:'2026-11-01',
           ...(section==='gallery' ? {images:KAWKAB_IMAGES.map(image => image.url)} : {}) },

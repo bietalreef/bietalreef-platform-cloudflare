@@ -1,8 +1,10 @@
+import DirectoryCompanyCard from '../../components/provider/DirectoryCompanyCard';
+import { getPublishedProviderCards } from '../../lib/platformDirectoryCards';
 import EnglishGenericPage from '../../components/EnglishGenericPage';
 
-export default function PartnersEnglishPage() {
+export default function PartnersEnglishPage({featuredPartner=null}) {
   return (
-    <EnglishGenericPage
+    <EnglishGenericPage featured={featuredPartner?<><h2 className="mb-2 text-lg font-bold md:text-2xl">Verified businesses on Biet Al Reef</h2><p className="mb-3 hidden text-base leading-8 text-[#62594d] md:block">Explore published company profiles, specialties and service areas, then contact the provider for a quotation.</p><div className="max-w-xl"><DirectoryCompanyCard item={featuredPartner} locale="en"/></div></>:null}
       badge="Partner ecosystem"
       title="Become a Biet Al Reef Partner"
       description="Companies, suppliers, factories, workshops and skilled professionals can join an organised digital ecosystem that presents their expertise and connects them with relevant customers and opportunities."
@@ -36,3 +38,5 @@ export default function PartnersEnglishPage() {
     />
   );
 }
+
+export async function getServerSideProps({res}) { const providers=await getPublishedProviderCards('en'); res.setHeader('Cache-Control','public, s-maxage=60, stale-while-revalidate=120'); return {props:{featuredPartner:providers.find(p=>p.id==='c93b1b94-4d2e-4736-b1de-37e5bc93afa2')||null}}; }

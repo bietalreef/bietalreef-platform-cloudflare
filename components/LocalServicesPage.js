@@ -1,4 +1,5 @@
 import AlAinHubPage from './AlAinHubPage';
+import AlAinMaintenanceAreaPage from './AlAinMaintenanceAreaPage';
 import AlAinCleaningPage from './AlAinCleaningPage';
 import AlAinContentPage from './AlAinContentPage';
 import { useEffect, useRef } from 'react';
@@ -14,6 +15,7 @@ import { CONSENT_EVENT, analyticsConsent } from './PrivacyConsentCenter';
 import { trackPublicEvent } from '../lib/publicAnalytics';
 
 export default function LocalServicesPage({ model }) {
+  if (model.maintenanceArea) return <AlAinMaintenanceAreaPage model={model} />;
   if (model.cityHub) return <AlAinHubPage model={model} />;
   if (model.cleaningGuide) return <AlAinCleaningPage model={model} />;
   return model.content ? <AlAinContentPage model={model} /> : <ExistingLocalServicesPage model={model} />;

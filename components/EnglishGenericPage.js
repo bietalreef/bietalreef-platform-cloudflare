@@ -33,6 +33,7 @@ export default function EnglishGenericPage({
   secondaryHref = '/en/uae',
   secondaryLabel = 'UAE Directory',
   children,
+  featured,
 }) {
   const canonical = `${SITE_URL}${path}`;
   const arabicCanonical = `${SITE_URL}${arabicPath}`;
@@ -120,6 +121,7 @@ export default function EnglishGenericPage({
             </div>
           </section>
 
+          {featured ? <section id="featured-partners" className="mx-auto max-w-6xl px-3 py-5 md:px-4 md:py-12">{featured}</section> : null}
           <section className="mx-auto max-w-6xl px-4 py-14">
             <div className="grid grid-cols-1 gap-6 lg:grid-cols-[1.15fr_0.85fr]">
               <article className="rounded-[2rem] border border-[#E6DCC8] bg-white p-7 shadow-sm md:p-10">

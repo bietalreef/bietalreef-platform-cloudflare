@@ -174,15 +174,30 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
     <Navbar/>
     <main>
       <div className="border-b border-[#e8dfd5] bg-white"><nav aria-label="Breadcrumb" className="mx-auto flex max-w-6xl items-center gap-2 px-4 py-3 text-xs text-[#786e60]"><Link href={lang==='en'?'/en/providers':'/providers'} className="hover:underline">{t.directory}</Link><span>/</span>{section==='home'?<span className="font-medium text-[#302a23]">{t.business}</span>:<><Link href={kawkabPath(lang)} className="hover:underline">{t.business}</Link><span>/</span><span className="font-medium">{titles[section]}</span></>}</nav></div>
-      <header className="bg-[#f3efe7]">
-        <div className="mx-auto grid max-w-6xl gap-3 px-3 py-4 md:grid-cols-1 md:items-start md:gap-5 md:px-4 md:py-8">
-          <div className="min-w-0"><div className="mb-3 flex flex-wrap items-center gap-2 text-[11px] font-semibold text-[#806333]"><span className="rounded-full border border-[#c9b694] bg-white px-3 py-1">{t.badge}</span><span className="hidden sm:inline">{t.sub}</span></div>
-            <h1 className="text-2xl font-extrabold leading-tight tracking-tight sm:text-4xl">{section==='home'?t.business:titles[section]}</h1>
-            <p className="mt-2 hidden font-semibold text-[#765936] sm:block">{t.sub}</p>
-            <p className="mt-3 text-sm leading-6 text-[#514941] md:hidden">{lang==='en'?'Painting, finishing and maintenance. Choose a service and request a quote.':'دهانات وتشطيبات وصيانة. اختر الخدمة واطلب عرض سعر بسهولة.'}</p><p className="mt-3 hidden max-w-xl text-base leading-8 text-[#514941] md:block">{section==='home'?t.intro:descriptions[section]}</p>
-            <div className="mt-5 hidden flex-wrap gap-2 sm:flex"><a href={kawkabWhatsapp(lang)} target="_blank" rel="noopener noreferrer" className="rounded-lg bg-[#302b24] px-4 py-3 text-sm font-semibold text-white">{t.whatsapp}</a><a href="tel:+971556485364" className="rounded-lg border border-[#bfb5a4] bg-white px-4 py-3 text-sm font-semibold text-[#332c24]">{t.call}</a></div>
+      <header className="bg-[#fbfaf7]">
+        <div className="mx-auto max-w-6xl px-3 pt-3 md:px-4 md:pt-6">
+          <picture className="block w-full overflow-hidden rounded-xl bg-[#eee8de] md:rounded-2xl">
+            <source media="(max-width: 639px)" srcSet={KAWKAB_HERO.mobile_url || KAWKAB_HERO.url}/>
+            <img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height}
+              loading="eager" fetchPriority="high" decoding="async" className="block aspect-[16/9] w-full object-cover object-center md:aspect-[3/1]" />
+          </picture>
+          <div className="relative mt-3 rounded-xl bg-white px-3 pb-4 pt-2 md:mt-5 md:border md:border-[#ece3d6] md:px-6 md:py-6">
+            <div className="flex items-start gap-3 md:gap-5">
+              <img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="512" height="512" loading="eager" decoding="async"
+                className="h-16 w-16 shrink-0 rounded-xl border border-[#ebdfce] bg-white p-1 object-contain shadow-sm md:h-24 md:w-24" />
+              <div className="min-w-0 flex-1">
+                <span className="inline-block rounded-full bg-[#f6f0e6] px-2 py-1 text-[10px] font-bold text-[#806333] md:text-xs">{t.badge}</span>
+                <h1 className="mt-2 text-xl font-extrabold leading-tight tracking-tight text-[#27231d] sm:text-2xl md:text-4xl">{section==='home'?t.business:titles[section]}</h1>
+                <p className="mt-1 line-clamp-1 text-xs leading-5 text-[#514941] md:mt-2 md:text-lg md:font-semibold">{lang==='en'?'Painting, finishing, maintenance and décor':'الدهانات والتشطيبات والصيانة والديكور'}</p>
+              </div>
+            </div>
+            <p className="mt-3 line-clamp-1 text-xs leading-6 text-[#514941] md:hidden">{lang==='en'?'Select a service and contact the company for a quotation.':'اختر الخدمة وتواصل مع الشركة لطلب عرض سعر.'}</p>
+            <p className="mt-4 hidden max-w-4xl text-base leading-8 text-[#514941] md:block">{section==='home'?t.intro:descriptions[section]}</p>
+            <div className="mt-5 hidden flex-wrap gap-2 sm:flex">
+              <a href={kawkabWhatsapp(lang)} target="_blank" rel="noopener noreferrer" className="rounded-lg bg-[#302b24] px-5 py-3 text-sm font-semibold text-white">{t.whatsapp}</a>
+              <a href="tel:+971556485364" className="rounded-lg border border-[#bfb5a4] bg-white px-5 py-3 text-sm font-semibold text-[#332c24]">{t.call}</a>
+            </div>
           </div>
-          <div className="relative w-full min-w-0 overflow-hidden rounded-xl bg-[#f7f3ec]"><picture className="block w-full"><source media="(max-width: 639px)" srcSet={KAWKAB_HERO.mobile_url || KAWKAB_HERO.url}/><img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" fetchPriority="high" decoding="async" style={{display:"block",width:"100%",height:"auto",maxWidth:"none"}} className="block w-full h-auto object-cover" /></picture><img src={KAWKAB_LOGO.url} alt={local(KAWKAB_LOGO,'alt',lang)} width="512" height="512" loading="eager" decoding="async" className="absolute bottom-3 end-3 h-16 w-16 rounded-xl border border-white/80 bg-white/95 p-1 object-contain shadow-lg sm:h-20 sm:w-20"/></div>
         </div>
       </header>
       <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-2 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>

@@ -110,4 +110,14 @@
     <xhtml:link rel="alternate" hreflang="ar-AE" href="https://bietalreef.ae/providers/kawkab-al-saeed/services/wallpaper"/>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://bietalreef.ae/en/providers/kawkab-al-saeed/services/wallpaper"/>
   </url>
+  <url>
+    <loc>https://bietalreef.ae/providers/kawkab-al-saeed/projects/living-dining-interior</loc>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://bietalreef.ae/providers/kawkab-al-saeed/projects/living-dining-interior"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://bietalreef.ae/en/providers/kawkab-al-saeed/projects/living-dining-interior"/>
+  </url>
+  <url>
+    <loc>https://bietalreef.ae/en/providers/kawkab-al-saeed/projects/living-dining-interior</loc>
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://bietalreef.ae/providers/kawkab-al-saeed/projects/living-dining-interior"/>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://bietalreef.ae/en/providers/kawkab-al-saeed/projects/living-dining-interior"/>
+  </url>
 </urlset>

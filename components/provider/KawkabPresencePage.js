@@ -7,7 +7,7 @@ import KawkabServiceVisual from './KawkabServiceVisual';
 import { KawkabProjectShowcase, KawkabServiceCoverGallery } from './KawkabPortfolioSections';
 import {
   KAWKAB_PROFILE, KAWKAB_PROVIDER_CODE, KAWKAB_COVERAGE, KAWKAB_SPECIALTIES,
-  KAWKAB_IMAGES, KAWKAB_GALLERY, KAWKAB_DETAILS, KAWKAB_ORIGIN, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_BRAND_GALLERY, KAWKAB_AL_AIN_AREAS, kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath,
+  KAWKAB_IMAGES, KAWKAB_GALLERY, KAWKAB_DETAILS, KAWKAB_ORIGIN, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_BRAND_GALLERY, KAWKAB_AL_AIN_AREAS, kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath, kawkabEmiratePath,
 } from '../../lib/kawkabPresence';
 
 const i18n = {
@@ -48,10 +48,10 @@ function Services({locale,short=false}){
 function Areas({locale,short=false}){
   const t=i18n[locale];return <section className="mx-auto max-w-6xl px-4 py-7 sm:py-10">
     <SectionTitle title={t.areasTitle} desc={t.areasDesc} href={short?kawkabPath(locale,'service-areas'):null} cta={t.seeAll}/>
-    <div className="grid grid-cols-3 gap-2.5 sm:gap-4">{KAWKAB_COVERAGE.map(area=><div key={area.slug} className="rounded-xl border border-[#e7dfd3] bg-white p-3 sm:p-5">
+    <div className="grid grid-cols-3 gap-2.5 sm:gap-4">{KAWKAB_COVERAGE.map(area=><Link href={kawkabEmiratePath(locale,area.slug)} key={area.slug} className="flex min-w-0 flex-col justify-between rounded-xl border border-[#e7dfd3] bg-white p-3 transition-colors hover:border-[#be9d72] hover:bg-[#fdfbf7] sm:p-5">
       <h3 className="text-sm font-bold text-[#2c2723] sm:text-lg">{area[locale]}</h3>
-      <a href={`${locale==='en'?'/en':''}${area.directory}`} className="mt-2 block text-xs font-medium text-[#876735] hover:underline">{t.emirateDirectory} ←</a>
-    </div>)}</div>
+      <span className="mt-2 block text-xs font-medium text-[#876735]">{locale==='en'?'Kawkab services':'خدمات كوكب الصعيد'} ←</span>
+    </Link>)}</div>
     {!short&&<p className="mt-5 text-sm leading-7 text-[#766a5e]">{t.areasNote}</p>}
   </section>;
 }

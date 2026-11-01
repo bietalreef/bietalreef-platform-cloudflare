@@ -37,7 +37,7 @@ jobs:
       - name: Kawkab provider route contract
         run: node --test scripts/kawkab-presence.test.cjs
       - name: Build Next.js 15 / OpenNext before touching live site
-        run: pnpm build:cloudflare
+        run: pnpm exec opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion
       - name: Require existing Cloudflare publishing credential
         run: |
           if [ -z "$CLOUDFLARE_API_TOKEN" ]; then

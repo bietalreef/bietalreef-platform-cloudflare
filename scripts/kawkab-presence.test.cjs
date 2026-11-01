@@ -94,3 +94,15 @@ test('desktop exposes detailed content and mobile offers compact disclosure',()=
  assert.match(page,/<details className="mt-3/);
  assert.match(read('components/SectionCategoryHero.js'),/compactMobile/);
 });
+
+test('the live sitemap contains all 15 districts times six specialty routes in both languages',()=>{
+ const sitemap=read('pages/sitemap.xml.js');
+ assert.match(sitemap,/kawkabAreaServicePath/);
+ assert.match(sitemap,/KAWKAB_AL_AIN_AREAS\.forEach\(area =>/);
+ assert.match(sitemap,/KAWKAB_SPECIALTIES\.forEach\(service => addPair/);
+ assert.match(sitemap,/kawkabAreaServicePath\('ar',area\.slug,service\.id\)/);
+ assert.match(sitemap,/kawkabAreaServicePath\('en',area\.slug,service\.id\)/);
+ const hub=read('pages/services/[slug].js');
+ assert.match(hub,/دليل الصيانة حسب مناطق العين/);
+ assert.match(hub,/KAWKAB_AL_AIN_AREAS\.map/);
+});

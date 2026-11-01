@@ -19,7 +19,7 @@ import {
 } from '../../lib/platformDirectoryCards';
 import { getSectionActivitySlug } from '../../lib/sectionCardRoutes';
 import { buildCardWhatsappUrl } from '../../lib/providerWhatsapp';
-import { KAWKAB_PROFILE, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_SPECIALTIES, kawkabServicePath, kawkabWhatsapp, kawkabPath } from '../../lib/kawkabPresence';
+import { KAWKAB_PROFILE, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, kawkabServicePath, kawkabWhatsapp, kawkabPath } from '../../lib/kawkabPresence';
 
 const SITE_URL = 'https://bietalreef.ae';
 const WHITE_WHALE_SERVICE_WHATSAPP = buildCardWhatsappUrl({
@@ -86,7 +86,9 @@ function KawkabMaintenanceSection() {
       <p className="mt-2 max-w-4xl text-sm leading-7 text-[#5b5146]">تختلف أعمال التشطيب والصيانة بحسب حالة الأسطح والتمديدات ونوع الخامات، لذلك من الأفضل تحديد العمل بدقة قبل مقارنة عروض الأسعار. اختر التخصص المناسب للاطلاع على التفاصيل والصور ومعلومات التواصل مع كوكب الصعيد.</p>
       <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">{KAWKAB_SPECIALTIES.map((specialty,index)=><Link key={specialty.id} href={kawkabServicePath('ar',specialty.id)} className="rounded-xl border border-[#e5dac9] bg-white p-5 transition hover:border-[#b49b76]"><span className="text-xs font-semibold text-[#95764a]">{String(index+1).padStart(2,'0')}</span><h4 className="mt-2 font-bold text-[#29251e]">{specialty.ar}</h4><p className="mt-2 text-sm leading-7 text-[#695e53]">{specialty.arDesc}</p><span className="mt-3 inline-block text-sm font-semibold text-[#856232]">تفاصيل الخدمة ←</span></Link>)}</div>
       <div className="mt-5 rounded-xl bg-[#f0e9dd] p-5"><h3 className="font-bold">قبل طلب السعر</h3><p className="mt-2 text-sm leading-7 text-[#554b41]">حدد نوع العقار وموقعه والمساحات التقريبية، وبيّن حالة السطح أو التجهيزات القائمة، وأرفق صورًا واضحة. اتفق مع الشركة على تفاصيل التحضير والخامات والتركيب أو المعالجة والتنظيف ومدة التنفيذ، وتحقق من نطاق الخدمة قبل بدء العمل.</p></div>
+      <section className="mt-6" aria-label="مناطق العين في دليل الصيانة"><h3 className="text-lg font-bold">دليل الصيانة حسب مناطق العين</h3><p className="mt-2 text-sm leading-7 text-[#5b5146]">اختر المنطقة للاطلاع على الشركة والخدمات الفنية المتاحة، ثم حدّد التخصص وتأكد من نطاق تقديم الخدمة قبل حجز المعاينة.</p><div className="mt-3 grid grid-cols-3 gap-2 lg:grid-cols-5">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={`/uae/abu-dhabi/al-ain/${area.slug}/general-maintenance`} className="rounded-lg border border-[#e5dac9] bg-white p-3 text-center text-xs font-semibold text-[#332c23]">{area.ar}</Link>)}</div></section>
     </div>
+    <details className="mt-3 rounded-lg border border-[#e5dac9] bg-white p-3 md:hidden"><summary className="cursor-pointer text-xs font-bold">اختيار منطقة العين</summary><div className="mt-3 grid grid-cols-3 gap-2">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={`/uae/abu-dhabi/al-ain/${area.slug}/general-maintenance`} className="rounded-lg bg-[#f5f0e7] px-2 py-3 text-center text-xs font-semibold">{area.ar}</Link>)}</div></details>
     <details className="mt-3 rounded-lg border border-[#e5dac9] bg-white p-3 md:hidden"><summary className="cursor-pointer text-xs font-bold">عرض تخصصات الشركة الستة</summary><div className="mt-3 grid grid-cols-2 gap-2">{KAWKAB_SPECIALTIES.map(s=><Link key={s.id} href={kawkabServicePath('ar',s.id)} className="rounded-lg bg-[#f5f0e7] px-2 py-3 text-xs font-semibold">{s.ar}</Link>)}</div></details>
   </section>;
 }

@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import KawkabMobileContactBar from './provider/KawkabMobileContactBar';
+import KawkabServiceVisual from './provider/KawkabServiceVisual';
 import {
  KAWKAB_PROFILE, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS,
  KAWKAB_LOGO, KAWKAB_ORIGIN,
@@ -51,7 +52,7 @@ export default function KawkabServicePage({locale='ar',serviceId}){
  <p className="mt-4 hidden text-base leading-8 text-[#62574a] md:block">{copy.summary}</p>
  <div className="mt-3 hidden gap-2 sm:flex md:mt-6"><a href={kawkabWhatsapp(d,service[d])} target="_blank" rel="noopener noreferrer" className="flex min-h-11 flex-1 items-center justify-center rounded-xl bg-[#353027] px-3 text-sm font-bold text-white">{en?'Request quote':'اطلب عرض سعر'}</a><a href="tel:+971556485364" className="flex min-h-11 items-center rounded-xl border px-4 text-sm font-bold">{en?'Call':'اتصال'}</a></div>
  </div>
- <img src={image.url} alt={image['alt_'+d]} width={image.width} height={image.height} loading="eager" decoding="async" className="aspect-[16/10] w-full rounded-xl object-cover md:aspect-[4/3]"/>
+ <KawkabServiceVisual serviceId={serviceId} locale={d} className="rounded-xl"/>
  </section>
  <section className="mt-5 hidden md:block"><h2 className="text-2xl font-bold">{en?'What the service involves':'تفاصيل الخدمة وخطوات المعاينة'}</h2><p className="mt-3 max-w-4xl leading-8 text-[#655d52]">{copy.summary}</p><div className="mt-5 grid gap-3 md:grid-cols-4">{copy.steps.map((step,i)=><article className="rounded-xl border bg-white p-4" key={step}><span className="text-xs font-bold text-[#a0824b]">{String(i+1).padStart(2,'0')}</span><h3 className="mt-2 font-semibold">{step}</h3></article>)}</div></section>
  <section className="mt-5 md:mt-9"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Select your district in Al Ain':'اختر منطقتك في العين'}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-3">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={kawkabAreaServicePath(d,area.slug,serviceId)} className="rounded-lg border bg-white px-3 py-3 text-center text-xs font-semibold md:text-sm">{area[d]}</Link>)}</div></section>

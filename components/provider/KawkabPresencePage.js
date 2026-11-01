@@ -52,7 +52,7 @@ function Areas({locale,short=false}){
 function Gallery({locale,short=false}){
   const t=i18n[locale];return <section className="mx-auto max-w-6xl px-4 py-7 sm:py-10">
     <SectionTitle title={t.galleryTitle} desc={t.galleryDesc} href={short?kawkabPath(locale,'gallery'):null} cta={t.seeAll}/>
-    <div className="grid grid-cols-2 gap-2.5 lg:grid-cols-4">{KAWKAB_GALLERY.map((image,index)=><ImageCard key={image.id} image={image} locale={locale} prefetch={false}/>)}</div>
+    <div className="grid grid-cols-2 gap-2.5 lg:grid-cols-4">{KAWKAB_GALLERY.map((image,index)=><div key={image.id} className={short && index>1?"hidden md:block":""}><ImageCard image={image} locale={locale} prefetch={false}/></div>)}</div>
     {!short&&<><h3 className="mb-3 mt-9 text-lg font-bold text-[#29241e]">{t.detailTitle}</h3><div className="grid grid-cols-2 gap-2.5 md:grid-cols-4">{KAWKAB_DETAILS.map(image=><ImageCard key={image.id} image={image} locale={locale}/>)}</div><p className="mt-4 text-xs leading-6 text-[#756e66]">{t.note}</p></>}
   </section>;
 }
@@ -68,7 +68,7 @@ function AlAinCoverage({locale,short=false}){
  const t=i18n[locale],items=short?KAWKAB_AL_AIN_AREAS.slice(0,6):KAWKAB_AL_AIN_AREAS;
  return <section className="mx-auto w-full max-w-6xl px-4 py-7 sm:py-10" id="al-ain-districts">
   <SectionTitle title={t.ainTitle} desc={t.ainDesc} href={short?kawkabPath(locale,'al-ain'):null} cta={t.seeAll}/>
-  <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:grid-cols-5">{items.map(area=><article key={area.slug} id={'district-'+area.slug} className="min-w-0 rounded-xl border border-[#e8dfd4] bg-white p-3 sm:p-4">
+  <div className="grid grid-cols-2 gap-2.5 md:grid-cols-3 lg:grid-cols-5">{items.map(area=><article key={area.slug} id={'district-'+area.slug} className={`min-w-0 rounded-xl border border-[#e8dfd4] bg-white p-3 sm:p-4 ${short && items.indexOf(area)>3 ? "hidden md:block" : ""}`}>
    <h3 className="truncate text-sm font-bold text-[#302b24]">{area[locale]}</h3>
    <Link className="mt-2 inline-flex text-xs font-semibold leading-6 text-[#806333]" href={`${kawkabAreaPath(locale,area.slug)}/general-maintenance`}>{locale==='en'?'View maintenance services':'خدمات الصيانة في المنطقة'} ←</Link>
   </article>)}</div>

@@ -89,12 +89,12 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
   const mainImage=KAWKAB_GALLERY[0];
   const imagesForPage=section==='gallery'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_IMAGES]:section==='home'?[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_GALLERY]:[];
   const pageSchema={ '@context':'https://schema.org','@graph':[
-    {'@type':'HomeAndConstructionBusiness','@id':abs(kawkabPath('ar'))+'#business', name:KAWKAB_PROFILE.nameAr,alternateName:KAWKAB_PROFILE.nameEn,url:abs(kawkabPath('ar')),telephone:'+971556485364',identifier:KAWKAB_PROVIDER_CODE,areaServed:KAWKAB_COVERAGE.map(area=>({'@type':'AdministrativeArea',name:area.en})),image:KAWKAB_IMAGES.map(image=>abs(image.url)),description:KAWKAB_PROFILE.descriptionEn},
+    {'@type':'HomeAndConstructionBusiness','@id':abs(kawkabPath('ar'))+'#business', name:KAWKAB_PROFILE.nameAr,alternateName:KAWKAB_PROFILE.nameEn,url:abs(kawkabPath('ar')),telephone:'+971556485364',identifier:KAWKAB_PROVIDER_CODE,areaServed:KAWKAB_COVERAGE.map(area=>({'@type':'AdministrativeArea',name:area.en})),image:[KAWKAB_HERO,KAWKAB_LOGO,...KAWKAB_BRAND_GALLERY,...KAWKAB_IMAGES].map(image=>abs(image.url)),description:KAWKAB_PROFILE.descriptionEn},
     {'@type':'WebPage','@id':currentUrl+'#webpage',url:currentUrl,name:titles[section],description:descriptions[section],inLanguage:lang==='en'?'en-AE':'ar-AE',about:{'@id':abs(kawkabPath('ar'))+'#business'}},
     {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:t.directory,item:abs(lang==='en'?'/en/providers':'/providers')},{'@type':'ListItem',position:2,name:t.business,item:abs(kawkabPath(lang))},...(section==='home'?[]:[{'@type':'ListItem',position:3,name:titles[section],item:currentUrl}])]},
     ...imagesForPage.map((image,index)=>({'@type':'ImageObject',contentUrl:abs(image.url),name:local(image,'image_title',lang),caption:local(image,'caption',lang),width:image.width,height:image.height,encodingFormat:'image/webp',representativeOfPage:index===0&&section==='home'})),
   ]};
-  const pageTitle=`${titles[section]} | ${t.business} | بيت الريف`;
+  const pageTitle=section==='home' ? `${t.business} | ${lang==='en'?'Biet Al Reef':'بيت الريف'}` : `${titles[section]} | ${t.business} | ${lang==='en'?'Biet Al Reef':'بيت الريف'}`;
   return <div dir={direction} lang={lang==='en'?'en':'ar'} className="min-h-screen bg-[#fbfaf7] text-[#292520]">
     <Head>
       <title>{pageTitle}</title>

@@ -32,9 +32,9 @@ test('mobile-first density and direct quote actions',()=>{
 });
 
 test('company original identity replaces generated hero and logo in live components',()=>{
- assert.match(model,/kawkab-al-saeed-hero-cover\\.webp/);
- assert.match(model,/kawkab-al-saeed-hero-cover-mobile\\.webp/);
- assert.match(model,/kawkab-al-saeed-brand-logo\\.webp/);
+ assert.match(model,/kawkab-al-saeed-hero-cover\.webp/);
+ assert.match(model,/kawkab-al-saeed-hero-cover-mobile\.webp/);
+ assert.match(model,/kawkab-al-saeed-brand-logo\.webp/);
  assert.doesNotMatch(component,/KAWKAB_BRAND_GALLERY\.map/);
 });
 test('existing directory integrates partner, service and 15 Al Ain district links',()=>{
@@ -61,13 +61,13 @@ test('every listed district preserves selected service in Arabic and English',()
  const service=read('components/KawkabServicePage.js');
  const routes=read('lib/localRouteProps.js');
  const areaRows=model.split('export const KAWKAB_AL_AIN_AREAS')[1].split(']);')[0];
- assert.equal((areaRows.match(/\\{slug:'/g)||[]).length,15);
+ assert.equal((areaRows.match(/\{slug:'/g)||[]).length,15);
  assert.match(model,/export function kawkabAreaServicePath/);
- assert.match(model,/\\$\\{locale==='en'\\?'\\/en':''\\}\\/uae\\/abu-dhabi\\/al-ain\\/\\$\\{district\\}\\/general-maintenance\\/\\$\\{service\\}/);
- assert.match(routes,/segments\\.length===3/);
- assert.match(routes,/KAWKAB_SPECIALTIES\\.find/);
- assert.match(district,/kawkabAreaServicePath\\(locale,area\\.slug,service\\.id\\)/);
- assert.match(district,/kawkabAreaServicePath\\(locale,a\\.slug,selectedService\\.id\\)/);
- assert.match(service,/kawkabAreaServicePath\\(d,area\\.slug,serviceId\\)/);
- assert.match(district,/const canon=KAWKAB_ORIGIN\\+path/);
+ assert.match(model,/\$\{locale==='en'\?'\/en':''\}\/uae\/abu-dhabi\/al-ain\/\$\{district\}\/general-maintenance\/\$\{service\}/);
+ assert.match(routes,/segments\.length===3/);
+ assert.match(routes,/KAWKAB_SPECIALTIES\.find/);
+ assert.match(district,/kawkabAreaServicePath\(locale,area\.slug,service\.id\)/);
+ assert.match(district,/kawkabAreaServicePath\(locale,a\.slug,selectedService\.id\)/);
+ assert.match(service,/kawkabAreaServicePath\(d,area\.slug,serviceId\)/);
+ assert.match(district,/const canon=KAWKAB_ORIGIN\+path/);
 });

@@ -1,5 +1,5 @@
 import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
-import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, KAWKAB_PROFILE_ID, kawkabPath, kawkabServicePath, kawkabAreaServicePath } from '../lib/kawkabPresence';
+import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, KAWKAB_PROFILE_ID, kawkabPath, kawkabServicePath, kawkabAreaServicePath, kawkabProjectPath, KAWKAB_PROJECT } from '../lib/kawkabPresence';
 import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
@@ -187,6 +187,9 @@ export async function getServerSideProps({ res }) {
       '&verification_status=eq.verified&publication_status=eq.published&landing_page_status=eq.published&limit=1'
     );
     if (liveKawkab.length && providerCards.some(card => card.id === KAWKAB_PROFILE_ID)) {
+      addPair(kawkabProjectPath('ar'),kawkabProjectPath('en'),
+        KAWKAB_PROJECT.images[0]?.url,
+        {priority:0.7,lastmod:'2026-11-01',images:KAWKAB_PROJECT.images.map(image=>image.url)});
       KAWKAB_SPECIALTIES.forEach(service => addPair(
         kawkabServicePath('ar',service.id), kawkabServicePath('en',service.id),
         null,{priority:0.7,lastmod:'2026-11-01'}));

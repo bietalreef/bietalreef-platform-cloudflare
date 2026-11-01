@@ -180,7 +180,7 @@ export default function KawkabPresencePage({locale='ar',section='home'}){
           <picture className="block w-full overflow-hidden rounded-xl bg-[#eee8de] md:rounded-2xl">
             <source media="(max-width: 639px)" srcSet={KAWKAB_HERO.mobile_url || KAWKAB_HERO.url}/>
             <img src={KAWKAB_HERO.url} alt={local(KAWKAB_HERO,'alt',lang)} width={KAWKAB_HERO.width} height={KAWKAB_HERO.height}
-              loading="eager" fetchPriority="high" decoding="async" className="block aspect-[16/9] w-full object-cover object-center md:aspect-[3/1]" />
+              loading="eager" fetchPriority="high" decoding="async" style={{display:"block",width:"100%",height:"auto",minHeight:"160px",maxWidth:"none",objectFit:"cover"}} className="block aspect-[16/9] w-full object-cover object-center md:aspect-[3/1]" />
           </picture>
           <div className="relative mt-3 rounded-xl bg-white px-3 pb-4 pt-2 md:mt-5 md:border md:border-[#ece3d6] md:px-6 md:py-6">
             <div className="flex items-start gap-3 md:gap-5">

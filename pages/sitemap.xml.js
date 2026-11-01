@@ -1,4 +1,6 @@
 import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
+import { KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_PROFILE_ID, kawkabPath } from '../lib/kawkabPresence';
+import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
 import { AREAS } from '../data/localServices';
@@ -95,7 +97,7 @@ export async function getServerSideProps({ res }) {
       changefreq: options.changefreq || 'weekly',
       priority: options.priority ?? 0.72,
       alternates,
-      images: image ? [image.startsWith('http') ? image : `https://bietalreef.ae${image}`] : [],
+      images: options.images ? options.images.map(img => img.startsWith('http') ? img : `https://bietalreef.ae${img}`) : image ? [image.startsWith('http') ? image : `https://bietalreef.ae${image}`] : [],
     };
     entries.push(
       { ...shared, loc: alternates.ar },
@@ -114,7 +116,7 @@ export async function getServerSideProps({ res }) {
 
   providerCards.forEach((provider) => {
     const slug = String(provider.href || '').split('/').filter(Boolean).pop();
-    if (!slug) return;
+    if (!slug || slug === 'provider-3000485') return;
     addPair(
       `/providers/${slug}`,
       `/en/providers/${slug}`,
@@ -160,7 +162,7 @@ export async function getServerSideProps({ res }) {
   try {
     const publishedCompanies = await getPublishedCompanySitemapRoutes();
     for (const company of publishedCompanies) {
-      if (company.slug === 'alrehab-home-clean') continue;
+      if (company.slug === 'alrehab-home-clean' || company.slug === 'provider-3000485') continue;
       for (const route of company.routes) {
         addPair(
           companyPath(company.slug, 'ar', route.kind, route.slug),
@@ -172,6 +174,29 @@ export async function getServerSideProps({ res }) {
     }
   } catch (error) {
     console.error('Published company sitemap unavailable:',error?.message);
+  }
+
+
+  // BR-3000485: only emit URLs after the account lifecycle actually publishes
+  // the platform landing and activates the company listing. No district/service
+  // permutations without approved, individually useful content.
+  try {
+    const liveKawkab = await fetchTaxonomyTable(
+      'provider_public_profiles?select=id&' +
+      'id=eq.' + KAWKAB_PROFILE_ID +
+      '&verification_status=eq.verified&publication_status=eq.published&landing_page_status=eq.published&limit=1'
+    );
+    if (liveKawkab.length && providerCards.some(card => card.id === KAWKAB_PROFILE_ID)) {
+      KAWKAB_SECTIONS.forEach(section => addPair(
+        kawkabPath('ar',section),kawkabPath('en',section),
+        section==='home' ? KAWKAB_GALLERY[0]?.url : null,
+        { priority: section==='home' ? 0.82 : 0.66,
+          lastmod:'2026-11-01',
+          ...(section==='gallery' ? {images:KAWKAB_IMAGES.map(image => image.url)} : {}) },
+      ));
+    }
+  } catch(error) {
+    console.error('Kawkab sitemap eligibility unavailable:', error?.message);
   }
 
   // Al Nuaim is only indexed AFTER approval of its DISTINCT identity,

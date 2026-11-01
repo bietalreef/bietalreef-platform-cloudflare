@@ -10,6 +10,7 @@ export default function ProviderDynamicRoute(props){
 export async function getServerSideProps(context){
  const [slug,...sections]=context.params.parts||[];
  if(!slug||!sections.length)return {notFound:true};
+ if(slug==='provider-3000485'&&sections.length===1&&['services','service-areas','gallery'].includes(sections[0]))return {redirect:{destination:'/providers/kawkab-al-saeed/'+sections[0],permanent:true}};
  if(slug===AL_NAEEM_SLUG){
    const response=await getAlNaeemProps(context,'ar',sections);
    return response.props?{...response,props:{...response.props,alNaeem:true}}:response;

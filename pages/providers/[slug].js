@@ -8,6 +8,7 @@ export default function PublicCompanyPage(props) {
 }
 export async function getServerSideProps(context) {
   const slug = context.params?.slug;
+  if (slug === 'provider-3000485') return {redirect:{destination:'/providers/kawkab-al-saeed',permanent:true}};
   if (slug === AL_NAEEM_SLUG) {
     const r = await getAlNaeemProps(context, 'ar', []);
     return r.props ? {...r, props: {...r.props, alNaeem:true}} : r;

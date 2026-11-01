@@ -116,7 +116,7 @@ export async function getServerSideProps({ res }) {
 
   providerCards.forEach((provider) => {
     const slug = String(provider.href || '').split('/').filter(Boolean).pop();
-    if (!slug || slug === 'provider-3000485') return;
+    if (!slug || provider.id === KAWKAB_PROFILE_ID || slug === 'provider-3000485') return;
     addPair(
       `/providers/${slug}`,
       `/en/providers/${slug}`,

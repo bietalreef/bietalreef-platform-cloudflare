@@ -71,3 +71,26 @@ test('every listed district preserves selected service in Arabic and English',()
  assert.match(service,/kawkabAreaServicePath\(d,area\.slug,serviceId\)/);
  assert.match(district,/const canon=KAWKAB_ORIGIN\+path/);
 });
+
+test('hero has full-width block picture and intrinsic image height on mobile and desktop',()=>{
+ assert.match(component,/<picture className="block w-full">/);
+ assert.match(component,/style=\{\{display:"block",width:"100%",height:"auto"/);
+ assert.match(component,/KAWKAB_HERO\.mobile_url/);
+});
+test('general-maintenance services page links to published Kawkab profile and all trades',()=>{
+ const page=read('pages/services/[slug].js');
+ assert.match(page,/function KawkabMaintenanceSection/);
+ assert.match(page,/KAWKAB_SPECIALTIES\.map/);
+ assert.match(page,/kawkabServicePath\('ar',specialty\.id\)/);
+ assert.match(page,/isGeneralMaintenance \? <KawkabMaintenanceSection\/>/);
+ assert.match(page,/!isGeneralMaintenance/);
+});
+test('desktop exposes detailed content and mobile offers compact disclosure',()=>{
+ assert.match(component,/WORK_NOTES/);
+ assert.match(component,/function DetailedCompanyGuide/);
+ assert.match(component,/<details className="mt-2/);
+ const page=read('pages/services/[slug].js');
+ assert.match(page,/className="mt-6 hidden md:block"/);
+ assert.match(page,/<details className="mt-3/);
+ assert.match(read('components/SectionCategoryHero.js'),/compactMobile/);
+});

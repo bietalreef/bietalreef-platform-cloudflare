@@ -4,6 +4,14 @@ on:
     branches: [master]
     paths:
       - .github/workflows/kawkab-live-release.yml
+      - lib/kawkabPresence.js
+      - lib/localRouteProps.js
+      - lib/platformDirectoryCards.js
+      - components/AlAinMaintenanceAreaPage.js
+      - components/KawkabServicePage.js
+      - components/provider/KawkabPresencePage.js
+      - components/provider/DirectoryCompanyCard.js
+      - scripts/kawkab-presence.test.cjs
   workflow_dispatch:
 permissions:
   contents: read

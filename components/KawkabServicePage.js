@@ -4,8 +4,8 @@ import Navbar from './Navbar';
 import Footer from './Footer';
 import {
  KAWKAB_PROFILE, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS,
- KAWKAB_LOGO, KAWKAB_ORIGIN, KAWKAB_PROVIDER_CODE,
- kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath
+ KAWKAB_LOGO, KAWKAB_ORIGIN,
+ kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaServicePath
 } from '../lib/kawkabPresence';
 
 const DETAILS={
@@ -45,7 +45,7 @@ export default function KawkabServicePage({locale='ar',serviceId}){
  <main className="mx-auto max-w-6xl px-3 py-4 md:px-5 md:py-9">
  <nav className="mb-3 flex flex-wrap gap-2 text-xs text-[#776b59] md:mb-7"><Link href={kawkabPath(d)}>{KAWKAB_PROFILE[en?'nameEn':'nameAr']}</Link><span>/</span><Link href={kawkabPath(d,'services')}>{en?'Services':'الخدمات'}</Link><span>/</span><span>{service[d]}</span></nav>
  <section className="grid gap-3 rounded-2xl bg-white p-3 shadow-sm md:grid-cols-2 md:gap-7 md:p-7">
- <div><span className="text-xs font-semibold text-[#9b7b42]">{en?'Verified on Biet Al Reef':'نشاط موثق على بيت الريف'} · {KAWKAB_PROVIDER_CODE}</span><h1 className="mt-2 text-xl font-extrabold md:mt-4 md:text-4xl">{service[d]}</h1>
+ <div><span className="text-xs font-semibold text-[#9b7b42]">{KAWKAB_PROFILE[en?'nameEn':'nameAr']} · {en?'Verified on Biet Al Reef':'نشاط موثق على بيت الريف'}</span><h1 className="mt-2 text-xl font-extrabold md:mt-4 md:text-4xl">{service[d]}</h1>
  <p className="mt-2 text-sm leading-6 text-[#62574a] md:hidden">{copy.lead}</p>
  <p className="mt-4 hidden text-base leading-8 text-[#62574a] md:block">{copy.summary}</p>
  <div className="mt-3 flex gap-2 md:mt-6"><a href={kawkabWhatsapp(d,service[d])} target="_blank" rel="noopener noreferrer" className="flex min-h-11 flex-1 items-center justify-center rounded-xl bg-[#353027] px-3 text-sm font-bold text-white">{en?'Request quote':'اطلب عرض سعر'}</a><a href="tel:+971556485364" className="flex min-h-11 items-center rounded-xl border px-4 text-sm font-bold">{en?'Call':'اتصال'}</a></div>
@@ -53,7 +53,7 @@ export default function KawkabServicePage({locale='ar',serviceId}){
  <img src={image.url} alt={image['alt_'+d]} width={image.width} height={image.height} loading="eager" decoding="async" className="aspect-[16/10] w-full rounded-xl object-cover md:aspect-[4/3]"/>
  </section>
  <section className="mt-5 hidden md:block"><h2 className="text-2xl font-bold">{en?'What the service involves':'تفاصيل الخدمة وخطوات المعاينة'}</h2><p className="mt-3 max-w-4xl leading-8 text-[#655d52]">{copy.summary}</p><div className="mt-5 grid gap-3 md:grid-cols-4">{copy.steps.map((step,i)=><article className="rounded-xl border bg-white p-4" key={step}><span className="text-xs font-bold text-[#a0824b]">{String(i+1).padStart(2,'0')}</span><h3 className="mt-2 font-semibold">{step}</h3></article>)}</div></section>
- <section className="mt-5 md:mt-9"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Select your district in Al Ain':'اختر منطقتك في العين'}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-3">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={kawkabAreaPath(d,area.slug)+'/general-maintenance'} className="rounded-lg border bg-white px-3 py-3 text-center text-xs font-semibold md:text-sm">{area[d]}</Link>)}</div></section>
+ <section className="mt-5 md:mt-9"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Select your district in Al Ain':'اختر منطقتك في العين'}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-3">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={kawkabAreaServicePath(d,area.slug,serviceId)} className="rounded-lg border bg-white px-3 py-3 text-center text-xs font-semibold md:text-sm">{area[d]}</Link>)}</div></section>
  <section className="mt-6 hidden rounded-xl border bg-white p-6 md:block"><h2 className="font-bold">{copy.question}</h2><p className="mt-3 leading-8 text-[#655d52]">{copy.answer}</p></section>
  <div className="mt-6 flex flex-wrap gap-3"><Link className="text-sm font-semibold text-[#81622c] underline" href={kawkabPath(d)}>{en?'Company profile':'الملف الرئيسي'}</Link><Link className="text-sm font-semibold text-[#81622c] underline" href={kawkabPath(d,'gallery')}>{en?'Explore the gallery':'معرض التشطيبات'}</Link></div>
  </main><Footer/></div>;

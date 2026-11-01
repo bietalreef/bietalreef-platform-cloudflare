@@ -7,7 +7,7 @@ const AREAS = [
   ['al-towayya', 'الطوية', 'Al Towayya'], ['al-foah', 'الفوعة', 'Al Foah'],
   ['zakher', 'زاخر', 'Zakher'], ['asharej', 'عشارج', 'Asharej'],
   ['al-maqam', 'المقام', 'Al Maqam'], ['falaj-hazza', 'فلج هزاع', 'Falaj Hazza'],
-  ['al-yahar', 'اليحر', 'Al Yahar'], ['al-dhahir', 'الظاهر', 'Al Dhahir'],
+  ['al-yahar', 'العامرة', 'Al Aamerah'], ['al-dhahir', 'الظاهر', 'Al Dhahir'],
 ].map(([slug, nameAr, nameEn]) => ({
   slug, nameAr, nameEn, city: CITY.slug, emirate: CITY.emirate,
   // Do not index district permutations until independent local evidence is reviewed.

@@ -136,7 +136,7 @@ test('Kawkab service photos use verified relevant portfolio media and do not inv
  const presence=read('components/provider/KawkabPresencePage.js');
  assert.match(visual,/KAWKAB_SERVICE_MEDIA\[serviceId\]/);
  assert.match(visual,/KAWKAB_LOGO.url/);
- assert.match(presence,/<KawkabServiceVisual serviceId=\{item.id\}/);
+ assert.match(presence,/KawkabServiceCoverGallery/);
  assert.match(presence,/function Faq\(\{locale\}\)/);
  assert.match(read('components/KawkabServicePage.js'),/id="service-faq"/);
 });
@@ -149,4 +149,47 @@ test('Kawkab cover enforces full image width even if utility style is unavailabl
 test('global PWA install prompt never covers company-owned mobile contact bar',()=>{
  const page=read('pages/_app.js');
  assert.match(page,/!isCompanyLanding && !isKawkabDistrictLanding && <PwaInstallPrompt/);
+});
+
+test('emirate links keep visitor on Kawkab profile, not generic directories',()=>{
+ const page=read('components/provider/KawkabPresencePage.js');
+ const model=read('lib/kawkabPresence.js');
+ const section=page.split('function Areas({locale,short=false})')[1].split('function Gallery(')[0];
+ assert.match(section,/kawkabEmiratePath\(locale,area.slug\)/);
+ assert.doesNotMatch(section,/area.directory/);
+ assert.match(model,/export function kawkabEmiratePath/);
+ const ar=read('pages/providers/kawkab-al-saeed/service-areas/[emirate].js');
+ const en=read('pages/en/providers/kawkab-al-saeed/service-areas/[emirate].js');
+ assert.match(ar,/getStaticPaths/);assert.match(en,/getStaticPaths/);
+ assert.match(ar,/getStaticProps/);assert.match(en,/getStaticProps/);
+ assert.match(read('components/provider/KawkabEmiratePage.js'),/KawkabMobileContactBar/);
+ assert.match(read('components/provider/KawkabEmiratePage.js'),/hrefLang="en-AE"/);
+});
+test('three related interior images form one project, nine others become service covers',()=>{
+ const model=read('lib/kawkabPresence.js');
+ const page=read('components/provider/KawkabPresencePage.js');
+ const project=read('components/provider/KawkabProjectPage.js');
+ const sections=read('components/provider/KawkabPortfolioSections.js');
+ assert.match(model,/\['project-01','project-02','project-03'\]/);
+ assert.match(model,/image.id === 'project-04'/);
+ assert.match(model,/export const KAWKAB_PROJECT/);
+ assert.match(model,/export const KAWKAB_SERVICE_COVERS/);
+ assert.match(sections,/function KawkabProjectShowcase/);
+ assert.match(sections,/function KawkabServiceCoverGallery/);
+ assert.match(project,/project.images.map/);
+ assert.match(page,/KawkabProjectShowcase/);
+ assert.match(page,/KawkabServiceCoverGallery/);
+ const xml=read('public/sitemaps/kawkab-al-saeed.xml');
+ assert.equal((xml.match(/<loc>/g)||[]).length,30);
+ assert.match(xml,/projects\/living-dining-interior/);
+ for(const emirate of ['abu-dhabi','dubai','sharjah']){
+   assert.match(xml,new RegExp('service-areas/'+emirate));
+ }
+});
+test('Al Aamerah display name is corrected while old URL slug is preserved until authenticated admin database change',()=>{
+ const model=read('lib/kawkabPresence.js');
+ const data=read('data/localServices.js');
+ assert.match(model,/slug:'al-yahar',ar:'العامرة',en:'Al Aamerah'/);
+ assert.match(data,/\['al-yahar', 'العامرة', 'Al Aamerah'\]/);
+ assert.doesNotMatch(model,/ar:'اليحر'/);
 });

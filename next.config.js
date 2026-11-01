@@ -51,6 +51,13 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      // Historical Al Yahar links now represent Al Aamerah. Preserve indexed URLs.
+      ...['', '/en'].flatMap(prefix => [
+        { source: `${prefix}/uae/abu-dhabi/al-ain/al-yahar`, destination: `${prefix}/uae/abu-dhabi/al-ain/al-aamerah`, permanent: true },
+        { source: `${prefix}/uae/abu-dhabi/al-ain/al-yahar/:path*`, destination: `${prefix}/uae/abu-dhabi/al-ain/al-aamerah/:path*`, permanent: true },
+        { source: `${prefix}/uae/abu-dhabi/al-yahar`, destination: `${prefix}/uae/abu-dhabi/al-ain/al-aamerah`, permanent: true },
+        { source: `${prefix}/uae/abu-dhabi/al-yahar/:path*`, destination: `${prefix}/uae/abu-dhabi/al-ain/al-aamerah/:path*`, permanent: true },
+      ]),
       { source: '/cleaning-uae', destination: '/categories/cleaning-services', permanent: true },
       { source: '/en/cleaning-uae', destination: '/en/categories/cleaning-services', permanent: true },
       { source: '/maintenance-uae', destination: '/categories/general-maintenance', permanent: true },

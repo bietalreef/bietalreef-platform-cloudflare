@@ -106,3 +106,37 @@ test('the live sitemap contains all 15 districts times six specialty routes in b
  assert.match(hub,/دليل الصيانة حسب مناطق العين/);
  assert.match(hub,/KAWKAB_AL_AIN_AREAS\.map/);
 });
+
+test('company-owned mobile contact actions replace platform support on Kawkab landing routes',()=>{
+ const app=read('pages/_app.js');
+ const profile=read('components/provider/KawkabPresencePage.js');
+ const service=read('components/KawkabServicePage.js');
+ const district=read('components/AlAinMaintenanceAreaPage.js');
+ const bar=read('components/provider/KawkabMobileContactBar.js');
+ assert.match(app,/!isCompanyLanding && !isKawkabDistrictLanding/);
+ assert.match(app,/isProviderProfile && !/);
+ assert.match(bar,/className="fixed inset-x-0 bottom-0/);
+ assert.match(bar,/kawkabWhatsapp\(locale, service\)/);
+ assert.match(bar,/tel:/);
+ assert.match(profile,/<KawkabMobileContactBar locale=\{lang\}/);
+ assert.match(service,/<KawkabMobileContactBar locale=\{d\} service=\{service\[d\]\}/);
+ assert.match(district,/<KawkabMobileContactBar locale=\{locale\}/);
+});
+test('provider hero is cover first, right-side RTL avatar second, then compact mobile title and desktop description',()=>{
+ const page=read('components/provider/KawkabPresencePage.js');
+ const hero=page.split('<header className="bg-[#fbfaf7]">')[1]?.split('</header>')[0] || '';
+ assert.ok(hero.indexOf('<picture') < hero.indexOf('src={KAWKAB_LOGO.url}'));
+ assert.ok(hero.indexOf('src={KAWKAB_LOGO.url}') < hero.indexOf('<h1'));
+ assert.match(hero,/flex items-start gap-3/);
+ assert.match(hero,/md:block/);
+ assert.match(hero,/md:hidden/);
+});
+test('Kawkab service photos use verified relevant portfolio media and do not invent plumbing or AC works',()=>{
+ const visual=read('components/provider/KawkabServiceVisual.js');
+ const presence=read('components/provider/KawkabPresencePage.js');
+ assert.match(visual,/KAWKAB_SERVICE_MEDIA\[serviceId\]/);
+ assert.match(visual,/KAWKAB_LOGO.url/);
+ assert.match(presence,/<KawkabServiceVisual serviceId=\{item.id\}/);
+ assert.match(presence,/function Faq\(\{locale\}\)/);
+ assert.match(read('components/KawkabServicePage.js'),/id="service-faq"/);
+});

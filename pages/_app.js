@@ -52,6 +52,10 @@ export default function MyApp({ Component, pageProps }) {
   const isEnglishPage = currentPath === '/en' || currentPath.startsWith('/en/');
   const isProviderProfile = /^\/(?:en\/)?providers\/(?!register(?:\/|$))[^/?#]+/.test(currentPath);
   const isRehabPresence = /^\/(?:en\/)?providers\/(?:alrehab-home-clean|al-naeem-cleaning-services)(?:\/|$)/.test(currentPath);
+  // Business landing pages own their company contact actions. The platform
+  // floating support button must not obscure profile sections or contact bars.
+  const isCompanyLanding = isProviderProfile && !/^\/(?:en\/)?providers\/(?:specialty|register)(?:\/|$)/.test(currentPath);
+  const isKawkabDistrictLanding = /^\/(?:en\/)?uae\/abu-dhabi\/al-ain\/[^/]+\/general-maintenance\/[^/]+(?:\/|$)/.test(currentPath);
   // Al Rehab now renders exclusively through its approved platform channel.
   // Legacy overlays inject illustrative media and obsolete business details.
   const usesUnifiedProviderTemplate = /^\/(?:en\/)?providers\/(?:arkleen|arkline)(?:\/|$)/.test(currentPath);
@@ -87,7 +91,7 @@ export default function MyApp({ Component, pageProps }) {
       <div className={isAppExperience(currentPath) ? "br-app" : undefined}>{navigating && isAppExperience(currentPath) && <div className="br-route-progress" role="progressbar" aria-label={isEnglishPage ? "Opening page" : "فتح الصفحة"} />}<Component {...pageProps} /></div>
       {!isPreviewSurface && <>
       <BusinessLandingMeta path={metadataPath} />
-      {!isRehabPresence && <FloatingWhatsAppSupport locale={isEnglishPage ? 'en' : 'ar'} />}
+      {!isCompanyLanding && !isKawkabDistrictLanding && <FloatingWhatsAppSupport locale={isEnglishPage ? 'en' : 'ar'} />}
       {isProviderProfile && !isRehabPresence ? (
         <>
           <Head>

@@ -1,0 +1,70 @@
+name: Kawkab Al Saeed — production build, deploy and live verification
+on:
+  push:
+    branches: [master]
+    paths:
+      - .github/workflows/kawkab-live-release.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: bietalreef-platform-live-release
+  cancel-in-progress: false
+jobs:
+  build-and-deploy:
+    if: github.repository == 'bietalreef/bietalreef-platform-cloudflare'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co
+      NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: sb_publishable_QXLpvjjb8LtUqfv0oeV1Ag_p0_zPV_B
+      CLOUDFLARE_ACCOUNT_ID: d92a08c373516b0609290bf31c5c8a47
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - name: Checkout approved main repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.28.0
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Frozen dependency install
+        run: pnpm install --frozen-lockfile
+      - name: Kawkab provider route contract
+        run: node --test scripts/kawkab-presence.test.cjs
+      - name: Build Next.js 15 / OpenNext before touching live site
+        run: pnpm build:cloudflare
+      - name: Require existing Cloudflare publishing credential
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error::CLOUDFLARE_API_TOKEN GitHub Actions secret is missing. No deployment performed."
+            exit 1
+          fi
+      - name: Publish using existing Wrangler Worker (no duplicate project)
+        run: pnpm deploy:cloudflare
+      - name: Verify live HTML, canonical, images and bilingual pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          for path in \
+            /providers/kawkab-al-saeed \
+            /providers/kawkab-al-saeed/services \
+            /providers/kawkab-al-saeed/service-areas \
+            /providers/kawkab-al-saeed/gallery \
+            /en/providers/kawkab-al-saeed \
+            /en/providers/kawkab-al-saeed/gallery; do
+            echo "Inspecting https://bietalreef.ae${path}"
+            http_code=$(curl -LsS --retry 6 --retry-delay 5 --retry-all-errors --max-time 40 -o /tmp/kawkab_live.html -w '%{http_code}' "https://bietalreef.ae${path}")
+            test "$http_code" = "200"
+            grep -q 'rel="canonical"' /tmp/kawkab_live.html
+            grep -q 'hreflang="en-AE"' /tmp/kawkab_live.html
+          done
+          image_url="https://bietalreef.ae/images/providers/provider-3000485/kawkab-al-saeed-project-01-living-tv-wall-d3fe9608123b.webp"
+          image_code=$(curl -LsS --retry 6 --retry-delay 5 --retry-all-errors --max-time 40 -o /tmp/kawkab_check.webp -w '%{http_code}' "$image_url")
+          test "$image_code" = "200"
+          test "$(wc -c < /tmp/kawkab_check.webp)" -gt 1000
+          echo "Live provider route, HTML canonical/hreflang, and first optimized WebP passed."

@@ -1,5 +1,5 @@
 import { getPublishedCompanySitemapRoutes, companyPath } from '../lib/publishedCompanyPresence';
-import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, KAWKAB_PROFILE_ID, kawkabPath, kawkabServicePath } from '../lib/kawkabPresence';
+import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, KAWKAB_PROFILE_ID, kawkabPath, kawkabServicePath, kawkabAreaServicePath } from '../lib/kawkabPresence';
 import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
@@ -194,6 +194,15 @@ export async function getServerSideProps({ res }) {
         '/uae/abu-dhabi/al-ain/'+area.slug+'/general-maintenance',
         '/en/uae/abu-dhabi/al-ain/'+area.slug+'/general-maintenance',
         null,{priority:0.64,lastmod:'2026-11-01'}));
+      // District + specialty pages are already live, self-canonical HTML routes.
+      // Include only when the verified, published Kawkab profile is eligible.
+      // These pages are navigation to a remote service, not separate branches.
+      KAWKAB_AL_AIN_AREAS.forEach(area =>
+        KAWKAB_SPECIALTIES.forEach(service => addPair(
+          kawkabAreaServicePath('ar',area.slug,service.id),
+          kawkabAreaServicePath('en',area.slug,service.id),
+          null,{priority:0.44,lastmod:'2026-11-01'}))
+      );
       KAWKAB_SECTIONS.forEach(section => addPair(
         kawkabPath('ar',section),kawkabPath('en',section),
         section==='home' ? KAWKAB_HERO.url : null,

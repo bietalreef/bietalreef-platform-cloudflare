@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import KawkabMobileContactBar from './KawkabMobileContactBar';
+import KawkabServiceVisual from './KawkabServiceVisual';
 import {
   KAWKAB_PROFILE, KAWKAB_PROVIDER_CODE, KAWKAB_COVERAGE, KAWKAB_SPECIALTIES,
   KAWKAB_IMAGES, KAWKAB_GALLERY, KAWKAB_DETAILS, KAWKAB_ORIGIN, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_BRAND_GALLERY, KAWKAB_AL_AIN_AREAS, kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath,
@@ -32,7 +33,7 @@ function Services({locale,short=false}){
   const t=i18n[locale];const items=short?KAWKAB_SPECIALTIES.slice(0,4):KAWKAB_SPECIALTIES;
   return <section className="mx-auto w-full max-w-6xl px-4 py-7 sm:py-10">
     <SectionTitle title={t.servicesTitle} desc={t.servicesDesc} href={short?kawkabPath(locale,'services'):null} cta={t.seeAll}/>
-    <div className="grid grid-cols-2 gap-2 md:grid-cols-3 lg:gap-4">{items.map((item,index)=><article key={item.id} className="flex min-w-0 flex-col overflow-hidden rounded-xl border border-[#ebe5dc] bg-white p-2.5 sm:p-5"><Link href={kawkabServicePath(locale,item.id)} aria-label={item[locale]}><img src={kawkabServiceImage(item.id).url} alt={local(kawkabServiceImage(item.id),'alt',locale)} loading="lazy" decoding="async" className="mb-1 aspect-[4/3] w-full rounded-lg object-cover"/></Link>
+    <div className="grid grid-cols-2 gap-2 md:grid-cols-3 lg:gap-4">{items.map((item,index)=><article key={item.id} className="flex min-w-0 flex-col overflow-hidden rounded-xl border border-[#ebe5dc] bg-white p-2.5 sm:p-5"><Link href={kawkabServicePath(locale,item.id)} aria-label={item[locale]}><KawkabServiceVisual serviceId={item.id} locale={locale} className="mb-1"/></Link>
       <span className="text-xs font-semibold text-[#a48752]">{String(index+1).padStart(2,'0')}</span>
       <h3 className="mt-2 text-sm font-bold leading-6 text-[#272321] sm:text-base">{item[locale]}</h3>
       <p className="mt-1 line-clamp-1 grow text-xs leading-5 text-[#696057] md:line-clamp-none md:text-sm">{item[locale+'Desc']}</p>
@@ -106,7 +107,7 @@ function DetailedCompanyGuide({locale}) {
   const notes=WORK_NOTES[locale];
   const blocks=<>
     <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">{notes.map((note,index)=><article key={note.name} className="rounded-xl border border-[#e9dfd0] bg-white p-5">
-      {index < 4 ? <img src={kawkabServiceImage(KAWKAB_SPECIALTIES[index].id).url} alt={en?'Interior finishing image from the Kawkab company portfolio':'صورة تشطيبات من معرض كوكب الصعيد'} loading="lazy" decoding="async" className="mb-3 aspect-[16/9] w-full rounded-lg object-cover" /> : <div className="mb-3 flex aspect-[16/9] items-center justify-center rounded-lg bg-[#f3ede3] text-4xl" aria-hidden="true">{index===4?'◈':'❄'}</div>}
+      <KawkabServiceVisual serviceId={['painting','plaster','wallpaper','carpentry','plumbing','hvac'][index]} locale={locale} className="mb-3 md:aspect-[16/9]" />
       <span className="text-xs font-semibold text-[#856737]">{String(index+1).padStart(2,'0')}</span>
       <h3 className="mt-1 text-lg font-bold text-[#29251e]">{note.name}</h3>
       <p className="mt-3 text-sm leading-7 text-[#524d43]"><strong>{en?'When it is relevant: ':'متى تحتاجها؟ '}</strong>{note.when}</p>

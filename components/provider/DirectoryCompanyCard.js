@@ -11,6 +11,7 @@ export default function DirectoryCompanyCard({ item, locale }) {
   if (!item?.href) return null;
   const en = locale ? locale === 'en' : item.href.startsWith('/en/');
   const cover = media(item.coverImage), logo = media(item.logoImage);
+  const brandArtwork = /\/providers\/kawkab-al-saeed(?:\/|$)/.test(item.href);
   const location = [item.area, item.city].filter(Boolean).join(' · ');
   const contact = String(item.whatsapp || '');
   const number = digitsFor(item.phone || (contact.startsWith('http') ? '' : contact));
@@ -18,8 +19,8 @@ export default function DirectoryCompanyCard({ item, locale }) {
   const whatsapp = /^https:\/\/(wa\.me|api\.whatsapp\.com)\//.test(contact) ? contact : waNumber.length >= 9 && waNumber.length <= 15 ? `https://wa.me/${waNumber}?text=${encodeURIComponent(en ? `Hello ${item.name}, I would like to ask about your services.\nhttps://bietalreef.ae${item.href}` : `مرحبًا ${item.name}، أرغب بالاستفسار عن خدماتكم.\nhttps://bietalreef.ae${item.href}`)}` : null;
   const services = item.serviceLinks || (item.specialties || []).slice(0, 4).map(name => ({ name }));
   return <article data-directory-company={item.href.replace(/^\/en/, '')} data-provider-slug={item.href.split('/').filter(Boolean).pop()} dir={en ? 'ltr' : 'rtl'} className="flex h-full min-w-0 flex-col overflow-hidden rounded-2xl border border-[#e2d8c6] bg-white shadow-sm sm:rounded-3xl">
-    <Link href={item.href} className="block aspect-[16/7] overflow-hidden bg-[#f3efe7]" aria-label={item.name}>
-      {cover ? <img src={cover} alt={item.name} loading="lazy" decoding="async" className="h-full w-full object-cover"/> : <span className="flex h-full items-center justify-center text-[#ac8b52]"><Building2 size={44} aria-hidden="true"/></span>}
+    <Link href={item.href} className={`block overflow-hidden bg-[#f3efe7] ${brandArtwork ? "aspect-[3/1]" : "aspect-[16/7]"}`} aria-label={item.name}>
+      {cover ? <img src={cover} alt={item.name} loading="lazy" decoding="async" className={`h-full w-full ${brandArtwork ? "object-contain" : "object-cover"}`}/> : <span className="flex h-full items-center justify-center text-[#ac8b52]"><Building2 size={44} aria-hidden="true"/></span>}
     </Link>
     <div className="flex flex-1 flex-col gap-3 p-4 sm:p-5">
       <div className="flex items-center gap-3">

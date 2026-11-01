@@ -12,6 +12,7 @@ export default function KawkabProjectPage({locale='ar'}) {
  const en=locale==='en',project=KAWKAB_PROJECT;
  const name=en?project.name_en:project.name_ar;
  const description=en?project.description_en:project.description_ar;
+ const pageTitle=`${name} | ${en?KAWKAB_PROFILE.nameEn:KAWKAB_PROFILE.nameAr} | ${en?'Biet Al Reef':'بيت الريف'}`;
  const path=kawkabProjectPath(locale);
  const url=KAWKAB_ORIGIN+path;
  const schema={
@@ -23,7 +24,7 @@ export default function KawkabProjectPage({locale='ar'}) {
  };
  return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className="min-h-screen bg-[#fbfaf7] pb-20 text-[#253044] sm:pb-0">
  <Head>
-  <title>{name} | {en?KAWKAB_PROFILE.nameEn:KAWKAB_PROFILE.nameAr} | {en?'Biet Al Reef':'بيت الريف'}</title>
+  <title>{pageTitle}</title>
   <meta name="description" content={description}/>
   <meta name="robots" content="index, follow, max-image-preview:large"/>
   <link rel="canonical" href={url}/>

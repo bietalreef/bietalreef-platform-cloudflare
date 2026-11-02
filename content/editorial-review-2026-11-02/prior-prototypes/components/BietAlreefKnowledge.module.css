@@ -1,0 +1,15 @@
+/* Neutral additive styling: never override Biet Al Reef brand, navigation or card system. */
+.section {width:100%; max-width:100%; margin-block:clamp(1rem,3vw,2rem);color:inherit;}
+.body{line-height:1.85;overflow-wrap:anywhere;}
+.body h2 {font-size:clamp(1.1rem,2vw,1.55rem);line-height:1.45;margin:1.3em 0 .4em;font-weight:750;}
+.body h3 {font-size:clamp(1rem,1.5vw,1.22rem);line-height:1.5;margin:1.1em 0 .3em;font-weight:700;}
+.body p, .body ol,.body ul {margin-block:.55rem 1rem;}
+.body ul,.body ol {padding-inline-start:1.45rem;}
+.body li {margin-block:.35rem;}
+.body a {text-underline-offset:3px;overflow-wrap:anywhere;}
+.mobileMore {display:none;background:transparent;color:inherit;border:1px solid currentColor;border-radius:.5rem;padding:.4rem .8rem;font:inherit;cursor:pointer;}
+.mobileMore:focus-visible {outline:3px solid currentColor;outline-offset:3px;}
+@media(max-width:639px) {
+ .body:not(.expanded) {max-height:5.8rem;overflow:hidden;position:relative;}
+ .mobileMore{display:inline-flex;align-items:center;gap:.3rem;margin-block:.35rem;}
+}

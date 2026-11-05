@@ -68,3 +68,6 @@ test('Platform image isolation: publication-only cover and original account avat
  assert.match(cards,/imageIllustrative/);
  assert.match(offers,/imageIllustrative/);
 });
+
+// Keep the Abu Dhabi local-directory publication contract in the clean-build QA suite.
+require('./abu-dhabi-area-directory.test.cjs');

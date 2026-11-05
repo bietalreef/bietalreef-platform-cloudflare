@@ -22,6 +22,7 @@ import UaeDirectoryWeyaakCard from '../../../../components/UaeDirectoryWeyaakCar
 import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeDirectorySeo from '../../../../components/UaeDirectorySeo';
 import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../../components/AbuDhabiAreaGuide';
+import {getPublishedAbuDhabiAreaCompanies} from '../../../../lib/abuDhabiAreaPublishedCompanies';
 import abuAreaEditorial from '../../../../data/abuDhabiAreaEditorial.json';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../data/siteTaxonomy';
 import { getEnglishUaeDirectoryCards } from '../../../../lib/platformDirectoryCards';
@@ -60,7 +61,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab }) {
   );
 }
 
-export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
+export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], publishedCompanies = [], rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
   if (rehabContext) return <RehabPresencePage data={data} locale="en" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="en" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} unavailable={unavailable} />;
   if (model) return <LocalServicesPage model={model} />;
@@ -94,7 +95,7 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
 
           <UaeDirectoryWeyaakCard locale="en" title={`Weyaak in ${area.nameEn}`} description={`Tell Weyaak what your project needs in ${area.nameEn}, and it will help you choose the specialty and reach the right provider or request path.`} />
 
-          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
+          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="Cleaning company serving this area">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">Cleaning company serving this area</h2>
             <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" /></div>
@@ -124,6 +125,8 @@ export async function getStaticProps({ params }) {
   if (!area && !service && params.emirate === 'abu-dhabi') return getCompanyStaticContextProps('en', params.area, []);
   if (!area && !service) return { notFound: true };
   const directoryCards = area ? await getEnglishUaeDirectoryCards() : [];
+  const publishedCompanies=area&&emirate.slug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug)
+    ? await getPublishedAbuDhabiAreaCompanies(directoryCards,'en',area.slug) : [];
   const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData().catch(() => null) : null;
 
   return {
@@ -133,6 +136,7 @@ export async function getStaticProps({ params }) {
       area: area || null,
       service: service || null,
       directoryCards,
+      publishedCompanies,
       rehab,
     },
     revalidate: 3600,

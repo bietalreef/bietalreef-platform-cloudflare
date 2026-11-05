@@ -51,6 +51,8 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      { source: '/media', destination: '/press', permanent: true },
+      { source: '/en/media', destination: '/en/press', permanent: true },
       { source: '/cleaning-uae', destination: '/categories/cleaning-services', permanent: true },
       { source: '/en/cleaning-uae', destination: '/en/categories/cleaning-services', permanent: true },
       { source: '/maintenance-uae', destination: '/categories/general-maintenance', permanent: true },

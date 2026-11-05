@@ -57,14 +57,14 @@ function Topic({ section, locale, index }) {
 // order, so select the image by actual subject rather than by translated index.
 const abuDhabiCards = {
   ar: [
-    { image: 'consultant-permit', alt: 'استشاري ومالك يراجعان مخططات مشروع في أبوظبي', summary: 'حدد احتياجات المشروع ومسؤوليات الاستشاري، وتحقق من المتطلبات والموافقات لدى الجهة المختصة.' },
-    { image: 'villa-project', alt: 'مهندس يراجع حالة فيلا قيد الإنشاء قبل استكمال المشروع', summary: 'راجع المخططات ونطاق الأعمال وحالة الموقع قبل تسعير فيلا جديدة أو استكمال مشروع متوقف.' },
-    { image: 'choose-professionals', alt: 'مالك يقارن خطط العمل مع استشاري ومقاول', summary: 'قارن التخصص والخبرة ونطاق الخدمة واحتياجات الموقع في أبوظبي والعين والظفرة.' },
+    { image: 'consultant-permit', alt: 'تصور توضيحي لاستشاري ومالك يراجعان مخططات مشروع في أبوظبي', summary: 'حدد احتياجات المشروع ومسؤوليات الاستشاري، وتحقق من المتطلبات والموافقات لدى الجهة المختصة.' },
+    { image: 'villa-project', alt: 'تصور توضيحي لمهندس يراجع حالة فيلا قيد الإنشاء قبل استكمال المشروع', summary: 'راجع المخططات ونطاق الأعمال وحالة الموقع قبل تسعير فيلا جديدة أو استكمال مشروع متوقف.' },
+    { image: 'choose-professionals', alt: 'تصور توضيحي لمالك يقارن خطط العمل مع استشاري ومقاول', summary: 'قارن التخصص والخبرة ونطاق الخدمة واحتياجات الموقع في أبوظبي والعين والظفرة.' },
   ],
   en: [
-    { image: 'consultant-permit', alt: 'A consultant and homeowner review project plans in Abu Dhabi', summary: 'Define the project and consultant’s responsibilities, then check approvals with the relevant authority.' },
-    { image: 'choose-professionals', alt: 'A homeowner compares work plans with engineering and construction professionals', summary: 'Check an engineering firm’s classification and compare its suitability for the actual service.' },
-    { image: 'villa-project', alt: 'An engineer reviews an unfinished villa before work resumes', summary: 'Review coordinated drawings, completed work and responsibilities before building or resuming a villa.' },
+    { image: 'consultant-permit', alt: 'Illustration of a consultant and homeowner reviewing project plans in Abu Dhabi', summary: 'Define the project and consultant’s responsibilities, then check approvals with the relevant authority.' },
+    { image: 'choose-professionals', alt: 'Illustration of a homeowner comparing plans with engineering and construction professionals', summary: 'Check an engineering firm’s classification and compare its suitability for the actual service.' },
+    { image: 'villa-project', alt: 'Illustration of an engineer reviewing an unfinished villa before work resumes', summary: 'Review coordinated drawings, completed work and responsibilities before building or resuming a villa.' },
   ],
 };
 
@@ -79,7 +79,7 @@ function AbuDhabiTopic({ section, locale, index, prefix }) {
       srcSet={`${root}-small.webp 600w, ${root}-medium.webp 840w, ${root}-large.webp 1200w`}
       sizes="(max-width: 700px) 95vw, (max-width: 1024px) 47vw, 26vw"
       width="1200" height="675" alt={card.alt} loading="lazy" decoding="async"
-    /></div>
+    /><small className={styles.imageNotice}>{en ? 'Illustrative image' : 'صورة توضيحية'}</small></div>
     <div className={styles.body}>
       <h3>{section.heading}</h3>
       <p className={styles.summary}>{card.summary}</p>

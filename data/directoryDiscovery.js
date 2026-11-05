@@ -22,8 +22,8 @@ export const UAE_MAIN_SECTORS = [
  {slug:'cleaning-services',name:{ar:'التنظيف والتعقيم ومكافحة الحشرات',en:'Cleaning, sanitisation and pest control'},description:{ar:'تنظيف المنازل والمباني والتعقيم ومكافحة الحشرات.',en:'Home and building cleaning, sanitisation and pest control.'},image:'/images/providers/alrehab/service-sofa.webp',types:['companies'],aliases:['تنظيف','تعقيم','حشرات','كنب','سجاد','cleaning','sanitisation','pest']},
 ];
 export const ABU_DHABI_DESTINATIONS=[
- {slug:'al-ain',nameAr:'العين',nameEn:'Al Ain',description:{ar:'مركز خدمات العين للشركات والمحلات والموردين، من التنظيف إلى احتياجات البناء والتوريد.',en:'Al Ain services, companies, shops and suppliers, from cleaning to building and supply.'},image:'/images/sector-cards/general-contracting-construction-card.webp'},
  {slug:'abu-dhabi-city',nameAr:'مدينة أبوظبي',nameEn:'Abu Dhabi City',description:{ar:'ابدأ من العاصمة لاكتشاف الخدمات والصيانة والتصميم والمحلات والموردين.',en:'Explore capital-city services, maintenance, design, shops and suppliers.'},image:'/images/uae-atlas/abu-dhabi.webp'},
+ {slug:'al-ain',nameAr:'العين',nameEn:'Al Ain',description:{ar:'مركز خدمات العين للشركات والمحلات والموردين، من التنظيف إلى احتياجات البناء والتوريد.',en:'Al Ain services, companies, shops and suppliers, from cleaning to building and supply.'},image:'/images/sector-cards/general-contracting-construction-card.webp'},
  {slug:'al-dhafra',nameAr:'الظفرة',nameEn:'Al Dhafra',description:{ar:'استكشف خدمات المشاريع والشركات واحتياجات التوريد في منطقة الظفرة.',en:'Discover project services, companies and supply needs in Al Dhafra.'},image:'/images/sector-cards/factories-suppliers-workshops-card.webp'}
 ];
 export const ABU_DHABI_AREAS=['baniyas','khalifa-city','mohammed-bin-zayed-city','shamkha','al-wathba','al-rahba','musaffah','al-reem-island','al-raha'];

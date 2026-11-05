@@ -1,0 +1,131 @@
+{
+  "area": "baniyas",
+  "sector": "general-contracting",
+  "targetArabicMinWordsPerChapter": 500,
+  "approvedArticles": 0,
+  "chapters": [
+    {
+      "id": "baniyas-general-contracting-01",
+      "arTitle": "أفضل شركة مقاولات في بني ياس — أبوظبي: كيف تختارها؟",
+      "enTitle": "How to select a contractor for a Baniyas building project",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters01.json"
+    },
+    {
+      "id": "baniyas-general-contracting-02",
+      "arTitle": "أرخص شركة مقاولات في بني ياس: كيف تقارن الأسعار دون التضحية بالجودة؟",
+      "enTitle": "Finding better-value construction quotes in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters01.json"
+    },
+    {
+      "id": "baniyas-general-contracting-03",
+      "arTitle": "كيف تجد مقاول بناء مناسبًا في بني ياس؟",
+      "enTitle": "Finding the right builder for your project in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters02.json"
+    },
+    {
+      "id": "baniyas-general-contracting-04",
+      "arTitle": "ما شروط اختيار المقاول المناسب لمشروعك في بني ياس؟",
+      "enTitle": "What to verify before appointing a construction contractor in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters02.json"
+    },
+    {
+      "id": "baniyas-general-contracting-05",
+      "arTitle": "شركات بناء الفلل والمنازل في بني ياس: من اختيار التصميم إلى استلام الأعمال",
+      "enTitle": "Villa and home builders in Baniyas: planning the project through handover",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters02.json"
+    },
+    {
+      "id": "baniyas-general-contracting-06",
+      "arTitle": "مقاول عظم أم مقاول تسليم مفتاح في بني ياس؟",
+      "enTitle": "Shell works or turnkey construction in Baniyas: which contract fits?",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters03.json"
+    },
+    {
+      "id": "baniyas-general-contracting-07",
+      "arTitle": "بناء الملاحق والمجالس والاستراحات في بني ياس",
+      "enTitle": "Building majlis extensions, annexes and outdoor rooms in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters03.json"
+    },
+    {
+      "id": "baniyas-general-contracting-08",
+      "arTitle": "كم تكلفة بناء فيلا في بني ياس وأبوظبي عام 2026؟",
+      "enTitle": "What determines the cost of building a villa in Baniyas in 2026?",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters03.json"
+    },
+    {
+      "id": "baniyas-general-contracting-09",
+      "arTitle": "سعر متر البناء في أبوظبي وكيف تحسب مشروعك في بني ياس",
+      "enTitle": "How construction cost per square metre is calculated for a Baniyas project",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters04.json"
+    },
+    {
+      "id": "baniyas-general-contracting-10",
+      "arTitle": "تراخيص البناء والمخططات الهندسية لمشاريع بني ياس",
+      "enTitle": "Building approvals and coordinated design documents for Baniyas projects",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters04.json"
+    },
+    {
+      "id": "baniyas-general-contracting-11",
+      "arTitle": "الفرق بين المقاول العام والمقاول الباطن والاستشاري الهندسي",
+      "enTitle": "Understanding principal contractors, subcontractors and engineering consultants in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters04.json"
+    },
+    {
+      "id": "baniyas-general-contracting-12",
+      "arTitle": "كيف تقارن عروض أسعار شركات المقاولات في بني ياس؟",
+      "enTitle": "Comparing building tenders fairly for a Baniyas project",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters05.json"
+    },
+    {
+      "id": "baniyas-general-contracting-13",
+      "arTitle": "عقود المقاولات والدفعات والضمانات لمشاريع البناء في بني ياس",
+      "enTitle": "Construction contracts, milestone payments and warranties in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters05.json"
+    },
+    {
+      "id": "baniyas-general-contracting-14",
+      "arTitle": "مراحل تنفيذ مشروع بناء في بني ياس من البداية حتى التسليم",
+      "enTitle": "Stages of building a project in Baniyas from site setup to completion",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters05.json"
+    },
+    {
+      "id": "baniyas-general-contracting-15",
+      "arTitle": "كيف تتجنب أخطاء البناء وتأخر التنفيذ والخلافات مع المقاول في بني ياس؟",
+      "enTitle": "Preventing construction defects, delays and contractor disputes in Baniyas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters06.json"
+    },
+    {
+      "id": "baniyas-general-contracting-16",
+      "arTitle": "شركات المقاولات التي تخدم بني ياس والمناطق المحيطة بها",
+      "enTitle": "Finding contractors with genuine service coverage in Baniyas and nearby areas",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters06.json"
+    },
+    {
+      "id": "baniyas-general-contracting-17",
+      "arTitle": "كيف تقدم طلب عرض سعر مقاولات لمشروع في بني ياس؟",
+      "enTitle": "Preparing a useful construction quotation request for a Baniyas project",
+      "status": "written-pending-editorial-review",
+      "source": "data/baniyasConstructionChapters06.json"
+    }
+  ],
+  "writtenArticles": 17,
+  "editorialReviewedArticles": 0,
+  "lastContentUpdate": "2026-11-06",
+  "note": "All 17 chapters are authored in Arabic and original English. Pending separate factual/editorial review, live testing, owner approval and publication; no other sector or area is certified complete."
+}

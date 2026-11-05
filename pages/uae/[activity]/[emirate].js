@@ -23,6 +23,9 @@ import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../components/UaeContextInfoCard';
 import UaeDirectorySeo from '../../../components/UaeDirectorySeo';
+import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../components/AbuDhabiAreaGuide';
+import {getPublishedAbuDhabiAreaCompanies} from '../../../lib/abuDhabiAreaPublishedCompanies';
+import abuAreaEditorial from '../../../data/abuDhabiAreaEditorial.json';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../data/siteTaxonomy';
 import { getArabicUaeDirectoryCards } from '../../../lib/platformDirectoryCards';
 
@@ -69,7 +72,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab }) {
   );
 }
 
-export default function AreaOrServicePage({ model, mode, emirate, area, service, emirateSlug, areaSlug, directoryCards = [], rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
+export default function AreaOrServicePage({ model, mode, emirate, area, service, emirateSlug, areaSlug, directoryCards = [], publishedCompanies = [], rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
   if (rehabContext) return <RehabPresencePage data={data} locale="ar" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="ar" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} unavailable={unavailable} />;
   if (model) return <LocalServicesPage model={model} />;
@@ -81,10 +84,11 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
 
   if (!area) return null;
 
-  const pageData = {
-    h1: `خدمات البناء والمقاولات في ${area.nameAr}`,
-    desc: `اختر الخدمة المناسبة في ${area.nameAr} داخل ${emirate.nameAr}: مقاولات، نجارة، رخام، صيانة، تصميم داخلي ومواد بناء.`,
-  };
+  const abuLocal=emirate.slug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug);
+  const localEditorial=abuLocal?abuAreaEditorial.areas[area.slug].ar:null;
+  const pageData = abuLocal
+    ? {h1:localEditorial.title,desc:localEditorial.intro}
+    : {h1:`خدمات البناء والمقاولات في ${area.nameAr}`,desc:`اختر الخدمة المناسبة في ${area.nameAr} داخل ${emirate.nameAr}: مقاولات، نجارة، رخام، صيانة، تصميم داخلي ومواد بناء.`};
 
   const alNaeemAreaSlug = alNaeemCoverageFor(emirate.slug, area.slug);
   const showAlNaeemArea = AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(item => item.slug === alNaeemAreaSlug)
@@ -106,21 +110,21 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
         <main>
           <UaeDirectoryHero locale="ar" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
 
-          <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />
+          {!abuLocal&&<UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />}
 
           <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى الشركة أو مسار الطلب المناسب.`} />
 
-          <UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />
+          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
             <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" /></div>
           </section>}
 
-          <SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
+          {!abuLocal&&<SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
             <p>صفحة {area.nameAr} داخل {emirate.nameAr} تربط الموقع بالخدمات المتاحة، مع الحفاظ على الروابط الجغرافية ومسار تصفح واضح.</p>
-          </SeoContent>
+          </SeoContent>}
 
-          <FAQ items={faqItems} title={`أسئلة شائعة حول الخدمات في ${area.nameAr}`} />
+          {!abuLocal&&<FAQ items={faqItems} title={`أسئلة شائعة حول الخدمات في ${area.nameAr}`} />}
           <UaeSmartFooter locale="ar" pageType="area" emirate={emirate} area={area} directoryCards={directoryCards} />
         </main>
         <Footer showRequestCTA={false} />
@@ -143,6 +147,8 @@ export async function getStaticProps({ params }) {
   if (!area && !service && params.activity === 'abu-dhabi') return getCompanyStaticContextProps('ar', params.emirate, []);
   if (!area && !service) return { notFound: true };
   const directoryCards = area ? await getArabicUaeDirectoryCards() : [];
+  const publishedCompanies=area&&emirateSlug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug)
+    ? await getPublishedAbuDhabiAreaCompanies(directoryCards,'ar',area.slug) : [];
   const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData().catch(() => null) : null;
 
   return {
@@ -154,6 +160,7 @@ export async function getStaticProps({ params }) {
       emirateSlug,
       areaSlug: secondSlug,
       directoryCards,
+      publishedCompanies,
       rehab,
     },
     revalidate: 3600,

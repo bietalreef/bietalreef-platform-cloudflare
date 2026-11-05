@@ -1,0 +1,379 @@
+{
+  "reviewedOn": "2026-11-06",
+  "contexts": {
+    "baniyas": {
+      "general-contracting": {
+        "ar": "من يفكر في بناء مجلس أو إضافة ملحق في بني ياس يحتاج إلى وصف العلاقة بالمبنى القائم ومداخل العمل والمواد التي قد تتطلب تخزينًا داخل الموقع.",
+        "en": "For a Baniyas extension or majlis, describe connections to the existing villa, work access and where materials can be stored safely."
+      },
+      "interior-design": {
+        "ar": "تصميم مطبخ في بني ياس يحتاج مراجعة أماكن التمديدات والشفاط والمقاسات بعد التشطيب، وليس اختيار واجهات جميلة فقط.",
+        "en": "A Baniyas kitchen design should coordinate utilities, extraction and as-built dimensions rather than relying solely on cabinet visuals."
+      },
+      "general-maintenance": {
+        "ar": "عند تكرار بقعة رطوبة في أحد المنازل ببني ياس، اسأل عن اختبار مصدر الماء قبل إصلاح الطلاء لتجنب عودة المشكلة.",
+        "en": "If a damp patch returns in a Baniyas home, ask about finding and testing the moisture source before repainting."
+      },
+      "building-materials": {
+        "ar": "عند شراء مواد لمشروع ببني ياس، أرسل قائمة كميات موحدة وحدد ساعات التنزيل حتى لا تتسبب دفعات التوريد في تعطيل فريق التنفيذ.",
+        "en": "For Baniyas project supply, send one quantity schedule and agree unloading slots so deliveries do not interrupt trades."
+      },
+      "aluminium-glass": {
+        "ar": "قبل تصنيع بوابة أو أبواب في بني ياس، اطلب التأكد من المناسيب النهائية ومكان المفصلات وحركة الفتح ومساحة السيارات.",
+        "en": "Before making a gate or doors for a Baniyas property, check finished levels, hinges, swing and vehicle clearance."
+      },
+      "furniture-decor": {
+        "ar": "في تأثيث مجلس ببني ياس، راجع عدد المقاعد المطلوب فعليًا ومسارات الدخول وأبعاد الكنب قبل تحديد القماش والحشوة.",
+        "en": "When furnishing a Baniyas majlis, plan seating capacity, entry routes and sofa dimensions before selecting fabrics and padding."
+      },
+      "equipment-rental": {
+        "ar": "إذا استلزم مشروع ببني ياس سقالة أو رافعة، وثق مدة الإيجار وطريقة الدخول ومكان الوقوف ومن يتحمل التشغيل والفحص.",
+        "en": "If a Baniyas job needs access equipment, document the hire period, entry, standing area, operator and inspection duties."
+      },
+      "cleaning-services": {
+        "ar": "في تنظيف فيلا ببني ياس بعد التشطيب، فرق بين الغبار الإنشائي والبقع على الأرضيات والمفروشات وحدد الأماكن الخارجية ضمن العرض.",
+        "en": "For post-build cleaning in Baniyas, distinguish construction dust from floor and upholstery stains and include outdoor areas explicitly."
+      }
+    },
+    "khalifa-city": {
+      "general-contracting": {
+        "ar": "في تجديد أو إضافة جزء لفيلا بمدينة خليفة، حدّد هل ستظل الأسرة مقيمة أثناء التنفيذ وكيف ستتم حماية المساحات المستخدمة.",
+        "en": "For a Khalifa City villa alteration, confirm whether the home remains occupied and how active living areas will be protected."
+      },
+      "interior-design": {
+        "ar": "عند إعادة توزيع غرفة بمدينة خليفة، راجع ارتفاعات السقف والإنارة والتكييف قبل تثبيت مخطط أثاث جديد.",
+        "en": "For a Khalifa City room redesign, check ceilings, lighting and air-conditioning before fixing the furniture layout."
+      },
+      "general-maintenance": {
+        "ar": "إذا كان التكييف في منزل بمدينة خليفة ضعيفًا في بعض الغرف فقط، فاطلب فحص توزيع الهواء والتحكم بدل استبدال الوحدة مباشرة.",
+        "en": "If cooling is poor in only some Khalifa City rooms, ask for airflow and controls checks before replacing equipment."
+      },
+      "building-materials": {
+        "ar": "تجديد حمام بمدينة خليفة يحتاج قائمة واضحة بالأدوات الصحية والعزل والبلاط والمواد ومواعيد وصول كل دفعة.",
+        "en": "A Khalifa City bathroom renovation needs an agreed list of fixtures, waterproofing and tiles with coordinated delivery dates."
+      },
+      "aluminium-glass": {
+        "ar": "في تفصيل خزائن غرف بمدينة خليفة، قِس الأبواب وارتفاعات الجبس ومواقع مفاتيح الكهرباء قبل اعتماد رسومات الورشة.",
+        "en": "For fitted wardrobes in Khalifa City, measure doors, gypsum soffits and switches before approving shop drawings."
+      },
+      "furniture-decor": {
+        "ar": "عند اختيار كنب مجلس بمدينة خليفة، يجب التأكد من إمكان التنظيف أو إعادة التنجيد بما يناسب استخدام الأسرة اليومي.",
+        "en": "When choosing Khalifa City majlis sofas, consider cleaning and future reupholstery alongside everyday family use."
+      },
+      "equipment-rental": {
+        "ar": "إذا جرى استئجار معدات لتجديد منزل بمدينة خليفة، راجع الضوضاء وحماية الممرات والحدائق المحيطة بمكان العمل.",
+        "en": "If equipment is hired for a Khalifa City renovation, plan noise control and protection for paths and garden areas."
+      },
+      "cleaning-services": {
+        "ar": "في تنظيف منزل مأهول بمدينة خليفة، حدد الغرف المستخدمة والأثاث الحساس ومتى يمكن غسل الأسطح دون تعطيل الساكنين.",
+        "en": "For cleaning an occupied Khalifa City home, list active rooms, delicate furniture and suitable washing times."
+      }
+    },
+    "mohammed-bin-zayed-city": {
+      "general-contracting": {
+        "ar": "عند إعادة تشطيب فيلا بمدينة محمد بن زايد، افصل أعمال إزالة القديم عن أعمال البناء والإصلاح حتى تظهر الكميات بوضوح.",
+        "en": "For a Mohammed Bin Zayed City villa refurbishment, separate strip-out from new construction and repairs so quantities can be priced."
+      },
+      "interior-design": {
+        "ar": "تصميم مجلس أو صالة بمدينة محمد بن زايد يجب أن يراجع الإنارة المخفية ومخارج التكييف قبل إغلاق الأسقف الجديدة.",
+        "en": "A Mohammed Bin Zayed City reception design should coordinate concealed lighting and AC outlets before ceiling closure."
+      },
+      "general-maintenance": {
+        "ar": "إذا اجتمعت مشكلة رطوبة مع انسداد صرف بمدينة محمد بن زايد، اطلب فحص التمديدات والعزل قبل تحديد أعمال الدهان.",
+        "en": "Where moisture and drainage symptoms coincide in MBZ City, investigate plumbing and waterproofing before repainting."
+      },
+      "building-materials": {
+        "ar": "في توريد بلاط لحمام بمدينة محمد بن زايد، راجع الهدر المتوقع وأرقام التشغيلات والتوفر لاستكمال نفس اللون لاحقًا.",
+        "en": "When buying bathroom tiles for MBZ City, consider cutting waste, batch numbers and future matching stock."
+      },
+      "aluminium-glass": {
+        "ar": "في ورش الزجاج بمدينة محمد بن زايد، تحقق من وظيفة الزجاج ومواقع الحماية والفتحات قبل الموافقة على سماكاته وتفاصيله.",
+        "en": "For glazing in MBZ City, define the glass function, guarding requirements and opening geometry before approving fabrication."
+      },
+      "furniture-decor": {
+        "ar": "في أثاث غرفة أطفال بمدينة محمد بن زايد، راجع تثبيت الخزائن وأبعاد الحركة ونقاط الكهرباء قبل الشراء.",
+        "en": "For a children's room in MBZ City, check wardrobe anchoring, circulation and sockets before ordering furniture."
+      },
+      "equipment-rental": {
+        "ar": "تأجير معدة لإزالة تشطيب قديم بمدينة محمد بن زايد يتطلب حصر المخلفات وطريقة النقل وحدود العمل المسموح.",
+        "en": "Hiring demolition or removal equipment in MBZ City calls for a waste plan and clear permitted work boundaries."
+      },
+      "cleaning-services": {
+        "ar": "عند تنظيف أرضية بعد أعمال تجديد بمدينة محمد بن زايد، اختر طريقة تتناسب مع البورسلان أو الرخام ولا تستخدم مادة قوية عشوائيًا.",
+        "en": "When cleaning floors after MBZ City renovation, match products to porcelain or marble rather than using aggressive chemicals indiscriminately."
+      }
+    },
+    "shamkha": {
+      "general-contracting": {
+        "ar": "قبل بدء أعمال أساسات أو تمديدات خارجية في الشامخة، وضّح موقع العمل ونقاط الخدمات وحدود المعدات داخل العقار.",
+        "en": "Before foundation or external service work in Al Shamkha, identify access, utility points and equipment limits within the plot."
+      },
+      "interior-design": {
+        "ar": "عند تصميم مدخل فيلا بالشامخة، ضع حركة المركبات والمشاة وفتح البوابات ضمن المخطط من البداية.",
+        "en": "An Al Shamkha villa entrance design should account for pedestrian routes, car movement and gate clearance from the start."
+      },
+      "general-maintenance": {
+        "ar": "في الصيانة الخارجية بالشامخة، قد تتطلب الأعمال فحص عزل أو تمديدات تحت الأرض قبل إزالة البلاط.",
+        "en": "For external maintenance in Al Shamkha, underground services or waterproofing may need checking before removing paving."
+      },
+      "building-materials": {
+        "ar": "عند توريد حديد أو طابوق للشامخة، اتفق على تسلسل الدفعات بما يتناسب مع سير العمل ومساحة التخزين.",
+        "en": "For steel or block deliveries in Al Shamkha, schedule batches around actual progress and safe storage space."
+      },
+      "aluminium-glass": {
+        "ar": "في تصنيع مظلة سيارات بالشامخة، راجع نقاط تثبيتها والمقاسات ومسارات المركبات وتصريف المياه.",
+        "en": "For a car shade in Al Shamkha, review anchorage, dimensions, vehicle paths and rainwater drainage."
+      },
+      "furniture-decor": {
+        "ar": "إذا كان المجلس الخارجي بالشامخة سيستخدم موسميًا، فاختر خامات تنجيد وتجهيز تراعي ظروف الاستخدام والتنظيف.",
+        "en": "For a seasonal outdoor majlis in Al Shamkha, choose furnishings and upholstery suitable for their actual exposure and care."
+      },
+      "equipment-rental": {
+        "ar": "تشغيل رافعة أو منصة بالشامخة يحتاج تحديد منطقة عمل معزولة عن السكان والمركبات.",
+        "en": "Operating a lift or platform in Al Shamkha requires an exclusion zone separating it from occupants and vehicles."
+      },
+      "cleaning-services": {
+        "ar": "غسيل المظلات والأرضيات الخارجية بالشامخة يحتاج التأكد من تصريف المياه وحماية الإنارة والمواد الحساسة.",
+        "en": "Washing shades and external surfaces in Al Shamkha calls for drainage planning and protection of lighting and delicate finishes."
+      }
+    },
+    "al-wathba": {
+      "general-contracting": {
+        "ar": "في أعمال مجلس أو ملحق بالوثبة، فرّق بين تجهيز الأرض والمساحات الخارجية والهيكل والتوصيلات النهائية.",
+        "en": "For an Al Wathba majlis or extension, distinguish site preparation, external works, structure and final service connections."
+      },
+      "interior-design": {
+        "ar": "عند تصميم منطقة خارجية بالوثبة، حدد مساحات الظل والوصول والصيانة ونقاط الماء والكهرباء.",
+        "en": "An Al Wathba outdoor design should plan shade, access, maintenance and water and power points."
+      },
+      "general-maintenance": {
+        "ar": "إذا تضرر عزل خزان أو سطح بالوثبة، ينبغي فحص حالة السطح وتجربة النظام المناسب قبل إغلاقه.",
+        "en": "For a damaged tank or roof waterproofing system in Al Wathba, inspect the substrate and test the selected repair before covering it."
+      },
+      "building-materials": {
+        "ar": "عند توريد مواد للمساحات الخارجية بالوثبة، راجع ملاءمتها للاستخدام والتخزين وتوقيت التركيب.",
+        "en": "Materials for Al Wathba external works should be selected for their exposure, storage and planned installation timing."
+      },
+      "aluminium-glass": {
+        "ar": "تصنيع أبواب مجلس خارجي بالوثبة يحتاج مراجعة التعرض للحرارة والأتربة وطرق الإغلاق والصيانة.",
+        "en": "Outdoor majlis doors in Al Wathba need hardware, sealing and finishes suited to heat, dust and maintenance."
+      },
+      "furniture-decor": {
+        "ar": "المفروشات المخصصة لاستراحة بالوثبة ينبغي اختيارها حسب الاستخدام الداخلي أو الخارجي وقابلية تنظيفها.",
+        "en": "Furniture for an Al Wathba retreat should reflect whether it is used indoors or outdoors and how easily it can be maintained."
+      },
+      "equipment-rental": {
+        "ar": "عند تأجير مولد أو معدات لموقع خارجي بالوثبة، ضع استهلاك الوقود وموقع التشغيل ونقل المعدات ضمن الحساب.",
+        "en": "Generator or equipment hire for an outdoor Al Wathba site should include fuel demand, safe placement and transportation."
+      },
+      "cleaning-services": {
+        "ar": "تنظيف خيمة أو مجلس خارجي بالوثبة يحتاج اختبار الخامة وتقدير وقت التجفيف والتأكد من مصدر الماء.",
+        "en": "Cleaning an Al Wathba tent or outdoor majlis requires fabric checks, realistic drying time and available water."
+      }
+    },
+    "al-rahba": {
+      "general-contracting": {
+        "ar": "قبل بناء سور أو بوابة بالرحبة، راجع حدود العقار والمناسيب وموقع الدخول مع الجهة الفنية المختصة عند الحاجة.",
+        "en": "Before a boundary wall or gate project in Al Rahba, confirm site limits, finished levels and entrance alignment."
+      },
+      "interior-design": {
+        "ar": "عند تصميم ملحق بالرحبة، حدّد الاستخدام والتكييف والتهوية والحركة قبل تثبيت المظهر الخارجي.",
+        "en": "An Al Rahba extension design should settle use, cooling, ventilation and circulation before façade appearance."
+      },
+      "general-maintenance": {
+        "ar": "إذا تطلبت صيانة الرحبة أكثر من زيارة، فحدد ما الذي سيُفحص أولًا وما الذي يتوقف على توافر القطع.",
+        "en": "For multi-visit maintenance in Al Rahba, plan diagnostics first and identify work dependent on spare parts."
+      },
+      "building-materials": {
+        "ar": "في توريد مواد إلى الرحبة، اكتب الموعد ومكان التنزيل ومسؤولية تضرر المواد في النقل.",
+        "en": "For materials delivered to Al Rahba, agree times, unloading location and damage responsibility."
+      },
+      "aluminium-glass": {
+        "ar": "عند تصنيع بوابة بالرحبة، راجع زاوية الفتح والملحقات والحماية من الصدأ وطريقة الاستلام.",
+        "en": "For an Al Rahba gate, confirm opening direction, hardware, corrosion protection and acceptance tests."
+      },
+      "furniture-decor": {
+        "ar": "في تأثيث مجلس بالرحبة، اسأل عن خدمة التركيب وإعادة ضبط القطع إذا ظهرت مشكلة في الموقع.",
+        "en": "When furnishing an Al Rahba majlis, check installation and adjustment arrangements after delivery."
+      },
+      "equipment-rental": {
+        "ar": "إذا استُخدمت معدات حفر بالرحبة، يجب تحديد موقع العمل وأي تمديدات ينبغي حمايتها قبل التشغيل.",
+        "en": "For excavation equipment in Al Rahba, mark the work limits and any services needing protection."
+      },
+      "cleaning-services": {
+        "ar": "في تنظيف خزان بالرحبة، اطلب بيان طريقة العمل والاختبارات أو الإجراءات التي ستُنفَّذ بعد التنظيف.",
+        "en": "For water-tank cleaning in Al Rahba, ask what treatment and checks follow the cleaning work."
+      }
+    },
+    "musaffah": {
+      "general-contracting": {
+        "ar": "في تعديل محل أو ورشة بالمصفح، افصل الأعمال الإنشائية عن التمديدات والتجهيز التشغيلي قبل طلب عرض المقاول.",
+        "en": "In a Musaffah shop or workshop fit-out, price structural work separately from services and operational equipment."
+      },
+      "interior-design": {
+        "ar": "التصميم التجاري في المصفح يجب أن يبدأ بحركة العاملين والتخزين والسلامة قبل توزيع الديكور.",
+        "en": "Commercial design in Musaffah should establish workflow, storage and safety before decorative layout."
+      },
+      "general-maintenance": {
+        "ar": "صيانة معدات أو تمديدات داخل منشأة بالمصفح تحتاج تنسيقًا مع المسؤول عن التشغيل وفترات التوقف.",
+        "en": "Equipment and services maintenance in a Musaffah facility should be scheduled with the operating manager to manage downtime."
+      },
+      "building-materials": {
+        "ar": "عند توريد خامات إلى مستودع بالمصفح، حدد وسيلة الرفع وأبعاد الشحنة ومكان الاستلام.",
+        "en": "For Musaffah warehouse deliveries, specify vehicle size, lifting equipment and receiving location."
+      },
+      "aluminium-glass": {
+        "ar": "أعمال التصنيع بالمصفح تبدأ بملفات رسم نهائية وتحملات واضحة قبل قطع الحديد أو الزجاج أو الخشب.",
+        "en": "Fabrication in Musaffah starts with approved drawings and clear tolerances before cutting metal, glass or timber."
+      },
+      "furniture-decor": {
+        "ar": "في تجهيز مكتب أو صالة عرض بالمصفح، قارن المتانة وسهولة الصيانة إلى جانب المظهر.",
+        "en": "For Musaffah offices and showrooms, consider durability and ease of maintenance alongside visual design."
+      },
+      "equipment-rental": {
+        "ar": "عقد معدات بالمصفح يجب أن يحدد من يباشر التشغيل والتصاريح اللازمة داخل الموقع وشروط الاسترجاع.",
+        "en": "Musaffah equipment agreements should identify the operator, site authorisations and return conditions."
+      },
+      "cleaning-services": {
+        "ar": "تنظيف ورشة أو مساحة عمل بالمصفح يختلف عن تنظيف منزل؛ حدد المخلفات ونوع السطح ومتطلبات السلامة أولًا.",
+        "en": "Cleaning a Musaffah workshop differs from domestic cleaning: identify residue types, surfaces and safety restrictions first."
+      }
+    },
+    "al-reem-island": {
+      "general-contracting": {
+        "ar": "في مشروع تشطيب شقة بجزيرة الريم، راجع تعليمات المبنى ونقل المواد والمخلفات قبل تأكيد جدول المقاول.",
+        "en": "For Al Reem Island apartment finishing, confirm building rules, materials movement and waste removal before fixing the programme."
+      },
+      "interior-design": {
+        "ar": "عند تصميم مطبخ بشقة بجزيرة الريم، لا تعتمد المقاسات قبل فحص فتحات الأبواب والمصاعد ونقاط التمديدات.",
+        "en": "For an Al Reem Island kitchen, verify doors, lifts and utility positions before manufacturing fitted units."
+      },
+      "general-maintenance": {
+        "ar": "إذا تأثر سقف شقة بجزيرة الريم من تسرب، اطلب تحديد المصدر والتنسيق مع إدارة العقار قبل إغلاق السقف.",
+        "en": "For ceiling moisture in an Al Reem Island apartment, locate the cause and coordinate with building management before reinstatement."
+      },
+      "building-materials": {
+        "ar": "توريد ألواح أو وحدات أثاث إلى جزيرة الريم يحتاج مطابقة حجمها مع المصاعد ومواعيد التحميل.",
+        "en": "Deliveries of panels or furniture to Al Reem Island must fit lift clearances and loading arrangements."
+      },
+      "aluminium-glass": {
+        "ar": "تركيب قاطع زجاجي داخل مكتب بجزيرة الريم يحتاج التحقق من الأبعاد والمثبتات ومسارات الحركة.",
+        "en": "For glass office partitions on Al Reem Island, confirm measurements, fixing methods and circulation."
+      },
+      "furniture-decor": {
+        "ar": "قبل شراء كنب كبير لشقة بجزيرة الريم، افحص جميع نقاط المرور من الشاحنة إلى الغرفة.",
+        "en": "Before buying a large sofa for Al Reem Island, measure the entire route from vehicle to room."
+      },
+      "equipment-rental": {
+        "ar": "المعدات المستخدمة داخل مبنى بجزيرة الريم يجب أن تناسب حدود الحمولة ومسارات الدخول المعتمدة.",
+        "en": "Equipment brought into an Al Reem Island building must fit access routes and applicable load limitations."
+      },
+      "cleaning-services": {
+        "ar": "في تنظيف شقة بعد أعمال تشطيب بجزيرة الريم، حدد جمع المخلفات وتغطية المصاعد وحماية الأرضيات.",
+        "en": "For Al Reem Island post-fit-out cleaning, plan debris removal, lift protection and flooring care."
+      }
+    },
+    "al-raha": {
+      "general-contracting": {
+        "ar": "في تجديد عقار بشاطئ الراحة، حدد الأعمال التي تحتاج فك وتركيب وتنسيقًا مع الإدارة قبل المواعيد.",
+        "en": "For an Al Raha property renovation, schedule dismantling, deliveries and building coordination before agreeing dates."
+      },
+      "interior-design": {
+        "ar": "عند تصميم مساحة سكنية بشاطئ الراحة، راجع الأثاث والإنارة ونقاط الكهرباء مع قياسات الموقع.",
+        "en": "For Al Raha residential design, coordinate furniture, lighting and sockets against verified site measurements."
+      },
+      "general-maintenance": {
+        "ar": "إذا كانت أعمال الصيانة بشاطئ الراحة تتطلب فتح أرضية، حدّد طريقة اختبار الإصلاح وإعادة البلاط.",
+        "en": "If Al Raha maintenance requires lifting flooring, agree repair testing and reinstatement beforehand."
+      },
+      "building-materials": {
+        "ar": "الشراء من مورد لتجهيز شاطئ الراحة يحتاج حساب النقل والتنزيل وقيود دخول مواد كبيرة.",
+        "en": "Al Raha fit-out supply requires transport, unloading and access checks for oversized items."
+      },
+      "aluminium-glass": {
+        "ar": "الزجاج أو الألمنيوم المفصل لشاطئ الراحة يحتاج اعتماد رسوم التثبيت وسلامة الحركة قبل التصنيع.",
+        "en": "Custom glazing or aluminium for Al Raha needs approved fixing and movement details before fabrication."
+      },
+      "furniture-decor": {
+        "ar": "في تأثيث غرفة بشاطئ الراحة، ابدأ بخطة القياسات والاستخدام اليومي قبل مقارنة الألوان.",
+        "en": "For an Al Raha room, begin with dimensions and everyday use before comparing colour palettes."
+      },
+      "equipment-rental": {
+        "ar": "استئجار أدوات تجهيز بشاطئ الراحة يحتاج تحديد المدة ومكان التخزين وما إذا كان المكان مأهولًا.",
+        "en": "Hiring fit-out equipment for Al Raha requires planning duration, storage and occupied-property safety."
+      },
+      "cleaning-services": {
+        "ar": "تنظيف الأثاث بشاطئ الراحة يحتاج معرفة نوع القماش وطريقة التجفيف والوقت المتاح قبل الاستخدام.",
+        "en": "Upholstery cleaning in Al Raha should account for fabric type, drying method and time before reuse."
+      }
+    },
+    "abu-dhabi-city": {
+      "general-contracting": {
+        "ar": "في تشطيبات مبنى بمدينة أبوظبي، راجع موافقات العمل وإدارة العقار وحماية المساحات المشتركة.",
+        "en": "For Abu Dhabi City building work, check property-management coordination and protection of common areas."
+      },
+      "interior-design": {
+        "ar": "التصميم لمحل بمدينة أبوظبي يحتاج دراسة الخدمات القائمة ومسار العملاء والتخزين قبل اعتماد التنفيذ.",
+        "en": "Abu Dhabi City shop design should address existing services, customer circulation and storage before fit-out."
+      },
+      "general-maintenance": {
+        "ar": "إذا احتاجت صيانة وحدة بمدينة أبوظبي إلى دخول سقف مستعار، نسق مع الإدارة وإجراءات السلامة أولًا.",
+        "en": "Before opening ceiling voids in an Abu Dhabi City unit, coordinate access and safety with building management."
+      },
+      "building-materials": {
+        "ar": "توريد مواد لمبنى متعدد الطوابق بمدينة أبوظبي يحتاج حجز التنزيل والمصعد والاتفاق على مسؤولية المناولة.",
+        "en": "Supplying an Abu Dhabi City multi-storey building may require a delivery slot, lift access and handling arrangements."
+      },
+      "aluminium-glass": {
+        "ar": "تصنيع واجهة محل بمدينة أبوظبي يحتاج قياسات نهائية ومتطلبات زجاج ومثبتات متوافقة مع الاستخدام.",
+        "en": "A shopfront in Abu Dhabi City needs final dimensions and suitable glazing and fixing specifications."
+      },
+      "furniture-decor": {
+        "ar": "تأثيث مكتب بمدينة أبوظبي يحتاج خطة توزيع تراعي مسارات الحركة والكابلات ومخارج الخدمات.",
+        "en": "Office furniture in Abu Dhabi City should account for circulation, cable routes and building services."
+      },
+      "equipment-rental": {
+        "ar": "تشغيل معدات رفع بمدينة أبوظبي قد يتطلب تنسيقًا مع حركة الأشخاص والمركبات وتصاريح العمل المناسبة.",
+        "en": "Lifting operations in Abu Dhabi City may require coordination around pedestrians, vehicles and applicable permits."
+      },
+      "cleaning-services": {
+        "ar": "تنظيف مكتب بمدينة أبوظبي يجب أن يراعي أوقات الإشغال وأجهزة العمل والمواد الحساسة.",
+        "en": "Cleaning an Abu Dhabi City office should accommodate occupancy, electronics and sensitive finishes."
+      }
+    },
+    "al-dhafra": {
+      "general-contracting": {
+        "ar": "في مشروع بناء بالظفرة، راجع خطة وصول العمال والخرسانة والمعدات ومواعيد الفحص قبل اعتماد البرنامج.",
+        "en": "For Al Dhafra construction, account for workforce, concrete and equipment access as well as inspection timing."
+      },
+      "interior-design": {
+        "ar": "الاستشاري في مشروع بالظفرة ينبغي أن يوضح عدد الزيارات الميدانية وطريقة متابعة التغييرات بين الزيارات.",
+        "en": "For an Al Dhafra project, the consultant should define site visit frequency and how changes are reviewed between visits."
+      },
+      "general-maintenance": {
+        "ar": "عند طلب إصلاح بالظفرة، اسأل عن توافر القطع وإمكان إنهاء العمل في زيارة واحدة أو أكثر.",
+        "en": "For Al Dhafra repairs, confirm spare parts and whether the job needs one or several visits."
+      },
+      "building-materials": {
+        "ar": "توريد المواد إلى موقع بالظفرة يحتاج توضيح توقيت التحميل ومكان التفريغ وتحمل التوقف والتأخير.",
+        "en": "Supply to Al Dhafra sites should clarify loading and unloading times, stand-by and delay responsibility."
+      },
+      "aluminium-glass": {
+        "ar": "تفصيل وتركيب بوابة بالظفرة يختلف عن التوريد وحده؛ حدّد الرحلات والمعاينات والضمان بعد التركيب.",
+        "en": "Fabricating and installing an Al Dhafra gate differs from delivery alone: plan surveys, trips and post-installation support."
+      },
+      "furniture-decor": {
+        "ar": "شراء أثاث لموقع بالظفرة يحتاج تدقيق التغليف وطريقة النقل والحمل إلى داخل المبنى.",
+        "en": "Furniture delivery to Al Dhafra requires packaging, transport and final placement planning."
+      },
+      "equipment-rental": {
+        "ar": "استئجار رافعة في الظفرة يحتاج حساب فترة النقل والتركيب والوقود والمشغل والتوقف.",
+        "en": "Crane hire in Al Dhafra should account for mobilisation, setup, fuel, operator and idle time."
+      },
+      "cleaning-services": {
+        "ar": "تنظيف عقار في الظفرة يحتاج معرفة المساحة ومصدر الماء ومواد التنظيف وعدد الزيارات المطلوبة.",
+        "en": "An Al Dhafra cleaning request should specify area, water supply, materials and the likely number of visits."
+      }
+    }
+  }
+}

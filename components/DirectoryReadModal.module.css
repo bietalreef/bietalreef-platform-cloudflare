@@ -1,0 +1,33 @@
+.trigger{display:inline-flex;align-items:center;justify-content:center;min-height:40px;min-width:94px;padding:8px 13px;border:1px solid #155b8d;border-radius:10px;background:#fff;color:#174f79;font-weight:800;font-size:12px;line-height:1.4;cursor:pointer}
+.trigger:hover,.trigger:focus-visible{background:#edf5fc;outline-offset:2px}
+.dialog{position:fixed;inset:0;box-sizing:border-box;margin:auto;padding:0;border:0;display:flex;flex-direction:column;width:min(880px,calc(100% - 32px));max-width:880px;max-height:92dvh;overflow:hidden;background:#fff;border-radius:20px;box-shadow:0 28px 90px rgba(0,0,0,.24);color:#23354b;outline:none}
+.dialog:not([open]){display:none!important}
+.dialog::backdrop{background:rgba(9,24,44,.68);backdrop-filter:blur(3px)}
+.header{display:flex;align-items:flex-start;justify-content:space-between;gap:20px;padding:19px 22px 14px;background:#f7faff;border-bottom:1px solid #e1e9f2}
+.header h2{margin:0;font-size:clamp(18px,2vw,25px);font-weight:850;line-height:1.55;color:#153d61}
+.close{display:grid;place-items:center;flex:0 0 40px;width:40px;height:40px;padding:0;border-radius:10px;border:1px solid #d4e2ef;background:white;color:#0e3d62;font-size:29px;line-height:1;cursor:pointer}
+.scroll{flex:1;min-height:0;overflow-y:auto;overscroll-behavior:contain;padding:20px 24px;scrollbar-gutter:stable}
+.cover{display:block;width:100%;max-height:300px;object-fit:cover;border-radius:12px;margin-bottom:18px}
+.article{font-size:15px;line-height:1.95;color:#334155;overflow-wrap:anywhere}
+.article h3{font-size:18px;font-weight:850;line-height:1.6;color:#163e60;margin:24px 0 8px}
+.article p{margin:10px 0 16px}
+.article a{color:#075c9a;text-decoration:underline;text-underline-offset:3px}
+.article ul,.article ol{padding-inline-start:24px;margin:12px 0 16px}
+.article li{margin:5px 0}
+.footer{flex:0 0 auto;padding:13px 24px 16px;border-top:1px solid #e7edf3;background:white}
+.footer a{display:block;max-width:450px;margin-inline:auto;padding:13px 16px;border-radius:11px;text-align:center;background:#0e578c;color:white;font-size:14px;font-weight:800;text-decoration:none}
+.footer a:hover,.footer a:focus-visible{background:#0a446c}
+@media(max-width:700px){.dialog{width:100%;max-width:none;max-height:100dvh;height:100dvh;border-radius:0}.header{padding:calc(12px + env(safe-area-inset-top,0px)) 15px 12px}.header h2{font-size:18px}.scroll{padding:16px 17px}.article{font-size:14px;line-height:1.9}.article h3{font-size:16px;margin:19px 0 7px}.cover{max-height:220px}.footer{padding:12px 15px calc(12px + env(safe-area-inset-bottom,0px))}}
+@media(prefers-reduced-motion:reduce){.dialog,.trigger{transition:none!important;animation:none!important}}
+
+
+/* Compact anchored index for the seventeen Baniyas construction chapters. */
+.article :global(.reading-toc){margin:18px 0 26px;padding:16px 18px;border:1px solid #dae6ee;border-radius:14px;background:#f7fafc}
+.article :global(.reading-toc h3){margin:0 0 12px;color:#164665}
+.article :global(.reading-toc ol){margin:0;padding-inline-start:22px;columns:2;column-gap:30px}
+.article :global(.reading-toc li){break-inside:avoid;margin:0 0 8px;line-height:1.6}
+.article :global(.reading-toc a){font-size:13px;text-decoration:underline;text-underline-offset:3px}
+.article :global(.reading-chapter){padding:9px 0 20px;border-bottom:1px solid #e7edf3}
+.article :global(.reading-chapter h3){scroll-margin-top:18px}
+.article :global(.reading-chapter h3:focus){outline:2px solid #2b81b8;outline-offset:5px;border-radius:3px}
+@media(max-width:700px){.article :global(.reading-toc){padding:13px}.article :global(.reading-toc ol){columns:1}.article :global(.reading-toc a){font-size:12px}}

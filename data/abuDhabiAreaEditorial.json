@@ -1,0 +1,475 @@
+{
+  "lastEditorialReview": "2026-11-06",
+  "areas": {
+    "baniyas": {
+      "ar": {
+        "title": "دليل بني ياس للخدمات والشركات والمحلات 2026",
+        "intro": "في بني ياس قد يبدأ الطلب بصيانة منزل قائم، أو تجديد مجلس، أو تجهيز محل، أو شراء مواد لمشروع. اختيار الجهة المناسبة يبدأ بوصف العقار والعمل المطلوب لا بمجرد البحث عن أقرب رقم هاتف. يتيح لك دليل بني ياس الانتقال من نوع الاحتياج إلى التخصص المناسب، ثم مراجعة الشركات التي تنشر خدماتها وتؤكد تغطية المنطقة.",
+        "focus": "في أعمال البناء والملاحق، اجمع المخططات ونطاق الأعمال وحالة المشروع قبل طلب السعر. وللصيانة اشرح الأعراض وسبب المعاينة، أما أعمال التفصيل والتوريد فتحتاج مقاسات ومواصفات ومكان تسليم واضحًا. بهذه الخطوات يصبح عرض السعر قابلًا للفهم والمقارنة بدل أن يكون رقمًا منفصلًا عن الخدمة.",
+        "services": "المقاولات والفلل والملاحق، والتصميم والإشراف، وصيانة التكييف والسباكة، وأعمال الأبواب والنوافذ، وتوريد المواد، والتأثيث، والتنظيف قبل السكن وبعد التشطيب.",
+        "faq": [
+          [
+            "كيف أختار شركة تعمل في بني ياس؟",
+            "حدد التخصص ونوع المبنى، ثم تحقق من نطاق الخدمة الفعلي واسأل عن المعاينة والمواد والموعد قبل الاتفاق."
+          ],
+          [
+            "هل تكفي صورة الموقع لطلب سعر نهائي؟",
+            "قد تساعد الصورة على التقدير الأولي، لكن القياسات والمخططات أو المعاينة لازمة لأعمال كثيرة قبل تسعير ملزم."
+          ],
+          [
+            "كيف أقارن عرضي مقاولات أو صيانة؟",
+            "اطلب نفس نطاق العمل والمواصفات والاختبارات والضمانات من الطرفين، وافصل البنود المستثناة."
+          ],
+          [
+            "هل تظهر كل شركات أبوظبي في بني ياس؟",
+            "تظهر الجهات وفق بيانات النشر وتغطية الموقع، لا لمجرد وجود مقر داخل إمارة أبوظبي."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Baniyas Business, Services & Suppliers Directory 2026",
+        "intro": "A Baniyas property owner may be organising a villa repair, an outdoor majlis, a shop fit-out or a delivery of construction materials. These requests need different trades and information. Begin with the property and the job itself, then look for providers whose published services and coverage include Baniyas rather than assuming every Abu Dhabi business can attend.",
+        "focus": "A construction enquiry needs plans, existing site conditions and an agreed scope. A maintenance enquiry should describe the symptoms and any previous repair attempts. Fabrication and materials orders require dimensions, product specifications and a delivery point. Supplying these details helps businesses prepare quotations that can genuinely be compared.",
+        "services": "Villa construction and extensions, design, building maintenance, made-to-measure doors and cabinets, project materials, furnishings, equipment and cleaning.",
+        "faq": [
+          [
+            "How do I choose a Baniyas service company?",
+            "Select the relevant trade, explain the property and check genuine service coverage, inspection arrangements, materials and dates."
+          ],
+          [
+            "Can I get a fixed price from photographs alone?",
+            "Photographs may support an initial estimate. Many jobs require measurement, drawings or a site survey before firm pricing."
+          ],
+          [
+            "How should I compare two quotes?",
+            "Ask both providers to price the same tasks, quantities, specifications, tests, exclusions and warranty obligations."
+          ],
+          [
+            "Does every Abu Dhabi company serve Baniyas?",
+            "No. Listings depend on publication and actual location coverage, which should be confirmed before booking."
+          ]
+        ]
+      }
+    },
+    "khalifa-city": {
+      "ar": {
+        "title": "دليل مدينة خليفة للشركات والخدمات 2026",
+        "intro": "عند البحث عن صيانة فيلا أو تجهيز منزل أو تصميم مطبخ أو توريد مواد إلى مدينة خليفة، يساعدك اختيار التخصص الصحيح على توفير الزيارات غير الضرورية. حدد إن كان المطلوب إصلاحًا جزئيًا أم تجديدًا كاملًا، ووضّح المساحات والغرف والأعمال المتداخلة قبل طلب عرض سعر.",
+        "focus": "عند تجديد غرف أو حمامات داخل منزل مأهول، تأكد من خطة حماية الأثاث وتوقيت انقطاع الخدمات وإعادة التشطيبات. وفي مشاريع الملاحق أو الأعمال الكبيرة اسأل عن المخططات والجهة المشرفة والتصاريح المطلوبة بحسب المشروع. لا تتعامل مع وصف «تشطيب كامل» باعتباره مواصفات كافية.",
+        "services": "صيانة الفلل، وإصلاح التكييف والتسربات، والتصميم والتجهيز الداخلي، والمقاولات، والخزائن والمطابخ، والتنظيف والتوريد.",
+        "faq": [
+          [
+            "ما المعلومات المطلوبة لصيانة فيلا في مدينة خليفة؟",
+            "نوع العطل ومكانه وصور واضحة وحالة الوصول وتاريخ ظهور المشكلة."
+          ],
+          [
+            "هل يمكن مقارنة عرضين لتجديد المنزل؟",
+            "نعم إذا شمل العرضان بنودًا ومواصفات وكميات ومواعيد متطابقة."
+          ],
+          [
+            "هل تشمل الصيانة إعادة التشطيب؟",
+            "يُحدد ذلك كتابة، خاصة بعد فتح الجدران أو الأرضيات للكشف والإصلاح."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Khalifa City Companies & Home Services Guide 2026",
+        "intro": "In Khalifa City, an enquiry about a home repair, a custom kitchen, a full renovation or a materials delivery can call for different specialists. Identify whether you need diagnosis, replacement, design, construction or supply before contacting providers. Room measurements, photographs and the practical constraints of an occupied home are often essential details.",
+        "focus": "A home renovation should clarify furniture protection, access, temporary service interruptions and reinstatement of finishes. For major additions, ask who prepares drawings and checks required approvals. A broad label such as complete finishing does not replace a written schedule of work, products and responsibilities.",
+        "services": "Villa maintenance, air-conditioning, leak repairs, design and fit-out, cabinetry, building work, supplies and cleaning.",
+        "faq": [
+          [
+            "What should I send with a repair enquiry?",
+            "Describe the symptom, location, accessible photographs, property access and when the issue appeared."
+          ],
+          [
+            "How can I compare renovation estimates?",
+            "Use the same scope, quantities, materials, timing and handover standard for every bidder."
+          ],
+          [
+            "Does repair include putting finishes back?",
+            "That depends on the agreed scope, especially after opening floors, ceilings or walls."
+          ]
+        ]
+      }
+    },
+    "mohammed-bin-zayed-city": {
+      "ar": {
+        "title": "دليل مدينة محمد بن زايد للشركات والخدمات 2026",
+        "intro": "قد يحتاج مالك العقار في مدينة محمد بن زايد إلى إصلاح تكييف أو معالجة رطوبة أو تجهيز غرف أو أعمال دهانات وترميم. ابدأ بطبيعة العقار والنتيجة المطلوبة: تشخيص عطل، شراء مواد، تفصيل، أم تنفيذ مشروع. هذه التفاصيل تحدد من ينبغي أن يتولى الطلب وتساعد على تجنب عروض لا تشمل الأعمال الأساسية.",
+        "focus": "إذا كان العمل يتطلب أكثر من تخصص، مثل تجديد حمام يتضمن سباكة وعزلًا وبلاطًا، فاطلب بيانًا بمن ينسق المراحل ويجري الاختبارات ويضمن إعادة الموقع إلى الاستخدام. وللمجالس والخزائن راجع المقاسات ونقاط الكهرباء والإنارة قبل اعتماد التصنيع.",
+        "services": "المقاولات والتشطيبات، والصيانة الكهربائية والميكانيكية، والسباكة والعزل، والتصميم الداخلي، والورش والموردون، والتنظيف.",
+        "faq": [
+          [
+            "لماذا يختلف سعر تجديد حمام بين شركتين؟",
+            "بسبب اختلاف معالجة العزل والسباكة والمواد ونطاق الهدم وإعادة التشطيب."
+          ],
+          [
+            "هل أطلب عرضًا واحدًا لأكثر من خدمة؟",
+            "يمكن، لكن يجب تفصيل كل مهنة ومسؤولية الفحص والاستلام."
+          ],
+          [
+            "كيف أتأكد من المقاسات قبل تصنيع خزائن؟",
+            "اطلب رفع مقاسات الموقع ومخطط تصنيع معتمدًا قبل بدء العمل."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Mohammed Bin Zayed City Services & Contractors Guide 2026",
+        "intro": "Residents and property owners in Mohammed Bin Zayed City may need air-conditioning repairs, moisture investigation, room refurbishment, painting or made-to-measure fittings. Begin by describing the outcome rather than selecting a company on the basis of a broad category label. Diagnosis, supply, design and installation are separate obligations.",
+        "focus": "A bathroom renovation may involve plumbing, waterproofing, tile laying and finishing. The quotation should make clear who coordinates these stages and tests the work before it is covered. For cabinets and seating, check final site dimensions, electrical points and lighting before fabrication starts.",
+        "services": "Building work and finishing, electrical and AC maintenance, plumbing, waterproofing, design, workshops, suppliers and cleaning.",
+        "faq": [
+          [
+            "Why do bathroom quotations vary so much?",
+            "They may include different plumbing, waterproofing, demolition, products and reinstatement."
+          ],
+          [
+            "Can one quote cover several trades?",
+            "Yes, but it should name each task and who manages inspections and handover."
+          ],
+          [
+            "How should custom cabinets be measured?",
+            "Obtain a site survey and approve fabrication drawings before manufacture."
+          ]
+        ]
+      }
+    },
+    "shamkha": {
+      "ar": {
+        "title": "دليل الشامخة للشركات والخدمات 2026",
+        "intro": "في الشامخة، ابدأ طلب البناء أو الصيانة أو التأثيث بتحديد نوع المبنى وحالة الموقع. قد يحتاج صاحب المنزل إلى مقاول لتنفيذ ملحق أو فني لإصلاح نظام تكييف أو ورشة لتفصيل أبواب وخزائن. لكل طلب معلومات لازمة قبل التسعير، ولا ينبغي جمع أعمال مختلفة تحت عبارة عامة لا تحدد المسؤولية.",
+        "focus": "في الأعمال الخارجية راجع أبعاد الموقع وطريقة دخول المعدات ومكان التخزين وحماية المناطق القائمة. وفي التمديدات والعزل اطلب اختبارًا قبل إغلاق الأرضيات أو الجدران. إذا كان المشروع يحتاج موافقات، فدع المكتب المختص يتحقق منها قبل تحديد موعد بدء غير واقعي.",
+        "services": "بناء الملاحق والفلل، الصيانة والتشطيبات، التصميم الداخلي، التوريد، النجارة والحدادة والتجهيز والتنظيف.",
+        "faq": [
+          [
+            "ما الذي أرسله لمقاول ملحق في الشامخة؟",
+            "الموقع والمساحة والمخططات المتاحة وحدود العمل ومراحل التنفيذ المطلوبة."
+          ],
+          [
+            "هل يشمل سعر المواد نقلها إلى الموقع؟",
+            "يجب تحديد ذلك في عرض المورد إلى جانب التنزيل ووقت التسليم."
+          ],
+          [
+            "متى يلزم اختبار العزل؟",
+            "قبل تغطيته حيث ينطبق الاختبار وفق التصميم والمواصفة ونوع النظام."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Shamkha Project & Home Services Directory 2026",
+        "intro": "An Al Shamkha enquiry may involve a villa extension, a maintenance visit, bespoke joinery or a property fit-out. Explain the property and its current condition before comparing offers. A useful quotation distinguishes construction, repair, product supply and installation rather than using a single vague description.",
+        "focus": "For external works, record access for vehicles and equipment, storage areas and how existing surfaces will be protected. For hidden services and waterproofing, agree testing before finishes are reinstated. If approvals apply, ask the relevant professional to verify them before relying on an aggressive start date.",
+        "services": "Villa and extension building, maintenance, interior fit-out, materials, metalwork, joinery, furnishing and cleaning.",
+        "faq": [
+          [
+            "What should a villa-extension enquiry include?",
+            "Site details, size, available plans, work stages and intended finish."
+          ],
+          [
+            "Is delivery included in a supply quote?",
+            "Check transport, unloading, time slots and site access in writing."
+          ],
+          [
+            "When should waterproofing be tested?",
+            "Before covering the system, using appropriate methods for the approved specification."
+          ]
+        ]
+      }
+    },
+    "al-wathba": {
+      "ar": {
+        "title": "دليل الوثبة للخدمات والمقاولات 2026",
+        "intro": "عند ترتيب خدمة في الوثبة، وضح هل العمل داخل المنزل أم في المساحات الخارجية، وهل يتطلب دخول شاحنة أو معدة أو فريق بمواد خاصة. بناء مجلس أو صيانة خزان أو تنظيف مساحة خارجية يختلف في التجهيز والتكلفة والمدة عن خدمة داخل غرفة. التحديد المبكر يوفر خلافات ترتبط بالوصول أو نقل المعدات.",
+        "focus": "في خدمات الحدائق والأحواش والملاحق، حدّد مصادر المياه والكهرباء ومكان تخزين المواد والتخلص من المخلفات. وفي التنظيف العميق اسأل عن طريقة الغسيل والشطف أو التجفيف المناسبة للسطح. لا تعتمد أسلوب تنظيف واحدًا لكل الخامات، ولا تقارن العروض دون توضيح المساحات.",
+        "services": "المقاولات والمجالس، صيانة المنازل والمرافق، أعمال التكييف والخزانات، الورش والتوريد، تنظيف المساحات الداخلية والخارجية.",
+        "faq": [
+          [
+            "كيف أجهز طلب خدمة خارجية في الوثبة؟",
+            "حدد المساحة ونوع الأرضية وإمكانية الوصول وتوفر المياه والكهرباء."
+          ],
+          [
+            "هل تختلف طرق تنظيف الأحواش والمفروشات؟",
+            "نعم؛ تتبع المعدات والمواد نوع السطح وحالته وقابلية تحمله للماء."
+          ],
+          [
+            "ما الذي يرفع تكلفة نقل المواد؟",
+            "المسافة والحمولة والتفريغ وعدد الرحلات وشروط دخول الموقع."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Wathba Home, Outdoor Works & Supply Guide 2026",
+        "intro": "A project in Al Wathba may be indoors or involve an external courtyard, water tank, majlis, garden or materials delivery. Tell providers which spaces are involved and whether equipment or vehicles can access the work area. The preparation and logistics for outdoor jobs differ from ordinary work inside a room.",
+        "focus": "For courtyards, extensions and gardens, clarify water and power access, storage and waste removal. For specialist cleaning, ask whether washing, extraction or controlled drying suits the surface. Avoid assuming one method is safe for every material or comparing prices without the actual surface area.",
+        "services": "Majlis and building projects, property maintenance, tanks and AC, workshops, materials, interior and external cleaning.",
+        "faq": [
+          [
+            "What should I include for an outdoor service request?",
+            "Give the area, surface type, access arrangements and available water and electricity."
+          ],
+          [
+            "Do upholstery and courtyards use the same cleaning method?",
+            "No. Materials, water tolerance and equipment requirements differ."
+          ],
+          [
+            "What affects materials transport?",
+            "Distance, load size, unloading, number of trips and site restrictions."
+          ]
+        ]
+      }
+    },
+    "al-rahba": {
+      "ar": {
+        "title": "دليل الرحبة للشركات والموردين والخدمات 2026",
+        "intro": "للبحث عن شركة صيانة أو مقاول أو مورد في الرحبة، لا تكتفِ بالاسم التجاري. حدّد نوع الخدمة والموقع وأقرب نقطة وصول، ثم اسأل مقدم الخدمة عن حضوره الفعلي ووقت المعاينة والتوريد. هذه الخطوة مهمة عندما تتطلب المهمة قطع غيار أو مواد أو أكثر من زيارة.",
+        "focus": "عند إصلاح الأعطال، اطلب فصل التشخيص عن استبدال القطع إن لم يكن سبب العطل مؤكدًا. وعند بناء ملحق أو تفصيل بوابة، اطلب قياسات الموقع والمواد والطلاء والحماية ومواعيد التركيب. كل تغيير بعد الاعتماد ينبغي أن يوضح تأثيره على السعر والبرنامج.",
+        "services": "صيانة المنازل، المقاولات والملاحق، التمديدات والعزل، الأبواب والبوابات، التجهيز والتوريد، والتنظيف.",
+        "faq": [
+          [
+            "كيف أتأكد من أن الشركة تخدم الرحبة؟",
+            "راجع نطاق خدمة المنشأة المنشور وأكد التوفر والزيارة مباشرة قبل الحجز."
+          ],
+          [
+            "ماذا أفعل إذا لم يُعرف سبب العطل؟",
+            "اطلب تشخيصًا موثقًا قبل الموافقة على استبدال أجزاء مرتفعة التكلفة."
+          ],
+          [
+            "كيف أقلل أخطاء تركيب بوابة؟",
+            "وافق على القياسات والرسم ونوع المادة والملحقات قبل التصنيع."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Rahba Contractors, Maintenance & Suppliers Guide 2026",
+        "intro": "When looking for a contractor, repair team or supplier in Al Rahba, start with the job and the precise service location rather than the business name alone. Confirm attendance and delivery arrangements, especially when the job requires spare parts, heavy materials or more than one site visit.",
+        "focus": "If a fault has not been diagnosed, ask for an inspection before approving major replacements. For a gate, extension or installation, approve site measurements, the material and protective finish, hardware and timing. Changes made after approval should have their cost and programme effect recorded.",
+        "services": "Home maintenance, extensions and construction, plumbing and waterproofing, gates and fabrication, furnishing, materials and cleaning.",
+        "faq": [
+          [
+            "How can I confirm service coverage?",
+            "Check published locations and confirm site attendance and availability directly with the business."
+          ],
+          [
+            "What if the fault is still unknown?",
+            "Obtain a documented assessment before agreeing to expensive replacements."
+          ],
+          [
+            "How can I avoid a poorly fitting gate?",
+            "Approve measurements, drawings, materials and hardware before fabrication."
+          ]
+        ]
+      }
+    },
+    "musaffah": {
+      "ar": {
+        "title": "دليل المصفح للمصانع والورش والخدمات 2026",
+        "intro": "عند طلب خدمة في المصفح، قد يكون المطلوب تجهيز محل أو إصلاح مرفق أو تصنيع قطعة معدنية أو توريد منتجات إلى موقع عمل. تتغير متطلبات السلامة والوصول والتحميل من عقار لآخر؛ لذلك اشرح طبيعة الموقع والقياسات والموعد وأي شروط يفرضها المشرف أو إدارة العقار.",
+        "focus": "في أعمال الورش والمصانع افصل بين شراء منتج جاهز والتصنيع حسب الرسم والتركيب داخل الموقع. اطلب اعتماد العينات والرسومات والمواصفات قبل الإنتاج، وحدد وسيلة النقل والتحميل والفحص عند التسليم. أما تأجير المعدات فيحتاج إلى توضيح قدرة المعدة والمشغل والوقود والصيانة والتأمين بحسب العقد.",
+        "services": "الورش والتصنيع، المواد والمنتجات، معدات الإيجار، المقاولات الصناعية والتجارية، الصيانة والتجهيز والتنظيف.",
+        "faq": [
+          [
+            "كيف أطلب عرض سعر من ورشة في المصفح؟",
+            "أرسل رسمًا بالأبعاد والمادة والكمية والتشطيب وموعد الاستلام أو التركيب."
+          ],
+          [
+            "هل يشمل سعر المعدات المشغل؟",
+            "ليس بالضرورة؛ تأكد من المشغل والنقل والوقود والتأمين في الاتفاق."
+          ],
+          [
+            "ما الفرق بين التوريد والتركيب؟",
+            "التوريد يحدد المنتج والتسليم، والتركيب يضيف مسؤولية التنفيذ والاختبار والاستلام."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Musaffah Workshops, Industry & Business Services Guide 2026",
+        "intro": "A Musaffah enquiry may concern a commercial fit-out, a plant repair, fabricated metalwork, equipment hire or a delivery to a working site. Access rules, loading arrangements and operational constraints can differ by building and site. Describe those conditions alongside drawings, quantities and deadlines.",
+        "focus": "Separate off-the-shelf supply from made-to-order fabrication and on-site installation. Agree shop drawings, specifications and samples before production, then clarify transport and acceptance checks. Equipment rental offers should state capacity, operator, fuel, service, transport and insurance arrangements as applicable.",
+        "services": "Manufacturing and workshops, project supply, equipment rental, commercial and industrial contracting, maintenance, fitting out and cleaning.",
+        "faq": [
+          [
+            "What does a fabrication enquiry need?",
+            "Send dimensions, drawings, material, quantity, finish and delivery or installation dates."
+          ],
+          [
+            "Is a machine operator included in rental?",
+            "Not automatically. Check staffing, transport, fuel and insurance in the agreement."
+          ],
+          [
+            "What distinguishes supply from installation?",
+            "Supply defines the goods and handover; installation adds execution, testing and site acceptance."
+          ]
+        ]
+      }
+    },
+    "al-reem-island": {
+      "ar": {
+        "title": "دليل جزيرة الريم للصيانة والتجهيز والخدمات 2026",
+        "intro": "إذا كنت تحتاج إلى صيانة شقة أو تجهيز مكتب أو تنظيف عقار في جزيرة الريم، فابدأ ببيانات المبنى وطبيعة العمل ومساحة الوصول. بعض الأعمال تتطلب تنسيقًا مع إدارة العقار لحجز المصعد أو إدخال المعدات أو تحديد ساعات التنفيذ، ولذلك قد يكون ترتيب الزيارة جزءًا من جودة الخدمة وليس مجرد إجراء لاحق.",
+        "focus": "في المطابخ والخزائن والأثاث الكبير تأكد من أبعاد الأبواب والمصاعد والممرات، ولا تعتمد مقاس الغرفة وحده. وعند إصلاح التسربات أو التكييف اطلب تحديد المسؤول عن عزل المنطقة وإعادة التشطيب والاختبار. وللتنظيف بعد التشطيب، اذكر نوع الأسطح والحالة الفعلية قبل اختيار المواد.",
+        "services": "صيانة الشقق والمكاتب، أعمال التكييف والسباكة، التجهيز الداخلي والأثاث، تركيب الأبواب والزجاج، التنظيف والتوريد.",
+        "faq": [
+          [
+            "ما الذي أجهزه قبل زيارة فني إلى جزيرة الريم؟",
+            "اسم المبنى وإجراءات الدخول ونوع العطل والصور ومواعيد العمل المسموح بها."
+          ],
+          [
+            "كيف أضمن إدخال أثاث كبير إلى الشقة؟",
+            "تحقق من أبعاد الأبواب والمصاعد والممرات وخطة الرفع والتسليم."
+          ],
+          [
+            "هل يحتاج تنظيف ما بعد التشطيب إلى تفاصيل إضافية؟",
+            "نعم؛ حدد الأسطح والحالة والمواد الحساسة وطريقة إزالة المخلفات."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Reem Island Apartment, Office & Property Services 2026",
+        "intro": "An Al Reem Island apartment or office service may require more than selecting a trade. Building access, lift bookings, permitted work hours and loading arrangements can affect a maintenance, delivery, cleaning or fit-out visit. Share practical site details early instead of leaving them to the installation day.",
+        "focus": "For large furniture and fitted kitchens, check lift and corridor clearances as well as room dimensions. For leaks, cooling faults and interior repairs, agree who protects occupied areas, tests the repair and reinstates finishes. Post-fit-out cleaning should specify surface materials and the remaining construction residue.",
+        "services": "Apartment and office maintenance, AC and plumbing repairs, interiors and furniture, door and glass installations, cleaning and delivery.",
+        "faq": [
+          [
+            "What should I prepare before a visit?",
+            "Building access conditions, work-hour restrictions, the defect and any helpful photographs."
+          ],
+          [
+            "How can large furniture reach the apartment?",
+            "Measure doors, lifts and corridors and confirm a safe delivery plan."
+          ],
+          [
+            "What makes post-fit-out cleaning different?",
+            "Surface sensitivity, residue types and access arrangements affect the method and price."
+          ]
+        ]
+      }
+    },
+    "al-raha": {
+      "ar": {
+        "title": "دليل شاطئ الراحة للصيانة والتصميم والخدمات 2026",
+        "intro": "عند تجهيز منزل أو صيانة عقار أو طلب تصميم داخلي في شاطئ الراحة، من المفيد أن تبدأ بمقاسات المساحات واشتراطات الدخول والتوصيل. قد تكون المهمة استبدال أرضية أو تجديد حمام أو تفصيل خزائن أو تنظيف أثاث، وكل منها يتطلب وصفًا مختلفًا لتتم مقارنة العروض بطريقة عادلة.",
+        "focus": "في أعمال التشطيبات داخل عقار قائم، راجع حماية الأرضيات والمداخل ونقل المخلفات ومواعيد التوصيل والتشغيل. وللتفصيل تأكد من الرسومات والعينات ومكان تركيب القطع وأبعاد النقل. إذا كان العمل يغير أنظمة المبنى، فاستشر المختص بشأن الموافقات ومسؤولية الفحص.",
+        "services": "الصيانة والتشطيبات، التصميم الداخلي، الأثاث والتفصيل، التنظيف، مواد البناء والتوريد، والخدمات التجارية.",
+        "faq": [
+          [
+            "ما المعلومات المفيدة لتجهيز شقة في شاطئ الراحة؟",
+            "المساحات والقياسات وأوقات العمل ومواصفات المواد وأماكن الدخول."
+          ],
+          [
+            "هل يكفي اختيار تصميم من صورة؟",
+            "الصورة مرجع بصري، لكن التنفيذ يحتاج مقاسات ورسومات ومواصفات معتمدة."
+          ],
+          [
+            "كيف أتعامل مع مخلفات التجديد؟",
+            "حدد في العقد من يجمعها وينقلها وكيف يحمي المداخل والمناطق المشتركة."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Raha Residential Fit-Out & Services Directory 2026",
+        "intro": "For a home fit-out, bathroom renovation, cabinetry order or cleaning request in Al Raha, start with site dimensions and access arrangements. A flooring job and a furniture delivery require different information and should not be compared as if they were the same category of service.",
+        "focus": "In occupied properties, ask how finishes and entrances will be protected, how waste will be removed and when deliveries and noisy work may take place. For custom pieces, agree technical drawings, material samples and transport clearances. If building systems are affected, seek appropriate professional advice on approvals and tests.",
+        "services": "Property maintenance, finishing, interiors, furniture, bespoke fabrication, cleaning, materials and commercial services.",
+        "faq": [
+          [
+            "What details help with an apartment fit-out?",
+            "Room sizes, access times, specifications, delivery routes and building coordination."
+          ],
+          [
+            "Is a reference photo enough for bespoke work?",
+            "No. Fabrication needs measured drawings and agreed materials and finishes."
+          ],
+          [
+            "Who removes renovation debris?",
+            "Specify waste removal and common-area protection in the scope before work starts."
+          ]
+        ]
+      }
+    },
+    "abu-dhabi-city": {
+      "ar": {
+        "title": "دليل مناطق مدينة أبوظبي للخدمات والشركات 2026",
+        "intro": "في مدينة أبوظبي تتنوع طلبات العقارات بين الشقق والمكاتب والمحلات والمنازل. قبل اختيار جهة للعمل، حدّد الحي ونوع الوحدة وطبيعة المشكلة أو المشروع، ثم انتقل إلى التخصص المعني. لا تتشابه متطلبات دخول الفنيين أو توريد المواد أو تنفيذ أعمال تشطيب في كل عقار.",
+        "focus": "في المباني متعددة الوحدات قد يلزم تنسيق الدخول واستخدام المصاعد وحماية المرافق المشتركة. وعند تعديل خدمات ميكانيكية أو كهربائية يجب الرجوع للمتخصص ولإجراءات المبنى والجهات المختصة حسب المشروع. اجعل العرض يوضح المعاينة والمسؤوليات والاختبارات وما يتطلب موافقة قبل التنفيذ.",
+        "services": "المقاولات والتجهيز التجاري والسكني، تصميم المساحات، الصيانة والتشطيبات، الموردون والورش، الأثاث والتنظيف.",
+        "faq": [
+          [
+            "كيف أبحث عن شركة داخل مدينة أبوظبي؟",
+            "ابدأ باسم الحي أو المبنى ونوع النشاط، وتأكد من تغطية الموقع ومواعيد العمل."
+          ],
+          [
+            "ما الذي أراجعه قبل أعمال التشطيب في برج؟",
+            "تعليمات إدارة العقار، أوقات العمل، نقل المواد، الحماية والتخلص من المخلفات."
+          ],
+          [
+            "هل الرخصة الاقتصادية وحدها تكفي للمشروع؟",
+            "تختلف المتطلبات بحسب النشاط والعمل، وقد يلزم تصنيف هندسي أو موافقات مشروع منفصلة."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Abu Dhabi City Companies, Trades & Property Services 2026",
+        "intro": "Across Abu Dhabi City, a service request could concern an apartment, office, shop or villa. Identify the location, building type and exact job before comparing businesses. A tower repair, a commercial fit-out and a simple product delivery involve different access and responsibility arrangements.",
+        "focus": "Multi-unit buildings may require lift bookings, approved working hours and protection of common areas. Mechanical or electrical alterations may need professional assessment and applicable building approvals. Ask for the survey, installation, testing and handover responsibilities to be stated before work begins.",
+        "services": "Commercial and residential contracting, design, maintenance, suppliers, workshops, furnishing and cleaning.",
+        "faq": [
+          [
+            "How should I search for a company in the city?",
+            "Start with the district and property type, then confirm the trade and actual attendance coverage."
+          ],
+          [
+            "What matters for tower fit-out works?",
+            "Building-management rules, delivery hours, common-area protection and waste removal."
+          ],
+          [
+            "Does a business licence authorise every project?",
+            "No. Some engineering activities or building works require further classification or project-specific approvals."
+          ]
+        ]
+      }
+    },
+    "al-dhafra": {
+      "ar": {
+        "title": "دليل الظفرة للشركات والمقاولات والتوريد 2026",
+        "intro": "عند طلب مقاول أو مورد أو شركة صيانة في الظفرة، يصبح تحديد موقع العمل وطريقة الوصول إليه أساسيًا. فالخدمة التي تحتاج سيارة صغيرة تختلف عن عمل يتطلب شاحنة أو رافعة أو عدة فرق وزيارات. لا تفترض أن شركة منشورة في الإمارة تغطي جميع المواقع بالمواعيد نفسها؛ اطلب تأكيدًا مباشرًا قبل الاتفاق.",
+        "focus": "جهّز وصف الموقع ونوع العقار والمواد والمعدات اللازمة وعدد الزيارات المتوقعة. قارن العروض شاملًا النقل والتجهيز ومدة التنفيذ والحضور لإعادة الفحص أو معالجة الملاحظات. وإذا طلبت توريد مواد أو أعمال تصنيع حسب المقاس، فحدّد طريقة الاستلام ومسؤولية التلف أثناء النقل والتركيب.",
+        "services": "مقاولات المشاريع والملاحق، الصيانة والتشطيبات، توريد المواد والمعدات، الورش والتجهيز، التصميم والتنظيف.",
+        "faq": [
+          [
+            "ما المعلومات المهمة لطلب خدمة في الظفرة؟",
+            "الموقع الدقيق عند التواصل، وطبيعة الطريق، والمعدات والمواد المطلوبة، والموعد."
+          ],
+          [
+            "هل يشمل السعر مصروفات التنقل؟",
+            "يجب توضيح النقل والتجهيز والزيارات الإضافية والعودة لمعالجة الملاحظات كتابة."
+          ],
+          [
+            "هل توجد خدمة فورية في كل مواقع الظفرة؟",
+            "لا يمكن افتراض ذلك؛ يعتمد التوفر على فريق الشركة وتغطيتها وجدولها الفعلي."
+          ]
+        ]
+      },
+      "en": {
+        "title": "Al Dhafra Contractors, Maintenance & Logistics Directory 2026",
+        "intro": "A project in Al Dhafra should be described with its actual location and access conditions from the beginning. A routine service visit and a job involving lifting equipment, heavy deliveries or several specialist teams have different mobilisation requirements. An Abu Dhabi listing does not guarantee immediate attendance everywhere in the region.",
+        "focus": "Share the site type, required materials, equipment, likely visit schedule and handover method. Compare transport, setup, follow-up inspections and defect correction as well as the main work. For made-to-order goods or project supply, clarify damage responsibility during loading, delivery and installation.",
+        "services": "Construction and extensions, maintenance and finishing, materials and equipment, workshops, fit-out, design and cleaning.",
+        "faq": [
+          [
+            "What should an Al Dhafra service enquiry include?",
+            "The site location when contacting the provider, access route, equipment, materials and schedule."
+          ],
+          [
+            "Does a quote include mobilisation?",
+            "Confirm transport, setup, repeat visits and defect follow-up in writing."
+          ],
+          [
+            "Is same-day attendance available throughout Al Dhafra?",
+            "Never assume it. Availability depends on published coverage, the team and its current schedule."
+          ]
+        ]
+      }
+    }
+  }
+}

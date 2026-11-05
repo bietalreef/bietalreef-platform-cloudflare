@@ -31,8 +31,11 @@ export function discoveryPath({locale='ar',emirate='',city='',sector=''}={}){
  const prefix=locale==='en'?'/en':'';
  if(sector==='hourly-cleaning')return `${prefix}/uae/abu-dhabi/al-ain/hourly-cleaning`;
  if(!emirate)return sector?`${prefix}${locale==='en'?'/categories':'/services'}/${sector}`:`${prefix}/uae`;
- const adjusted=emirate==='abu-dhabi'&&city==='al-ain'&&sector==='aluminium-glass'?'aluminium-wood-glass':sector;
- return `${prefix}/uae/${emirate}${city?`/${city}`:''}${adjusted?`/${adjusted}`:''}`;
+ // The emirate landing page is also the entry point for Abu Dhabi City.
+ // Existing legacy URLs remain available; do not create new links to them.
+ const destinationCity=emirate==='abu-dhabi'&&city==='abu-dhabi-city'?'':city;
+ const adjusted=emirate==='abu-dhabi'&&destinationCity==='al-ain'&&sector==='aluminium-glass'?'aluminium-wood-glass':sector;
+ return `${prefix}/uae/${emirate}${destinationCity?`/${destinationCity}`:''}${adjusted?`/${adjusted}`:''}`;
 }
 export function matchesDirectorySector(sector,query='',type='all'){
  const norm=v=>v.toLowerCase().normalize('NFKD').replace(/[\u064b-\u065f\u0670]/g,'').replace(/[أإآ]/g,'ا').replace(/ى/g,'ي');

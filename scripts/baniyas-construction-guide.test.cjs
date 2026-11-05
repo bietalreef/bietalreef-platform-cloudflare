@@ -51,3 +51,24 @@ test('No fake sector coverage or hardcoded company list is introduced',()=>{
  const local=JSON.parse(read('data/abuDhabiAreaEditorial.json'));
  assert.equal(Object.keys(local.areas).length,11);
 });
+
+
+test('All eleven Abu Dhabi localities account for every topic and never claim that unwritten articles are complete',()=>{
+ const report=JSON.parse(read('data/abuDhabiAreaChapterStatus.json'));
+ assert.equal(report.target.chaptersPerLanguage,1496);
+ assert.equal(Object.keys(report.localities).length,11);
+ let authored=0,unwritten=0,approved=0;
+ for(const loc of Object.values(report.localities)){
+  assert.equal(Object.keys(loc.sectors).length,8);
+  for(const state of Object.values(loc.sectors)){
+   assert.equal(state.target,17);
+   assert.equal(state.authored+state.unwritten,17);
+   authored+=state.authored;
+   unwritten+=state.unwritten;
+   approved+=state.editoriallyApproved;
+  }
+ }
+ assert.equal(authored,17);
+ assert.equal(unwritten,1479);
+ assert.equal(approved,0);
+});

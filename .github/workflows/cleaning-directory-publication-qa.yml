@@ -26,6 +26,11 @@ jobs:
         run: node --test scripts/cleaning-directory-publication.test.cjs
       - name: Consent and Google tag regression
         run: node --test scripts/google-tag-consent-regression.test.cjs
+      - name: Abu Dhabi editorial and area regression
+        run: |
+          node --test scripts/abu-dhabi-directory-editorial.test.cjs
+          node --test scripts/abu-dhabi-area-directory.test.cjs
+          node --test scripts/baniyas-construction-guide.test.cjs
       - name: Next.js 15 Pages Router build
         env:
           NEXT_PUBLIC_SUPABASE_URL: https://lqyknkpnjevkqpalkwry.supabase.co

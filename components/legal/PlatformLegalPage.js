@@ -52,6 +52,8 @@ export default function PlatformLegalPage({
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <link rel="canonical" href={canonical} />
         <link rel="alternate" hrefLang="ar-AE" href={canonical} />
+        <link rel="alternate" hrefLang="en-AE" href={enCanonical} />
+        <link rel="alternate" hrefLang="x-default" href={canonical} />
         <meta property="og:title" content={`${title} | بيت الريف`} />
         <meta property="og:description" content={description} />
         <meta property="og:type" content="website" />

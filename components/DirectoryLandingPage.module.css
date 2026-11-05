@@ -39,3 +39,7 @@
 /* Keep the approved three-column desktop and two-column mobile specialty grid. */
 .sectorGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media(max-width:700px){.sectorGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Approved Abu Dhabi geography: a single Al Ain city entry, then direct area links. */
+.onePlace{grid-template-columns:minmax(0,420px)}
+@media(max-width:700px){.onePlace{grid-template-columns:minmax(0,1fr)}}

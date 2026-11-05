@@ -31,7 +31,13 @@ test('Baniyas full guide is included only in the actual existing area route; res
  assert.match(reading,/reading-chapter/);
  assert.match(area,/areaSlug==='baniyas'/);
  assert.match(area,/sector\.slug==='general-contracting'/);
- assert.match(area,/baniyasConstructionReadingHtml\(locale\)/);
+ assert.match(area,/baniyasReadingHtml/);
+ const arRoute=read('pages/uae/[activity]/[emirate].js');
+ const enRoute=read('pages/en/uae/[emirate]/[area].js');
+ assert.match(arRoute,/data\/baniyasConstructionReading/);
+ assert.match(enRoute,/data\/baniyasConstructionReading/);
+ assert.match(arRoute,/baniyasReadingHtml=area\?\.slug==='baniyas'/);
+ assert.match(enRoute,/baniyasReadingHtml=area\?\.slug==='baniyas'/);
  assert.match(modal,/showModal\(\)/);
  assert.match(modal,/event\.preventDefault\(\)/);
  assert.match(modal,/data-read-target/);

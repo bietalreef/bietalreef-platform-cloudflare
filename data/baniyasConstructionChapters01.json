@@ -28,5 +28,23 @@
         "words": 422
       }
     }
+  ],
+  "officialSourcesReviewed": "2026-11-06",
+  "officialReferences": [
+    {
+      "titleAr": "استعلام تصنيف المنشآت الهندسية — دائرة البلديات والنقل",
+      "titleEn": "DMT — Engineering Firms with Valid Classification",
+      "url": "https://pages.dmt.gov.ae/en/engineering-firms"
+    },
+    {
+      "titleAr": "منصة بناء — دائرة البلديات والنقل",
+      "titleEn": "Binaa — Department of Municipalities and Transport",
+      "url": "https://binaa.dmt.gov.ae/"
+    },
+    {
+      "titleAr": "هيئة أبوظبي للتسجيل — الرخصة الاقتصادية",
+      "titleEn": "ADRA — Standard Economic Licence",
+      "url": "https://www.adra.gov.ae/en/establishing/standard-licence"
+    }
   ]
 }

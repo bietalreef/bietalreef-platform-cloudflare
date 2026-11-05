@@ -25,7 +25,7 @@ export const UAE_EMIRATES = [
       { slug: 'al-jimi', nameAr: 'الجيمي', nameEn: 'Al Jimi' },
       { slug: 'al-hili', nameAr: 'الهيلي', nameEn: 'Al Hili' },
       { slug: 'al-maqam', nameAr: 'المقام', nameEn: 'Al Maqam' },
-      { slug: 'al-yahar', nameAr: 'اليحر', nameEn: 'Al Yahar' },
+      { slug: 'al-yahar', nameAr: 'العامرة', nameEn: 'Al Aamerah' },
       { slug: 'sweihan', nameAr: 'سويحان', nameEn: 'Sweihan' },
       { slug: 'nahil', nameAr: 'ناهل', nameEn: 'Nahil' },
       { slug: 'remah', nameAr: 'رماح', nameEn: 'Remah' }

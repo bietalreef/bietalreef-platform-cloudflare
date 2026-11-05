@@ -42,7 +42,7 @@ Only published service slugs resolve. Unknown areas, categories, services and in
 | عشارج / Asharej | `asharej` | noindex, follow |
 | المقام / Al Maqam | `al-maqam` | noindex, follow |
 | فلج هزاع / Falaj Hazza | `falaj-hazza` | noindex, follow |
-| اليحر / Al Yahar | `al-yahar` | noindex, follow |
+| العامرة / Al Aamerah | `al-yahar` | noindex, follow |
 | الظاهر / Al Dhahir | `al-dhahir` | noindex, follow |
 
 The city and city-cleaning pages are indexable when an eligible provider exists. The 48 bilingual district/district-category URLs are browsable but excluded from sitemap until independent district evidence is reviewed. A district name plus the same provider is insufficient independent content. Set reviewed local editorial blocks and provenance only after an actual content review; the component renders those blocks. Service routes remain noindex without a separate demand approval; no service combinations are emitted in sitemap. This is an intentional quality gate, not a claim that all district SEO landing pages are ready to rank.

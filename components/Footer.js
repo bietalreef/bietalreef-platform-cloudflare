@@ -4,6 +4,7 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import UniversalRequestCTA from './UniversalRequestCTA';
 import PlatformAccessActions from './PlatformAccessActions';
+import AlAinAreasFooter from './AlAinAreasFooter';
 import { getEmirate } from '../data/siteTaxonomy';
 import { uaeAreaHref } from '../lib/navigation';
 import {
@@ -145,6 +146,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true, contextua
   const pathParts = String(router.asPath || '').split(/[?#]/)[0].split('/').filter(Boolean);
   const uaeIndex = pathParts.indexOf('uae');
   const activeEmirate = uaeIndex >= 0 ? getEmirate(pathParts[uaeIndex + 1]) : null;
+  const isAlAin = uaeIndex >= 0 && pathParts[uaeIndex + 1] === 'abu-dhabi' && pathParts[uaeIndex + 2] === 'al-ain';
 
 
   return (
@@ -152,7 +154,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true, contextua
       {showRequestCTA ? <UniversalRequestCTA locale={language} /> : null}
       <footer className="border-t border-[#E6DCC8] bg-white text-gray-900" dir={t.dir} role="contentinfo">
         <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-          {contextualFooter || <EmirateFooterContext language={language} emirate={activeEmirate} />}
+          {contextualFooter || (isAlAin ? <AlAinAreasFooter locale={language} /> : activeEmirate?.slug === 'abu-dhabi' ? null : <EmirateFooterContext language={language} emirate={activeEmirate} />)}
           <div className={`mb-9 rounded-[2rem] border border-[#D4AF37]/35 bg-[#FFF9E8] p-6 shadow-[0_16px_40px_rgba(15,63,26,0.08)] md:flex md:items-center md:justify-between md:gap-8 ${textAlign}`}>
             <div>
               <p className="text-sm font-black text-[#A27E18]">{t.promoEyebrow}</p>

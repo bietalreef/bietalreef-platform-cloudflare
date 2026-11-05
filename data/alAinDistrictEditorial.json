@@ -1,0 +1,964 @@
+{
+  "areas": {
+    "al-jimi": {
+      "ar": "في الجيمي تتجاور احتياجات السكن اليومي مع المحلات والمكاتب، لذلك تبدأ المقارنة بتحديد نوع العقار وطبيعة العمل: صيانة تكييف في فيلا، إصلاح في شقة، تجهيز محل، أو تنظيف مفروشات. يساعد دليل الجيمي العميل على فصل الأعمال العاجلة عن التحسينات الاختيارية، وتجهيز صور العطل والمقاسات ومواعيد الدخول قبل طلب الأسعار. ترتبط الجيمي أيضًا بواحة تاريخية موثقة ضمن واحات العين؛ ويظل أي عمل قريب من المواقع التراثية خاضعًا للتحقق من القيود والاشتراطات الخاصة بموقعه.",
+      "en": "Al Jimi blends residential and commercial needs. Define the property type, the exact job, access requirements and evidence before comparing a contractor, maintenance team or supplier. Heritage-sensitive work requires project-specific checks.",
+      "reference": "https://www.alainmuseum.ae/en/al-ain"
+    },
+    "al-hili": {
+      "ar": "الهيلي منطقة من العين تحمل هوية تراثية واضحة بفضل مواقع الهيلي الأثرية والواحة. لكن اختيار شركة مقاولات أو صيانة يبدأ دائمًا من العقار نفسه، لا من الصورة العامة للمنطقة. في هذا الدليل نوضح كيف يفرق العميل بين أعمال البناء الجديدة والتجديد والصيانة، وكيف يجهز مخططات العقار أو صور المشكلة وجدول الكميات ويقارن عروض الشركات. إذا كان العمل قريبًا من موقع تراثي أو ضمن نطاق تنظيمي خاص، يجب التأكد من القيود ذات الصلة لدى الجهات المختصة بدل افتراض إمكانية التنفيذ. هدف الصفحة أن يحصل المستخدم على خطوات عملية لا مجرد أسماء شركات.",
+      "en": "Al Hili has a documented heritage landscape, including archaeological sites and an oasis. This guide helps property owners scope construction, renovation, maintenance and cleaning requests, while checking any site-specific heritage and permit requirements.",
+      "reference": "https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/hili-archaeological-garden"
+    },
+    "al-muwaiji": {
+      "ar": "المويجعي ترتبط بقصر المويجعي المعروف في تاريخ العين. وفي الخدمات اليومية، لا يكفي أن تقول «أريد تشطيبًا»؛ فمن الأفضل تحديد حالة العقار ومساحة العمل والخامات القائمة والمخرجات المطلوبة. لذلك يوجه دليل المويجعي العميل إلى فصل أعمال العزل والسباكة والكهرباء والدهانات، وإعداد طلب سعر يذكر المواد والضمان والمواعيد. أما المشروعات التي تمس مباني ذات قيمة تراثية فتحتاج مراجعة الجهات المعنية ولا تقاس بعقود ترميم المنازل العادية.",
+      "en": "Al Muwaiji is associated with the historic Qasr Al Muwaiji. For ordinary property work, specify existing finishes, measurements, electrical or plumbing changes, materials and acceptance standards; heritage properties call for separate official review.",
+      "reference": "https://dct.gov.ae/en/what.we.do/culture/museums/qasr.al.muwaiji.aspx"
+    },
+    "al-markhaniya": {
+      "ar": "في المرخانية، يستطيع صاحب المنزل استخدام الدليل للتمييز بين عطل يتطلب فنيًا محددًا وبين مشروع تشطيبات يحتاج إلى مقاول مسؤول عن عدة بنود. ابدأ بوصف المشكلة ومكانها وتاريخ ظهورها وأي إصلاح سابق، ثم اطلب من الشركات تحديد المعاينة والمواد والعمالة والتكلفة والضمان كتابة. يُفضّل فصل العمل القابل للفحص والاستلام عن الوعود العامة مثل «صيانة كاملة» دون تفاصيل. هذا الإطار يساعد الأسر وأصحاب العقارات على مقارنة العروض بإنصاف، من غير افتراض أسعار أو توفر شركات لم يتم التحقق منها.",
+      "en": "For Al Markhaniya requests, distinguish a targeted repair from a multi-trade renovation. Record symptoms and past repairs, and compare written scopes, materials, labour, milestones and warranties.",
+      "reference": null
+    },
+    "al-towayya": {
+      "ar": "لا يحتاج كل مشروع في الطوية إلى مقاول عام؛ فقد يكون المطلوب معالجة رطوبة في غرفة، تجديد أرضيات، أو تجهيز مساحة خارجية. يبدأ الدليل بسؤال العميل عن الاستعمال الفعلي للمكان، وتعرض الأسطح للشمس والرطوبة، والمقاسات وطريقة الوصول. عند تنفيذ مظلة أو جلسة خارجية أو أعمال زراعة، يجب فصل التوريد عن التركيب والتأكد من تصريف المياه والصيانة المستقبلية بدل التركيز على الشكل وحده. لا يعامل الدليل هذه الأعمال كخدمات متوفرة تلقائيًا لدى جميع الشركات.",
+      "en": "Al Towayya content begins with the function of a home or outdoor space. Separate supply from installation, and ask for dimensions, drainage considerations, finishing specifications and aftercare.",
+      "reference": null
+    },
+    "al-foah": {
+      "ar": "عند طلب مواد بناء أو تجهيزات أو تنظيف في الفوعة، يصنع تحديد الموقع الدقيق والمواعيد فرقًا كبيرًا في جودة العرض. لا يكفي سعر المادة؛ ينبغي أن يشمل طلب التوريد الكمية والمواصفة وموعد التسليم والتفريغ والمرتجعات. وإذا كان المشروع تحديثًا لمنزل أو مجلس، فالأفضل إرسال الصور والمقاسات وحصر الأعمال قبل التفاوض. يقدم دليل الفوعة طريقة عملية لفهم عروض الموردين والمقاولين وتجنب اختلاف التفسير بين «يشمل التركيب» و«توريد فقط».",
+      "en": "For work in Al Foah, confirm exact delivery points and access. Itemise materials, quantities, unloading, installation, timing, returns and warranty before accepting a quotation.",
+      "reference": null
+    },
+    "zakher": {
+      "ar": "في زاخر يبدأ القرار من نوع المشروع، لا من اسم الشركة وحده: هل العمل بناء جديد، توسعة، مجلس خارجي، أو صيانة لمنزل مستخدم؟ لكل حالة مستندات ومخاطر مختلفة. يركز الدليل على كيفية إعداد طلب عرض سعر للمساحات والملحقات والأعمال الخارجية، والتأكد من ملاءمة مواد العزل والتشطيبات للبيئة والاستخدام، مع عدم اختراع حدود مساحات أو أسعار ثابتة. كما يوضح متى تحتاج رأيًا هندسيًا بدل تكليف فني بتنفيذ تغيير إنشائي.",
+      "en": "In Zakher, decide whether the job is new construction, an extension, an outdoor majlis or maintenance. Use drawings, measured scope and a structural review where relevant rather than relying on generic packages.",
+      "reference": null
+    },
+    "asharej": {
+      "ar": "أحيانًا يكون السؤال الأهم في عشارج: ما الأعمال التي يجب إنجازها قبل استلام العقار أو الانتقال إليه؟ يوجه الدليل إلى اختبار السباكة والكهرباء والتكييف، وفحص الأبواب والدهانات والأرضيات، ثم توثيق الملاحظات بالصور. أما طلب التنظيف بعد التشطيب فيجب أن يحدد بوضوح إزالة مخلفات الأعمال ونطاق تنظيف الزجاج والمفروشات. هذا المحتوى يفصل بين معاينة الاستلام، وأعمال الإصلاح، والتنظيف النهائي، ويشجع على عروض سعر واضحة ومكتوبة.",
+      "en": "Asharej content separates property handover checks from repairs and final cleaning. Record defects with photos, identify materials and agree on a specific completion checklist.",
+      "reference": null
+    },
+    "al-maqam": {
+      "ar": "صفحة المقام تساعد صاحب المنزل على ترتيب قرارات التشطيب بدل شراء المواد أولًا ثم البحث عن من يركبها. يبدأ العمل بفهم حالة الأسطح والرطوبة والتمديدات، ثم اختيار المواد المناسبة والقياسات والعمالة والجدول الزمني. وعند مقارنة ورش الأبواب أو المطابخ، يجب أن يحدد العرض نوع الخامة والسماكات والإكسسوارات والتركيب والضمان. تعرض الصفحة خطوات عملية يمكن استخدامها مع أي مقدم خدمة مؤهل، لا توصية غير موثقة بأسماء بعينها.",
+      "en": "For Al Maqam projects, assess existing surfaces and services before selecting finishes. Compare material specifications, measurements, installation obligations and warranties.",
+      "reference": null
+    },
+    "falaj-hazza": {
+      "ar": "في فلج هزاع قد يحتاج العميل إلى تجديد جزء من المنزل أو التنسيق بين عدة خدمات متزامنة. لذلك يوضح الدليل الفرق بين عقد شامل وعقود منفصلة للكهرباء والسباكة والجبس والدهانات، وكيفية توثيق مسؤولية كل طرف. إذا كان السكن مشغولًا أثناء العمل، يجب توضيح ساعات التنفيذ وحماية الأثاث والتنظيف اليومي واستعادة المكان للاستخدام. المحتوى عملي ومبني على الأسئلة التي يحتاج صاحب العقار إلى طرحها قبل التعاقد.",
+      "en": "Falaj Hazza guidance focuses on sequencing repairs and finishing work. Ask who coordinates trades, how occupied rooms are protected and which acceptance checks apply.",
+      "reference": null
+    },
+    "al-dhahir": {
+      "ar": "عندما يكون مشروع العميل في الظاهر، فإن وصف الموقع والوصول إليه جزء أساسي من الطلب: هل هناك مساحة لتخزين المواد؟ هل العمل داخل منزل مستخدم؟ هل هناك أعمال تتطلب معدات خاصة أو موافقات؟ يركز الدليل على إعداد قائمة بالمقاسات والمواد والمدة، والتفرقة بين تكلفة التوريد وتكلفة التنفيذ. كما يساعد على فهم معايير استلام العزل والدهانات والتجهيزات دون افتراض أن أعمالًا محددة شائعة أو متاحة في كل شارع من المنطقة.",
+      "en": "For Al Dhahir, explain property access, storage, operating constraints and whether supply and installation are quoted separately. Use measurable acceptance criteria.",
+      "reference": null
+    },
+    "sanaiya": {
+      "ar": "تختلف احتياجات ورشة أو مستودع أو محل في الصناعية عن احتياجات فيلا سكنية. لذلك يبدأ الدليل بوصف نوع النشاط والمعدات الموجودة والحركة داخل الموقع، ثم يوضح ما يجب ذكره في طلب صيانة كهربائية أو تهوية أو أرضيات أو تجهيزات معدنية. ينبغي تحديد ساعات السماح بالعمل ومتطلبات السلامة والتوقف التشغيلي وأهلية مقدم الخدمة، مع الفصل بين إصلاح عاجل وعقد صيانة متكرر. لا نعلن أسماء مصانع أو خدمات لم تثبت في قاعدة بيت الريف.",
+      "en": "Sanaiya guidance is designed for commercial and workshop requests: explain operating hours, equipment, access and safety constraints before seeking qualified fit-out, maintenance or fabrication providers.",
+      "reference": null
+    },
+    "remah": {
+      "ar": "في رماح من الأفضل ألا يبدأ طلب عرض السعر بكلمة «صيانة» وحدها، بل بعنوان الموقع والوصول وطبيعة المشروع والوقت المطلوب. قد تؤثر مسافة انتقال الفريق، وعدد الزيارات، وتوفر المواد والمعدات في طريقة احتساب العرض؛ لذلك يوضح الدليل كيفية طلب سعر يشمل الزيارة والتوريد والتنفيذ وما إذا كانت المعاينة أولًا. لا نعتمد رسوم انتقال أو مواعيد افتراضية، ولا نزعم خدمة شركة للمنطقة قبل موافقتها الفعلية.",
+      "en": "Remah content emphasises accurate location details, site access, the number of visits and logistics. Ask suppliers to distinguish mobilisation, materials and labour instead of assuming a standard travel fee.",
+      "reference": null
+    },
+    "sweihan": {
+      "ar": "في سويحان تساعد الصفحة العميل على تحويل طلب عام مثل «أحتاج مقاول أو معدات» إلى نطاق قابل للتسعير: ما نوع العمل؟ ما موقعه؟ هل تحتاج معدات نقل أو رفع؟ وما أوقات الوصول المتاحة؟ هذه الأسئلة ليست تكاليف ثابتة، لكنها تمنع عروضًا لا تشمل الانتقال والتجهيز والسلامة. عند طلب تأجير معدات أو توريد مواد، يجب التحقق من توفر المشغل والوقود والتسليم والتأمين حيث يلزم.",
+      "en": "For Sweihan projects, include exact site position, access windows, equipment needs and delivery responsibilities. Clarify operator, fuel and insurance arrangements where applicable.",
+      "reference": null
+    },
+    "mazid": {
+      "ar": "عند البحث عن خدمات بناء أو صيانة في مزيد، ينصح الدليل بتجهيز رسم أو صور للموقع، وتحديد ما إذا كان المطلوب بناء ملحق أو تجديدًا أو إصلاحًا محدودًا. من المهم الفصل بين العمل الإنشائي والتشطيب والتوريد، وذكر مواعيد الدخول والمساحات المتاحة ومخرجات الاستلام. لا نعطي أسعار متر عامة باعتبارها أسعارًا خاصة بمزيد، ولا نربط منطقة بمقدم خدمة لم يؤكد تغطيتها.",
+      "en": "Mazid guidance helps clients distinguish structural work, finishing, repairs and delivery. Provide drawings, photos, dimensions and an agreed handover checklist before quoting.",
+      "reference": null
+    },
+    "mazid-company-camp": {
+      "ar": "يحتاج طلب صيانة أو تجهيز في موقع شركات إلى معرفة طبيعة النشاط والجهة المخولة بالموافقة وساعات الدخول. لذلك تركز هذه الصفحة على صياغة طلب خدمة واضح يذكر عدد الوحدات أو الغرف، وملاحظات السلامة، ومساحة العمل، وتأثير توقف النشاط. لا تخلط الصفحة بين احتياجات المخيمات أو المواقع التشغيلية وبين تنظيف المنازل أو بناء الفلل. ويجب التحقق من نوع المنشأة والحق في تنفيذ الأعمال قبل اختيار الشركة.",
+      "en": "For a company camp or operations site, record access permissions, unit counts, safety constraints and possible downtime. Keep this different from residential service content.",
+      "reference": null
+    },
+    "nahil": {
+      "ar": "عند طلب شركة أو مورد في ناهل يحتاج مقدم الخدمة إلى بيانات كافية قبل إعطاء موعد أو سعر: موقع دقيق، وصف العمل، صور أو مخططات، متطلبات المعدات، والوقت المناسب للزيارة. يساعد هذا الدليل على تحويل قائمة رغبات مبهمة إلى جدول بنود واضح، مع بيان مسؤولية النقل والمواد والعمالة والضمان. لا يفترض الدليل وجود شركات محلية منشورة أو مواعيد استجابة مضمونة، بل يوجّه العميل للتحقق مباشرة من مقدمي الخدمات المؤهلين.",
+      "en": "Nahil guidance prioritises exact site details, photos, equipment requirements and travel logistics. Compare itemised scopes and verify provider coverage before booking.",
+      "reference": null
+    },
+    "al-yahar": {
+      "ar": "في العامرة يساعدك تحديد نوع العقار والاحتياج قبل طلب الخدمة على الحصول على عروض أوضح. إذا كان المطلوب تجديد منزل، افصل إصلاح التمديدات والعزل عن أعمال الدهان والتشطيب، وأرفق صور الحالة والمقاسات ومواعيد الوصول. وفي طلبات التوريد، حدّد الكميات ومسؤولية النقل والتنزيل؛ أما التعديلات الإنشائية فناقش نطاقها ومتطلبات الموافقة مع المختص والجهة المعنية حسب حالة العقار. تأكد مباشرة من قدرة الشركة على خدمة موقعك قبل اعتماد الموعد.",
+      "en": "In Al Aamerah, define the property and the work before requesting a quotation. Separate repairs to services or waterproofing from finishes, provide measurements and photos, and agree access and delivery responsibilities. Discuss structural alterations and any project-specific approvals with the responsible professional and authority, and confirm coverage directly with each provider.",
+      "reference": null
+    }
+  },
+  "hiliSectors": {
+    "general-contracting": {
+      "ar": "قبل توقيع عقد بناء أو تجديد في الهيلي، افصل بين الأعمال الإنشائية والتشطيبات والملاحق، وتحقق من وضع الرسومات والاعتمادات المطلوبة لنوع المشروع. لا تكفي عبارة «تسليم مفتاح» ما لم يتضمن العرض جدولًا بالمواد والمواصفات والدفعات ومواعيد التنفيذ. يشرح هذا القسم كيف تقارن المقاولين، وتراقب البنود الخفية، وتجهز ملف طلب عرض سعر يُفهم بالطريقة نفسها لدى كل شركة.",
+      "en": "Before appointing a contractor in Al Hili, distinguish structural work, fit-out and extensions. Confirm project-specific approvals, specifications, staged payments and a comparable bill of quantities.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "أفضل شركة مقاولات في الهيلي: كيف تختارها؟",
+          "title_en": "How to choose a suitable general contractor in Al Hili",
+          "status": "complete_ar_draft"
+        },
+        {
+          "number": 2,
+          "title_ar": "أرخص شركة مقاولات في الهيلي: كيف تقارن الأسعار بإنصاف؟",
+          "title_en": "Comparing low-priced contracting quotations in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "كيف تجد مقاول بناء يخدم الهيلي؟",
+          "title_en": "Finding contractors who serve Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "ما شروط اختيار المقاول المناسب لمشروعك؟",
+          "title_en": "The essential checks before appointing a contractor",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "بناء الفلل والمنازل في الهيلي: ما الذي يجب توثيقه؟",
+          "title_en": "Planning a villa or home build in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "مقاول عظم أم تسليم مفتاح: ما الفرق الفعلي؟",
+          "title_en": "Shell construction versus turnkey: what changes",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "بناء الملاحق والمجالس والاستراحات: من أين تبدأ؟",
+          "title_en": "Planning extensions and majlis buildings",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "كم تكلفة بناء فيلا في الهيلي عام 2026؟",
+          "title_en": "What drives villa construction costs in Al Hili in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "سعر متر البناء: ما الذي يشمله وما الذي لا يشمله؟",
+          "title_en": "Understanding construction cost per square metre",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "تراخيص البناء والمخططات في الهيلي: كيف تتحقق؟",
+          "title_en": "Checking drawings and building permits for Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "المقاول العام والمقاول الباطن والاستشاري: من المسؤول؟",
+          "title_en": "Who does what: contractor, subcontractor and consultant",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "كيف تقارن ثلاثة عروض أسعار للمقاولات؟",
+          "title_en": "How to compare three construction quotations",
+          "status": "complete_ar_draft"
+        },
+        {
+          "number": 13,
+          "title_ar": "عقد المقاولات والدفعات والضمانات: قائمة مراجعة",
+          "title_en": "Construction contracts, payments and warranties",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "مراحل البناء من المخطط حتى التسليم النهائي",
+          "title_en": "The building journey from drawings to handover",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "أخطاء البناء والخلافات: كيف تقلل مخاطرها؟",
+          "title_en": "Avoiding construction disputes and costly errors",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "شركات المقاولات التي تخدم الهيلي: كيف تتأكد من التغطية؟",
+          "title_en": "Verifying contractors serving Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "كيف تطلب عرض سعر مقاولات في الهيلي؟",
+          "title_en": "Preparing a clear contracting RFQ for Al Hili",
+          "status": "index_only"
+        }
+      ]
+    },
+    "interior-design": {
+      "ar": "التصميم الجيد لا يبدأ بصورة ملهمة فحسب؛ بل يبدأ بالمقاسات وسلوك الأسرة واستعمال الغرف وميزانية التنفيذ. في الهيلي يوضح القسم كيف تحدد المطلوب من المكتب الهندسي: تصور أولي، مخططات تنفيذ، توزيع كهرباء وإضاءة، أو إشراف. وتُناقش متطلبات الموافقات المتعلقة بالمبنى وموقعه قبل تقديم وعد بإمكانية تغيير جدار أو واجهة.",
+      "en": "Good design starts with measurements, occupants, intended use and budget. Clarify whether the commission includes concept work, construction drawings, revisions or supervision, and verify approval needs.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "اختيار مكتب هندسي يخدم الهيلي",
+          "title_en": "Choosing an engineering practice serving Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "التحقق من تصنيف المكتب الهندسي",
+          "title_en": "Checking engineering-firm qualifications",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "تصميم فيلا: المتطلبات قبل رسم المخطط",
+          "title_en": "Villa design: defining the brief",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "تكلفة التصميم المعماري في 2026: كيف تقارنها؟",
+          "title_en": "Comparing architectural design fees in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "اختيار مصمم داخلي للمجلس أو الفيلا",
+          "title_en": "Selecting an interiors designer",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "المجالس العربية: الحركة والإضاءة والخصوصية",
+          "title_en": "Designing majlis circulation, light and privacy",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "تصميم المطابخ والخزائن حسب القياس",
+          "title_en": "Made-to-measure kitchens and storage",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "واجهات الفلل: الخامات والصيانة والهوية",
+          "title_en": "Villa facades: materials and maintenance",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "المعماري والإنشائي ومصمم الديكور: الفرق",
+          "title_en": "Architect, structural engineer and interior designer",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "الرسم ثنائي الأبعاد أم نموذج 3D أم BIM؟",
+          "title_en": "2D drawings, 3D models or BIM?",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "مخططات الكهرباء والميكانيكا والإنشاء",
+          "title_en": "Coordinating architectural and MEP drawings",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "متى يلزم اعتماد مخطط أو تعديل؟",
+          "title_en": "When a drawing change may need approval",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "الإشراف الهندسي وملاحظات الموقع",
+          "title_en": "Engineering supervision and site records",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "تجديد المساحات الداخلية بأمان",
+          "title_en": "Safe internal space reconfiguration",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "مقارنة عروض أسعار التصميم",
+          "title_en": "Comparing design proposals and deliverables",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "أفكار تصميم مناسبة لنوع العقار في الهيلي",
+          "title_en": "Planning interior designs for properties in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "نموذج طلب عرض سعر للتصميم في الهيلي",
+          "title_en": "Preparing a design brief and RFQ in Al Hili",
+          "status": "index_only"
+        }
+      ]
+    },
+    "general-maintenance": {
+      "ar": "عند تسرب المياه أو ضعف التكييف أو تقشر الطلاء، السؤال الأول ليس «بكم الإصلاح؟» بل «ما سبب المشكلة؟». يساعد القسم على ترتيب فحص السبب، وتوثيق الأعراض بالصور، وطلب ضمان يوضح الأجزاء التي عولجت. كما يفرق بين إصلاح صغير وتجديد يحتاج أكثر من تخصص، ويعطي العميل طريقة لاستلام أعمال الكهرباء والسباكة والدهانات دون الاعتماد على الانطباع البصري فقط.",
+      "en": "Diagnose the cause before quoting the cosmetic repair. Document symptoms, agree on inspection and materials, and assess installation and warranty responsibilities.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "اختيار شركة صيانة في الهيلي",
+          "title_en": "Choosing a maintenance company in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "لماذا السعر الأرخص ليس دائمًا أوفر؟",
+          "title_en": "Why the lowest maintenance quote may cost more",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "فني متخصص أم شركة صيانة شاملة؟",
+          "title_en": "Specialist technician or full-service maintenance company?",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "تسربات المياه: تحديد السبب قبل المعالجة",
+          "title_en": "Water leaks: diagnose before repairing",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "أعطال الكهرباء: إجراءات السلامة قبل الزيارة",
+          "title_en": "Electrical faults and first safety checks",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "ضعف تبريد التكييف: الأسباب المحتملة",
+          "title_en": "Diagnosing poor air-conditioning performance",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "السباكة والصرف والخزانات: فحص دوري",
+          "title_en": "Plumbing, drainage and tanks: routine inspection",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "الرطوبة والتشققات: متى تطلب مختصًا؟",
+          "title_en": "Damp and cracks: when to seek specialist advice",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "العزل المائي للأسطح والحمامات",
+          "title_en": "Waterproofing roofs and wet areas",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "صبغ الفلل: إعداد السطح قبل الطلاء",
+          "title_en": "Villa painting starts with surface preparation",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "تجديد منزل مأهول دون تعطيل الحياة",
+          "title_en": "Renovating an occupied home",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "تشطيب الحمامات والمطابخ والأرضيات",
+          "title_en": "Bathrooms, kitchens and floor finishes",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "خطة صيانة وقائية للمنزل",
+          "title_en": "Building a home preventive-maintenance plan",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "كيف تقرأ تكلفة صيانة في 2026؟",
+          "title_en": "Understanding maintenance costs in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "عقد الصيانة والضمان وقطع الغيار",
+          "title_en": "Maintenance contracts, warranties and parts",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "خدمات الصيانة المتاحة في الهيلي: التحقق من التغطية",
+          "title_en": "Checking available maintenance coverage in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "تجهيز طلب صيانة مصور في الهيلي",
+          "title_en": "Creating a photo-based maintenance request in Al Hili",
+          "status": "index_only"
+        }
+      ]
+    },
+    "building-materials": {
+      "ar": "تختلف تكلفة المادة عن التكلفة التي تصل بها إلى مشروعك. في الهيلي يوضح القسم كيف يطلب العميل عرضًا يحدد الماركة أو المواصفة والكمية والوحدة والتسليم والتحميل والمرتجعات، خصوصًا عند شراء الحديد والخرسانة والمواد الصحية والتشطيبات. ويشرح أهمية مطابقة المواد لما اعتمده المهندس بدل قبول بديل أرخص بلا مقارنة فنية.",
+      "en": "Compare specification, quantity, unit, delivery, handling and returns rather than looking at item price alone. Confirm substitutions with the responsible designer or engineer.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "كيف تختار محل مواد بناء يخدم الهيلي؟",
+          "title_en": "Choosing a materials supplier for Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "السعر والكمية والمواصفة: أسس المقارنة",
+          "title_en": "How to compare material quotes fairly",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "العثور على مورد لمشروعك",
+          "title_en": "Finding a supplier for your project",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "الحديد والأسمنت والخرسانة: قراءة العروض",
+          "title_en": "Reading steel, cement and concrete quotations",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "مواد البناء اللازمة للفلل والملاحق",
+          "title_en": "Materials for villas and extensions",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "السيراميك والرخام والبورسلان: الاختيار",
+          "title_en": "Selecting tiles, marble and porcelain",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "مواد العزل المائي والحراري",
+          "title_en": "Understanding waterproofing and insulation products",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "الأدوات الصحية ومستلزمات السباكة",
+          "title_en": "Comparing sanitaryware and plumbing supplies",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "الكهرباء والإنارة والقواطع",
+          "title_en": "Electrical and lighting material specifications",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "مواد الدهان والجبس والتشطيب",
+          "title_en": "Paint, gypsum and finishing materials",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "المواصفات وشهادات المطابقة",
+          "title_en": "Technical specifications and conformity evidence",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "جدول الكميات BOQ: ماذا يطلب المورد؟",
+          "title_en": "Using a bill of quantities for procurement",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "الشراء بالجملة أم حسب المراحل؟",
+          "title_en": "Bulk purchasing versus phased delivery",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "التوصيل والتفريغ والمرتجعات والضمان",
+          "title_en": "Delivery, unloading, returns and warranty",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "هل المورد يخدم الهيلي فعلًا؟",
+          "title_en": "Checking supplier delivery coverage for Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "تجنب الهدر والبدائل غير المعتمدة",
+          "title_en": "Avoiding waste and unapproved substitutions",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "نموذج طلب عرض أسعار مواد بناء",
+          "title_en": "Preparing a building-materials RFQ",
+          "status": "index_only"
+        }
+      ]
+    },
+    "aluminium-glass": {
+      "ar": "الأبواب والنوافذ والخزائن تحتاج قياسات نهائية ورسومات تصنيع قبل قص المواد. لهذا يقدم القسم طريقة تجهيز طلب مفصل يحدد نوع الإطار والزجاج وسماكة الأبواب وآلية التشغيل والإكسسوارات والحماية من الصدأ أو الرطوبة، مع مسؤولية التركيب والتجربة والاستلام. الصور المرجعية مفيدة، لكنها ليست بديلًا عن المقاس الموقع وبيان المواد.",
+      "en": "Made-to-measure fabrication needs site-verified dimensions, material grades, hardware, finishing, installation and a clear acceptance checklist.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "كيف تختار ورشة تفصيل في الهيلي؟",
+          "title_en": "Choosing a fabrication workshop for Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "السعر الأرخص مقابل الخامات والتركيب",
+          "title_en": "Comparing fabrication quotes beyond price",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "ورش الأبواب والنوافذ والتفصيل",
+          "title_en": "Finding door and window fabricators",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "أبواب الحديد والبوابات حسب المقاس",
+          "title_en": "Made-to-measure metal gates and doors",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "الألمنيوم: اختيار الأنظمة والقطاعات",
+          "title_en": "Selecting aluminium door and window systems",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "أنواع الزجاج والسلامة والعزل",
+          "title_en": "Glass options, safety and thermal performance",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "تفصيل المطابخ والخزائن",
+          "title_en": "Custom kitchen and wardrobe fabrication",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "الأبواب الخشبية وأعمال النجارة",
+          "title_en": "Wooden doors and joinery essentials",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "المظلات والهياكل المعدنية",
+          "title_en": "Canopies and steel structures",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "الدرابزين والسلالم الزجاجية والمعدنية",
+          "title_en": "Railings and stair components",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "واجهات المحلات والمداخل الزجاجية",
+          "title_en": "Shopfront and entrance glazing",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "جودة الخشب والمعدن والإكسسوارات",
+          "title_en": "Evaluating wood, metal and hardware quality",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "كيف تراجع الرسم التنفيذي والمقاسات؟",
+          "title_en": "Checking shop drawings and field measurements",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "تكلفة التفصيل في 2026: كيف تُحسب؟",
+          "title_en": "Understanding custom fabrication costs",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "الضمان ومقاومة الصدأ وجودة التركيب",
+          "title_en": "Warranty, corrosion protection and installation",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "هل الورشة تنفذ في الهيلي؟",
+          "title_en": "Verifying workshop service areas in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "طلب عرض سعر تفصيل دقيق",
+          "title_en": "Writing a precise custom-fabrication RFQ",
+          "status": "index_only"
+        }
+      ]
+    },
+    "furniture-decor": {
+      "ar": "تأثيث مجلس أو فيلا يبدأ من أبعاد الغرف والمداخل ومسار نقل الأثاث، لا من اختيار اللون وحده. يناقش هذا القسم الفرق بين الجاهز والمفصل، ونوع الخشب والقماش والحشوة، وطريقة حماية الأقمشة أثناء الاستخدام، وكيفية تقييم عينة فعلية قبل اعتماد الطلب. كما يوضح متى يدخل التركيب والنقل وإعادة الضبط في السعر ومتى يحتاج بندًا منفصلًا.",
+      "en": "Plan around room and door dimensions, fabric and material samples, access for delivery, warranty and clear installation responsibilities.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "كيف تختار متجر أثاث في الهيلي؟",
+          "title_en": "Choosing furniture suppliers for Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "مقارنة أسعار الأثاث دون إغفال الجودة",
+          "title_en": "Comparing furniture value and durability",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "أثاث الفيلا حسب الاستخدام اليومي",
+          "title_en": "Planning furniture for daily use",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "تفصيل المجالس والكنب حسب المقاس",
+          "title_en": "Custom majlis seating and sofas",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "غرف النوم والخزائن وغرف الأطفال",
+          "title_en": "Bedrooms, wardrobes and children’s rooms",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "تأثيث صالات الاستقبال والمعيشة",
+          "title_en": "Furnishing living and reception rooms",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "الأقمشة والإسفنج والحشوات",
+          "title_en": "Fabric, foam and upholstery specifications",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "الستائر والسجاد والتنجيد",
+          "title_en": "Curtains, rugs and upholstery services",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "جاهز أم مفصل: متى تختار؟",
+          "title_en": "Ready-made versus custom furniture",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "تأثيث فيلا جديدة خطوة بخطوة",
+          "title_en": "A phased villa furnishing plan",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "تجهيز المكاتب والمحلات",
+          "title_en": "Commercial and office furnishings",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "تنسيق الألوان والخامات",
+          "title_en": "Coordinating colours, surfaces and textures",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "قياسات الأبواب والممرات والتسليم",
+          "title_en": "Door clearance, access and furniture delivery",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "كيف تقدّر ميزانية الأثاث في 2026؟",
+          "title_en": "Budgeting for furniture in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "الضمان والنقل والتجميع",
+          "title_en": "Warranty, delivery and assembly",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "متاجر الأثاث التي تخدم الهيلي",
+          "title_en": "Checking furniture supply to Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "نموذج عرض سعر لتأثيث مجلس",
+          "title_en": "Preparing a majlis furnishing RFQ",
+          "status": "index_only"
+        }
+      ]
+    },
+    "equipment-rental": {
+      "ar": "لا يتساوى إيجار معدة بسعر يومي منخفض مع عرض يشمل النقل والمشغل والوقود والتأمين. يوضح القسم للمشروعات في الهيلي كيف تحدد نوع المعدة المطلوبة وقدرتها وساعات التشغيل ومتطلبات السلامة ومساحة الوصول. ويُفصل بين طلب تصنيع منتج حسب الرسم وبين طلب تأجير معدات أو توريد كميات، فلكل منها معايير مختلفة للمقارنة.",
+      "en": "Specify equipment capacity, operating hours, access, transport, operator, fuel and liability. Manufacturing orders need approved drawings and acceptance tolerances.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "اختيار شركة معدات أو مصنع يخدم الهيلي",
+          "title_en": "Selecting equipment suppliers serving Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "الإيجار اليومي: ماذا يشمل السعر؟",
+          "title_en": "Understanding daily rental inclusions",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "متى تحتاج مصنعًا أم مورد معدات؟",
+          "title_en": "Factory order or equipment rental?",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "المعدات الأساسية لأعمال البناء",
+          "title_en": "Common equipment for construction tasks",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "الحفارات والرافعات والشيولات",
+          "title_en": "Excavators, cranes and loaders",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "السقالات والمنصات والعمل المرتفع",
+          "title_en": "Scaffolds, platforms and elevated work",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "المولدات والضواغط ومعدات التشغيل",
+          "title_en": "Generators, compressors and power equipment",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "منتجات الخرسانة والمصانع",
+          "title_en": "Concrete products and manufacturing orders",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "منتجات الحديد والألمنيوم حسب الطلب",
+          "title_en": "Custom metal fabrication orders",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "الرسومات والعينات والاعتماد",
+          "title_en": "Approved samples and manufacturing drawings",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "شراء المعدات أم تأجيرها؟",
+          "title_en": "Renting versus purchasing equipment",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "اختيار قدرة المعدة ومساحة الوصول",
+          "title_en": "Capacity, reach and site-access checks",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "السلامة والتصاريح والمسؤولية",
+          "title_en": "Equipment safety and operator responsibility",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "تكاليف المعدات في 2026",
+          "title_en": "Understanding rental costs in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "النقل والوقود والصيانة والتأمين",
+          "title_en": "Transport, fuel, maintenance and insurance",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "تأكيد وصول المعدات إلى الهيلي",
+          "title_en": "Confirming equipment delivery to Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "نموذج طلب إيجار معدات أو تصنيع",
+          "title_en": "Preparing an equipment or fabrication RFQ",
+          "status": "index_only"
+        }
+      ]
+    },
+    "cleaning-services": {
+      "ar": "مطلوبك يحدد طريقة التنظيف المناسبة: منزل بعد التشطيب، كنب بقماش حساس، سجاد ببقع محددة، أو خزانات تحتاج إجراءات خاصة. يقدم القسم قائمة المعلومات التي تُرسل للشركة، مثل عدد الغرف والقطع والصور ونوع السطح والموعد، ويميز بين التنظيف والتطهير ومكافحة الحشرات التي تتطلب تأهيلًا وإجراءات إضافية. لا يعرض أسعارًا ولا وعودًا بنتيجة ثابتة قبل تقييم الحالة.",
+      "en": "Cleaning scope depends on property size, materials, fabric and condition. Share photos and quantities, and confirm treatment methods, safety and eligible providers.",
+      "topics": [
+        {
+          "number": 1,
+          "title_ar": "اختيار شركة تنظيف في الهيلي",
+          "title_en": "Selecting a cleaning provider in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 2,
+          "title_ar": "السعر الأقل مقابل نطاق العمل الحقيقي",
+          "title_en": "Comparing cleaning prices by scope",
+          "status": "index_only"
+        },
+        {
+          "number": 3,
+          "title_ar": "التنظيف العميق بالمعدات: ما الذي يشمله؟",
+          "title_en": "What deep cleaning with equipment includes",
+          "status": "index_only"
+        },
+        {
+          "number": 4,
+          "title_ar": "تنظيف الفلل بعد التشطيب وقبل السكن",
+          "title_en": "Pre-occupancy and post-construction villa cleaning",
+          "status": "index_only"
+        },
+        {
+          "number": 5,
+          "title_ar": "تنظيف الكنب والمجالس بالبخار",
+          "title_en": "Steam cleaning sofas and majlis seating",
+          "status": "index_only"
+        },
+        {
+          "number": 6,
+          "title_ar": "السجاد والموكيت والمراتب: اختيار الطريقة",
+          "title_en": "Carpet, rug and mattress cleaning methods",
+          "status": "index_only"
+        },
+        {
+          "number": 7,
+          "title_ar": "المطابخ والحمامات والأرضيات",
+          "title_en": "Kitchen, bathroom and floor cleaning",
+          "status": "index_only"
+        },
+        {
+          "number": 8,
+          "title_ar": "الرخام والسيراميك والزجاج: الحماية",
+          "title_en": "Protecting stone, tile and glass surfaces",
+          "status": "index_only"
+        },
+        {
+          "number": 9,
+          "title_ar": "تنظيف الخزانات: كيف تطلب الخدمة؟",
+          "title_en": "Preparing a water-tank cleaning request",
+          "status": "index_only"
+        },
+        {
+          "number": 10,
+          "title_ar": "تنظيف المسابح ومرافقها",
+          "title_en": "Pool cleaning scope and supporting facilities",
+          "status": "index_only"
+        },
+        {
+          "number": 11,
+          "title_ar": "المجالس الخارجية والخيم والاستراحات",
+          "title_en": "Cleaning outdoor majlis and tents",
+          "status": "index_only"
+        },
+        {
+          "number": 12,
+          "title_ar": "مظلات السيارات والأحواش والممرات",
+          "title_en": "Cleaning car shades, yards and paths",
+          "status": "index_only"
+        },
+        {
+          "number": 13,
+          "title_ar": "مكافحة الحشرات: متى تحتاج مختصًا؟",
+          "title_en": "When professional pest control is needed",
+          "status": "index_only"
+        },
+        {
+          "number": 14,
+          "title_ar": "الفرق بين التنظيف والتطهير والتعقيم",
+          "title_en": "Cleaning versus disinfection and sanitisation",
+          "status": "index_only"
+        },
+        {
+          "number": 15,
+          "title_ar": "تكلفة تنظيف منزل في 2026: العوامل",
+          "title_en": "What affects home cleaning cost in 2026",
+          "status": "index_only"
+        },
+        {
+          "number": 16,
+          "title_ar": "الشركات التي تغطي الهيلي: كيف تتأكد؟",
+          "title_en": "Checking cleaning-company coverage in Al Hili",
+          "status": "index_only"
+        },
+        {
+          "number": 17,
+          "title_ar": "طلب عرض سعر تنظيف واضح بالصور",
+          "title_en": "Building a photo-based cleaning request",
+          "status": "index_only"
+        }
+      ]
+    }
+  },
+  "articlesAr": {
+    "hili_general_contracting_01": "# كيف تختار شركة مقاولات مناسبة في الهيلي؟\n\n**اختيار المقاول ليس مسابقة على أقل سعر، بل قرار مبني على قدرة الشركة على تنفيذ نطاق معلوم بجودة قابلة للفحص.** إذا كنت تخطط لبناء فيلا أو ملحق أو إجراء تعديلات واسعة في عقار داخل الهيلي، فأول خطوة ليست طلب أسماء الشركات، وإنما تحديد ما إذا كان المشروع إنشاءً جديدًا أو تجديدًا أو معالجةً لمشكلة إنشائية. تختلف المستندات والمخاطر ومن يجب أن يراجع العمل من حالة إلى أخرى. احرص على وصف نوع العقار وحالته والهدف منه، ثم حدد الأعمال التي تريد إدراجها في عرض السعر.\n\n## ابدأ بالمخططات والنطاق\n\nالمخططات المعمارية وحدها لا تكفي دائمًا للمقارنة. اطلب من المصمم أو الاستشاري المسؤول تحديد الرسومات الإنشائية والتمديدات الكهربائية والميكانيكية اللازمة وفق نوع المشروع، وإعداد جدول كميات قدر الإمكان. إذا لم تكن الرسومات نهائية، اطلب من المقاول بيان الافتراضات والاستثناءات في عرضه، ولا تعتبر سعرًا أوليًا عقدًا نهائيًا. في أعمال الترميم، يستحسن توثيق الموجود بالصور والمقاسات والفحوص المطلوبة؛ فالخطأ في تشخيص مصدر رطوبة أو شرخ قد يؤدي إلى تكرار المعالجة بدل إصلاح السبب.\n\n## تحقق من أهلية الشركة ونطاق عملها\n\nلا يكفي وجود اسم تجاري أو بطاقة على الإنترنت. تحقق من الرخصة السارية والنشاط المهني الملائم، ومن التصنيف أو الاعتماد الذي قد يتطلبه نوع العمل، ثم اسأل عن المسؤول الفني والإشراف والمشروعات المشابهة التي تستطيع الشركة توثيقها. توفر دائرة البلديات والنقل قائمة عامة للشركات الهندسية ذات التصنيف الساري؛ يمكن استخدامها كإحدى وسائل التحقق، مع ضرورة التأكد من أن السجل يخص الشركة نفسها ونوع العمل المطلوب. ولا يعني ظهور الشركة في الدليل أن بيت الريف يمنحها تصريحًا حكوميًا جديدًا.\n\n## اقرأ العرض كبنود لا كرقم واحد\n\nاطلب من كل مقاول أن يبيّن البنود الرئيسية: أعمال الموقع والحفر إن وجدت، الخرسانة والعزل، البناء والتشطيبات، المواد والأعمال الكهربائية والصحية، النقل والاختبارات والتنظيف والتسليم. اسأل هل السعر يشمل الضريبة حيث تنطبق، ورسوم الخدمات، والمعدات، والرفع، وأعمال المقاولين الباطنين، ونقل المخلفات. قد يبدو عرض أقل تكلفة لأنه استبعد بندًا كبيرًا سيُضاف لاحقًا. قارن العروض على قائمة موحدة، وسجّل الاستثناءات كتابة قبل اعتماد السعر.\n\n## ضع جدولًا واضحًا للدفعات والاستلام\n\nاربط كل دفعة بمرحلة قابلة للقياس والتوثيق بدل الاكتفاء بتاريخ تقويمي. اتفق على إجراءات اعتماد أي تغيير، وطريقة إثبات الإنجاز، وآلية فحص الأعمال المخفية قبل تغطيتها. عند استلام أعمال العزل أو الكهرباء أو السباكة، اطلب الاختبارات والمستندات المناسبة لنوع العمل بدل الاعتماد على الشكل الخارجي. وحدد في العقد من يورد المواد ومن يتحمل التلف الناتج عن التخزين غير المناسب، وكيف تُعالج العيوب خلال فترة الضمان التعاقدية.\n\n## راعِ سياق الهيلي من غير تعميم\n\nالهيلي تضم مواقع أثرية معروفة وبيئة واحات تاريخية ضمن العين. هذا لا يعني أن كل منزل في المنطقة مبنى تراثي أو أن كل عمل يتطلب موافقة خاصة؛ لكنه يعني أن بعض المواقع قد تكون لها اعتبارات إضافية يجب التحقق منها. إذا كان عقارك قريبًا من موقع محمي أو كانت هناك قيود على التعديل، ارجع إلى الجهة المختصة أو الاستشاري المسؤول قبل هدم جدار أو تغيير واجهة أو بدء الحفر. لا تعتمد على استنتاج من صورة خريطة أو على رأي مقاول وحده بشأن متطلبات التراخيص.\n\n## اختبر جودة التواصل قبل التوقيع\n\nأرسل الملخص نفسه إلى شركتين أو ثلاث مؤهلات، ولاحظ كيف يطرح كل طرف أسئلة فنية عن المخططات والمقاسات والجدول الزمني. العرض المهني يوضح ما هو معروف وما يحتاج معاينة، ويذكر الاستثناءات ويحدد نقطة اتصال مسؤولة. اطلب كشفًا مبسطًا بالمواد الأساسية أو بدائلها المقترحة، واسأل عن سياسة تغيير الأسعار عندما يطلب العميل تعديلًا. وإذا قدمت شركة وعودًا بإنهاء كل شيء دون الاطلاع على المستندات أو الموقع، فاعتبر ذلك سببًا للمزيد من التحقق لا دليلًا على المرونة.\n\n## نموذج جاهز لما ترسله\n\nيمكنك تجهيز طلب يتضمن: «الموقع: الهيلي – العين؛ نوع العقار ومساحته التقريبية؛ المطلوب: بناء/تجديد/ملحق؛ حالة المخططات والاعتمادات؛ أهم المقاسات والصور؛ التاريخ المطلوب لبدء التنفيذ؛ المواد أو الجودة المستهدفة؛ وإمكانية الزيارة». وألحق بذلك طلبًا صريحًا لعروض مفصلة توضح البنود والاستثناءات والمدة والدفعات والضمان. بهذه الطريقة يصبح قرارك قائمًا على مقارنة قابلة للتحقق، لا على إعلان «أفضل مقاول» أو ترتيب غير موثق. **الأفضل بالنسبة إلى مشروعك هو الشركة المؤهلة التي تقدم نطاقًا صحيحًا وشفافًا ويمكن متابعتها حتى التسليم.**",
+    "hili_general_contracting_12": "# كيف تقارن عروض أسعار المقاولين في الهيلي دون الوقوع في فخ السعر الأرخص؟\n\nالمقارنة الصحيحة لا تبدأ من آخر سطر في عرض السعر. عندما ترسل مخطط بناء أو طلب تشطيب إلى ثلاث شركات، قد تعود إليك ثلاثة أرقام متباعدة جدًا؛ ولا يعني ذلك أن شركة بالغت وأخرى ستقدم الخدمة نفسها بنصف التكلفة. ربما اختلفت مساحة العمل المحسوبة أو درجة التشطيب أو نوع المواد أو عدد الزيارات أو مسؤولية استخراج الموافقات. لذلك ينبغي أن تتعامل مع كل عرض بوصفه وصفًا لوعد تنفيذي، لا فاتورة شراء منتج موحد.\n\n## وحّد الطلب قبل استلام العروض\n\nابدأ بملف واحد ترسله إلى الشركات جميعًا: عنوان المنطقة، نوع العقار، المخططات أو الصور، المقاسات، أعمال الهدم أو الإصلاح المطلوبة، ودرجة التشطيب المتوقعة. لا تطلب من شركة تسعير بناء ملحق بمواصفات عامة ثم تقارن سعرها بشركة تسلمت مخططًا إنشائيًا مفصلًا. إذا كانت المعلومات ناقصة، اسمح للمتقدمين بمعاينة الموقع وقدم الإجابات نفسها للجميع. ذلك يقلل اختلاف الافتراضات ويجعل المقارنة أكثر عدلًا.\n\n## اصنع جدول مقارنة يمكن قراءته\n\nضع البنود في أعمدة: الوصف، الوحدة، الكمية، المواصفة، السعر، المدة، الضمان، الاستثناءات. في أعمال العزل مثلًا، اطلب نوع النظام وتجهيز السطح والاختبارات المطلوبة؛ وفي الدهانات اسأل عن المعالجة والمعجون والطبقات ونوع المنتج. وفي الأعمال المعدنية يجب ذكر السماكات والإكسسوارات والحماية من الصدأ. لا تحتاج إلى معرفة كل التفاصيل الهندسية بنفسك؛ يمكن للمهندس أو الاستشاري مساعدتك في مراجعة المواصفات. المهم ألا يبقى وصف بند رئيسي على هيئة «شغل كامل» بلا شرح.\n\n## اسأل عن المواد والتغييرات\n\nمن الذي يشتري المواد؟ هل سيعرض المقاول بديلًا إذا انقطع منتج معين؟ هل يستطيع البديل أداء الوظيفة المطلوبة ويوافق عليه من يملك الصلاحية؟ هل يشمل السعر التوصيل والتفريغ والتخزين والرفع؟ قد يقدّم أحدهم سعرًا أقل لأنه يستعمل خامة أقل كفاءة أو يطلب من المالك شراء مستلزمات إضافية. اطلب توثيق أي بديل قبل اعتماده، واحتفظ ببيانات المنتج والمواصفة المتفق عليها لتستخدمها عند الاستلام.\n\n## احسب التكلفة الكلية لا الدفعة الأولى\n\nيمكن أن يكون عقد بقيمة أقل لكنه يحتاج دفعات إضافية متكررة بسبب استثناءات كثيرة، أو يؤخر المشروع فيؤثر على السكن أو التشغيل. راجع مدة التنفيذ وما الذي يبدأ به احتسابها، والمسؤول عن التأخير أو تعطل التوريد، وطريقة اعتماد الأعمال الإضافية. إذا كان السعر مشروطًا بمعاينة لاحقة، اعتبره تقديريًا وحدد تاريخًا للحصول على النسخة النهائية. لا تستنتج سعر متر بناء ثابتًا خاصًا بالهيلي من إعلان واحد؛ فعوامل التصميم والهيكل والتشطيب والموقع والاشتراطات تختلف بين العقارات.\n\n## راجع التوثيق والاعتمادات\n\nتختلف متطلبات ترخيص البناء وتعديل العقارات بحسب نوع المشروع، وتوجد جهات وخدمات رسمية في إمارة أبوظبي، منها منصة بناء والخدمات ذات الصلة عبر تم. لا تفترض أن مشروعك مشمول بإجراء رقمي بعينه بمجرد وجود إعلان عن تحول تقني؛ اسأل المختص أو الجهة الحكومية عن المسار المناسب لحالتك. قبل التعاقد تأكد من أهلية المقاول والمهندس إن لزم، وحالة التصريح، وطريقة متابعة الفحص والاستلام. لا يجوز لأي دليل تجاري أن يحل محل الموافقة الرسمية.\n\n## اطلب توضيحًا كتابيًا قبل اعتماد الفائز\n\nبعد ترتيب العروض، أرسل أسئلة محددة: «هل يشمل العرض كذا؟ ما المدة اللازمة؟ ما الاختبارات التي ستقدم؟ من يتحمل رسوم النقل وإزالة المخلفات؟ هل السعر شامل مستلزمات التركيب؟ ما الذي لا يشمله الضمان؟». وثّق الردود في ملحق العرض، ثم قارن مقدار المخاطرة لا الرقم وحده. العرض الأعلى قليلًا قد يكون أفضل إذا حدد المواد والمدة والمسؤولية بوضوح، كما قد يكون العرض الأقل مناسبًا إذا كان مفصلًا ومؤهلًا وليس ناقصًا.\n\n## ماذا ترسل عبر بيت الريف؟\n\nاكتب طلبًا مختصرًا وواضحًا: «أحتاج عرض سعر لمشروع في الهيلي – العين، نوعه …، المساحة …، المخططات متاحة/قيد الإعداد، وأرفقت صور الموقع. أريد تسعير البنود الرئيسية بصورة منفصلة، مع مواصفات المواد والمدة والاستثناءات وخطة الدفعات والضمان». لا تنشر عنوان المنزل التفصيلي علنًا؛ شاركه بصورة خاصة مع الطرف المختص عند اللزوم. الهدف من الدليل أن تخرج من مرحلة البحث العام إلى مقارنة عروض يمكن الدفاع عنها وفهم آثارها قبل اتخاذ القرار."
+  }
+}

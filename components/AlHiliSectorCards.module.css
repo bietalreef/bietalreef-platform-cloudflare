@@ -1,0 +1,9 @@
+.topics{list-style:decimal;padding-inline-start:1.5rem}
+.topics>li{padding:.4rem .15rem;border-bottom:1px solid #eee7da;line-height:1.7;overflow-wrap:anywhere}
+.topics>li>small{display:inline-block;margin-inline-start:.55rem;color:#596777;font-size:.75rem}
+.article summary{cursor:pointer;font-weight:700;line-height:1.7}
+.article summary span{display:inline-block;margin-inline-start:.5rem;color:#185b87;font-size:.78rem}
+.article summary:focus-visible{outline:3px solid #73a9ca;outline-offset:3px;border-radius:.3rem}
+.article article{padding:.5rem .35rem 1rem;line-height:1.9;font-weight:400}
+.article article h4{margin:1rem 0 .3rem;color:#193b53;font-size:1rem;font-weight:800}
+.article article p{margin:.45rem 0}

@@ -136,7 +136,7 @@ if (!fs.existsSync(searchIndexPath)) {
   if (urls.some((url) => !url.startsWith('https://bietalreef.ae/'))) errors.push('Sitemap contains a URL outside bietalreef.ae.');
   // lastmod is optional; when supplied, it must be an authentic ISO calendar date.
   // Do not force fabricated sitewide update dates just to satisfy the audit.
-  if (entries.some((entry) => !entry.changefreq || !entry.priority || (entry.lastmod != null && (!/^\\d{4}-\\d{2}-\\d{2}$/.test(entry.lastmod) || !Number.isFinite(Date.parse(entry.lastmod)))))) {
+  if (entries.some((entry) => !entry.changefreq || !entry.priority || (entry.lastmod != null && (!/^\d{4}-\d{2}-\d{2}$/.test(entry.lastmod) || !Number.isFinite(Date.parse(entry.lastmod)))))) {
     errors.push('Sitemap entry has missing changefreq/priority or an invalid lastmod date.');
   }
   if (entries.some((entry) => !entry.alternates?.ar || !entry.alternates?.en || !entry.alternates?.default)) errors.push('Bilingual sitemap entry is missing an alternate language URL.');

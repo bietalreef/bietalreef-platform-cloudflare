@@ -15,7 +15,7 @@ function readingHtml(entry,sector,locale,areaSlug){
  const note=sectorGuidance[sector.slug]?.[locale];
  const localNote=localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'';
  const opening=locale==='en'
-   ?`<p>In ${safeText(entry.title.replace(/ —.*$/,''))}, choosing ${safeText(sector.name.en.toLowerCase())} starts with a clear description of the work and its location.</p>`
+   ?`<p>In ${safeText(entry.title.replace(/ 2026$/,''))}, choosing ${safeText(sector.name.en.toLowerCase())} starts with a clear description of the work and its location.</p>`
    :`<p>إذا كنت تبحث عن ${safeText(sector.name.ar)} في هذه المنطقة، فابدأ بوصف العمل المطلوب وموقعه وحالته والمعلومات المتاحة قبل طلب السعر.</p>`;
  return opening+
   `<h3>${locale==='en'?'What to check before requesting a quote':'ما الذي تراجعه قبل طلب عرض السعر؟'}</h3><p>${safeText(note)}</p>`+
@@ -27,8 +27,14 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[]}){
  const en=locale==='en',entry=regionEditorial.areas[areaSlug]?.[locale];
  if(!entry)return null;
  const prefix=en?'/en':'';
+ const crumbs={ '@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[
+   {'@type':'ListItem',position:1,name:en?'United Arab Emirates':'الإمارات العربية المتحدة',item:'https://bietalreef.ae'+prefix+'/uae'},
+   {'@type':'ListItem',position:2,name:en?'Abu Dhabi Emirate':'إمارة أبوظبي',item:'https://bietalreef.ae'+prefix+'/uae/abu-dhabi'},
+   {'@type':'ListItem',position:3,name:entry.title,item:'https://bietalreef.ae'+prefix+'/uae/abu-dhabi/'+areaSlug},
+ ]};
  const root=`${prefix}/uae/abu-dhabi`;
  return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className={styles.wrapper}>
+   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(crumbs)}} />
    <nav aria-label={en?'Breadcrumb':'مسار التصفح'} className={styles.breadcrumb}>
      <Link href={`${prefix}/uae`}>{en?'United Arab Emirates':'الإمارات العربية المتحدة'}</Link>
      <span aria-hidden="true">/</span>
@@ -39,7 +45,7 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[]}){
    <section className={styles.intro} aria-labelledby="area-information-title">
      <div className={styles.eyebrow}>{en?'LOCAL BUSINESS & SERVICES DIRECTORY':'دليل الأعمال والخدمات المحلي'}</div>
      <h2 id="area-information-title">{en?'Choosing the right service or supplier':'كيف تختار الشركة أو الخدمة المناسبة؟'}</h2>
-     <p>{entry.intro}</p><p>{entry.focus}</p>
+     <p>{entry.intro}</p><p>{entry.focus}</p><p className={styles.serviceSummary}>{entry.services}</p>
      <p className={styles.lastReviewed}>{en?'Local editorial reviewed 6 November 2026':'آخر مراجعة تحريرية: 6 نوفمبر 2026'}</p>
    </section>
    <section aria-labelledby="area-sector-title" className={styles.section}>

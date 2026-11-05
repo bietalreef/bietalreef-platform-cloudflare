@@ -1,0 +1,702 @@
+{
+  "scope": "Abu Dhabi Emirate",
+  "lastReviewed": "2026-11-05",
+  "items": {
+    "general-contracting": [
+      {
+        "id": "general-contracting-01",
+        "arTitle": "أفضل شركة مقاولات في إمارة أبوظبي: كيف تختارها؟",
+        "enTitle": "How to choose a construction company in Abu Dhabi Emirate"
+      },
+      {
+        "id": "general-contracting-02",
+        "arTitle": "أرخص شركة مقاولات في أبوظبي: كيف تقارن الأسعار؟",
+        "enTitle": "Comparing competitive construction quotations beyond the cheapest price"
+      },
+      {
+        "id": "general-contracting-03",
+        "arTitle": "كيف تجد مقاول بناء في إمارة أبوظبي؟",
+        "enTitle": "Finding a suitable builder across Abu Dhabi, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "general-contracting-04",
+        "arTitle": "ما شروط اختيار المقاول المناسب لمشروعك؟",
+        "enTitle": "What to verify before appointing a construction contractor"
+      },
+      {
+        "id": "general-contracting-05",
+        "arTitle": "شركات بناء الفلل والمنازل في إمارة أبوظبي",
+        "enTitle": "Villa and residential building contractors in Abu Dhabi Emirate"
+      },
+      {
+        "id": "general-contracting-06",
+        "arTitle": "مقاول عظم أم مقاول تسليم مفتاح؟",
+        "enTitle": "Shell construction versus turnkey delivery: understand the scope"
+      },
+      {
+        "id": "general-contracting-07",
+        "arTitle": "بناء الملاحق والمجالس والاستراحات في أبوظبي",
+        "enTitle": "Villa extensions, majlis buildings and outdoor structures"
+      },
+      {
+        "id": "general-contracting-08",
+        "arTitle": "كم تكلفة بناء فيلا في أبوظبي 2026؟",
+        "enTitle": "What drives the cost of building a villa in Abu Dhabi in 2026?"
+      },
+      {
+        "id": "general-contracting-09",
+        "arTitle": "سعر متر البناء في أبوظبي وكيف يُحسب",
+        "enTitle": "Understanding construction cost per square metre"
+      },
+      {
+        "id": "general-contracting-10",
+        "arTitle": "تراخيص البناء والمخططات الهندسية في إمارة أبوظبي",
+        "enTitle": "Building permissions and the consultant's drawings"
+      },
+      {
+        "id": "general-contracting-11",
+        "arTitle": "الفرق بين المقاول العام والمقاول الباطن والاستشاري",
+        "enTitle": "Principal contractors, subcontractors and engineering consultants"
+      },
+      {
+        "id": "general-contracting-12",
+        "arTitle": "كيف تقارن عروض أسعار المقاولين؟",
+        "enTitle": "Comparing construction tenders on the same scope"
+      },
+      {
+        "id": "general-contracting-13",
+        "arTitle": "عقود المقاولات والدفعات والضمانات",
+        "enTitle": "Construction contracts, staged payments and warranty commitments"
+      },
+      {
+        "id": "general-contracting-14",
+        "arTitle": "مراحل تنفيذ مشروع البناء حتى التسليم",
+        "enTitle": "From site preparation through inspection and handover"
+      },
+      {
+        "id": "general-contracting-15",
+        "arTitle": "كيف تتجنب أخطاء البناء والخلافات مع المقاول؟",
+        "enTitle": "Preventing defects, delays and contractor disputes"
+      },
+      {
+        "id": "general-contracting-16",
+        "arTitle": "شركات المقاولات حسب مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Construction companies serving Abu Dhabi City, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "general-contracting-17",
+        "arTitle": "كيف تطلب عرض سعر مقاولات في إمارة أبوظبي؟",
+        "enTitle": "Preparing an effective construction quotation request"
+      }
+    ],
+    "interior-design": [
+      {
+        "id": "interior-design-01",
+        "arTitle": "أفضل مكتب استشارات هندسية في إمارة أبوظبي: كيف تختاره؟",
+        "enTitle": "Choosing the right engineering consultancy in Abu Dhabi Emirate"
+      },
+      {
+        "id": "interior-design-02",
+        "arTitle": "كيف تجد مكتبًا هندسيًا مرخصًا ومناسبًا لمشروعك؟",
+        "enTitle": "Finding a properly qualified design practice for your project"
+      },
+      {
+        "id": "interior-design-03",
+        "arTitle": "تصميم الفلل والمنازل في أبوظبي: من الفكرة إلى المخططات التنفيذية",
+        "enTitle": "Villa design from initial brief to coordinated construction drawings"
+      },
+      {
+        "id": "interior-design-04",
+        "arTitle": "كم تكلفة تصميم فيلا في أبوظبي 2026؟",
+        "enTitle": "What affects villa design fees in Abu Dhabi in 2026?"
+      },
+      {
+        "id": "interior-design-05",
+        "arTitle": "أفضل شركات التصميم الداخلي والديكور: كيف تقارن؟",
+        "enTitle": "How to compare interior design and décor studios"
+      },
+      {
+        "id": "interior-design-06",
+        "arTitle": "تصميم المجالس العربية في أبوظبي والعين والظفرة",
+        "enTitle": "Designing a functional traditional majlis across the emirate"
+      },
+      {
+        "id": "interior-design-07",
+        "arTitle": "تصميم المطابخ والخزائن وغرف الملابس حسب المقاس",
+        "enTitle": "Bespoke kitchens, wardrobes and dressing rooms"
+      },
+      {
+        "id": "interior-design-08",
+        "arTitle": "التصميم الخارجي وواجهات الفلل والمداخل والأسوار",
+        "enTitle": "Exterior design, villa façades, entrances and boundary walls"
+      },
+      {
+        "id": "interior-design-09",
+        "arTitle": "ما الفرق بين المهندس المعماري والاستشاري الإنشائي ومصمم الديكور؟",
+        "enTitle": "Architect, structural engineer and interior designer: different roles"
+      },
+      {
+        "id": "interior-design-10",
+        "arTitle": "التصميم ثنائي وثلاثي الأبعاد وBIM: متى تحتاجها؟",
+        "enTitle": "When 2D, 3D visualisation and BIM add real value"
+      },
+      {
+        "id": "interior-design-11",
+        "arTitle": "المخططات المعمارية والإنشائية والكهربائية والميكانيكية",
+        "enTitle": "Coordinating architectural, structural, electrical and mechanical drawings"
+      },
+      {
+        "id": "interior-design-12",
+        "arTitle": "متطلبات اعتماد المخططات الهندسية في إمارة أبوظبي",
+        "enTitle": "Engineering drawing approvals and project submission requirements"
+      },
+      {
+        "id": "interior-design-13",
+        "arTitle": "كيف تختار مكتب الإشراف الهندسي لمشروعك؟",
+        "enTitle": "Choosing the supervising engineering consultant"
+      },
+      {
+        "id": "interior-design-14",
+        "arTitle": "تجديد الفلل وإعادة توزيع المساحات دون الإضرار بالمبنى",
+        "enTitle": "Renovating a villa and replanning interior spaces safely"
+      },
+      {
+        "id": "interior-design-15",
+        "arTitle": "كيف تقارن عروض أسعار التصميم الهندسي والداخلي؟",
+        "enTitle": "Comparing engineering and interior design proposals"
+      },
+      {
+        "id": "interior-design-16",
+        "arTitle": "المكاتب الهندسية وشركات التصميم حسب مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Finding designers serving Abu Dhabi City, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "interior-design-17",
+        "arTitle": "كيف تجهز طلب عرض سعر للتصميم والاستشارات الهندسية؟",
+        "enTitle": "Preparing a design or engineering consultation brief"
+      }
+    ],
+    "general-maintenance": [
+      {
+        "id": "general-maintenance-01",
+        "arTitle": "أفضل شركة صيانة منازل وفلل في إمارة أبوظبي: كيف تختارها؟",
+        "enTitle": "Choosing a home and villa maintenance company in Abu Dhabi Emirate"
+      },
+      {
+        "id": "general-maintenance-02",
+        "arTitle": "أرخص شركة صيانة في أبوظبي: كيف تقارن الإصلاح والجودة؟",
+        "enTitle": "How to compare low-cost repairs against long-term reliability"
+      },
+      {
+        "id": "general-maintenance-03",
+        "arTitle": "كيف تجد فنيًا أو شركة صيانة مناسبة في أبوظبي؟",
+        "enTitle": "Finding the right technician or maintenance provider"
+      },
+      {
+        "id": "general-maintenance-04",
+        "arTitle": "كشف تسربات المياه: الأسباب والفحص والإصلاح",
+        "enTitle": "Water leak investigations, root causes and proper repairs"
+      },
+      {
+        "id": "general-maintenance-05",
+        "arTitle": "صيانة الكهرباء في المنازل والمباني وإجراءات السلامة",
+        "enTitle": "Domestic electrical faults, testing and electrical safety"
+      },
+      {
+        "id": "general-maintenance-06",
+        "arTitle": "صيانة التكييف المركزي والسبليت وأسباب ضعف التبريد",
+        "enTitle": "Central and split air-conditioning maintenance"
+      },
+      {
+        "id": "general-maintenance-07",
+        "arTitle": "السباكة والصرف والخزانات والتمديدات",
+        "enTitle": "Plumbing, drainage, water tanks and pipework"
+      },
+      {
+        "id": "general-maintenance-08",
+        "arTitle": "معالجة الرطوبة والتشققات وتقشر الدهانات",
+        "enTitle": "Moisture damage, cracking and peeling paint"
+      },
+      {
+        "id": "general-maintenance-09",
+        "arTitle": "عزل الأسطح والحمامات والخزانات: اختيار النظام المناسب",
+        "enTitle": "Waterproofing roofs, bathrooms and tanks"
+      },
+      {
+        "id": "general-maintenance-10",
+        "arTitle": "شركات الدهانات وصبغ الفلل والمجالس في أبوظبي",
+        "enTitle": "Villa painting and decorative finishing services"
+      },
+      {
+        "id": "general-maintenance-11",
+        "arTitle": "تجديد وتشطيب المنازل القديمة والفلل المستعملة",
+        "enTitle": "Renovating older homes and occupied villas"
+      },
+      {
+        "id": "general-maintenance-12",
+        "arTitle": "تشطيب الحمامات والمطابخ والأرضيات والأسقف والجبس",
+        "enTitle": "Bathrooms, kitchens, flooring, ceilings and gypsum finishing"
+      },
+      {
+        "id": "general-maintenance-13",
+        "arTitle": "الصيانة الدورية للمنازل والفلل: ماذا تفحص ومتى؟",
+        "enTitle": "A preventive maintenance checklist for residential properties"
+      },
+      {
+        "id": "general-maintenance-14",
+        "arTitle": "كم تكلفة صيانة وتجديد فيلا بأبوظبي 2026؟",
+        "enTitle": "What determines villa maintenance and renovation costs in 2026?"
+      },
+      {
+        "id": "general-maintenance-15",
+        "arTitle": "عقود الصيانة والضمان وقطع الغيار",
+        "enTitle": "Maintenance agreements, spare parts and workmanship warranties"
+      },
+      {
+        "id": "general-maintenance-16",
+        "arTitle": "شركات الصيانة والتشطيبات حسب مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Finding maintenance providers across Abu Dhabi City, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "general-maintenance-17",
+        "arTitle": "كيف تطلب عرض سعر صيانة أو تشطيبات واضحًا؟",
+        "enTitle": "Writing a clear maintenance or finishing quotation request"
+      }
+    ],
+    "building-materials": [
+      {
+        "id": "building-materials-01",
+        "arTitle": "أفضل محلات مواد البناء في إمارة أبوظبي: كيف تختار المورد؟",
+        "enTitle": "Choosing reliable building material suppliers in Abu Dhabi Emirate"
+      },
+      {
+        "id": "building-materials-02",
+        "arTitle": "أرخص مواد بناء في أبوظبي: كيف تقارن الأسعار والمواصفات؟",
+        "enTitle": "Comparing low prices without compromising material specifications"
+      },
+      {
+        "id": "building-materials-03",
+        "arTitle": "أين تجد محلات وموردي مواد البناء في إمارة أبوظبي؟",
+        "enTitle": "Where to find building merchants and project suppliers"
+      },
+      {
+        "id": "building-materials-04",
+        "arTitle": "أسعار الحديد والأسمنت والخرسانة والطابوق في أبوظبي 2026",
+        "enTitle": "What shapes steel, cement, concrete and block prices in 2026?"
+      },
+      {
+        "id": "building-materials-05",
+        "arTitle": "كيف تختار مواد بناء الفلل والملاحق؟",
+        "enTitle": "Choosing materials for villas, extensions and external structures"
+      },
+      {
+        "id": "building-materials-06",
+        "arTitle": "محلات السيراميك والبورسلان والرخام والجرانيت",
+        "enTitle": "Ceramic, porcelain, marble and granite merchants"
+      },
+      {
+        "id": "building-materials-07",
+        "arTitle": "مواد العزل المائي والحراري: الأنواع والاستخدامات",
+        "enTitle": "Waterproofing and thermal insulation materials"
+      },
+      {
+        "id": "building-materials-08",
+        "arTitle": "محلات الأدوات الصحية والسباكة ومستلزمات الحمامات",
+        "enTitle": "Sanitaryware, plumbing fittings and bathroom supplies"
+      },
+      {
+        "id": "building-materials-09",
+        "arTitle": "محلات الكهرباء والإنارة والأسلاك والقواطع",
+        "enTitle": "Electrical merchants, lighting, cable and protection devices"
+      },
+      {
+        "id": "building-materials-10",
+        "arTitle": "محلات الدهانات والمعجون والجبس ومواد التشطيب",
+        "enTitle": "Paints, fillers, plasterboard and finishing consumables"
+      },
+      {
+        "id": "building-materials-11",
+        "arTitle": "المواد المعتمدة وشهادات المطابقة والمواصفات الفنية",
+        "enTitle": "Material standards, approvals and product conformity records"
+      },
+      {
+        "id": "building-materials-12",
+        "arTitle": "كيف تحسب الكميات وتقرأ جدول الكميات BOQ؟",
+        "enTitle": "Estimating quantities and interpreting a bill of quantities"
+      },
+      {
+        "id": "building-materials-13",
+        "arTitle": "شراء مواد البناء بالجملة أم بالتجزئة؟",
+        "enTitle": "Buying project materials wholesale or in smaller quantities"
+      },
+      {
+        "id": "building-materials-14",
+        "arTitle": "مقارنة عروض موردي مواد البناء وشروط التوصيل والضمان",
+        "enTitle": "Comparing supplier prices, logistics and warranty terms"
+      },
+      {
+        "id": "building-materials-15",
+        "arTitle": "توريد مواد البناء إلى مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Delivering materials across Abu Dhabi City, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "building-materials-16",
+        "arTitle": "كيف تتجنب المواد غير المطابقة والهدر وتأخير التوريد؟",
+        "enTitle": "Avoiding unsuitable products, waste and delivery delays"
+      },
+      {
+        "id": "building-materials-17",
+        "arTitle": "كيف تجهز طلب عرض سعر مواد بناء وتوريد؟",
+        "enTitle": "Writing a precise materials and supply quotation request"
+      }
+    ],
+    "aluminium-glass": [
+      {
+        "id": "aluminium-glass-01",
+        "arTitle": "أفضل ورش الحديد والألمنيوم والزجاج والأخشاب في إمارة أبوظبي",
+        "enTitle": "Choosing metalwork, glazing, aluminium and joinery workshops"
+      },
+      {
+        "id": "aluminium-glass-02",
+        "arTitle": "أرخص ورشة تصنيع: كيف تقارن الخامات والجودة والسعر؟",
+        "enTitle": "Comparing fabrication quotes and material quality"
+      },
+      {
+        "id": "aluminium-glass-03",
+        "arTitle": "كيف تجد ورشة أبواب ونوافذ ونجارة مناسبة لمشروعك؟",
+        "enTitle": "Finding a specialist door, window or joinery workshop"
+      },
+      {
+        "id": "aluminium-glass-04",
+        "arTitle": "تفصيل أبواب الحديد والبوابات حسب المقاس",
+        "enTitle": "Made-to-measure steel doors, gates and entrance screens"
+      },
+      {
+        "id": "aluminium-glass-05",
+        "arTitle": "تصنيع وتركيب نوافذ وأبواب الألمنيوم",
+        "enTitle": "Manufacturing and fitting aluminium windows and doors"
+      },
+      {
+        "id": "aluminium-glass-06",
+        "arTitle": "اختيار الزجاج المناسب للفلل والواجهات والمجالس",
+        "enTitle": "Choosing glazing types for villas, façades and majlis rooms"
+      },
+      {
+        "id": "aluminium-glass-07",
+        "arTitle": "تصميم وتصنيع المطابخ والخزائن حسب المقاس",
+        "enTitle": "Bespoke kitchens, fitted cabinetry and wardrobes"
+      },
+      {
+        "id": "aluminium-glass-08",
+        "arTitle": "ورش النجارة والأبواب الخشبية والأثاث المخصص",
+        "enTitle": "Carpentry workshops, timber doors and custom furniture"
+      },
+      {
+        "id": "aluminium-glass-09",
+        "arTitle": "مظلات السيارات والهياكل المعدنية والمجالس الخارجية",
+        "enTitle": "Car shades, steel structures and outdoor majlis frames"
+      },
+      {
+        "id": "aluminium-glass-10",
+        "arTitle": "أعمال الدرابزين والسلالم والحواجز المعدنية والزجاجية",
+        "enTitle": "Balustrades, stairs and glass or metal guardrails"
+      },
+      {
+        "id": "aluminium-glass-11",
+        "arTitle": "واجهات الألمنيوم والزجاج للمحلات والمكاتب",
+        "enTitle": "Aluminium and glass shopfronts and office façades"
+      },
+      {
+        "id": "aluminium-glass-12",
+        "arTitle": "كيف تختار الخشب والألمنيوم والحديد والإكسسوارات؟",
+        "enTitle": "Choosing metals, timber, profiles, hardware and finishes"
+      },
+      {
+        "id": "aluminium-glass-13",
+        "arTitle": "القياسات ورسومات التصنيع: كيف تتجنب أخطاء التنفيذ؟",
+        "enTitle": "Site measurements and shop drawings to prevent misfits"
+      },
+      {
+        "id": "aluminium-glass-14",
+        "arTitle": "كم تكلفة تفصيل الأبواب والنوافذ والخزائن في أبوظبي 2026؟",
+        "enTitle": "What affects custom joinery and glazing prices in 2026?"
+      },
+      {
+        "id": "aluminium-glass-15",
+        "arTitle": "الضمان والحماية من الصدأ وفحص جودة التركيب",
+        "enTitle": "Corrosion protection, installation inspection and warranties"
+      },
+      {
+        "id": "aluminium-glass-16",
+        "arTitle": "الورش المتخصصة حسب مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Workshops serving Abu Dhabi City, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "aluminium-glass-17",
+        "arTitle": "كيف تطلب عرض سعر من ورشة تصنيع حسب المقاس؟",
+        "enTitle": "Requesting a fabrication and installation quotation"
+      }
+    ],
+    "furniture-decor": [
+      {
+        "id": "furniture-decor-01",
+        "arTitle": "أفضل محلات الأثاث والمفروشات في إمارة أبوظبي: كيف تختارها؟",
+        "enTitle": "Choosing furniture and furnishing retailers in Abu Dhabi Emirate"
+      },
+      {
+        "id": "furniture-decor-02",
+        "arTitle": "أرخص محلات الأثاث: كيف تقارن السعر والجودة؟",
+        "enTitle": "Comparing affordable furniture for quality and durability"
+      },
+      {
+        "id": "furniture-decor-03",
+        "arTitle": "كيف تختار أثاث المنزل والفيلا للمساحة والميزانية؟",
+        "enTitle": "Selecting villa and home furniture for real room dimensions"
+      },
+      {
+        "id": "furniture-decor-04",
+        "arTitle": "تفصيل المجالس العربية والكنب والجلسات حسب المقاس",
+        "enTitle": "Made-to-measure Arabic majlis seating and upholstery"
+      },
+      {
+        "id": "furniture-decor-05",
+        "arTitle": "تأثيث غرف النوم وخزائن الملابس وغرف الأطفال",
+        "enTitle": "Bedrooms, fitted wardrobes and children's furniture"
+      },
+      {
+        "id": "furniture-decor-06",
+        "arTitle": "تصميم وتأثيث غرف المعيشة وصالات الاستقبال",
+        "enTitle": "Living rooms and reception spaces designed for daily use"
+      },
+      {
+        "id": "furniture-decor-07",
+        "arTitle": "الأقمشة والإسفنج والحشوات للمجالس والكنب",
+        "enTitle": "Choosing upholstery fabric, foam and seating construction"
+      },
+      {
+        "id": "furniture-decor-08",
+        "arTitle": "الستائر والتنجيد والسجاد والمفروشات المنزلية",
+        "enTitle": "Curtains, carpets, reupholstery and soft furnishings"
+      },
+      {
+        "id": "furniture-decor-09",
+        "arTitle": "الأثاث الجاهز أم المفصل: أيهما يناسب منزلك؟",
+        "enTitle": "Ready-made furniture versus bespoke fabrication"
+      },
+      {
+        "id": "furniture-decor-10",
+        "arTitle": "تأثيث الفلل الجديدة قبل السكن",
+        "enTitle": "Planning furniture and appliances before moving into a villa"
+      },
+      {
+        "id": "furniture-decor-11",
+        "arTitle": "تجهيز المكاتب والمحلات والاستراحات التجارية",
+        "enTitle": "Furniture and fit-out for offices, shops and retreats"
+      },
+      {
+        "id": "furniture-decor-12",
+        "arTitle": "اختيار الألوان والخامات والإضاءة المتناسقة",
+        "enTitle": "Coordinating palettes, materials, lighting and décor"
+      },
+      {
+        "id": "furniture-decor-13",
+        "arTitle": "قياسات الأثاث والممرات والأبواب قبل الشراء",
+        "enTitle": "Checking access dimensions and circulation before ordering"
+      },
+      {
+        "id": "furniture-decor-14",
+        "arTitle": "كم تكلفة تأثيث فيلا أو مجلس في أبوظبي 2026؟",
+        "enTitle": "What affects the cost of furnishing a villa or majlis in 2026?"
+      },
+      {
+        "id": "furniture-decor-15",
+        "arTitle": "مقارنة عروض الأثاث والتوصيل والتركيب والضمان",
+        "enTitle": "Comparing furniture quotes, delivery, fitting and aftercare"
+      },
+      {
+        "id": "furniture-decor-16",
+        "arTitle": "محلات الأثاث والورش حسب مدينة أبوظبي والعين والظفرة",
+        "enTitle": "Furniture shops and workshops across the three emirate regions"
+      },
+      {
+        "id": "furniture-decor-17",
+        "arTitle": "كيف تجهز طلب عرض سعر لتأثيث منزل أو مجلس؟",
+        "enTitle": "Preparing an accurate home or majlis furnishing enquiry"
+      }
+    ],
+    "equipment-rental": [
+      {
+        "id": "equipment-rental-01",
+        "arTitle": "أفضل المصانع وموردي المعدات في إمارة أبوظبي: كيف تختار؟",
+        "enTitle": "Choosing factories and construction equipment providers"
+      },
+      {
+        "id": "equipment-rental-02",
+        "arTitle": "أرخص معدات إيجار في أبوظبي: كيف تقارن السعر والتشغيل؟",
+        "enTitle": "Comparing low equipment rental rates with total operating cost"
+      },
+      {
+        "id": "equipment-rental-03",
+        "arTitle": "كيف تجد مصنعًا أو مورد معدات لمشروعك؟",
+        "enTitle": "Finding factories and project equipment suppliers"
+      },
+      {
+        "id": "equipment-rental-04",
+        "arTitle": "أنواع المعدات المستخدمة في البناء والصيانة",
+        "enTitle": "Common construction and maintenance equipment categories"
+      },
+      {
+        "id": "equipment-rental-05",
+        "arTitle": "تأجير الحفارات والرافعات والشيولات ومعدات الحفر",
+        "enTitle": "Excavators, cranes, loaders and earthmoving equipment"
+      },
+      {
+        "id": "equipment-rental-06",
+        "arTitle": "تأجير السقالات والمنصات ومعدات العمل على الارتفاعات",
+        "enTitle": "Scaffolding, aerial platforms and work-at-height access"
+      },
+      {
+        "id": "equipment-rental-07",
+        "arTitle": "تأجير المولدات الكهربائية وضواغط الهواء ومعدات التشغيل",
+        "enTitle": "Generators, compressors and site power equipment"
+      },
+      {
+        "id": "equipment-rental-08",
+        "arTitle": "مصانع الخرسانة والمنتجات الإنشائية ومواد البناء",
+        "enTitle": "Precast concrete, structural products and building factories"
+      },
+      {
+        "id": "equipment-rental-09",
+        "arTitle": "مصانع الحديد والألمنيوم والأخشاب للمنتجات المخصصة",
+        "enTitle": "Metal, aluminium and wood fabrication factories"
+      },
+      {
+        "id": "equipment-rental-10",
+        "arTitle": "التصنيع حسب الطلب: الرسومات والعينات والمواصفات",
+        "enTitle": "Made-to-order manufacturing drawings and sample approvals"
+      },
+      {
+        "id": "equipment-rental-11",
+        "arTitle": "شراء المعدات أم استئجارها: أيهما أفضل اقتصاديًا؟",
+        "enTitle": "Buying versus hiring project equipment"
+      },
+      {
+        "id": "equipment-rental-12",
+        "arTitle": "كيف تختار المعدات المناسبة لطبيعة موقع المشروع؟",
+        "enTitle": "Matching equipment capability to site conditions"
+      },
+      {
+        "id": "equipment-rental-13",
+        "arTitle": "سلامة المعدات الثقيلة ومسؤوليات التشغيل",
+        "enTitle": "Heavy equipment safety and operational responsibilities"
+      },
+      {
+        "id": "equipment-rental-14",
+        "arTitle": "كم تكلفة تأجير معدات البناء في أبوظبي 2026؟",
+        "enTitle": "What determines construction equipment hire costs in 2026?"
+      },
+      {
+        "id": "equipment-rental-15",
+        "arTitle": "عقود المعدات والنقل والوقود والصيانة والتأمين",
+        "enTitle": "Hire contracts, transport, fuel, service and insurance"
+      },
+      {
+        "id": "equipment-rental-16",
+        "arTitle": "المصانع والموردون وشركات المعدات في أبوظبي والعين والظفرة",
+        "enTitle": "Factories and equipment hire across Abu Dhabi, Al Ain and Al Dhafra"
+      },
+      {
+        "id": "equipment-rental-17",
+        "arTitle": "كيف تجهز طلب عرض سعر تصنيع أو توريد أو تأجير معدات؟",
+        "enTitle": "Preparing a fabrication, supply or rental request"
+      }
+    ],
+    "cleaning-services": [
+      {
+        "id": "cleaning-services-01",
+        "arTitle": "أفضل شركة تنظيف منازل وفلل في إمارة أبوظبي: كيف تختارها؟",
+        "enTitle": "Choosing a villa or home cleaning company in Abu Dhabi Emirate"
+      },
+      {
+        "id": "cleaning-services-02",
+        "arTitle": "أرخص شركة تنظيف: كيف تقارن نطاق الخدمة والسعر؟",
+        "enTitle": "Comparing cleaning quotes by scope rather than a low headline price"
+      },
+      {
+        "id": "cleaning-services-03",
+        "arTitle": "كيف تجد شركة تنظيف عميق بالمعدات في أبوظبي؟",
+        "enTitle": "Finding a professional deep-cleaning team and suitable equipment"
+      },
+      {
+        "id": "cleaning-services-04",
+        "arTitle": "تنظيف الفلل والمنازل قبل السكن وبعد التشطيب",
+        "enTitle": "Pre-move and post-construction villa cleaning"
+      },
+      {
+        "id": "cleaning-services-05",
+        "arTitle": "تنظيف الكنب والمجالس العربية وغسيل المفروشات",
+        "enTitle": "Majlis upholstery, sofas and seating extraction"
+      },
+      {
+        "id": "cleaning-services-06",
+        "arTitle": "تنظيف السجاد والموكيت والمراتب والستائر",
+        "enTitle": "Carpet, mattress, curtain and rug cleaning methods"
+      },
+      {
+        "id": "cleaning-services-07",
+        "arTitle": "التنظيف العميق للمطابخ والحمامات والأرضيات",
+        "enTitle": "Deep cleaning kitchens, bathrooms and hard floors"
+      },
+      {
+        "id": "cleaning-services-08",
+        "arTitle": "تنظيف الرخام والسيراميك والبورسلان وإزالة البقع",
+        "enTitle": "Treating stone, tile and porcelain stains carefully"
+      },
+      {
+        "id": "cleaning-services-09",
+        "arTitle": "غسيل وتنظيف خزانات المياه وتعقيمها",
+        "enTitle": "Water tank cleaning and disinfection services"
+      },
+      {
+        "id": "cleaning-services-10",
+        "arTitle": "تنظيف المسابح ومرافقها والأسطح المحيطة",
+        "enTitle": "Swimming pool cleaning and surrounding facilities"
+      },
+      {
+        "id": "cleaning-services-11",
+        "arTitle": "تنظيف العزب والخيم والمجالس الخارجية والاستراحات",
+        "enTitle": "Cleaning farm outbuildings, tents and outdoor majlis areas"
+      },
+      {
+        "id": "cleaning-services-12",
+        "arTitle": "غسيل مظلات السيارات والأحواش والممرات الخارجية",
+        "enTitle": "Car shade washing, courtyards, paths and external areas"
+      },
+      {
+        "id": "cleaning-services-13",
+        "arTitle": "مكافحة الحشرات والقوارض: متى تحتاج جهة متخصصة؟",
+        "enTitle": "When specialist pest control is needed"
+      },
+      {
+        "id": "cleaning-services-14",
+        "arTitle": "الفرق بين التنظيف والتطهير والتعقيم ومكافحة الحشرات",
+        "enTitle": "Cleaning versus disinfection, sterilisation and pest management"
+      },
+      {
+        "id": "cleaning-services-15",
+        "arTitle": "كم تكلفة تنظيف فيلا أو مجلس في أبوظبي 2026؟",
+        "enTitle": "Understanding villa and majlis cleaning cost drivers in 2026"
+      },
+      {
+        "id": "cleaning-services-16",
+        "arTitle": "شركات التنظيف ومكافحة الحشرات في أبوظبي والعين والظفرة",
+        "enTitle": "Cleaning and pest-control providers across the three regions"
+      },
+      {
+        "id": "cleaning-services-17",
+        "arTitle": "كيف تجهز طلب عرض سعر تنظيف أو مكافحة حشرات؟",
+        "enTitle": "Preparing an accurate cleaning or pest-control request"
+      }
+    ]
+  }
+}

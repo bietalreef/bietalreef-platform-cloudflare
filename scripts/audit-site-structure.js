@@ -134,7 +134,11 @@ if (!fs.existsSync(searchIndexPath)) {
   if (entries.length < 100) errors.push(`Search sitemap contains too few curated URLs: ${entries.length}.`);
   if (duplicates.length) errors.push(`Duplicate sitemap URLs: ${[...new Set(duplicates)].join(', ')}`);
   if (urls.some((url) => !url.startsWith('https://bietalreef.ae/'))) errors.push('Sitemap contains a URL outside bietalreef.ae.');
-  if (entries.some((entry) => !entry.lastmod || !entry.changefreq || !entry.priority)) errors.push('Sitemap entry is missing lastmod, changefreq or priority.');
+  // lastmod is optional; when supplied, it must be an authentic ISO calendar date.
+  // Do not force fabricated sitewide update dates just to satisfy the audit.
+  if (entries.some((entry) => !entry.changefreq || !entry.priority || (entry.lastmod != null && (!/^\\d{4}-\\d{2}-\\d{2}$/.test(entry.lastmod) || !Number.isFinite(Date.parse(entry.lastmod)))))) {
+    errors.push('Sitemap entry has missing changefreq/priority or an invalid lastmod date.');
+  }
   if (entries.some((entry) => !entry.alternates?.ar || !entry.alternates?.en || !entry.alternates?.default)) errors.push('Bilingual sitemap entry is missing an alternate language URL.');
   for (const entry of entries) {
     for (const imageUrl of entry.images || []) {

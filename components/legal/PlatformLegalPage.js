@@ -28,6 +28,7 @@ export default function PlatformLegalPage({
   sections,
   effectiveDate = '13 يوليو 2026',
 }) {
+  const enCanonical = canonical.replace('https://bietalreef.ae/', 'https://bietalreef.ae/en/');
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',

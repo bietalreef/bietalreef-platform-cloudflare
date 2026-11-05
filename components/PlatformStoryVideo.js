@@ -56,7 +56,6 @@ export default function PlatformStoryVideo({ locale = 'ar' }) {
     uploadDate: video.uploadDate,
     duration: video.duration,
     embedUrl,
-    contentUrl: watchUrl,
     inLanguage: video.language,
     publisher: { '@id': 'https://bietalreef.ae/#organization' },
     isFamilyFriendly: true,

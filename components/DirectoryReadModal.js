@@ -63,7 +63,18 @@ export default function DirectoryReadModal({
       <div className={styles.scroll}>
         {image&&<Image src={image} width={1000} height={470} alt={title}
           sizes="(max-width:700px) 100vw, 800px" className={styles.cover} />}
-        <div className={styles.article} dangerouslySetInnerHTML={{__html:html}} />
+        <div className={styles.article} dangerouslySetInnerHTML={{__html:html}}
+          onClick={event=>{
+            const link=event.target.closest?.('a[data-read-target]');
+            if(!link||!event.currentTarget.contains(link))return;
+            const id=link.getAttribute('data-read-target');
+            const heading=Array.from(dialog.current?.querySelectorAll('h3[id]')||[])
+              .find(node=>node.id===id);
+            if(!heading)return;
+            event.preventDefault();
+            heading.scrollIntoView({block:'start',behavior:'instant'});
+            heading.focus({preventScroll:true});
+          }} />
       </div>
       {href&&<footer className={styles.footer}>
         <Link href={href}>{ctaLabel||(en?'Explore this directory':'استكشف الدليل')}</Link>

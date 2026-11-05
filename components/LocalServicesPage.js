@@ -10,7 +10,9 @@ import AlNaeemPresencePage from './provider/AlNaeemPresencePage';
 import PublishedCompanyPresencePage from './provider/PublishedCompanyPresencePage';
 import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import MainSectorCards from './MainSectorCards';
+import AlHiliSectorCards from './AlHiliSectorCards';
 import AlAinContentPage from './AlAinContentPage';
+import districtEditorial from '../data/alAinDistrictEditorial.json';
 import { useEffect, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -63,6 +65,7 @@ function ExistingLocalServicesPage({ model }) {
   const profile = provider => `${en ? '/en' : ''}/providers/${provider.slug}`;
   const button = 'inline-flex min-h-[48px] items-center justify-center rounded-xl border border-[#D8C8AA] bg-white px-4 py-3 font-bold text-[#0F3F1A]';
   const place = area ? `${name(area)} – ${name(city)}` : name(city);
+  const districtIntro = area && !category ? districtEditorial.areas[area.slug] : null;
   const authorityHub = !area && category === CATEGORY.slug && !cityService;
   const marketPrefix = en ? '/en' : '';
   const marketCleaningUrl = `https://app.bietalreef.ae${marketPrefix}/cleaning-services-uae`;
@@ -93,7 +96,12 @@ function ExistingLocalServicesPage({ model }) {
           {!area && !category && <div className="mt-5 grid gap-3 sm:grid-cols-3">{Object.entries(CONTENT).map(([slug, item]) => <Link key={slug} className={button} href={localPath({locale, category: slug})}>{item.name[locale]}</Link>)}</div>}
           {cityService ? <ScrollToSection className={`${button} mt-4`} target="local-providers">{en ? 'View providers and request a quote' : 'عرض الشركات وطلب عرض سعر'}</ScrollToSection> : <Link className={`${button} mt-4`} href={localPath({ locale, area: area?.slug, category: CATEGORY.slug })}>{en ? 'Browse cleaning services' : 'خدمات التنظيف في العين'}</Link>}
         </section>
-        {area && !category && <section><h2 className="mb-2 text-xl font-bold text-[#24354B]">{en?`Explore sectors in ${name(area)}`:`استكشف الأقسام في ${name(area)}`}</h2><p className="mb-4 text-sm leading-7 text-slate-600">{en?'Choose a specialty and confirm the company can serve your location.':'اختر التخصص وتأكد مع الشركة من توفر الخدمة في موقعك.'}</p><MainSectorCards sectionKey="providers" locale={locale} locationRoot={localPath({locale,area:area.slug})} locationMode="al-ain-district"/></section>}
+        {districtIntro && <section className="rounded-2xl border border-[#E6DCC8] bg-white p-5 md:p-7" aria-label={en ? `About ${name(area)}` : `عن ${name(area)}`}>
+          <h2 className="text-xl font-bold text-[#24354B]">{en ? `Planning work in ${name(area)}` : `خطط لعملك في ${name(area)}`}</h2>
+          <p className="mt-3 text-sm leading-8 text-slate-700">{districtIntro[locale]}</p>
+          {districtIntro.reference && <p className="mt-3 text-sm"><a className="font-bold text-[#185b87] underline" href={districtIntro.reference} target="_blank" rel="noopener noreferrer">{en ? 'Read the local heritage reference' : 'المصدر المحلي للتراث'}</a></p>}
+        </section>}
+        {area && !category && <section><h2 className="mb-2 text-xl font-bold text-[#24354B]">{en?`Explore sectors in ${name(area)}`:`استكشف الأقسام في ${name(area)}`}</h2><p className="mb-4 text-sm leading-7 text-slate-600">{en?'Choose a specialty and confirm the company can serve your location.':'اختر التخصص وتأكد مع الشركة من توفر الخدمة في موقعك.'}</p>{area.slug === 'al-hili' ? <AlHiliSectorCards locale={locale}/> : <MainSectorCards sectionKey="providers" locale={locale} locationRoot={localPath({locale,area:area.slug})} locationMode="al-ain-district"/>}</section>}
         {area && !category && (model.directoryRehab || model.directoryKawkab) && <section><h2 className="mb-2 text-xl font-bold text-[#24354B]">{en?'Companies serving Al Ain':'شركات تخدم مدينة العين'}</h2><p className="mb-3 text-sm leading-7 text-slate-600">{en?'Confirm service availability for this district with the company.':'تأكد مع الشركة من توفر الخدمة في منطقتك.'}</p><div className="grid gap-3 md:grid-cols-2">
           {model.directoryRehab && <DirectoryCompanyCard locale={locale} item={{href:`${localPath({locale,area:area.slug})}/${model.directoryRehab.slug}`,name:en?model.directoryRehab.name_en:model.directoryRehab.name_ar,logoImage:model.directoryRehab.image,coverImage:model.directoryRehab.cover,summary:en?'Home, villa and upholstery cleaning with professional equipment.':'تنظيف المنازل والفلل والمفروشات بالمعدات.',verified:model.directoryRehab.verified,phone:model.directoryRehab.phone,whatsapp:model.directoryRehab.whatsapp}}/>}
           {model.directoryKawkab && <DirectoryCompanyCard locale={locale} item={{href:`${localPath({locale,area:area.slug})}/${model.directoryKawkab.slug}`,name:en?model.directoryKawkab.name_en:model.directoryKawkab.name_ar,logoImage:model.directoryKawkab.image,coverImage:model.directoryKawkab.cover,summary:en?'Maintenance, painting and finishing services.':'أعمال الصيانة والدهانات والتشطيبات.',verified:true,phone:model.directoryKawkab.phone,whatsapp:model.directoryKawkab.whatsapp}}/>}

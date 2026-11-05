@@ -40,6 +40,7 @@ test('Discount offers stay in the platform publication channel and carry bilingu
  const loader=read('lib/platformPublishedServiceCards.js');
  const card=read('components/provider/PublishedCompanyPresencePage.js');
  const grid=read('components/PublishedOfferGrid.js');
+ const discoveryCard=read('components/cards/DiscoveryEntityCard.js');
  const directory=read('pages/services.js');
  const enDirectory=read('pages/en/services.js');
  assert.match(loader,/getPlatformChannelOfferCards/);
@@ -47,7 +48,8 @@ test('Discount offers stay in the platform publication channel and carry bilingu
  assert.match(loader,/c\.content\.channel!=='platform'/);
  assert.match(card,/item\.discount_percent===10/);
  assert.match(card,/detail\.linked_service_slug/);
- assert.match(grid,/discountPercent===10/);
+ assert.match(grid,/DiscoveryEntityCard/);
+ assert.match(discoveryCard,/discountPercent===10/);
  assert.match(directory,/PublishedOfferGrid/);
  assert.match(enDirectory,/PublishedOfferGrid/);
 });
@@ -56,7 +58,7 @@ test('Platform image isolation: publication-only cover and original account avat
  const loader=read('lib/publishedCompanyPresence.js');
  const site=read('components/provider/PublishedCompanyPresencePage.js');
  const cards=read('lib/platformPublishedServiceCards.js');
- const offers=read('components/PublishedOfferGrid.js');
+ const offers=read('components/cards/DiscoveryEntityCard.js');
  assert.match(loader,/platformCoverCard/);
  assert.match(loader,/row\.content\?\.media_attribution/);
  assert.match(loader,/profile:platformProfile/);
@@ -64,5 +66,5 @@ test('Platform image isolation: publication-only cover and original account avat
  assert.match(site,/صورة توضيحية/);
  assert.match(site,/image_attribution/);
  assert.match(cards,/imageIllustrative/);
- assert.match(offers,/Illustrative photo/);
+ assert.match(offers,/imageIllustrative/);
 });

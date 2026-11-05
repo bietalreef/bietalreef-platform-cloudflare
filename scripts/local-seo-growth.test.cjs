@@ -5,7 +5,7 @@ const vm = require('node:vm');
 const ts = require('typescript');
 const { CITY, CATEGORY, SERVICE_INTENTS } = require('../data/localServices');
 const { pageModel, localPath, localSitemap, cityServiceGate, localSearchDimensions } = require('../lib/localServices');
-const provider = { id:'471b909d-3481-4df2-a82e-739e786511d3',slug:'alrehab-home-clean', name:{ar:'الرحاب',en:'Alrehab'},published:true,verified:true,visibility:{directory:true},coverage:[{emirate:CITY.emirate,city:CITY.slug,areas:['al-jimi'],approved:true}],services:SERVICE_INTENTS.slice(0,2).map((item,i)=>({id:'real-card-'+i,entityId:'real-taxonomy-'+i,providerServiceId:'real-row-'+i,sourceSlug:item.sourceSlugs[0],slug:item.slug,category:CATEGORY.slug,published:true,provenance:'provider_services',title:item.name,summary:{ar:'وصف منشور',en:'Published description'}}))};
+const provider = { id:'471b909d-3481-4df2-a82e-739e786511d3',slug:'alrehab-home-clean', name:{ar:'الرحاب',en:'Alrehab'},published:true,verified:true,visibility:{directory:true},coverage:[{emirate:CITY.emirate,city:CITY.slug,areas:['al-jimi'],approved:true}],services:SERVICE_INTENTS.slice(0,2).map((item,i)=>({id:'real-card-'+i,entityId:'real-taxonomy-'+i,providerServiceId:'real-row-'+i,sourceSlug:item.sourceSlugs[0],slug:item.slug,category:CATEGORY.slug,published:true,provenance:'platform_content_cards',title:item.name,summary:{ar:'وصف منشور',en:'Published description'}}))};
 test('city service AR/EN: truth gate, unique metadata, entity schema and breadcrumbs',()=>{
  for(const intent of SERVICE_INTENTS.slice(0,2)) for(const locale of ['ar','en']){
   const model=pageModel({locale,category:CATEGORY.slug,service:intent.slug,providers:[provider]});

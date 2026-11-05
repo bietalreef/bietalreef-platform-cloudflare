@@ -7,7 +7,7 @@ import KawkabServiceVisual from './provider/KawkabServiceVisual';
 import {
  KAWKAB_PROFILE, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS,
  KAWKAB_LOGO, KAWKAB_ORIGIN,
- kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaPath
+ kawkabPath, kawkabWhatsapp, kawkabServicePath, kawkabServiceImage, kawkabAreaServicePath
 } from '../lib/kawkabPresence';
 
 import { KAWKAB_SERVICE_DETAILS } from '../data/kawkabServiceDetails';
@@ -36,7 +36,7 @@ export default function KawkabServicePage({locale='ar',serviceId,contextBase='',
  <KawkabServiceVisual serviceId={serviceId} locale={d} className="rounded-xl"/>
  </section>
  <section className="mt-5 hidden md:block"><h2 className="text-2xl font-bold">{en?'What the service involves':'تفاصيل الخدمة وخطوات المعاينة'}</h2><p className="mt-3 max-w-4xl leading-8 text-[#655d52]">{copy.summary}</p><div className="mt-5 grid gap-3 md:grid-cols-4">{copy.steps.map((step,i)=><article className="rounded-xl border bg-white p-4" key={step}><span className="text-xs font-bold text-[#a0824b]">{String(i+1).padStart(2,'0')}</span><h3 className="mt-2 font-semibold">{step}</h3></article>)}</div></section>
- <section className="mt-5 md:mt-9"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Select your district in Al Ain':'اختر منطقتك في العين'}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-3">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={kawkabAreaPath(d,area.slug)} className="rounded-lg border bg-white px-3 py-3 text-center text-xs font-semibold md:text-sm">{area[d]}</Link>)}</div></section>
+ <section className="mt-5 md:mt-9"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Select your district in Al Ain':'اختر منطقتك في العين'}</h2><div className="grid grid-cols-2 gap-2 md:grid-cols-5 md:gap-3">{KAWKAB_AL_AIN_AREAS.map(area=><Link key={area.slug} href={kawkabAreaServicePath(d,area.slug,serviceId)} className="rounded-lg border bg-white px-3 py-3 text-center text-xs font-semibold md:text-sm">{area[d]}</Link>)}</div></section>
  <section id="service-faq" className="mt-6" aria-label={en?'Frequently asked questions':'الأسئلة الشائعة'}>
  <h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Frequently asked questions':'الأسئلة الشائعة عن '+service.ar}</h2>
  <details className="rounded-xl border bg-white p-3 text-sm md:hidden"><summary className="cursor-pointer font-bold">{copy.question}</summary><p className="mt-2 leading-7 text-[#655d52]">{copy.answer}</p></details>

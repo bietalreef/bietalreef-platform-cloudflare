@@ -7,7 +7,9 @@ const AREAS = [
   ['al-towayya', 'الطوية', 'Al Towayya'], ['al-foah', 'الفوعة', 'Al Foah'],
   ['zakher', 'زاخر', 'Zakher'], ['asharej', 'عشارج', 'Asharej'],
   ['al-maqam', 'المقام', 'Al Maqam'], ['falaj-hazza', 'فلج هزاع', 'Falaj Hazza'],
-  ['al-yahar', 'اليحر', 'Al Yahar'], ['al-dhahir', 'الظاهر', 'Al Dhahir'],
+  // Keep the previously approved display name and the existing URL until the
+  // corresponding area record and redirects are migrated together.
+  ['al-yahar', 'العامرة', 'Al Aamerah'], ['al-dhahir', 'الظاهر', 'Al Dhahir'],
   ['sanaiya', 'الصناعية', 'Sanaiya'], ['remah', 'رماح', 'Remah'],
   ['sweihan', 'سويحان', 'Sweihan'], ['mazid', 'مزيد', 'Mazid'],
   ['mazid-company-camp', 'مزيد - معسكر الشركات', 'Mazyad Company Camp'], ['nahil', 'ناهل', 'Nahil'],

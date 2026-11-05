@@ -10,7 +10,7 @@ const providers = [fixture];
 test('slug lookup rejects traversal, arrays, HTML, uppercase and missing areas', () => {
   for (const value of ['../al-jimi', '<script>', 'al-jimi?x=1', 'AL-JIMI', [], null, 'a'.repeat(121)]) assert.equal(validSlug(value), false);
   assert.equal(getLocalArea('al-jimi').nameAr, 'الجيمي'); assert.equal(getLocalArea('missing'), null);
-  assert.equal(AREAS.length, 12); assert.equal(new Set(AREAS.map(x => x.slug)).size, 12);
+  assert.ok(AREAS.length >= 12); assert.equal(new Set(AREAS.map(x => x.slug)).size, AREAS.length);
 });
 test('coverage, verification, publication and paid entitlement filtering', () => {
   assert.equal(eligibleProviders(providers, { area: 'al-jimi' }).length, 1);

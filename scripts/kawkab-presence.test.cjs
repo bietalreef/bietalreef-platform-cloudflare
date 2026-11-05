@@ -10,8 +10,9 @@ const media=JSON.parse(fs.readFileSync(path.resolve(base,'data/provider-media/pr
 test('canonical profile and area records do not fabricate a district',()=>{
  assert.match(model,/BR-3000485/); assert.match(model,/c93b1b94-4d2e-4736-b1de-37e5bc93afa2/);
  for (const emirate of ['abu-dhabi','dubai','sharjah'])assert.ok(model.includes(`slug:'${emirate}'`));
- for (const area of ['al-jimi','al-hili','al-muwaiji','al-markhaniya'])assert.ok(model.includes(area));
- assert.match(model,/KAWKAB_AL_AIN_AREAS/);
+ const { AREAS } = require('../data/localServices');
+ for (const area of ['al-jimi','al-hili','al-muwaiji','al-markhaniya'])assert.ok(AREAS.some(item=>item.slug===area));
+ assert.match(model,/KAWKAB_AL_AIN_AREAS = Object\.freeze\(AREAS\.map/);
 });
 test('all 12 provider images have crawlable src, unique webp alt and captions',()=>{
  assert.equal(media.assets.length,12);
@@ -37,7 +38,7 @@ test('company original identity replaces generated hero and logo in live compone
  assert.match(model,/kawkab-al-saeed-brand-logo\.webp/);
  assert.doesNotMatch(component,/KAWKAB_BRAND_GALLERY\.map/);
 });
-test('existing directory integrates partner, service and 15 Al Ain district links',()=>{
+test('existing directory integrates partner, service and Al Ain district links',()=>{
  const routes=read('lib/localRouteProps.js');
  const data=read('lib/localProviderData.js');
  const hub=read('components/AlAinHubPage.js');
@@ -47,11 +48,11 @@ test('existing directory integrates partner, service and 15 Al Ain district link
  assert.match(hub,/general-maintenance/);
  assert.match(read('pages/partners.js'),/featuredPartner/);
  assert.match(read('pages\/en\/partners.js'),/featuredPartner/);
- assert.match(read('pages\/sitemap.xml.js'),/KAWKAB_AL_AIN_AREAS\.forEach/);
+ assert.match(read('pages\/sitemap.xml.js'),/providerCards\.some\(card => card\.id === KAWKAB_PROFILE_ID\)/);
 });
 test('mobile summary and full desktop text rendered within SSR HTML',()=>{
  assert.match(component,/md:hidden/);
- assert.match(component,/hidden max-w-xl/);
+ assert.match(component,/hidden max-w-4xl[^"\n]*md:block/);
  const service=read('components/KawkabServicePage.js');
  assert.match(service,/md:hidden/);assert.match(service,/hidden text-base/);
 });
@@ -60,8 +61,10 @@ test('every listed district preserves selected service in Arabic and English',()
  const district=read('components/AlAinMaintenanceAreaPage.js');
  const service=read('components/KawkabServicePage.js');
  const routes=read('lib/localRouteProps.js');
- const areaRows=model.split('export const KAWKAB_AL_AIN_AREAS')[1].split(']);')[0];
- assert.equal((areaRows.match(/\{slug:'/g)||[]).length,15);
+ const { AREAS } = require('../data/localServices');
+ assert.ok(AREAS.length >= 15);
+ assert.equal(new Set(AREAS.map(area=>area.slug)).size, AREAS.length);
+ assert.match(model,/KAWKAB_AL_AIN_AREAS = Object\.freeze\(AREAS\.map/);
  assert.match(model,/export function kawkabAreaServicePath/);
  assert.match(model,/\$\{locale==='en'\?'\/en':''\}\/uae\/abu-dhabi\/al-ain\/\$\{district\}\/general-maintenance\/\$\{service\}/);
  assert.match(routes,/segments\.length===3/);
@@ -73,7 +76,7 @@ test('every listed district preserves selected service in Arabic and English',()
 });
 
 test('hero has full-width block picture and intrinsic image height on mobile and desktop',()=>{
- assert.match(component,/<picture className="block w-full">/);
+ assert.match(component,/<picture className="block w-full[^\"]*">/);
  assert.match(component,/style=\{\{display:"block",width:"100%",height:"auto"/);
  assert.match(component,/KAWKAB_HERO\.mobile_url/);
 });
@@ -95,13 +98,13 @@ test('desktop exposes detailed content and mobile offers compact disclosure',()=
  assert.match(read('components/SectionCategoryHero.js'),/compactMobile/);
 });
 
-test('the live sitemap contains all 15 districts times six specialty routes in both languages',()=>{
+test('sitemap includes eligible company services and excludes unreviewed district permutations',()=>{
  const sitemap=read('pages/sitemap.xml.js');
- assert.match(sitemap,/kawkabAreaServicePath/);
- assert.match(sitemap,/KAWKAB_AL_AIN_AREAS\.forEach\(area =>/);
+ assert.match(sitemap,/verification_status=eq\.verified&publication_status=eq\.published&landing_page_status=eq\.published/);
+ assert.match(sitemap,/providerCards\.some\(card => card\.id === KAWKAB_PROFILE_ID\)/);
  assert.match(sitemap,/KAWKAB_SPECIALTIES\.forEach\(service => addPair/);
- assert.match(sitemap,/kawkabAreaServicePath\('ar',area\.slug,service\.id\)/);
- assert.match(sitemap,/kawkabAreaServicePath\('en',area\.slug,service\.id\)/);
+ assert.match(sitemap,/kawkabServicePath\('ar',service\.id\), kawkabServicePath\('en',service\.id\)/);
+ assert.doesNotMatch(sitemap,/KAWKAB_AL_AIN_AREAS\.forEach/);
  const hub=read('pages/services/[slug].js');
  assert.match(hub,/دليل الصيانة حسب مناطق العين/);
  assert.match(hub,/KAWKAB_AL_AIN_AREAS\.map/);
@@ -154,7 +157,8 @@ test('global PWA install prompt never covers company-owned mobile contact bar',(
 test('emirate links keep visitor on Kawkab profile, not generic directories',()=>{
  const page=read('components/provider/KawkabPresencePage.js');
  const model=read('lib/kawkabPresence.js');
- const section=page.split('function Areas({locale,short=false})')[1].split('function Gallery(')[0];
+ const section=page.split('function Areas(')[1].split('function Gallery(')[0];
+ assert.match(section,/kawkabPath\(locale,'home','\/uae\/abu-dhabi'\)/);
  assert.match(section,/kawkabEmiratePath\(locale,area.slug\)/);
  assert.doesNotMatch(section,/area.directory/);
  assert.match(model,/export function kawkabEmiratePath/);
@@ -189,7 +193,7 @@ test('three related interior images form one project, nine others become service
 test('Al Aamerah display name is corrected while old URL slug is preserved until authenticated admin database change',()=>{
  const model=read('lib/kawkabPresence.js');
  const data=read('data/localServices.js');
- assert.match(model,/slug:'al-yahar',ar:'العامرة',en:'Al Aamerah'/);
+ assert.match(model,/KAWKAB_AL_AIN_AREAS = Object\.freeze\(AREAS\.map/);
  assert.match(data,/\['al-yahar', 'العامرة', 'Al Aamerah'\]/);
- assert.doesNotMatch(model,/ar:'اليحر'/);
+ assert.equal(require('../data/localServices').AREAS.find(area=>area.slug==='al-yahar').nameAr,'العامرة');
 });

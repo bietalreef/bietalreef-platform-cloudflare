@@ -88,7 +88,7 @@ export default function MyApp({ Component, pageProps }) {
 
   return (
     <ClientSafetyBoundary>
-      <div className={isAppExperience(currentPath) ? "br-app" : undefined}>{navigating && isAppExperience(currentPath) && <div className="br-route-progress" role="progressbar" aria-label={isEnglishPage ? "Opening page" : "فتح الصفحة"} />}<Component {...pageProps} /></div>
+      <div className={isAppExperience(currentPath) ? `br-app${/^\/(?:en\/)?uae\/?$/.test(currentPath) ? ' br-directory-home' : ''}` : undefined}>{navigating && isAppExperience(currentPath) && <div className="br-route-progress" role="progressbar" aria-label={isEnglishPage ? "Opening page" : "فتح الصفحة"} />}<Component {...pageProps} /></div>
       {!isPreviewSurface && <>
       <BusinessLandingMeta path={metadataPath} />
       {!isCompanyLanding && !isKawkabDistrictLanding && <FloatingWhatsAppSupport locale={isEnglishPage ? 'en' : 'ar'} />}

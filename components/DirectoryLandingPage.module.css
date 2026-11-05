@@ -28,3 +28,13 @@
 .place .cardAction.cardAction,.directoryCardBody .cardAction.cardAction{display:inline-flex;min-height:44px;align-items:center;justify-content:center;gap:7px;margin-top:auto;padding:9px 10px;border:1px solid #185b87;border-radius:10px;background:#185b87;color:#fff;font-size:12px;font-weight:750;line-height:1.3;text-align:center}.place .cardAction.cardAction:hover,.directoryCardBody .cardAction.cardAction:hover{background:#154c70}.cardAction svg{width:15px;height:15px;flex-shrink:0}
 @media(max-width:700px){.place>div{padding:11px;gap:3px}.placeEyebrow{display:none}.place h3{font-size:19px;line-height:1.35}.directoryCardBody h3{font-size:15px;line-height:1.5}.place .cardAction.cardAction,.directoryCardBody .cardAction.cardAction{margin-top:auto;font-size:12px}.placePhoto{aspect-ratio:16/9}}
 @media(max-width:374px){.place h3{font-size:17px}}
+
+/* The UAE home keeps its existing paths and filters, with a compact reading view. */
+.uaeSectorGrid.uaeSectorGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.uaeSectorGrid .sectorImage img{display:block;width:100%;height:100%;object-fit:contain}
+.sectorSummary{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden;margin:.45rem 0 0;color:#596777;font-size:.85rem;line-height:1.8}
+.sectorActions{display:flex;align-items:stretch;flex-wrap:wrap;gap:.45rem;margin-top:auto;padding-top:.8rem}
+.sectorActions>button:first-child{flex:1}
+.directoryCardBody .sectorActions .cardAction.cardAction{flex:1;width:auto;margin:0;min-width:5rem;min-height:42px;padding:.45rem .65rem}
+@media(max-width:1024px){.uaeSectorGrid.uaeSectorGrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.sectorSummary{font-size:.72rem;line-height:1.6;-webkit-line-clamp:3}.sectorActions{gap:.35rem}.directoryCardBody .sectorActions .cardAction.cardAction{font-size:.72rem;min-width:4.4rem;padding:.4rem}.sectorActions>button:first-child{font-size:.72rem;padding:.4rem}}

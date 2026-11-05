@@ -1,6 +1,8 @@
-import { useState } from 'react';
 import Link from 'next/link';
 import styles from './DirectoryKnowledge.module.css';
+import DirectoryReadingDialog from './DirectoryReadingDialog';
+import DirectoryResponsiveImage from './DirectoryResponsiveImage';
+import { UAE_KNOWLEDGE_ASSETS } from '../data/uaeDirectoryVisuals';
 
 // National guidance belongs here; emirate-specific requirements and technical
 // diagnoses belong on their existing local and service pages.
@@ -188,19 +190,22 @@ const topics = [
 ];
 
 function KnowledgeTopic({ topic, locale }) {
-  const [expanded, setExpanded] = useState(false);
   const item = topic[locale];
   const external = item.href.startsWith('https://');
   return <article className={styles.topic}>
-    <h2>{item.title}</h2>
-    <div id={`knowledge-${topic.id}`} className={`${styles.copy} ${expanded ? styles.expanded : ''}`}>
-      {item.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
-    </div>
-    <button type="button" className={styles.more} aria-controls={`knowledge-${topic.id}`} aria-expanded={expanded} onClick={() => setExpanded(!expanded)}>{expanded ? (locale === 'en' ? 'Show less' : 'عرض أقل') : (locale === 'en' ? 'Read more' : 'المزيد')}</button>
-    <div className={styles.actions}>
-      {external ? <a href={item.href}>{item.action}</a> : <Link href={item.href}>{item.action}</Link>}
-      {item.source && <a href={item.source} target="_blank" rel="noopener noreferrer">{item.sourceLabel}</a>}
-      {item.extraSource && <a href={item.extraSource} target="_blank" rel="noopener noreferrer">{item.extraSourceLabel}</a>}
+    <div className={styles.image}><DirectoryResponsiveImage asset={UAE_KNOWLEDGE_ASSETS[topic.id]} locale={locale} kind="knowledge" /></div>
+    <div className={styles.body}>
+      <h3>{item.title}</h3>
+      <p className={styles.summary}>{item.paragraphs[0]}</p>
+      <div className={styles.actions}>
+        <DirectoryReadingDialog title={item.title} locale={locale}>
+          {item.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+          <p>{external ? <a href={item.href}>{item.action}</a> : <Link href={item.href}>{item.action}</Link>}</p>
+          {item.source && <p><a href={item.source} target="_blank" rel="noopener noreferrer">{item.sourceLabel}</a></p>}
+          {item.extraSource && <p><a href={item.extraSource} target="_blank" rel="noopener noreferrer">{item.extraSourceLabel}</a></p>}
+        </DirectoryReadingDialog>
+        {external ? <a href={item.href}>{item.action}</a> : <Link href={item.href}>{item.action}</Link>}
+      </div>
     </div>
   </article>;
 }

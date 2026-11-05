@@ -189,7 +189,6 @@ export default function BusinessLandingMeta({ path }) {
       <title key={`business-title-${language}`}>{meta.title}</title>
       <meta key={`business-description-${language}`} name="description" content={meta.description} />
       <meta key="business-robots" name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-      <link key="business-canonical" rel="canonical" href={canonical} />
       <link key="business-hreflang-ar" rel="alternate" hrefLang="ar-AE" href={arUrl} />
       <link key="business-hreflang-en" rel="alternate" hrefLang="en-AE" href={enUrl} />
       <link key="business-hreflang-default" rel="alternate" hrefLang="x-default" href={arUrl} />

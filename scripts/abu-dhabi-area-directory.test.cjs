@@ -54,19 +54,25 @@ test('Reading dialog remains independent of the card',()=>{
 
 test('Baniyas contracting chapters respect the word-count and source-review thresholds',()=>{
  const index=require('../data/baniyasConstructionIndex.json');
- const files=[require('../data/baniyasConstructionChapters01.json'),require('../data/baniyasConstructionChapters02.json')];
+ const files=[1,2,3,4,5,6].map(n=>require('../data/baniyasConstructionChapters0'+n+'.json'));
  const articles=files.flatMap(file=>file.chapters);
  assert.equal(index.chapters.length,17);
- assert.equal(articles.length,5);
+ assert.equal(articles.length,17);
  const publishedIds=new Set(articles.map(item=>item.id));
  for(const article of articles){
   assert.ok(article.ar.html.replace(/<[^>]+>/g,' ').trim().split(/\s+/).length>=500,article.id+' Arabic');
   assert.ok(article.en.html.replace(/<[^>]+>/g,' ').trim().split(/\s+/).length>=400,article.id+' English');
   assert.ok(index.chapters.some(item=>item.id===article.id&&item.status==='written-pending-editorial-review'));
  }
- for(const file of files){
+ assert.equal(index.chapters.filter(item=>item.status==='written-pending-editorial-review').length,17);
+ assert.equal(index.editorialReviewedArticles,0);
+ assert.equal(index.approvedArticles,0);
+ for(const article of articles){
+  const item=index.chapters.find(row=>row.id===article.id);
+  assert.ok(item?.source,'Missing content provenance '+article.id);
+ }
+ for(const file of files.slice(0,2)){
   assert.equal(file.officialSourcesReviewed,'2026-11-06');
   assert.ok(file.officialReferences.length>=3);
  }
- assert.equal(index.chapters.filter(item=>item.status==='index-only').length,12);
 });

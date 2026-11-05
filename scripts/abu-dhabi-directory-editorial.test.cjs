@@ -49,13 +49,14 @@ test('Abu Dhabi cards keep published-provider data and existing route mapping',(
 });
 test('Reading modal retains SSR text and keyboard focus management',()=>{
  assert.match(modal,/dangerouslySetInnerHTML/);
- assert.match(modal,/hidden=\{!open\}/);
+ assert.match(modal,/node\.showModal\(\)/);
  assert.match(modal,/aria-modal="true"/);
- assert.match(modal,/event\.key==='Escape'/);
+ assert.match(modal,/onCancel=/);
  assert.match(modal,/event\.key!=='Tab'/);
  assert.match(modal,/trigger\.current\?\.focus/);
  assert.match(modal,/document\.body\.style\.overflow/);
  assert.match(css,/@media\(max-width:700px\)/);
  assert.match(css,/max-height:100dvh/);
+ assert.match(css,/::backdrop/);
  assert.match(css,/prefers-reduced-motion:reduce/);
 });

@@ -26,11 +26,11 @@ const cardTypeConfig = {
 
 const isPremium = (item) => item?.premium || item?.id?.includes('al-hoot') || item?.providerName?.includes('الحوت') || item?.supplierName?.includes('الحوت');
 
-function CardShell({ children, href = '#', className = '' }) {
+function CardShell({ children, href = '', className = '' }) {
   const isEnglish = href.startsWith('/en/');
   return (
     <article className={`group relative overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-2xl hover:shadow-[#0F3F1A]/10 ${className}`}>
-      <Link href={href} className="absolute inset-0 z-10" aria-label={isEnglish ? 'Open details' : 'فتح التفاصيل'} />
+      {href && <Link href={href} className="absolute inset-0 z-10" aria-label={isEnglish ? 'Open details' : 'فتح التفاصيل'} />}
       <div className="relative z-20 pointer-events-none">{children}</div>
     </article>
   );
@@ -60,19 +60,19 @@ function TypePill({ type, premium = false }) {
 function ActionRow({ href, whatsapp, primary = 'عرض التفاصيل', secondary = 'واتساب', premium = false }) {
   return (
     <div className="pointer-events-auto mt-5 grid grid-cols-2 gap-2">
-      <Link href={href || '#'} className={`inline-flex min-h-[44px] items-center justify-center gap-2 rounded-2xl px-4 py-3 text-sm font-black transition ${premium ? 'bg-[#D4AF37] text-[#12110B] hover:bg-[#b8922b]' : 'bg-[#0F3F1A] text-white hover:bg-[#143D1F]'}`}>
+      {href && <Link href={href} className={`inline-flex min-h-[44px] items-center justify-center gap-2 rounded-2xl px-4 py-3 text-sm font-black transition ${premium ? 'bg-[#D4AF37] text-[#12110B] hover:bg-[#b8922b]' : 'bg-[#0F3F1A] text-white hover:bg-[#143D1F]'}`}>
         {primary}
         <ArrowLeft className="h-4 w-4" />
-      </Link>
-      <a
-        href={whatsapp || href || '#'}
+      </Link>}
+      {(whatsapp || href) && <a
+        href={whatsapp || href}
         target={whatsapp ? '_blank' : undefined}
         rel={whatsapp ? 'noopener noreferrer' : undefined}
         className={`inline-flex min-h-[44px] items-center justify-center gap-2 rounded-2xl border px-4 py-3 text-sm font-black transition ${premium ? 'border-[#B8922B]/35 bg-white text-[#0F3F1A] hover:bg-[#FFF8E5]' : 'border-[#E6DCC8] bg-[#FDFBF7] text-[#0F3F1A] hover:border-[#0F3F1A]'}`}
       >
         <MessageCircle className="h-4 w-4" />
         {secondary}
-      </a>
+      </a>}
     </div>
   );
 }

@@ -8,7 +8,7 @@ import {
  kawkabProjectPath, kawkabPath, kawkabWhatsapp
 } from '../../lib/kawkabPresence';
 
-export default function KawkabProjectPage({locale='ar'}) {
+export default function KawkabProjectPage({locale='ar',contextBase=''}) {
  const en=locale==='en',project=KAWKAB_PROJECT;
  const name=en?project.name_en:project.name_ar;
  const description=en?project.description_en:project.description_ar;
@@ -35,11 +35,11 @@ export default function KawkabProjectPage({locale='ar'}) {
   <meta property="og:image" content={KAWKAB_ORIGIN+project.images[0].url}/>
   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(schema).replace(/</g,'\\u003c')}}/>
  </Head>
- <Navbar/>
+ <Navbar locale={locale}/>
  <main>
   <nav aria-label="Breadcrumb" className="mx-auto flex max-w-6xl items-center gap-2 px-3 py-4 text-xs text-[#7b6d58] md:px-4">
-   <Link href={kawkabPath(locale)}>{en?'Company profile':'ملف كوكب الصعيد'}</Link><span>/</span>
-   <Link href={kawkabPath(locale,'gallery')}>{en?'Projects and service covers':'المشاريع وأغلفة الخدمات'}</Link><span>/</span>
+   <Link href={kawkabPath(locale,'home',contextBase)}>{en?'Company profile':'ملف كوكب الصعيد'}</Link><span>/</span>
+   <Link href={kawkabPath(locale,'gallery',contextBase)}>{en?'Projects and service covers':'المشاريع وأغلفة الخدمات'}</Link><span>/</span>
    <span className="font-semibold text-[#374152]">{name}</span>
   </nav>
   <div className="mx-auto max-w-6xl px-3 pb-7 md:px-4 md:pb-16">
@@ -63,7 +63,7 @@ export default function KawkabProjectPage({locale='ar'}) {
    </section>
    <div className="mt-5 flex flex-wrap gap-3">
     <a href={kawkabWhatsapp(locale,name)} target="_blank" rel="noopener noreferrer" className="hidden rounded-xl bg-[#263e53] px-6 py-3 text-sm font-bold text-white sm:inline-flex">{en?'Request a similar design quote':'طلب عرض سعر لتصميم مشابه'}</a>
-    <Link href={kawkabPath(locale,'gallery')} className="rounded-xl border border-[#d6c5ad] bg-white px-5 py-3 text-sm font-bold">{en?'Service cover gallery':'العودة إلى أغلفة الخدمات'}</Link>
+    <Link href={kawkabPath(locale,'gallery',contextBase)} className="rounded-xl border border-[#d6c5ad] bg-white px-5 py-3 text-sm font-bold">{en?'Service cover gallery':'العودة إلى أغلفة الخدمات'}</Link>
    </div>
   </div>
  </main>

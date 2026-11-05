@@ -1,3 +1,4 @@
+import ScrollToSection from './ScrollToSection';
 import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from './Navbar';
@@ -209,7 +210,7 @@ export default function PlatformBusinessPage({ slug }) {
                   <Link href={page.ctaHref} className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#0F3F1A] shadow-lg transition hover:-translate-y-0.5">
                     {page.cta}<ArrowLeft className="h-5 w-5" />
                   </Link>
-                  <a href="#details" className="inline-flex items-center justify-center rounded-2xl border border-white/25 bg-white/10 px-7 py-4 font-black text-white hover:bg-white/15">{page.secondary}</a>
+                  <ScrollToSection target="details" className="inline-flex items-center justify-center rounded-2xl border border-white/25 bg-white/10 px-7 py-4 font-black text-white hover:bg-white/15">{page.secondary}</ScrollToSection>
                 </div>
               </div>
             </div>

@@ -1,3 +1,4 @@
+import ScrollToSection from '../../components/ScrollToSection';
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -276,7 +277,7 @@ export default function HowItWorksEnglishPage() {
                 <p className="mt-6 max-w-2xl text-lg leading-8 text-gray-700 md:leading-9">A specialised platform that brings together the UAE Directory, service providers, products, quotation requests, internal tenders and Weyaak in one connected journey.</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
                   <Link href="/en/uae" className="inline-flex items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-7 py-4 font-black text-white shadow-lg transition hover:-translate-y-0.5 hover:bg-[#164E25]">Start with the UAE Directory <ArrowRight className="h-5 w-5" /></Link>
-                  <a href="#journey" className="inline-flex items-center justify-center gap-2 rounded-2xl border border-[#CBAF5A] bg-white/70 px-7 py-4 font-black text-[#0F3F1A] shadow-sm backdrop-blur transition hover:-translate-y-0.5 hover:bg-white">See how the platform works <Sparkles className="h-5 w-5 text-[#A27E18]" /></a>
+                  <ScrollToSection target="journey" className="inline-flex items-center justify-center gap-2 rounded-2xl border border-[#CBAF5A] bg-white/70 px-7 py-4 font-black text-[#0F3F1A] shadow-sm backdrop-blur transition hover:-translate-y-0.5 hover:bg-white">See how the platform works <Sparkles className="h-5 w-5 text-[#A27E18]" /></ScrollToSection>
                 </div>
               </div>
 

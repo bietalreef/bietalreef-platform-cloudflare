@@ -1,3 +1,4 @@
+import ScrollToSection from '../../components/ScrollToSection';
 import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
@@ -41,7 +42,7 @@ export default function ProviderRegisterPage() {
                 <h1 className="mt-6 max-w-4xl text-4xl font-black leading-tight md:text-6xl">اجعل نشاطك حاضرًا حيث يبحث العميل عن الخدمة</h1>
                 <p className="mt-6 max-w-3xl text-base font-semibold leading-9 text-white/88 md:text-xl">بيت الريف لا يضعك في قائمة أسماء فقط؛ بل يبني لك مسارًا رقميًا واضحًا يربط نشاطك بالمكان، التخصص، الطلبات، والظهور داخل منصة موجهة لقطاع البناء والصيانة في الإمارات.</p>
                 <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                  <a href="#provider-request" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#1F170D] shadow-lg shadow-[#D4AF37]/20 transition hover:-translate-y-0.5">اطلب إضافة نشاطك<ArrowLeft className="h-5 w-5" /></a>
+                  <ScrollToSection target="provider-request" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#1F170D] shadow-lg shadow-[#D4AF37]/20 transition hover:-translate-y-0.5">اطلب إضافة نشاطك<ArrowLeft className="h-5 w-5" /></ScrollToSection>
                   <Link href="/contact" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl border border-white/25 bg-white/8 px-7 py-4 text-base font-black text-white transition hover:bg-white/14">تواصل مع الفريق</Link>
                 </div>
               </div>

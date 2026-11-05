@@ -1,3 +1,8 @@
+import { alAinCompanyProps } from '../../../../../lib/alAinCompanyContext';
+import DirectoryContextCompany from '../../../../../components/provider/DirectoryContextCompany';
+import { getCompanyStaticContextProps } from '../../../../../lib/publishedCompanyPresence';
+import RehabPresencePage from '../../../../../components/provider/RehabPresencePage';
+import { getRehabStaticContextProps } from '../../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../../data/alAinHub';
 import { CONTENT } from '../../../../../data/alAinContent';
 import LocalServicesPage from '../../../../../components/LocalServicesPage';
@@ -15,7 +20,9 @@ import { getRehabSiteData } from '../../../../../lib/rehabPresence';
 import UaeDirectorySeo from '../../../../../components/UaeDirectorySeo';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../../data/siteTaxonomy';
 
-export default function EnglishLocalServicePage({ model, emirate, area, service, rehab = null }) {
+export default function EnglishLocalServicePage({ model, emirate, area, service, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
+  if (rehabContext) return <RehabPresencePage data={data} locale="en" route={route} />;
+  if (companyContext) return <DirectoryContextCompany data={data} locale="en" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} unavailable={unavailable} />;
   if (model) return <LocalServicesPage model={model} />;
   const title = `${service.nameEn} in ${area.nameEn}`;
   const faqItems = [
@@ -43,7 +50,11 @@ export default function EnglishLocalServicePage({ model, emirate, area, service,
 }
 
 export async function getStaticProps({ params }) {
+  if (params.emirate === 'abu-dhabi' && params.area === 'alrehab-home-clean') return getRehabStaticContextProps('en', '/uae/abu-dhabi', [params.service]);
+  if (params.emirate === 'abu-dhabi' && params.area === 'cleaning-services' && params.service === 'alrehab-home-clean') return getRehabStaticContextProps('en', '/uae/abu-dhabi/cleaning-services', []);
   if (params.emirate === 'abu-dhabi' && params.area === 'al-ain' && (Boolean(CONTENT[params.service]) || Boolean(findAlAinSector(params.service)) || AREAS.some(area => area.slug === params.service))) return localProps('en', [params.service]);
+  if (params.emirate === 'abu-dhabi' && params.area === 'al-ain') return alAinCompanyProps('en', params.service);
+  if (params.emirate === 'abu-dhabi' && !getArea('abu-dhabi', params.area) && !getServiceCategory(params.area)) return getCompanyStaticContextProps('en', params.area, [params.service]);
   const emirate = getEmirate(params.emirate);
   const area = getArea(params.emirate, params.area);
   const service = getServiceCategory(params.service);

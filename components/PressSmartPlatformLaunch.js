@@ -1,3 +1,4 @@
+import ScrollToSection from './ScrollToSection';
 import Image from 'next/image';
 import Link from 'next/link';
 import {
@@ -252,7 +253,7 @@ export default function PressSmartPlatformLaunch({ locale = 'ar' }) {
 
       <div className="sticky top-0 z-20 hidden border-y border-[#E4D8BF] bg-[#FDFBF7]/95 backdrop-blur lg:block">
         <div className="mx-auto flex max-w-7xl items-center justify-center gap-7 px-5 py-3 text-sm font-black text-[#0F3F1A]">
-          {t.nav.map((label, index) => <a key={label} href={`#${t.ids[index]}`} className="hover:text-[#A67C16]">{label}</a>)}
+          {t.nav.map((label, index) => <ScrollToSection key={label} target={t.ids[index]} className="hover:text-[#A67C16]">{label}</ScrollToSection>)}
         </div>
       </div>
 

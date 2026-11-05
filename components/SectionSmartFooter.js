@@ -15,6 +15,7 @@ import {
   Wrench,
 } from 'lucide-react';
 import { UAE_EMIRATES } from '../data/siteTaxonomy';
+import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 import { getSectionCardHref } from '../lib/sectionCardRoutes';
 
 const WHATSAPP_URL = 'https://wa.me/971564456337';
@@ -37,7 +38,7 @@ const CONFIG = {
       title: 'أكمل رحلتك داخل الشركات والمهنيين',
       description: 'الوصول إلى النشاط والتخصص والإمارة وملف الشركة عبر روابط واضحة متصلة ببيانات المنصة المعتمدة.',
       activitiesTitle: 'أنشطة الشركات والمهنيين',
-      activitiesSubtitle: '7 أنشطة رئيسية من قاعدة بيانات المنصة',
+      activitiesSubtitle: 'الأقسام الثمانية في دليل الشركات',
       journeyTitle: 'مسار الشركة',
       journeySubtitle: 'من تجهيز البيانات إلى نشر الملف',
       ctaTitle: 'جاهز تنشر ملف نشاطك؟',
@@ -49,7 +50,7 @@ const CONFIG = {
       title: 'Continue through Service Providers',
       description: 'Reach the activity, specialty, emirate and provider profile through clear links connected to approved platform data.',
       activitiesTitle: 'Provider activities',
-      activitiesSubtitle: '7 main activities from the platform database',
+      activitiesSubtitle: 'The eight business sectors',
       journeyTitle: 'Provider journey',
       journeySubtitle: 'From business details to profile publication',
       ctaTitle: 'Ready to publish your business profile?',
@@ -58,7 +59,7 @@ const CONFIG = {
     },
     actions: [
       { ar: 'حمّل التطبيق وانضم كشركة متخصصة', en: 'Download the app and join as a provider', hrefAr: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', hrefEn: 'https://play.google.com/store/apps/details?id=ae.bietalreef.app', icon: Building2, descAr: 'ابدأ تجهيز ملف النشاط المعتمد من التطبيق.', descEn: 'Start preparing an approved business profile in the app.' },
-      { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/providers#provider-sectors', hrefEn: '/en/providers#provider-sectors', icon: Users, descAr: 'اختر النشاط ثم افتح التخصص المناسب.', descEn: 'Choose an activity, then open the right specialty.' },
+      { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/providers', hrefEn: '/en/providers', icon: Users, descAr: 'اختر النشاط ثم افتح التخصص المناسب.', descEn: 'Choose an activity, then open the right specialty.' },
       { ar: 'اطلب عرض سعر', en: 'Request a quotation', hrefAr: '/request-quote', hrefEn: '/en/request-quote', icon: FileText, descAr: 'أرسل احتياج المشروع بشكل منظم.', descEn: 'Send the project need in a structured way.' },
       { ar: 'تواصل مع فريق الانضمام', en: 'Talk to onboarding', hrefAr: WHATSAPP_URL, hrefEn: WHATSAPP_URL, icon: MessageCircle, descAr: 'احصل على توجيه مباشر قبل التسجيل.', descEn: 'Get direct guidance before registration.' },
     ],
@@ -78,7 +79,7 @@ const CONFIG = {
       title: 'أكمل رحلتك داخل الخدمات والعروض',
       description: 'انتقل من النشاط والخدمة إلى موقع المشروع وطلب العرض والشركة المناسبة عبر شجرة واحدة واضحة.',
       activitiesTitle: 'أنشطة الخدمات والعروض',
-      activitiesSubtitle: '7 أنشطة رئيسية من قاعدة بيانات المنصة',
+      activitiesSubtitle: 'الأقسام الثمانية للخدمات والعروض',
       journeyTitle: 'مسار طلب الخدمة',
       journeySubtitle: 'من تحديد الاحتياج إلى عرض سعر واضح',
       ctaTitle: 'جاهز تطلب خدمة؟',
@@ -90,7 +91,7 @@ const CONFIG = {
       title: 'Continue through Services & Offers',
       description: 'Move from activity and service to project location, quotation request and the right provider through one clear journey.',
       activitiesTitle: 'Services & Offers activities',
-      activitiesSubtitle: '7 main activities from the platform database',
+      activitiesSubtitle: 'The eight service sectors',
       journeyTitle: 'Service request journey',
       journeySubtitle: 'From defining the need to a clear quotation',
       ctaTitle: 'Ready to request a service?',
@@ -99,12 +100,12 @@ const CONFIG = {
     },
     actions: [
       { ar: 'ابدأ طلب خدمة', en: 'Start a service request', hrefAr: '/request-quote', hrefEn: '/en/request-quote', icon: Search, descAr: 'أرسل الخدمة والموقع والتفاصيل.', descEn: 'Send the service, location and details.' },
-      { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/services#services-list', hrefEn: '/en/services#services-list', icon: Wrench, descAr: 'افتح النشاط ثم الخدمة المناسبة.', descEn: 'Open the activity, then the right service.' },
+      { ar: 'تصفح الأنشطة الرئيسية', en: 'Browse main activities', hrefAr: '/services', hrefEn: '/en/services', icon: Wrench, descAr: 'افتح النشاط ثم الخدمة المناسبة.', descEn: 'Open the activity, then the right service.' },
       { ar: 'تصفح الشركات والمهنيين', en: 'Browse service providers', hrefAr: '/providers', hrefEn: '/en/providers', icon: Users, descAr: 'انتقل إلى ملفات الشركات.', descEn: 'Move to published provider profiles.' },
       { ar: 'تحدث مع فريق بيت الريف', en: 'Talk to Biet Al Reef', hrefAr: WHATSAPP_URL, hrefEn: WHATSAPP_URL, icon: MessageCircle, descAr: 'اطلب مساعدة مباشرة في تحديد المسار.', descEn: 'Ask for direct help choosing the right path.' },
     ],
     journey: [
-      { ar: 'حدد نوع الخدمة', en: 'Define the service type', hrefAr: '/services#services-list', hrefEn: '/en/services#services-list' },
+      { ar: 'حدد نوع الخدمة', en: 'Define the service type', hrefAr: '/services', hrefEn: '/en/services' },
       { ar: 'أضف الموقع والمقاسات والصور', en: 'Add location, measurements and photos', hrefAr: '/request-quote', hrefEn: '/en/request-quote' },
       { ar: 'اطلب عرض سعر واضح', en: 'Request a clear quotation', hrefAr: '/request-quote', hrefEn: '/en/request-quote' },
       { ar: 'تابع مع جهة مناسب', en: 'Continue with a suitable provider', hrefAr: '/providers', hrefEn: '/en/providers' },
@@ -223,6 +224,13 @@ function LinkList({ items, locale }) {
 }
 
 function getActivityLinks(directoryCards, sectionKey, locale) {
+  if (sectionKey === 'providers' || sectionKey === 'services_offers') {
+    const root = sectionKey === 'providers' ? '/providers' : '/services';
+    return UAE_MAIN_SECTORS.map(sector => ({
+      label: sector.name[locale],
+      href: `${locale === 'en' ? '/en' : ''}${root}#sector-${sector.slug}`,
+    }));
+  }
   const databaseCards = directoryCards
     .filter((card) => card.sectionKey === sectionKey)
     .sort((left, right) => left.displayOrder - right.displayOrder)

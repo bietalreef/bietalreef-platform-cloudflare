@@ -1,3 +1,4 @@
+import ScrollToSection from '../../../components/ScrollToSection';
 import Head from 'next/head';
 import Link from 'next/link';
 import EnglishLayout from '../../../components/EnglishLayout';
@@ -38,7 +39,7 @@ export default function EnglishProviderRegisterPage() {
               <h1 className="mt-6 max-w-4xl text-4xl font-black leading-tight md:text-6xl">Make your business visible where clients search for services</h1>
               <p className="mt-6 max-w-3xl text-base font-semibold leading-9 text-white/88 md:text-xl">Biet Al Reef is not just a name listing. It builds a structured digital path that connects your business with location, specialty, requests and a platform focused on construction and maintenance in the UAE.</p>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                <a href="#provider-request" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#1F170D] shadow-lg shadow-[#D4AF37]/20 transition hover:-translate-y-0.5">Request your business profile<ArrowLeft className="h-5 w-5" /></a>
+                <ScrollToSection target="provider-request" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl bg-[#D4AF37] px-7 py-4 text-base font-black text-[#1F170D] shadow-lg shadow-[#D4AF37]/20 transition hover:-translate-y-0.5">Request your business profile<ArrowLeft className="h-5 w-5" /></ScrollToSection>
                 <Link href="/en/contact" className="inline-flex min-h-[52px] items-center justify-center gap-2 rounded-2xl border border-white/25 bg-white/8 px-7 py-4 text-base font-black text-white transition hover:bg-white/14">Contact the team</Link>
               </div>
             </div>

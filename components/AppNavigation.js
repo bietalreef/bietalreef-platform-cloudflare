@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { House, MapPin, Building2, Wrench, Store, Search, ArrowRight, ArrowLeft, Download, X, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -6,14 +6,25 @@ import { SERVICE_CATEGORIES } from '../data/siteTaxonomy';
 import BusinessCategoryIcon from './BusinessCategoryIcon';
 import { isAppExperience } from '../lib/appExperience';
 import { MARKET_URL } from '../lib/platformUrls';
+import { parentNavigationPath } from '../lib/navigation';
+
+let lastAppPath = '';
+let hasAppHistory = false;
 
 export default function AppNavigation({ locale = 'ar' }) {
   const router = useRouter();
   const en = locale === 'en', prefix = en ? '/en' : '';
   const dialog = useRef(null), trigger = useRef(null);
   const [query, setQuery] = useState('');
-  if (!isAppExperience(router.asPath)) return null;
   const path = (router.asPath || '/').split(/[?#]/)[0];
+  useEffect(() => {
+    if (lastAppPath && lastAppPath !== path) hasAppHistory = true;
+    if (!lastAppPath && document.referrer) {
+      try { const previous = new URL(document.referrer); hasAppHistory = previous.origin === window.location.origin && previous.pathname !== path; } catch {}
+    }
+    lastAppPath = path;
+  }, [path]);
+  if (!isAppExperience(router.asPath)) return null;
   const Back = en ? ArrowLeft : ArrowRight, Next = en ? ChevronRight : ChevronLeft;
   const links = [
     [House, prefix || '/', en ? 'Discover' : 'اكتشف'],
@@ -25,8 +36,8 @@ export default function AppNavigation({ locale = 'ar' }) {
   const results = SERVICE_CATEGORIES.filter(item => !query.trim() || `${item.nameAr} ${item.nameEn}`.toLowerCase().includes(query.trim().toLowerCase()));
   const close = () => { dialog.current?.close(); trigger.current?.focus(); };
   const back = () => {
-    if (window.history.state?.idx > 0) router.back();
-    else void router.push(prefix || '/');
+    if (hasAppHistory && window.history.length > 1) router.back();
+    else void router.push(parentNavigationPath(path));
   };
   return <>
     <div className="br-app-tools-spacer" aria-hidden="true"/>

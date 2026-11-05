@@ -1,6 +1,15 @@
+import ScrollToSection from './ScrollToSection';
 import AlAinHubPage from './AlAinHubPage';
 import AlAinMaintenanceAreaPage from './AlAinMaintenanceAreaPage';
 import AlAinCleaningPage from './AlAinCleaningPage';
+import AlAinDistrictCleaningPage from './AlAinDistrictCleaningPage';
+import RehabPresencePage from './provider/RehabPresencePage';
+import KawkabPresencePage from './provider/KawkabPresencePage';
+import KawkabServicePage from './KawkabServicePage';
+import AlNaeemPresencePage from './provider/AlNaeemPresencePage';
+import PublishedCompanyPresencePage from './provider/PublishedCompanyPresencePage';
+import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
+import MainSectorCards from './MainSectorCards';
 import AlAinContentPage from './AlAinContentPage';
 import { useEffect, useRef } from 'react';
 import Link from 'next/link';
@@ -15,6 +24,14 @@ import { CONSENT_EVENT, analyticsConsent } from './PrivacyConsentCenter';
 import { trackPublicEvent } from '../lib/publicAnalytics';
 
 export default function LocalServicesPage({ model }) {
+  if (model.cityCompany === 'rehab') return <RehabPresencePage data={model.data} locale={model.locale} />;
+  if (model.cityCompany === 'kawkab') return <KawkabPresencePage locale={model.locale} />;
+  if (model.cityCompany === 'naeem') return <AlNaeemPresencePage data={model.data} locale={model.locale} />;
+  if (model.cityCompany === 'published') return <PublishedCompanyPresencePage data={model.data} locale={model.locale} />;
+  if (model.districtKawkabCompany) return <KawkabPresencePage locale={model.locale} />;
+  if (model.districtKawkabService) return <KawkabServicePage locale={model.locale} serviceId={model.service} districtArea={model.area} />;
+  if (model.districtCompany) return <RehabPresencePage data={model.data} locale={model.locale} route={model.route} />;
+  if (model.districtCleaning) return <AlAinDistrictCleaningPage model={model} />;
   if (model.maintenanceArea) return <AlAinMaintenanceAreaPage model={model} />;
   if (model.cityHub) return <AlAinHubPage model={model} />;
   if (model.cleaningGuide) return <AlAinCleaningPage model={model} />;
@@ -57,7 +74,7 @@ function ExistingLocalServicesPage({ model }) {
     [en ? 'How do I request it?' : 'كيف أطلب الخدمة؟', en ? 'Choose a listed provider and use Call, WhatsApp or Request a quote. Send photos, the Al Ain district and the details below before confirming work.' : 'اختر شركة من القائمة واستخدم الاتصال أو واتساب أو طلب عرض سعر. أرسل الصور ومنطقة العين والمعلومات الموضحة أدناه قبل اعتماد العمل.'],
     [en ? 'How is the quote determined?' : 'كيف يتم تحديد عرض السعر؟', en ? 'The quote depends on quantity, dimensions, material, condition, location and agreed scope. No estimated price is published here.' : 'يعتمد العرض على العدد والمقاسات والخامة والحالة والموقع والنطاق المتفق عليه. لا ننشر سعرًا تقديريًا هنا.'],
   ] : [
-    [en ? `Who serves ${place}?` : `هل توجد شركة تخدم ${place}؟`, providers.length ? (en ? `The providers listed here have approved service coverage for ${place}. Confirm the service and appointment before booking.` : `الشركات المعروضة لديها نطاق خدمة معتمد يشمل ${place}. أكد نوع الخدمة والموعد قبل الحجز.`) : (en ? 'No eligible provider is currently listed. Browse the city directory.' : 'لا توجد شركات متاحة هنا حاليًا. تصفح دليل العين.')],
+    [en ? `Who serves ${place}?` : `هل توجد شركة تخدم ${place}؟`, providers.length ? (en ? `The providers listed here have approved service coverage for ${place}. Confirm the service and appointment before booking.` : `الشركات المعروضة لديها نطاق خدمة معتمد يشمل ${place}. أكد نوع الخدمة والموعد قبل الحجز.`) : (model.directoryRehab || model.directoryKawkab ? (en ? 'The listed companies serve Al Ain; confirm availability for this district directly.' : 'الشركات المعروضة تخدم العين؛ أكد معها التوفر في هذه المنطقة مباشرة.') : (en ? 'No eligible provider is currently listed. Browse the city directory.' : 'لا توجد شركات متاحة هنا حاليًا. تصفح دليل العين.'))],
     [en ? 'How do I request home or villa cleaning?' : 'كيف أطلب تنظيف منزل أو فيلا؟', en ? 'Open a provider profile or use Request a quote. Include the district, property size, rooms and preferred date.' : 'افتح ملف الشركة أو اضغط طلب عرض سعر. أرسل المنطقة ومساحة المكان وعدد الغرف والموعد المطلوب.'],
     [en ? 'Can I send photos before pricing?' : 'هل يمكن إرسال صور قبل تحديد السعر؟', en ? 'Yes. Use the provider’s WhatsApp link to send photos and dimensions. The provider confirms the scope and final quotation.' : 'نعم، استخدم رابط واتساب الشركة لإرسال الصور والمقاسات. تراجع الشركة نطاق العمل ويؤكد عرض السعر.'],
     [en ? 'Are sofa and carpet cleaning listed?' : 'هل تتوفر خدمات تنظيف الكنب والسجاد؟', en ? 'Check the published service cards below. Confirm fabric type, item count and dimensions with the provider.' : 'راجع بطاقات الخدمات المنشورة أدناه. أكد نوع القماش وعدد القطع والمقاسات مع الشركة.'],
@@ -66,7 +83,7 @@ function ExistingLocalServicesPage({ model }) {
   return <>
     <SEOHead title={model.title} description={model.description} canonicalPath={model.canonical.replace('https://bietalreef.ae', '')} alternatePath={model.alternates.en.replace('https://bietalreef.ae', '')} noIndex={!model.indexable} noIndexFollow structuredData={model.schema} breadcrumbs={model.breadcrumbs} />
     <div dir={en ? 'ltr' : 'rtl'} lang={en ? 'en' : 'ar'} className="min-h-screen bg-[#FDFBF7] text-[#1D2E22]">
-      <Navbar />
+      <Navbar locale={locale} />
       <main className="mx-auto max-w-6xl space-y-8 px-4 py-8" data-analytics-section="local-services">
         <nav aria-label={en ? 'Breadcrumbs' : 'مسار التصفح'} className="flex flex-wrap gap-3 text-sm">{model.breadcrumbs.map(crumb => <Link key={crumb.href} href={crumb.href}>{crumb.name}</Link>)}</nav>
         <section className="rounded-3xl border border-[#E6DCC8] bg-white p-6 md:p-10">
@@ -74,8 +91,13 @@ function ExistingLocalServicesPage({ model }) {
           <p className="mt-4 leading-8">{model.description}</p>
           <p className="mt-3 leading-8">{en ? 'Choose the work you need, review the company’s services and contact it to agree the details.' : 'اختر العمل المطلوب، واطّلع على خدمات الشركة، ثم تواصل معها للاتفاق على التفاصيل.'}</p>
           {!area && !category && <div className="mt-5 grid gap-3 sm:grid-cols-3">{Object.entries(CONTENT).map(([slug, item]) => <Link key={slug} className={button} href={localPath({locale, category: slug})}>{item.name[locale]}</Link>)}</div>}
-          {cityService ? <a className={`${button} mt-4`} href="#local-providers">{en ? 'View providers and request a quote' : 'عرض الشركات وطلب عرض سعر'}</a> : <Link className={`${button} mt-4`} href={localPath({ locale, area: area?.slug, category: CATEGORY.slug })}>{en ? 'Browse cleaning services' : 'خدمات التنظيف في العين'}</Link>}
+          {cityService ? <ScrollToSection className={`${button} mt-4`} target="local-providers">{en ? 'View providers and request a quote' : 'عرض الشركات وطلب عرض سعر'}</ScrollToSection> : <Link className={`${button} mt-4`} href={localPath({ locale, area: area?.slug, category: CATEGORY.slug })}>{en ? 'Browse cleaning services' : 'خدمات التنظيف في العين'}</Link>}
         </section>
+        {area && !category && <section><h2 className="mb-2 text-xl font-bold text-[#24354B]">{en?`Explore sectors in ${name(area)}`:`استكشف الأقسام في ${name(area)}`}</h2><p className="mb-4 text-sm leading-7 text-slate-600">{en?'Choose a specialty and confirm the company can serve your location.':'اختر التخصص وتأكد مع الشركة من توفر الخدمة في موقعك.'}</p><MainSectorCards sectionKey="providers" locale={locale} locationRoot={localPath({locale,area:area.slug})} locationMode="al-ain-district"/></section>}
+        {area && !category && (model.directoryRehab || model.directoryKawkab) && <section><h2 className="mb-2 text-xl font-bold text-[#24354B]">{en?'Companies serving Al Ain':'شركات تخدم مدينة العين'}</h2><p className="mb-3 text-sm leading-7 text-slate-600">{en?'Confirm service availability for this district with the company.':'تأكد مع الشركة من توفر الخدمة في منطقتك.'}</p><div className="grid gap-3 md:grid-cols-2">
+          {model.directoryRehab && <DirectoryCompanyCard locale={locale} item={{href:`${localPath({locale,area:area.slug})}/${model.directoryRehab.slug}`,name:en?model.directoryRehab.name_en:model.directoryRehab.name_ar,logoImage:model.directoryRehab.image,coverImage:model.directoryRehab.cover,summary:en?'Home, villa and upholstery cleaning with professional equipment.':'تنظيف المنازل والفلل والمفروشات بالمعدات.',verified:model.directoryRehab.verified,phone:model.directoryRehab.phone,whatsapp:model.directoryRehab.whatsapp}}/>}
+          {model.directoryKawkab && <DirectoryCompanyCard locale={locale} item={{href:`${localPath({locale,area:area.slug})}/${model.directoryKawkab.slug}`,name:en?model.directoryKawkab.name_en:model.directoryKawkab.name_ar,logoImage:model.directoryKawkab.image,coverImage:model.directoryKawkab.cover,summary:en?'Maintenance, painting and finishing services.':'أعمال الصيانة والدهانات والتشطيبات.',verified:true,phone:model.directoryKawkab.phone,whatsapp:model.directoryKawkab.whatsapp}}/>}
+        </div></section>}
         {cityService && <section className="rounded-3xl border border-[#E6DCC8] bg-white p-6">
           <h2 className="text-2xl font-bold">{en ? 'What is the service?' : 'ما هي الخدمة؟'}</h2>
           <p className="mt-4 leading-8">{model.requestedService.summary[locale]}</p>
@@ -97,7 +119,7 @@ function ExistingLocalServicesPage({ model }) {
         </section>}
         {!area && <section><h2 className="text-2xl font-bold">{en ? 'Al Ain districts' : 'مناطق العين'}</h2><div className="mt-4 grid gap-3 sm:grid-cols-2 md:grid-cols-3">{areas.map(item => <Link className={button} key={item.slug} href={localPath({ locale, area: item.slug })}>{name(item)}</Link>)}</div></section>}
         {model.featured.length > 0 && <aside aria-label={en ? 'Paid placements' : 'ظهور تجاري'} className="rounded-3xl border border-[#D4AF37] p-6"><h2 className="text-xl font-bold">{en ? 'Paid placements' : 'ظهور تجاري مدفوع'}</h2>{model.featured.map(({ provider, placement }) => <p key={provider.id} className="mt-3"><span>{placement.label[locale]} — </span><Link href={profile(provider)}>{provider.name[locale]}</Link></p>)}</aside>}
-        <section id="local-providers" className="scroll-mt-24"><h2 className="text-2xl font-bold">{en ? `Providers serving ${place}` : `شركات تخدم ${place}`}</h2>
+        {(!area || category || providers.length > 0 || !(model.directoryRehab || model.directoryKawkab)) && <section id="local-providers" className="scroll-mt-24"><h2 className="text-2xl font-bold">{en ? `Providers serving ${place}` : `شركات تخدم ${place}`}</h2>
           <p className="mt-3 leading-8">{en ? 'Listed providers are verified on Biet Alreef. Coverage and published services determine eligibility; verification is not a guarantee of service quality.' : 'الشركات المدرجة موثقة على بيت الريف. يعتمد ظهورهم على نطاق الخدمة والخدمات المنشورة؛ التوثيق لا يمثل ضمانًا لجودة التنفيذ.'}</p>
           {!providers.length && <p>{en ? 'No published provider currently meets the eligibility criteria.' : 'لا توجد شركات متاحة في هذا القسم حاليًا.'}</p>}
           {providers.map(provider => <article key={provider.id} className="mt-5 rounded-3xl border border-[#E6DCC8] bg-white p-6">
@@ -114,7 +136,7 @@ function ExistingLocalServicesPage({ model }) {
             {category && <><h3 className="mt-6 text-xl font-bold">{en ? 'Published cleaning services' : 'خدمات التنظيف المنشورة'}</h3>
             <div className="mt-3 grid gap-4 md:grid-cols-2">{provider.services.filter(item => !model.service || item.slug === model.service).map(item => <div className="rounded-2xl bg-[#FDFBF7] p-4" key={item.id}><h4 className="font-bold"><Link href={model.relatedServices.find(entry => entry.slug === item.slug)?.path || (model.service === item.slug ? localPath({ locale, category: CATEGORY.slug, service: item.slug }) : profile(provider))}>{item.title[locale]}</Link></h4><p className="mt-2 leading-7">{item.summary[locale]}</p></div>)}</div></>}
           </article>)}
-        </section>
+        </section>}
         {model.relatedServices.length > 0 && (!authorityHub || cityService) && <section><h2 className="text-2xl font-bold">{en ? 'Related services in Al Ain' : 'خدمات مرتبطة في العين'}</h2><div className="mt-4 flex flex-wrap gap-3">{model.relatedServices.map(item => <Link key={item.slug} href={item.path} className={button}>{item.name[locale]}</Link>)}</div></section>}
         <section className="rounded-3xl border border-[#E6DCC8] bg-white p-6"><h2 className="text-2xl font-bold">{en ? 'Prepare your quotation request' : 'جهز طلب عرض السعر'}</h2><ul className="mt-4 list-inside list-disc space-y-3"><li>{en ? 'Send the district and a precise location privately to the provider.' : 'أرسل المنطقة والموقع الدقيق للشركة بشكل خاص.'}</li><li>{en ? 'Specify the property size or item count and dimensions.' : 'حدد مساحة المكان أو عدد القطع ومقاساتها.'}</li><li>{en ? 'Attach clear photos and describe stains or post-construction debris.' : 'أرفق صورًا واضحة وحدد البقع أو مخلفات التشطيب.'}</li><li>{en ? 'Agree the scope, materials, price and appointment before work starts.' : 'اتفق على النطاق والمواد والسعر والموعد قبل بدء التنفيذ.'}</li></ul></section>
         <section><h2 className="text-2xl font-bold">{en ? `Questions about services in ${place}` : `أسئلة عن الخدمات في ${place}`}</h2><div className="mt-4 space-y-4">{faqs.map(([question, answer]) => <article key={question} className="rounded-2xl border border-[#E6DCC8] bg-white p-5"><h3 className="font-bold">{question}</h3><p className="mt-2 leading-8">{answer}</p></article>)}</div></section>

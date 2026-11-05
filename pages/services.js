@@ -1,3 +1,4 @@
+import ScrollToSection from '../components/ScrollToSection';
 import { getPlatformChannelOfferCards } from '../lib/platformPublishedServiceCards';
 import PublishedOfferGrid from '../components/PublishedOfferGrid';
 import Image from "next/image";
@@ -9,29 +10,17 @@ import ServicesSmartFooter from "../components/ServicesSmartFooter";
 import DiscoveryDirectoryHero from "../components/DiscoveryDirectoryHero";
 import SectionBackBar from "../components/SectionBackBar";
 import YouTubeVideoSection from "../components/YouTubeVideoSection";
-import ConstitutionalSectionCards from "../components/ConstitutionalSectionCards";
+import MainSectorCards from "../components/MainSectorCards";
 import { getPublishedSectionEntities, getUaeSectionCards } from "../lib/platformDirectoryCards";
 import PublishedEntityGrid from "../components/PublishedEntityGrid";
 import { ArrowRight, MessageCircle, Search, Wrench } from "lucide-react";
 
 const servicesItemListSchema = {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "جميع خدمات وعروض بيت الريف في الإمارات",
-  "description": "قسم مستقل للخدمات والعروض في البناء والصيانة والتصميم، منفصل عن دليل الإمارات والمنتجات.",
-  "url": "https://bietalreef.ae/services",
-  "numberOfItems": 9,
-  "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "مقاولات البناء", "url": "https://bietalreef.ae/services/general-contracting" },
-    { "@type": "ListItem", "position": 2, "name": "الاستشارات الهندسية", "url": "https://bietalreef.ae/services/engineering-consultants" },
-    { "@type": "ListItem", "position": 3, "name": "شركات الصيانة", "url": "https://bietalreef.ae/services/general-maintenance" },
-    { "@type": "ListItem", "position": 4, "name": "العمالة الحرفية", "url": "https://bietalreef.ae/services/carpentry" },
-    { "@type": "ListItem", "position": 5, "name": "الورش الصناعية", "url": "https://bietalreef.ae/services/workshops" },
-    { "@type": "ListItem", "position": 6, "name": "تأجير المعدات", "url": "https://bietalreef.ae/services/equipment-rental" },
-    { "@type": "ListItem", "position": 7, "name": "محلات مواد البناء", "url": "https://bietalreef.ae/services/building-materials" },
-    { "@type": "ListItem", "position": 8, "name": "الأثاث والديكور", "url": "https://bietalreef.ae/services/furniture-decor" },
-    { "@type": "ListItem", "position": 9, "name": "خدمات النظافة", "url": "https://bietalreef.ae/services/cleaning-services" }
-  ]
+  "@type": "CollectionPage",
+  "name": "خدمات وعروض بيت الريف في الإمارات",
+  "description": "استكشف خدمات البناء والصيانة والتصميم ومواد البناء وغيرها من قطاعات بيت الريف.",
+  "url": "https://bietalreef.ae/services"
 };
 
 function getCategorySlug(serviceId) {
@@ -70,28 +59,13 @@ export default function Services({ directoryCards, publishedServices = [], publi
       <div dir="rtl" className="min-h-screen flex flex-col bg-[#FDFBF7]">
       <Navbar pageTitle="الخدمات والعروض" />
       <SectionBackBar />
-        <main className="flex-1 -mt-[1px] [&>section:nth-of-type(2)]:hidden">
+        <main className="flex-1 -mt-[1px]">
           <DiscoveryDirectoryHero type="services" locale="ar" />
-          <section className="relative isolate overflow-hidden bg-[#FDFBF7]">
-            <div className="relative min-h-[600px] overflow-hidden md:min-h-[680px] lg:min-h-[740px]">
-              <Image src="/images/services-offers-hero.webp" alt="خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف" fill priority className="scale-[1.16] object-cover object-[52%_36%] -translate-y-[6%] md:scale-110 md:object-center md:-translate-y-[4%]" sizes="100vw" />
-              <div className="absolute inset-0 bg-gradient-to-t from-[#FDFBF7] via-[#FDFBF7]/18 to-transparent" />
-              <div className="absolute inset-0 bg-gradient-to-l from-[#FDFBF7]/48 via-[#FDFBF7]/8 to-transparent" />
-              <Link href="/" className="absolute right-4 top-4 z-20 inline-flex items-center gap-2 rounded-2xl border border-[#D4AF37]/45 bg-white/76 px-3 py-2 text-xs font-black text-[#123A46] shadow-xl shadow-[#123A46]/16 backdrop-blur-xl transition hover:-translate-y-0.5 hover:bg-white md:right-8 md:top-8 md:px-4 md:py-3 md:text-sm"><span className="flex h-8 w-8 items-center justify-center rounded-xl bg-[#123A46] text-[#F7E7A0] shadow-inner"><ArrowRight className="h-4 w-4" aria-hidden="true" /></span>العودة إلى الرئيسية</Link>
-              <div className="relative z-10 mx-auto flex min-h-[600px] max-w-6xl flex-col justify-end px-4 pb-8 pt-20 md:min-h-[680px] md:pb-12 lg:min-h-[740px]">
-                <div className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-[#D4AF37]/45 bg-[#123A46]/95 px-4 py-2 text-xs font-black text-white shadow-lg shadow-[#123A46]/22 backdrop-blur-xl md:text-sm"><Wrench className="h-4 w-4 text-[#F7E7A0]" aria-hidden="true" />بوابة الخدمات والعروض</div>
-                <h1 className="max-w-3xl text-4xl font-black leading-tight text-[#0F3F1A] drop-shadow-[0_2px_12px_rgba(255,255,255,0.85)] md:text-6xl">اختر الخدمة المطلوبة<br />وحول احتياجك إلى مسار واضح</h1>
-                <div className="mt-5 max-w-3xl rounded-[2.1rem] border border-white/70 bg-white/64 p-4 shadow-2xl shadow-[#123A46]/14 backdrop-blur-2xl md:p-6">
-                  <p className="max-w-2xl text-sm font-bold leading-8 text-gray-700 md:text-lg md:leading-9">هذا القسم يبدأ من نوع الخدمة: مقاولات، صيانة، تشطيبات، نجارة، تنظيف أو تأجير معدات. اختر ما تحتاجه، ثم أرسل تفاصيل مشروعك للحصول على توجيه أو طلب عرض سعر مناسب.</p>
-                  <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2"><Link href="#services-list" className="group inline-flex min-h-[56px] items-center justify-center gap-3 rounded-2xl bg-[#D4AF37] px-5 py-4 text-base font-black text-[#0F3F1A] shadow-[0_12px_0_rgba(138,106,0,0.22),0_22px_38px_rgba(212,175,55,0.25)] transition hover:-translate-y-0.5 hover:bg-[#c9a52f]"><span className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#123A46] text-[#F7E7A0] shadow-inner transition group-hover:scale-105"><Search className="h-5 w-5" aria-hidden="true" /></span>تصفح الخدمات الآن</Link><a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="group inline-flex min-h-[56px] items-center justify-center gap-3 rounded-2xl border border-[#123A46]/20 bg-white/86 px-5 py-4 text-base font-black text-[#123A46] shadow-[0_10px_0_rgba(18,58,70,0.08),0_18px_30px_rgba(18,58,70,0.12)] backdrop-blur-xl transition hover:-translate-y-0.5 hover:bg-white"><span className="flex h-10 w-10 items-center justify-center rounded-xl bg-[#123A46] text-[#F7E7A0] shadow-inner transition group-hover:scale-105"><MessageCircle className="h-5 w-5" aria-hidden="true" /></span>اطلب توجيه من الفريق</a></div>
-                </div>
-              </div>
-            </div>
-          </section>
+
 
           <section id="services-list" className="max-w-6xl mx-auto px-4 py-14 md:py-20">
             <div className="mb-8 text-center md:text-right"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">قطاعات الخدمات</span><h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">اختر نوع الخدمة</h2><p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">اختر بطاقة الخدمة المناسبة، ثم أضف تفاصيل المشروع للانتقال إلى طلب واضح قابل للتوجيه والتسعير.</p></div>
-            <ConstitutionalSectionCards cards={directoryCards} sectionKey="services_offers" locale="ar" />
+            <MainSectorCards sectionKey="services_offers" locale="ar" />
           </section>
 
           <PublishedEntityGrid items={publishedServices} locale="ar" type="service" />

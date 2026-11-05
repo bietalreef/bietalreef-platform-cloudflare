@@ -13,7 +13,7 @@ import {
   ChevronLeft,
 } from 'lucide-react';
 import { ProviderCard } from '../../components/cards/SmartEntityCard';
-import ConstitutionalSectionCards from '../../components/ConstitutionalSectionCards';
+import MainSectorCards from '../../components/MainSectorCards';
 import {
   getPublishedProviderCards,
   getUaeSectionCards,
@@ -22,7 +22,6 @@ import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../components/SectionBackBar';
 import RehabDirectoryCard from '../../components/provider/RehabDirectoryCard';
 import AlNaeemDirectoryCard from '../../components/provider/AlNaeemDirectoryCard';
-import ProvidersSectorList from '../../components/ProvidersSectorList';
 import { getRehabSiteData } from '../../lib/rehabPresence';
 import { getAlNaeemData } from '../../lib/alNaeemPresence';
 
@@ -87,8 +86,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
               اختر القطاع المناسب للوصول إلى الشركات والتخصصات المرتبطة به ضمن رحلة تصفح واضحة ومتناسقة.
             </p>
           </div>
-          <div className="md:hidden"><ProvidersSectorList cards={directoryCards} locale="ar" /></div>
-          <div className="hidden md:block"><ConstitutionalSectionCards cards={directoryCards} sectionKey="providers" locale="ar" /></div>
+          <MainSectorCards sectionKey="providers" locale="ar" />
         </section>
 
         <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14">

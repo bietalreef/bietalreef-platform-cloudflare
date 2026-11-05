@@ -1,7 +1,6 @@
 'use client';
 
 import AppNavigation from './AppNavigation';
-import BusinessCategoryIcon from './BusinessCategoryIcon';
 
 import { useEffect, useRef, useState } from 'react';
 import Link from 'next/link';
@@ -26,7 +25,7 @@ import {
   Tablet
 } from 'lucide-react';
 import PlatformAccessActions from './PlatformAccessActions';
-import { UAE_EMIRATES, SERVICE_CATEGORIES } from '../data/siteTaxonomy';
+import { UAE_EMIRATES } from '../data/siteTaxonomy';
 import styles from './Navbar.module.css';
 import { APP_EDITIONS } from '../lib/appDiscovery';
 import { MARKET_URL } from '../lib/platformUrls';
@@ -112,8 +111,6 @@ export default function Navbar({ locale = 'ar' }) {
   // Use the existing taxonomy and routes; do not download a second directory.
   const childrenFor = (href) => {
     if (href === `${prefix}/uae`) return UAE_EMIRATES.map((entry) => ({ href: `${prefix}/uae/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: MapPin }));
-    if (href === `${prefix}/services`) return SERVICE_CATEGORIES.map((entry) => ({ href: `${prefix}${isEnglish ? '/categories/' : '/services/'}${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: Wrench, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
-    if (href === `${prefix}/providers`) return SERVICE_CATEGORIES.map(entry => ({ href: `${prefix}/providers/specialty/${entry.slug}`, label: isEnglish ? entry.nameEn : entry.nameAr, icon: UserRound, sticker: <BusinessCategoryIcon category={entry.slug} /> }));
     return [];
   };
   useEffect(() => {

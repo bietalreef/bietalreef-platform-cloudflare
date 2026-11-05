@@ -1,3 +1,4 @@
+import ScrollToSection from '../ScrollToSection';
 import BusinessCategoryIcon from '../BusinessCategoryIcon';
 import { useState } from 'react';
 import Link from 'next/link';
@@ -63,7 +64,7 @@ export default function ProjectDiscovery({ locale = 'ar' }) {
 
   return <div className={styles.experience} dir={en ? 'ltr' : 'rtl'}>
     <section className={styles.hero} aria-labelledby="project-home-title">
-      <div className={styles.heroCopy}><span className={styles.eyebrow}>{t.eyebrow}</span><h1 id="project-home-title">{t.title}</h1><p>{t.description}</p><div className={styles.actions}><Link className={styles.primary} href="#service-discovery"><Search aria-hidden="true" />{t.service}</Link><Link className={styles.secondary} href={`${prefix}/uae`}><MapPin aria-hidden="true" />{t.city}</Link></div><div className={styles.heroFoot}><span>01</span><span>{en ? 'Discover · Choose · Connect' : 'اكتشف · اختر · تواصل'}</span></div></div>
+      <div className={styles.heroCopy}><span className={styles.eyebrow}>{t.eyebrow}</span><h1 id="project-home-title">{t.title}</h1><p>{t.description}</p><div className={styles.actions}><ScrollToSection className={styles.primary} target="service-discovery"><Search aria-hidden="true" />{t.service}</ScrollToSection><Link className={styles.secondary} href={`${prefix}/uae`}><MapPin aria-hidden="true" />{t.city}</Link></div><div className={styles.heroFoot}><span>01</span><span>{en ? 'Discover · Choose · Connect' : 'اكتشف · اختر · تواصل'}</span></div></div>
       <div className={styles.heroVisual}><Image src="/images/bietalreef-option-one-villa.webp" alt={t.projectImage} fill priority fetchPriority="high" sizes="(max-width: 760px) 100vw, 52vw" className={styles.heroImage}/><div className={styles.visualCaption}><span>{t.imageCaption}</span><Arrow aria-hidden="true"/></div></div>
     </section>
 

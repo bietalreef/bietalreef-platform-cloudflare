@@ -5,6 +5,7 @@ import { useRouter } from 'next/router';
 import UniversalRequestCTA from './UniversalRequestCTA';
 import PlatformAccessActions from './PlatformAccessActions';
 import { getEmirate } from '../data/siteTaxonomy';
+import { uaeAreaHref } from '../lib/navigation';
 import {
   Home,
   MapPin,
@@ -121,7 +122,7 @@ function EmirateFooterContext({ language, emirate }) {
       <ul className="mt-5 flex flex-wrap gap-2">
         {emirate.areas.map((area) => (
           <li key={area.slug}>
-            <Link href={`${root}/${area.slug}`} className="inline-flex rounded-full border border-[#D8C9A8] bg-white px-3 py-2 text-xs font-bold text-gray-700 transition hover:border-primary hover:text-primary">
+            <Link href={uaeAreaHref(language, emirate.slug, area.slug)} className="inline-flex rounded-full border border-[#D8C9A8] bg-white px-3 py-2 text-xs font-bold text-gray-700 transition hover:border-primary hover:text-primary">
               {isEnglish ? area.nameEn : area.nameAr}
             </Link>
           </li>
@@ -133,7 +134,7 @@ function EmirateFooterContext({ language, emirate }) {
 
 export { socialLinks };
 
-export default function Footer({ locale = 'ar', showRequestCTA = true }) {
+export default function Footer({ locale = 'ar', showRequestCTA = true, contextualFooter = null }) {
   const router = useRouter();
   const language = locale === 'en' ? 'en' : 'ar';
   const t = copy[language];
@@ -151,7 +152,7 @@ export default function Footer({ locale = 'ar', showRequestCTA = true }) {
       {showRequestCTA ? <UniversalRequestCTA locale={language} /> : null}
       <footer className="border-t border-[#E6DCC8] bg-white text-gray-900" dir={t.dir} role="contentinfo">
         <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
-          <EmirateFooterContext language={language} emirate={activeEmirate} />
+          {contextualFooter || <EmirateFooterContext language={language} emirate={activeEmirate} />}
           <div className={`mb-9 rounded-[2rem] border border-[#D4AF37]/35 bg-[#FFF9E8] p-6 shadow-[0_16px_40px_rgba(15,63,26,0.08)] md:flex md:items-center md:justify-between md:gap-8 ${textAlign}`}>
             <div>
               <p className="text-sm font-black text-[#A27E18]">{t.promoEyebrow}</p>

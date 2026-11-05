@@ -6,7 +6,7 @@ import EnglishLayout from '../../../components/EnglishLayout';
 import ProvidersSmartFooter from '../../../components/ProvidersSmartFooter';
 import { ArrowLeft, Building2, MessageCircle, Users } from 'lucide-react';
 import { ProviderCard } from '../../../components/cards/SmartEntityCard';
-import ConstitutionalSectionCards from '../../../components/ConstitutionalSectionCards';
+import MainSectorCards from '../../../components/MainSectorCards';
 import {
   getPublishedProviderCards,
   getUaeSectionCards,
@@ -15,7 +15,6 @@ import ProvidersDirectoryHero from '../../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../../components/SectionBackBar';
 import RehabDirectoryCard from '../../../components/provider/RehabDirectoryCard';
 import AlNaeemDirectoryCard from '../../../components/provider/AlNaeemDirectoryCard';
-import ProvidersSectorList from '../../../components/ProvidersSectorList';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import { getAlNaeemData } from '../../../lib/alNaeemPresence';
 
@@ -36,12 +35,11 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
           <ProvidersDirectoryHero locale="en" />
           <section id="provider-sectors" className="mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
             <div className="mb-2 md:mb-8 md:text-left">
-              <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm md:inline-flex">7 main sectors</span>
+              <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm md:inline-flex">8 main sectors</span>
               <h2 className="text-base font-black text-[#0F3F1A] md:mt-4 md:text-4xl">Sectors & specialties</h2>
               <p className="mx-auto mt-3 hidden max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:block md:text-base">Choose an activity to reach the related provider specialties through a clear, database-backed journey.</p>
             </div>
-            <div className="md:hidden"><ProvidersSectorList cards={directoryCards} locale="en" /></div>
-            <div className="hidden md:block"><ConstitutionalSectionCards cards={directoryCards} sectionKey="providers" locale="en" /></div>
+            <MainSectorCards sectionKey="providers" locale="en" />
           </section>
           <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14"><div className="mb-2 md:mb-10 md:text-left"><span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] md:inline-flex">Real providers inside the platform</span><h2 className="text-base font-black text-[#0F3F1A] md:mb-3 md:mt-4 md:text-3xl">Available providers now</h2><p className="hidden leading-8 text-gray-500 md:block">These are the first real service provider profiles inside Biet Al Reef. Each card opens a real provider profile and a contact or quotation path.</p></div><div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">{companyCards.map((provider) => <ProviderCard key={provider.id} item={provider} />)}</div></section>
           <section className="hidden border-y border-[#E6DCC8] bg-white py-20 md:block"><div className="mx-auto max-w-6xl px-4 text-center"><h2 className="mb-4 text-3xl font-black text-[#0F3F1A]">How do you join the Biet Al Reef network?</h2><p className="mb-12 text-gray-500">Simple steps to start your digital growth journey with us</p><div className="grid gap-12 md:grid-cols-3">{steps.map((step) => (<div key={step.i} className="relative text-center"><div className="absolute -top-10 left-1/2 z-0 -translate-x-1/2 text-8xl font-black text-gray-50">{step.i}</div><div className="relative z-10"><h3 className="mb-3 text-xl font-black text-[#0F3F1A]">{step.t}</h3><p className="text-sm leading-7 text-gray-500">{step.d}</p></div></div>))}</div></div></section>

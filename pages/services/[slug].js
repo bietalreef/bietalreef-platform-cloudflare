@@ -21,6 +21,7 @@ import { getSectionActivitySlug } from '../../lib/sectionCardRoutes';
 import { buildCardWhatsappUrl } from '../../lib/providerWhatsapp';
 import { KAWKAB_PROFILE, KAWKAB_HERO, KAWKAB_LOGO, KAWKAB_SPECIALTIES, KAWKAB_AL_AIN_AREAS, kawkabServicePath, kawkabWhatsapp, kawkabPath } from '../../lib/kawkabPresence';
 import KawkabServiceVisual from '../../components/provider/KawkabServiceVisual';
+import DirectoryCompanyCard from '../../components/provider/DirectoryCompanyCard';
 
 const SITE_URL = 'https://bietalreef.ae';
 const WHITE_WHALE_SERVICE_WHATSAPP = buildCardWhatsappUrl({
@@ -68,20 +69,8 @@ function KawkabMaintenanceSection() {
   const quoteHref=kawkabWhatsapp('ar','الصيانة العامة والتشطيبات');
   return <section id="general-maintenance-companies" aria-label="شركات الصيانة العامة" className="mx-auto max-w-6xl px-4 py-5 md:py-14">
     <div className="mb-3 flex items-center justify-between gap-2 md:mb-6"><h2 className="text-lg font-extrabold text-[#29251e] md:text-3xl">شركات الصيانة العامة والتشطيبات</h2><Link className="shrink-0 text-xs font-bold text-[#805d32] underline md:text-sm" href="/providers/specialty/general-maintenance">دليل الشركات</Link></div>
-    <article className="overflow-hidden rounded-2xl border border-[#dfd3bf] bg-white shadow-sm md:rounded-3xl">
-      <Link href={companyHref} className="block w-full bg-[#f1ebe2]" aria-label="ملف كوكب الصعيد للخدمات الفنية">
-        <img src={KAWKAB_HERO.url} alt="كوكب الصعيد للخدمات الفنية – غلاف الشركة" width={KAWKAB_HERO.width} height={KAWKAB_HERO.height} loading="eager" decoding="async" className="block h-auto w-full object-cover" style={{display:'block',width:'100%',height:'auto'}}/>
-      </Link>
-      <div className="px-3 py-3 sm:px-6 sm:py-5">
-        <div className="flex items-center gap-3">
-          <img src={KAWKAB_LOGO.url} alt="شعار كوكب الصعيد" width="72" height="72" loading="lazy" className="h-12 w-12 shrink-0 rounded-lg border border-[#eee5d7] bg-white object-contain p-1 md:h-16 md:w-16"/>
-          <div className="min-w-0"><h3 className="text-base font-extrabold text-[#26241f] md:text-2xl"><Link href={companyHref}>{KAWKAB_PROFILE.nameAr}</Link></h3>
-          <p className="mt-1 line-clamp-1 text-xs text-[#665c4e] md:text-sm">دهانات، بلاستر، ورق جدران، نجارة، سباكة وتكييف</p></div>
-        </div>
-        <p className="mt-4 hidden text-sm leading-8 text-[#50483e] md:block">{KAWKAB_PROFILE.descriptionAr} يمكنك اختيار التخصص، قراءة خطوات التحضير المرتبطة به، ثم إرسال بيانات العقار والقياسات والصور المطلوبة للشركة. يُحدّد السعر النهائي حسب حالة الموقع ونطاق الأعمال والخامات والموقع الجغرافي.</p>
-        <div className="mt-3 flex flex-wrap gap-2"><Link href={companyHref} className="inline-flex min-h-10 flex-1 items-center justify-center rounded-lg bg-[#273f51] px-3 text-xs font-bold text-white md:flex-none md:px-6 md:text-sm">عرض ملف الشركة</Link><a href={quoteHref} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-10 flex-1 items-center justify-center rounded-lg border border-[#c8b694] px-3 text-xs font-bold text-[#30271e] md:flex-none md:px-6 md:text-sm">طلب عرض سعر</a></div>
-      </div>
-    </article>
+    <div className="max-w-xl"><DirectoryCompanyCard locale="ar" item={{href:companyHref,name:KAWKAB_PROFILE.nameAr,coverImage:KAWKAB_HERO.url,logoImage:KAWKAB_LOGO.url,summary:'دهانات، بلاستر، ورق جدران، نجارة، سباكة وتكييف',city:'العين',verified:KAWKAB_PROFILE.verification==='verified',phone:KAWKAB_PROFILE.phone,whatsapp:quoteHref}}/></div>
+    <p className="mt-4 hidden text-sm leading-8 text-[#50483e] md:block">{KAWKAB_PROFILE.descriptionAr} يمكنك اختيار التخصص وقراءة خطوات التحضير، ثم إرسال بيانات العقار والقياسات والصور للشركة. يُحدّد السعر النهائي حسب حالة الموقع ونطاق الأعمال والخامات والموقع الجغرافي.</p>
     <div className="mt-6 hidden md:block">
       <h3 className="text-xl font-bold text-[#29251e]">اختر مجال الصيانة المطلوب</h3>
       <p className="mt-2 max-w-4xl text-sm leading-7 text-[#5b5146]">تختلف أعمال التشطيب والصيانة بحسب حالة الأسطح والتمديدات ونوع الخامات، لذلك من الأفضل تحديد العمل بدقة قبل مقارنة عروض الأسعار. اختر التخصص المناسب للاطلاع على التفاصيل والصور ومعلومات التواصل مع كوكب الصعيد.</p>

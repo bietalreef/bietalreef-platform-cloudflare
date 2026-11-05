@@ -1,3 +1,4 @@
+import ScrollToSection from '../ScrollToSection';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Smartphone, Monitor, Tablet, ArrowLeft, ArrowRight, CheckCircle2, Search, ShoppingBag, FolderOpen, BriefcaseBusiness, Globe2 } from 'lucide-react';
@@ -49,7 +50,7 @@ export default function AppDiscoveryPage({ edition = 'app', locale = 'ar' }) {
             <div className="mt-8 flex flex-wrap items-center gap-3">
               {edition === 'android' ? <a href={GOOGLE_PLAY_URL} target="_blank" rel="noopener noreferrer" aria-label={en ? 'Get Biet Al Reef on Google Play' : 'تحميل بيت الريف من Google Play'} className="inline-flex min-h-14 items-center rounded-xl bg-white p-1 transition hover:scale-[1.02] focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#C7A45B]"><img src={en ? 'https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' : 'https://play.google.com/intl/en_us/badges/static/images/badges/ar_badge_web_generic.png'} alt={en ? 'Get it on Google Play' : 'احصل عليه من Google Play'} width="202" height="78" loading="eager" decoding="async" className="h-auto w-[180px] sm:w-[205px]" /></a> : null}
               {edition !== 'android' && edition !== 'app' ? <a href={PROVIDERS_APP_URL} className={`${actionClass} bg-[#24354B] text-white`}><Monitor className="h-5 w-5" aria-hidden="true" />{t.web}</a> : null}
-              {edition === 'app' ? <a href="#app-editions" className={`${actionClass} bg-[#24354B] text-white`}>{t.choose}<Arrow className="h-4 w-4" aria-hidden="true" /></a> : null}
+              {edition === 'app' ? <ScrollToSection target="app-editions" className={`${actionClass} bg-[#24354B] text-white`}>{t.choose}<Arrow className="h-4 w-4" aria-hidden="true" /></ScrollToSection> : null}
               <a href={MARKET_URL} className={`${actionClass} border border-[#E8E4DC] bg-[#FAF9F6] text-[#24354B]`}><ShoppingBag className="h-5 w-5" aria-hidden="true"/>{t.market}</a>
             </div>
           </div>

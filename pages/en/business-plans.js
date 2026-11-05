@@ -1,3 +1,4 @@
+import ScrollToSection from '../../components/ScrollToSection';
 import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from '../../components/Navbar';
@@ -31,7 +32,7 @@ export default function BusinessPlansEnglish(){
           <span className="inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/50 bg-[#D4AF37]/15 px-4 py-2 text-sm font-black text-[#F3D46B]"><Sparkles className="h-4 w-4"/> Plans & Subscriptions</span>
           <h1 className="mx-auto mt-6 max-w-4xl text-4xl font-black leading-tight md:text-6xl">Business Plans & Subscriptions</h1>
           <p className="mx-auto mt-6 max-w-3xl text-lg leading-9 text-white/85">Choose the plan based on how your business uses Biet Al Reef and the tools, items, quotas and permissions you need, with benefits clearly explained before activation.</p>
-          <a href="#plans" className="mt-8 inline-flex items-center gap-2 rounded-2xl bg-[#D4AF37] px-8 py-4 font-black text-[#0F3F1A]">Compare plans <ArrowRight className="h-5 w-5"/></a>
+          <ScrollToSection target="plans" className="mt-8 inline-flex items-center gap-2 rounded-2xl bg-[#D4AF37] px-8 py-4 font-black text-[#0F3F1A]">Compare plans <ArrowRight className="h-5 w-5"/></ScrollToSection>
         </div>
       </section>
 

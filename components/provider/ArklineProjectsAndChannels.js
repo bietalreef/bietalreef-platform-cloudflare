@@ -169,7 +169,8 @@ export default function ArklineProjectsAndChannels({ currentPath = '' }) {
     const ensureEnhancements = () => {
       const projectsTab = document.querySelector('nav a[href="#gallery"], nav a[href="#projects"], nav a[data-arkline-projects-tab="true"]');
       if (projectsTab) {
-        projectsTab.href = '#projects';
+        projectsTab.href = window.location.pathname + window.location.search;
+        projectsTab.onclick = (event) => { event.preventDefault(); document.getElementById('projects')?.scrollIntoView({behavior:'smooth',block:'start'}); };
         projectsTab.textContent = t.projectsTab;
         projectsTab.dataset.arklineProjectsTab = 'true';
       }

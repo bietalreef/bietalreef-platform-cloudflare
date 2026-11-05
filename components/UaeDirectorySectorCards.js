@@ -9,6 +9,7 @@ import {
 } from 'lucide-react';
 import { UAE_DIRECTORY_SECTIONS } from '../data/siteTaxonomy';
 import { UAE_DIRECTORY_SECTION_SLUGS } from '../lib/platformDirectoryCards';
+import MainSectorCards from './MainSectorCards';
 
 const UAE_SECTION_META = {
   providers: {
@@ -248,7 +249,7 @@ function fallbackMeta(section, isEn) {
   return isEn ? UAE_SECTION_META_EN.products_stores : UAE_SECTION_META.products_stores;
 }
 
-export default function UaeDirectorySectorCards({ emirate, area = null, locale = 'ar', directoryCards = [] }) {
+function LegacyUaeDirectorySectorCards({ emirate, area = null, locale = 'ar', directoryCards = [] }) {
   const isEn = locale === 'en';
   const textDir = isEn ? 'ltr' : 'rtl';
   const showConstitutionalDirectory = directoryCards.length === 18;
@@ -322,4 +323,15 @@ export default function UaeDirectorySectorCards({ emirate, area = null, locale =
       })}
     </section>
   );
+}
+
+export default function UaeDirectorySectorCards({ emirate, area = null, locale = 'ar' }) {
+  const en = locale === 'en';
+  const place = area ? (en ? area.nameEn : area.nameAr) : (en ? emirate.nameEn : emirate.nameAr);
+  const root = `${en ? '/en' : ''}/uae/${emirate.slug}${area ? `/${area.slug}` : ''}`;
+  return <section id="uae-sector-cards" dir={en ? 'ltr' : 'rtl'} className="mx-auto max-w-6xl px-3 py-10 sm:px-4 md:py-14">
+    <h2 className="mb-2 text-2xl font-bold text-[#193b53]">{en ? `Explore sectors in ${place}` : `استكشف الأقسام في ${place}`}</h2>
+    <p className="mb-5 text-sm leading-7 text-slate-600">{en ? 'Choose the type of work and confirm service coverage with the business.' : 'اختر نوع العمل وتأكد مع الشركة من تغطية موقعك.'}</p>
+    <MainSectorCards sectionKey="providers" locale={locale} locationRoot={root}/>
+  </section>;
 }

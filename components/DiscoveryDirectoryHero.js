@@ -1,3 +1,4 @@
+import ScrollToSection from './ScrollToSection';
 import Image from 'next/image';
 import { ArrowLeft, ArrowRight, MessageCircle, Search, ShoppingBag, Wrench } from 'lucide-react';
 
@@ -6,14 +7,14 @@ const content = {
     ar: { label: 'الخدمات والعروض', title: 'اختر الخدمة، ثم انتقل إلى تفاصيل الطلب وعرض السعر', description: 'ابدأ من نوع الخدمة المطلوبة، ثم أضف موقع المشروع والصور والمقاسات للوصول إلى مسار واضح يربط احتياجك بالخدمة والشركة المناسبة.', browse: 'استعرض الخدمات', contact: 'اطلب توجيه من الفريق', alt: 'خدمات وعروض البناء والصيانة والتشطيبات في بيت الريف' },
     en: { label: 'Services & Offers', title: 'Choose a service, then continue to request and quotation details', description: 'Start with the required service, then add the project location, photos and measurements to reach a clear path connecting your need with the right service and provider.', browse: 'Browse services', contact: 'Ask our team', alt: 'Construction, maintenance and finishing services and offers on Biet Al Reef' },
     image: '/images/services-offers-hero.webp',
-    target: '#services-list',
+    target: 'services-list',
     Icon: Wrench,
   },
   products: {
     ar: { label: 'المنتجات والمتاجر', title: 'اختر المادة أو المنتج، ثم انتقل إلى المورد ومسار التسعير', description: 'ابدأ من فئة المنتج، وحدد الكمية والمواصفات وموقع التوريد، ثم انتقل إلى البطاقة أو المورد المناسب دون خلط المنتجات بالخدمات.', browse: 'استعرض المنتجات', contact: 'اطلب مساعدة في التوريد', alt: 'مواد ومنتجات ومتاجر البناء والتشطيب في بيت الريف' },
     en: { label: 'Products & Stores', title: 'Choose a material or product, then continue to supplier and pricing', description: 'Start with the product category, add quantity, specifications and supply location, then continue to the right card or supplier without mixing products with services.', browse: 'Browse products', contact: 'Ask for sourcing help', alt: 'Building and finishing materials, products and stores on Biet Al Reef' },
     image: '/images/materials-products-hero.webp',
-    target: '#marketplace-categories',
+    target: 'marketplace-categories',
     Icon: ShoppingBag,
   },
 };
@@ -34,7 +35,7 @@ export default function DiscoveryDirectoryHero({ type, locale = 'ar' }) {
             <h1 className="mt-5 max-w-2xl text-3xl font-black leading-[1.35] text-[#0F3F1A] md:text-5xl">{t.title}</h1>
             <p className="mt-5 max-w-2xl text-sm font-semibold leading-8 text-gray-600 md:text-base md:leading-9">{t.description}</p>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-              <a href={section.target} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 py-3 text-sm font-black text-white transition hover:-translate-y-0.5 hover:bg-[#123A46] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#D4AF37]"><Search className="h-5 w-5 text-[#F7E7A0]" aria-hidden="true" />{t.browse}<DirectionArrow className="h-4 w-4" aria-hidden="true" /></a>
+              <ScrollToSection target={section.target} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-6 py-3 text-sm font-black text-white transition hover:-translate-y-0.5 hover:bg-[#123A46] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#D4AF37]"><Search className="h-5 w-5 text-[#F7E7A0]" aria-hidden="true" />{t.browse}<DirectionArrow className="h-4 w-4" aria-hidden="true" /></ScrollToSection>
               <a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl border border-[#D4AF37]/45 bg-white px-6 py-3 text-sm font-black text-[#0F3F1A] transition hover:-translate-y-0.5 hover:bg-[#FFF8E5] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#D4AF37]"><MessageCircle className="h-5 w-5 text-[#8A6A00]" aria-hidden="true" />{t.contact}</a>
             </div>
           </div>

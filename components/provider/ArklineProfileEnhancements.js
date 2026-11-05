@@ -153,7 +153,8 @@ export default function ArklineProfileEnhancements({ currentPath = '' }) {
 
       const tabLink = document.querySelector('nav a[href="#faq"], nav a[href="#reviews"], nav a[data-arkline-reviews-tab="true"]');
       if (tabLink) {
-        tabLink.href = '#reviews';
+        tabLink.href = window.location.pathname + window.location.search;
+        tabLink.onclick = (event) => { event.preventDefault(); document.getElementById('reviews')?.scrollIntoView({behavior:'smooth',block:'start'}); };
         tabLink.textContent = t.tab;
         tabLink.dataset.arklineReviewsTab = 'true';
       }

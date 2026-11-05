@@ -1,3 +1,5 @@
+import { getAbuDhabiDirectoryCompanies } from '../../lib/publishedCompanyPresence';
+import { getRehabSiteData } from '../../lib/rehabPresence';
 import DirectoryLandingPage from '../../components/DirectoryLandingPage';
 import Head from 'next/head';
 import Navbar from '../../components/Navbar';
@@ -22,9 +24,9 @@ function providerSchemaTitle(activityName, emirateName) {
     : `شركات ومؤسسات ${activityName} في ${emirateName}`;
 }
 
-export default function EmiratePage({ emirate, emirateSlug, directoryCards = [] }) {
+export default function EmiratePage({ emirate, emirateSlug, directoryCards = [], rehab = null, companies = [] }) {
   if (!emirate) return null;
-  return <DirectoryLandingPage locale="ar" mode={emirate.slug}/>;
+  return <DirectoryLandingPage locale="ar" mode={emirate.slug} rehab={rehab} companies={companies}/>;
   /* legacy directory retained for route compatibility */
   const isAbuDhabi = emirate.slug === 'abu-dhabi';
   const showAlHootSeoPath = false;
@@ -132,7 +134,9 @@ export async function getStaticProps({ params }) {
   const emirateSlug = params.activity;
   const emirate = getEmirate(emirateSlug);
   if (!emirate) return { notFound: true };
-  return { props: { emirate, emirateSlug, directoryCards: [] }, revalidate: 3600 };
+  const rehab = emirateSlug === 'abu-dhabi' ? await getRehabSiteData().catch(() => null) : null;
+  const companies = emirate.slug === 'abu-dhabi' ? await getAbuDhabiDirectoryCompanies().catch(() => []) : [];
+  return { props: { emirate, emirateSlug, directoryCards: [], rehab, companies }, revalidate: 300 };
 }
 
 export async function getStaticPaths() {

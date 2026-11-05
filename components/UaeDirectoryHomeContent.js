@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, UAE_PRODUCT_CATEGORIES } from '../data/siteTaxonomy';
+import { uaeAreaHref } from '../lib/navigation';
 import { UAE_DIRECTORY_SECTION_SLUGS } from '../lib/platformDirectoryCards';
 import UaeProviderJoinCTA from './UaeProviderJoinCTA';
 
@@ -80,7 +81,7 @@ export function UaeDirectoryExploreFooter({
   const textDir = isEn ? 'ltr' : 'rtl';
   const root = isEn ? '/en/uae' : '/uae';
   const locationLinks = emirate
-    ? emirate.areas.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: `${root}/${emirate.slug}/${item.slug}` }))
+    ? emirate.areas.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: uaeAreaHref(locale, emirate.slug, item.slug) }))
     : UAE_EMIRATES.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: `${root}/${item.slug}` }));
   const serviceRoot = emirate ? `${root}/${emirate.slug}${area ? `/${area.slug}` : ''}` : `${root}/abu-dhabi`;
   const directoryGroups = [

@@ -1,3 +1,4 @@
+import DiscoveryEntityCard from './cards/DiscoveryEntityCard';
 import Image from 'next/image';
 import Link from 'next/link';
 import {
@@ -35,10 +36,10 @@ const COPY = {
   en: {
     servicesEyebrow: 'Published services from platform providers',
     servicesTitle: 'Services available now',
-    servicesDescription: 'These are live service cards published in the Biet Al Reef database and linked directly to each provider profile.',
+    servicesDescription: 'Explore service details and contact the company to request a quote.',
     productsEyebrow: 'Published products from platform providers',
     productsTitle: 'Products available now',
-    productsDescription: 'These are live products published by approved suppliers and stores, not examples or placeholder cards.',
+    productsDescription: 'Explore products and specifications, then contact the supplier.',
     service: 'Published service',
     product: 'Published product',
     verified: 'Verified provider',
@@ -80,7 +81,7 @@ export default function PublishedEntityGrid({
           <span className="inline-flex rounded-full border border-[#B8922B]/30 bg-[#FFF8E5] px-4 py-1.5 text-xs font-black text-[#8A6A00]">
             {isProduct ? copy.productsEyebrow : copy.servicesEyebrow}
           </span>
-          <h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">
+          <h2 className="mt-4 text-3xl font-black text-[#20354a] md:text-4xl">
             {isProduct ? copy.productsTitle : copy.servicesTitle}
           </h2>
           <p className="mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:text-base">
@@ -88,113 +89,7 @@ export default function PublishedEntityGrid({
           </p>
         </div>
 
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {items.map((item) => (
-            <article
-              key={item.id}
-              className="overflow-hidden rounded-[2rem] border border-[#E6DCC8] bg-white shadow-[0_16px_42px_rgba(18,58,70,0.08)]"
-            >
-              <div className="relative h-48 overflow-hidden bg-[#F7F2E8]">
-                <Image
-                  src={item.image || fallbackImage}
-                  alt={item.name || ''}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 768px) 92vw, 380px"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-[#0F3F1A]/55 via-transparent to-transparent" />
-                <span className={`absolute top-4 inline-flex items-center gap-1.5 rounded-full border border-white/60 bg-white/92 px-3 py-1.5 text-xs font-black text-[#0F3F1A] shadow-sm ${isEn ? 'left-4' : 'right-4'}`}>
-                  <TypeIcon className="h-3.5 w-3.5 text-[#8A6A00]" />
-                  {isProduct ? copy.product : copy.service}
-                </span>
-                {item.providerVerified ? (
-                  <span className={`absolute bottom-4 inline-flex items-center gap-1 rounded-full bg-[#0F3F1A]/92 px-3 py-1.5 text-xs font-black text-[#F7E7A0] ${isEn ? 'left-4' : 'right-4'}`}>
-                    <BadgeCheck className="h-3.5 w-3.5" />
-                    {copy.verified}
-                  </span>
-                ) : null}
-                {isProduct && item.priceValue ? (
-                  <span className={`absolute bottom-4 rounded-2xl border border-white/25 bg-white/95 px-3 py-2 text-sm font-black text-[#0F3F1A] shadow-xl backdrop-blur ${isEn ? 'right-4' : 'left-4'}`}>
-                    {isEn ? 'From ' : 'من '} {Number(item.priceValue).toLocaleString(isEn ? 'en-AE' : 'ar-AE')} {item.currency || 'AED'}
-                  </span>
-                ) : null}
-              </div>
-
-              <div className="p-5">
-                {item.imageIllustrative?<small className="mb-2 block text-[10px] text-slate-500">{isEn?'Illustrative photo — not verified company work':'صورة توضيحية وليست تصويرًا لأعمال الشركة'}</small>:null}
-                {item.photoAttribution?.author?<small className="mb-2 block text-[10px] text-slate-500">{item.photoAttribution.author} · <a href={item.photoAttribution.source} target="_blank" rel="noreferrer" className="underline">{item.photoAttribution.license}</a></small>:null}
-                <div className="flex flex-wrap gap-2">
-                  {item.category ? (
-                    <span className="rounded-full bg-[#FFF8E5] px-3 py-1 text-xs font-black text-[#8A6A00]">
-                      {item.category}
-                    </span>
-                  ) : null}
-                  {isProduct && item.priceLabel ? (
-                    <span className="rounded-full border border-[#E6DCC8] px-3 py-1 text-xs font-black text-[#0F3F1A]">
-                      {item.priceLabel}
-                    </span>
-                  ) : null}
-                </div>
-
-                <h3 className="mt-4 text-xl font-black leading-8 text-[#0F3F1A]">{item.name}</h3>
-                {item.code ? (
-                  <p dir="ltr" className={`mt-1 text-[10px] font-black tracking-[0.12em] text-[#8A6A35] ${isEn ? 'text-left' : 'text-right'}`}>{item.code}</p>
-                ) : null}
-                <p className="mt-2 line-clamp-3 min-h-[72px] text-sm font-semibold leading-6 text-gray-600">
-                  {item.description || item.providerSummary || copy.fallbackDescription}
-                </p>
-
-                {isProduct && item.priceValue ? (
-                  <div className="mt-4 rounded-2xl border border-[#D4AF37]/35 bg-gradient-to-br from-[#FFF9EA] to-[#FDFBF7] p-4">
-                    <div className="flex items-end justify-between gap-3">
-                      <div>
-                        <p className="text-[11px] font-black text-[#8A6A35]">{copy.startingPrice}</p>
-                        <p className="mt-1 text-2xl font-black text-[#0F3F1A]">
-                          {Number(item.priceValue).toLocaleString(isEn ? 'en-AE' : 'ar-AE')}
-                          <span className="mx-1 text-sm">{item.currency || 'AED'}</span>
-                        </p>
-                      </div>
-                      <span className="rounded-full bg-white px-3 py-1.5 text-xs font-black text-[#6A5B43] shadow-sm">
-                        {item.priceUnit || copy.madeToOrder}
-                      </span>
-                    </div>
-                    <p className="mt-3 border-t border-[#D4AF37]/20 pt-3 text-xs font-bold leading-5 text-[#6A5B43]">{copy.priceNote}</p>
-                  </div>
-                ) : null}
-
-                <div className="mt-4 space-y-2 rounded-2xl bg-[#FDFBF7] p-4 text-sm font-bold text-[#304333]">
-                  <p className="flex items-start gap-2">
-                    <Building2 className="mt-0.5 h-4 w-4 shrink-0 text-[#8A6A00]" />
-                    <span><span className="text-gray-500">{copy.provider}: </span>{item.providerName}</span>
-                  </p>
-                  <p className="flex items-start gap-2">
-                    <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-[#8A6A00]" />
-                    <span><span className="text-gray-500">{copy.location}: </span>{item.location}</span>
-                  </p>
-                </div>
-
-                <div className="mt-5 grid grid-cols-2 gap-2">
-                  <Link
-                    href={item.href || item.providerHref}
-                    className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-2xl bg-[#0F3F1A] px-3 py-3 text-center text-xs font-black text-white transition hover:bg-[#D4AF37] hover:text-[#0F3F1A]"
-                  >
-                    {isProduct ? copy.openProduct : copy.openService}
-                    <DirectionArrow className="h-4 w-4" />
-                  </Link>
-                  <a
-                    href={item.providerWhatsapp || item.whatsapp || item.href || item.providerHref}
-                    target={item.providerWhatsapp ? '_blank' : undefined}
-                    rel={item.providerWhatsapp ? 'noopener noreferrer' : undefined}
-                    className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-2xl border border-[#D4AF37]/45 bg-[#FFF8E5] px-3 py-3 text-xs font-black text-[#0F3F1A]"
-                  >
-                    <MessageCircle className="h-4 w-4" />
-                    {copy.whatsapp}
-                  </a>
-                </div>
-              </div>
-            </article>
-          ))}
-        </div>
+        <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">{items.map(item=><DiscoveryEntityCard key={item.id} item={{...item,image:item.image||fallbackImage}} locale={locale} type={type}/>)}</div>
       </div>
     </section>
   );

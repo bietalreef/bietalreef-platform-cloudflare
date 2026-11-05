@@ -1,0 +1,50 @@
+{
+  "69431736-3191-48f4-8042-30ba571fdb8d": {
+    "slug": "deep-villa-cleaning",
+    "type": "service",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-deep-villa-cleaning-service-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-deep-villa-cleaning-service-mobile.webp"
+  },
+  "8c25b194-be01-4d43-9aeb-cd123cde0e5a": {
+    "slug": "water-tank-cleaning",
+    "type": "service",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-water-tank-cleaning-service-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-water-tank-cleaning-service-mobile.webp"
+  },
+  "efca08a3-ee8b-43e9-bc62-3921a7f8c0b7": {
+    "slug": "pool-yard-cleaning",
+    "type": "service",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-pool-yard-cleaning-service-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-pool-yard-cleaning-service-mobile.webp"
+  },
+  "3192a207-1100-45db-9ac4-61b89b6ada29": {
+    "slug": "pre-move-in-cleaning",
+    "type": "service",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-pre-move-in-cleaning-service-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-pre-move-in-cleaning-service-mobile.webp"
+  },
+  "4b24e319-9c25-422f-b6c6-06162e3f570d": {
+    "slug": "deep-villa-cleaning-10-percent",
+    "type": "offer",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-deep-villa-cleaning-10-percent-offer-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-deep-villa-cleaning-10-percent-offer-mobile.webp"
+  },
+  "12a84c69-a1e0-408b-b6ea-fabc78051a0b": {
+    "slug": "water-tank-cleaning-10-percent",
+    "type": "offer",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-water-tank-cleaning-10-percent-offer-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-water-tank-cleaning-10-percent-offer-mobile.webp"
+  },
+  "ac6d322f-23fa-408e-a0b0-8e0965ab2cd2": {
+    "slug": "pool-yard-cleaning-10-percent",
+    "type": "offer",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-pool-yard-cleaning-10-percent-offer-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-pool-yard-cleaning-10-percent-offer-mobile.webp"
+  },
+  "a8ca1226-21c3-4159-b61e-03801bb0cff4": {
+    "slug": "pre-move-in-cleaning-10-percent",
+    "type": "offer",
+    "desktop": "/images/providers/provider-3000530/adwaa-makkah-pre-move-in-cleaning-10-percent-offer-desktop.webp",
+    "mobile": "/images/providers/provider-3000530/adwaa-makkah-pre-move-in-cleaning-10-percent-offer-mobile.webp"
+  }
+}

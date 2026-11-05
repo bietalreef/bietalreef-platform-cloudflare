@@ -1,3 +1,5 @@
+import { getAbuDhabiDirectoryCompanies } from '../../../../lib/publishedCompanyPresence';
+import { getRehabSiteData } from '../../../../lib/rehabPresence';
 import DirectoryLandingPage from '../../../../components/DirectoryLandingPage';
 import Head from 'next/head';
 import Navbar from '../../../../components/Navbar';
@@ -16,8 +18,8 @@ import { UAE_DIRECTORY_SECTION_SLUGS, getEnglishUaeDirectoryCards } from '../../
 
 const atlasImageBySlug = Object.fromEntries(UAE_ATLAS_IMAGES.emirates.map((item) => [item.slug, item.image]));
 
-export default function EnglishEmiratePage({ emirate, directoryCards = [] }) {
-  return <DirectoryLandingPage locale="en" mode={emirate.slug}/>;
+export default function EnglishEmiratePage({ emirate, directoryCards = [], rehab = null, companies = [] }) {
+  return <DirectoryLandingPage locale="en" mode={emirate.slug} rehab={rehab} companies={companies}/>;
   /* legacy directory retained for route compatibility */
   const isAbuDhabi = emirate.slug === 'abu-dhabi';
   const canonical = `https://bietalreef.ae/en/uae/${emirate.slug}`;
@@ -108,7 +110,9 @@ export default function EnglishEmiratePage({ emirate, directoryCards = [] }) {
 export async function getStaticProps({ params }) {
   const emirate = getEmirate(params.emirate);
   if (!emirate) return { notFound: true };
-  return { props: { emirate, directoryCards: [] }, revalidate: 3600 };
+  const rehab = emirate.slug === 'abu-dhabi' ? await getRehabSiteData().catch(() => null) : null;
+  const companies = emirate.slug === 'abu-dhabi' ? await getAbuDhabiDirectoryCompanies().catch(() => []) : [];
+  return { props: { emirate, directoryCards: [], rehab, companies }, revalidate: 300 };
 }
 
 export async function getStaticPaths() {

@@ -4,6 +4,7 @@ const fs=require('node:fs');
 const path=require('node:path');
 const root=path.resolve(__dirname,'..');
 const data=require('../data/abuDhabiDirectoryEditorial.json');
+const chapterIndex=require('../data/abuDhabiChapterIndex.json');
 const read=p=>fs.readFileSync(path.join(root,p),'utf8');
 const main=read('components/DirectoryLandingPage.js');
 const modal=read('components/DirectoryReadModal.js');
@@ -59,4 +60,22 @@ test('Reading modal retains SSR text and keyboard focus management',()=>{
  assert.match(css,/max-height:100dvh/);
  assert.match(css,/::backdrop/);
  assert.match(css,/prefers-reduced-motion:reduce/);
+});
+
+test('Abu Dhabi's eight specialties have exactly 17 distinct topics in both languages',()=>{
+ const keys=['general-contracting','interior-design','general-maintenance','building-materials','aluminium-glass','furniture-decor','equipment-rental','cleaning-services'];
+ assert.deepEqual(Object.keys(chapterIndex.items),keys);
+ const ids=new Set();
+ for(const slug of keys){
+  const chapters=chapterIndex.items[slug];
+  assert.equal(chapters.length,17,slug);
+  assert.equal(new Set(chapters.map(c=>c.arTitle)).size,17);
+  assert.equal(new Set(chapters.map(c=>c.enTitle)).size,17);
+  for(const chapter of chapters){
+   assert.ok(chapter.arTitle.length>20&&chapter.enTitle.length>20);
+   assert.ok(!ids.has(chapter.id),chapter.id);
+   ids.add(chapter.id);
+  }
+ }
+ assert.equal(ids.size,136);
 });

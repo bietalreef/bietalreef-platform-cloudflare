@@ -61,7 +61,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab }) {
   );
 }
 
-export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], publishedCompanies = [], rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
+export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], publishedCompanies = [], baniyasReadingHtml = null, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
   if (rehabContext) return <RehabPresencePage data={data} locale="en" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="en" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} unavailable={unavailable} />;
   if (model) return <LocalServicesPage model={model} />;
@@ -95,7 +95,7 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
 
           <UaeDirectoryWeyaakCard locale="en" title={`Weyaak in ${area.nameEn}`} description={`Tell Weyaak what your project needs in ${area.nameEn}, and it will help you choose the specialty and reach the right provider or request path.`} />
 
-          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
+          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="Cleaning company serving this area">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">Cleaning company serving this area</h2>
             <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" /></div>
@@ -127,6 +127,9 @@ export async function getStaticProps({ params }) {
   const directoryCards = area ? await getEnglishUaeDirectoryCards() : [];
   const publishedCompanies=area&&emirate.slug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug)
     ? await getPublishedAbuDhabiAreaCompanies(directoryCards,'en',area.slug) : [];
+  const baniyasReadingHtml=area?.slug==='baniyas' && emirate.slug==='abu-dhabi'
+    ? (await import('../../../../data/baniyasConstructionReading')).baniyasConstructionReadingHtml('en')
+    : null;
   const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData().catch(() => null) : null;
 
   return {
@@ -137,6 +140,7 @@ export async function getStaticProps({ params }) {
       service: service || null,
       directoryCards,
       publishedCompanies,
+      baniyasReadingHtml,
       rehab,
     },
     revalidate: 3600,

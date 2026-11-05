@@ -62,7 +62,7 @@ test('Reading modal retains SSR text and keyboard focus management',()=>{
  assert.match(css,/prefers-reduced-motion:reduce/);
 });
 
-test('Abu Dhabi's eight specialties have exactly 17 distinct topics in both languages',()=>{
+test("Abu Dhabi's eight specialties have exactly 17 distinct topics in both languages",()=>{
  const keys=['general-contracting','interior-design','general-maintenance','building-materials','aluminium-glass','furniture-decor','equipment-rental','cleaning-services'];
  assert.deepEqual(Object.keys(chapterIndex.items),keys);
  const ids=new Set();

@@ -40,7 +40,8 @@ test('emirate landing changes preserve existing knowledge entries and use the sa
  const component=fs.readFileSync(new URL('../components/DirectoryLandingPage.js',import.meta.url),'utf8');
  const knowledge=fs.readFileSync(new URL('../components/EmirateKnowledge.js',import.meta.url),'utf8');
  assert.match(component,/DirectoryEmirateSectorCard/);
- assert.match(component,/destinations\.map\(area=>/);
+ assert.match(component,/<CompactAreaLinks[^>]+areas=\{abu\?/);
+ assert.ok(component.indexOf('<CompactAreaLinks')>component.indexOf('<section id="questions"'),'areas follow the knowledge and questions');
  assert.match(knowledge,/section\.blocks\.map/);
  assert.match(knowledge,/references\[mode\]/);
 });

@@ -10,6 +10,7 @@ import ServicesSmartFooter from '../../../components/ServicesSmartFooter';
 import SectionBackBar from '../../../components/SectionBackBar';
 import SectionCategoryHero from '../../../components/SectionCategoryHero';
 import PublishedEntityGrid from '../../../components/PublishedEntityGrid';
+import DirectoryCustomerSupportCard from '../../../components/DirectoryCustomerSupportCard';
 import {
   getPublishedSectionEntities,
   getUaeFooterCards,
@@ -82,10 +83,7 @@ export default function EnglishCategoryPage({
           <PublishedEntityGrid items={publishedServices} locale="en" type="service" />
           {publishedServices.length === 0 && (
             <section className="mx-auto max-w-6xl px-4 pb-16">
-              <div className="rounded-3xl border border-[#E6DCC8] bg-white p-10 text-center shadow-sm" role="status">
-                <h2 className="text-2xl font-black text-[#0F3F1A]">No published services are available yet</h2>
-                <p className="mt-3 leading-8 text-gray-600">No live database card currently matches the {service.nameEn} section. You can still request a tailored quotation.</p>
-              </div>
+              <DirectoryCustomerSupportCard locale="en" />
             </section>
           )}
           <section className="mx-auto max-w-7xl px-4 pb-16">

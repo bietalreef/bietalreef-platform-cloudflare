@@ -9,6 +9,7 @@ import SecondaryHeader from './SecondaryHeader';
 import UaeDirectoryHero from './UaeDirectoryHero';
 import UaeDirectoryWeyaakCard from './UaeDirectoryWeyaakCard';
 import UaeSmartFooter from './UaeSmartFooter';
+import DirectoryCustomerSupportCard from './DirectoryCustomerSupportCard';
 
 function itemsForCard(card) {
   if (card.sectionKey === 'services_offers') return card.activity.services;
@@ -178,9 +179,7 @@ function LandingContent({
               {entities.map((entity) => <DirectoryEntityCard key={`${entity.entityType}-${entity.id}`} entity={entity} locale={locale} />)}
             </div>
           ) : (
-            <div className="rounded-[2rem] border border-dashed border-[#D7C7A7] bg-white p-8 text-center">
-              <p className="text-sm font-bold leading-7 text-gray-600">{isEn ? 'No published card currently matches this activity and location. Approved providers and content will appear here automatically.' : 'لا توجد بطاقة منشورة حاليًا تطابق هذا النشاط والموقع. سيظهر الشركة أو المحتوى هنا تلقائيًا بعد اعتماده من لوحة الإدارة.'}</p>
-            </div>
+            <DirectoryCustomerSupportCard locale={locale} />
           )}
         </section>
 

@@ -2,7 +2,7 @@ import { useEffect, useId, useRef, useState } from 'react';
 import styles from './DirectoryReadingDialog.module.css';
 
 // The reading content is rendered in the original HTML even while the dialog is closed.
-export default function DirectoryReadingDialog({ title, locale = 'ar', children }) {
+export default function DirectoryReadingDialog({ title, locale = 'ar', triggerLabel, children }) {
   const dialog = useRef(null);
   const trigger = useRef(null);
   const headingId = useId();
@@ -28,7 +28,7 @@ export default function DirectoryReadingDialog({ title, locale = 'ar', children 
   };
 
   return <>
-    <button ref={trigger} type="button" className={styles.trigger} onClick={show} aria-haspopup="dialog">{en ? 'Read more' : 'المزيد'}</button>
+    <button ref={trigger} type="button" className={styles.trigger} onClick={show} aria-haspopup="dialog" aria-label={triggerLabel || undefined}>{en ? 'Read more' : 'المزيد'}</button>
     <dialog ref={dialog} className={styles.dialog} aria-labelledby={headingId} onClose={closed} onClick={event => { if (event.target === event.currentTarget) dialog.current?.close(); }}>
       <div className={styles.panel} dir={en ? 'ltr' : 'rtl'} lang={locale}>
         <div className={styles.header}>

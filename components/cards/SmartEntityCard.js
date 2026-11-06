@@ -100,8 +100,8 @@ function GoogleMapMark() {
   );
 }
 
-function UnifiedProviderCard({ item }) {
-  return <DirectoryCompanyCard item={item}/>;
+function UnifiedProviderCard({ item, locale, showReading }) {
+  return <DirectoryCompanyCard item={item} locale={locale} showReading={showReading}/>;
 }
 
 function PremiumAlHootProviderCard({ item }) {
@@ -186,8 +186,8 @@ function PremiumEntityCard({ item }) {
   );
 }
 
-export function ProviderCard({ item }) {
-  return <UnifiedProviderCard item={item} />;
+export function ProviderCard({ item, locale, showReading = false }) {
+  return <UnifiedProviderCard item={item} locale={locale} showReading={showReading} />;
 }
 
 export function ServiceOfferCard({ item }) {

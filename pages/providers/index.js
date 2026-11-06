@@ -1,27 +1,21 @@
 import { directoryCompanyCards } from '../../lib/directoryCompanyCards';
+import { providerDirectorySchema } from '../../lib/providerDirectorySeo';
 import Link from 'next/link';
-import Image from 'next/image';
 import Navbar from '../../components/Navbar';
 import Footer from '../../components/Footer';
 import SEOHead from '../../components/SEOHead';
 import ProvidersSmartFooter from '../../components/ProvidersSmartFooter';
-import {
-  ArrowRight,
-  Building2,
-  MessageCircle,
-  Users,
-  ChevronLeft,
-} from 'lucide-react';
+import { ChevronLeft } from 'lucide-react';
 import { ProviderCard } from '../../components/cards/SmartEntityCard';
-import MainSectorCards from '../../components/MainSectorCards';
+import ProviderSectorCards from '../../components/ProviderSectorCards';
+import ProviderSelectionGuide from '../../components/ProviderSelectionGuide';
+import DirectoryCustomerSupportCard from '../../components/DirectoryCustomerSupportCard';
 import {
   getPublishedProviderCards,
   getUaeSectionCards,
 } from '../../lib/platformDirectoryCards';
 import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
 import SectionBackBar from '../../components/SectionBackBar';
-import RehabDirectoryCard from '../../components/provider/RehabDirectoryCard';
-import AlNaeemDirectoryCard from '../../components/provider/AlNaeemDirectoryCard';
 import { getRehabSiteData } from '../../lib/rehabPresence';
 import { getAlNaeemData } from '../../lib/alNaeemPresence';
 
@@ -45,28 +39,15 @@ const steps = [
 
 export default function ProvidersPage({ providers = [], directoryCards = [], rehab = null, alNaeem = null }) {
   const companyCards = directoryCompanyCards(providers,rehab,alNaeem,'ar');
-  const structuredData = {
-    '@context': 'https://schema.org',
-    '@type': 'CollectionPage',
-    name: 'الشركات والمهنيون في بيت الريف',
-    description: 'دليل للشركات والمهنيين في الإمارات: مقاولون، موردون، ورش، مصانع، مكاتب هندسية وحرفيون.',
-    url: 'https://bietalreef.ae/providers',
-    mainEntity: companyCards.map((provider) => ({
-      '@type': 'LocalBusiness',
-      name: provider.name,
-      url: `https://bietalreef.ae${provider.href}`,
-      ...(provider.coverImage ? {image: provider.coverImage.startsWith('http') ? provider.coverImage : `https://bietalreef.ae${provider.coverImage}`} : {}),
-      identifier: provider.providerId,
-    })),
-  };
+  const structuredData = providerDirectorySchema(companyCards, 'ar');
 
   return (
     <div dir="rtl" className="min-h-screen bg-[#FDFBF7]">
       <SEOHead
-        title="الشركات والمهنيون | مقاولون وموردون وحرفيون | بيت الريف"
-        description="تصفح شركات خدمات البناء والمقاولات والصيانة والتصميم الداخلي داخل بيت الريف، وافتح الملفات الرقمية أو تعرف على آلية الانضمام."
-        keywords="شركات خدمات الإمارات, مقاولين, موردين, حرفيين, شركات بناء, ورش نجارة, تسجيل شركة متخصصة"
+        title="دليل الشركات والمهنيين في الإمارات | بيت الريف"
+        description="اكتشف شركات المقاولات والصيانة والتنظيف والتصميم والموردين في الإمارات، وراجع تخصص كل جهة وملفها قبل طلب عرض سعر."
         canonicalPath="/providers"
+        alternatePath="/en/providers"
         ogImage="https://bietalreef.ae/images/providers-hero.webp"
         structuredData={structuredData}
       />
@@ -86,7 +67,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
               اختر القطاع المناسب للوصول إلى الشركات والتخصصات المرتبطة به ضمن رحلة تصفح واضحة ومتناسقة.
             </p>
           </div>
-          <MainSectorCards sectionKey="providers" locale="ar" />
+          <ProviderSectorCards locale="ar" />
         </section>
 
         <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14">
@@ -102,11 +83,13 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
 
           <div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">
 
-            {companyCards.map((provider) => (
-              <ProviderCard key={provider.id} item={provider} />
-            ))}
+            {companyCards.length ? companyCards.map((provider) => (
+              <ProviderCard key={provider.id} item={provider} locale="ar" showReading />
+            )) : <DirectoryCustomerSupportCard locale="ar" />}
           </div>
         </section>
+
+        <ProviderSelectionGuide locale="ar" />
 
         <section className="hidden border-y border-[#E6DCC8] bg-white py-20 md:block">
           <div className="mx-auto max-w-6xl px-4">

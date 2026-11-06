@@ -2,7 +2,6 @@ import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import UniversalRequestCTA from './UniversalRequestCTA';
 import PlatformAccessActions from './PlatformAccessActions';
 import AlAinAreasFooter from './AlAinAreasFooter';
 import { getEmirate } from '../data/siteTaxonomy';
@@ -135,7 +134,7 @@ function EmirateFooterContext({ language, emirate }) {
 
 export { socialLinks };
 
-export default function Footer({ locale = 'ar', showRequestCTA = true, contextualFooter = null, hideEmirateContext = false }) {
+export default function Footer({ locale = 'ar', contextualFooter = null, hideEmirateContext = false }) {
   const router = useRouter();
   const language = locale === 'en' ? 'en' : 'ar';
   const t = copy[language];
@@ -151,7 +150,6 @@ export default function Footer({ locale = 'ar', showRequestCTA = true, contextua
 
   return (
     <>
-      {showRequestCTA ? <UniversalRequestCTA locale={language} /> : null}
       <footer className="border-t border-[#E6DCC8] bg-white text-gray-900" dir={t.dir} role="contentinfo">
         <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
           {contextualFooter || (isAlAin ? <AlAinAreasFooter locale={language} anchorId={pathParts.length === uaeIndex + 3 ? 'districts' : undefined} /> : activeEmirate?.slug === 'abu-dhabi' || hideEmirateContext ? null : <EmirateFooterContext language={language} emirate={activeEmirate} />)}

@@ -32,7 +32,7 @@ export default function DirectoryCompanyCard({ item, locale, onAction }) {
   if (!item?.href) return null;
   const en = locale ? locale === 'en' : item.href.startsWith('/en/');
   const cover = media(item.coverImage), logo = media(item.logoImage);
-  const location = pageLocation(router.asPath, item, en);
+  const location = item.location || pageLocation(router.asPath, item, en);
   const contact = String(item.whatsapp || '');
   const number = digitsFor(item.phone || (contact.startsWith('http') ? '' : contact));
   const waNumber = digitsFor(contact);

@@ -78,7 +78,8 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
      </div>
    </section>
    <section className={styles.section} aria-labelledby="area-companies">
-     <h2 id="area-companies">{en?'Published businesses with confirmed coverage':'الشركات المنشورة ذات التغطية المؤكدة'}</h2>
+     <h2 id="area-companies">{en?'Published businesses by service area':'الشركات المنشورة حسب نطاق الخدمة'}</h2>
+     {providers.length > 0 && <p className={styles.lede}>{en ? 'Ask each business to confirm service availability for your exact location and date.' : 'تواصل مع الشركة لتأكيد توفر الخدمة في موقعك والموعد المناسب.'}</p>}
      <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale}/>}</div>
    </section>
    <section className={styles.section} aria-labelledby="area-questions">

@@ -1,0 +1,5 @@
+.topics{padding-inline-start:1.35rem;margin:1rem 0 1.5rem}
+.topics li{padding:.18rem 0;border-bottom:1px solid #e8edf1}
+.topics h4{margin:.85rem 0 .25rem;color:#174e73;font-weight:750;line-height:1.7}
+.topics li p{margin:.25rem 0 .9rem;color:#3f5365;line-height:1.95}
+@media(max-width:700px){.topics{padding-inline-start:1.05rem}.topics h4{font-size:.95rem}}

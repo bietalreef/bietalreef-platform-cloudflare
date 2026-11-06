@@ -3,8 +3,9 @@ import Link from 'next/link';
 import entries from '../data/emirateKnowledge.json';
 import styles from './DirectoryKnowledge.module.css';
 import DirectoryReadingDialog from './DirectoryReadingDialog';
+import { EMIRATE_LABELS } from '../data/emirateSectorContexts';
 
-const references = {
+export const references = {
   'abu-dhabi': [
     ['دائرة البلديات والنقل: منصة بناء', 'Department of Municipalities and Transport: Binaa', 'https://www.dmt.gov.ae/Media-Centre/News/Binaa-Construction-Permits-Platform-Launched'],
     ['الشركات الهندسية ذات التصنيف الساري', 'Engineering firms with valid classification', 'https://pages.dmt.gov.ae/en/Engineering-Firms'],
@@ -95,13 +96,54 @@ function AbuDhabiTopic({ section, locale, index, prefix }) {
   </article>;
 }
 
+const otherCardImages = {
+  dubai: { ar: ['consultation','compare-quotes','site-review'], en: ['consultation','compare-quotes','digital-workflow'] },
+  sharjah: { ar: ['consultation','compare-quotes','site-review'], en: ['consultation','compare-quotes','site-review'] },
+  ajman: { ar: ['site-review','consultation','handover'], en: ['site-review','handover','compare-quotes'] },
+  'umm-al-quwain': { ar: ['consultation','site-review','compare-quotes'], en: ['consultation','compare-quotes','handover'] },
+  'ras-al-khaimah': { ar: ['consultation','compare-quotes','site-review'], en: ['consultation','compare-quotes','site-review'] },
+  fujairah: { ar: ['consultation','site-review','compare-quotes'], en: ['consultation','site-review','compare-quotes'] },
+};
+const sceneAlt = {
+  consultation: { ar:'تصور توضيحي لمالك واستشارية يراجعان مخططات منزل', en:'Illustration of a homeowner and consultant reviewing house plans' },
+  'site-review': { ar:'تصور توضيحي لمهندس يراجع أعمال بناء في موقع فيلا', en:'Illustration of an engineer reviewing work at a villa construction site' },
+  'compare-quotes': { ar:'تصور توضيحي لمالك ومختص يقارنان مستندات وعينات مواد', en:'Illustration of a homeowner and professional comparing documents and material samples' },
+  handover: { ar:'تصور توضيحي لمالك ومختص يراجعان استلام منزل', en:'Illustration of a homeowner and professional reviewing a home handover' },
+  'digital-workflow': { ar:'تصور توضيحي لمالك واستشارية يراجعان نموذجًا رقميًا للمبنى', en:'Illustration of a homeowner and consultant reviewing a digital building model' },
+};
+
+function OtherEmirateTopic({ section, locale, index, prefix, mode }) {
+  const en = locale === 'en';
+  const image = otherCardImages[mode]?.[locale]?.[index];
+  if (!image) return <Topic section={section} locale={locale} index={index}/>;
+  const root = `/images/emirate-guide-2026/${image}`;
+  const intro = section.blocks[0].replace(/\*\*/g,'').replace(/^#{1,3}\s*/,'').replace(/^[-\d.]+\s*/,'');
+  return <article className={styles.topic}>
+    <div className={`${styles.image} ${styles.abuImage}`}><img
+      src={`${root}-large.webp`}
+      srcSet={`${root}-small.webp 600w, ${root}-medium.webp 840w, ${root}-large.webp 1200w`}
+      sizes="(max-width: 700px) 95vw, (max-width: 1024px) 47vw, 26vw"
+      width="1200" height="675" alt={`${sceneAlt[image][locale]} — ${en ? `${EMIRATE_LABELS[mode][1]} directory` : `دليل ${EMIRATE_LABELS[mode][0]}`}`} loading="lazy" decoding="async"
+    /><small className={styles.imageNotice}>{en ? 'Illustrative image' : 'صورة توضيحية'}</small></div>
+    <div className={styles.body}>
+      <h3>{section.heading}</h3><p className={styles.summary}>{intro}</p>
+      <div className={styles.actions}><DirectoryReadingDialog title={section.heading} locale={locale}>
+        {section.blocks.map((block, i) => <Block key={i} text={block}/>)}
+        <h3>{en ? 'Official references' : 'المراجع الرسمية'}</h3>
+        {(references[mode] || []).map(([ar, english, href]) => <p key={href}><a href={href} target="_blank" rel="noopener noreferrer">{en ? english : ar}</a></p>)}
+        <p><Link href={`${prefix}/uae/${mode}/general-contracting`}>{en ? 'Explore local construction services' : 'استكشف خدمات المقاولات في الإمارة'}</Link></p>
+      </DirectoryReadingDialog></div>
+    </div>
+  </article>;
+}
+
 export default function EmirateKnowledge({ mode, locale = 'ar' }) {
   const sections = entries[mode]?.[locale]?.sections || [];
   if (!sections.length) return null;
   const prefix = locale === 'en' ? '/en' : '';
   return <section id="guide" className={styles.guide} aria-label={locale === 'en' ? 'Local construction guide' : 'دليل البناء المحلي'}>
     <div className={styles.heading}><span>{locale === 'en' ? 'LOCAL GUIDANCE' : 'دليل الإمارة'}</span><h2>{locale === 'en' ? 'Before you begin your project' : 'قبل أن تبدأ مشروعك'}</h2></div>
-    <div className={styles.grid}>{sections.map((section, index) => mode === 'abu-dhabi' ? <AbuDhabiTopic key={section.heading} section={section} locale={locale} index={index} prefix={prefix} /> : <Topic key={section.heading} section={section} locale={locale} index={index} />)}</div>
+    <div className={styles.grid}>{sections.map((section, index) => mode === 'abu-dhabi' ? <AbuDhabiTopic key={section.heading} section={section} locale={locale} index={index} prefix={prefix} /> : <OtherEmirateTopic key={section.heading} section={section} locale={locale} index={index} prefix={prefix} mode={mode} />)}</div>
     <div className={styles.actions}><Link href={`${prefix}/uae/${mode}/general-contracting`}>{locale === 'en' ? 'Explore local construction services' : 'استكشف خدمات المقاولات في الإمارة'}</Link>{(references[mode] || []).map(([ar, en, href]) => <a key={href} href={href} target="_blank" rel="noopener noreferrer">{locale === 'en' ? en : ar}</a>)}</div>
     <p className={styles.reviewed}>{locale === 'en' ? 'Source links reviewed: 3 November 2026. Confirm current requirements with the relevant authority.' : 'مراجعة روابط المصادر: 3 نوفمبر 2026. تحقق من المتطلبات الحالية لدى الجهة المختصة.'}</p>
   </section>;

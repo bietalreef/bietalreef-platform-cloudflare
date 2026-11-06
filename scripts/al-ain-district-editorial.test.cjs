@@ -28,6 +28,21 @@ test('Al Hili has eight bilingual topic indexes with no duplicate titles', () =>
   }
 });
 
+test('Every other existing Al Ain area has eight independently written bilingual sector contexts', async () => {
+  const { AL_AIN_DISTRICT_SECTOR_CONTEXTS: contexts } = await import('../data/alAinDistrictSectorContexts.js');
+  const expected = AREAS.filter(area => area.slug !== 'al-hili').map(area => area.slug);
+  assert.deepEqual(new Set(Object.keys(contexts)), new Set(expected));
+  const sentences = { ar: [], en: [] };
+  for (const slug of expected) {
+    assert.equal(Object.keys(contexts[slug]).length, 8, slug);
+    for (const value of Object.values(contexts[slug])) for (const lang of ['ar', 'en']) {
+      assert.ok(value[lang].length > 45, `${slug} missing ${lang} guidance`);
+      sentences[lang].push(value[lang]);
+    }
+  }
+  for (const lang of ['ar', 'en']) assert.equal(new Set(sentences[lang]).size, 136);
+});
+
 test('only the two supplied Arabic drafts are marked complete and have substantial text', () => {
   const complete = Object.entries(editorial.hiliSectors).flatMap(([slug, sector]) => sector.topics.filter(topic => topic.status === 'complete_ar_draft').map(topic => [slug, topic.number]));
   assert.deepEqual(complete, [['general-contracting', 1], ['general-contracting', 12]]);

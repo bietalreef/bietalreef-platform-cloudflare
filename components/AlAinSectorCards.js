@@ -30,7 +30,7 @@ function Reading({ sector, locale, choice }) {
     <p>{en ? 'These are the planned topics. Their detailed articles are still being written and reviewed.' : 'هذه عناوين المحاور المخططة؛ الشروح التفصيلية ما زالت قيد الكتابة والمراجعة.'}</p>
     <ol className={styles.topics}>{topics.map(topic => <li key={topic}>{topic}</li>)}</ol>
     {choice ? <p><Link href={choice.href}>{en ? 'Explore this specialty in Al Ain' : 'استكشف التخصص في العين'}</Link></p> :
-      <p>{en ? 'A dedicated local directory is not available for this specialty yet.' : 'لا تتوفر صفحة محلية مخصصة لهذا التخصص حاليًا.'} <Link href={`${en ? '/en' : ''}/request-quote?city=al-ain`}>{en ? 'Prepare a request' : 'جهّز طلبك'}</Link></p>}
+      <p>{en ? 'Customer service can help you prepare your request and check suitable options.' : 'تساعدك خدمة العملاء في تجهيز طلبك والتحقق من الخيارات المناسبة.'} <Link href={`${en ? '/en' : ''}/contact`}>{en ? 'Contact customer service' : 'تواصل مع خدمة العملاء'}</Link></p>}
   </DirectoryReadingDialog>;
 }
 
@@ -47,9 +47,9 @@ export default function AlAinSectorCards({ locale = 'ar', sectors, locationRoot 
           <div className={styles.actions}>
             <Reading sector={sector} locale={locale} choice={choice}/>
             {choice ? <Link href={choice.href} className={styles.explore}>{en ? 'Explore' : 'استكشف'}{en ? <ArrowUpRight aria-hidden="true"/> : <ArrowUpLeft aria-hidden="true"/>}</Link> :
-              <Link href={`${en ? '/en' : ''}/request-quote?city=al-ain`} className={styles.explore}>{en ? 'Prepare a request' : 'جهّز طلبك'}{en ? <ArrowUpRight aria-hidden="true"/> : <ArrowUpLeft aria-hidden="true"/>}</Link>}
+              <Link href={`${en ? '/en' : ''}/contact`} className={styles.explore}>{en ? 'Contact support' : 'خدمة العملاء'}{en ? <ArrowUpRight aria-hidden="true"/> : <ArrowUpLeft aria-hidden="true"/>}</Link>}
           </div>
-          {!choice && <p className={styles.note}>{en ? 'Local specialty page not available yet.' : 'الصفحة المحلية لهذا التخصص غير متاحة حاليًا.'}</p>}
+          {!choice && <p className={styles.note}>{en ? 'Our team can help with your request.' : 'فريقنا يساعدك في تجهيز طلبك.'}</p>}
         </div>
       </article>;
     })}

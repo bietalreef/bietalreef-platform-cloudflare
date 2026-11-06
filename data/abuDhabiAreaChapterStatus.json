@@ -1,0 +1,678 @@
+{
+  "date": "2026-11-06",
+  "branch": "feat/abu-dhabi-directory-editorial-20261105",
+  "scope": "11 existing Abu Dhabi locality routes; Al Ain is handled separately",
+  "target": {
+    "regions": 11,
+    "sectorsPerRegion": 8,
+    "chaptersPerSector": 17,
+    "chaptersPerLanguage": 1496
+  },
+  "criteria": {
+    "arabicMinWords": 500,
+    "english": "Original, substantially equivalent practical content",
+    "publication": "Never treat index-only headings as completed articles"
+  },
+  "localities": {
+    "baniyas": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 17,
+          "editoriallyApproved": 0,
+          "unwritten": 0,
+          "status": "written-pending-editorial-review"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "khalifa-city": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "mohammed-bin-zayed-city": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "shamkha": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "al-wathba": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "al-rahba": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "musaffah": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "al-reem-island": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "al-raha": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "abu-dhabi-city": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    },
+    "al-dhafra": {
+      "sectors": {
+        "general-contracting": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "interior-design": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "general-maintenance": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "building-materials": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "aluminium-glass": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "furniture-decor": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "equipment-rental": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        },
+        "cleaning-services": {
+          "target": 17,
+          "authored": 0,
+          "editoriallyApproved": 0,
+          "unwritten": 17,
+          "status": "editorial-index-only"
+        }
+      }
+    }
+  }
+}

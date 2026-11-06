@@ -16,7 +16,8 @@ test('No phantom specialized providers when a cleaning service has zero verified
  const model=read('lib/alAinCleaningModel.js'), page=read('components/AlAinCleaningPage.js');
  assert.match(model,/relatedProviders = service && !selected\.length/);
  assert.match(model,/indexable:selected\.length>0/);
- assert.match(page,/لا توجد حاليًا بطاقة خدمة منشورة/);
+ assert.match(page,/!exactMatch/);
+ assert.match(page,/اسأل الشركة عن الخدمة المطلوبة تحديدًا/);
 });
 test('Local villa guide is not branded as one individual provider',()=>{
  const s=read('data/alAinCleaningGuide.js');

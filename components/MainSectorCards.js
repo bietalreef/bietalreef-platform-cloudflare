@@ -58,7 +58,7 @@ export default function MainSectorCards({ sectionKey, locale = 'ar', locationRoo
         <CompactDescription className="mt-1" text={sector.description[locale]} locale={locale}/>
         <div className="mt-auto flex flex-wrap gap-1.5 pt-3">
           {sectorChoices(sector, sectionKey, locale, locationRoot, locationMode).map(choice => <Link key={choice.slug} href={choice.href} className="inline-flex min-h-10 items-center gap-1 rounded-lg border border-[#c6dbe9] bg-[#eff6fb] px-2 py-1.5 text-xs font-bold leading-5 text-[#175884] hover:bg-[#e0eef8]">{choice.name}<ArrowUpLeft size={14} aria-hidden="true"/></Link>)}
-          {!sectorChoices(sector, sectionKey, locale, locationRoot, locationMode).length && <span className="text-xs leading-5 text-slate-500">{en ? 'Local page not available yet' : 'لا تتوفر صفحة محلية لهذا القسم بعد'}</span>}
+          {!sectorChoices(sector, sectionKey, locale, locationRoot, locationMode).length && <a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center gap-1 rounded-lg border border-[#185b87] bg-white px-3 py-2 text-xs font-bold text-[#185b87] hover:bg-[#eff6fb]">{en ? 'Contact customer service' : 'تواصل مع خدمة العملاء'}<ArrowUpLeft size={14} aria-hidden="true"/></a>}
         </div>
       </div>
     </article>)}

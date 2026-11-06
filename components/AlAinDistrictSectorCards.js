@@ -6,6 +6,7 @@ import { sectorChoices } from './MainSectorCards';
 import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 import { UAE_SECTOR_ASSETS } from '../data/uaeDirectoryVisuals';
 import editorial from '../data/alAinDistrictEditorial.json';
+import { AL_AIN_DISTRICT_SECTOR_CONTEXTS } from '../data/alAinDistrictSectorContexts';
 import { HILI_ARTICLES_EN } from '../data/alAinHiliArticlesEn';
 import { localPath } from '../lib/localServices';
 import styles from './AlAinSectorCards.module.css';
@@ -41,26 +42,35 @@ function TopicIndex({ sector, locale }) {
   </ol>;
 }
 
-export default function AlHiliSectorCards({ locale = 'ar' }) {
+export default function AlAinDistrictSectorCards({ locale = 'ar', area }) {
   const en = locale === 'en';
-  const districtRoot = localPath({ locale, area: 'al-hili' });
+  const isHili = area.slug === 'al-hili';
+  const areaName = en ? area.nameEn : area.nameAr;
+  const districtRoot = localPath({ locale, area: area.slug });
   const cityRoot = localPath({ locale });
-  const quote = `${en ? '/en' : ''}/request-quote?city=al-ain&area=al-hili`;
+  const quote = `${en ? '/en' : ''}/contact`;
   return <div className={styles.grid} dir={en ? 'ltr' : 'rtl'}>
     {UAE_MAIN_SECTORS.map(sector => {
-      const item = editorial.hiliSectors[sector.slug];
+      const item = isHili ? editorial.hiliSectors[sector.slug] : AL_AIN_DISTRICT_SECTOR_CONTEXTS[area.slug]?.[sector.slug];
+      if (!item) return null;
       const local = sectorChoices(sector, 'providers', locale, districtRoot, 'al-ain-district')[0];
       const city = sectorChoices(sector, 'providers', locale, cityRoot, 'al-ain')[0];
       const href = local?.href || city?.href || quote;
-      const destination = local ? (en ? 'Explore in Al Hili' : 'استكشف في الهيلي') : city ? (en ? 'Explore Al Ain specialty' : 'استكشف تخصص العين') : (en ? 'Prepare a request' : 'جهّز طلبك');
+      const destination = local ? (en ? `Explore in ${areaName}` : `استكشف في ${areaName}`) : city ? (en ? 'Explore Al Ain specialty' : 'استكشف تخصص العين') : (en ? 'Contact support' : 'خدمة العملاء');
       return <article id={`sector-${sector.slug}`} key={sector.slug} className={styles.card}>
         <div className={styles.image}><DirectoryResponsiveImage asset={UAE_SECTOR_ASSETS[sector.slug]} locale={locale}/></div>
         <div className={styles.body}>
           <h3>{sector.name[locale]}</h3>
           <p className={styles.summary}>{item[locale]}</p>
           <div className={styles.actions}>
-            <DirectoryReadingDialog title={en ? `${sector.name.en} in Al Hili` : `${sector.name.ar} في الهيلي`} locale={locale}>
+            <DirectoryReadingDialog title={en ? `${sector.name.en} in ${areaName}` : `${sector.name.ar} في ${areaName}`} locale={locale}>
               <p>{item[locale]}</p>
+              {!isHili && <>
+                <h3>{en ? `Planning in ${areaName}` : `خطط لعملك في ${areaName}`}</h3>
+                <p>{editorial.areas[area.slug][locale]}</p>
+                {editorial.areas[area.slug].reference && <p><a href={editorial.areas[area.slug].reference} target="_blank" rel="noopener noreferrer">{en ? 'Local heritage reference' : 'المصدر المحلي للتراث'}</a></p>}
+              </>}
+              {isHili && <>
               <h3>{en ? 'Al Hili guide: topics and articles' : 'دليل الهيلي: المحاور والمقالات'}</h3>
               <p>{en ? 'Topics marked “In preparation” are an editorial index, not completed articles. Open any available article below.' : 'المحاور المعلّمة «قيد الإعداد» فهرس تحريري وليست مقالات مكتملة. يمكنك فتح المقالات المتاحة أدناه.'}</p>
               <TopicIndex sector={sector} locale={locale}/>
@@ -69,11 +79,12 @@ export default function AlHiliSectorCards({ locale = 'ar' }) {
                 <p><a href="https://pages.dmt.gov.ae/en/engineering-firms" target="_blank" rel="noopener noreferrer">{en ? 'Classified engineering firms' : 'قائمة الشركات الهندسية المصنفة'}</a></p>
                 <p><a href="https://visitabudhabi.ae/en/things-to-do/nature-and-wildlife/parks/hili-archaeological-garden" target="_blank" rel="noopener noreferrer">{en ? 'Al Hili archaeological garden' : 'حديقة آثار الهيلي'}</a></p>
               </section>}
+              </>}
               <p><Link href={href}>{destination}</Link></p>
             </DirectoryReadingDialog>
             <Link href={href} className={styles.explore}>{destination}{en ? <ArrowUpRight aria-hidden="true"/> : <ArrowUpLeft aria-hidden="true"/>}</Link>
           </div>
-          {!local && <p className={styles.note}>{city ? (en ? 'Opens the city-wide directory; confirm coverage with the provider.' : 'يفتح دليل العين العام؛ تأكد من تغطية الهيلي مع مقدم الخدمة.') : (en ? 'No dedicated specialty directory is available yet.' : 'لا تتوفر صفحة مخصصة لهذا التخصص بعد.')}</p>}
+          {!local && <p className={styles.note}>{city ? (en ? 'Opens the city-wide directory; confirm coverage with the provider.' : 'يفتح دليل العين العام؛ تأكد من تغطية موقعك مع مقدم الخدمة.') : (en ? 'Our team can help with your request.' : 'فريقنا يساعدك في تجهيز طلبك.')}</p>}
         </div>
       </article>;
     })}

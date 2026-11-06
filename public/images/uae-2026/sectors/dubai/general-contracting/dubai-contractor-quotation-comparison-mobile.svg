@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1000" viewBox="0 0 600 1000" role="img" aria-labelledby="title desc"><title id="title">مقارنة عروض المقاولين | Comparing contractor quotations</title><desc id="desc">Six aligned criteria: scope, materials, specifications, exclusions, duration and warranty. Columns 01–03 are illustrative offers; check means documented, question means clarification, dash means not stated. Not real contractor ratings or prices.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#2877a5"/></marker></defs>
+<rect x="0" y="0" width="600" height="1000" rx="0" fill="#f2f8fc" stroke="#f2f8fc" stroke-width="2"/>
+<circle cx="600" cy="0" r="216.0" fill="#e5f2fa"/><circle cx="0" cy="1000" r="138.0" fill="#eae8df" opacity=".55"/>
+<path d="M32 24H568" fill="none" stroke="#c6e4f5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="25" y="50" width="550" height="900" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<rect x="235" y="80" width="80" height="60" rx="18" fill="#193b53" stroke="#193b53" stroke-width="2"/>
+<text x="275" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="white">01</text>
+<rect x="350" y="80" width="80" height="60" rx="18" fill="#193b53" stroke="#193b53" stroke-width="2"/>
+<text x="390" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="white">02</text>
+<rect x="465" y="80" width="80" height="60" rx="18" fill="#193b53" stroke="#193b53" stroke-width="2"/>
+<text x="505" y="119" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="white">03</text>
+<rect x="37" y="175" width="526" height="105" rx="14" fill="#f5f9fc" stroke="#f5f9fc" stroke-width="2"/>
+<text x="65" y="238" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">01</text>
+<g transform="translate(100 195) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="13" width="67" height="80" rx="5"/><path d="m29 34 5 5 9-11m-14 27 5 5 9-11m-14 27 5 5 9-11M53 34h20M53 55h20M53 76h20"/></g>
+<circle cx="275" cy="230" r="18" fill="#d9edf8"/>
+<path d="M267 230l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390" cy="230" r="18" fill="#d9edf8"/>
+<path d="M382 230l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="505" cy="230" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="505" y="237" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<text x="65" y="363" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">02</text>
+<g transform="translate(100 320) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="m15 37 35-20 35 20v40L50 97 15 77zM15 37l35 20 35-20M50 57v40M32 27l35 20v19"/></g>
+<circle cx="275" cy="355" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="275" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<circle cx="390" cy="355" r="18" fill="#d9edf8"/>
+<path d="M382 355l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="505" cy="355" r="18" fill="#d9edf8"/>
+<path d="M497 355l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="37" y="425" width="526" height="105" rx="14" fill="#f5f9fc" stroke="#f5f9fc" stroke-width="2"/>
+<text x="65" y="488" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">03</text>
+<g transform="translate(100 445) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="M15 82 75 22l17 17-60 60zM28 69l8 8M42 55l8 8M56 41l8 8M70 27l8 8"/></g>
+<circle cx="275" cy="480" r="18" fill="#d9edf8"/>
+<path d="M267 480l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390" cy="480" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="390" y="487" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<circle cx="505" cy="480" r="18" fill="#d9edf8"/>
+<path d="M497 480l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="65" y="613" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">04</text>
+<g transform="translate(100 570) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><rect x="15" y="16" width="68" height="78" rx="5"/><path d="M28 32h40M28 45h27"/><circle cx="69" cy="76" r="22" fill="#f8f4eb"/><path d="m54 61 30 30"/></g>
+<circle cx="275" cy="605" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="275" y="612" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<circle cx="390" cy="605" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="390" y="612" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<circle cx="505" cy="605" r="18" fill="#d9edf8"/>
+<path d="M497 605l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="37" y="675" width="526" height="105" rx="14" fill="#f5f9fc" stroke="#f5f9fc" stroke-width="2"/>
+<text x="65" y="738" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">05</text>
+<g transform="translate(100 695) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><rect x="13" y="23" width="76" height="70" rx="6"/><path d="M13 43h76M32 12v22M70 12v22M29 58h8M49 58h8M69 58h8M29 76h8M49 76h8"/></g>
+<circle cx="275" cy="730" r="18" fill="#d9edf8"/>
+<path d="M267 730l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390" cy="730" r="18" fill="#d9edf8"/>
+<path d="M382 730l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="505" cy="730" r="18" fill="#d9edf8"/>
+<path d="M497 730l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="65" y="863" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#55788e">06</text>
+<g transform="translate(100 820) scale(0.7)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="m51 12 34 13v28c0 25-19 38-34 45-15-7-34-20-34-45V25z"/><path d="m33 54 12 12 25-28"/></g>
+<circle cx="275" cy="855" r="18" fill="#d9edf8"/>
+<path d="M267 855l6 6 11-12" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="390" cy="855" r="18" fill="#f7edda" stroke="#967547" stroke-width="2"/>
+<text x="390" y="862" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#795f36">?</text>
+<path d="M494 855h22" fill="none" stroke="#7a8c97" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

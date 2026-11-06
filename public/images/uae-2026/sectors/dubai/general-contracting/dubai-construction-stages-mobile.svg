@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1440" viewBox="0 0 600 1440" role="img" aria-labelledby="title desc"><title id="title">مراحل مشروع البناء | Building project stages</title><desc id="desc">01 Brief; 02 Design; 03 Approvals and contracting; 04 Construction; 05 Inspection; 06 Handover. Illustrative sequence, project requirements vary. Full accessible bilingual legend accompanies this SVG.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10z" fill="#2877a5"/></marker></defs>
+<rect x="0" y="0" width="600" height="1440" rx="0" fill="#f2f8fc" stroke="#f2f8fc" stroke-width="2"/>
+<circle cx="600" cy="0" r="216.0" fill="#e5f2fa"/><circle cx="0" cy="1440" r="138.0" fill="#eae8df" opacity=".55"/>
+<path d="M32 24H568" fill="none" stroke="#c6e4f5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 225v43" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="50" y="45" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="135" r="30" fill="#193b53"/>
+<text x="108" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">01</text>
+<g transform="translate(235 73) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><rect x="20" y="18" width="64" height="76" rx="6"/><path d="M36 18v-6h32v6M33 39h38M33 53h25M33 67h20"/><circle cx="78" cy="77" r="18"/><path d="m69 77 6 6 12-13"/></g>
+<path d="M405 115h85M405 136h62M405 157h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 450v43" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="50" y="270" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="360" r="30" fill="#193b53"/>
+<text x="108" y="370" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">02</text>
+<g transform="translate(235 298) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="M13 20h74v70H13zM13 61h34V20M47 45h40M47 61v29M62 45v17h25"/><path d="M6 102h88M6 98v8M94 98v8"/></g>
+<path d="M405 340h85M405 361h62M405 382h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 675v43" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="50" y="495" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="585" r="30" fill="#193b53"/>
+<text x="108" y="595" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">03</text>
+<g transform="translate(235 523) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="M23 10h46l17 17v65H23zM69 10v18h17M35 39h37M35 52h28"/><circle cx="73" cy="79" r="23" fill="#eaf5fc"/><path d="m61 79 8 8 17-18"/></g>
+<path d="M405 565h85M405 586h62M405 607h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 900v43" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="50" y="720" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="810" r="30" fill="#193b53"/>
+<text x="108" y="820" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">04</text>
+<g transform="translate(235 748) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="M12 93V29h78v64M12 58h78M12 29l39-18 39 18M38 29v64M64 29v64M5 93h92M38 58l26-29M64 58 38 93"/></g>
+<path d="M405 790h85M405 811h62M405 832h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300 1125v43" fill="none" stroke="#2877a5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="50" y="945" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="1035" r="30" fill="#193b53"/>
+<text x="108" y="1045" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">05</text>
+<g transform="translate(235 973) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 18h51v67H14zM25 34h28M25 47h20M25 60h15"/><circle cx="67" cy="66" r="23"/><path d="m83 83 19 19m-45-37 7 7 13-14"/></g>
+<path d="M405 1015h85M405 1036h62M405 1057h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="50" y="1170" width="500" height="180" rx="24" fill="white" stroke="#c6e4f5" stroke-width="2"/>
+<circle cx="108" cy="1260" r="30" fill="#193b53"/>
+<text x="108" y="1270" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="white">06</text>
+<g transform="translate(235 1198) scale(1.15)" fill="none" stroke="#193b53" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"><path d="m8 48 43-33 41 33M19 40v52h64V40M41 92V65h20v27"/><circle cx="78" cy="30" r="17" fill="#eaf5fc"/><path d="m70 30 5 5 11-11"/></g>
+<path d="M405 1240h85M405 1261h62M405 1282h73" fill="none" stroke="#c6e4f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

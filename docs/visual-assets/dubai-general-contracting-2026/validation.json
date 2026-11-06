@@ -1,0 +1,388 @@
+{
+  "status": "pass",
+  "image_count": 24,
+  "unique_primary_alts_per_language": 12,
+  "checks": [
+    {
+      "id": "01",
+      "variant": "primary",
+      "filename": "dubai-general-contracting-hero.webp",
+      "bytes": 168124,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "sha256": "f76a044bceb4fda92eb19def56ab93d8a7a571b7a9de5eeb690842aa1e593f42",
+      "status": "pass"
+    },
+    {
+      "id": "01",
+      "variant": "mobile",
+      "filename": "dubai-general-contracting-hero-mobile.webp",
+      "bytes": 86214,
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "215910989523b906fb09ce37649f9f3dc66495ab5b4b420746778f7039c47273",
+      "status": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "primary",
+      "filename": "dubai-villa-construction.webp",
+      "bytes": 118636,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "32d795475304dd38ebdeac50de54780079bd20b106bd0e317b78fc295c270b8d",
+      "status": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "mobile",
+      "filename": "dubai-villa-construction-mobile.webp",
+      "bytes": 36070,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "a01605a198dff7c2feb2c4722e4a2e1610e489cc33f0f030f5ffdf82137eb197",
+      "status": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "primary",
+      "filename": "dubai-building-renovation.webp",
+      "bytes": 46384,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "86eebd6993e4c05eb2e793b79fbbb06db09a804aa4043b54dd8e960cf63018b1",
+      "status": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "mobile",
+      "filename": "dubai-building-renovation-mobile.webp",
+      "bytes": 15420,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "0c04dc598a9c9b8cf31b897541ed9e751ff6d94e8f34d7ff0dbf362776777026",
+      "status": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "primary",
+      "filename": "dubai-concrete-works.webp",
+      "bytes": 156526,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "c87f4f135c175acdf9f9d843bcf52a47dd6c487633a660601f94eac7840f8952",
+      "status": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "mobile",
+      "filename": "dubai-concrete-works-mobile.webp",
+      "bytes": 46466,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "99e654b2fad447572fa4083746eaddc5df042a7a0a7cbc671db89289b04b7cf1",
+      "status": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "primary",
+      "filename": "dubai-villa-landscaping.webp",
+      "bytes": 209980,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "667258ca982910d6c776d3b7d9971844a3196431c8105e645163b72fcd199b20",
+      "status": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "mobile",
+      "filename": "dubai-villa-landscaping-mobile.webp",
+      "bytes": 56054,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "d238e7625a1d1e92a10783029c4bd19e4052d9656cbb37d05cd74fd63ac6a9a4",
+      "status": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "primary",
+      "filename": "dubai-drip-irrigation.webp",
+      "bytes": 210996,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "5f9034795f913992b1a768e652b99c9bd058930c39997436b2afd4da4192bafa",
+      "status": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "mobile",
+      "filename": "dubai-drip-irrigation-mobile.webp",
+      "bytes": 75058,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "b4c0546d5c1e9e6cad2b3e95edcff08b2fea9474a2029fe197bc669804cc3c5c",
+      "status": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "primary",
+      "filename": "dubai-carports-pergolas.webp",
+      "bytes": 130928,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "77c51b2acfd67632413d56d332a43d1220fc9090bdf9e00ac610c886de330a47",
+      "status": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "mobile",
+      "filename": "dubai-carports-pergolas-mobile.webp",
+      "bytes": 33812,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "763b1ff43bdfe4e520d214711b78427ac3439cd30c3725520ab34a723e19b78d",
+      "status": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "primary",
+      "filename": "dubai-construction-stages.svg",
+      "bytes": 5733,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "1565ce48b22bc88af7b4a8c91a7d06b446ac07bd9e7cce705db4d04f2cacd9ff",
+      "status": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "mobile",
+      "filename": "dubai-construction-stages-mobile.svg",
+      "bytes": 5872,
+      "dimensions": [
+        600,
+        1440
+      ],
+      "sha256": "c11467147af96d533c1ac91856865c7b58ac846481a337b4ae51db06dc2690d4",
+      "status": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "primary",
+      "filename": "dubai-contractor-quotation-comparison.svg",
+      "bytes": 8612,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "ab2b9c5b4c797960355c5255e3c9ff745726837cf912cd7b74d193dbd86db980",
+      "status": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "mobile",
+      "filename": "dubai-contractor-quotation-comparison-mobile.svg",
+      "bytes": 7810,
+      "dimensions": [
+        600,
+        1000
+      ],
+      "sha256": "2c3f1e5efbadd0ded8c5aa96bfd77396e1475229abc62e48449cd906df41d722",
+      "status": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "primary",
+      "filename": "dubai-contract-payments-warranties.svg",
+      "bytes": 6018,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "aaa2d78bc36ce1cf83e5f1261a58a483487d9060ef5931f696be925ac28c7ab8",
+      "status": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "mobile",
+      "filename": "dubai-contract-payments-warranties-mobile.svg",
+      "bytes": 5352,
+      "dimensions": [
+        600,
+        1260
+      ],
+      "sha256": "9385e6593bfd210d8b38e49a5992d663b09b1445e4eb995f41c2441d756ed73e",
+      "status": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "primary",
+      "filename": "dubai-project-owner-quotation.webp",
+      "bytes": 69904,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "cd4b43bdcca1dc295beb8ee831615bae4c89ff38561a5acd2ccc2aa9cae91967",
+      "status": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "mobile",
+      "filename": "dubai-project-owner-quotation-mobile.webp",
+      "bytes": 24824,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "cb8c223c40b2a9890daa63d0d087e0fa19248f7fbee1a5e5d1b37374055c15bc",
+      "status": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "primary",
+      "filename": "dubai-contractor-company-portfolio.webp",
+      "bytes": 73420,
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "a2a93fd1a6ad5decdf24aabb1b7bd449983bdc838d6353a5df42036ab64a99b7",
+      "status": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "mobile",
+      "filename": "dubai-contractor-company-portfolio-mobile.webp",
+      "bytes": 25958,
+      "dimensions": [
+        600,
+        450
+      ],
+      "sha256": "de6ec35acdf63caffca33044f3ce9b5ae46ab786faa266a0dc6ac0dfc1e42340",
+      "status": "pass"
+    }
+  ],
+  "total_image_bytes": 1624171,
+  "source_originals": [
+    {
+      "filename": "dubai-building-renovation.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 2095293,
+      "sha256": "fca5d2a0d1aa9680f9d1f70bfa911a25806b1d3052b199b9f647bc3a203e6c99"
+    },
+    {
+      "filename": "dubai-carports-pergolas.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 2768683,
+      "sha256": "ac87e54661e871d7e388865685fff0931c1a5b2ba7ad22c9d41af7e6911c92d5"
+    },
+    {
+      "filename": "dubai-concrete-works.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 3003491,
+      "sha256": "215222d6ed91f2ff654c5db94815aae26284083439687e028f95e21efaa288a2"
+    },
+    {
+      "filename": "dubai-contractor-company-portfolio.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 2224983,
+      "sha256": "cc27d0341fef08529fb264b2930809208453c86c85005014a2a2f78b4d9708ac"
+    },
+    {
+      "filename": "dubai-drip-irrigation.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 3313078,
+      "sha256": "c3bbe74e0fc79882c2734d54d6a2ca43cd8fca6f19a1da923d516f55cd2ce707"
+    },
+    {
+      "filename": "dubai-general-contracting-hero-mobile.png",
+      "dimensions": [
+        1086,
+        1448
+      ],
+      "bytes": 2238158,
+      "sha256": "73fef8bd50164dc76f2df197936c4d2ef41be9a69099a4f31208d77481593b51"
+    },
+    {
+      "filename": "dubai-general-contracting-hero.png",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 2559970,
+      "sha256": "1a6d6eb38f9996597864911d5136a100a9900a0de735c5b2812585e23c341df5"
+    },
+    {
+      "filename": "dubai-project-owner-quotation.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 2353407,
+      "sha256": "f35992ddc11a36967c00d92b68900e3023a1e54a78f962642779794b78df4f5b"
+    },
+    {
+      "filename": "dubai-villa-construction.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 2660685,
+      "sha256": "6bedde529c0c9ee31920d3e37787bf1a32f9e224b5378e1ec8b7f77a2e9c92da"
+    },
+    {
+      "filename": "dubai-villa-landscaping.png",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "bytes": 3494145,
+      "sha256": "f5b4deea5a9722bfd2b2fa2e5dab91fcfce9a2466d6da67a57cabcd2fd9131c6"
+    }
+  ]
+}

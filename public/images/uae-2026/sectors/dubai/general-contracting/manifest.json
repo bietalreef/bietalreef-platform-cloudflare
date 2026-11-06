@@ -1,0 +1,1015 @@
+{
+  "schema_version": "1.0.0",
+  "collection_id": "dubai-general-contracting-20261106",
+  "created_at": "2026-11-07T00:09:29+04:00",
+  "repository": "bietalreef/bietalreef-platform-cloudflare",
+  "review_branch": "assets/dubai-contracting-visuals-20261106",
+  "reviewed_base_commit": "769c722fea7343a2b2f3b867b3b2e448f911ef99",
+  "target_page": "https://bietalreef.ae/uae/dubai/general-contracting",
+  "delivery_state": "review_assets_only_no_page_change_no_deployment",
+  "base_path": "/images/uae-2026/sectors/dubai/general-contracting/",
+  "primary_count": 12,
+  "mobile_count": 12,
+  "source_document": {
+    "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+    "status": "draft_not_applied",
+    "sha256": "a24d87b5b331e99004a2bd62659c7e4caad981025fcaabbe51160caf0105f688",
+    "scope_note": "The attachment is a taxonomy review, not a complete narrative guide. Educational assets also cite existing repository content and the user brief."
+  },
+  "visual_review": {
+    "direction": "neutral architectural editorial photography plus original navy/sky-blue SVG diagrams",
+    "human_art_direction_approval": "not_recorded; full set prepared for owner review as requested",
+    "taxonomy_guardrail": "Images do not activate specialties. Landscaping, irrigation and external works include currently non-selectable categories in the supplied draft.",
+    "engineering_limit": "Concept illustrations, not engineering drawings, approved construction methods or compliance certification."
+  },
+  "integration_notes": {
+    "changed_live_page": false,
+    "changed_components": false,
+    "changed_taxonomy": false,
+    "deployed": false,
+    "existing_component_reviewed": "components/DirectoryResponsiveImage.js has fixed variant widths; do not pass these assets to it without a separately reviewed size adaptation.",
+    "heading_structure": "Keep one H1; introduce genuine H2 sections and H3 subtopics in HTML. Bold is not a heading substitute.",
+    "layout": "Use width and height or CSS aspect-ratio, including a media-query ratio for portrait hero and reflowed SVGs. Keep images unmirrored in RTL/LTR.",
+    "performance": "Choose one responsive image per slot. Hero only may use fetchpriority=high; lazy-load below-fold images. No Core Web Vitals improvement is claimed without testing the future integrated page.",
+    "accessibility": "Use unique locale-specific alt. Put each numbered diagram legend in HTML adjacent to the image. Complex comparison data should have an accessible HTML table.",
+    "mobile_sizes": "900x1200 hero; 600x450 specialty and CTA photos; dedicated narrow SVG layouts."
+  },
+  "items": [
+    {
+      "id": "01",
+      "slug": "dubai-general-contracting-hero",
+      "title": {
+        "ar": "غلاف دليل المقاولات العامة والبناء والتشييد في دبي",
+        "en": "Dubai general contracting guide hero"
+      },
+      "alt": {
+        "ar": "مبنى قيد الإنشاء بهيكل خرساني وجدران بلوك وسقالات، بجوار سور ومخزون مواد مرتب.",
+        "en": "A building under construction with a concrete frame, block walls and scaffolding beside a boundary wall and organised material stacks."
+      },
+      "description": {
+        "ar": "مشهد توضيحي افتتاحي للبناء الحديث، مع مساحة لعنوان HTML.",
+        "en": "An introductory construction illustration with space for an HTML heading."
+      },
+      "topic": "المقاولات العامة والبناء والتشييد",
+      "placement": {
+        "ar": "الغلاف أسفل H1",
+        "en": "Hero beneath H1",
+        "status": "existing_hero_slot",
+        "heading_level": "H1"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 24
+      },
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-general-contracting-hero.png",
+        "source/originals/dubai-general-contracting-hero-mobile.png"
+      ],
+      "html_overlay_safe_area": {
+        "desktop": "rightmost 27% above site activity; verify contrast in actual layout",
+        "mobile": "upper 36% sky; verify title and controls at actual font size",
+        "instruction": "Do not mirror the photo between Arabic and English. Use separately positioned HTML copy or place copy outside the image."
+      },
+      "native_source_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "export_note": "Hero desktop resized from native generation; all other main photographs downsampled from native originals. No sharpening, generated detail, or scene alteration during export.",
+      "primary": {
+        "filename": "dubai-general-contracting-hero.webp",
+        "width": 1920,
+        "height": 1080,
+        "size_bytes": 168124,
+        "sha256": "f76a044bceb4fda92eb19def56ab93d8a7a571b7a9de5eeb690842aa1e593f42",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-general-contracting-hero-mobile.webp",
+        "width": 900,
+        "height": 1200,
+        "size_bytes": 86214,
+        "sha256": "215910989523b906fb09ce37649f9f3dc66495ab5b4b420746778f7039c47273",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-general-contracting-hero-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "art_directed_portrait",
+        "alt": {
+          "ar": "مبنى قيد الإنشاء بهيكل خرساني وجدران بلوك وسقالات، بجوار سور ومخزون مواد مرتب.",
+          "en": "A building under construction with a concrete frame, block walls and scaffolding beside a boundary wall and organised material stacks."
+        }
+      },
+      "recommended_loading": "eager",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "02",
+      "slug": "dubai-villa-construction",
+      "title": {
+        "ar": "إنشاء المباني والفلل",
+        "en": "Building and villa construction"
+      },
+      "alt": {
+        "ar": "فيلا بهيكل خرساني وجدران بلوك وجناح مكسو باللون الأبيض، وعاملان بجوار مواد البناء.",
+        "en": "A villa with a concrete frame, block walls and a white-rendered wing, with two workers beside stored building materials."
+      },
+      "description": {
+        "ar": "يوضح مرحلة الهيكل والبناء وانتقال بعض أجزاء المشروع إلى التشطيب.",
+        "en": "Shows structural and masonry work with part of the building progressing to finishes."
+      },
+      "topic": "إنشاء المباني والفلل",
+      "placement": {
+        "ar": "H2 إنشاء المباني والفلل",
+        "en": "H2 Building and villa construction",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 28
+      },
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-villa-construction.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-villa-construction.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 118636,
+        "sha256": "32d795475304dd38ebdeac50de54780079bd20b106bd0e317b78fc295c270b8d",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-villa-construction-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 36070,
+        "sha256": "a01605a198dff7c2feb2c4722e4a2e1610e489cc33f0f030f5ffdf82137eb197",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-construction-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "فيلا بهيكل خرساني وجدران بلوك وجناح مكسو باللون الأبيض، وعاملان بجوار مواد البناء.",
+          "en": "A villa with a concrete frame, block walls and a white-rendered wing, with two workers beside stored building materials."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "03",
+      "slug": "dubai-building-renovation",
+      "title": {
+        "ar": "الترميم والتجديد",
+        "en": "Building renovation"
+      },
+      "alt": {
+        "ar": "عامل يسوي رقعة محارة على جدار داخلي أزيل عنه الطلاء المتقشر، مع أرضية مغطاة للحماية.",
+        "en": "A worker smoothing a plaster patch on an interior wall with peeling paint removed and the floor protected by sheeting."
+      },
+      "description": {
+        "ar": "ترميم موضعي داخل مبنى قائم؛ لا يمثل مقارنة قبل وبعد أو تشخيصًا إنشائيًا.",
+        "en": "Local repair in an existing building; not a before-and-after comparison or a structural diagnosis."
+      },
+      "topic": "الترميم والتجديد",
+      "placement": {
+        "ar": "H2 الترميم والتجديد",
+        "en": "H2 Renovation and refurbishment",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 29
+      },
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-building-renovation.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-building-renovation.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 46384,
+        "sha256": "86eebd6993e4c05eb2e793b79fbbb06db09a804aa4043b54dd8e960cf63018b1",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-building-renovation-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 15420,
+        "sha256": "0c04dc598a9c9b8cf31b897541ed9e751ff6d94e8f34d7ff0dbf362776777026",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-building-renovation-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "عامل يسوي رقعة محارة على جدار داخلي أزيل عنه الطلاء المتقشر، مع أرضية مغطاة للحماية.",
+          "en": "A worker smoothing a plaster patch on an interior wall with peeling paint removed and the floor protected by sheeting."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "04",
+      "slug": "dubai-concrete-works",
+      "title": {
+        "ar": "الأعمال الخرسانية وتجهيز الموقع",
+        "en": "Concrete works and site preparation"
+      },
+      "alt": {
+        "ar": "شبكة تسليح داخل شدة خشبية منخفضة، وعاملان على الممر الجانبي بجوار موقع منظم.",
+        "en": "A reinforcement grid within low timber formwork, with two workers on a side walkway beside an organised work area."
+      },
+      "description": {
+        "ar": "يمثل جانب الأعمال الخرسانية ضمن محور الهدم والخرسانة، دون عرض هدم فعلي.",
+        "en": "Represents concrete preparation within the demolition and concrete topic; no demolition operation is depicted."
+      },
+      "topic": "الهدم والأعمال الخرسانية",
+      "placement": {
+        "ar": "H2 الهدم والأعمال الخرسانية، H3 تجهيز أعمال الخرسانة",
+        "en": "H2 Demolition and concrete works, H3 Concrete preparation",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 30
+      },
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-concrete-works.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-concrete-works.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 156526,
+        "sha256": "c87f4f135c175acdf9f9d843bcf52a47dd6c487633a660601f94eac7840f8952",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-concrete-works-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 46466,
+        "sha256": "99e654b2fad447572fa4083746eaddc5df042a7a0a7cbc671db89289b04b7cf1",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-concrete-works-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "شبكة تسليح داخل شدة خشبية منخفضة، وعاملان على الممر الجانبي بجوار موقع منظم.",
+          "en": "A reinforcement grid within low timber formwork, with two workers on a side walkway beside an organised work area."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "05",
+      "slug": "dubai-villa-landscaping",
+      "title": {
+        "ar": "تنسيق حدائق الفلل",
+        "en": "Villa landscaping"
+      },
+      "alt": {
+        "ar": "حديقة فيلا بممر حجري وأحواض حصوية ونخلة وشجيرات ومساحة عشب بجوار جلسة مظللة.",
+        "en": "A villa garden with a stone path, gravel planting beds, a palm, shrubs and a lawn beside a shaded terrace."
+      },
+      "description": {
+        "ar": "تنظيم المساحات الخارجية والانتقال بين الزراعة والممر والجلسة.",
+        "en": "Outdoor layout connecting planting, paths and a seating terrace."
+      },
+      "topic": "تنسيق الحدائق وصيانتها",
+      "placement": {
+        "ar": "H2 تنسيق الحدائق وصيانتها",
+        "en": "H2 Landscaping and garden maintenance",
+        "status": "proposed_restricted_scope",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 31
+      },
+      "taxonomy_status": "draft_includes_currently_non_selectable_category",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-villa-landscaping.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-villa-landscaping.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 209980,
+        "sha256": "667258ca982910d6c776d3b7d9971844a3196431c8105e645163b72fcd199b20",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-villa-landscaping-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 56054,
+        "sha256": "d238e7625a1d1e92a10783029c4bd19e4052d9656cbb37d05cd74fd63ac6a9a4",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-villa-landscaping-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "حديقة فيلا بممر حجري وأحواض حصوية ونخلة وشجيرات ومساحة عشب بجوار جلسة مظللة.",
+          "en": "A villa garden with a stone path, gravel planting beds, a palm, shrubs and a lawn beside a shaded terrace."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "06",
+      "slug": "dubai-drip-irrigation",
+      "title": {
+        "ar": "تفاصيل شبكة الري بالتنقيط",
+        "en": "Drip irrigation detail"
+      },
+      "alt": {
+        "ar": "أنبوب ري بني بوصلة تفرع ونقاط تنقيط قرب جذور شجيرات، وبجواره غطاء صندوق صمامات أخضر.",
+        "en": "A brown irrigation pipe with a tee connection and drip outlets near shrub roots, beside a green valve-box lid."
+      },
+      "description": {
+        "ar": "تفصيل توضيحي لشبكة ري؛ ليس مخطط تركيب أو تحديدًا للأقطار والضغوط.",
+        "en": "Illustrative irrigation detail, not an installation drawing or a pipe and pressure specification."
+      },
+      "topic": "شبكات الري",
+      "placement": {
+        "ar": "H2 شبكات الري، H3 الري بالتنقيط",
+        "en": "H2 Irrigation networks, H3 Drip irrigation",
+        "status": "proposed_restricted_scope",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 32
+      },
+      "taxonomy_status": "draft_includes_currently_non_selectable_category",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-drip-irrigation.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-drip-irrigation.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 210996,
+        "sha256": "5f9034795f913992b1a768e652b99c9bd058930c39997436b2afd4da4192bafa",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-drip-irrigation-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 75058,
+        "sha256": "b4c0546d5c1e9e6cad2b3e95edcff08b2fea9474a2029fe197bc669804cc3c5c",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-drip-irrigation-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "أنبوب ري بني بوصلة تفرع ونقاط تنقيط قرب جذور شجيرات، وبجواره غطاء صندوق صمامات أخضر.",
+          "en": "A brown irrigation pipe with a tee connection and drip outlets near shrub roots, beside a green valve-box lid."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "07",
+      "slug": "dubai-carports-pergolas",
+      "title": {
+        "ar": "المظلات والبرجولات والأعمال الخارجية",
+        "en": "Carports, pergolas and external works"
+      },
+      "alt": {
+        "ar": "مظلة سيارات بيضاء فوق أرضية إنترلوك وبرجولا داكنة فوق جلسة بجوار فيلا.",
+        "en": "A white carport over interlocking paving and a dark pergola covering seating beside a villa."
+      },
+      "description": {
+        "ar": "يوضح علاقة المظلات والبرجولات والممرات بالمبنى؛ المقاسات والتحميل تحدد بالمشروع.",
+        "en": "Shows shade structures, paving and the building together; dimensions and loading are project-specific."
+      },
+      "topic": "المظلات والأعمال الخارجية",
+      "placement": {
+        "ar": "H2 المظلات والأعمال الخارجية",
+        "en": "H2 Shade structures and external works",
+        "status": "proposed_restricted_scope",
+        "heading_level": "H2"
+      },
+      "document_reference": {
+        "filename": "Biet_Al_Reef_Taxonomy_Review_AR.md",
+        "section": "1. المقاولات العامة والبناء والتشييد — قائمة الشركات والمنشآت",
+        "line": 33
+      },
+      "taxonomy_status": "draft_includes_currently_non_selectable_category",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "source_files": [
+        "source/originals/dubai-carports-pergolas.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-carports-pergolas.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 130928,
+        "sha256": "77c51b2acfd67632413d56d332a43d1220fc9090bdf9e00ac610c886de330a47",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-carports-pergolas-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 33812,
+        "sha256": "763b1ff43bdfe4e520d214711b78427ac3439cd30c3725520ab34a723e19b78d",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-carports-pergolas-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "مظلة سيارات بيضاء فوق أرضية إنترلوك وبرجولا داكنة فوق جلسة بجوار فيلا.",
+          "en": "A white carport over interlocking paving and a dark pergola covering seating beside a villa."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "08",
+      "slug": "dubai-construction-stages",
+      "title": {
+        "ar": "مراحل مشروع البناء",
+        "en": "Building project stages"
+      },
+      "alt": {
+        "ar": "ست خطوات مرقمة تربط احتياجات المشروع والمخططات والموافقات بالتنفيذ والفحص والتسليم.",
+        "en": "Six numbered steps linking the project brief, plans and approvals to construction, inspection and handover."
+      },
+      "description": {
+        "ar": "مخطط تعليمي عام، تقرأ تفاصيل مراحله في قائمة HTML المصاحبة.",
+        "en": "A general educational sequence with its explanations in the accompanying HTML list."
+      },
+      "topic": "مراحل المشروع",
+      "placement": {
+        "ar": "H2 مراحل مشروع البناء",
+        "en": "H2 Building project stages",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": null,
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "original_editable_diagram",
+      "publication_status": "prepared_for_review_not_integrated",
+      "content_reference": {
+        "repository_file": "data/uaeSectorGuidesAr.js",
+        "section": "general-contracting — كيف تبدأ مشروعك بطريقة منظمة؟",
+        "secondary": "data/emirateTopicAnswers.js — general-contracting, stages answer",
+        "user_brief": "§4 الصورة 08",
+        "attachment_note": "The attached taxonomy is not a full narrative guide; it contains no project-stage paragraph."
+      },
+      "html_legend": {
+        "ar": [
+          "01 — تحديد الاحتياجات ووثائق الأرض أو المبنى.",
+          "02 — إعداد المخططات وتنسيق التخصصات.",
+          "03 — مراجعة الموافقات وتجهيز التسعير والتعاقد.",
+          "04 — تجهيز الموقع والهيكل والخدمات والتشطيبات وفق نطاق المشروع.",
+          "05 — الفحص وتوثيق الملاحظات ومعالجتها.",
+          "06 — الاستلام والتسليم وحفظ ملف المشروع."
+        ],
+        "en": [
+          "01 — Define the brief and gather land or building records.",
+          "02 — Prepare drawings and coordinate disciplines.",
+          "03 — Check approvals, prepare pricing documents and contract.",
+          "04 — Complete site preparation, structure, services and finishes within scope.",
+          "05 — Inspect, record findings and resolve defects.",
+          "06 — Complete acceptance and handover and retain the project file."
+        ]
+      },
+      "source_files": [
+        "source/editable/dubai-construction-stages.svg",
+        "source/editable/dubai-construction-stages-mobile.svg"
+      ],
+      "primary": {
+        "filename": "dubai-construction-stages.svg",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 5733,
+        "sha256": "1565ce48b22bc88af7b4a8c91a7d06b446ac07bd9e7cce705db4d04f2cacd9ff",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages.svg",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-construction-stages-mobile.svg",
+        "width": 600,
+        "height": 1440,
+        "size_bytes": 5872,
+        "sha256": "c11467147af96d533c1ac91856865c7b58ac846481a337b4ae51db06dc2690d4",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages-mobile.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-construction-stages-mobile.svg",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "reflowed_diagram",
+        "alt": {
+          "ar": "ست خطوات مرقمة تربط احتياجات المشروع والمخططات والموافقات بالتنفيذ والفحص والتسليم.",
+          "en": "Six numbered steps linking the project brief, plans and approvals to construction, inspection and handover."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": false,
+      "caption": {
+        "ar": "رسم توضيحي؛ التفاصيل في النص المصاحب.",
+        "en": "Illustrative diagram; see the accompanying text."
+      }
+    },
+    {
+      "id": "09",
+      "slug": "dubai-contractor-quotation-comparison",
+      "title": {
+        "ar": "مقارنة عروض أسعار المقاولين",
+        "en": "Comparing contractor quotations"
+      },
+      "alt": {
+        "ar": "مصفوفة ثلاثة عروض وستة معايير، مع رموز للبنود الموثقة والبنود التي تحتاج توضيحًا.",
+        "en": "A matrix of three offers and six criteria, with symbols for documented items and items needing clarification."
+      },
+      "description": {
+        "ar": "مثال تعليمي للمقارنة على نطاق موحد؛ لا يتضمن عروضًا أو تقييمات شركات حقيقية.",
+        "en": "An illustrative like-for-like comparison, not real quotations or company ratings."
+      },
+      "topic": "مقارنة عروض الأسعار",
+      "placement": {
+        "ar": "H2 مقارنة عروض أسعار المقاولين",
+        "en": "H2 Comparing contractor quotations",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": null,
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "original_editable_diagram",
+      "publication_status": "prepared_for_review_not_integrated",
+      "content_reference": {
+        "repository_file": "data/emirateKnowledge.json",
+        "section": "dubai.ar.sections — كيف تختار شركة تنفيذ في دبي دون مفاجآت التكلفة؟",
+        "secondary": "data/uaeSectorGuidesAr.js — أرخص مقاول في الإمارات: هل السعر الأقل أفضل؟",
+        "user_brief": "§4 الصورة 09",
+        "attachment_note": "Taxonomy section 2 lists quantity surveying and reviewing contractor offers; the full comparison content is in the repository."
+      },
+      "html_legend": {
+        "ar": [
+          "الصفوف: 01 نطاق الأعمال، 02 المواد، 03 المواصفات، 04 الاستثناءات، 05 المدة، 06 الضمان.",
+          "الأعمدة 01–03 عروض افتراضية للتوضيح وليست شركات حقيقية.",
+          "علامة الصح: بند موثق للمراجعة، وليست شهادة جودة. علامة الاستفهام: مطلوب توضيح مكتوب. الشرطة: غير مذكور.",
+          "قارن السعر بعد توحيد النطاق والمواصفات. لا تُعد كثرة علامات الصح وحدها قرار ترسية."
+        ],
+        "en": [
+          "Rows: 01 scope, 02 materials, 03 specifications, 04 exclusions, 05 duration, 06 warranty.",
+          "Columns 01–03 are illustrative offers, not real contractors.",
+          "Check: documented for review, not certified quality. Question mark: written clarification needed. Dash: not stated.",
+          "Compare price after aligning scope and specifications. A count of checks alone is not an award decision."
+        ]
+      },
+      "source_files": [
+        "source/editable/dubai-contractor-quotation-comparison.svg",
+        "source/editable/dubai-contractor-quotation-comparison-mobile.svg"
+      ],
+      "primary": {
+        "filename": "dubai-contractor-quotation-comparison.svg",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 8612,
+        "sha256": "ab2b9c5b4c797960355c5255e3c9ff745726837cf912cd7b74d193dbd86db980",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison.svg",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-contractor-quotation-comparison-mobile.svg",
+        "width": 600,
+        "height": 1000,
+        "size_bytes": 7810,
+        "sha256": "2c3f1e5efbadd0ded8c5aa96bfd77396e1475229abc62e48449cd906df41d722",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison-mobile.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-quotation-comparison-mobile.svg",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "reflowed_diagram",
+        "alt": {
+          "ar": "مصفوفة ثلاثة عروض وستة معايير، مع رموز للبنود الموثقة والبنود التي تحتاج توضيحًا.",
+          "en": "A matrix of three offers and six criteria, with symbols for documented items and items needing clarification."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": false,
+      "caption": {
+        "ar": "رسم توضيحي؛ التفاصيل في النص المصاحب.",
+        "en": "Illustrative diagram; see the accompanying text."
+      }
+    },
+    {
+      "id": "10",
+      "slug": "dubai-contract-payments-warranties",
+      "title": {
+        "ar": "العقود والدفعات والضمانات",
+        "en": "Contracts, payments and warranties"
+      },
+      "alt": {
+        "ar": "مخططات وجدول كميات وعقد ترتبط بمرحلة تنفيذ وفحص موثق واعتماد دفعة ورمز للضمان.",
+        "en": "Plans, a bill of quantities and a contract linked to a work milestone, recorded inspection, payment approval and a warranty symbol."
+      },
+      "description": {
+        "ar": "توضيح العلاقة بين مستندات العقد وتوثيق الاستلام والدفع حسب شروط المشروع.",
+        "en": "Explains how contract documents relate to recorded inspection and payment under project terms."
+      },
+      "topic": "العقود والدفعات",
+      "placement": {
+        "ar": "H2 العقود والدفعات والضمانات",
+        "en": "H2 Contracts, payments and warranties",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": null,
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "original_editable_diagram",
+      "publication_status": "prepared_for_review_not_integrated",
+      "content_reference": {
+        "repository_file": "data/uaeSectorGuidesAr.js",
+        "section": "general-contracting — ما شروط التعاقد مع مقاول؟",
+        "secondary": "data/emirateTopicAnswers.js — general-contracting, contracts and payments answer",
+        "user_brief": "§4 الصورة 10",
+        "attachment_note": "No detailed contracts or payment paragraph exists in the attached taxonomy."
+      },
+      "html_legend": {
+        "ar": [
+          "01 المخططات المعتمدة، 02 جدول الكميات، 03 العقد ومرفقاته: مرجع مترابط للمشروع.",
+          "04 مرحلة أعمال منفذة قابلة للفحص، 05 فحص وتوثيق ومحضر استلام، 06 اعتماد الدفعة وصرفها وفق العقد.",
+          "رمز الدرع: توثيق نطاق الضمان ومدته ومسار معالجة العيوب ضمن التسليم.",
+          "التسلسل توضيحي؛ الدفعات المقدمة والمحتجزات والمراحل الفعلية تحدد في العقد، ولا يفترض الرسم نسبًا ثابتة أو ضمانًا قانونيًا عامًا."
+        ],
+        "en": [
+          "01 approved drawings, 02 bill of quantities, 03 contract and attachments: a linked project reference.",
+          "04 inspectable work milestone, 05 inspection and acceptance record, 06 payment approval and release under the contract.",
+          "Shield: document warranty scope, duration and defect handling as part of handover.",
+          "This is illustrative. Advances, retention and actual milestones depend on the contract; no fixed percentages or general legal guarantee are implied."
+        ]
+      },
+      "source_files": [
+        "source/editable/dubai-contract-payments-warranties.svg",
+        "source/editable/dubai-contract-payments-warranties-mobile.svg"
+      ],
+      "primary": {
+        "filename": "dubai-contract-payments-warranties.svg",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 6018,
+        "sha256": "aaa2d78bc36ce1cf83e5f1261a58a483487d9060ef5931f696be925ac28c7ab8",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties.svg",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-contract-payments-warranties-mobile.svg",
+        "width": 600,
+        "height": 1260,
+        "size_bytes": 5352,
+        "sha256": "9385e6593bfd210d8b38e49a5992d663b09b1445e4eb995f41c2441d756ed73e",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties-mobile.svg",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contract-payments-warranties-mobile.svg",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "reflowed_diagram",
+        "alt": {
+          "ar": "مخططات وجدول كميات وعقد ترتبط بمرحلة تنفيذ وفحص موثق واعتماد دفعة ورمز للضمان.",
+          "en": "Plans, a bill of quantities and a contract linked to a work milestone, recorded inspection, payment approval and a warranty symbol."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": false,
+      "caption": {
+        "ar": "رسم توضيحي؛ التفاصيل في النص المصاحب.",
+        "en": "Illustrative diagram; see the accompanying text."
+      }
+    },
+    {
+      "id": "11",
+      "slug": "dubai-project-owner-quotation",
+      "title": {
+        "ar": "مراجعة المشروع قبل طلب عرض السعر",
+        "en": "Reviewing a project before requesting a quotation"
+      },
+      "alt": {
+        "ar": "مالك مشروع ومختص يراجعان مخطط فيلا وعينات خامات على طاولة اجتماع.",
+        "en": "A project owner and a specialist reviewing a villa plan and material samples at a meeting table."
+      },
+      "description": {
+        "ar": "يمهد لتجهيز الموقع والمخططات ونطاق الأعمال قبل طلب عرض سعر.",
+        "en": "Introduces preparation of the location, drawings and scope before requesting a quotation."
+      },
+      "topic": "رحلة العميل",
+      "placement": {
+        "ar": "قسم طلب عرض سعر، بجوار CTA HTML",
+        "en": "Quotation request section beside an HTML CTA",
+        "status": "proposed_section",
+        "heading_level": "H2"
+      },
+      "document_reference": null,
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "content_reference": {
+        "repository_file": "data/emirateTopicAnswers.js",
+        "section": "general-contracting — request documents answer",
+        "user_brief": "§4 الصورة 11",
+        "live_context": "Header quotation request and customer-service support block"
+      },
+      "source_files": [
+        "source/originals/dubai-project-owner-quotation.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-project-owner-quotation.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 69904,
+        "sha256": "cd4b43bdcca1dc295beb8ee831615bae4c89ff38561a5acd2ccc2aa9cae91967",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-project-owner-quotation-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 24824,
+        "sha256": "cb8c223c40b2a9890daa63d0d087e0fa19248f7fbee1a5e5d1b37374055c15bc",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-project-owner-quotation-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "مالك مشروع ومختص يراجعان مخطط فيلا وعينات خامات على طاولة اجتماع.",
+          "en": "A project owner and a specialist reviewing a villa plan and material samples at a meeting table."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    },
+    {
+      "id": "12",
+      "slug": "dubai-contractor-company-portfolio",
+      "title": {
+        "ar": "شركة مقاولات تراجع ملف أعمالها",
+        "en": "A contracting team reviewing its portfolio"
+      },
+      "alt": {
+        "ar": "ثلاثة زملاء يراجعون صور إنشاءات وملفًا ومخططات على طاولة داخل مكتب.",
+        "en": "Three colleagues reviewing construction photographs, a binder and drawings at an office table."
+      },
+      "description": {
+        "ar": "مشهد تمثيلي لرحلة الشركة؛ ليس شركة مسجلة محددة ولا واجهة تطبيق.",
+        "en": "An illustrative company journey, not an identified registered company or an app interface."
+      },
+      "topic": "رحلة الشركة",
+      "placement": {
+        "ar": "H2 يجب أن تظهر شركتك هنا",
+        "en": "H2 Your company should appear here",
+        "status": "existing_company_cta",
+        "heading_level": "H2"
+      },
+      "document_reference": null,
+      "taxonomy_status": "illustrative_content_not_a_service_activation",
+      "image_type": "ai_generated_illustrative_scene",
+      "publication_status": "prepared_for_review_not_integrated",
+      "content_reference": {
+        "live_url": "https://bietalreef.ae/uae/dubai/general-contracting",
+        "heading": "يجب أن تظهر شركتك هنا",
+        "user_brief": "§4 الصورة 12"
+      },
+      "source_files": [
+        "source/originals/dubai-contractor-company-portfolio.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "export_note": "Downsampled from native PNG with no content or colour changes.",
+      "primary": {
+        "filename": "dubai-contractor-company-portfolio.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 73420,
+        "sha256": "a2a93fd1a6ad5decdf24aabb1b7bd449983bdc838d6353a5df42036ab64a99b7",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio.webp",
+        "website_url_status": "not_published_do_not_treat_as_live"
+      },
+      "mobile": {
+        "filename": "dubai-contractor-company-portfolio-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 25958,
+        "sha256": "de6ec35acdf63caffca33044f3ce9b5ae46ab786faa266a0dc6ac0dfc1e42340",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-contracting-visuals-20261106/public/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio-mobile.webp",
+        "planned_website_path": "/images/uae-2026/sectors/dubai/general-contracting/dubai-contractor-company-portfolio-mobile.webp",
+        "website_url_status": "not_published_do_not_treat_as_live",
+        "variant_type": "same_scene_responsive_resolution",
+        "alt": {
+          "ar": "ثلاثة زملاء يراجعون صور إنشاءات وملفًا ومخططات على طاولة داخل مكتب.",
+          "en": "Three colleagues reviewing construction photographs, a binder and drawings at an office table."
+        }
+      },
+      "recommended_loading": "lazy",
+      "recommended_decoding": "async",
+      "requires_illustrative_caption": true,
+      "caption": {
+        "ar": "صورة توضيحية مولّدة؛ لا تمثل مشروعًا موثقًا أو شركة بعينها.",
+        "en": "AI-generated illustration; not a documented project or an identified company."
+      }
+    }
+  ]
+}

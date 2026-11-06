@@ -1,0 +1,1147 @@
+{
+  "schema_version": "1.0",
+  "collection": "dubai-engineering-design-2026",
+  "repository": "bietalreef/bietalreef-platform-cloudflare",
+  "review_branch": "assets/dubai-engineering-visuals-20261107",
+  "base_commit": "769c722fea7343a2b2f3b867b3b2e448f911ef99",
+  "target_page": "https://bietalreef.ae/uae/dubai/interior-design",
+  "target_repository_path": "public/images/uae-2026/sectors/dubai/interior-design",
+  "created_at": "2026-11-06T20:37:08.396419+00:00",
+  "status": "review_assets_only_not_integrated_or_published",
+  "primary_image_count": 14,
+  "mobile_variant_count": 14,
+  "public_image_file_count": 28,
+  "source_policy": "High-quality PNG originals and editable working masters are in the separate delivery source folder, outside public.",
+  "people_policy": "Only original synthetic people, in images 04 and 13. No real-person or stock photography was used as input. No deliberate likeness of a real person was requested.",
+  "project_policy": "All depicted projects and offices are hypothetical; never credit them to a registered company or use them as evidence of licensing or completed work.",
+  "taxonomy_policy": "The four specialties and 49 services are content from the supplied draft. Current registration availability and legal authority are not established by these images. No IDs or service records were changed.",
+  "document_sha256": "45a1af6cd5e685ceca71d47bd62e353575ff81c827066bd3a0cc2bfb388b2d48",
+  "hero_text_safe_areas_normalized": {
+    "desktop": [
+      0.64,
+      0.06,
+      0.96,
+      0.33
+    ],
+    "mobile": [
+      0.3,
+      0.16,
+      0.94,
+      0.39
+    ],
+    "note": "Suggested HTML overlay areas; verify contrast in actual integration. Keep headings and buttons as HTML."
+  },
+  "images": [
+    {
+      "id": "01",
+      "slug": "dubai-engineering-design-hero",
+      "title_ar": "الاستشارات الهندسية والتصميم والديكور في دبي",
+      "title_en": "Engineering and interior design in Dubai",
+      "alt_ar": "فناء منزل معاصر بجدران بيضاء وشاشة خشبية، تظهر عبر زجاجه مساحة معيشة مضاءة طبيعيًا",
+      "alt_en": "Courtyard of a contemporary white house with timber screening and a naturally lit living room visible through glazing",
+      "topic_ar": "الفكرة المعمارية وعلاقة الداخل بالخارج",
+      "topic_en": "Architecture and the relationship between interior and exterior",
+      "section_id": "كيف-تستخدم-هذه-الصفحة-خلال-دقيقة",
+      "paragraph_reference_ar": "مقدمة الدليل؛ فقرة الصور الجميلة وحدها لا تجعل المشروع قابلًا للتنفيذ",
+      "placement_ar": "بعد مقدمة H1؛ العنوان والأزرار في HTML",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-engineering-design-hero.png",
+        "source/originals/dubai-engineering-design-hero-mobile.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "upscaled_for_required_export": true,
+      "mobile_art_direction": "separately_generated_same_design",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-engineering-design-hero.webp",
+        "width": 1920,
+        "height": 1080,
+        "size_bytes": 112138,
+        "sha256": "864b7517a019e03c8e1abbfa83a0ae25665a12f3218b2541866e78ed48a51a36",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-engineering-design-hero-mobile.webp",
+        "width": 900,
+        "height": 1200,
+        "size_bytes": 71766,
+        "sha256": "ffef11d9a196f25ae734af52b2593ea46ffdbef0d6e8b5a19c4982c7a1c33543",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-engineering-design-hero.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-design-hero.webp",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "size_bytes": 112138,
+      "description_ar": "فناء منزل معاصر بجدران بيضاء وشاشة خشبية، تظهر عبر زجاجه مساحة معيشة مضاءة طبيعيًا؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Courtyard of a contemporary white house with timber screening and a naturally lit living room visible through glazing. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": true,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "كيف-تستخدم-هذه-الصفحة-خلال-دقيقة",
+        "section_heading": "كيف تستخدم هذه الصفحة خلال دقيقة؟",
+        "paragraph": "مقدمة الدليل؛ فقرة الصور الجميلة وحدها لا تجعل المشروع قابلًا للتنفيذ"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "eager",
+      "fetchpriority_recommendation": "high",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "02",
+      "slug": "dubai-architectural-design",
+      "title_ar": "التصميم المعماري والمخططات",
+      "title_en": "Architectural design and plans",
+      "alt_ar": "نموذج معماري أبيض لفيلا على مكتب، بجواره مخططات وأدوات رسم",
+      "alt_en": "White villa scale model on a desk beside architectural drawings and drafting tools",
+      "topic_ar": "تحويل برنامج الاحتياجات إلى نموذج ومخططات",
+      "topic_en": "Turning a project brief into a model and drawings",
+      "section_id": "1-التصميم-المعماري-والمخططات-من-برنامج-الاحتياجات-الى-مستندات-المشروع",
+      "paragraph_reference_ar": "ما ينبغي استلامه؛ برنامج احتياجات ومخططات وواجهات وقطاعات بإصدارات واضحة",
+      "placement_ar": "بعد مقدمة تخصص التصميم المعماري",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-architectural-design.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-architectural-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 94774,
+        "sha256": "62a8e60038362d210b3dd6ba4836561d58692097a5349a3b5381f265b67a390a",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-architectural-design-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 29512,
+        "sha256": "eb23db27b6fafcd6a279f14cd37d2945d2d2904d18373a565d6efd56af5eb0fd",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-architectural-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-architectural-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 94774,
+      "description_ar": "نموذج معماري أبيض لفيلا على مكتب، بجواره مخططات وأدوات رسم؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "White villa scale model on a desk beside architectural drawings and drafting tools. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "1-التصميم-المعماري-والمخططات-من-برنامج-الاحتياجات-الى-مستندات-المشروع",
+        "section_heading": "1. التصميم المعماري والمخططات — من برنامج الاحتياجات إلى مستندات المشروع",
+        "paragraph": "ما ينبغي استلامه؛ برنامج احتياجات ومخططات وواجهات وقطاعات بإصدارات واضحة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "03",
+      "slug": "dubai-structural-engineering",
+      "title_ar": "التصميم الإنشائي",
+      "title_en": "Structural engineering",
+      "alt_ar": "مجسم تعليمي لهيكل مبنى تظهر فيه البلاطات والأعمدة والقواعد على قاعدة مقطعية",
+      "alt_en": "Educational building-frame model showing slabs, columns and pad foundations on a cutaway base",
+      "topic_ar": "علاقة العناصر الحاملة والأساسات",
+      "topic_en": "Relationship of supporting elements and foundations",
+      "section_id": "2-التصميم-الانشايي-سلامة-العناصر-الحاملة-قبل-اي-تعديل",
+      "paragraph_reference_ar": "يناسب؛ تصميم الأساسات والهيكل الخرساني ومراجعة العناصر الحاملة",
+      "placement_ar": "بعد تعريف التصميم الإنشائي",
+      "image_type": "generated_concept_model",
+      "source_files": [
+        "source/originals/dubai-structural-engineering.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-structural-engineering.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 64316,
+        "sha256": "b1ff054fa1a5398154daa1f4591c4bb60a5da9a3c5af20d46ab19258f134eb30",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-structural-engineering-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 15030,
+        "sha256": "9b66caba7436af5e653c48f5cea7991b15e1c644b9c64bfe98b7c3261be5764f",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-structural-engineering.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-structural-engineering.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 64316,
+      "description_ar": "مجسم تعليمي لهيكل مبنى تظهر فيه البلاطات والأعمدة والقواعد على قاعدة مقطعية؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Educational building-frame model showing slabs, columns and pad foundations on a cutaway base. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "2-التصميم-الانشايي-سلامة-العناصر-الحاملة-قبل-اي-تعديل",
+        "section_heading": "2. التصميم الإنشائي — سلامة العناصر الحاملة قبل أي تعديل",
+        "paragraph": "يناسب؛ تصميم الأساسات والهيكل الخرساني ومراجعة العناصر الحاملة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "04",
+      "slug": "dubai-engineering-supervision",
+      "title_ar": "الإشراف والاستشارات الهندسية",
+      "title_en": "Engineering supervision",
+      "alt_ar": "شخصيتان اصطناعيتان بملابس سلامة تراجعان مخططًا وتمديدات سقف مكشوف في موقع منظم",
+      "alt_en": "Two synthetic professionals in safety wear review a drawing and exposed ceiling services at an orderly site",
+      "topic_ar": "مراجعة الأعمال قبل إغلاق الأسقف",
+      "topic_en": "Reviewing work before ceilings are closed",
+      "section_id": "3-الاشراف-والاستشارات-الهندسية-حماية-التصميم-اثناء-التنفيذ",
+      "paragraph_reference_ar": "مثال قرار؛ تنسيق التكييف والسقف والفتحات وإتاحة التفتيش قبل الإغلاق",
+      "placement_ar": "بعد فقرة الفصل بين التصميم والإشراف",
+      "image_type": "generated_scene_with_synthetic_people",
+      "source_files": [
+        "source/originals/dubai-engineering-supervision.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-engineering-supervision.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 88406,
+        "sha256": "0c77a763e2fa06060efb71a97efa651189e8fea0f6f66bc99bb1218b54bc8a13",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-engineering-supervision-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 29472,
+        "sha256": "aa8d76a56bb2b957d40a67b10a497465e6e20b6f64704152441514cf9d845a80",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-engineering-supervision.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-supervision.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 88406,
+      "description_ar": "شخصيتان اصطناعيتان بملابس سلامة تراجعان مخططًا وتمديدات سقف مكشوف في موقع منظم؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Two synthetic professionals in safety wear review a drawing and exposed ceiling services at an orderly site. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": true,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "3-الاشراف-والاستشارات-الهندسية-حماية-التصميم-اثناء-التنفيذ",
+        "section_heading": "3. الإشراف والاستشارات الهندسية — حماية التصميم أثناء التنفيذ",
+        "paragraph": "مثال قرار؛ تنسيق التكييف والسقف والفتحات وإتاحة التفتيش قبل الإغلاق"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "05",
+      "slug": "dubai-interior-design-materials",
+      "title_ar": "التصميم الداخلي والمواد",
+      "title_en": "Interior design and materials",
+      "alt_ar": "عينات خشب وبلاط وقماش وبطاقات ألوان مع نموذج إضاءة على طاولة مواد",
+      "alt_en": "Wood, tile and fabric samples, colour cards and a lighting sample arranged on a materials table",
+      "topic_ar": "اختيار الخامات وإعداد لوحة المواد",
+      "topic_en": "Material selection and finish palettes",
+      "section_id": "4-التصميم-الداخلي-والمواد-تحويل-الذوق-الى-مقاسات-ومواصفات-قابلة-للتصنيع",
+      "paragraph_reference_ar": "ما ينبغي استلامه؛ لوحات ألوان ومواد بمرجع لكل منتج وجداول تشطيبات",
+      "placement_ar": "بعد فقرة لوحة المواد وجداول التشطيبات",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-interior-design-materials.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-interior-design-materials.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 124424,
+        "sha256": "187ac3d08409b0534f89415255aa76afe9b6f29449e695d91bf2f7e8dd673b08",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-interior-design-materials-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 31148,
+        "sha256": "4450384db92b384ce0612480d8c4af42914e3c50c5fc30591707daa2b646042d",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-interior-design-materials.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-interior-design-materials.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 124424,
+      "description_ar": "عينات خشب وبلاط وقماش وبطاقات ألوان مع نموذج إضاءة على طاولة مواد؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Wood, tile and fabric samples, colour cards and a lighting sample arranged on a materials table. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "4-التصميم-الداخلي-والمواد-تحويل-الذوق-الى-مقاسات-ومواصفات-قابلة-للتصنيع",
+        "section_heading": "4. التصميم الداخلي والمواد — تحويل الذوق إلى مقاسات ومواصفات قابلة للتصنيع",
+        "paragraph": "ما ينبغي استلامه؛ لوحات ألوان ومواد بمرجع لكل منتج وجداول تشطيبات"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "06",
+      "slug": "dubai-villa-exterior-design",
+      "title_ar": "تصميم واجهات الفلل في دبي",
+      "title_en": "Dubai villa exterior design",
+      "alt_ar": "واجهة فيلا معاصرة بنوافذ غائرة وعناصر تظليل ومدخل محمي وكسوة حجرية فاتحة",
+      "alt_en": "Contemporary villa facade with recessed windows, shading elements, a sheltered entrance and light stone cladding",
+      "topic_ar": "الظل والخصوصية والخامات في الواجهة",
+      "topic_en": "Shade, privacy and facade materials",
+      "section_id": "المحور-8-التصميم-الخارجي-وواجهات-الفلل-والمداخل-والاسوار-في-دبي",
+      "paragraph_reference_ar": "فقرة موازنة الهوية المعمارية والتعرض للشمس وطرق الصيانة",
+      "placement_ar": "داخل المحور 8 بعد الفقرة الأولى",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-villa-exterior-design.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-villa-exterior-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 148208,
+        "sha256": "fd278d7a181bde1c529a6334ee6ce1fca67e9e84e307dde7c5d6701a8558b307",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-villa-exterior-design-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 36884,
+        "sha256": "6f35c71efea9863a424d328cab13a438ccbf6b770870fe4a6fe682b29bb2f2f3",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-villa-exterior-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-villa-exterior-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 148208,
+      "description_ar": "واجهة فيلا معاصرة بنوافذ غائرة وعناصر تظليل ومدخل محمي وكسوة حجرية فاتحة؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Contemporary villa facade with recessed windows, shading elements, a sheltered entrance and light stone cladding. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "المحور-8-التصميم-الخارجي-وواجهات-الفلل-والمداخل-والاسوار-في-دبي",
+        "section_heading": "المحور 8 — التصميم الخارجي وواجهات الفلل والمداخل والأسوار في دبي",
+        "paragraph": "فقرة موازنة الهوية المعمارية والتعرض للشمس وطرق الصيانة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "07",
+      "slug": "dubai-arabic-majlis-design",
+      "title_ar": "تصميم مجلس عربي معاصر",
+      "title_en": "Contemporary Arabic majlis design",
+      "alt_ar": "مجلس بأرائك قماشية متصلة وطاولات خشبية وممر وسط واضح وإضاءة طبيعية",
+      "alt_en": "Majlis with continuous upholstered seating, timber tables, a clear central passage and natural light",
+      "topic_ar": "توزيع الجلوس والحركة والضيافة",
+      "topic_en": "Seating, circulation and hospitality",
+      "section_id": "المحور-6-تصميم-المجالس-العربية-في-دبي-راحة-الضيوف-والخصوصية-قبل-الزخرفة",
+      "paragraph_reference_ar": "فقرة تجربة الدخول والجلوس والضيافة والحركة ومسارات الخدمة",
+      "placement_ar": "داخل المحور 6 قبل قائمة المخرجات",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-arabic-majlis-design.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-arabic-majlis-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 70770,
+        "sha256": "71dde1f050778c6e6af73167279cb1b4e875bf250d60b1479242abe846ffab7d",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-arabic-majlis-design-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 17924,
+        "sha256": "96cb32a9a4cbc14b2f73ffe44b4bad05a6dd19588f4d93ba89eabe72c04cc115",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-arabic-majlis-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-arabic-majlis-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 70770,
+      "description_ar": "مجلس بأرائك قماشية متصلة وطاولات خشبية وممر وسط واضح وإضاءة طبيعية؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Majlis with continuous upholstered seating, timber tables, a clear central passage and natural light. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "المحور-6-تصميم-المجالس-العربية-في-دبي-راحة-الضيوف-والخصوصية-قبل-الزخرفة",
+        "section_heading": "المحور 6 — تصميم المجالس العربية في دبي: راحة الضيوف والخصوصية قبل الزخرفة",
+        "paragraph": "فقرة تجربة الدخول والجلوس والضيافة والحركة ومسارات الخدمة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "08",
+      "slug": "dubai-custom-kitchen-design",
+      "title_ar": "تصميم مطبخ حسب المقاس",
+      "title_en": "Custom kitchen design",
+      "alt_ar": "مطبخ بخزائن خشبية وبيضاء وأجهزة مدمجة ومسطح عمل مضاء ومساحة حركة واضحة",
+      "alt_en": "Kitchen with timber and white cabinetry, integrated appliances, a lit worktop and clear circulation",
+      "topic_ar": "العلاقات الوظيفية والتخزين وقياسات الأجهزة",
+      "topic_en": "Functional relationships, storage and appliance dimensions",
+      "section_id": "المحور-7-تصميم-المطابخ-والخزاين-وغرف-الملابس-حسب-المقاس",
+      "paragraph_reference_ar": "فقرة رفع المقاسات ومواقع الأجهزة ومسارات فتح الأبواب والصيانة",
+      "placement_ar": "داخل المحور 7 بعد فقرة القياسات",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-custom-kitchen-design.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-custom-kitchen-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 51958,
+        "sha256": "dbf610dec951e5ab98f5c52406b4f3a2d7dca7c6d7bcddc21d5668f8d18fe21f",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-custom-kitchen-design-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 17486,
+        "sha256": "99da581b08b1d6caa8aa14bcd554c204f64c4888004e94b6051adf1458564df3",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-custom-kitchen-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-custom-kitchen-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 51958,
+      "description_ar": "مطبخ بخزائن خشبية وبيضاء وأجهزة مدمجة ومسطح عمل مضاء ومساحة حركة واضحة؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Kitchen with timber and white cabinetry, integrated appliances, a lit worktop and clear circulation. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "المحور-7-تصميم-المطابخ-والخزاين-وغرف-الملابس-حسب-المقاس",
+        "section_heading": "المحور 7 — تصميم المطابخ والخزائن وغرف الملابس حسب المقاس",
+        "paragraph": "فقرة رفع المقاسات ومواقع الأجهزة ومسارات فتح الأبواب والصيانة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "09",
+      "slug": "dubai-commercial-interior-design",
+      "title_ar": "تصميم المساحات التجارية",
+      "title_en": "Commercial interior design",
+      "alt_ar": "متجر معاصر بأرفف عرض جانبية ووحدات منخفضة ومسار واضح نحو مكتب الخدمة",
+      "alt_en": "Contemporary shop with side display shelves, low display units and a clear route to the service counter",
+      "topic_ar": "توزيع الوظائف والحركة والإضاءة في متجر",
+      "topic_en": "Function, circulation and lighting in a shop",
+      "section_id": "4-التصميم-الداخلي-والمواد-تحويل-الذوق-الى-مقاسات-ومواصفات-قابلة-للتصنيع",
+      "paragraph_reference_ar": "يناسب؛ تصميم المتاجر والمكاتب ومساحات الاستقبال وخطة الاستخدام ومسارات الحركة",
+      "placement_ar": "تطبيق تجاري بعد شرح تخصص التصميم الداخلي",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-commercial-interior-design.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-commercial-interior-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 78990,
+        "sha256": "86bc6470e3472340ca347c721ba92486770f19cd2a0491579c3e8bdaaa57ba4b",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-commercial-interior-design-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 27260,
+        "sha256": "3a6933e1905ce97a6afc2114df4e97056941125eac90ebafa8f639609105a653",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-commercial-interior-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-commercial-interior-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 78990,
+      "description_ar": "متجر معاصر بأرفف عرض جانبية ووحدات منخفضة ومسار واضح نحو مكتب الخدمة؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Contemporary shop with side display shelves, low display units and a clear route to the service counter. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "4-التصميم-الداخلي-والمواد-تحويل-الذوق-الى-مقاسات-ومواصفات-قابلة-للتصنيع",
+        "section_heading": "4. التصميم الداخلي والمواد — تحويل الذوق إلى مقاسات ومواصفات قابلة للتصنيع",
+        "paragraph": "يناسب؛ تصميم المتاجر والمكاتب ومساحات الاستقبال وخطة الاستخدام ومسارات الحركة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "10",
+      "slug": "dubai-2d-3d-bim-design",
+      "title_ar": "الرسم ثنائي الأبعاد والنمذجة والتنسيق",
+      "title_en": "2D drawing, 3D modelling and BIM coordination",
+      "alt_ar": "مخطط تخطيطي واحد يظهر كرسم مسطح ومجسم مفتوح ونموذج تنسيق بمسارات ملونة",
+      "alt_en": "One schematic layout shown as a flat plan, an open-top model and a coordination model with coloured routes",
+      "topic_ar": "الفروق بين الرسم والتصور وتنسيق المعلومات",
+      "topic_en": "Distinguishing drawings, visualisation and information coordination",
+      "section_id": "المحور-10-التصميم-ثنايي-وثلاثي-الابعاد-وbim-متى-تستفيد-من-كل-تقنية",
+      "paragraph_reference_ar": "تعريفات 2D و3D وBIM؛ النموذج لا يضمن إلغاء الأخطاء",
+      "placement_ar": "داخل المحور 10 مع شرح HTML للألوان والتمثيلات",
+      "image_type": "original_vector_diagram_rendered_webp",
+      "source_files": [
+        "source/editable/dubai-2d-3d-bim-design.svg",
+        "source/editable/dubai-2d-3d-bim-design-mobile.svg"
+      ],
+      "mobile_art_direction": "reflowed_vector_layout",
+      "requires_mobile_reflow": true,
+      "caption_ar": "رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "caption_en": "Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "primary": {
+        "filename": "dubai-2d-3d-bim-design.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 15628,
+        "sha256": "6258ccc7a4aecdbe8c6a9b393dfaf3555750fce8d50439be94ed806ff3d5b455",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-2d-3d-bim-design-mobile.webp",
+        "width": 600,
+        "height": 1140,
+        "size_bytes": 13576,
+        "sha256": "bdd91a75bbc5cb10b04c4f3f4efbe617c4de7d432e4031f52f675c450a9661b6",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-2d-3d-bim-design.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-2d-3d-bim-design.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 15628,
+      "description_ar": "مخطط تخطيطي واحد يظهر كرسم مسطح ومجسم مفتوح ونموذج تنسيق بمسارات ملونة؛ رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "description_en": "One schematic layout shown as a flat plan, an open-top model and a coordination model with coloured routes. Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "المحور-10-التصميم-ثنايي-وثلاثي-الابعاد-وbim-متى-تستفيد-من-كل-تقنية",
+        "section_heading": "المحور 10 — التصميم ثنائي وثلاثي الأبعاد وBIM: متى تستفيد من كل تقنية؟",
+        "paragraph": "تعريفات 2D و3D وBIM؛ النموذج لا يضمن إلغاء الأخطاء"
+      },
+      "legend_html_required": true,
+      "legend": [
+        {
+          "key": "2D",
+          "ar": "توزيع تخطيطي: الفراغات والأبواب وعلاقات الحركة؛ دون أبعاد تنفيذية معتمدة.",
+          "en": "Schematic layout: spaces, doors and circulation; no approved construction dimensions."
+        },
+        {
+          "key": "3D",
+          "ar": "مجسم للمخطط نفسه لفهم الحجم والفراغ؛ لا يحل محل التفاصيل التنفيذية.",
+          "en": "An open-top model of the same layout explains space and volume; it does not replace construction details."
+        },
+        {
+          "key": "BIM",
+          "ar": "فكرة تنسيق الطبقات: كحلي للهيكل، أزرق ومسار مغرة لأنظمة افتراضية؛ لا يمثل ملف BIM أو تصميم خدمات معتمدًا.",
+          "en": "Conceptual layer coordination: navy structure, blue and ochre hypothetical systems; not a BIM file or an approved services design."
+        }
+      ],
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "11",
+      "slug": "dubai-engineering-project-stages",
+      "title_ar": "مراحل مشروع التصميم الهندسي",
+      "title_en": "Engineering design project stages",
+      "alt_ar": "ثماني بطاقات مرقمة لرحلة التصميم من تعريف المشروع إلى الاستلام والأرشفة، مع إطار متقطع للإشراف",
+      "alt_en": "Eight numbered design-journey cards from the brief to handover and archiving, with a dashed supervision card",
+      "topic_ar": "رحلة التصميم وتسلسل المخرجات",
+      "topic_en": "Design journey and deliverable sequence",
+      "section_id": "رحلة-المشروع-ثماني-محطات-قابلة-للتوثيق",
+      "paragraph_reference_ar": "الجدول كاملًا؛ المحطات الثماني وملاحظة تكييف النطاق حسب حجم المشروع",
+      "placement_ar": "قبل جدول رحلة المشروع؛ مع مفتاح المراحل في HTML",
+      "image_type": "original_editable_diagram",
+      "source_files": [
+        "source/editable/dubai-engineering-project-stages.svg",
+        "source/editable/dubai-engineering-project-stages-mobile.svg"
+      ],
+      "mobile_art_direction": "reflowed_vector_layout",
+      "requires_mobile_reflow": true,
+      "caption_ar": "رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "caption_en": "Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "primary": {
+        "filename": "dubai-engineering-project-stages.svg",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 9573,
+        "sha256": "371886e5c2b6fe35d3d7c142f0fa1c0a6a0c390446d8750de2e01a84464e853d",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-engineering-project-stages-mobile.svg",
+        "width": 600,
+        "height": 1060,
+        "size_bytes": 8614,
+        "sha256": "9f3cf98557364bc7572d6976e56ebb3bdc2638721239635cda3ba35b9d71ff52",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages-mobile.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages-mobile.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-engineering-project-stages.svg",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-project-stages.svg",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 9573,
+      "description_ar": "ثماني بطاقات مرقمة لرحلة التصميم من تعريف المشروع إلى الاستلام والأرشفة، مع إطار متقطع للإشراف؛ رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "description_en": "Eight numbered design-journey cards from the brief to handover and archiving, with a dashed supervision card. Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "رحلة-المشروع-ثماني-محطات-قابلة-للتوثيق",
+        "section_heading": "رحلة المشروع: ثماني محطات قابلة للتوثيق",
+        "paragraph": "الجدول كاملًا؛ المحطات الثماني وملاحظة تكييف النطاق حسب حجم المشروع"
+      },
+      "legend_html_required": true,
+      "legend": [
+        {
+          "key": "01",
+          "ar": "تعريف المشروع: برنامج احتياجات ونطاق أولي.",
+          "en": "Brief: needs and initial scope."
+        },
+        {
+          "key": "02",
+          "ar": "المعاينة والقياسات: تسجيل الوضع القائم والقيود.",
+          "en": "Survey: existing conditions, measurements and constraints."
+        },
+        {
+          "key": "03",
+          "ar": "التصور والبدائل: مقارنة التوزيعات واعتماد الاتجاه.",
+          "en": "Concepts: compare layouts and choose a direction."
+        },
+        {
+          "key": "04",
+          "ar": "التطوير والتنسيق: تطوير المخططات ومراجعة التخصصات.",
+          "en": "Development: develop drawings and coordinate disciplines."
+        },
+        {
+          "key": "05",
+          "ar": "الاعتمادات المطلوبة: تحدد حسب الموقع ونوع المشروع.",
+          "en": "Required approvals: determined by location and project type."
+        },
+        {
+          "key": "06",
+          "ar": "وثائق التسعير والتنفيذ: مخططات ومواصفات وجداول حسب نطاق العقد.",
+          "en": "Pricing and execution documents: drawings, specifications and schedules within the agreed scope."
+        },
+        {
+          "key": "07",
+          "ar": "الإشراف والتغييرات عند التعاقد عليه: الإطار المتقطع يوضح أن الخدمة ليست ضمن التصميم تلقائيًا.",
+          "en": "Supervision and changes if contracted: the dashed border indicates that supervision is not automatically included in design."
+        },
+        {
+          "key": "08",
+          "ar": "الاستلام والأرشفة: حفظ المخرجات ومحاضر التسليم.",
+          "en": "Handover and archive: retain deliverables and handover records."
+        }
+      ],
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "12",
+      "slug": "dubai-design-deliverables",
+      "title_ar": "مقارنة مخرجات التصميم",
+      "title_en": "Comparing design deliverables",
+      "alt_ar": "خمسة رموز مرقمة للتصور الفراغي والمخططات التنفيذية والمواصفات وجداول المواد وسجلات الإشراف",
+      "alt_en": "Five numbered symbols for visualisation, execution drawings, specifications, material schedules and supervision records",
+      "topic_ar": "مقارنة المخرجات وعدم الاكتفاء بالرندر",
+      "topic_en": "Comparing deliverables beyond renderings",
+      "section_id": "جدول-موحد-لمقارنة-عروض-المكاتب-قبل-التوقيع",
+      "paragraph_reference_ar": "بنود 2D و3D ومخططات التنفيذ وجداول المواد والإشراف؛ والأسئلة الشائعة عن كفاية الرندر",
+      "placement_ar": "قبل جدول مقارنة العروض مع شرح مستقل لكل مخرج",
+      "image_type": "original_editable_diagram",
+      "source_files": [
+        "source/editable/dubai-design-deliverables.svg",
+        "source/editable/dubai-design-deliverables-mobile.svg"
+      ],
+      "mobile_art_direction": "reflowed_vector_layout",
+      "requires_mobile_reflow": true,
+      "caption_ar": "رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "caption_en": "Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "primary": {
+        "filename": "dubai-design-deliverables.svg",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 9897,
+        "sha256": "f9cfb9fb3d9440fe56dbf5c9fff8d9a165c21c7e0d96aa313f06cfcb119abaa8",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-design-deliverables-mobile.svg",
+        "width": 600,
+        "height": 1050,
+        "size_bytes": 6304,
+        "sha256": "7e465b6d47b9339f30e70825910e1ab34929c5789e4b8d4d0ca344a35ddbd4d2",
+        "mime_type": "image/svg+xml",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables-mobile.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables-mobile.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-design-deliverables.svg",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-design-deliverables.svg",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 9897,
+      "description_ar": "خمسة رموز مرقمة للتصور الفراغي والمخططات التنفيذية والمواصفات وجداول المواد وسجلات الإشراف؛ رسم تعليمي توضيحي؛ التفاصيل والمفاتيح في النص المرافق، وليس مخطط تنفيذ معتمدًا.",
+      "description_en": "Five numbered symbols for visualisation, execution drawings, specifications, material schedules and supervision records. Educational illustration; details and keys are in the accompanying text. Not an approved construction document.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "جدول-موحد-لمقارنة-عروض-المكاتب-قبل-التوقيع",
+        "section_heading": "جدول موحد لمقارنة عروض المكاتب: قبل التوقيع",
+        "paragraph": "بنود 2D و3D ومخططات التنفيذ وجداول المواد والإشراف؛ والأسئلة الشائعة عن كفاية الرندر"
+      },
+      "legend_html_required": true,
+      "legend": [
+        {
+          "key": "01",
+          "ar": "التصور ثلاثي الأبعاد يشرح الشكل والجو العام؛ لا يكفي للتنفيذ وحده.",
+          "en": "3D visualisation explains appearance and atmosphere; it is insufficient for construction on its own."
+        },
+        {
+          "key": "02",
+          "ar": "المخططات التنفيذية تحدد المقاسات والقطاعات والتفاصيل وفق التخصص.",
+          "en": "Execution drawings define dimensions, sections and discipline-specific details."
+        },
+        {
+          "key": "03",
+          "ar": "المواصفات تصف المواد ومستوى الأداء ومتطلبات التنفيذ المتفق عليها.",
+          "en": "Specifications describe agreed materials, performance and workmanship requirements."
+        },
+        {
+          "key": "04",
+          "ar": "جداول المواد والتشطيبات تربط العناصر بالمراجع والعينات والبدائل.",
+          "en": "Material and finish schedules link elements to references, samples and alternatives."
+        },
+        {
+          "key": "05",
+          "ar": "الإشراف ينتج زيارات وتقارير وفحوصًا وفق عقد مستقل أو نطاق صريح.",
+          "en": "Supervision provides visits, reports and inspections under an explicit contract scope."
+        }
+      ],
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "13",
+      "slug": "dubai-client-design-consultation",
+      "title_ar": "جلسة تحديد احتياجات التصميم",
+      "title_en": "Client design consultation",
+      "alt_ar": "مالك ومصمم بشخصيتين اصطناعيتين يراجعان مخططًا وعينات مواد على طاولة اجتماع",
+      "alt_en": "A synthetic client and designer review a plan and material samples at a meeting table",
+      "topic_ar": "تجهيز طلب عرض سعر محدد النطاق",
+      "topic_en": "Preparing a design quotation request with a clear scope",
+      "section_id": "المحور-17-كيف-تجهز-طلب-عرض-سعر-للتصميم-والاستشارات-الهندسية-في-دبي",
+      "paragraph_reference_ar": "فقرة جمع نوع العقار والاحتياجات والميزانية والمخرجات المطلوبة",
+      "placement_ar": "قبل نموذج الطلب وزر اطلب عرض سعر للتصميم",
+      "image_type": "generated_scene_with_synthetic_people",
+      "source_files": [
+        "source/originals/dubai-client-design-consultation.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-client-design-consultation.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 74526,
+        "sha256": "20106b0a0f0aa59ef7efaa20a13141a739e23d7b58ebce0eb558c288c0441526",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-client-design-consultation-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 23116,
+        "sha256": "443ec9c9be4bc57c621579ad9efed1ef39b75f65fc871911f9dbbb49c1815a06",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-client-design-consultation.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-client-design-consultation.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 74526,
+      "description_ar": "مالك ومصمم بشخصيتين اصطناعيتين يراجعان مخططًا وعينات مواد على طاولة اجتماع؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "A synthetic client and designer review a plan and material samples at a meeting table. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": true,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "المحور-17-كيف-تجهز-طلب-عرض-سعر-للتصميم-والاستشارات-الهندسية-في-دبي",
+        "section_heading": "المحور 17 — كيف تجهز طلب عرض سعر للتصميم والاستشارات الهندسية في دبي؟",
+        "paragraph": "فقرة جمع نوع العقار والاحتياجات والميزانية والمخرجات المطلوبة"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    },
+    {
+      "id": "14",
+      "slug": "dubai-engineering-office-profile",
+      "title_ar": "الملف المهني للمكتب الهندسي",
+      "title_en": "Engineering office business profile",
+      "alt_ar": "مساحة مكتب هندسي تضم نماذج مبانٍ ولوحات تصميم وطاولة مراجعة مرتبة",
+      "alt_en": "Engineering studio with building models, design boards and an orderly review table",
+      "topic_ar": "عرض منهجية العمل والمخرجات المهنية",
+      "topic_en": "Presenting professional methods and deliverables",
+      "section_id": "للشركات-والمكاتب-الهندسية-كيف-يحول-الملف-المهني-الخبرة-الى-طلبات-مناسبة",
+      "paragraph_reference_ar": "الملف المقترح للمكتب؛ التخصص الفعلي والمخرجات وأمثلة المشاريع المصرح بنشرها",
+      "placement_ar": "بعد شرح الملف المهني وقبل دعوة أضف مكتبك الهندسي",
+      "image_type": "generated_scene",
+      "source_files": [
+        "source/originals/dubai-engineering-office-profile.png"
+      ],
+      "native_source_dimensions": {
+        "width": 1448,
+        "height": 1086
+      },
+      "upscaled_for_required_export": false,
+      "mobile_art_direction": "same_composition_downsampled",
+      "requires_mobile_reflow": false,
+      "caption_ar": "تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "caption_en": "AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "primary": {
+        "filename": "dubai-engineering-office-profile.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 98798,
+        "sha256": "b110fbda7c08ef25e892a11b0e72598b5bc94e0e8f779a3e6ad4cc2610ae1857",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-engineering-office-profile-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 28894,
+        "sha256": "a77f4368bf0488d894d653cc578c857adcc353ea0c314329aad574185e97e9de",
+        "mime_type": "image/webp",
+        "repository_path": "public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-engineering-visuals-20261107/public/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-engineering-office-profile.webp",
+      "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/interior-design/dubai-engineering-office-profile.webp",
+      "dimensions": {
+        "width": 1200,
+        "height": 900
+      },
+      "size_bytes": 98798,
+      "description_ar": "مساحة مكتب هندسي تضم نماذج مبانٍ ولوحات تصميم وطاولة مراجعة مرتبة؛ تصور مولّد توضيحي؛ الأشخاص إن ظهروا اصطناعيون، والمشهد لا يمثل مشروعًا أو فريقًا تابعًا لشركة مسجلة.",
+      "description_en": "Engineering studio with building models, design boards and an orderly review table. AI-generated illustration. Any people shown are synthetic; the scene does not depict a registered company’s project or team.",
+      "requires_independent_mobile_crop": false,
+      "contains_synthetic_people": false,
+      "real_person_or_stock_photography_used": false,
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Engineering_Design_Explore_Preview.html",
+        "section_id": "للشركات-والمكاتب-الهندسية-كيف-يحول-الملف-المهني-الخبرة-الى-طلبات-مناسبة",
+        "section_heading": "للشركات والمكاتب الهندسية: كيف يحول الملف المهني الخبرة إلى طلبات مناسبة؟",
+        "paragraph": "الملف المقترح للمكتب؛ التخصص الفعلي والمخرجات وأمثلة المشاريع المصرح بنشرها"
+      },
+      "legend_html_required": false,
+      "loading_recommendation": "lazy",
+      "fetchpriority_recommendation": "auto",
+      "approval_status": "prepared_for_owner_review_not_published"
+    }
+  ]
+}

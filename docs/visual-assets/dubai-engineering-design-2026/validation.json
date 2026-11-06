@@ -1,0 +1,302 @@
+{
+  "checked_at": "2026-11-06T20:37:41.009832+00:00",
+  "result": "pass",
+  "primary_concepts": 14,
+  "public_image_files": 28,
+  "webp_files": 24,
+  "svg_files": 4,
+  "unique_content_hashes": 28,
+  "unique_ar_alt": 14,
+  "unique_en_alt": 14,
+  "raw_original_png_count": 12,
+  "editable_source_svg_count": 6,
+  "html_local_image_links_checked": 28,
+  "public_image_bytes": 1399392,
+  "checks": [
+    {
+      "id": "01",
+      "variant": "primary",
+      "file": "dubai-engineering-design-hero.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 112138,
+      "sha256": "864b7517a019e03c8e1abbfa83a0ae25665a12f3218b2541866e78ed48a51a36",
+      "result": "pass"
+    },
+    {
+      "id": "01",
+      "variant": "mobile",
+      "file": "dubai-engineering-design-hero-mobile.webp",
+      "width": 900,
+      "height": 1200,
+      "bytes": 71766,
+      "sha256": "ffef11d9a196f25ae734af52b2593ea46ffdbef0d6e8b5a19c4982c7a1c33543",
+      "result": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "primary",
+      "file": "dubai-architectural-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 94774,
+      "sha256": "62a8e60038362d210b3dd6ba4836561d58692097a5349a3b5381f265b67a390a",
+      "result": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "mobile",
+      "file": "dubai-architectural-design-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 29512,
+      "sha256": "eb23db27b6fafcd6a279f14cd37d2945d2d2904d18373a565d6efd56af5eb0fd",
+      "result": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "primary",
+      "file": "dubai-structural-engineering.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 64316,
+      "sha256": "b1ff054fa1a5398154daa1f4591c4bb60a5da9a3c5af20d46ab19258f134eb30",
+      "result": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "mobile",
+      "file": "dubai-structural-engineering-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 15030,
+      "sha256": "9b66caba7436af5e653c48f5cea7991b15e1c644b9c64bfe98b7c3261be5764f",
+      "result": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "primary",
+      "file": "dubai-engineering-supervision.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 88406,
+      "sha256": "0c77a763e2fa06060efb71a97efa651189e8fea0f6f66bc99bb1218b54bc8a13",
+      "result": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "mobile",
+      "file": "dubai-engineering-supervision-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 29472,
+      "sha256": "aa8d76a56bb2b957d40a67b10a497465e6e20b6f64704152441514cf9d845a80",
+      "result": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "primary",
+      "file": "dubai-interior-design-materials.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 124424,
+      "sha256": "187ac3d08409b0534f89415255aa76afe9b6f29449e695d91bf2f7e8dd673b08",
+      "result": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "mobile",
+      "file": "dubai-interior-design-materials-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 31148,
+      "sha256": "4450384db92b384ce0612480d8c4af42914e3c50c5fc30591707daa2b646042d",
+      "result": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "primary",
+      "file": "dubai-villa-exterior-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 148208,
+      "sha256": "fd278d7a181bde1c529a6334ee6ce1fca67e9e84e307dde7c5d6701a8558b307",
+      "result": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "mobile",
+      "file": "dubai-villa-exterior-design-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 36884,
+      "sha256": "6f35c71efea9863a424d328cab13a438ccbf6b770870fe4a6fe682b29bb2f2f3",
+      "result": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "primary",
+      "file": "dubai-arabic-majlis-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 70770,
+      "sha256": "71dde1f050778c6e6af73167279cb1b4e875bf250d60b1479242abe846ffab7d",
+      "result": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "mobile",
+      "file": "dubai-arabic-majlis-design-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 17924,
+      "sha256": "96cb32a9a4cbc14b2f73ffe44b4bad05a6dd19588f4d93ba89eabe72c04cc115",
+      "result": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "primary",
+      "file": "dubai-custom-kitchen-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 51958,
+      "sha256": "dbf610dec951e5ab98f5c52406b4f3a2d7dca7c6d7bcddc21d5668f8d18fe21f",
+      "result": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "mobile",
+      "file": "dubai-custom-kitchen-design-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 17486,
+      "sha256": "99da581b08b1d6caa8aa14bcd554c204f64c4888004e94b6051adf1458564df3",
+      "result": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "primary",
+      "file": "dubai-commercial-interior-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 78990,
+      "sha256": "86bc6470e3472340ca347c721ba92486770f19cd2a0491579c3e8bdaaa57ba4b",
+      "result": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "mobile",
+      "file": "dubai-commercial-interior-design-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 27260,
+      "sha256": "3a6933e1905ce97a6afc2114df4e97056941125eac90ebafa8f639609105a653",
+      "result": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "primary",
+      "file": "dubai-2d-3d-bim-design.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 15628,
+      "sha256": "6258ccc7a4aecdbe8c6a9b393dfaf3555750fce8d50439be94ed806ff3d5b455",
+      "result": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "mobile",
+      "file": "dubai-2d-3d-bim-design-mobile.webp",
+      "width": 600,
+      "height": 1140,
+      "bytes": 13576,
+      "sha256": "bdd91a75bbc5cb10b04c4f3f4efbe617c4de7d432e4031f52f675c450a9661b6",
+      "result": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "primary",
+      "file": "dubai-engineering-project-stages.svg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 9573,
+      "sha256": "371886e5c2b6fe35d3d7c142f0fa1c0a6a0c390446d8750de2e01a84464e853d",
+      "result": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "mobile",
+      "file": "dubai-engineering-project-stages-mobile.svg",
+      "width": 600,
+      "height": 1060,
+      "bytes": 8614,
+      "sha256": "9f3cf98557364bc7572d6976e56ebb3bdc2638721239635cda3ba35b9d71ff52",
+      "result": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "primary",
+      "file": "dubai-design-deliverables.svg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 9897,
+      "sha256": "f9cfb9fb3d9440fe56dbf5c9fff8d9a165c21c7e0d96aa313f06cfcb119abaa8",
+      "result": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "mobile",
+      "file": "dubai-design-deliverables-mobile.svg",
+      "width": 600,
+      "height": 1050,
+      "bytes": 6304,
+      "sha256": "7e465b6d47b9339f30e70825910e1ab34929c5789e4b8d4d0ca344a35ddbd4d2",
+      "result": "pass"
+    },
+    {
+      "id": "13",
+      "variant": "primary",
+      "file": "dubai-client-design-consultation.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 74526,
+      "sha256": "20106b0a0f0aa59ef7efaa20a13141a739e23d7b58ebce0eb558c288c0441526",
+      "result": "pass"
+    },
+    {
+      "id": "13",
+      "variant": "mobile",
+      "file": "dubai-client-design-consultation-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 23116,
+      "sha256": "443ec9c9be4bc57c621579ad9efed1ef39b75f65fc871911f9dbbb49c1815a06",
+      "result": "pass"
+    },
+    {
+      "id": "14",
+      "variant": "primary",
+      "file": "dubai-engineering-office-profile.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 98798,
+      "sha256": "b110fbda7c08ef25e892a11b0e72598b5bc94e0e8f779a3e6ad4cc2610ae1857",
+      "result": "pass"
+    },
+    {
+      "id": "14",
+      "variant": "mobile",
+      "file": "dubai-engineering-office-profile-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 28894,
+      "sha256": "a77f4368bf0488d894d653cc578c857adcc353ea0c314329aad574185e97e9de",
+      "result": "pass"
+    }
+  ],
+  "limits": [
+    "Visual assessment is editorial, not engineering approval.",
+    "No live-page integration or Core Web Vitals measurement was performed.",
+    "GitHub upload and raw-link verification are recorded separately."
+  ]
+}

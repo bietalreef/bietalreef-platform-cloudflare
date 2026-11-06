@@ -1,0 +1,346 @@
+{
+  "checked_at": "2026-11-06T21:16:51.449657+00:00",
+  "result": "pass",
+  "primary_concepts": 16,
+  "public_image_files": 32,
+  "webp_files": 26,
+  "svg_files": 6,
+  "unique_content_hashes": 32,
+  "unique_ar_alt": 16,
+  "unique_en_alt": 16,
+  "raw_original_png_count": 14,
+  "editable_source_svg_count": 6,
+  "service_entries_mapped": 105,
+  "company_specialties_mapped": 10,
+  "html_local_image_links_checked": 32,
+  "public_image_bytes": 1078327,
+  "max_webp_bytes": 107612,
+  "checks": [
+    {
+      "id": "01",
+      "variant": "primary",
+      "file": "dubai-general-maintenance-hero.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 107612,
+      "sha256": "fedf009ad1c7580b381ad3c18a273ab16d91dab51a2cd1e69808ee3d6b1c70d9",
+      "result": "pass"
+    },
+    {
+      "id": "01",
+      "variant": "mobile",
+      "file": "dubai-general-maintenance-hero-mobile.webp",
+      "width": 900,
+      "height": 1200,
+      "bytes": 59740,
+      "sha256": "52fb7ef4c48ec82b4ebabafbdaf3ed0e2452071f55613892ffe382aeff57cc8d",
+      "result": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "primary",
+      "file": "dubai-home-general-maintenance.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 73346,
+      "sha256": "4643192df23eeab320197e989ae8150a8ec2c85134b4a4bdc06a14f1e5e50bb7",
+      "result": "pass"
+    },
+    {
+      "id": "02",
+      "variant": "mobile",
+      "file": "dubai-home-general-maintenance-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 26712,
+      "sha256": "3f93513622de40ab8a7e59bb4dd8d349ce75c250f751025f60a5ca126b7a5800",
+      "result": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "primary",
+      "file": "dubai-integrated-finishing.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 31584,
+      "sha256": "8d0aca359d6588eaec73a454f0d0e3ecb6c9e043a1279f79656f2e8dc920e144",
+      "result": "pass"
+    },
+    {
+      "id": "03",
+      "variant": "mobile",
+      "file": "dubai-integrated-finishing-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 10434,
+      "sha256": "44df65b21aa56539599b1e6c2b7377c1767d2cb8f2e8570629eeb43792207db7",
+      "result": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "primary",
+      "file": "dubai-gypsum-ceiling-finishing.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 17818,
+      "sha256": "a92c1064adbd4dbd2109ac425ef94bb893f510b5a23f6ffeffa0f6219710ac82",
+      "result": "pass"
+    },
+    {
+      "id": "04",
+      "variant": "mobile",
+      "file": "dubai-gypsum-ceiling-finishing-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 5874,
+      "sha256": "aeda1d519fe53eed0cabbdeea61a721be69950a7aa66b429a3592e7055ef29ff",
+      "result": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "primary",
+      "file": "dubai-flooring-tiling.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 56224,
+      "sha256": "0078bed1c8c8d3ed21c0bca35c3ed470b6fb02ec5dcd2364d785c40eef48d869",
+      "result": "pass"
+    },
+    {
+      "id": "05",
+      "variant": "mobile",
+      "file": "dubai-flooring-tiling-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 19800,
+      "sha256": "f701dbbf1e2a2b909ffa06b07a3f1c060a41e80f4578661ac75c3faff057cf8c",
+      "result": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "primary",
+      "file": "dubai-electrical-maintenance.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 39488,
+      "sha256": "3e849537dcca6606a6c859dec82c3f3902144d6d1fb1ade2c113821dd7130949",
+      "result": "pass"
+    },
+    {
+      "id": "06",
+      "variant": "mobile",
+      "file": "dubai-electrical-maintenance-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 15842,
+      "sha256": "9c5d9f772b33d55ac132a3844c2837e25b34e714c1e26c965af8f90d4abaddd1",
+      "result": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "primary",
+      "file": "dubai-water-leak-detection.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 44578,
+      "sha256": "f7d8330628443ddc2c132cc38757f1500391fb9ee0f0542d8bc333c8c4dc13e6",
+      "result": "pass"
+    },
+    {
+      "id": "07",
+      "variant": "mobile",
+      "file": "dubai-water-leak-detection-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 13886,
+      "sha256": "0160009ed3e380062a23da54c9e2981f859680a3b81da13f717912b33e4d16b9",
+      "result": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "primary",
+      "file": "dubai-ac-maintenance.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 73644,
+      "sha256": "3d09ad8a671452598adb23c42cb22020859c3e6093a7300d9189a5a9f42ebea2",
+      "result": "pass"
+    },
+    {
+      "id": "08",
+      "variant": "mobile",
+      "file": "dubai-ac-maintenance-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 26350,
+      "sha256": "378305e84332d7499c498e2418f51578885d7a0f733d79435d719008c0dcadd8",
+      "result": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "primary",
+      "file": "dubai-smart-home-systems.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 50572,
+      "sha256": "d94b208bb508c7dc4f01ab711c58837d900b01731deed37021778e0ffe65482e",
+      "result": "pass"
+    },
+    {
+      "id": "09",
+      "variant": "mobile",
+      "file": "dubai-smart-home-systems-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 12950,
+      "sha256": "22033f55bec6a1f88d1d12761fd75ca635145cca1187684c2b1c23aaa647a3f7",
+      "result": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "primary",
+      "file": "dubai-villa-wall-painting.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 65622,
+      "sha256": "368d6963b1b49d902a4127a63f39e3cad51c78f0e730317770dcd640e88b2b8c",
+      "result": "pass"
+    },
+    {
+      "id": "10",
+      "variant": "mobile",
+      "file": "dubai-villa-wall-painting-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 21314,
+      "sha256": "a748069b84ca4d7bae69c90d7a9a01741bbe49cc4ffe74cb0bb081b97fbf26b3",
+      "result": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "primary",
+      "file": "dubai-waterproofing-insulation.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 48886,
+      "sha256": "e4b5d3dfd9ad32512873dc531d7cfc2983feb7c8ea075f8c0f5400d8c0dda03b",
+      "result": "pass"
+    },
+    {
+      "id": "11",
+      "variant": "mobile",
+      "file": "dubai-waterproofing-insulation-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 9892,
+      "sha256": "4755427d726c1a12d090bf8b300f23f06f31ecf42b3bb8c2af0fe3079d9df297",
+      "result": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "primary",
+      "file": "dubai-maintenance-diagnosis-flow.svg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 8982,
+      "sha256": "e4807305ab0873e439249e1b65d986ffc332d037afe13555e30d40e396618e9e",
+      "result": "pass"
+    },
+    {
+      "id": "12",
+      "variant": "mobile",
+      "file": "dubai-maintenance-diagnosis-flow-mobile.svg",
+      "width": 600,
+      "height": 1110,
+      "bytes": 9386,
+      "sha256": "a111b760f658b062083ca0191f3849e339d116890ad04a1cc372bfd57c0e1312",
+      "result": "pass"
+    },
+    {
+      "id": "13",
+      "variant": "primary",
+      "file": "dubai-maintenance-quotation-comparison.svg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 11446,
+      "sha256": "d1bb02641972937c13b996b70779acbe9b2c93a7278ba52b9bf1d32a6ba549f0",
+      "result": "pass"
+    },
+    {
+      "id": "13",
+      "variant": "mobile",
+      "file": "dubai-maintenance-quotation-comparison-mobile.svg",
+      "width": 600,
+      "height": 1020,
+      "bytes": 11383,
+      "sha256": "b6e9f97e0cc9b932ac21d21199e67b35f105c88efc815a0de37fe5b9303036f4",
+      "result": "pass"
+    },
+    {
+      "id": "14",
+      "variant": "primary",
+      "file": "dubai-preventive-maintenance-plan.svg",
+      "width": 1200,
+      "height": 900,
+      "bytes": 7399,
+      "sha256": "b9d796ac5ac0a690630ce0231fbee209e66604412d41acae916eafe3e707692e",
+      "result": "pass"
+    },
+    {
+      "id": "14",
+      "variant": "mobile",
+      "file": "dubai-preventive-maintenance-plan-mobile.svg",
+      "width": 600,
+      "height": 1080,
+      "bytes": 6977,
+      "sha256": "379a460abc55a2064c0013056d3e56fc4b4f5431bfc03d952151bf4707c35012",
+      "result": "pass"
+    },
+    {
+      "id": "15",
+      "variant": "primary",
+      "file": "dubai-maintenance-quote-request.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 66976,
+      "sha256": "a3239122bdc65c19b414e94c13ff764891d54432113cc366fd68d79267a2a4e1",
+      "result": "pass"
+    },
+    {
+      "id": "15",
+      "variant": "mobile",
+      "file": "dubai-maintenance-quote-request-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 25740,
+      "sha256": "0d519dd23c4ee8ae13e32d741e257f3eff7fb90d03952709b64ccb7bdb23a25d",
+      "result": "pass"
+    },
+    {
+      "id": "16",
+      "variant": "primary",
+      "file": "dubai-maintenance-company-profile.webp",
+      "width": 1200,
+      "height": 900,
+      "bytes": 72234,
+      "sha256": "ea1b22d27a71896807fd411548301c39da1eaedb9c049f28b4f0c22be5efa9c1",
+      "result": "pass"
+    },
+    {
+      "id": "16",
+      "variant": "mobile",
+      "file": "dubai-maintenance-company-profile-mobile.webp",
+      "width": 600,
+      "height": 450,
+      "bytes": 25636,
+      "sha256": "9dd1aebcbafe869da71c38a7f7c8f33f1eac2ddc3486e7ee57cc0b5404be6986",
+      "result": "pass"
+    }
+  ],
+  "limits": [
+    "Visual assessment is editorial, not engineering approval.",
+    "No live-page integration, viewport browser test or Core Web Vitals measurement was performed.",
+    "Mobile SVGs were rendered and visually checked at 390 px; HTML links and image dimensions were statically verified.",
+    "GitHub upload and raw-link verification are recorded separately."
+  ]
+}

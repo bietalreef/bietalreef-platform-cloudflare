@@ -17,7 +17,7 @@ export default function ProviderSectorCards({ locale = 'ar' }) {
   const sectors = UAE_MAIN_SECTORS.filter(sector => matchesDirectorySector(sector, query));
   return <>
   <label className={styles.search}><Search aria-hidden="true"/><span className={styles.srOnly}>{en ? 'Search business sectors' : 'ابحث عن قطاع للشركات'}</span><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={en ? 'Search construction, maintenance, cleaning…' : 'ابحث عن مقاولات، صيانة، تنظيف…'}/></label>
-  {query && <p className={styles.result} role="status">{en ? `${sectors.length} matching sectors` : `${sectors.length} قطاعات تطابق بحثك`}</p>}
+  {query && <p className={styles.result} role="status">{en ? `Matching sectors: ${sectors.length}` : `نتائج البحث: ${sectors.length}`}</p>}
   <div className={styles.grid}>
     {sectors.map(sector => {
       const choices = sectorChoices(sector, 'providers', locale);

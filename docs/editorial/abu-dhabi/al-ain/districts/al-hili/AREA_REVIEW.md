@@ -1,6 +1,6 @@
 # Al Hili — AREA_REVIEW
 
-- Status: **in_progress** (do not advance to Al Jimi).
+- Status: **content_complete / editorial_quality_check_pending** — 8/8 sectors and 50/50 company specialties with all 150 expected file paths present; final independent per-service quality validation still pending.
 - Branch: `content/al-ain-district-services-20261107`
 - Editorial scope: company and establishment specialties only, not separate craftsperson profiles.
 - Source: `docs/editorial/abu-dhabi/al-ain/districts/_control/TAXONOMY_SOURCE_AR.md` and district `README.md`.
@@ -17,7 +17,7 @@
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 5 | 56 per language | reviewed_content |
 | الأثاث والمفروشات والتجهيز | 4 | 4 | 24 per language | reviewed_content |
 | المصانع ومعدات الإيجار | 8 | 8 | 53 per language | reviewed_content |
-| التنظيف والتعقيم ومكافحة الحشرات | 8 | 0 | 0 | pending |
+| التنظيف والتعقيم ومكافحة الحشرات | 8 | 8 | 42 per language | files_verified |
 
 ## Verified editorial files
 
@@ -136,3 +136,24 @@ Continue **Al Hili** with the five workshop specialties, followed by furniture, 
 - [Construction and lifting hire](./equipment-rental/construction-lifting-equipment/review.md) · [Light tool hire](./equipment-rental/light-tools-rental/review.md) · [Aluminium/glass factories](./equipment-rental/aluminium-glass-factories/review.md) · [Marble/stone factories](./equipment-rental/marble-stone-factories/review.md) · [Equipment stores](./equipment-rental/tools-equipment-stores/review.md) · [Property moving](./equipment-rental/property-moving/review.md) · [Project transport](./equipment-rental/project-material-transport/review.md) · [Cement/block factories](./equipment-rental/concrete-block-factories/review.md).
 - Source-restricted factory/store specialties and the proposed cement/block factory category are informational only, not a publication/activation claim.
 - Cumulative **42/50 company specialties, 392 named services per language, 7/8 sectors**. **in_progress** until all 8 cleaning and pest-control specialties are authored, read back and audited.
+
+
+## FINAL COVERAGE AND GITHUB INVENTORY — 2026-11-07
+
+**Coverage: 8/8 sectors and 50/50 company/establishment specialties.** GitHub's recursive tree confirms 150/150 expected editorial files (each specialty has `content-ar.md`, `content-en.md` and `review.md`); no missing triplets. Original taxonomy specifies **434 services for Arabic and 434 for English** across the eight sectors, broken down as follows:
+
+| Sector slug | Specialty folders | Named services per language (taxonomy) |
+| --- | ---: | ---: |
+| general-contracting | 6 | 56 |
+| interior-design | 4 | 49 |
+| general-maintenance | 10 | 105 |
+| building-materials | 5 | 49 |
+| aluminium-glass | 5 | 56 |
+| furniture-decor | 4 | 24 |
+| equipment-rental | 8 | 53 |
+| cleaning-services | 8 | 42 |
+| **TOTAL** | **50** | **434** |
+
+All remaining specialty groups completed during direct continuation have been uploaded and their files read back with matched bilingual service-heading counts. Previous run reviews and read-back records remain above. **Quality caveat:** Inventory and heading-count verification are not a substitute for a final independent sentence-by-sentence review of factual accuracy, language naturalness, per-service distinctiveness and absence of repetitive boilerplate. Do not represent that deeper check as completed without performing it.
+
+The next editorial area after **verified content completion** is Al Jimi. No software, database, merge or live site changes have been made by this editorial effort.

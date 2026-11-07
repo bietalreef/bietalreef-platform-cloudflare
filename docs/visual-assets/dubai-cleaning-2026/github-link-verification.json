@@ -1,0 +1,214 @@
+{
+  "status": "pass",
+  "files_checked": 26,
+  "files": [
+    {
+      "path": "public/images/uae/dubai/cleaning-services/IMAGE_MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/IMAGE_MANIFEST.json",
+      "http_status": 200,
+      "bytes": 36220,
+      "sha256": "6630e83b6f2e340588bc3fd1b5276e384de28920aa1ba56b809d50b53f1ed2d5",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-building-facade-cleaning.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-building-facade-cleaning.webp",
+      "http_status": 200,
+      "bytes": 80920,
+      "sha256": "8cec3d76f4f91a714977fcdc58fc6141f3bc32db70ac7114dba1d5c78cea0a1c",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-building-facilities-inspection.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-building-facilities-inspection.webp",
+      "http_status": 200,
+      "bytes": 78840,
+      "sha256": "4c073e9dfcad9b1502737d94d5f18ad2601a8b46c14dd6a14926a6a351e3755e",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-hero-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-hero-mobile.webp",
+      "http_status": 200,
+      "bytes": 61178,
+      "sha256": "8af62bc675061ea8418bf754cb3098f78e94b62ab66d8bd778504641fe2ab036",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-hero.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-hero.webp",
+      "http_status": 200,
+      "bytes": 70728,
+      "sha256": "59a92389e5c922896219d196614c6daf635c23da451ebc6949e66ecdd9e99bc2",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-og.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-cleaning-guide-og.webp",
+      "http_status": 200,
+      "bytes": 62978,
+      "sha256": "3ae9280ab527746974b2f8322ae93b20d8a61fcb75e3d1fe6c7492225455f69f",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-majlis-upholstery-cleaning.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-majlis-upholstery-cleaning.webp",
+      "http_status": 200,
+      "bytes": 122280,
+      "sha256": "b0a82886a3e40afc60731bef76ad689f2bff83ec72a2962bb4d4b7283a01eee2",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-office-surface-disinfection.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-office-surface-disinfection.webp",
+      "http_status": 200,
+      "bytes": 51254,
+      "sha256": "3ac453e822b31b8f795b485e201152ea5ce8085689623e89298366c1d7472ee7",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-pest-control-inspection.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-pest-control-inspection.webp",
+      "http_status": 200,
+      "bytes": 74310,
+      "sha256": "72efe6877c411554fd27d8177f8c0f062914c4d54a7c99abdc6f65d3629b98dd",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-pool-cleaning-service.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-pool-cleaning-service.webp",
+      "http_status": 200,
+      "bytes": 115318,
+      "sha256": "781c8fabf910113862121040d0da6b67a577e1d23693cc71b4d02adda3c7cfea",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-post-construction-villa-cleaning-case.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-post-construction-villa-cleaning-case.webp",
+      "http_status": 200,
+      "bytes": 89482,
+      "sha256": "4073faf4ee1164aa7ae7841712ab6d9c41c542008692a358e6029377f8c74713",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-residential-pool-tank-inspection-case.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-residential-pool-tank-inspection-case.webp",
+      "http_status": 200,
+      "bytes": 129020,
+      "sha256": "b8c826e19d4cd2ca7e7c85eaa5e8d6481d5d1ef175bb319c6e0d3197fadce232",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-restaurant-pest-inspection-case.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-restaurant-pest-inspection-case.webp",
+      "http_status": 200,
+      "bytes": 69168,
+      "sha256": "eec6f0d5c81c59edbdb5e252d6d693ae483d53fdecb0aae798f3c64980d91417",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-service-team-briefing.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-service-team-briefing.webp",
+      "http_status": 200,
+      "bytes": 118962,
+      "sha256": "a76aec888868111ee37bebf665dee792c46ed7bc8dd802589e84b56c83c4543d",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-tower-apartment-cleaning-case.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-tower-apartment-cleaning-case.webp",
+      "http_status": 200,
+      "bytes": 92846,
+      "sha256": "181c8eef4f151a5e667a1e4565f1db3205f8325059c42ab458af5203d3219f86",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/cleaning-services/dubai-villa-deep-cleaning.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/public/images/uae/dubai/cleaning-services/dubai-villa-deep-cleaning.webp",
+      "http_status": 200,
+      "bytes": 77806,
+      "sha256": "99992ee49e6253f2f030d7b99bd841631e8ab4f69e7f5f7988d93701bfd891c2",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/README.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/README.md",
+      "http_status": 200,
+      "bytes": 1634,
+      "sha256": "fc6dbe856917b5c6ac811435491a2b6f5fe8054b06d79b7759845819965cd47c",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/browser-validation.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/browser-validation.json",
+      "http_status": 200,
+      "bytes": 265,
+      "sha256": "6299d2c71c7d61f575ba2def1b0676f35c550eeaf1ce94c520a4d3d0c1a53d8f",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/placement-map.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/placement-map.md",
+      "http_status": 200,
+      "bytes": 10818,
+      "sha256": "ed156631eedf8d8dd2c0db6ac19d538ee9fd465efdf87f4eed83821feba38a0c",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/preview-desktop.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/preview-desktop.html",
+      "http_status": 200,
+      "bytes": 833,
+      "sha256": "8d0c8ab89761baf26769fa1ad8225a1a82b2965ad0bfd10462a4dad867847b9a",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/preview-mobile.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/preview-mobile.html",
+      "http_status": 200,
+      "bytes": 829,
+      "sha256": "e3c04ec1caad3918ffeabb9f7c337f8a3dc445fb4d2d166c96b62f97a16949a8",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/preview.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/preview.html",
+      "http_status": 200,
+      "bytes": 120601,
+      "sha256": "2550cc971e2772fa9ad3b521d65a88476018b0fbba62ddabb43e69eae4fc9ff6",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/quality-report.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/quality-report.md",
+      "http_status": 200,
+      "bytes": 4734,
+      "sha256": "5b4be9c8a7f74c6d115f35f6e18b5da9fc1d5745f8f3975f95842c87307da211",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/service-coverage.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/service-coverage.md",
+      "http_status": 200,
+      "bytes": 4584,
+      "sha256": "d88465bbf3b3b5e67e3e272487ddd5a4c2289d4e85bc839fcb821f16faa976b9",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/upload-report.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/upload-report.md",
+      "http_status": 200,
+      "bytes": 77,
+      "sha256": "9307a2627394506aee1a57a4791dcee8c51c4e854118168f30a424931a15c26b",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-cleaning-2026/validation.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-cleaning-visuals-20261107/docs/visual-assets/dubai-cleaning-2026/validation.json",
+      "http_status": 200,
+      "bytes": 533,
+      "sha256": "3ebde214a7c67821744dff29c78055af6cb4ffd0f3ae3f3b111b0bde9acad3e1",
+      "match": true
+    }
+  ]
+}

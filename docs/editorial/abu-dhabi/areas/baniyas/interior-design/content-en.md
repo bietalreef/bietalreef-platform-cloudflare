@@ -122,3 +122,89 @@ A quantity take-off needs a fixed drawing revision and agreed measurement rules;
 ### 28. Contractor bid review
 
 Make the scope, drawings, specifications, programme and requested payment terms consistent before comparing bids. Ask the reviewer to identify omissions, differing quantities, material substitutions, warranty provisions and exclusions rather than rank headline totals. Compare review services by analysis depth, bidder clarification process and risk assessment. Receive a comparison table with scope-normalised prices and unresolved questions; the lowest initial price is not automatically the strongest offer.
+
+## Interior design and material selection
+
+### 29. Majlis design
+
+Specify guest capacity, seating style, hospitality access and privacy; measure wall lengths, ceiling height, doors and AC positions. Compare circulation, seating layouts and cleanable finishes. Receive a dimensioned furniture plan, lighting locations and finish samples.
+
+### 30. Living room design
+
+Start with household use, screen position, storage and daily activities. Record window dimensions, power outlets, viewing distance and circulation. Compare furniture and daylight options; receive a plan showing unobstructed doors and routes.
+
+### 31. Bedroom design
+
+Set bed size, wardrobe capacity, blackout needs and switch positions. Measure the room, window and door swing. Compare storage and clearances around the bed; receive coordinated wardrobe elevations and electrical and lighting plans.
+
+### 32. Kitchen design
+
+Measure walls and appliances and locate water, drainage and extraction connections. Check working distances, drawer clearance, ventilation and surface resistance to heat and moisture. Compare board thickness and fittings; receive fabrication dimensions and service points.
+
+### 33. Bathroom design
+
+Measure room levels, drainage, doors and ventilation; choose shower and fixtures. Compare clearances, floor falls, waterproofing junctions and maintenance access. Receive coordinated plumbing and tile drawings identifying waterproofing zones and joints.
+
+### 34. Furniture layout planning
+
+Supply actual furniture dimensions and a plan showing doors, windows and sockets. Test arrangements for movement, cabinet access and cleaning; accept a scaled layout rather than symbolic furniture sizes.
+
+### 35. Interior 3D visualisation
+
+Define rooms, viewpoints and rendering detail; provide plans and material references. Compare the number of views and revision rounds. Receive visuals that communicate design choices, noting that screen colours do not replace physical samples.
+
+### 36. Office design
+
+Define headcount, meeting rooms, privacy, storage and visitor movement. Survey columns, windows and service outlets. Compare desk density, lighting and acoustics; receive a coordinated desk, power and data layout.
+
+### 37. Retail store design
+
+Define merchandise, stock, displays, checkout and customer flow. Measure frontage, heights and exits. Compare shelving flexibility, lighting and restocking access; receive display, counter and fabrication dimensions.
+
+### 38. Restaurant and café design
+
+Set seating capacity, service model and preparation, washing and storage zones. Review customer and staff routes, extraction and drainage. Compare equipment coordination and cleanable finishes; receive a service and equipment plan for technical review.
+
+### 39. Salon design
+
+Define workstations, washing, reception, waiting and privacy. Record equipment dimensions and water, power and ventilation points. Compare circulation, mirror lighting and cleanable surfaces; receive coordinated workstation and service plans.
+
+### 40. Clinic interior design
+
+Define clinical activities, patient and staff routes, examination rooms and storage. Coordinate equipment, privacy and cleaning needs with specialists and check activity-specific authority requirements. Receive functional and service plans; interior design alone is not operational approval.
+
+### 41. Exhibition design
+
+List exhibits, weights, visitor interaction and assembly and removal periods. Survey floor area, height and loading access. Compare lighting, display stability and reuse; receive a layout, item schedule and installation instructions.
+
+### 42. Reception area design
+
+Define visitor volume, peak queues, waiting and varied accessibility needs. Measure entrances, routes and equipment. Compare wayfinding, privacy and counter durability; receive circulation and service-counter dimensions.
+
+### 43. Floor finish selection
+
+Match each room's use, moisture, cleaning and loads to the existing substrate. Request physical samples, slip-performance data, installation method and joints. Compare material costs including substrate preparation and waste; receive a room-by-room floor schedule.
+
+### 44. Paint colour selection
+
+Assess daylight, window orientation, furniture and adjacent colours. Test painted wall samples under different lighting; compare sheen and washability. Receive exact colour codes, finishes and application locations.
+
+### 45. Stone and tile selection
+
+Define locations, moisture exposure, tile size and traffic. Inspect samples for veining, variation, absorption and texture. Compare cutting waste, adhesives and grout; receive setting-out drawings, starting points and reference samples.
+
+### 46. Furniture specification
+
+Set budget, dimensions, daily use, quantities and warranty expectations. Compare frames, upholstery, filling, maintenance and quoted lead times without assuming availability. Receive an itemised furniture schedule with approved dimensions, colours and materials.
+
+### 47. Lighting selection
+
+Identify tasks, general and accent lighting needs. Review colour temperature, glare, controls, maintenance and ceiling compatibility. Compare performance specifications, not fixture count alone; receive a luminaire schedule and control circuit plan.
+
+### 48. Material mood board
+
+Combine flooring, wall, fabric, metal and wood samples with supplier references. Compare colour harmony, texture, cleaning and batch variation. Receive a dated board linking each physical sample to its intended location rather than relying only on images.
+
+### 49. Finish schedule preparation
+
+After material approval, map each room to wall, floor, ceiling and skirting finishes, colour codes and reference quantities. Check consistency with drawings and samples and clarify supply-versus-installation scope. Receive a revision-controlled schedule suitable for pricing and execution.

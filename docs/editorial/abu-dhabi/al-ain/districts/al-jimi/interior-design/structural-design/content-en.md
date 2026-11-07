@@ -1,63 +1,91 @@
-# Structural design and assessment in Al Jimi
+# Structural design in Al Jimi
 
-Describe how the proposed Al Jimi space will be used, its existing limitations and the intended deliverables before commissioning design work. Usable and coordinated plans matter more than the number of attractive pictures. Verify any applicable authority requirements for the actual scope.
+This guide helps prepare engineering enquiries; it does not replace a qualified engineer or required authority approvals. Every assignment needs a written, site-specific scope.
 
-## 1. تصميم الهياكل الخرسانية — Structural design
+## 1. Concrete structural frame design
 
-**The practical decision:** Load paths through slabs, beams and columns, and the intended building use. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** For a new villa or a changed column grid, the load path from slabs through beams and columns to foundations must be established before sizing members.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+**Photos, measurements and inputs:** Supply current architectural drawings, floor count, intended uses, openings, stair locations and soil information where foundation coordination is included.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Specify analysis model, load assumptions, beam/column/slab schedules, reinforcement details and architectural coordination; construction and authority approvals are separate.
 
-## 2. تصميم القواعد والأساسات — Structural design
+**Comparing quotations and agreement terms:** Compare design basis, applicable code, service-clash coordination and included revision cycles rather than drawing count alone.
 
-**The practical decision:** Geotechnical conditions, groundwater and neighbouring structures affect foundation choice. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance checks:** Check grid lines, levels, connection details, revision register and accountable engineer's calculations.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+## 2. Foundation and footing design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Foundation choice for new construction or added loads depends on verified ground conditions, load paths, excavation limits and adjacent structures.
 
-## 3. إعداد المخططات الإنشائية — Structural design
+**Photos, measurements and inputs:** Provide geotechnical findings, ground levels, buried-service information, column plans and plot boundaries; surface photos cannot establish bearing capacity.
 
-**The practical decision:** Coordinate columns, openings and member schedules with architecture and services. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Agree whether isolated, combined or raft footings, settlement checks, reinforcement and waterproofing interfaces are covered; ground testing and excavation are separate.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotations and agreement terms:** Compare groundwater and settlement assumptions, neighbour protection interfaces and redesign obligations if soil findings change.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance checks:** Verify footing dimensions, founding levels, reinforcement schedules and links to the agreed soil report and column reactions.
 
-## 4. مراجعة الأحمال الإنشائية — Structural design
+## 3. Structural drawing preparation
 
-**The practical decision:** A change of use or added heavy equipment may exceed design loads; verify rather than assume. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Construction-ready structural drawings are needed to translate engineering decisions into buildable details without architectural or MEP clashes.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+**Photos, measurements and inputs:** Provide latest approved design inputs, architectural versions, opening schedules and heavy-equipment locations; distinguish new design from drafting existing calculations.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Define foundation, column, slab and stair plans, sections, schedules and coordination scope; drafting alone does not constitute engineering approval.
 
-## 5. تقييم سلامة المباني — Structural design
+**Comparing quotations and agreement terms:** Compare drawing scales, reinforcement legibility, editable deliverables and responsibility for resolving clashes.
 
-**The practical decision:** Crack and settlement history, site inspection and dated photographs support a meaningful condition assessment. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance checks:** Check sheet references, grid labels, schedules, issue dates and incorporation of relevant architectural revisions.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+## 4. Structural load review
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Before placing a water tank or heavy equipment or changing a room's use, review concentrated loads and the full load path, not floor area alone.
 
-## 6. تصميم أعمال التدعيم — Structural design
+**Photos, measurements and inputs:** Provide equipment weight and support points, element photos, original drawings where available and intended changes; testing may be required.
 
-**The practical decision:** Strengthening needs a verified load path and a construction sequence that protects the existing structure. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Set out checked members, dead/live/point loads, verification limits and recommendations; a review is not installation permission or strengthening work.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotations and agreement terms:** Compare calculation approach, material evidence, missing-drawing assumptions and separately priced tests.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance checks:** Require a qualified conclusion with stated conditions, missing evidence or a designed strengthening requirement, not a vague verbal approval.
 
-## 7. إعداد التقارير الإنشائية — Structural design
+## 5. Building structural safety assessment
 
-**The practical decision:** Set report purpose, inspected area and tests, avoiding claims of whole-building safety from a limited review. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Growing cracks, settlement or concrete deterioration call for an assessment of risk and evidence before choosing cosmetic repairs.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree the responsible engineer, design inputs, calculations, drawings and any separately commissioned ground tests or investigations. Extra surveys, reports or formal submissions are not presumed included.
+**Photos, measurements and inputs:** Photograph defects with scale and dates, map dampness and movement, and provide building age and records of alterations or leaks.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Define visual inspection, measurements, testing and any intrusive openings; a visual visit is not a comprehensive safety certificate.
 
-## Preparing a quotation request
+**Comparing quotations and agreement terms:** Compare engineer competence, sampling plan, evidence trail, limitations and emergency response to suspected hazards.
 
-Send the brief, existing plans and site photographs to Biet Al Reef customer service. We can help prepare a comparable enquiry and look for suitable companies, without guaranteeing a supplier, authority approval, fee or date.
+**Acceptance checks:** Receive a mapped defect register, risk categories, further-test recommendations and explicit uncertainty; serious danger calls for immediate site safety action.
+
+## 6. Structural strengthening design
+
+**When it is needed:** Strengthening may follow a load change or confirmed member deficiency; selecting jackets, plates or composites before diagnosis is unsafe.
+
+**Photos, measurements and inputs:** Supply assessment findings, test data, as-built drawings, access restrictions and building-occupancy constraints.
+
+**Scope and exclusions:** Request before/after calculations, anchorage and load-transfer details, temporary propping, sequence and tests; supply, construction and permits are separate.
+
+**Comparing quotations and agreement terms:** Compare root-cause treatment, intrusive-work risks, downtime, design responsibility and supervision boundaries.
+
+**Acceptance checks:** Receive buildable details and hold points with acceptance tests; temporary supports should not be removed without documented engineering clearance.
+
+## 7. Structural engineering report preparation
+
+**When it is needed:** A structural report may document a defect, test finding or proposed change; its purpose and intended recipient should be agreed first.
+
+**Photos, measurements and inputs:** Provide site location, elements in scope, drawings, photographs, laboratory findings and correspondence, and the exact question to answer.
+
+**Scope and exclusions:** Define inspection, analysis, appendices, assumptions, addressee and report validity; it is not automatically an approval or permit.
+
+**Comparing quotations and agreement terms:** Compare supporting evidence, traceability, engineer accountability, permitted uses and revision terms.
+
+**Acceptance checks:** Check report version, visit date, observations, conclusions, limitations and photo locations; challenge unsupported conclusions.
+
+## Requesting a quotation
+
+State the exact service, Al Jimi project location, available drawings and photographs and preferred timeline. Ask for separate fees for design, visits, tests, revisions and official submissions. Biet Al Reef customer support can help prepare an enquiry without guaranteeing a firm, price or appointment.

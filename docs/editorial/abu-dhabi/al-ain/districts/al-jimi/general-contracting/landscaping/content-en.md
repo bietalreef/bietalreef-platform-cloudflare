@@ -1,191 +1,147 @@
-# Landscaping and garden care in Al Jimi — company service guide
+# Landscaping and garden maintenance in Al Jimi — company and establishment guide
 
-A useful enquiry starts with the actual site rather than a vague request for a contractor. Existing properties and new projects in Al Jimi can need different scopes; use photos, drawings and quantities rather than assumptions. This guide is for preparing requests, not an offer by any named company.
-
-> **Taxonomy status:** currently non-selectable. This is preparatory information, not a live category or supplier listing.
+Use this guide to prepare site-specific enquiries and compare work scopes, not as evidence of an available supplier. **This category is currently non-selectable**; these notes are preparatory and do not activate it. Confirm site conditions, permits and safety requirements with qualified parties before work.
 
 ## 1. Home garden design
 
-**Service-specific planning:** Decide whether play, gathering or planting is the garden's principal function.
+**When and what to commission:** Define whether seating, play or planting takes priority; map circulation and sun exposure.
 
+**Photos, dimensions and specifications:** Photograph doors, facades and shade; provide plot dimensions, service points and threshold levels.
 
-For **home garden design**, map the intended work and explain the existing condition before discussing a quote. Record planting areas, watering access and shade in photographs. Make the quantities and limitations explicit.
+**Quotation comparison, contract and exclusions:** Compare layout alternatives, planting and irrigation drawings; installation and supply are excluded unless contracted.
 
-**Quotation and agreement:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Walk paths and inspect shade and drainage.
+**Acceptance inspection:** Check usable path widths, unobstructed doors and runoff away from the building.
 
 ## 2. Villa landscaping
 
-**Service-specific planning:** Preserve villa privacy without blocking planting maintenance access.
+**When and what to commission:** Inventory existing trees, beds and seating to retain; agree privacy and access needs.
 
+**Photos, dimensions and specifications:** Supply planted-area measurements, machinery access and utility locations with multiple site photographs.
 
-The scope of **villa landscaping** can change significantly after a site survey. Record planting areas, watering access and shade in photographs and ask what information is still needed to price the work accurately.
+**Quotation comparison, contract and exclusions:** Price grading, soil, plants, irrigation and lighting separately; assign responsibility for protecting existing finishes.
 
-**Exclusions and comparison:** Compare material quality, irrigation coverage and aftercare, not just lawn area. Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Test irrigation and access routes around seating.
+**Acceptance inspection:** Inspect levels, irrigation coverage and maintenance access around seating and trees.
 
 ## 3. Outdoor space design
 
-**Service-specific planning:** Locate walking routes and water runoff before placing garden features.
+**When and what to commission:** Plan pedestrian, vehicle and seating routes before selecting paving or features.
 
+**Photos, dimensions and specifications:** Provide entrance plans, path widths, ground falls, drains and service locations.
 
-Do not approve **outdoor space design** based solely on a reference picture. Record planting areas, watering access and shade in photographs; clarify interfaces with existing services and finishes.
+**Quotation comparison, contract and exclusions:** Compare level plans, facade interfaces and paving specifications; permits and structural works are separate unless stated.
 
-**Contractor responsibilities:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Agree samples or drawings, testing responsibilities and who signs off each stage.
+**Acceptance inspection:** Check accessibility and ensure runoff does not reach door thresholds or walls.
 
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## 4. Green area installation
 
-**Distinct acceptance check:** Inspect accessibility and runoff away from door thresholds.
+**When and what to commission:** Assess drainage and water supply before choosing a planted ground cover.
 
-## 4. Lawn installation
+**Photos, dimensions and specifications:** Measure square metres, available soil depth, levels and irrigation points; photograph low spots.
 
-**Service-specific planning:** Soil preparation and drainage determine whether green areas establish.
+**Quotation comparison, contract and exclusions:** Compare soil preparation, planting layer, plant source and establishment care; identify drainage and waste exclusions.
 
-
-For **lawn installation**, map the intended work and explain the existing condition before discussing a quote. Record planting areas, watering access and shade in photographs. Make the quantities and limitations explicit.
-
-**Quotation and agreement:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check for uneven turf and water ponding.
+**Acceptance inspection:** Test irrigation, ponding and initial coverage; agree a follow-up period.
 
 ## 5. Tree and shrub planting
 
-**Service-specific planning:** Choose tree locations with mature roots and utility lines in mind.
+**When and what to commission:** Site trees for mature size, not just nursery size, clear of utilities and boundaries.
 
+**Photos, dimensions and specifications:** List species, quantities, container sizes, planting positions and clearances to structures and pipes.
 
-The scope of **tree and shrub planting** can change significantly after a site survey. Record planting areas, watering access and shade in photographs and ask what information is still needed to price the work accurately.
+**Quotation comparison, contract and exclusions:** Compare nursery stock, pit preparation, soil, staking, watering and replacement terms; utility relocation is separate.
 
-**Exclusions and comparison:** Compare material quality, irrigation coverage and aftercare, not just lawn area. Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check spacing, staking and tree health.
+**Acceptance inspection:** Inspect planting depth, stability, loose ties and foliage condition.
 
 ## 6. Natural turf installation
 
-**Service-specific planning:** Natural turf requires a defined establishment and watering plan.
+**When and what to commission:** Confirm sunlight, irrigation and surface preparation before turf delivery to avoid drying.
 
+**Photos, dimensions and specifications:** Measure area, water access, watering schedule, soil and shaded zones; photograph levels.
 
-Do not approve **natural turf installation** based solely on a reference picture. Record planting areas, watering access and shade in photographs; clarify interfaces with existing services and finishes.
+**Quotation comparison, contract and exclusions:** Specify turf variety and source, grading, establishment period and initial watering responsibility; long-term care is separate.
 
-**Contractor responsibilities:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect rooting and coverage before final acceptance.
+**Acceptance inspection:** Check close turf joints, initial rooting, even watering and absence of flooding.
 
 ## 7. Artificial turf installation
 
-**Service-specific planning:** Artificial turf needs a draining base and careful joining of rolls.
+**When and what to commission:** Choose pile height and density for use; a draining stable base matters more than laying rolls over loose soil.
 
+**Photos, dimensions and specifications:** Photograph the existing base; measure lengths, edges and drains and note sun exposure.
 
-For **artificial turf installation**, map the intended work and explain the existing condition before discussing a quote. Record planting areas, watering access and shade in photographs. Make the quantities and limitations explicit.
+**Quotation comparison, contract and exclusions:** Compare roll specifications, sub-base, seam adhesive, edge fixing and any infill; approve a physical sample.
 
-**Quotation and agreement:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Include the programme, protection duties and inspection milestones.
+**Acceptance inspection:** Inspect pile direction, seams, secured edges and water drainage.
 
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## 8. Plant and tree installation
 
-**Distinct acceptance check:** Test seams, edge restraints and water flow.
+**When and what to commission:** Distinguish decorative beds from permanent planting; match species to light, watering and bed size.
 
-## 8. Plant and tree planting
+**Photos, dimensions and specifications:** Provide plant schedule, counts, bed dimensions, pipe positions and any damaged root photographs.
 
-**Service-specific planning:** Protect the root ball and trunk when placing new trees.
+**Quotation comparison, contract and exclusions:** Compare plant sizes, soil mix, mulch, supports and replacement terms; irrigation alterations are not automatic.
 
-
-The scope of **plant and tree planting** can change significantly after a site survey. Record planting areas, watering access and shade in photographs and ask what information is still needed to price the work accurately.
-
-**Exclusions and comparison:** Compare material quality, irrigation coverage and aftercare, not just lawn area. Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check ties are supportive without constricting the trunk.
+**Acceptance inspection:** Inspect intact root balls, spacing and correct planting depth at the crown.
 
 ## 9. Tree pruning
 
-**Service-specific planning:** Keep pruning clear of electrical lines and pedestrian movement.
+**When and what to commission:** Identify dead, crossing or obstructing branches; avoid indiscriminate topping or work near power lines without specialists.
 
+**Photos, dimensions and specifications:** Photograph the full canopy and target limbs; estimate height, lift access and debris collection space.
 
-Do not approve **tree pruning** based solely on a reference picture. Record planting areas, watering access and shade in photographs; clarify interfaces with existing services and finishes.
+**Quotation comparison, contract and exclusions:** Compare pruning plan, access equipment, pedestrian protection and green-waste removal; live-line work needs specialist coordination.
 
-**Contractor responsibilities:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Review cut quality and safe waste removal.
+**Acceptance inspection:** Check clean cuts, no hanging limbs and no damage to fences or nearby planting.
 
 ## 10. Lawn maintenance
 
-**Service-specific planning:** Agree lawn cut frequency and management of worn patches.
+**When and what to commission:** Map yellowing, compaction and bare patches before setting mowing and feeding frequency.
 
+**Photos, dimensions and specifications:** Provide lawn area, photographs of weak zones, sprinkler type and any watering logs.
 
-For **lawn maintenance**, map the intended work and explain the existing condition before discussing a quote. Record planting areas, watering access and shade in photographs. Make the quantities and limitations explicit.
+**Quotation comparison, contract and exclusions:** Compare visit frequency, cutting height, clipping disposal and sprinkler checks; reseeding and pest treatment need explicit scope.
 
-**Quotation and agreement:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Review turf condition on documented visits.
+**Acceptance inspection:** Review visit records, cut consistency and photographed progress of weak patches.
 
 ## 11. Plant feeding and treatment
 
-**Service-specific planning:** Investigate irrigation, salinity and disease before fertilising.
+**When and what to commission:** Do not assume yellow leaves require fertiliser; check watering, drainage, salinity and possible pests first.
 
+**Photos, dimensions and specifications:** Photograph both leaf surfaces and soil; list species, affected counts and irrigation condition.
 
-The scope of **plant feeding and treatment** can change significantly after a site survey. Record planting areas, watering access and shade in photographs and ask what information is still needed to price the work accurately.
+**Quotation comparison, contract and exclusions:** Compare diagnosis, any required tests, product, dosage and follow-up; recovery of severely damaged plants cannot be assumed.
 
-**Exclusions and comparison:** Compare material quality, irrigation coverage and aftercare, not just lawn area. Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check the diagnosis and monitoring plan.
+**Acceptance inspection:** Request application records, safe watering instructions and later symptom review rather than instant colour change.
 
 ## 12. Garden pest control
 
-**Service-specific planning:** Identify garden pests before choosing any treatment.
+**When and what to commission:** Identify the pest and affected area before choosing treatment; avoid unnecessary blanket spraying.
 
+**Photos, dimensions and specifications:** Provide close-up pest images, affected plant counts, water sources and presence of children or pets.
 
-Do not approve **garden pest control** based solely on a reference picture. Record planting areas, watering access and shade in photographs; clarify interfaces with existing services and finishes.
+**Quotation comparison, contract and exclusions:** Compare integrated pest management, authorised product, re-entry precautions and follow-up visits; indoor pest control is separate.
 
-**Contractor responsibilities:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect treatment records and safe-use instructions.
+**Acceptance inspection:** Check treatment records, re-entry instructions and a scheduled reassessment.
 
 ## 13. Garden cleaning
 
-**Service-specific planning:** Plan green waste collection around drains and planted borders.
+**When and what to commission:** Separate leaf and branch collection from bulky waste or pond cleaning to avoid scope disputes.
 
+**Photos, dimensions and specifications:** Photograph waste volumes, paths, drains and furniture or planting requiring protection.
 
-For **garden cleaning**, map the intended work and explain the existing condition before discussing a quote. Record planting areas, watering access and shade in photographs. Make the quantities and limitations explicit.
+**Quotation comparison, contract and exclusions:** Compare collection, sorting, loading, lawful disposal and transport; pressure washing is not necessarily included.
 
-**Quotation and agreement:** Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Compare material quality, irrigation coverage and aftercare, not just lawn area. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Confirm all access paths and drains are cleared.
+**Acceptance inspection:** Check clear paths and drains and no cuttings left in beds or damage to plants.
 
 ## 14. Garden maintenance contracts
 
-**Service-specific planning:** Define seasonal visits and missed-service remedies in a garden contract.
+**When and what to commission:** Create a schedule separating mowing, irrigation, pruning, feeding and monitoring with urgent-call procedures.
 
+**Photos, dimensions and specifications:** Provide a garden plan, tree counts, lawn areas, irrigation assets and baseline photographs.
 
-The scope of **garden maintenance contracts** can change significantly after a site survey. Record planting areas, watering access and shade in photographs and ask what information is still needed to price the work accurately.
+**Quotation comparison, contract and exclusions:** Compare visit frequency, labour hours, consumables, spare parts and replacements; define response and missed-visit remedies.
 
-**Exclusions and comparison:** Compare material quality, irrigation coverage and aftercare, not just lawn area. Spell out soil preparation, irrigation, drainage, green waste and aftercare exclusions. Record variations, approvals and payment stages before work starts.
+**Acceptance inspection:** Match visit logs to schedules, before/after images, plant health notes and outstanding repairs.
 
-**Acceptance:** Consider plant suitability, drainage and aftercare; a newly installed landscape is not equivalent to an established garden. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## Requesting a quotation through Biet Al Reef
 
-**Distinct acceptance check:** Inspect logged visits and plant-condition follow-up.
-
-## Requesting quotes with Biet Al Reef
-
-Send the service description, site photos, dimensions and any available drawings, including what must remain undisturbed. Biet Al Reef customer service can help structure the request and look for suitable companies; availability, pricing and dates are not guaranteed.
+Specify the exact service above, site area, current-condition photographs, available plans, protected elements, desired outcome and whether the request is for design, installation or maintenance. Biet Al Reef customer service can help prepare an enquiry even without a published company, **without guaranteeing supplier availability, price or timing**.

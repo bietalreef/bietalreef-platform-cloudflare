@@ -1,10 +1,14 @@
 # Review — إنشاء المباني والفلل — Al Jimi
 
-- Source: original companies/establishments taxonomy; the separate craftsperson tree was not used.
-- Service headings: **14** exact Arabic labels, **14** corresponding English labels, same sequence.
-- Status: no active availability asserted.
-- Review includes request details, limitations, specification, quotation comparison, handover and non-guarantee notice.
-- Revision requested if a technical statement is not supported by the actual project drawings or qualified consultant.
+**Status: in_progress — English rewrite verified; Arabic revision pending.**
+
+- Source: companies and establishments taxonomy, not the craftsperson categories.
+- All 14 Arabic headings remain in original order; 14 English corresponding service headings were re-authored and read back from GitHub on 2026-11-07.
+- English service entries now have distinct requirements, measurements, quotation boundaries and acceptance checks. A shared quote-request instruction remains intentionally consistent.
+- Arabic content still contains recurring quotation/acceptance boilerplate and requires service-by-service editing before this specialty can be approved.
+- No claim of available contractors, prices, permits or completion dates. Engineering and safety checks require project-specific professional review.
+
+## Source-aligned services
 
 1. إنشاء الفلل — Villa construction
 2. إنشاء المباني السكنية — Residential building construction
@@ -20,3 +24,7 @@
 12. تعديل المباني السكنية — Residential building alterations
 13. ترميم الفلل — Villa restoration
 14. تجديد المباني السكنية — Residential building renovation
+
+## Next edit
+
+Rewrite `content-ar.md` for all 14 entries with non-repeated service-specific comparison and inspection detail; verify both languages again, then proceed to `general-contracting/restoration-renovation` and subsequent specialties in the AREA_REVIEW index.

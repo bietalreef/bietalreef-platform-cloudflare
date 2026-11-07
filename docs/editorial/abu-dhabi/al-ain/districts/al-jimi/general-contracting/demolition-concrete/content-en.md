@@ -1,98 +1,91 @@
-# Demolition and concrete works in Al Jimi — company service guide
+# Demolition and concrete works in Al Jimi — company and establishment guide
 
-A useful enquiry starts with the actual site rather than a vague request for a contractor. Existing properties and new projects in Al Jimi can need different scopes; use photos, drawings and quantities rather than assumptions. This guide is for preparing requests, not an offer by any named company.
+This guide helps prepare comparable scopes, not a claim that a contractor, price or appointment is available. Structural work and demolition require appropriate permissions, qualified design and inspections.
 
 ## 1. Demolition works
 
-**Service-specific planning:** Draw demolition boundaries around retained structural components and services.
+**When it is needed:** Mark walls and components for removal and distinguish load-bearing elements that must remain. Seek structural assessment before work that could affect stability.
 
+**Photos, dimensions and records:** Provide a colour-marked drawing, photographs of junctions, ceilings and entrances, utility locations, and plant and debris routes.
 
-For **demolition works**, map the intended work and explain the existing condition before discussing a quote. Show the structural element, access and nearby retained finishes. Make the quantities and limitations explicit.
+**Scope, exclusions and equipment:** Agree dismantling sequence, temporary support, service isolation and dust/vibration controls; debris haulage and adjacent-surface repairs are not automatically included.
 
-**Quotation and agreement:** Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Compare equipment, dust/noise control, haulage and safeguards for retained elements. Include the programme, protection duties and inspection milestones.
+**Comparing quotations and contract terms:** Compare safety plans, permissions, protection and waste handling; assign damage liability and hold points before removing undocumented components.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect retained building fabric and temporary support.
+**Handover checks:** Check demolition limits against the drawing and inspect retained structure, utilities and site condition.
 
 ## 2. Removal of buildings and annexes
 
-**Service-specific planning:** Plan annex removal separately from the occupied main residence.
+**When it is needed:** Removing a detached or connected annex requires identifying the structural junction and protecting the occupied building, not simply pricing floor area.
 
+**Photos, dimensions and records:** Photograph all elevations, roof, visible footings, annex dimensions, gate width, services, boundary wall and neighbours.
 
-The scope of **removal of buildings and annexes** can change significantly after a site survey. Show the structural element, access and nearby retained finishes and ask what information is still needed to price the work accurately.
+**Scope, exclusions and equipment:** Clarify whether separating the annex, removing foundations and paving, levelling ground and repairing shared walls are included as separate items.
 
-**Exclusions and comparison:** Compare equipment, dust/noise control, haulage and safeguards for retained elements. Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Record variations, approvals and payment stages before work starts.
+**Comparing quotations and contract terms:** Request an isolation and occupant-protection plan, plant and truck windows, permission responsibility and approval rules for concealed discoveries.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check removal limits and nearby boundary condition.
+**Handover checks:** Check for exposed footings and hazardous edges, and inspect the retained building, boundary and loading area.
 
 ## 3. Concrete cutting and coring
 
-**Service-specific planning:** Locate buried cables and steel reinforcement before drilling concrete.
+**When it is needed:** Coring serves service penetrations and alterations, but locations must be checked against structural drawings and reinforcement and utility scans.
 
+**Photos, dimensions and records:** State each diameter or cut length and depth, element thickness and height; show both faces, access, power and water availability.
 
-Do not approve **concrete cutting and coring** based solely on a reference picture. Show the structural element, access and nearby retained finishes; clarify interfaces with existing services and finishes.
+**Scope, exclusions and equipment:** Discuss diamond equipment, anchoring, slurry collection and core removal; strengthening, reinstating waterproofing and edge repairs require explicit inclusion.
 
-**Contractor responsibilities:** Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Compare equipment, dust/noise control, haulage and safeguards for retained elements. Agree samples or drawings, testing responsibilities and who signs off each stage.
+**Comparing quotations and contract terms:** Compare per-hole or per-metre pricing, minimum callout, dust controls and engineer approval for structural penetrations.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check opening size and documentation of safe cutting.
+**Handover checks:** Measure opening sizes and positions, inspect edges, leaks and damage, and confirm no unapproved reinforcement was severed.
 
 ## 4. Footing and foundation pours
 
-**Service-specific planning:** Set footing depths, concrete requirements and reinforcement schedules from design.
+**When it is needed:** Foundation pours must follow approved footing dimensions, levels, reinforcement and concrete specifications informed by the relevant ground data.
 
+**Photos, dimensions and records:** Supply structural drawings, footing schedule, available geotechnical report, excavation and rebar photographs, and pump access.
 
-For **footing and foundation pours**, map the intended work and explain the existing condition before discussing a quote. Show the structural element, access and nearby retained finishes. Make the quantities and limitations explicit.
+**Scope, exclusions and equipment:** Separate excavation, dewatering, blinding, formwork, steel, pumping, testing, curing and backfill in the scope.
 
-**Quotation and agreement:** Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Compare equipment, dust/noise control, haulage and safeguards for retained elements. Include the programme, protection duties and inspection milestones.
+**Comparing quotations and contract terms:** Compare concrete volume, reinforcement quantities, permitted variations, delivery plan, pre-pour inspection and rejection procedures.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check steel placement and concrete testing at foundations.
+**Handover checks:** Collect reinforcement and level inspections, delivery tickets, test results and curing records before covering the work.
 
 ## 5. Concrete slab pours
 
-**Service-specific planning:** Plan slab service openings, shoring and pour stages in advance.
+**When it is needed:** Slab casting depends on formwork, propping, openings, reinforcement and a coordinated pour plan; unapproved openings or loading are unsafe.
 
+**Photos, dimensions and records:** Provide slab area, thickness, levels, approved drawings, formwork photographs, MEP openings and pump access.
 
-The scope of **concrete slab pours** can change significantly after a site survey. Show the structural element, access and nearby retained finishes and ask what information is still needed to price the work accurately.
+**Scope, exclusions and equipment:** Itemise concrete supply, formwork, steel, pump, levelling, curing and striking; identify who approves prop-removal timing.
 
-**Exclusions and comparison:** Compare equipment, dust/noise control, haulage and safeguards for retained elements. Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Record variations, approvals and payment stages before work starts.
+**Comparing quotations and contract terms:** Compare pour sequence, construction joints, supply interruptions, testing, level tolerances and pre-pour sign-off.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect curing, levels and concrete defects after casting.
+**Handover checks:** Inspect levels, flatness, openings, visible honeycombing, curing and test records before releasing supports.
 
 ## 6. Concrete wall construction
 
-**Service-specific planning:** Coordinate wall formwork, supports and service penetrations.
+**When it is needed:** Concrete walls require approved structural design and accurate opening and connection locations before closing formwork.
 
+**Photos, dimensions and records:** Provide each wall's length, height and thickness, reinforcement drawings, door and service openings, and photographs of connecting foundations.
 
-Do not approve **concrete wall construction** based solely on a reference picture. Show the structural element, access and nearby retained finishes; clarify interfaces with existing services and finishes.
+**Scope, exclusions and equipment:** Specify formwork, bracing, placement, compaction, curing, tie-hole treatment and construction joints; external waterproofing is separate unless included.
 
-**Contractor responsibilities:** Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Compare equipment, dust/noise control, haulage and safeguards for retained elements. Agree samples or drawings, testing responsibilities and who signs off each stage.
+**Comparing quotations and contract terms:** Compare formwork area, concrete volume, steel quantities, opening approval, cover and pre-pour formwork inspection.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Verify wall plumb, cover and opening locations.
+**Handover checks:** Check plumb, dimensions, openings, honeycombing, joints, testing and curing records.
 
 ## 7. Demolition waste removal
 
-**Service-specific planning:** Separate different rubble types and select appropriate haulage.
+**When it is needed:** Haulage may involve concrete, blockwork, timber and metal waste; some materials require separate handling and must not be mixed without checking.
 
+**Photos, dimensions and records:** Photograph piles from several angles with scale, estimate waste types and volume, and describe floor, lift, entrance width and loading distance.
 
-For **demolition waste removal**, map the intended work and explain the existing condition before discussing a quote. Show the structural element, access and nearby retained finishes. Make the quantities and limitations explicit.
+**Scope, exclusions and equipment:** Clarify labour, skips, manual loading, lifting, transport, receiving-site fees and final sweeping; hazardous materials are normally outside this scope.
 
-**Quotation and agreement:** Do not begin demolition without required permissions, safety assessment, service isolation and protection plans; price debris removal separately. Compare equipment, dust/noise control, haulage and safeguards for retained elements. Include the programme, protection duties and inspection milestones.
+**Comparing quotations and contract terms:** Compare trips or container capacity, weight limits, permit responsibility, lawful disposal destination and load containment.
 
-**Acceptance:** Identify retained parts and buried services; agree safe isolation, containment and the permitted work sequence before mobilisation. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+**Handover checks:** Verify removal of agreed debris, clean access routes and obtain transfer or receiving records where required.
 
-**Distinct acceptance check:** Check debris removal and disposal records where required.
+## Request a quotation
 
-## Requesting quotes with Biet Al Reef
-
-Send the service description, site photos, dimensions and any available drawings, including what must remain undisturbed. Biet Al Reef customer service can help structure the request and look for suitable companies; availability, pricing and dates are not guaranteed.
+Name the service, attach available photos, drawings and measurements, note occupancy and requested timing, and ask about surveys, permits, insurance and liability limits. Biet Al Reef customer service can help prepare the enquiry even without a listed company; availability, price and timing are not guaranteed.

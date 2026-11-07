@@ -1,175 +1,255 @@
-# Interior design and material selection in Al Jimi
+# Interior design and materials in Al Jimi
 
-Describe how the proposed Al Jimi space will be used, its existing limitations and the intended deliverables before commissioning design work. Usable and coordinated plans matter more than the number of attractive pictures. Verify any applicable authority requirements for the actual scope.
+Practical preparation guidance for company-led design enquiries. No available firm or official approval is implied.
 
-## 1. تصميم المجالس — Interior design and materials
+## 1. Majlis design
 
-**The practical decision:** Majlis layout should resolve guest entry, privacy and hospitality circulation before colours. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** guest entrance, seating orientation and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 2. تصميم غرف المعيشة — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Family circulation around sofas, screens and outlets reveals whether a living-room plan works. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** check guest circulation and door swings against furniture. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 2. Living room design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** daily viewing, play and family seating. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 3. تصميم غرف النوم — Interior design and materials
+**Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Confirm mattress, wardrobes and drawer clearances before designing bedroom wall treatments. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** check screen glare and cleaning access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 4. تصميم المطابخ — Interior design and materials
+## 3. Bedroom design
 
-**The practical decision:** Cooking routes, sink, storage and appliance ventilation matter more than cabinet fronts. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** rest, storage and wardrobe access. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 5. تصميم الحمامات — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Wet zones, floor falls and door movement must be set before bathroom tile selection. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** verify drawer operation and bedside switch access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 4. Kitchen design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** preparation, cooking and washing without conflicts. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 6. توزيع الأثاث — Interior design and materials
+**Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Plan passage widths and door/drawer travel before choosing furniture. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** verify appliance openings, work clearance, extraction and surface suitability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 7. إعداد التصور ثلاثي الأبعاد — Interior design and materials
+## 5. Bathroom design
 
-**The practical decision:** A rendering is not a fabrication drawing; ask how screen colour differs from physical samples. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** avoiding fixture and door conflicts in wet areas. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 8. تصميم المكاتب — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Team size, meetings, acoustic privacy and sockets shape an office plan. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** check maintenance access, drainage direction and joints. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 6. Furniture layout
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** choosing usable sizes rather than overcrowding rooms. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 9. تصميم المتاجر — Interior design and materials
+**Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Shop layout depends on customer flow, checkout, displays and stockroom access. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** compare actual product dimensions with plan before purchase. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 10. تصميم المطاعم والمقاهي — Interior design and materials
+## 7. 3D visualisation
 
-**The practical decision:** Food preparation separation from seating and cleanable finishes matter in cafés and restaurants. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** understanding appearance before committing to finishes. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a renders with agreed views and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 11. تصميم الصالونات — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Client privacy, waiting space, mirror placement and lighting define an effective salon. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** match proportions and openings to plans; renders are not shop drawings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 8. Office design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** organising teams, meetings and acoustic privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 12. تصميم العيادات — Interior design and materials
+**Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Cleanable surfaces, chair access and privacy depend on the clinic's approved function. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a workstation and meeting layout coordinated with power and data. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** check accessibility, noisy zones and sightlines. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 13. تصميم المعارض — Interior design and materials
+## 9. Retail store design
 
-**The practical decision:** Displays of varying size need flexible lighting and clear viewing/exit routes. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** guiding customers to displays and checkout without blocking stock access. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a display, shelving, checkout and circulation plan. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 14. تصميم مساحات الاستقبال — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Reception design should welcome visitors while protecting visible personal information. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** check merchandise visibility, stock access and exits. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 10. Restaurant and café design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** separating seating, service, preparation and cleaning flows. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 15. اختيار الأرضيات — Interior design and materials
+**Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Test slip resistance and exposure to sun, water or furniture movement before choosing flooring. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a zoned preparation and seating plan with cleanable finishes. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** review food/waste route conflicts and relevant authority requirements. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 16. اختيار ألوان الدهانات — Interior design and materials
+## 11. Salon design
 
-**The practical decision:** Compare paint colours on a wall sample by day and night, not only a tiny swatch. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** organising service stations, waiting and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a station, mirror, lighting, waiting and storage layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 17. اختيار الرخام والسيراميك — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** Confirm stone/tile batches, vein direction and joint layout before ordering. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** check floor cleaning and staff/customer movement. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 12. Clinic design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** aligning patient movement with examination-room privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 18. اختيار الأثاث — Interior design and materials
+**Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** Furniture comfort, scale and cleanability should outweigh catalogue photography. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a reception, examination and support layout for relevant review. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** check patient privacy and cleanable finishes; no approval implied. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## 19. اختيار الإضاءة — Interior design and materials
+## 13. Exhibition design
 
-**The practical decision:** Balance general, task and ambient lighting; specify colour temperature and controls. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is useful:** displaying objects safely with flexible arrangements. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** The principal deliverable is a display plinth, lighting and circulation plan with preliminary fixing details. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-## 20. إعداد لوحة المواد — Interior design and materials
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**The practical decision:** A materials board should combine actual timber, stone, paint and fabric samples. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance and quotation enquiry:** check display stability, visibility and exit circulation. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+## 14. Reception area design
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is useful:** welcoming visitors while protecting their information. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-## 21. إعداد جدول التشطيبات — Interior design and materials
+**Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access. Request a measured drawing and identify any materials or equipment that affect the decision.
 
-**The practical decision:** A finishes schedule should name each room's material, approved reference, sequence and edge details. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** The principal deliverable is a counter, waiting, wayfinding and lighting layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Agree furniture layouts, materials, lighting and samples and distinguish design fees from procurement or site supervision. Extra surveys, reports or formal submissions are not presumed included.
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance and quotation enquiry:** check receptionist sightlines and screen privacy. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
-## Preparing a quotation request
+## 15. Flooring selection
 
-Send the brief, existing plans and site photographs to Biet Al Reef customer service. We can help prepare a comparable enquiry and look for suitable companies, without guaranteeing a supplier, authority approval, fee or date.
+**When it is useful:** matching finishes to water, slip and wear exposure. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a schedule of materials, sizes, finishes, edges and transitions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** review sample, slip suitability, joints and level changes. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 16. Paint colour selection
+
+**When it is useful:** testing colours in daylight and artificial light. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a palette with paint codes, sheen and application locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** approve a large on-wall sample before full ordering. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 17. Stone and tile selection
+
+**When it is useful:** matching tile sizes, veining and joints to the space. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a setting-out, vein orientation, batch and edge detail. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** inspect physical samples, batch consistency and cuts around openings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 18. Furniture selection
+
+**When it is useful:** evaluating comfort, durability and actual product size. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** test comfort, upholstery and sample match before accepting delivery. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 19. Lighting selection
+
+**When it is useful:** placing light by task without unwanted glare. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a fixture schedule with colour temperature, controls and positions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** review operating scenes, glare and light uniformity. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 20. Materials mood board
+
+**When it is useful:** combining compatible physical finishes rather than screen images. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a numbered physical sample board with alternatives and locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** review samples under site lighting and their cleanability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+
+## 21. Finishes schedule
+
+**When it is useful:** preventing specification conflicts between drawings and purchases. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+
+**Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples. Request a measured drawing and identify any materials or equipment that affect the decision.
+
+**Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+
+**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+
+**Acceptance and quotation enquiry:** cross-check references, quantities and locations against drawings before pricing. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.

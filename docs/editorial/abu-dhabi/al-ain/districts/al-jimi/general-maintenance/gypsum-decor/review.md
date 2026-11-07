@@ -1,15 +1,8 @@
-# Review — الجبس والديكور — Al Jimi
+# مراجعة الجبس والديكور — الجيمي
 
-- Exact company specialty from source: **الجبس والديكور**.
-- Exact Arabic service labels: 7, paired English headings: 7; same order.
-- Service-specific diagnostic decision, site measurements, inclusions/exclusions, written quotation and handover testing.
-- Regulated safety work requires suitably qualified personnel and appropriate approvals.
-- No company availability, price or schedule claims.
-
-1. تركيب أسقف الجبس — Gypsum ceiling installation
-2. تنفيذ الجدران الجبسية — Gypsum partition walls
-3. تنفيذ بيت النور — Cove lighting construction
-4. تنفيذ الديكورات الجبسية — Decorative gypsum features
-5. تركيب ألواح بديل الخشب — Wood-effect panel installation
-6. تركيب ألواح بديل الرخام — Marble-effect panel installation
-7. صيانة وإصلاح الجبس — Gypsum repair and maintenance
+- الحالة: reviewed_editorial؛ المنطقة الإجمالية in_progress.
+- المصدر: TAXONOMY_SOURCE_AR.md، قطاع الصيانة العامة والتشطيبات، قائمة الشركات والمنشآت.
+- عدد الخدمات: 7 عربية و7 إنجليزية؛ الأسماء العربية مطابقة للشجرة وبترتيبها.
+- التغطية: سبب الحاجة، قياسات وصور، مواصفات، حدود العمل، مقارنة عروض، اتفاق، استلام وطلب سعر لكل خدمة.
+- التدقيق: التفريق بين الكسوات الزخرفية والعزل؛ عدم اعتبار القواطع حاملة؛ عدم إغلاق تلف رطب قبل علاج السبب؛ عدم ادعاء توفر شركة أو أسعار أو موافقات.
+- نطاق العمل: محتوى تحريري فقط؛ لا تعديل للتطبيق أو نشر.

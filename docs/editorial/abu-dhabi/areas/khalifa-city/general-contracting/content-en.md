@@ -48,31 +48,31 @@ For refurbishment of an occupied residential building, list affected flats, corr
 
 ### 15. Restoration of older buildings
 
-Start with a photographed defect survey of cracks, dampness, damaged concrete, doors and services, linked to available plans. Painting cannot be priced responsibly before the causes of deterioration are investigated. Ask for separate allowances for investigation, possible structural treatment, service repairs and reinstatement; receive inspection records and photographs of concealed work before closure.
+An older building needs a condition-led repair plan rather than a blanket repaint. Record dated photographs of exposed reinforcement, spalled concrete, persistent damp and cracks that appear to be changing; mark each defect on a floor plan and note earlier repairs. Ask a competent professional to investigate causes before specifying crack injection, corrosion treatment or replacement of deteriorated services. Compare quotations by opening-up extent, removal, repair materials, testing and reinstatement. Retain photographs of concealed stages and inspection sign-off before plastering closes the work.
 
 ### 16. Villa renovation
 
-Identify rooms to renovate and which floors, kitchens, doors and services will remain, including whether the villa stays occupied. Request a change plan and sequence for waterproofing, electrical and plumbing work and finishes. Compare material samples and payment milestones; test equipment, doors and floor levels and inspect site cleanliness at handover.
+For an occupied Khalifa City villa, prepare a room-by-room schedule of what stays, what is removed and how the family's living spaces will be isolated. Photograph kitchens, bathrooms and AC points, and measure access routes for deliveries. Quotations should separate selective demolition, service upgrades, waterproofing, floors and joinery; 'complete renovation' is not a specification. At handover, check water pressure, bathroom drainage, cooling performance, finished floor levels and the approved samples, then close a documented snag list.
 
 ### 17. Apartment renovation
 
-Provide the apartment area and photographs of bathrooms, kitchen and floors, plus working hours, building-management rules and protection arrangements for lifts and corridors. Compare removal, waste disposal, service repairs and new finishes as separate items. Receive wet-area leak-test results and checks of lights, sockets and doors, with a closed snag list.
+Renovating an apartment affects shared corridors, lifts and building services as well as the unit. Record room dimensions and photographs of moisture or service defects, and establish building-management access, work-hour and waste-removal arrangements before scheduling. Compare removal of existing tiles, substrate levelling, waterproofing and new tiling as distinct items, with responsibility for lift and entrance protection stated. Inspect wet-area test records, electrical outlets, service access panels and the condition of affected common areas.
 
 ### 18. Building rehabilitation
 
-Rehabilitation goes beyond improving a façade and may cover shared areas, services and recurring defects. Request an existing-condition survey and a priority schedule separating safety-critical work from comfort and appearance improvements, with an occupancy plan if the building remains in use. Compare tests, replacements and warranties; receive an asset-level record of completed interventions.
+Building rehabilitation aims to restore reliable use, sometimes by renewing ageing systems rather than improving appearances. Start with a condition register covering roofs, façades, plant rooms, pumps and cooling equipment, prioritising defects by safety and operational impact. Request a phased programme showing which services can remain in use, necessary outages and tests after replacement. Compare bids against the asset schedule, component specifications, performance criteria and warranties. Receive test records, updated drawings and maintenance instructions at handover.
 
 ### 19. Structural crack treatment
 
-Photograph each crack beside a scale, recording width, length, direction and when it appeared; note sticking doors or visible settlement. A qualified structural assessment should establish whether movement is structural and identify its cause before any repair, rather than simply filling the crack. Require a treatment and monitoring method and reports; a hidden crack alone is not proof of satisfactory repair.
+A structural crack cannot be classified reliably by appearance alone. Record its position, direction, width and changes over time; photograph the full member with a scale and note settlement or sticking doors. A qualified structural engineer should review drawings and site conditions and determine whether monitoring or further investigation is required before selecting injection, strengthening or another intervention. The proposal should identify the suspected cause, treatment limits and evidence of stability. Concealing a crack with filler is not an acceptance test.
 
 ### 20. Façade refurbishment
 
-Measure façade heights and areas, identify existing cladding and areas of detachment or water ingress, and provide close and wide photographs. Compare safe access arrangements, removal of loose material, substrate preparation and new paint or cladding, with physical colour and material samples. Inspect fixings, movement joints, water drainage and site cleanliness.
+For a villa façade, measure each elevation and its height, identify the existing finish and map peeling paint, loose cladding and water entry around windows. Close-up images show defects while whole-elevation views establish access and protection needs. Compare surface preparation, crack and joint repairs, coating systems or fixings and physical colour samples, not just a rate per square metre. Inspect adhesion, joints, window-sill falls and drainage; accept the work after access equipment is removed and glazing and paving are clean.
 
 ### 21. Preparing a building for reuse
 
-Before a vacant building takes on a new use, document electrical, water, AC and drainage systems, circulation and finishes, and specify the intended occupancy. Seek appropriate professional assessment of technical and regulatory suitability where relevant. Compare repair, upgrade and commissioning separately, and receive operating records, safety observations and an explicit list of exclusions.
+A change of building use begins with the proposed activities, occupant numbers, equipment loads and service requirements, not a vague request for 'fit-out'. Gather as-built plans and photographs of electrical rooms, cooling, sanitary areas and entrances. Seek competent assessment of structural and service suitability and any relevant approvals before alterations. Compare proposals separately for defect repair, capacity upgrades, internal reconfiguration, finishes and commissioning. Receive as-built records, system test results and an explicit exclusions list.
 
 ## Request a quotation through Biet Alreef
 Supply the project location, property type, plans or photographs, approximate dimensions, whether structure, finishes or full delivery are required, expected materials and preferred survey window. If no company is listed, Biet Alreef customer service may receive the enquiry without guaranteeing a provider, price or appointment. Individual tradespeople are listed separately from companies and establishments.

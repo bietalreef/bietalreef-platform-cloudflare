@@ -11,7 +11,7 @@
 | القطاع | التخصصات المنجزة | خدمات كل لغة | الحالة |
 | --- | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved |
-| الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 0/4 | 0/49 | pending |
+| الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
 | الصيانة العامة والتشطيبات (`general-maintenance`) | 0/10 | 0/105 | pending |
 | مواد البناء والتوريد (`building-materials`) | 0/5 | 0/49 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 0/5 | 0/56 | pending |
@@ -30,6 +30,15 @@
 
 ## النواقص / Remaining work
 
-- تم تأليف قطاع المقاولات كاملًا، وتجري مراجعة حفظ GitHub.
-- متبقٍ: الاستشارات الهندسية والتصميم والديكور؛ الصيانة العامة والتشطيبات؛ مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
+- متبقٍ: الصيانة العامة والتشطيبات؛ مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
+
+## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
+
+- **architectural-plans** — 14 services: [العربية](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [review](./interior-design/architectural-plans/review.md)
+- **structural-design** — 7 services: [العربية](./interior-design/structural-design/content-ar.md) · [English](./interior-design/structural-design/content-en.md) · [review](./interior-design/structural-design/review.md)
+- **engineering-supervision** — 7 services: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [review](./interior-design/engineering-supervision/review.md)
+- **interior-materials** — 21 services: [العربية](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [review](./interior-design/interior-materials/review.md)
+
+- الإجمالي التراكمي بعد الدفعة: **10/50 تخصصات؛ 105/434 خدمة لكل لغة؛ قطاعان من ثمانية**.

@@ -1,10 +1,8 @@
 # Review — الترميم والتجديد — Al Jimi
 
-- Source: original companies/establishments taxonomy; the separate craftsperson tree was not used.
-- Service headings: **7** exact Arabic labels, **7** corresponding English labels, same sequence.
-- Status: no active availability asserted.
-- Review includes request details, limitations, specification, quotation comparison, handover and non-guarantee notice.
-- Revision requested if a technical statement is not supported by the actual project drawings or qualified consultant.
+Status: editorial_rewrite_verified_pending_area_audit.
+
+Seven source-aligned company service headings in each language, original sequence retained. Arabic and English sections now contain individual scope, project evidence, quote boundaries and handover checks. No claims of active company availability. Engineering-dependent statements require project-specific professional review.
 
 1. ترميم المباني القديمة — Older building restoration
 2. تجديد الفلل — Villa renovation

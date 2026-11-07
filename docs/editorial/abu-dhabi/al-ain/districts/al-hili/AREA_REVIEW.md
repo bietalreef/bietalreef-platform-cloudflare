@@ -15,7 +15,7 @@
 | الصيانة العامة والتشطيبات | 10 | 10 | 105 per language | reviewed_content |
 | مواد البناء والتوريد | 5 | 5 | 49 per language | reviewed_content |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 5 | 56 per language | reviewed_content |
-| الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
+| الأثاث والمفروشات والتجهيز | 4 | 4 | 24 per language | reviewed_content |
 | المصانع ومعدات الإيجار | 8 | 0 | 0 | pending |
 | التنظيف والتعقيم ومكافحة الحشرات | 8 | 0 | 0 | pending |
 
@@ -120,3 +120,11 @@ Continue **Al Hili** with the five workshop specialties, followed by furniture, 
 - New files: 12/12 verified; Arabic/English service headings: 42/42.
 - [Wood furniture and decor](./aluminium-glass/wood-furniture-decor/review.md) · [Aluminium doors and windows](./aluminium-glass/aluminium-doors-windows/review.md) · [Glazing and facades](./aluminium-glass/glass-facades-works/review.md) · [Metal fabrication](./aluminium-glass/metal-fabrication/review.md).
 - Cumulative: **30/50 specialties, 315 service sections per language; 5/8 sectors**. Status **in_progress**; next **furniture and furnishing (4)**, then **factories and equipment (8)**, then **cleaning and pest control (8)**.
+
+
+## Furniture and furnishing — direct continuation
+
+- Completed 4 company specialties, 24 exact services per language; all 12 files re-fetched and bilingual headings verified.
+- [Furniture manufacturing](./furniture-decor/furniture-manufacturing/review.md) · [Stores](./furniture-decor/furniture-shops/review.md) · [Majlis and upholstery](./furniture-decor/majlis-upholstery/review.md) · [Curtains, rugs and furnishings](./furniture-decor/curtains-carpets-furnishings/review.md).
+- The first two categories are non-selectable; the latter two are proposed, not active listings.
+- Cumulative **34/50 specialties and 339 services per language, 6/8 sectors**. **in_progress**: complete factories/equipment (8) and cleaning/pest-control (8) before Al Jimi.

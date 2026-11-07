@@ -137,12 +137,34 @@
       "review_note": "Independently rewritten interior-design services 1-20 in Arabic and English; GitHub readback verified 49/49 numbered headings in both languages. Next service 21, structural reports; 29 services remain for independent rewriting in this sector, plus originality review of seven other sectors. No editorial approval or deployment.",
       "editorial_progress": {
         "sector": "interior-design",
-        "last_completed_service_number": 20,
+        "specialty": "التصميم الإنشائي",
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
         "next_service_number": 21,
-        "rewritten_services": 20,
-        "total_services": 49,
-        "remaining_services": 29,
-        "status": "in_progress"
+        "remaining_in_sector": 29,
+        "sector_total": 49,
+        "area_total": 434,
+        "area_editorially_approved": false
       }
     },
     {

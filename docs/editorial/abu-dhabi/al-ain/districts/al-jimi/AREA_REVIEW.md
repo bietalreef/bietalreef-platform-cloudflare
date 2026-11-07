@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved |
 | الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
-| الصيانة العامة والتشطيبات (`general-maintenance`) | 0/10 | 0/105 | pending |
+| الصيانة العامة والتشطيبات (`general-maintenance`) | 5/10 | 49/105 | in_progress |
 | مواد البناء والتوريد (`building-materials`) | 0/5 | 0/49 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 0/5 | 0/56 | pending |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 0/4 | 0/24 | pending |
@@ -42,3 +42,13 @@
 - **interior-materials** — 21 services: [العربية](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [review](./interior-design/interior-materials/review.md)
 
 - الإجمالي التراكمي بعد الدفعة: **10/50 تخصصات؛ 105/434 خدمة لكل لغة؛ قطاعان من ثمانية**.
+
+## الصيانة والتشطيبات — الدفعة الأولى
+
+- general-maintenance: 14 services, [AR](./general-maintenance/general-maintenance/content-ar.md), [EN](./general-maintenance/general-maintenance/content-en.md), [review](./general-maintenance/general-maintenance/review.md).
+- integrated-finishes: 7 services, [AR](./general-maintenance/integrated-finishes/content-ar.md), [EN](./general-maintenance/integrated-finishes/content-en.md), [review](./general-maintenance/integrated-finishes/review.md).
+- gypsum-decor: 7 services, [AR](./general-maintenance/gypsum-decor/content-ar.md), [EN](./general-maintenance/gypsum-decor/content-en.md), [review](./general-maintenance/gypsum-decor/review.md).
+- flooring-cladding: 7 services, [AR](./general-maintenance/flooring-cladding/content-ar.md), [EN](./general-maintenance/flooring-cladding/content-en.md), [review](./general-maintenance/flooring-cladding/review.md).
+- electrical-lighting: 14 services, [AR](./general-maintenance/electrical-lighting/content-ar.md), [EN](./general-maintenance/electrical-lighting/content-en.md), [review](./general-maintenance/electrical-lighting/review.md).
+
+- مجموع المنطقة حاليًا: **15/50 تخصصات و154/434 خدمة لكل لغة**. المتبقي في قطاع الصيانة: السباكة وكشف التسربات؛ التكييف والتبريد؛ الأنظمة الذكية والمراقبة؛ الدهانات؛ العزل المائي والحراري. (راجع الأرقام الفعلية للشجرة: في القطاع 10 تخصصات، وقد عولجت الخمسة الأولى.)

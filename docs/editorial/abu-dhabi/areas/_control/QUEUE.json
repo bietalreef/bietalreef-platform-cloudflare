@@ -134,17 +134,28 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Originality remediation underway: interior-design architectural specialty services 1–3 rewritten independently in both languages and GitHub read-back verified (49/49 headings remain). Resume at service 4; remaining 46 services in interior-design and originality/technical review of seven other sectors. Area stays in_progress, not completed.",
+      "review_note": "Architectural specialty services 1-14 independently rewritten in both languages; GitHub readback verified 49/49 numbered service headings. Next: interior-design service 15, structural design. 35 services in interior-design and originality review of seven other sectors remain. No editorial approval or production deployment.",
       "editorial_progress": {
         "sector": "interior-design",
-        "specialty": "التصميم المعماري والمخططات",
+        "specialty": "التصميم الإنشائي",
         "rewritten_service_numbers": [
           1,
           2,
-          3
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ],
-        "next_service_number": 4,
-        "remaining_in_sector": 46,
+        "next_service_number": 15,
+        "remaining_in_sector": 35,
         "sector_total": 49,
         "area_total": 434,
         "area_editorially_approved": false

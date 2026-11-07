@@ -1,0 +1,1049 @@
+{
+  "schema_version": "1.0",
+  "collection": "Dubai workshops visual review collection",
+  "repository": "bietalreef/bietalreef-platform-cloudflare",
+  "review_branch": "assets/dubai-workshops-visuals-20261107",
+  "target_page": "https://bietalreef.ae/uae/dubai/aluminium-glass",
+  "publication_status": "not_integrated_not_published",
+  "primary_count": 16,
+  "mobile_count": 16,
+  "display_file_count": 32,
+  "editorial_reference_branch": "content/dubai-explore-guides-20261107",
+  "editorial_sha256": "a4596981bd1b3f52f2485c8e3fd4eb7c85093632a9161511f0b903bc97b65cfb",
+  "people_policy": "Original synthetic characters only; no real or stock people used as input. No deliberate likeness to known people.",
+  "attribution_policy": "Hypothetical illustrations, never evidence of registered company work, certification or engineering approval.",
+  "source_policy": "Original PNGs, editable SVG masters and generation prompts are outside public in the separate delivery source folder.",
+  "taxonomy_policy": "Five editorial company specialties and 56 services. Four craft paths are separate. Registration availability is not inferred from illustrations. No taxonomy changes.",
+  "images": [
+    {
+      "id": "01",
+      "slug": "dubai-metal-glass-wood-workshops-hero",
+      "title_ar": "ورش التصنيع حسب المقاس",
+      "title_en": "Custom fabrication workshops",
+      "alt_ar": "خزانة خشبية وإطار زجاج وألمنيوم ومشغولات معدنية في مساحة فحص منظمة",
+      "alt_en": "Wood cabinetry, a glazed aluminium frame and metalwork in an organised inspection bay",
+      "description_ar": "خزانة خشبية وإطار زجاج وألمنيوم ومشغولات معدنية في مساحة فحص منظمة؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Wood cabinetry, a glazed aluminium frame and metalwork in an organised inspection bay",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "ورش الحديد والألمنيوم والزجاج والأخشاب في دبي: من القياس ورسومات الورشة إلى التصنيع والتركيب",
+        "start_line": 20,
+        "end_line": 29
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": true,
+      "source_files": [
+        "source/originals/dubai-metal-glass-wood-workshops-hero.png",
+        "source/originals/dubai-metal-glass-wood-workshops-hero-mobile.png"
+      ],
+      "original_dimensions": [
+        1672,
+        941
+      ],
+      "export_scale": 1.14833,
+      "primary": {
+        "filename": "dubai-metal-glass-wood-workshops-hero.webp",
+        "width": 1920,
+        "height": 1080,
+        "size_bytes": 127176,
+        "sha256": "1a21105ed226ec27da49633abb88b0bbc3370d62905f850688ee4fd405207c7c",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1086,
+        1448
+      ],
+      "mobile_export_scale": 0.82873,
+      "mobile": {
+        "filename": "dubai-metal-glass-wood-workshops-hero-mobile.webp",
+        "width": 900,
+        "height": 1200,
+        "size_bytes": 48158,
+        "sha256": "b8d475e0b5616f30ddc5e4a8cbcbffc07423d0267dbea6575cc1d4e8dee37bb9",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-glass-wood-workshops-hero-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-metal-glass-wood-workshops-hero.webp",
+      "mobile_filename": "dubai-metal-glass-wood-workshops-hero-mobile.webp",
+      "loading": "eager",
+      "fetchpriority": "high"
+    },
+    {
+      "id": "02",
+      "slug": "dubai-custom-kitchens-wardrobes",
+      "title_ar": "المطابخ والخزائن والأبواب الخشبية",
+      "title_en": "Kitchens, wardrobes and wooden doors",
+      "alt_ar": "حرفي يضبط مفصلة باب خزانة على طاولة تجميع",
+      "alt_en": "Craftsperson adjusting a cabinet door hinge on an assembly bench",
+      "description_ar": "حرفي يضبط مفصلة باب خزانة على طاولة تجميع؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Craftsperson adjusting a cabinet door hinge on an assembly bench",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "1. المطابخ والخزائن والأبواب الخشبية — 14 خدمة",
+        "start_line": 68,
+        "end_line": 83
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-custom-kitchens-wardrobes.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-custom-kitchens-wardrobes.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 81446,
+        "sha256": "fbe06006786ea17dbc690204297f74c98a0ada918f5dbb43dd9fd1a46a7230ce",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-custom-kitchens-wardrobes-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 27636,
+        "sha256": "f6869537083b831e96adec6a29f64936ae987405df1efd13aec054da9dc07f5c",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-kitchens-wardrobes-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-custom-kitchens-wardrobes.webp",
+      "mobile_filename": "dubai-custom-kitchens-wardrobes-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "03",
+      "slug": "dubai-custom-wood-furniture-cnc",
+      "title_ar": "الأثاث والديكور الخشبي",
+      "title_en": "Custom furniture and wood décor",
+      "alt_ar": "تجميع قطعة أثاث خشبية مخصصة بجوار ألواح زخرفية",
+      "alt_en": "Custom wooden furniture assembly beside decorative panels",
+      "description_ar": "تجميع قطعة أثاث خشبية مخصصة بجوار ألواح زخرفية؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Custom wooden furniture assembly beside decorative panels",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "2. الأثاث والديكور الخشبي — 14 خدمة",
+        "start_line": 84,
+        "end_line": 99
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-custom-wood-furniture-cnc.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-custom-wood-furniture-cnc.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 82852,
+        "sha256": "af43c70d5ede7abab9f7a4e6055d14ba689a830882d6b70eff22340df5867dd3",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-custom-wood-furniture-cnc-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 32702,
+        "sha256": "603b26f2885d37003dd730921d0a29b2b915f552bc118ae1601b886fb9c92172",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-wood-furniture-cnc-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-custom-wood-furniture-cnc.webp",
+      "mobile_filename": "dubai-custom-wood-furniture-cnc-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "04",
+      "slug": "dubai-aluminium-doors-windows",
+      "title_ar": "الألمنيوم والأبواب والنوافذ",
+      "title_en": "Aluminium doors and windows",
+      "alt_ar": "إطار نافذة ألمنيوم مسطح على طاولة مبطنة بجوار مقبض ومفصلتين وشريط قياس",
+      "alt_en": "Flat aluminium window frame on a padded bench beside a handle, two hinges and a tape measure",
+      "description_ar": "إطار نافذة ألمنيوم مسطح على طاولة مبطنة بجوار مقبض ومفصلتين وشريط قياس؛ مشهد توضيحي.",
+      "description_en": "Flat aluminium window frame on a padded bench beside a handle, two hinges and a tape measure",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "3. أعمال الألمنيوم والأبواب والنوافذ — 14 خدمة",
+        "start_line": 100,
+        "end_line": 115
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-aluminium-doors-windows.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-aluminium-doors-windows.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 38114,
+        "sha256": "2ff4f703d5a0f945ee979ef2aa6a24a1aaa379bdfc7f01c9c168119356420f0d",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-aluminium-doors-windows-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 10420,
+        "sha256": "df6d7ea66e99ebe826fb04dd23df1dba5c8ae914d8a39ba88a736343bb9aba09",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-doors-windows-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-aluminium-doors-windows.webp",
+      "mobile_filename": "dubai-aluminium-doors-windows-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "05",
+      "slug": "dubai-architectural-glass-facades",
+      "title_ar": "الواجهات والزجاج المعماري",
+      "title_en": "Architectural glass façades",
+      "alt_ar": "واجهة محل زجاجية بإطارات معدنية وفواصل منتظمة ومدخل واضح",
+      "alt_en": "Glazed storefront with metal frames, regular joints and a clearly defined entrance",
+      "description_ar": "واجهة محل زجاجية بإطارات معدنية وفواصل منتظمة ومدخل واضح؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Glazed storefront with metal frames, regular joints and a clearly defined entrance",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "4. الواجهات والأعمال الزجاجية — 7 خدمة",
+        "start_line": 116,
+        "end_line": 131
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-architectural-glass-facades.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-architectural-glass-facades.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 46724,
+        "sha256": "baacfbb05cb21bad51bfe8219fc0b449707152d2ed8f7b57fa21b759d1e2809d",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-architectural-glass-facades-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 12496,
+        "sha256": "4e660a9d6a3949a66691fadcd881d47c7f9fdcc03d251f623eea852ad8a00c6c",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-architectural-glass-facades-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-architectural-glass-facades.webp",
+      "mobile_filename": "dubai-architectural-glass-facades-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "06",
+      "slug": "dubai-metal-fabrication-workshop",
+      "title_ar": "تشكيل الحديد والمعادن",
+      "title_en": "Metal fabrication",
+      "alt_ar": "فحص إطار معدني مثبت بمشابك على طاولة تصنيع",
+      "alt_en": "Checking a clamped metal frame on a fabrication table",
+      "description_ar": "فحص إطار معدني مثبت بمشابك على طاولة تصنيع؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Checking a clamped metal frame on a fabrication table",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "5. تشكيل الحديد والمعادن — 7 خدمة",
+        "start_line": 132,
+        "end_line": 147
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-metal-fabrication-workshop.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-metal-fabrication-workshop.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 81042,
+        "sha256": "60031ea5c92c807a6621b7bddebc75d8e224f6facef12940f9dcb6388d87dfc0",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-metal-fabrication-workshop-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 32370,
+        "sha256": "31c23f9cdd28c47705ed1af6b7216a111d014fed85596523c248cc35a8bf0b26",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-metal-fabrication-workshop-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-metal-fabrication-workshop.webp",
+      "mobile_filename": "dubai-metal-fabrication-workshop-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "07",
+      "slug": "dubai-kitchen-wall-measurement",
+      "title_ar": "القياسات النهائية للمطبخ",
+      "title_en": "Final kitchen measurements",
+      "alt_ar": "مختص يقيس الجدار المتاح بجوار فتحة باب ونقاط خدمات المطبخ",
+      "alt_en": "Surveyor measuring available kitchen wall space beside a doorway and service points",
+      "description_ar": "مختص يقيس الجدار المتاح بجوار فتحة باب ونقاط خدمات المطبخ؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Surveyor measuring available kitchen wall space beside a doorway and service points",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "نموذج رفع المقاسات ورسومات الورشة",
+        "start_line": 330,
+        "end_line": 347
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-kitchen-wall-measurement.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-kitchen-wall-measurement.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 24242,
+        "sha256": "d4b9466924f13c46a937a8a0fc48be5b2957a7e31694996c95627cdd7deb2510",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-kitchen-wall-measurement-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 8760,
+        "sha256": "f82c64135bafe5a7e783ce439bf78c4ebb56f9db1dc3e6d5ea48eb095bf43ce1",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-kitchen-wall-measurement-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-kitchen-wall-measurement.webp",
+      "mobile_filename": "dubai-kitchen-wall-measurement-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "08",
+      "slug": "dubai-aluminium-window-details",
+      "title_ar": "تفاصيل نظام النافذة",
+      "title_en": "Window system details",
+      "alt_ar": "لقطة قريبة لزاوية نافذة ألمنيوم وحشواتها ومفصلتها",
+      "alt_en": "Close view of an aluminium window corner, gasket and hinge",
+      "description_ar": "لقطة قريبة لزاوية نافذة ألمنيوم وحشواتها ومفصلتها؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Close view of an aluminium window corner, gasket and hinge",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "المحور 5: تصنيع وتركيب نوافذ وأبواب الألمنيوم",
+        "start_line": 200,
+        "end_line": 209
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-aluminium-window-details.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-aluminium-window-details.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 33352,
+        "sha256": "52090d7ac184957601c31fcd4c1ce52f1ac93c3bf07420ae49cd2cbe88569863",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-aluminium-window-details-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 12522,
+        "sha256": "e9847f1b2f3e9ba349f451f00e8db6fe44ed7871b161027919fa64a55ce56f9f",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-aluminium-window-details-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-aluminium-window-details.webp",
+      "mobile_filename": "dubai-aluminium-window-details-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "09",
+      "slug": "dubai-glass-railing-details",
+      "title_ar": "الحواجز والدرابزين الزجاجي",
+      "title_en": "Glass balustrades",
+      "alt_ar": "درابزين زجاجي عند بسطة سلم مع درابزين علوي وقاعدة تثبيت",
+      "alt_en": "Glass balustrade at a stair landing with a top rail and base channel",
+      "description_ar": "درابزين زجاجي عند بسطة سلم مع درابزين علوي وقاعدة تثبيت؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Glass balustrade at a stair landing with a top rail and base channel",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "المحور 10: أعمال الدرابزين والسلالم والحواجز المعدنية والزجاجية",
+        "start_line": 250,
+        "end_line": 259
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-glass-railing-details.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-glass-railing-details.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 34704,
+        "sha256": "0579363d12b0170ab7cc63a3b9a1ad240bb488a0fd5542585fca03d5e38cfa43",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-glass-railing-details-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 10274,
+        "sha256": "cfcb3be0342230ca77855f9e7bda12b5e1aa2f0a5b6048d1dfc2bf4d1d147e24",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-glass-railing-details-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-glass-railing-details.webp",
+      "mobile_filename": "dubai-glass-railing-details-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "10",
+      "slug": "dubai-wood-panels-cnc-cutting",
+      "title_ar": "قص وتجهيز الألواح الخشبية",
+      "title_en": "CNC panel preparation",
+      "alt_ar": "لوح خشبي داخل آلة CNC محاطة بحاجز مع نظام شفط",
+      "alt_en": "Wood panel inside an enclosed CNC machine with dust extraction",
+      "description_ar": "لوح خشبي داخل آلة CNC محاطة بحاجز مع نظام شفط؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Wood panel inside an enclosed CNC machine with dust extraction",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "2. الأثاث والديكور الخشبي — 14 خدمة",
+        "start_line": 84,
+        "end_line": 99
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-wood-panels-cnc-cutting.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-wood-panels-cnc-cutting.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 68476,
+        "sha256": "9c6e3b980f77b4d480067e937923f8deb6a5399f963e4c21ea9fc8b8ab145410",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-wood-panels-cnc-cutting-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 26956,
+        "sha256": "14225d01e79cd374244892332f3ec049c9b681297823072a542b9a7339f6ce82",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-wood-panels-cnc-cutting-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-wood-panels-cnc-cutting.webp",
+      "mobile_filename": "dubai-wood-panels-cnc-cutting-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "11",
+      "slug": "dubai-steel-gates-finishing",
+      "title_ar": "البوابات الحديدية والتشطيب",
+      "title_en": "Steel gates and finishing",
+      "alt_ar": "فحص تشطيب بوابة معدنية مثبتة على حامل داخل الورشة",
+      "alt_en": "Inspecting the finish of a metal gate secured on a workshop stand",
+      "description_ar": "فحص تشطيب بوابة معدنية مثبتة على حامل داخل الورشة؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Inspecting the finish of a metal gate secured on a workshop stand",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "المحور 15: الضمان والحماية من الصدأ وفحص جودة التركيب",
+        "start_line": 300,
+        "end_line": 309
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-steel-gates-finishing.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-steel-gates-finishing.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 53282,
+        "sha256": "b1d6d6b12c16b25fb75c07caca73419b39abd8dca9aec6616747be94f706ce2b",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-steel-gates-finishing-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 20132,
+        "sha256": "61a411115c761af04a0b9048b36e1f60641e542e8ed889556718cf283d8327e5",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-steel-gates-finishing-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-steel-gates-finishing.webp",
+      "mobile_filename": "dubai-steel-gates-finishing-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "12",
+      "slug": "dubai-workshop-measurement-shop-drawings",
+      "title_ar": "القياس ورسومات الورشة",
+      "title_en": "Measurement and shop drawings",
+      "alt_ar": "مسار من المعاينة والقياس إلى الرسومات واعتماد المواد ثم التصنيع، مع فصل التصور ثلاثي الأبعاد",
+      "alt_en": "Process from survey and measurement to drawings, material approval and fabrication, with 3D visualisation separated",
+      "description_ar": "مسار من المعاينة والقياس إلى الرسومات واعتماد المواد ثم التصنيع، مع فصل التصور ثلاثي الأبعاد",
+      "description_en": "Process from survey and measurement to drawings, material approval and fabrication, with 3D visualisation separated",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "المحور 13: القياسات ورسومات التصنيع: كيف تتجنب أخطاء التنفيذ؟",
+        "start_line": 280,
+        "end_line": 289
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "original_editable_diagram",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": true,
+      "source_files": [
+        "source/editable/dubai-workshop-measurement-shop-drawings.svg",
+        "source/editable/dubai-workshop-measurement-shop-drawings-mobile.svg"
+      ],
+      "legend": {
+        "ar": [
+          "المعاينة",
+          "القياس النهائي",
+          "مخطط 2D",
+          "رسومات الورشة",
+          "اعتماد المواد",
+          "التصنيع"
+        ],
+        "en": [
+          "Site survey",
+          "Final measurement",
+          "2D plan",
+          "Shop drawings",
+          "Material approval",
+          "Fabrication"
+        ],
+        "note_ar": "التصور ثلاثي الأبعاد مكمل لفهم الشكل، وليس بديلًا عن رسومات التصنيع المعتمدة.",
+        "note_en": "3D visualisation supports understanding; it does not replace approved fabrication drawings."
+      },
+      "primary": {
+        "filename": "dubai-workshop-measurement-shop-drawings.svg",
+        "width": 1200,
+        "height": 800,
+        "size_bytes": 4398,
+        "sha256": "4107850a1892c7a4b73490f49330474ed66e1360b3c8722f158e2d188ce17047",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-workshop-measurement-shop-drawings-mobile.svg",
+        "width": 600,
+        "height": 1160,
+        "size_bytes": 4332,
+        "sha256": "27151fd76f4debfb995de55e618f7c85392661cb74001ff1262bb14c627b684b",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings-mobile.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-measurement-shop-drawings-mobile.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-workshop-measurement-shop-drawings.svg",
+      "mobile_filename": "dubai-workshop-measurement-shop-drawings-mobile.svg",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "13",
+      "slug": "dubai-workshop-quotation-comparison",
+      "title_ar": "مقارنة عروض تصنيع الورش",
+      "title_en": "Workshop quotation comparison",
+      "alt_ar": "ثلاثة عروض فارغة للمقارنة عبر سبعة معايير دون أسعار أو تقييمات مفترضة",
+      "alt_en": "Three blank offers compared across seven criteria without invented prices or ratings",
+      "description_ar": "ثلاثة عروض فارغة للمقارنة عبر سبعة معايير دون أسعار أو تقييمات مفترضة",
+      "description_en": "Three blank offers compared across seven criteria without invented prices or ratings",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "جدول مقارنة ثلاثة عروض تصنيع وتركيب",
+        "start_line": 354,
+        "end_line": 372
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "original_editable_diagram",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": true,
+      "source_files": [
+        "source/editable/dubai-workshop-quotation-comparison.svg",
+        "source/editable/dubai-workshop-quotation-comparison-mobile.svg"
+      ],
+      "legend": {
+        "ar": [
+          "الخامات",
+          "السماكات والقطاعات",
+          "الإكسسوارات",
+          "الرسومات",
+          "النقل",
+          "التركيب",
+          "الضمان"
+        ],
+        "en": [
+          "Materials",
+          "Thickness and sections",
+          "Hardware",
+          "Drawings",
+          "Transport",
+          "Installation",
+          "Warranty"
+        ],
+        "note_ar": "العروض A وB وC نماذج فارغة؛ تُملأ من عروض فعلية لنطاق موحد، دون أسعار أو درجات مفترضة.",
+        "note_en": "A, B and C are empty comparison templates for actual offers with a common scope; no invented prices or scores."
+      },
+      "primary": {
+        "filename": "dubai-workshop-quotation-comparison.svg",
+        "width": 1200,
+        "height": 800,
+        "size_bytes": 5080,
+        "sha256": "0c8e65242c733cdaeed2c7fb47270e5d21f882bf6235efd9123075276159c0dc",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-workshop-quotation-comparison-mobile.svg",
+        "width": 600,
+        "height": 1160,
+        "size_bytes": 5073,
+        "sha256": "098eed271a7634e0ecaaad34177d7104c69f0eea0f0cc302b1114637c520acfa",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison-mobile.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-quotation-comparison-mobile.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-workshop-quotation-comparison.svg",
+      "mobile_filename": "dubai-workshop-quotation-comparison-mobile.svg",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "14",
+      "slug": "dubai-workshop-production-installation",
+      "title_ar": "رحلة التصنيع والتركيب والاستلام",
+      "title_en": "Fabrication, installation and handover",
+      "alt_ar": "سبع بوابات تبدأ بالمتطلبات وتنتهي بالتركيب واختبار التشغيل والاستلام",
+      "alt_en": "Seven gates from requirements to installation, operation testing and handover",
+      "description_ar": "سبع بوابات تبدأ بالمتطلبات وتنتهي بالتركيب واختبار التشغيل والاستلام",
+      "description_en": "Seven gates from requirements to installation, operation testing and handover",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "دورة التصنيع حسب المقاس: سبع بوابات تمنع إعادة العمل",
+        "start_line": 47,
+        "end_line": 62
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "original_editable_diagram",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": true,
+      "source_files": [
+        "source/editable/dubai-workshop-production-installation.svg",
+        "source/editable/dubai-workshop-production-installation-mobile.svg"
+      ],
+      "legend": {
+        "ar": [
+          "تحديد المتطلبات",
+          "معاينة الموقع",
+          "القياس النهائي",
+          "رسومات الورشة",
+          "اعتماد المواد والعينات",
+          "التصنيع والفحص والتغليف قبل النقل",
+          "التركيب واختبار التشغيل والاستلام"
+        ],
+        "en": [
+          "Define requirements",
+          "Site visit",
+          "Final measurement",
+          "Shop drawings",
+          "Approve materials and samples",
+          "Fabricate, inspect and pack before dispatch",
+          "Install, test operation and hand over"
+        ],
+        "note_ar": "تُوثّق الموافقات والملاحظات بين المراحل. الرسم لا يصدر اعتمادًا هندسيًا.",
+        "note_en": "Record approvals and observations between gates. This diagram does not constitute engineering approval."
+      },
+      "primary": {
+        "filename": "dubai-workshop-production-installation.svg",
+        "width": 1200,
+        "height": 800,
+        "size_bytes": 4437,
+        "sha256": "af16227063aa149496689358a2d110619d18a631e5e720d8c9109bc77ecd338f",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile": {
+        "filename": "dubai-workshop-production-installation-mobile.svg",
+        "width": 600,
+        "height": 1160,
+        "size_bytes": 4290,
+        "sha256": "d00d3b4c63c8ffbdf08c65af498055365e6829f885b23983138a1a77d21af154",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation-mobile.svg",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation-mobile.svg",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation-mobile.svg",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-production-installation-mobile.svg",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-workshop-production-installation.svg",
+      "mobile_filename": "dubai-workshop-production-installation-mobile.svg",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "15",
+      "slug": "dubai-custom-fabrication-quote",
+      "title_ar": "طلب عرض سعر حسب المقاس",
+      "title_en": "Custom fabrication quotation",
+      "alt_ar": "مالك مشروع ومختص يراجعان رسمة خزانة وعينات مواد عند طاولة عرض",
+      "alt_en": "Project owner and specialist reviewing a cabinet drawing and material samples at a display counter",
+      "description_ar": "مالك مشروع ومختص يراجعان رسمة خزانة وعينات مواد عند طاولة عرض؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Project owner and specialist reviewing a cabinet drawing and material samples at a display counter",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "نموذج طلب عرض سعر تصنيع حسب المقاس",
+        "start_line": 373,
+        "end_line": 390
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-custom-fabrication-quote.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-custom-fabrication-quote.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 73678,
+        "sha256": "baf56e5afc7058b00daabd9481a2a976f67db81ac076ba549cd67732bfbe6f05",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-custom-fabrication-quote-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 26552,
+        "sha256": "5b77e16824dac7834c5fa5c3cc25c8d2697848c6cf93f912ab141b41643721b0",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-custom-fabrication-quote-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-custom-fabrication-quote.webp",
+      "mobile_filename": "dubai-custom-fabrication-quote-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    },
+    {
+      "id": "16",
+      "slug": "dubai-workshop-company-portfolio",
+      "title_ar": "ملف الورشة وأعمالها",
+      "title_en": "Workshop business portfolio",
+      "alt_ar": "زميلان في ورشة يعرضان خزانة وعينات خامات ورسومات",
+      "alt_en": "Two workshop colleagues presenting cabinetry, material samples and drawings",
+      "description_ar": "زميلان في ورشة يعرضان خزانة وعينات خامات ورسومات؛ مشهد توضيحي لا يمثل أعمال شركة مسجلة.",
+      "description_en": "Two workshop colleagues presenting cabinetry, material samples and drawings",
+      "document_reference": {
+        "file": "Biet_Alreef_Dubai_Metal_Aluminium_Glass_Wood_Workshops_Explore_AR.md",
+        "section_heading": "مسار صاحب الورشة داخل بيت الريف",
+        "start_line": 441,
+        "end_line": 448
+      },
+      "placement_ar": "بعد عنوان القسم وقبل التفاصيل أو دعوة الإجراء.",
+      "image_type": "generated_illustrative_scene",
+      "review_status": "visual_asset_review_complete_pending_owner_integration_approval",
+      "publication_status": "not_published",
+      "independent_mobile_composition": false,
+      "source_files": [
+        "source/originals/dubai-workshop-company-portfolio.png"
+      ],
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "export_scale": 0.82873,
+      "primary": {
+        "filename": "dubai-workshop-company-portfolio.webp",
+        "width": 1200,
+        "height": 900,
+        "size_bytes": 75806,
+        "sha256": "d69c0aec0e922a11236c9ef1a6a9521d150e817bc4001338badfdd7644848f79",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "mobile_original_dimensions": [
+        1448,
+        1086
+      ],
+      "mobile_export_scale": 0.41436,
+      "mobile": {
+        "filename": "dubai-workshop-company-portfolio-mobile.webp",
+        "width": 600,
+        "height": 450,
+        "size_bytes": 27798,
+        "sha256": "98772e6eea0a8924cbec44dd25473c8fb77d3b577a1357b9e084447f255d34a9",
+        "repository_path": "public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio-mobile.webp",
+        "github_url": "https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio-mobile.webp",
+        "raw_url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-workshops-visuals-20261107/public/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio-mobile.webp",
+        "expected_website_url": "https://bietalreef.ae/images/uae-2026/sectors/dubai/aluminium-glass/dubai-workshop-company-portfolio-mobile.webp",
+        "website_url_status": "planned_not_published"
+      },
+      "filename": "dubai-workshop-company-portfolio.webp",
+      "mobile_filename": "dubai-workshop-company-portfolio-mobile.webp",
+      "loading": "lazy",
+      "fetchpriority": "auto"
+    }
+  ]
+}

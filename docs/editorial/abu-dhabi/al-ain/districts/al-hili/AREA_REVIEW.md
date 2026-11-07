@@ -12,7 +12,7 @@
 | --- | ---: | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
-| الصيانة العامة والتشطيبات | 10 | 5 | 49 per language | in_progress |
+| الصيانة العامة والتشطيبات | 10 | 7 | 77 per language | in_progress |
 | مواد البناء والتوريد | 5 | 0 | 0 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
@@ -66,3 +66,13 @@ Continue **Al Hili**, continuing with the remaining seven company specialties of
 - Overall progress: **15/50 company specialties**, **154 service sections per language**, 5/10 maintenance specialties; **Al Hili remains in_progress**.
 - Next: plumbing and leak detection, air conditioning and refrigeration, smart systems and surveillance, painting, waterproofing and thermal insulation; then the five remaining sectors.
 - Editorial-only branch changes; no software, database, merge or live publication.
+
+## Maintenance and finishes — verified in run 5
+
+- **plumbing-leak-detection** — 14 services: [Arabic](./general-maintenance/plumbing-leak-detection/content-ar.md) · [English](./general-maintenance/plumbing-leak-detection/content-en.md) · [Review](./general-maintenance/plumbing-leak-detection/review.md)
+- **air-conditioning-refrigeration** — 14 services: [Arabic](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [English](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [Review](./general-maintenance/air-conditioning-refrigeration/review.md)
+
+- Added 2 specialties, 28 service sections per language; six files verified by GitHub read-back, including 14 Arabic and 14 English service headings per specialty.
+- Overall: **17/50 company specialties**, **182 service sections per language**, 7/10 maintenance specialties. **Al Hili remains in_progress**.
+- Next: smart systems and surveillance, painting, waterproofing and thermal insulation, then remaining five sectors. Do not advance to Al Jimi.
+- Content files only; no code, database, merge or site publication.

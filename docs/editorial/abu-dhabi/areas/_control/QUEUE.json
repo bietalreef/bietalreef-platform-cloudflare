@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent AR/EN rewrite: interior-design 49/49 and general-contracting 1–35/56. GitHub readback verified 56 sequential service headings in each language. Remaining 350 services for originality review, next construction service 36. in_progress; no approval/deploy.",
+      "review_note": "Independent AR/EN rewrite: interior-design 49/49, general-contracting 1–42/56. GitHub readback verified 56 sequential headings in each language; next service 43 (irrigation network design). 343 services remain for originality review. No approval/deploy.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "تنسيق الحدائق والزراعة",
+        "specialty": "شبكات الري",
         "rewritten_service_numbers": [
           1,
           2,
@@ -173,14 +173,21 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 36,
-        "remaining_in_sector": 21,
+        "next_service_number": 43,
+        "remaining_in_sector": 14,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 84,
-        "remaining_area_services_for_originality_review": 350,
+        "area_independently_rewritten": 91,
+        "remaining_area_services_for_originality_review": 343,
         "area_editorially_approved": false
       }
     },

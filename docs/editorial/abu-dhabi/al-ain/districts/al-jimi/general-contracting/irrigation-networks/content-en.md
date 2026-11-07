@@ -1,100 +1,77 @@
 # Irrigation networks in Al Jimi — company service guide
 
-A useful enquiry starts with the actual site rather than a vague request for a contractor. Existing properties and new projects in Al Jimi can need different scopes; use photos, drawings and quantities rather than assumptions. This guide is for preparing requests, not an offer by any named company.
-
-> **Taxonomy status:** currently non-selectable. This is preparatory information, not a live category or supplier listing.
+This category is **currently non-selectable**. Information is preparatory and does not establish supplier availability. Verify buried services and safety requirements before excavation or connections.
 
 ## 1. Irrigation network design
 
-**Service-specific planning:** Group irrigation into zones reflecting distinct plant water needs.
+**Purpose and scope:** Divide trees and lawn into distinct zones and size flow and pressure rather than drawing pipe routes by appearance.
 
+**Photos and measurements:** Supply planting plan, water source, available pressure and flow readings, levels and buried services.
 
-For **irrigation network design**, map the intended work and explain the existing condition before discussing a quote. Mark irrigation zones, valve locations and current pressure conditions. Make the quantities and limitations explicit.
+**Quotation, contract and exclusions:** Compare hydraulic calculations, pipe diameters, valves, filters and maintenance access; excavation and installation are separate unless included.
 
-**Quotation and agreement:** Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Compare hydraulic coverage, maintenance access and tests before trenches are closed. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Test water reach throughout the zones.
+**Handover:** Check coverage of remote zones, valve access and independent isolation.
 
 ## 2. Drip irrigation installation
 
-**Service-specific planning:** Match drip-emitter spacing to plant roots and water pressure.
+**Purpose and scope:** Map plant spacing and root depth so emitters wet roots without soaking trunks or leaving bed edges dry.
 
+**Photos and measurements:** Photograph beds; measure row lengths, plant counts and locate supply, filter and regulator.
 
-The scope of **drip irrigation installation** can change significantly after a site survey. Mark irrigation zones, valve locations and current pressure conditions and ask what information is still needed to price the work accurately.
+**Quotation, contract and exclusions:** Compare emitter flow rates, filtration, line fixing and flushing method; main supply repairs are separate.
 
-**Exclusions and comparison:** Compare hydraulic coverage, maintenance access and tests before trenches are closed. Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check flow at the farthest emitter.
+**Handover:** Run the zone and check end emitters, leaks and wetting near each plant.
 
 ## 3. Sprinkler installation
 
-**Service-specific planning:** Plan sprinkler overlap without watering walls or paved walks.
+**Purpose and scope:** Plan overlapping coverage with wind exposure and avoid spraying walls or pedestrian routes.
 
+**Photos and measurements:** Measure lawn widths, paving edges, obstacles and operating pressure; photograph boundaries.
 
-Do not approve **sprinkler installation** based solely on a reference picture. Mark irrigation zones, valve locations and current pressure conditions; clarify interfaces with existing services and finishes.
+**Quotation, contract and exclusions:** Compare nozzle range, heads, zones and control valves; paving reinstatement must be specified separately.
 
-**Contractor responsibilities:** Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Compare hydraulic coverage, maintenance access and tests before trenches are closed. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Observe dry strips and overspray in a full run.
+**Handover:** Observe a full watering cycle for dry strips, overspray and ponding.
 
 ## 4. Irrigation tanks and pumps
 
-**Service-specific planning:** Size pumps and tanks for elevation and the actual distribution system.
+**Purpose and scope:** Estimate storage demand, flow and elevation before selecting a pump or tank.
 
+**Photos and measurements:** Provide tank-space dimensions, electrical supply, suction/discharge route and highest outlet elevation.
 
-For **irrigation tanks and pumps**, map the intended work and explain the existing condition before discussing a quote. Mark irrigation zones, valve locations and current pressure conditions. Make the quantities and limitations explicit.
+**Quotation, contract and exclusions:** Compare pump curve, tank, valves, dry-run protection and mounting base; electrical and civil works require explicit scope.
 
-**Quotation and agreement:** Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Compare hydraulic coverage, maintenance access and tests before trenches are closed. Include the programme, protection duties and inspection milestones.
+**Handover:** Test start-stop control, dry-run protection, leakage and unusual vibration.
 
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## 5. Irrigation network maintenance
 
-**Distinct acceptance check:** Check dry-run protection and pressure.
+**Purpose and scope:** Diagnose low pressure, clogging or stuck valves before recommending wholesale replacement.
 
-## 5. Irrigation maintenance
+**Photos and measurements:** Provide fault locations, zone IDs, recurrence and any pressure readings.
 
-**Service-specific planning:** Test whether faulty valves, filters or buried lines cause low pressure.
+**Quotation, contract and exclusions:** Compare diagnosis, parts, excavation, reinstatement and retesting; controllers and pumps are separate unless listed.
 
-
-The scope of **irrigation maintenance** can change significantly after a site survey. Mark irrigation zones, valve locations and current pressure conditions and ask what information is still needed to price the work accurately.
-
-**Exclusions and comparison:** Compare hydraulic coverage, maintenance access and tests before trenches are closed. Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Verify pressure and leaks after repair.
+**Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces.
 
 ## 6. Automatic irrigation programming
 
-**Service-specific planning:** Adapt controller schedules to planting and changing seasonal needs.
+**Purpose and scope:** Set schedules for plant types, seasons and water limits, avoiding incompatible simultaneous zones.
 
+**Photos and measurements:** Photograph controller model and display; list zone names, current schedules and plant concerns.
 
-Do not approve **automatic irrigation programming** based solely on a reference picture. Mark irrigation zones, valve locations and current pressure conditions; clarify interfaces with existing services and finishes.
+**Quotation, contract and exclusions:** Compare programming, sensor checks, saved settings and user handover; new wiring and valves are separate.
 
-**Contractor responsibilities:** Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Compare hydraulic coverage, maintenance access and tests before trenches are closed. Agree samples or drawings, testing responsibilities and who signs off each stage.
+**Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature.
 
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## 7. Irrigation network leak detection
 
-**Distinct acceptance check:** Observe a programmed full cycle.
+**Purpose and scope:** Distinguish normal watering from leakage by checking the meter with zones off and testing zones individually.
 
-## 7. Irrigation leak detection
+**Photos and measurements:** Provide damp-spot locations, timing, meter readings and any pipe layout.
 
-**Service-specific planning:** Locate hidden leaks before disturbing established beds.
+**Quotation, contract and exclusions:** Compare tracing method, accuracy limits, exploratory excavation and reporting; detection does not automatically include repair or reinstatement.
 
+**Handover:** Obtain documented suspected locations and test findings; commission and verify repairs separately if needed.
 
-For **irrigation leak detection**, map the intended work and explain the existing condition before discussing a quote. Mark irrigation zones, valve locations and current pressure conditions. Make the quantities and limitations explicit.
+## Request a quotation
 
-**Quotation and agreement:** Identify water source, valves, pipework, filters, electrical interfaces and any excluded excavation or reinstatement. Compare hydraulic coverage, maintenance access and tests before trenches are closed. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Verify the water source, pipe routing and valve zoning before digging; system pressure and uniform coverage matter. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Pressure-test repairs and reinstate disturbed planting.
-
-## Requesting quotes with Biet Al Reef
-
-Send the service description, site photos, dimensions and any available drawings, including what must remain undisturbed. Biet Al Reef customer service can help structure the request and look for suitable companies; availability, pricing and dates are not guaranteed.
+Share the exact service, site photographs, zone plan and dimensions, water source and desired outcome or fault. Biet Al Reef customer service can help prepare a request even without a listed company, without guaranteeing a supplier, price or date.

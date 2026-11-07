@@ -13,7 +13,7 @@
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
 | الصيانة العامة والتشطيبات | 10 | 10 | 105 per language | reviewed_content |
-| مواد البناء والتوريد | 5 | 0 | 0 | pending |
+| مواد البناء والتوريد | 5 | 5 | 49 per language | reviewed_content |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
 | المصانع ومعدات الإيجار | 8 | 0 | 0 | pending |
@@ -39,7 +39,7 @@
 
 ## Next work
 
-Continue **Al Hili**, continuing with the remaining seven company specialties of general maintenance and finishes. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
+Continue **Al Hili** with the five workshop specialties, followed by furniture, equipment and cleaning sectors. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
 
 ## Editorial guardrails
 
@@ -88,3 +88,18 @@ Continue **Al Hili**, continuing with the remaining seven company specialties of
 - Overall Al Hili: **20/50 company specialties, 210 service sections per language, 3/8 sectors**. Status remains **in_progress**.
 - Next: **مواد البناء والتوريد** (5 company specialties), then remaining four sectors. Do not advance to Al Jimi.
 - Editorial content only; no code, database, merge or live publication.
+
+
+## Building materials and supply — verified in run 7
+
+- **building-finishing-materials** — 21 services: [Arabic](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [Review](./building-materials/building-finishing-materials/review.md)
+- **timber-panels** — 7 services: [Arabic](./building-materials/timber-panels/content-ar.md) · [English](./building-materials/timber-panels/content-en.md) · [Review](./building-materials/timber-panels/review.md)
+- **marble-granite** — 7 services: [Arabic](./building-materials/marble-granite/content-ar.md) · [English](./building-materials/marble-granite/content-en.md) · [Review](./building-materials/marble-granite/review.md)
+- **kitchen-countertops** — 7 services: [Arabic](./building-materials/kitchen-countertops/content-ar.md) · [English](./building-materials/kitchen-countertops/content-en.md) · [Review](./building-materials/kitchen-countertops/review.md)
+- **ceramic-porcelain** — 7 services: [Arabic](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md)
+
+- 5/5 specialties, 49 named services per language; 15/15 new files read back from GitHub.
+- **Building and finishing materials** is currently non-selectable; editorial preparation does not activate it.
+- Al Hili cumulative: **25/50 company specialties, 259 service sections per language, 4/8 sectors**. Status **in_progress**.
+- Pending exactly: workshops (5 specialties), furniture and furnishing (4), factories and equipment rental (8), cleaning and pest control (8). Do not advance to Al Jimi.
+- No software, database, merge or live publication.

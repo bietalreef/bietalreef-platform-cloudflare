@@ -181,3 +181,10 @@
 - الحالة: `in_progress`؛ أعيد تحرير **11 تخصصًا من أصل 50**، والمتبقي **39 تخصصًا** ثم مراجعة نهائية لـ434 خدمة في كل لغة.
 - أُعيدت كتابة الخدمات الأربع عشرة في [العربية](./general-maintenance/general-maintenance/content-ar.md) و[الإنجليزية](./general-maintenance/general-maintenance/content-en.md) مع [المراجعة](./general-maintenance/general-maintenance/review.md). تمت إعادة قراءة الملفات الثلاثة من الفرع والتحقق من تطابق النصوص بعد الرفع.
 - **أول نقص تالٍ:** `general-maintenance/integrated-finishes/content-ar.md` ثم `content-en.md` ثم `review.md` (تحقق من اسم المجلد في الفهرس قبل التحرير)، ثم الجبس والديكور وبقية التخصصات بالترتيب. السجلات السابقة تاريخية، ولا يبدأ المويجعي قبل إتمام الجيمي.
+
+## تحديث تحرير التشطيبات المتكاملة — 2026-11-08
+
+- الحالة: `in_progress`؛ **12 من 50 تخصصًا** أُعيد تحريرها ثنائي اللغة، ويتبقى **38 تخصصًا** ثم تدقيق نهائي لجميع الخدمات الـ434 في كل لغة.
+- تم تحرير الخدمات السبع وفق الشجرة حرفيًا، مع فصل متطلبات الفلل والشقق والمحلات والمكاتب والتجديد والديكور والتسليم: [العربي](./general-maintenance/integrated-finishes/content-ar.md) · [English](./general-maintenance/integrated-finishes/content-en.md) · [المراجعة](./general-maintenance/integrated-finishes/review.md).
+- أُعيدت قراءة الملفات الثلاثة من GitHub وتطابقت مع النصوص المرفوعة.
+- **أول نقص تالٍ:** `general-maintenance/gypsum-decor/content-ar.md` ثم `content-en.md` ثم `review.md`؛ وبعده الأرضيات والكسوات وبقية تخصصات الصيانة ثم القطاعات التالية حسب الفهرس. الملفات الموجودة غير المحررة لا تعني اجتياز الجودة. لا يبدأ المويجعي قبل اعتماد الجيمي.

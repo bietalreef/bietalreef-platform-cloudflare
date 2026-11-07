@@ -1,63 +1,105 @@
-# Gypsum and decorative works in Al Jimi
+# Gypsum and decorative works in Al Jimi — company quotation guide
 
-Explain the actual condition and expected outcome before seeking a company quotation for an Al Jimi property. This buyer's guide does not establish a listed business, price or appointment.
+This guide helps customers define scope, compare quotations and inspect delivery. It does not confirm a listed contractor, approval, price or appointment. Safety and permit matters must be checked with qualified parties and relevant authorities.
 
 ## 1. Gypsum ceiling installation
 
-**When this matters:** Gypsum ceilings in humid rooms need suitable board types and access panels for services. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**When it is needed:** A suspended ceiling can conceal services or reshape lighting, but maintenance hatches must remain accessible.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site information:** Photograph the whole ceiling, measure clear height and room area, and mark AC grilles, sprinklers and detectors.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Materials and specification:** Specify board type for the environment, metal framing, hangers, joint treatment and access panels.
 
-## 2. Gypsum partition walls
+**Quotation comparison and exclusions:** Compare board thickness, framing specification, removal, painting and electrical work as separate inclusions. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
 
-**When this matters:** A gypsum partition is not load-bearing; specify acoustic infill and door movement. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**Handover check:** Check levels, wall junctions, access openings and any sagging or cracks after drying. Photograph outstanding defects before final payment.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+## 2. Gypsum partition construction
 
-## 3. Cove lighting construction
+**When it is needed:** Partitions divide rooms but must not be treated as structural walls.
 
-**When this matters:** Plan LED strip position, power supply ventilation and access before building a light cove. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**Site information:** Provide dimensions, door positions, socket locations, planned wall-mounted loads and acoustic requirements.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Materials and specification:** Specify studs, tracks, board layers, insulation and local reinforcement for doors or cabinetry.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation comparison and exclusions:** Compare fire/acoustic specifications where required and explicitly exclude structural alterations or service relocation unless priced. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
 
-## 4. Decorative gypsum features
+**Handover check:** Check rigidity, alignment, door movement and finished edges around outlets. Photograph outstanding defects before final payment.
 
-**When this matters:** Cornice sample, repeated pattern and wall junction determine finished appearance. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+## 3. Recessed cove lighting construction
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**When it is needed:** Indirect cove lighting needs a serviceable driver and a planned light path.
 
-## 5. Wood-effect panel installation
+**Site information:** Share perimeter dimensions, recess depth, electrical feed location and nearby AC routes.
 
-**When this matters:** Sunlight and damp exposure affect imitation-wood panel and adhesive choice. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**Materials and specification:** Define the gypsum recess profile, straight edges, LED mounting and suitable component ventilation.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Quotation comparison and exclusions:** Separate gypsum fabrication from strips, drivers, wiring, controls and commissioning; agree light temperature. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Handover check:** Test at night for even illumination, visible hotspots and driver access. Photograph outstanding defects before final payment.
 
-## 6. Marble-effect panel installation
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
 
-**When this matters:** Vein matching and joint planning matter more than random faux-marble board placement. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+## 4. Decorative gypsum detailing
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**When it is needed:** Cornices and gypsum motifs need consistent proportions and carefully matched corners.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Site information:** Provide wall elevations, lengths, heights, a sample motif and photos of openings.
+
+**Materials and specification:** Agree moulding profile, fixing method, joint finishing and a sample section.
+
+**Quotation comparison and exclusions:** Compare linear metres, corner pieces, paint, access equipment and removal of old details. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
+
+**Handover check:** Inspect repeated spacing, mitred corners, cracks and joints under side lighting. Photograph outstanding defects before final payment.
+
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
+
+## 5. Wood-look panel installation
+
+**When it is needed:** Wood-look cladding must suit the intended interior or exposed environment.
+
+**Site information:** Measure wall area, switches and door openings; identify panel direction and colour sample.
+
+**Materials and specification:** Specify product grade, thickness, compatible fixings and edge trims; obtain evidence for claimed moisture or fire resistance.
+
+**Quotation comparison and exclusions:** Compare brand, fixing method, joints, corners, waste and whether substrate repairs are included. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
+
+**Handover check:** Check panel stability, straight grooves, edge finishes and access to outlets. Photograph outstanding defects before final payment.
+
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
+
+## 6. Marble-look panel installation
+
+**When it is needed:** Marble-look cladding is decorative and does not replace waterproofing.
+
+**Site information:** Measure the wall, photograph wet and heated areas, and agree a vein-matching layout.
+
+**Materials and specification:** Specify panel type, substrate preparation, adhesive or mechanical fixing and corner treatment.
+
+**Quotation comparison and exclusions:** Compare panel quantities, offcuts, joint sealant and substrate repairs; price waterproofing separately if required. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
+
+**Handover check:** Inspect vein alignment, flatness, edges, gaps and sound attachment. Photograph outstanding defects before final payment.
+
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
 
 ## 7. Gypsum repair and maintenance
 
-**When this matters:** Repeated ceiling stains may indicate a leak above; do not patch before solving the source. For the site survey, bring photos of ceiling and wall heights and AC or lighting penetrations and a measured description or count of the affected locations.
+**When it is needed:** Recurring stains or cracks require diagnosis before cosmetic patching.
 
-**Scope and exclusions:** Specify board grade, thickness, suspension system, joints and finish, and separate wiring and painting responsibility. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site information:** Photograph the defect close up and from a distance; note dimensions, when it appeared and pipes or AC above.
 
-**At handover:** Check board alignment, clean joints, concealed fixings and service access; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Materials and specification:** Assess framing and moisture source, replace unsound board, tape joints, finish and touch up paint.
 
-## Request for quotation support
+**Quotation comparison and exclusions:** Distinguish leak remediation from cosmetic repairs, and agree patch area, colour matching and disposal. Agree quantities, approved materials, protection, variations, payment stages and defect rectification in writing. Do not assume electrical work, painting or permits are included.
 
-Share the scope, site images and measurements with Biet Al Reef customer service. We can help structure a comparable request and look for a suitable business without guaranteeing provider availability, price or date.
+**Handover check:** Check dryness, firmness, flatness under side lighting and monitor for returning moisture. Photograph outstanding defects before final payment.
+
+**Request a quotation:** Send dimensions, photos and the intended result, and ask for a site-verified itemised scope, exclusions and schedule.
+
+## Quotations and customer support
+
+Biet Al Reef customer support can help structure a request using photos, dimensions and requirements and assist with finding a suitable company. No company availability, price or date is guaranteed.

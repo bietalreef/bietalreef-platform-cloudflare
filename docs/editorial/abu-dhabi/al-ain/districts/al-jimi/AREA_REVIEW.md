@@ -1,121 +1,116 @@
-# منطقة الجيمي — سجل المراجعة | Al Jimi AREA_REVIEW
+# الجيمي — تقرير المحتوى والمراجعة / Al Jimi Editorial Review
 
-- **Status:** `in_progress` — لم تكتمل كل القطاعات بعد.
-- **Branch:** `content/al-ain-district-services-20261107`
-- **Scope:** Companies and establishments only; 8 sectors, 50 specialties, 434 named services per language.
-- **Original taxonomy:** [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md)
-- **Policy:** Preserve restricted/proposed status; no live provider or pricing claims. No software/database/merge/site changes.
+- **الحالة / Status:** `content_complete / editorial_quality_check_pending`.
+- **المستودع / Repo:** `bietalreef/bietalreef-platform-cloudflare`.
+- **الفرع / Branch:** `content/al-ain-district-services-20261107`.
+- **المصدر المعتمد:** [شجرة الخدمات العربية](../_control/TAXONOMY_SOURCE_AR.md) و[قواعد التحرير](../README.md).
+- **النطاق:** محتوى شركات ومنشآت فقط. لا يغطي مسارات المهنيين والحرفيين المستقلة.
+- **النتيجة المؤكدة:** 8 قطاعات، 50 تخصص شركة، **434 خدمة بالعربية و434 مقابلاً بالإنجليزية**؛ 150 ملف تخصص (ثلاثة لكل تخصص) وتقرير المنطقة هذا.
+- **التحقق:** أُعيدت قراءة ملفات المحتوى والمراجعة من GitHub بعد كل رفع، وتطابقت أعداد عناوين الخدمات في اللغتين. أُجري كذلك فحص مستقل لعناوين الخدمات العربية الـ434 مقابل شجرة المصدر حرفيًا، من دون اختلاف في الاسم أو الترتيب. فحص شجرة GitHub أكد عدم غياب أيٍّ من الملفات الـ150.
+- **تحفّظ جودة مهم:** جرى تدقيق تغطية العناوين والملفات والمعلومات الأساسية، لكن لم تكتمل بعد مراجعة مستقلة سطرًا بسطر لكل فقرة فنية أو أسلوبية؛ لذلك لا تحمل الحالة `final_editorial_approved`.
 
-## التغطية / Coverage
+## القطاعات الثمانية / Sector coverage
 
-| القطاع | التخصصات المنجزة | خدمات كل لغة | الحالة |
+| القطاع | تخصصات الشركات | خدمات كل لغة | حالة الحفظ |
 | --- | ---: | ---: | --- |
-| المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved |
-| الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
-| الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved |
-| مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved |
-| ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved |
-| الأثاث والمفروشات والتجهيز (`furniture-decor`) | 4/4 | 24/24 | content_saved |
-| المصانع ومعدات الإيجار (`equipment-rental`) | 8/8 | 53/53 | content_saved |
-| التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 8/8 | 42/42 | content_saved |
+| المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved_verified |
+| الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved_verified |
+| الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved_verified |
+| مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved_verified |
+| ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved_verified |
+| الأثاث والمفروشات والتجهيز (`furniture-decor`) | 4/4 | 24/24 | content_saved_verified |
+| المصانع ومعدات الإيجار (`equipment-rental`) | 8/8 | 53/53 | content_saved_verified |
+| التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 8/8 | 42/42 | content_saved_verified |
+| **الإجمالي** | **50/50** | **434/434** | **content_complete** |
 
-## الملفات المكتوبة والمراجعة / Files
+## فهرس ملفات التخصصات / Specialty files
 
-- **building-villas** — 14 services: [العربية](./general-contracting/building-villas/content-ar.md) · [English](./general-contracting/building-villas/content-en.md) · [review](./general-contracting/building-villas/review.md)
-- **restoration-renovation** — 7 services: [العربية](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [review](./general-contracting/restoration-renovation/review.md)
-- **demolition-concrete** — 7 services: [العربية](./general-contracting/demolition-concrete/content-ar.md) · [English](./general-contracting/demolition-concrete/content-en.md) · [review](./general-contracting/demolition-concrete/review.md)
-- **landscaping** — 14 services: [العربية](./general-contracting/landscaping/content-ar.md) · [English](./general-contracting/landscaping/content-en.md) · [review](./general-contracting/landscaping/review.md)
-- **irrigation-networks** — 7 services: [العربية](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
-- **shade-outdoor-works** — 7 services: [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
+### المقاولات العامة والبناء والتشييد
 
-## النواقص / Remaining work
+- **إنشاء المباني والفلل** — 14 خدمات/لغة · informational: [عربي](./general-contracting/building-villas/content-ar.md) · [English](./general-contracting/building-villas/content-en.md) · [مراجعة](./general-contracting/building-villas/review.md)
+- **الترميم والتجديد** — 7 خدمات/لغة · informational: [عربي](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [مراجعة](./general-contracting/restoration-renovation/review.md)
+- **الهدم والأعمال الخرسانية** — 7 خدمات/لغة · informational: [عربي](./general-contracting/demolition-concrete/content-ar.md) · [English](./general-contracting/demolition-concrete/content-en.md) · [مراجعة](./general-contracting/demolition-concrete/review.md)
+- **تنسيق الحدائق وصيانتها** — 14 خدمات/لغة · non-selectable: [عربي](./general-contracting/landscaping/content-ar.md) · [English](./general-contracting/landscaping/content-en.md) · [مراجعة](./general-contracting/landscaping/review.md)
+- **شبكات الري** — 7 خدمات/لغة · non-selectable: [عربي](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [مراجعة](./general-contracting/irrigation-networks/review.md)
+- **المظلات والأعمال الخارجية** — 7 خدمات/لغة · non-selectable: [عربي](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [مراجعة](./general-contracting/shade-outdoor-works/review.md)
 
-- قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- جميع القطاعات مكتوبة؛ التحقق النهائي من عدد الملفات، عناوين الخدمات، والروابط مطلوب قبل اعتماد المنطقة.
-- لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
+### الاستشارات الهندسية والتصميم والديكور
 
-## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
+- **التصميم المعماري والمخططات** — 14 خدمات/لغة · informational: [عربي](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [مراجعة](./interior-design/architectural-plans/review.md)
+- **التصميم الإنشائي** — 7 خدمات/لغة · informational: [عربي](./interior-design/structural-design/content-ar.md) · [English](./interior-design/structural-design/content-en.md) · [مراجعة](./interior-design/structural-design/review.md)
+- **الإشراف والاستشارات الهندسية** — 7 خدمات/لغة · informational: [عربي](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [مراجعة](./interior-design/engineering-supervision/review.md)
+- **التصميم الداخلي والمواد** — 21 خدمات/لغة · informational: [عربي](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [مراجعة](./interior-design/interior-materials/review.md)
 
-- **architectural-plans** — 14 services: [العربية](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [review](./interior-design/architectural-plans/review.md)
-- **structural-design** — 7 services: [العربية](./interior-design/structural-design/content-ar.md) · [English](./interior-design/structural-design/content-en.md) · [review](./interior-design/structural-design/review.md)
-- **engineering-supervision** — 7 services: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [review](./interior-design/engineering-supervision/review.md)
-- **interior-materials** — 21 services: [العربية](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [review](./interior-design/interior-materials/review.md)
+### الصيانة العامة والتشطيبات
 
-- الإجمالي التراكمي بعد الدفعة: **10/50 تخصصات؛ 105/434 خدمة لكل لغة؛ قطاعان من ثمانية**.
+- **الصيانة العامة** — 14 خدمات/لغة · informational: [عربي](./general-maintenance/general-maintenance/content-ar.md) · [English](./general-maintenance/general-maintenance/content-en.md) · [مراجعة](./general-maintenance/general-maintenance/review.md)
+- **التشطيبات المتكاملة** — 7 خدمات/لغة · informational: [عربي](./general-maintenance/integrated-finishes/content-ar.md) · [English](./general-maintenance/integrated-finishes/content-en.md) · [مراجعة](./general-maintenance/integrated-finishes/review.md)
+- **الجبس والديكور** — 7 خدمات/لغة · informational: [عربي](./general-maintenance/gypsum-decor/content-ar.md) · [English](./general-maintenance/gypsum-decor/content-en.md) · [مراجعة](./general-maintenance/gypsum-decor/review.md)
+- **الأرضيات والكسوات** — 7 خدمات/لغة · informational: [عربي](./general-maintenance/flooring-cladding/content-ar.md) · [English](./general-maintenance/flooring-cladding/content-en.md) · [مراجعة](./general-maintenance/flooring-cladding/review.md)
+- **الكهرباء والإنارة** — 14 خدمات/لغة · informational: [عربي](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [مراجعة](./general-maintenance/electrical-lighting/review.md)
+- **السباكة وكشف التسربات** — 14 خدمات/لغة · informational: [عربي](./general-maintenance/plumbing-leak-detection/content-ar.md) · [English](./general-maintenance/plumbing-leak-detection/content-en.md) · [مراجعة](./general-maintenance/plumbing-leak-detection/review.md)
+- **التكييف والتبريد** — 14 خدمات/لغة · informational: [عربي](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [English](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [مراجعة](./general-maintenance/air-conditioning-refrigeration/review.md)
+- **الأنظمة الذكية والمراقبة** — 14 خدمات/لغة · informational: [عربي](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [مراجعة](./general-maintenance/smart-systems-surveillance/review.md)
+- **الدهانات** — 7 خدمات/لغة · informational: [عربي](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [مراجعة](./general-maintenance/painting/review.md)
+- **العزل المائي والحراري** — 7 خدمات/لغة · informational: [عربي](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [مراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md)
 
-## الصيانة والتشطيبات — الدفعة الأولى
+### مواد البناء والتوريد
 
-- general-maintenance: 14 services, [AR](./general-maintenance/general-maintenance/content-ar.md), [EN](./general-maintenance/general-maintenance/content-en.md), [review](./general-maintenance/general-maintenance/review.md).
-- integrated-finishes: 7 services, [AR](./general-maintenance/integrated-finishes/content-ar.md), [EN](./general-maintenance/integrated-finishes/content-en.md), [review](./general-maintenance/integrated-finishes/review.md).
-- gypsum-decor: 7 services, [AR](./general-maintenance/gypsum-decor/content-ar.md), [EN](./general-maintenance/gypsum-decor/content-en.md), [review](./general-maintenance/gypsum-decor/review.md).
-- flooring-cladding: 7 services, [AR](./general-maintenance/flooring-cladding/content-ar.md), [EN](./general-maintenance/flooring-cladding/content-en.md), [review](./general-maintenance/flooring-cladding/review.md).
-- electrical-lighting: 14 services, [AR](./general-maintenance/electrical-lighting/content-ar.md), [EN](./general-maintenance/electrical-lighting/content-en.md), [review](./general-maintenance/electrical-lighting/review.md).
+- **مواد البناء والتشطيب** — 21 خدمات/لغة · non-selectable: [عربي](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [مراجعة](./building-materials/building-finishing-materials/review.md)
+- **الأخشاب والألواح** — 7 خدمات/لغة · informational: [عربي](./building-materials/timber-panels/content-ar.md) · [English](./building-materials/timber-panels/content-en.md) · [مراجعة](./building-materials/timber-panels/review.md)
+- **الرخام والجرانيت** — 7 خدمات/لغة · informational: [عربي](./building-materials/marble-granite/content-ar.md) · [English](./building-materials/marble-granite/content-en.md) · [مراجعة](./building-materials/marble-granite/review.md)
+- **أسطح المطابخ والمغاسل** — 7 خدمات/لغة · informational: [عربي](./building-materials/kitchen-countertops/content-ar.md) · [English](./building-materials/kitchen-countertops/content-en.md) · [مراجعة](./building-materials/kitchen-countertops/review.md)
+- **السيراميك والبورسلان** — 7 خدمات/لغة · informational: [عربي](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [مراجعة](./building-materials/ceramic-porcelain/review.md)
 
-- مجموع المنطقة حاليًا: **15/50 تخصصات و154/434 خدمة لكل لغة**. المتبقي في قطاع الصيانة: السباكة وكشف التسربات؛ التكييف والتبريد؛ الأنظمة الذكية والمراقبة؛ الدهانات؛ العزل المائي والحراري. (راجع الأرقام الفعلية للشجرة: في القطاع 10 تخصصات، وقد عولجت الخمسة الأولى.)
+### ورش الحديد والألمنيوم والزجاج والأخشاب
 
-## الصيانة العامة والتشطيبات — إغلاق القطاع الثالث
+- **المطابخ والخزائن والأبواب الخشبية** — 14 خدمات/لغة · informational: [عربي](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [English](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [مراجعة](./aluminium-glass/wood-kitchens-cabinets-doors/review.md)
+- **الأثاث والديكور الخشبي** — 14 خدمات/لغة · informational: [عربي](./aluminium-glass/wood-furniture-decor/content-ar.md) · [English](./aluminium-glass/wood-furniture-decor/content-en.md) · [مراجعة](./aluminium-glass/wood-furniture-decor/review.md)
+- **أعمال الألمنيوم والأبواب والنوافذ** — 14 خدمات/لغة · informational: [عربي](./aluminium-glass/aluminium-doors-windows/content-ar.md) · [English](./aluminium-glass/aluminium-doors-windows/content-en.md) · [مراجعة](./aluminium-glass/aluminium-doors-windows/review.md)
+- **الواجهات والأعمال الزجاجية** — 7 خدمات/لغة · informational: [عربي](./aluminium-glass/glass-facades-works/content-ar.md) · [English](./aluminium-glass/glass-facades-works/content-en.md) · [مراجعة](./aluminium-glass/glass-facades-works/review.md)
+- **تشكيل الحديد والمعادن** — 7 خدمات/لغة · informational: [عربي](./aluminium-glass/metal-fabrication/content-ar.md) · [English](./aluminium-glass/metal-fabrication/content-en.md) · [مراجعة](./aluminium-glass/metal-fabrication/review.md)
 
-- **plumbing-leak-detection** — 14 services: [AR](./general-maintenance/plumbing-leak-detection/content-ar.md) · [EN](./general-maintenance/plumbing-leak-detection/content-en.md) · [review](./general-maintenance/plumbing-leak-detection/review.md).
-- **air-conditioning-refrigeration** — 14 services: [AR](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [EN](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [review](./general-maintenance/air-conditioning-refrigeration/review.md).
-- **smart-systems-surveillance** — 14 services: [AR](./general-maintenance/smart-systems-surveillance/content-ar.md) · [EN](./general-maintenance/smart-systems-surveillance/content-en.md) · [review](./general-maintenance/smart-systems-surveillance/review.md).
-- **painting** — 7 services: [AR](./general-maintenance/painting/content-ar.md) · [EN](./general-maintenance/painting/content-en.md) · [review](./general-maintenance/painting/review.md).
-- **waterproofing-thermal-insulation** — 7 services: [AR](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [EN](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [review](./general-maintenance/waterproofing-thermal-insulation/review.md).
+### الأثاث والمفروشات والتجهيز
 
-- القطاع: 10/10 تخصصات، 105 خدمة لكل لغة. **الإجمالي: 20/50 تخصصًا، 210/434 خدمة لكل لغة، 3/8 قطاعات**. المتبقي: مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- **تصنيع الأثاث** — 7 خدمات/لغة · non-selectable: [عربي](./furniture-decor/furniture-manufacturing/content-ar.md) · [English](./furniture-decor/furniture-manufacturing/content-en.md) · [مراجعة](./furniture-decor/furniture-manufacturing/review.md)
+- **متاجر الأثاث والمفروشات** — 7 خدمات/لغة · non-selectable: [عربي](./furniture-decor/furniture-shops/content-ar.md) · [English](./furniture-decor/furniture-shops/content-en.md) · [مراجعة](./furniture-decor/furniture-shops/review.md)
+- **تنجيد وتفصيل المجالس والكنب** — 5 خدمات/لغة · proposed: [عربي](./furniture-decor/majlis-upholstery/content-ar.md) · [English](./furniture-decor/majlis-upholstery/content-en.md) · [مراجعة](./furniture-decor/majlis-upholstery/review.md)
+- **الستائر والسجاد والمفروشات** — 5 خدمات/لغة · proposed: [عربي](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [English](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [مراجعة](./furniture-decor/curtains-carpets-furnishings/review.md)
 
-## مواد البناء والتوريد — الدفعة الرابعة
+### المصانع ومعدات الإيجار
 
-- building-finishing-materials: 21 services [AR](./building-materials/building-finishing-materials/content-ar.md) · [EN](./building-materials/building-finishing-materials/content-en.md) · [Review](./building-materials/building-finishing-materials/review.md).
-- timber-panels: 7 services [AR](./building-materials/timber-panels/content-ar.md) · [EN](./building-materials/timber-panels/content-en.md) · [Review](./building-materials/timber-panels/review.md).
-- marble-granite: 7 services [AR](./building-materials/marble-granite/content-ar.md) · [EN](./building-materials/marble-granite/content-en.md) · [Review](./building-materials/marble-granite/review.md).
-- kitchen-countertops: 7 services [AR](./building-materials/kitchen-countertops/content-ar.md) · [EN](./building-materials/kitchen-countertops/content-en.md) · [Review](./building-materials/kitchen-countertops/review.md).
-- ceramic-porcelain: 7 services [AR](./building-materials/ceramic-porcelain/content-ar.md) · [EN](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md).
+- **تأجير معدات البناء والرفع** — 7 خدمات/لغة · informational: [عربي](./equipment-rental/construction-lifting-equipment/content-ar.md) · [English](./equipment-rental/construction-lifting-equipment/content-en.md) · [مراجعة](./equipment-rental/construction-lifting-equipment/review.md)
+- **تأجير الأدوات والمعدات الخفيفة** — 7 خدمات/لغة · informational: [عربي](./equipment-rental/light-tools-rental/content-ar.md) · [English](./equipment-rental/light-tools-rental/content-en.md) · [مراجعة](./equipment-rental/light-tools-rental/review.md)
+- **مصانع الألمنيوم والزجاج** — 7 خدمات/لغة · non-selectable: [عربي](./equipment-rental/aluminium-glass-factories/content-ar.md) · [English](./equipment-rental/aluminium-glass-factories/content-en.md) · [مراجعة](./equipment-rental/aluminium-glass-factories/review.md)
+- **مصانع الرخام والحجر** — 7 خدمات/لغة · non-selectable: [عربي](./equipment-rental/marble-stone-factories/content-ar.md) · [English](./equipment-rental/marble-stone-factories/content-en.md) · [مراجعة](./equipment-rental/marble-stone-factories/review.md)
+- **متاجر الأدوات والمعدات** — 7 خدمات/لغة · non-selectable: [عربي](./equipment-rental/tools-equipment-stores/content-ar.md) · [English](./equipment-rental/tools-equipment-stores/content-en.md) · [مراجعة](./equipment-rental/tools-equipment-stores/review.md)
+- **نقل الأثاث والممتلكات** — 7 خدمات/لغة · informational: [عربي](./equipment-rental/property-moving/content-ar.md) · [English](./equipment-rental/property-moving/content-en.md) · [مراجعة](./equipment-rental/property-moving/review.md)
+- **نقل مواد ومعدات المشاريع** — 7 خدمات/لغة · informational: [عربي](./equipment-rental/project-material-transport/content-ar.md) · [English](./equipment-rental/project-material-transport/content-en.md) · [مراجعة](./equipment-rental/project-material-transport/review.md)
+- **مصانع الخرسانة والطابوق والمنتجات الأسمنتية** — 4 خدمات/لغة · proposed: [عربي](./equipment-rental/concrete-block-factories/content-ar.md) · [English](./equipment-rental/concrete-block-factories/content-en.md) · [مراجعة](./equipment-rental/concrete-block-factories/review.md)
 
-- **مجموع الجيمي:** 25/50 تخصصات، 259/434 خدمة لكل لغة، 4/8 قطاعات. التخصص الأول مقيّد وغير قابل للاختيار؛ لم يُفعّل.
+### التنظيف والتعقيم ومكافحة الحشرات
 
-## ورش الحديد والألمنيوم والزجاج والأخشاب — الدفعة الخامسة
+- **تنظيف المنازل والمباني** — 7 خدمات/لغة · informational: [عربي](./cleaning-services/homes-buildings-cleaning/content-ar.md) · [English](./cleaning-services/homes-buildings-cleaning/content-en.md) · [مراجعة](./cleaning-services/homes-buildings-cleaning/review.md)
+- **تنظيف المفروشات** — 7 خدمات/لغة · informational: [عربي](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [مراجعة](./cleaning-services/upholstery-cleaning/review.md)
+- **تنظيف الواجهات والمواقع** — 4 خدمات/لغة · informational: [عربي](./cleaning-services/facades-site-cleaning/content-ar.md) · [English](./cleaning-services/facades-site-cleaning/content-en.md) · [مراجعة](./cleaning-services/facades-site-cleaning/review.md)
+- **تنظيف الخزانات والمسابح** — 3 خدمات/لغة · informational: [عربي](./cleaning-services/tanks-pools-cleaning/content-ar.md) · [English](./cleaning-services/tanks-pools-cleaning/content-en.md) · [مراجعة](./cleaning-services/tanks-pools-cleaning/review.md)
+- **مكافحة الحشرات والقوارض** — 5 خدمات/لغة · informational: [عربي](./cleaning-services/pest-rodent-control/content-ar.md) · [English](./cleaning-services/pest-rodent-control/content-en.md) · [مراجعة](./cleaning-services/pest-rodent-control/review.md)
+- **التطهير والتعقيم** — 2 خدمات/لغة · informational: [عربي](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [مراجعة](./cleaning-services/disinfection-sanitisation/review.md)
+- **تشغيل وصيانة المباني** — 7 خدمات/لغة · informational: [عربي](./cleaning-services/building-facility-operations/content-ar.md) · [English](./cleaning-services/building-facility-operations/content-en.md) · [مراجعة](./cleaning-services/building-facility-operations/review.md)
+- **خدمات العمالة والتشغيل** — 7 خدمات/لغة · informational: [عربي](./cleaning-services/workforce-operations/content-ar.md) · [English](./cleaning-services/workforce-operations/content-en.md) · [مراجعة](./cleaning-services/workforce-operations/review.md)
 
-- **wood-kitchens-cabinets-doors** — 14 services: [العربية](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [English](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [review](./aluminium-glass/wood-kitchens-cabinets-doors/review.md)
-- **wood-furniture-decor** — 14 services: [العربية](./aluminium-glass/wood-furniture-decor/content-ar.md) · [English](./aluminium-glass/wood-furniture-decor/content-en.md) · [review](./aluminium-glass/wood-furniture-decor/review.md)
-- **aluminium-doors-windows** — 14 services: [العربية](./aluminium-glass/aluminium-doors-windows/content-ar.md) · [English](./aluminium-glass/aluminium-doors-windows/content-en.md) · [review](./aluminium-glass/aluminium-doors-windows/review.md)
-- **glass-facades-works** — 7 services: [العربية](./aluminium-glass/glass-facades-works/content-ar.md) · [English](./aluminium-glass/glass-facades-works/content-en.md) · [review](./aluminium-glass/glass-facades-works/review.md)
-- **metal-fabrication** — 7 services: [العربية](./aluminium-glass/metal-fabrication/content-ar.md) · [English](./aluminium-glass/metal-fabrication/content-en.md) · [review](./aluminium-glass/metal-fabrication/review.md)
+## حالة التخصصات المقيدة والمقترحة
 
-- القطاع 5/5 تخصصات، 56/56 خدمة. **مجموع الجيمي 30/50 تخصصًا، 315/434 خدمة لكل لغة؛ 5/8 قطاعات**.
+- توجد **9 تخصصات غير قابلة للاختيار حاليًا** و**3 تخصصات مقترحة** داخل المصدر؛ عُرضت كلها كمعلومات إرشادية تحضيرية، وليس كأنشطة مُفعلة أو شركات متاحة. لا يُعد هذا التقرير موافقة مهنية أو تغييرًا في تصنيفات قاعدة البيانات.
 
-## الأثاث والمفروشات — القطاع السادس
+## التحقق والتحذيرات / Checks and guardrails
 
-- **furniture-manufacturing**, 7 services: [AR](./furniture-decor/furniture-manufacturing/content-ar.md) · [EN](./furniture-decor/furniture-manufacturing/content-en.md) · [review](./furniture-decor/furniture-manufacturing/review.md)
-- **furniture-shops**, 7 services: [AR](./furniture-decor/furniture-shops/content-ar.md) · [EN](./furniture-decor/furniture-shops/content-en.md) · [review](./furniture-decor/furniture-shops/review.md)
-- **majlis-upholstery**, 5 services: [AR](./furniture-decor/majlis-upholstery/content-ar.md) · [EN](./furniture-decor/majlis-upholstery/content-en.md) · [review](./furniture-decor/majlis-upholstery/review.md)
-- **curtains-carpets-furnishings**, 5 services: [AR](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [EN](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [review](./furniture-decor/curtains-carpets-furnishings/review.md)
+1. **الأسماء:** 50 تخصصًا و434 خدمة باسمها العربي الحرفي من قسم الشركات والمنشآت في المصدر؛ المقابلات الإنجليزية بنفس الترتيب والعدد.
+2. **الملفات:** 50 × `content-ar.md`, `content-en.md`, `review.md` = 150 ملفًا، و`AREA_REVIEW.md` للمنطقة؛ روابطها واردة أعلاه. جميعها على الفرع التحريري المحدد.
+3. **الإعلانات:** لا أسماء شركات أو مخزون أو أسعار أو أوقات مؤكدة بلا إثبات. خدمة عملاء بيت الريف يمكنها المساعدة في إعداد طلب عرض السعر حتى لو لم تكن شركة منشورة، دون ضمان الحصول على شركة أو سعر أو موعد.
+4. **الحدود:** النشر على الموقع، والكود، وتصميم الواجهات، ودمج الفرع، وSupabase، وقواعد البيانات ليست ضمن هذه المهمة ولم تُعدّل.
+5. **النقص التحريري المتبقي:** مراجعة بشرية مستقلة للصدق الفني، وعدم تكرار الصياغات، وسلاسة الإنجليزية والعربية، قبل اعتماد الصفحات للنشر. لا توجد تخصصات أو ملفات أو أسماء خدمات ناقصة بحسب فحص GitHub المنجز.
 
-- غير القابل للاختيار: تصنيع الأثاث، متاجر الأثاث. المقترح وغير المفعل: التنجيد، الستائر والمفروشات.
-- **34/50 تخصصًا؛ 339/434 خدمة لكل لغة؛ 6/8 قطاعات**. المتبقي المصانع ومعدات الإيجار والتنظيف والتعقيم.
+## الانتقال التالي
 
-## المصانع ومعدات الإيجار — القطاع السابع
-
-- **construction-lifting-equipment**: 7 services [AR](./equipment-rental/construction-lifting-equipment/content-ar.md) · [EN](./equipment-rental/construction-lifting-equipment/content-en.md) · [review](./equipment-rental/construction-lifting-equipment/review.md)
-- **light-tools-rental**: 7 services [AR](./equipment-rental/light-tools-rental/content-ar.md) · [EN](./equipment-rental/light-tools-rental/content-en.md) · [review](./equipment-rental/light-tools-rental/review.md)
-- **aluminium-glass-factories**: 7 services [AR](./equipment-rental/aluminium-glass-factories/content-ar.md) · [EN](./equipment-rental/aluminium-glass-factories/content-en.md) · [review](./equipment-rental/aluminium-glass-factories/review.md)
-- **marble-stone-factories**: 7 services [AR](./equipment-rental/marble-stone-factories/content-ar.md) · [EN](./equipment-rental/marble-stone-factories/content-en.md) · [review](./equipment-rental/marble-stone-factories/review.md)
-- **tools-equipment-stores**: 7 services [AR](./equipment-rental/tools-equipment-stores/content-ar.md) · [EN](./equipment-rental/tools-equipment-stores/content-en.md) · [review](./equipment-rental/tools-equipment-stores/review.md)
-- **property-moving**: 7 services [AR](./equipment-rental/property-moving/content-ar.md) · [EN](./equipment-rental/property-moving/content-en.md) · [review](./equipment-rental/property-moving/review.md)
-- **project-material-transport**: 7 services [AR](./equipment-rental/project-material-transport/content-ar.md) · [EN](./equipment-rental/project-material-transport/content-en.md) · [review](./equipment-rental/project-material-transport/review.md)
-- **concrete-block-factories**: 4 services [AR](./equipment-rental/concrete-block-factories/content-ar.md) · [EN](./equipment-rental/concrete-block-factories/content-en.md) · [review](./equipment-rental/concrete-block-factories/review.md)
-
-- مصانع الألمنيوم والزجاج ومصانع الرخام والحجر ومتاجر الأدوات والمعدات غير قابلة للاختيار حاليًا؛ مصانع الخرسانة والطابوق مقترحة فقط.
-- **42/50 تخصصًا، 392/434 خدمة لكل لغة، 7/8 قطاعات**. يتبقى قطاع التنظيف والتعقيم ومكافحة الحشرات، 8 تخصصات و42 خدمة لكل لغة.
-
-## التنظيف والتعقيم ومكافحة الحشرات — القطاع الثامن
-
-- **homes-buildings-cleaning** — 7 services: [Arabic](./cleaning-services/homes-buildings-cleaning/content-ar.md) · [English](./cleaning-services/homes-buildings-cleaning/content-en.md) · [Review](./cleaning-services/homes-buildings-cleaning/review.md)
-- **upholstery-cleaning** — 7 services: [Arabic](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [Review](./cleaning-services/upholstery-cleaning/review.md)
-- **facades-site-cleaning** — 4 services: [Arabic](./cleaning-services/facades-site-cleaning/content-ar.md) · [English](./cleaning-services/facades-site-cleaning/content-en.md) · [Review](./cleaning-services/facades-site-cleaning/review.md)
-- **tanks-pools-cleaning** — 3 services: [Arabic](./cleaning-services/tanks-pools-cleaning/content-ar.md) · [English](./cleaning-services/tanks-pools-cleaning/content-en.md) · [Review](./cleaning-services/tanks-pools-cleaning/review.md)
-- **pest-rodent-control** — 5 services: [Arabic](./cleaning-services/pest-rodent-control/content-ar.md) · [English](./cleaning-services/pest-rodent-control/content-en.md) · [Review](./cleaning-services/pest-rodent-control/review.md)
-- **disinfection-sanitisation** — 2 services: [Arabic](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [Review](./cleaning-services/disinfection-sanitisation/review.md)
-- **building-facility-operations** — 7 services: [Arabic](./cleaning-services/building-facility-operations/content-ar.md) · [English](./cleaning-services/building-facility-operations/content-en.md) · [Review](./cleaning-services/building-facility-operations/review.md)
-- **workforce-operations** — 7 services: [Arabic](./cleaning-services/workforce-operations/content-ar.md) · [English](./cleaning-services/workforce-operations/content-en.md) · [Review](./cleaning-services/workforce-operations/review.md)
-
-- **Coverage now 8/8 sectors; 50/50 specialties; 434/434 named service sections per language planned and authored.** This report remains `in_progress` until final GitHub tree and content validation complete. No publication or database changes.
+تسلسل المناطق المعتمد يجعل **المويجعي** بعد الجيمي، لكنه لا يبدأ ضمن تشغيل الجيمي. لا تُنشأ نسخ مكررة؛ يراجع وكيل العمل الآخر ملف الجودة قبل عملية النشر.

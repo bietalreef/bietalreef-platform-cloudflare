@@ -208,3 +208,9 @@ Combine flooring, wall, fabric, metal and wood samples with supplier references.
 ### 49. Finish schedule preparation
 
 After material approval, map each room to wall, floor, ceiling and skirting finishes, colour codes and reference quantities. Check consistency with drawings and samples and clarify supply-versus-installation scope. Receive a revision-controlled schedule suitable for pricing and execution.
+
+## Brief before hiring a designer or consultant
+
+Submit an as-is drawing, even a measured sketch, proposed changes, occupants, furniture to retain, photographs and an indicative budget. Specify whether the deliverable is a 3D visualisation, construction drawings, quantity schedule or site supervision; these are not interchangeable. Where no firm is listed, Biet Al Reef customer support can take the brief as a quotation enquiry without suggesting professional approval or a government permit.
+
+**Common question:** Are renderings enough to build from? No. Agree drawings, measured dimensions, specifications, electrical and HVAC coordination and execution details.

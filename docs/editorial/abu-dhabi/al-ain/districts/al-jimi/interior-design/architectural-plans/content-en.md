@@ -1,119 +1,175 @@
-# Architecture, planning and permitting in Al Jimi
+# Architectural design and plans — Al Jimi, Al Ain
 
-Describe how the proposed Al Jimi space will be used, its existing limitations and the intended deliverables before commissioning design work. Usable and coordinated plans matter more than the number of attractive pictures. Verify any applicable authority requirements for the actual scope.
+A practical briefing guide for company services, not a listing of available firms or an assurance of approval. Authority requirements depend on the project.
 
-## 1. تصميم الفلل — Architectural design and drawings
+## 1. Villa design (تصميم الفلل)
 
-**The practical decision:** Household size, majlis access and privacy; daylight and circulation may matter more than adding a room. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Separate guest access from family circulation and relate the majlis to the kitchen, bedrooms and garden.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Survey and brief:** Plot boundaries and orientation, required rooms, site photographs and available setback requirements. Include dimensions with units and clear photographs of relevant features.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Alternative layouts, circulation diagrams and preliminary elevations; structural and MEP design only if contracted.
 
-## 2. تصميم المباني السكنية — Architectural design and drawings
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**The practical decision:** Unit count, entrances, lifts, parking and common services influence the plan from the start. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance check:** Check privacy, furniture clearances, door swings and parking arrangement. Construction documents require review by the relevant qualified professionals.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+## 2. Residential building design (تصميم المباني السكنية)
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Establish unit mix, shared circulation, waste handling and service routes.
 
-## 3. تصميم المباني التجارية — Architectural design and drawings
+**Survey and brief:** Site area, entrances, parking demand and intended storey count. Include dimensions with units and clear photographs of relevant features.
 
-**The practical decision:** Commercial use, deliveries, exits and customer circulation govern the layout. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Unit plans, vertical cores and shared areas; detailed lift engineering excluded unless specified.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance check:** Review access separation, service ventilation and escape arrangements with qualified designers. Construction documents require review by the relevant qualified professionals.
 
-## 4. إعداد المخططات المعمارية — Architectural design and drawings
+## 3. Commercial building design (تصميم المباني التجارية)
 
-**The practical decision:** Room sizes, stair levels and openings must coordinate with structural and building services. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Start from intended use, customer flow and deliveries rather than facade appearance.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Survey and brief:** Business use, storage and loading needs, access requirements and site plan. Include dimensions with units and clear photographs of relevant features.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Retail, service, storage and entrance layouts; specialist fit-out is separately scoped.
 
-## 5. تطوير الواجهات — Architectural design and drawings
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**The practical decision:** Glazing, shading, facade materials and entrances need more than an attractive reference picture. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance check:** Test delivery/customer conflicts, entrance placement and sanitary provision. Construction documents require review by the relevant qualified professionals.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+## 4. Architectural drawings preparation (إعداد المخططات المعمارية)
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Translate the agreed concept into dimensioned plans, levels and openings for coordination.
 
-## 6. إعداد نماذج ثلاثية الأبعاد — Architectural design and drawings
+**Survey and brief:** Approved concept, site dimensions, datum and required drawing detail. Include dimensions with units and clear photographs of relevant features.
 
-**The practical decision:** Specify whether the 3D model is for visualisation or coordination and which finishes and lighting it shows. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Agreed plans, sections, elevations and opening schedules; no automatic certification or permit.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance check:** Cross-check dimensions between views and drawing revisions. Construction documents require review by the relevant qualified professionals.
 
-## 7. تعديل المخططات القائمة — Architectural design and drawings
+## 5. Facade development (تطوير الواجهات)
 
-**The practical decision:** Mark proposed changes on the correct drawing revision; approved layouts cannot simply be disregarded. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Balance shading, window proportions, maintenance and material appearance.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Survey and brief:** Facade photographs, solar orientation, opening sizes and finish samples. Include dimensions with units and clear photographs of relevant features.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Material and colour options, openings and concept details; glazing engineering separately scoped.
 
-## 8. إعداد مخططات الترخيص — Architectural design and drawings
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**The practical decision:** Separate preparing permit drawings from submitting and tracking the application; request a document checklist. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance check:** Check plan alignment and safe cleaning and maintenance access. Construction documents require review by the relevant qualified professionals.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+## 6. 3D model preparation (إعداد نماذج ثلاثية الأبعاد)
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Decide whether the model serves visual presentation or technical coordination.
 
-## 9. تقديم معاملات البناء — Architectural design and drawings
+**Survey and brief:** Revision-controlled drawings, finish references and requested camera views. Include dimensions with units and clear photographs of relevant features.
 
-**The practical decision:** Identify the applicant, authority and document/fee responsibilities rather than relying on verbal consent. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Agreed model detail, images and editable file if specified; renders are not construction drawings.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance check:** Check geometry against plans; rendered colours are not approved material samples. Construction documents require review by the relevant qualified professionals.
 
-## 10. تعديل المخططات المعتمدة — Architectural design and drawings
+## 7. Existing drawing revisions (تعديل المخططات القائمة)
 
-**The practical decision:** An approved change to a room or opening may affect structure and services. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Identify requested changes and their effect on circulation, doors and services.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Survey and brief:** Original drawing revision, site photographs and marked-up change list. Include dimensions with units and clear photographs of relevant features.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Revised sheets and change register; redesign of every discipline is not implicit.
 
-## 11. استخراج تصاريح الصيانة — Architectural design and drawings
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**The practical decision:** Some maintenance scopes require permission depending on the work; check before starting. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance check:** Verify revision clouds and eliminate conflicting superseded sheets. Construction documents require review by the relevant qualified professionals.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+## 8. Permit drawing preparation (إعداد مخططات الترخيص)
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** Confirm the application type and competent authority's document requirements first.
 
-## 12. استخراج تصاريح الإضافات — Architectural design and drawings
+**Survey and brief:** Available ownership or authorization documents, site plans and project details. Include dimensions with units and clear photographs of relevant features.
 
-**The practical decision:** Describe the proposed extension, services connections, structure and site boundary. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Scope and exclusions:** Drawing package against verified checklist; filing, fees and tracking excluded unless agreed.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Acceptance check:** Reconcile drawing index with application checklist; preparation is not approval. Construction documents require review by the relevant qualified professionals.
 
-## 13. إعداد مخططات الوضع القائم — Architectural design and drawings
+## 9. Construction application submission (تقديم معاملات البناء)
 
-**The practical decision:** Measure existing conditions and differences from historic plans before redesign. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**When it is needed:** Clarify who is authorised to submit, sign and respond to authority comments.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+**Survey and brief:** Valid authorisation, applicant details, supporting documents and existing case reference. Include dimensions with units and clear photographs of relevant features.
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**Scope and exclusions:** Submission and agreed follow-up; statutory fees and authority decisions remain outside the consultant's control.
 
-## 14. تنسيق الاعتمادات الحكومية — Architectural design and drawings
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
 
-**The practical decision:** List relevant authorities and document sequence; a promise to follow up is not an approval. Ask the professional to identify decisions that affect adjoining work before you approve the design.
+**Acceptance check:** Request submission receipt, reference number, correspondence and actual status. Construction documents require review by the relevant qualified professionals.
 
-**Information and scope:** Supply measured plans or site photographs, show what must stay and what can change, then Define drawings, editable deliverables and discipline coordination, and identify who pays approval fees and handles revisions. Extra surveys, reports or formal submissions are not presumed included.
+## 10. Changes to approved drawings (تعديل المخططات المعتمدة)
 
-**Comparing and accepting:** Compare revision allowances, drawing detail, coordination and programme. Check that the delivered plan matches the brief, that revision numbers are clear and that unresolved clashes are recorded before approval.
+**When it is needed:** An amended drawing is not approved until impacts and required formal steps are addressed.
 
-## Preparing a quotation request
+**Survey and brief:** Previously approved sheets, proposed changes and affected dimensions. Include dimensions with units and clear photographs of relevant features.
 
-Send the brief, existing plans and site photographs to Biet Al Reef customer service. We can help prepare a comparable enquiry and look for suitable companies, without guaranteeing a supplier, authority approval, fee or date.
+**Scope and exclusions:** Change drawings and impact coordination; reapproval is separately defined.
+
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+
+**Acceptance check:** Check change register and approval references before construction. Construction documents require review by the relevant qualified professionals.
+
+## 11. Maintenance permits (استخراج تصاريح الصيانة)
+
+**When it is needed:** Distinguish cosmetic maintenance from work affecting systems or regulated elements.
+
+**Survey and brief:** Defect photographs, repair method, location and previous documents. Include dimensions with units and clear photographs of relevant features.
+
+**Scope and exclusions:** Prepare and track a permit application where required; physical repairs excluded.
+
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+
+**Acceptance check:** Verify permit scope, conditions and validity before work starts. Construction documents require review by the relevant qualified professionals.
+
+## 12. Extension permits (استخراج تصاريح الإضافات)
+
+**When it is needed:** Relate the extension to boundaries, setbacks, structure and utility connections.
+
+**Survey and brief:** Plot plan, existing building drawings, proposed dimensions and service locations. Include dimensions with units and clear photographs of relevant features.
+
+**Scope and exclusions:** Study, drawings and submission as contracted; acceptance is not guaranteed.
+
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+
+**Acceptance check:** Compare submitted extension area with drawings and approval conditions. Construction documents require review by the relevant qualified professionals.
+
+## 13. As-built condition drawings (إعداد مخططات الوضع القائم)
+
+**When it is needed:** Use when built conditions differ from old plans or before renovation.
+
+**Survey and brief:** Access to rooms, site measurements, photographs, visible openings and services. Include dimensions with units and clear photographs of relevant features.
+
+**Scope and exclusions:** Measured survey and drawings of accessible conditions; hidden services and safety certification excluded.
+
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+
+**Acceptance check:** Spot-check dimensions and record inaccessible areas. Construction documents require review by the relevant qualified professionals.
+
+## 14. Authority approvals coordination (تنسيق الاعتمادات الحكومية)
+
+**When it is needed:** Separate authority sequence and comments from any promise of approval.
+
+**Survey and brief:** Application references, authority correspondence, current drawings and authorisation. Include dimensions with units and clear photographs of relevant features.
+
+**Scope and exclusions:** Submission tracker, response coordination and document register; no guarantee of decision or timeframe.
+
+**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+
+**Acceptance check:** Receive an authority-by-authority log of filings, comments, replies and status. Construction documents require review by the relevant qualified professionals.
+
+## Requesting a quotation
+
+Share the project brief, approximate Al Jimi location, photographs, available drawings, dimensions and requested deliverables with Biet Al Reef customer service. Assistance with preparing an enquiry does not guarantee a firm, price, date or approval.

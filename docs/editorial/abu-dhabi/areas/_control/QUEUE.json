@@ -56,11 +56,16 @@
       "name_ar": "بني ياس",
       "name_en": "Baniyas",
       "kind": "district",
-      "status": "pending",
+      "status": "in_progress",
       "completed_sectors": [],
-      "files": [],
-      "last_attempt": null,
-      "review_note": null
+      "files": [
+        "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md"
+      ],
+      "last_attempt": "2026-11-07",
+      "review_note": "Baniyas general-contracting: first specialty إنشاء المباني والفلل 14/14 entries drafted and verified AR/EN; sector 14/56, area 14/434. Remaining 42 in this sector and 7 other sectors. No completed sector."
     },
     {
       "sequence": 2,

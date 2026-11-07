@@ -175,3 +175,9 @@
 - ملفات تم رفعها وإعادة قراءتها بنجاح: [العربي](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [المراجعة](./interior-design/interior-materials/review.md).
 - **أول نقص تالٍ:** `general-maintenance/general-maintenance/content-ar.md` ثم `content-en.md` و`review.md` وفق فهرس التخصصات الفعلي؛ وبعده بقية تخصصات قطاع الصيانة والتشطيبات، ثم القطاعات التالية. لا تبدأ المويجعي قبل اكتمال الجيمي.
 - السجلات السابقة تاريخية؛ هذه أحدث نقطة استئناف. لا يعد وجود ملفات قديمة اعتمادًا لجودتها.
+
+## تحديث تحرير الصيانة العامة — 2026-11-08
+
+- الحالة: `in_progress`؛ أعيد تحرير **11 تخصصًا من أصل 50**، والمتبقي **39 تخصصًا** ثم مراجعة نهائية لـ434 خدمة في كل لغة.
+- أُعيدت كتابة الخدمات الأربع عشرة في [العربية](./general-maintenance/general-maintenance/content-ar.md) و[الإنجليزية](./general-maintenance/general-maintenance/content-en.md) مع [المراجعة](./general-maintenance/general-maintenance/review.md). تمت إعادة قراءة الملفات الثلاثة من الفرع والتحقق من تطابق النصوص بعد الرفع.
+- **أول نقص تالٍ:** `general-maintenance/integrated-finishes/content-ar.md` ثم `content-en.md` ثم `review.md` (تحقق من اسم المجلد في الفهرس قبل التحرير)، ثم الجبس والديكور وبقية التخصصات بالترتيب. السجلات السابقة تاريخية، ولا يبدأ المويجعي قبل إتمام الجيمي.

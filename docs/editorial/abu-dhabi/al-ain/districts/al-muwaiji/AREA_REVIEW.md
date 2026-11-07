@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — two sectors authored; remaining six sectors outstanding.
+- Status: **in_progress** — three sectors authored; remaining five sectors outstanding.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,8 +13,8 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **10/50 specialties; 105/434 services per language; 2/8 sectors**.
-- Missing: maintenance/finishes, construction materials, workshops, furnishing, factories/equipment, cleaning/pest-control.
+- Current coverage: **20/50 specialties; 210/434 services per language; 3/8 sectors**.
+- Missing: construction materials, workshops, furnishing, factories/equipment, cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
 ## الاستشارات الهندسية والتصميم والديكور
@@ -24,3 +24,17 @@
 - التصميم الداخلي والمواد: 21 services — [AR](./interior-design/interior-materials/content-ar.md) · [EN](./interior-design/interior-materials/content-en.md) · [review](./interior-design/interior-materials/review.md)
 
 - Cumulative: 10/50 company specialties, 105/434 services per language, 2/8 sectors.
+
+## الصيانة العامة والتشطيبات
+- general-maintenance — 14 services [AR](./general-maintenance/general-maintenance/content-ar.md) · [EN](./general-maintenance/general-maintenance/content-en.md) · [Review](./general-maintenance/general-maintenance/review.md)
+- integrated-finishes — 7 services [AR](./general-maintenance/integrated-finishes/content-ar.md) · [EN](./general-maintenance/integrated-finishes/content-en.md) · [Review](./general-maintenance/integrated-finishes/review.md)
+- gypsum-decor — 7 services [AR](./general-maintenance/gypsum-decor/content-ar.md) · [EN](./general-maintenance/gypsum-decor/content-en.md) · [Review](./general-maintenance/gypsum-decor/review.md)
+- flooring-cladding — 7 services [AR](./general-maintenance/flooring-cladding/content-ar.md) · [EN](./general-maintenance/flooring-cladding/content-en.md) · [Review](./general-maintenance/flooring-cladding/review.md)
+- electrical-lighting — 14 services [AR](./general-maintenance/electrical-lighting/content-ar.md) · [EN](./general-maintenance/electrical-lighting/content-en.md) · [Review](./general-maintenance/electrical-lighting/review.md)
+- plumbing-leak-detection — 14 services [AR](./general-maintenance/plumbing-leak-detection/content-ar.md) · [EN](./general-maintenance/plumbing-leak-detection/content-en.md) · [Review](./general-maintenance/plumbing-leak-detection/review.md)
+- air-conditioning-refrigeration — 14 services [AR](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [EN](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [Review](./general-maintenance/air-conditioning-refrigeration/review.md)
+- smart-systems-surveillance — 14 services [AR](./general-maintenance/smart-systems-surveillance/content-ar.md) · [EN](./general-maintenance/smart-systems-surveillance/content-en.md) · [Review](./general-maintenance/smart-systems-surveillance/review.md)
+- painting — 7 services [AR](./general-maintenance/painting/content-ar.md) · [EN](./general-maintenance/painting/content-en.md) · [Review](./general-maintenance/painting/review.md)
+- waterproofing-thermal-insulation — 7 services [AR](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [EN](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [Review](./general-maintenance/waterproofing-thermal-insulation/review.md)
+
+- Cumulative **20/50 company specialties; 210/434 service sections per language; 3/8 sectors**.

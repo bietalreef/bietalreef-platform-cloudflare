@@ -1,0 +1,16 @@
+{
+  "status": "pass",
+  "primary_assets": 15,
+  "responsive_derivatives": 12,
+  "display_files": 27,
+  "total_primary_bytes": 1239750,
+  "total_display_bytes": 1563396,
+  "original_article_characters": 43357,
+  "original_article_text_preserved": true,
+  "original_tables_preserved": 6,
+  "original_ids_preserved": true,
+  "one_h1": true,
+  "services": 49,
+  "axes": 17,
+  "browser_test": "pending"
+}

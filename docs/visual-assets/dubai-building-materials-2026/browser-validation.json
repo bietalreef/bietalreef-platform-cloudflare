@@ -1,0 +1,10 @@
+{
+  "status": "not_completed",
+  "requested_viewports": [
+    390,
+    1440
+  ],
+  "reason": "No browser binary installed; Playwright Chromium installation failed with download failure (code 1).",
+  "static_checks_are_not_browser_tests": true,
+  "required_before_integration": "Actual rendering, overflow, crop and responsive network selection checks at both viewports."
+}

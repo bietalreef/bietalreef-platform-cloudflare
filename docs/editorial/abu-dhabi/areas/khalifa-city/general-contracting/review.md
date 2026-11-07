@@ -1,7 +1,8 @@
-# Khalifa City — general contracting editorial review
+# مراجعة مدينة خليفة — general-contracting
 
-Status: in_progress. Two specialties drafted and verified: building and villa construction 14/14, restoration and renovation 7/7. Total sector 21/56 bilingual services; four specialties and 35 services remain. Next: demolition and concrete works. Service headings were read back from GitHub and counted (21 Arabic, 21 English). No company availability, prices or official approvals asserted. Independent technical and language review required before publication.
-
-
-## مراجعة حالة الفرع — 7 نوفمبر 2026
-تحقق مباشر بعد قراءة الملفين المحفوظين: 56 عنوان خدمة مرقّمًا بالعربية و56 بالإنجليزية في قطاع المقاولات العامة، من 6 تخصصات. أزيل تكرار عناوين نتج عن تحديث متزامن، وأُعيد التحقق من الأعداد. قطاع المقاولات مكتمل كمسودة، ومدينة خليفة in_progress: 56/434، المتبقي 378 خدمة و7 قطاعات. نقطة الاستئناف الاستشارات الهندسية والتصميم. لا اعتماد للنشر دون مراجعة بشرية.
+- حالة الملفات: مسودة تحريرية مكتملة من حيث التغطية العددية؛ **بانتظار مراجعة تحريرية أصلية وتدقيق فني ولغوي مستقل قبل النشر**.
+- تخصصات الشركات والمنشآت: 6؛ عناوين الخدمات: 56 بالعربية و56 بالإنجليزية؛ أُعيدت قراءة ملفات GitHub للتحقق من عدد العناوين.
+- منهج العمل: الاستفادة من إرشادات الخدمات المحررة سابقًا لبني ياس وإعادة تكييف السياق العام لمدينة خليفة. **لا يُعد ذلك إثباتًا لأصالة صياغة محلية مستقلة لكل خدمة**؛ يلزم تحرير إضافي قبل الموافقة النهائية.
+- يجب مراجعة تطابق أسماء وترتيب الخدمات مع TAXONOMY_SOURCE_AR.md، ومطابقة المعنى بين اللغتين، ومراجعة المعلومات الفنية والتصاريح عند الاقتضاء.
+- قائمة الحرفيين مستقلة عن الشركات؛ ظهور خدمة لا يثبت توافر شركة أو اعتمادها. طلب عرض السعر يُستقبل عبر خدمة عملاء بيت الريف عند غياب الشركات دون ضمان سعر أو تنفيذ.
+- لا نشر ولا تعديل للبيانات الحية أو التصنيفات.

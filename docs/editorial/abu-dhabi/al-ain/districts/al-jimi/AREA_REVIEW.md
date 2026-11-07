@@ -17,7 +17,7 @@
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 4/4 | 24/24 | content_saved |
 | المصانع ومعدات الإيجار (`equipment-rental`) | 8/8 | 53/53 | content_saved |
-| التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 0/8 | 0/42 | pending |
+| التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 8/8 | 42/42 | content_saved |
 
 ## الملفات المكتوبة والمراجعة / Files
 
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: التنظيف والتعقيم ومكافحة الحشرات.
+- جميع القطاعات مكتوبة؛ التحقق النهائي من عدد الملفات، عناوين الخدمات، والروابط مطلوب قبل اعتماد المنطقة.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -106,3 +106,16 @@
 
 - مصانع الألمنيوم والزجاج ومصانع الرخام والحجر ومتاجر الأدوات والمعدات غير قابلة للاختيار حاليًا؛ مصانع الخرسانة والطابوق مقترحة فقط.
 - **42/50 تخصصًا، 392/434 خدمة لكل لغة، 7/8 قطاعات**. يتبقى قطاع التنظيف والتعقيم ومكافحة الحشرات، 8 تخصصات و42 خدمة لكل لغة.
+
+## التنظيف والتعقيم ومكافحة الحشرات — القطاع الثامن
+
+- **homes-buildings-cleaning** — 7 services: [Arabic](./cleaning-services/homes-buildings-cleaning/content-ar.md) · [English](./cleaning-services/homes-buildings-cleaning/content-en.md) · [Review](./cleaning-services/homes-buildings-cleaning/review.md)
+- **upholstery-cleaning** — 7 services: [Arabic](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [Review](./cleaning-services/upholstery-cleaning/review.md)
+- **facades-site-cleaning** — 4 services: [Arabic](./cleaning-services/facades-site-cleaning/content-ar.md) · [English](./cleaning-services/facades-site-cleaning/content-en.md) · [Review](./cleaning-services/facades-site-cleaning/review.md)
+- **tanks-pools-cleaning** — 3 services: [Arabic](./cleaning-services/tanks-pools-cleaning/content-ar.md) · [English](./cleaning-services/tanks-pools-cleaning/content-en.md) · [Review](./cleaning-services/tanks-pools-cleaning/review.md)
+- **pest-rodent-control** — 5 services: [Arabic](./cleaning-services/pest-rodent-control/content-ar.md) · [English](./cleaning-services/pest-rodent-control/content-en.md) · [Review](./cleaning-services/pest-rodent-control/review.md)
+- **disinfection-sanitisation** — 2 services: [Arabic](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [Review](./cleaning-services/disinfection-sanitisation/review.md)
+- **building-facility-operations** — 7 services: [Arabic](./cleaning-services/building-facility-operations/content-ar.md) · [English](./cleaning-services/building-facility-operations/content-en.md) · [Review](./cleaning-services/building-facility-operations/review.md)
+- **workforce-operations** — 7 services: [Arabic](./cleaning-services/workforce-operations/content-ar.md) · [English](./cleaning-services/workforce-operations/content-en.md) · [Review](./cleaning-services/workforce-operations/review.md)
+
+- **Coverage now 8/8 sectors; 50/50 specialties; 434/434 named service sections per language planned and authored.** This report remains `in_progress` until final GitHub tree and content validation complete. No publication or database changes.

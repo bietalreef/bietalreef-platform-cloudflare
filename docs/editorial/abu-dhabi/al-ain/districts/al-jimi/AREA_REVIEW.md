@@ -13,7 +13,7 @@
 | المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved |
 | الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
 | الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved |
-| مواد البناء والتوريد (`building-materials`) | 0/5 | 0/49 | pending |
+| مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 0/5 | 0/56 | pending |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 0/4 | 0/24 | pending |
 | المصانع ومعدات الإيجار (`equipment-rental`) | 0/8 | 0/53 | pending |
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- متبقٍ: ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -62,3 +62,13 @@
 - **waterproofing-thermal-insulation** — 7 services: [AR](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [EN](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [review](./general-maintenance/waterproofing-thermal-insulation/review.md).
 
 - القطاع: 10/10 تخصصات، 105 خدمة لكل لغة. **الإجمالي: 20/50 تخصصًا، 210/434 خدمة لكل لغة، 3/8 قطاعات**. المتبقي: مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+
+## مواد البناء والتوريد — الدفعة الرابعة
+
+- building-finishing-materials: 21 services [AR](./building-materials/building-finishing-materials/content-ar.md) · [EN](./building-materials/building-finishing-materials/content-en.md) · [Review](./building-materials/building-finishing-materials/review.md).
+- timber-panels: 7 services [AR](./building-materials/timber-panels/content-ar.md) · [EN](./building-materials/timber-panels/content-en.md) · [Review](./building-materials/timber-panels/review.md).
+- marble-granite: 7 services [AR](./building-materials/marble-granite/content-ar.md) · [EN](./building-materials/marble-granite/content-en.md) · [Review](./building-materials/marble-granite/review.md).
+- kitchen-countertops: 7 services [AR](./building-materials/kitchen-countertops/content-ar.md) · [EN](./building-materials/kitchen-countertops/content-en.md) · [Review](./building-materials/kitchen-countertops/review.md).
+- ceramic-porcelain: 7 services [AR](./building-materials/ceramic-porcelain/content-ar.md) · [EN](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md).
+
+- **مجموع الجيمي:** 25/50 تخصصات، 259/434 خدمة لكل لغة، 4/8 قطاعات. التخصص الأول مقيّد وغير قابل للاختيار؛ لم يُفعّل.

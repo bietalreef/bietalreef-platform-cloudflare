@@ -1,28 +1,6 @@
-# Review — التصميم الداخلي والمواد — Al Jimi
+# مراجعة — التصميم الداخلي والمواد — الجيمي
 
-- Taxonomy company specialty exactly: التصميم الداخلي والمواد.
-- 21/21 Arabic services and 21/21 paired English services.
-- Per-service technical question, input documents, scope/exclusions, comparison and deliverable review.
-- No design certification, approved permits, available firms, prices or dates implied.
-
-1. تصميم المجالس / تصميم المجالس — Interior design and materials
-2. تصميم غرف المعيشة / تصميم غرف المعيشة — Interior design and materials
-3. تصميم غرف النوم / تصميم غرف النوم — Interior design and materials
-4. تصميم المطابخ / تصميم المطابخ — Interior design and materials
-5. تصميم الحمامات / تصميم الحمامات — Interior design and materials
-6. توزيع الأثاث / توزيع الأثاث — Interior design and materials
-7. إعداد التصور ثلاثي الأبعاد / إعداد التصور ثلاثي الأبعاد — Interior design and materials
-8. تصميم المكاتب / تصميم المكاتب — Interior design and materials
-9. تصميم المتاجر / تصميم المتاجر — Interior design and materials
-10. تصميم المطاعم والمقاهي / تصميم المطاعم والمقاهي — Interior design and materials
-11. تصميم الصالونات / تصميم الصالونات — Interior design and materials
-12. تصميم العيادات / تصميم العيادات — Interior design and materials
-13. تصميم المعارض / تصميم المعارض — Interior design and materials
-14. تصميم مساحات الاستقبال / تصميم مساحات الاستقبال — Interior design and materials
-15. اختيار الأرضيات / اختيار الأرضيات — Interior design and materials
-16. اختيار ألوان الدهانات / اختيار ألوان الدهانات — Interior design and materials
-17. اختيار الرخام والسيراميك / اختيار الرخام والسيراميك — Interior design and materials
-18. اختيار الأثاث / اختيار الأثاث — Interior design and materials
-19. اختيار الإضاءة / اختيار الإضاءة — Interior design and materials
-20. إعداد لوحة المواد / إعداد لوحة المواد — Interior design and materials
-21. إعداد جدول التشطيبات / إعداد جدول التشطيبات — Interior design and materials
+- الحالة: تمت إعادة صياغة 21 خدمة عربية و21 إنجليزية وفق أسماء الشجرة وترتيبها.
+- فحص الأسماء: 1. تصميم المجالس / Majlis design؛ 2. تصميم غرف المعيشة / Living room design؛ 3. تصميم غرف النوم / Bedroom design؛ 4. تصميم المطابخ / Kitchen design؛ 5. تصميم الحمامات / Bathroom design؛ 6. توزيع الأثاث / Furniture layout؛ 7. إعداد التصور ثلاثي الأبعاد / 3D visualisation؛ 8. تصميم المكاتب / Office design؛ 9. تصميم المتاجر / Retail store design؛ 10. تصميم المطاعم والمقاهي / Restaurant and café design؛ 11. تصميم الصالونات / Salon design؛ 12. تصميم العيادات / Clinic design؛ 13. تصميم المعارض / Exhibition design؛ 14. تصميم مساحات الاستقبال / Reception area design؛ 15. اختيار الأرضيات / Flooring selection؛ 16. اختيار ألوان الدهانات / Paint colour selection؛ 17. اختيار الرخام والسيراميك / Stone and tile selection؛ 18. اختيار الأثاث / Furniture selection؛ 19. اختيار الإضاءة / Lighting selection؛ 20. إعداد لوحة المواد / Materials mood board؛ 21. إعداد جدول التشطيبات / Finishes schedule
+- تغطية كل خدمة: الحاجة، صور ومقاسات، نطاق واستثناءات، مقارنة العروض، الاتفاق، الاستلام، طلب عرض السعر.
+- لا ادعاءات بتوفر شركة أو موافقة أو سعر أو موعد. مراجعة الجودة النهائية للمنطقة ما زالت معلقة.

@@ -1,10 +1,8 @@
-# Review — الصيانة العامة — Al Jimi
+# مراجعة تحريرية — الصيانة العامة — الجيمي
 
-- Exact company specialty from source: **الصيانة العامة**.
-- Exact Arabic service labels: 14, paired English headings: 14; same order.
-- Service-specific diagnostic decision, site measurements, inclusions/exclusions, written quotation and handover testing.
-- Regulated safety work requires suitably qualified personnel and appropriate approvals.
-- No company availability, price or schedule claims.
+- الحالة: content_reviewed؛ 14 اسم خدمة عربيًا مطابقًا للشجرة، و14 عنوانًا إنجليزيًا بالتسلسل نفسه.
+- فُصلت الحالات والنطاق والاستثناءات ومعايير المقارنة والاستلام لكل خدمة، مع التنبيه إلى الأعمال التي تحتاج مختصًا.
+- لا إعلان عن شركات أو أسعار أو مواعيد؛ هذا محتوى شركات ومنشآت لا دليل مهنيين.
 
 1. الصيانة الدورية للفلل — Routine villa maintenance
 2. الصيانة الدورية للمباني — Routine building maintenance

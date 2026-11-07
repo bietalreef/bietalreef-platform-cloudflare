@@ -56,25 +56,47 @@
       "name_ar": "بني ياس",
       "name_en": "Baniyas",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
-        "interior-design"
+        "interior-design",
+        "general-maintenance",
+        "building-materials",
+        "aluminium-glass",
+        "furniture-decor",
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md",
         "docs/editorial/abu-dhabi/areas/baniyas/interior-design/content-ar.md",
         "docs/editorial/abu-dhabi/areas/baniyas/interior-design/content-en.md",
         "docs/editorial/abu-dhabi/areas/baniyas/interior-design/review.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-maintenance/content-ar.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-maintenance/content-en.md",
-        "docs/editorial/abu-dhabi/areas/baniyas/general-maintenance/review.md"
+        "docs/editorial/abu-dhabi/areas/baniyas/general-maintenance/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/building-materials/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/building-materials/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/building-materials/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/aluminium-glass/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/aluminium-glass/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/aluminium-glass/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/furniture-decor/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/furniture-decor/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/furniture-decor/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/equipment-rental/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/equipment-rental/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/equipment-rental/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/cleaning-services/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/cleaning-services/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/cleaning-services/review.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Baniyas: general-contracting 56/56; interior-design 49/49; general-maintenance 35/105 (4 specialties). 140/434 bilingual services; 2/8 sectors complete; 294 remain. Resume electrical-and-lighting specialty."
+      "review_note": "Verified on GitHub: Baniyas 8/8 sectors, 50/50 company specialties, 434/434 Arabic and 434/434 English service explanations. All 8 reviews and AREA_REVIEW.md saved; source names/order checked against TAXONOMY_SOURCE_AR.md. Editorial draft completed, pending independent human technical/language review and separate publication; no taxonomy/RLS/live changes.",
+      "completed_at": "2026-11-07"
     },
     {
       "sequence": 2,

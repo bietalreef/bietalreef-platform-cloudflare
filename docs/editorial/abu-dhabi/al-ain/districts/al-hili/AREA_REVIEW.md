@@ -12,7 +12,7 @@
 | --- | ---: | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
-| الصيانة العامة والتشطيبات | 10 | 7 | 77 per language | in_progress |
+| الصيانة العامة والتشطيبات | 10 | 10 | 105 per language | reviewed_content |
 | مواد البناء والتوريد | 5 | 0 | 0 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
@@ -76,3 +76,15 @@ Continue **Al Hili**, continuing with the remaining seven company specialties of
 - Overall: **17/50 company specialties**, **182 service sections per language**, 7/10 maintenance specialties. **Al Hili remains in_progress**.
 - Next: smart systems and surveillance, painting, waterproofing and thermal insulation, then remaining five sectors. Do not advance to Al Jimi.
 - Content files only; no code, database, merge or site publication.
+
+## Maintenance and finishes — verified in run 6
+
+- **smart-systems-surveillance** — 14 services: [Arabic](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [Review](./general-maintenance/smart-systems-surveillance/review.md)
+- **painting** — 7 services: [Arabic](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [Review](./general-maintenance/painting/review.md)
+- **waterproofing-thermal-insulation** — 7 services: [Arabic](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [Review](./general-maintenance/waterproofing-thermal-insulation/review.md)
+
+- 3 additional specialties, 28 services per language, all nine files read back from GitHub; 14/14, 7/7 and 7/7 Arabic and English headings verified.
+- Maintenance and finishes sector complete: **10/10 company specialties, 105 services per language**.
+- Overall Al Hili: **20/50 company specialties, 210 service sections per language, 3/8 sectors**. Status remains **in_progress**.
+- Next: **مواد البناء والتوريد** (5 company specialties), then remaining four sectors. Do not advance to Al Jimi.
+- Editorial content only; no code, database, merge or live publication.

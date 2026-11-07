@@ -91,3 +91,34 @@ Strengthening design follows diagnosis of the defect and verification of existin
 ### 21. Structural engineering reports
 
 Define the report's purpose: crack investigation, change-of-use assessment or a condition record before adjacent works. Supply the location, photos, drawings, dates and earlier findings. The report should separate observations, measurements, assumptions and conclusions, stating test methods, access limits, results and recommendations. Compare offers by visits, testing and required appendices, and obtain a dated, scoped report identifying the responsible professional.
+
+
+## Engineering supervision and consultancy
+
+### 22. Construction supervision
+
+Define the supervisor’s inspection authority, visit frequency and hold points before concealed works, such as reinforcement or service runs, are covered. Supply the current drawings, contractor programme and site contacts. Request visit records, photographs, nonconformance notes and follow-up actions. Compare proposals by actual attendance, reporting and coordination, distinguishing periodic supervision from daily site management. At handover, verify closure of critical observations and the exact work inspected; a report cannot certify unseen work.
+
+### 23. Project management
+
+This service is useful when multiple contractors and suppliers must follow one schedule and a controlled decision process. Provide the baseline budget, contracts, drawings and completion targets. Request a phased programme, responsibility matrix, decision log and risk register. Compare proposals by site presence, variation approval and claims management rather than fee percentage alone. Receive periodic progress, cost forecasts, change records and decisions, while keeping the manager’s role distinct from designer and builder.
+
+### 24. Work quality review
+
+Commission a defined inspection of completed plaster, tiling, waterproofing or building services. Supply contract specifications, approved samples and photographs from earlier stages. The inspector should distinguish visual checks from tests requiring laboratory work or local opening-up, and state acceptance criteria. Compare sample coverage, test methods and reporting. Receive a location-specific defect schedule with evidence and priorities, then arrange reinspection after rectification rather than accepting verbal assurances.
+
+### 25. Project stage acceptance
+
+Inspect a stage before later work conceals it, such as waterproofing before tiling or pipework before walls are closed. Agree the stage, drawings, specifications and necessary tests with the contractor in advance. Compare proposals by inspection visits, reinspection provision and nonconformance recording. Obtain a dated stage record distinguishing accepted, pending and rejected items and identifying work that must remain accessible until corrected.
+
+### 26. Progress report preparation
+
+A useful report measures actual progress against the approved programme instead of presenting photographs alone. Supply the baseline schedule, contract work items, approved quantities and meeting minutes. Request verifiable progress by work package, causes of delay, late materials, decisions required and upcoming risks. Compare providers by visit frequency and supporting evidence. Receive a dated report separating verified work from planned progress and unapproved payment claims.
+
+### 27. Quantity surveying
+
+A quantity take-off needs a fixed drawing revision and agreed measurement rules; structural concrete, paint and joinery use different units and allowances. Provide drawings and specifications and specify whether the output is a preliminary estimate or pricing bill. Compare proposals by item detail, waste assumptions, supply-versus-installation boundaries and treatment of omissions. Accept an auditable schedule linking quantities to drawing references, dimensions, units and stated assumptions.
+
+### 28. Contractor bid review
+
+Make the scope, drawings, specifications, programme and requested payment terms consistent before comparing bids. Ask the reviewer to identify omissions, differing quantities, material substitutions, warranty provisions and exclusions rather than rank headline totals. Compare review services by analysis depth, bidder clarification process and risk assessment. Receive a comparison table with scope-normalised prices and unresolved questions; the lowest initial price is not automatically the strongest offer.

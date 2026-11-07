@@ -69,5 +69,29 @@ Identify cladding, render, coatings, heights and defects around windows and join
 ### Preparing a building for reuse
 Document the old and proposed uses, occupancy, loads, partition layout and service demands. Assess structure, ventilation, electricity, drainage and circulation before quoting alterations. Do not assume a change of use is permitted; appointed specialists should establish applicable approvals. Collect revised drawings and commissioning records at handover.
 
+
+## Demolition and concrete works
+
+### Demolition works
+Identify precisely what must be removed and what must remain, supported by photographs of walls, slabs and connected services. The contractor should review available drawings, adjoining elements, utility isolation and site protection before pricing. Compare temporary support, removal sequence, plant, dust control and debris transport. At handover, inspect retained structures and finishes for unintended damage.
+
+### Removal of buildings and annexes
+Provide the footprint, number of storeys, structural type, equipment access and proximity of neighbouring structures. The estimate must distinguish superstructure removal from foundation removal and specify protection for adjacent walls and paving. Record the agreed demolition limits, inspect final levels and cleared ground, and establish any necessary permissions before work starts.
+
+### Concrete cutting and core drilling
+Mark the opening location, diameter or cut length and element thickness on a drawing, with photographs from both sides where possible. Hidden reinforcement and services must be located, and a qualified professional should assess structural implications where applicable. Compare cutting method, dust or slurry containment and finish protection; verify opening dimensions and edges at completion. Cutting is not, by itself, approval for structural alteration.
+
+### Foundation and footing concrete pours
+Provide structural drawings showing footing sizes, levels, reinforcement and specified concrete strength, together with relevant ground information where required by the design. Clarify excavation, backfill, formwork, waterproofing and testing responsibilities. Inspect reinforcement before placing and verify grid positions, levels, concrete records and curing before subsequent work proceeds.
+
+### Concrete slab pours
+State slab area, thickness, spans, openings and embedded services, with approved structural drawings. The scope should include formwork, propping, reinforcement, placing, curing, testing and engineer-directed striking of supports. Check reinforcement and penetrations before pouring; review test records, honeycombing and dimensional tolerances before accepting the stage.
+
+### Concrete wall construction
+Specify whether the wall is retaining, shear or another structural type, together with its height, thickness, loads and any groundwater exposure. A square-metre price alone misses reinforcement, joints, waterproofing and drainage behind retaining walls. Inspect alignment, joints, concrete finish, curing and the tests required by the project specification.
+
+### Demolition waste removal
+Estimate debris volume and material types; show the loading route, gate width and proposed skip or truck position. Ask whether loading, trips, access protection and final sweeping are included. Segregate materials requiring specialist handling rather than mixing them with ordinary rubble. Confirm acceptable disposal arrangements with the relevant authority and check for sharp remnants at handover.
+
 ## Quotation request checklist
 Send a site plan and available drawings, dimensions or quantities, current-condition photographs, required finish standard, occupancy constraints and procurement scope. Ask for a bill of quantities, exclusions, payment milestones and inspection points. Individual tradespeople belong to a separate classification.

@@ -130,31 +130,31 @@ Before comparing contractor totals, issue one common set of drawings, specificat
 
 ### 29. Majlis design
 
-Specify guest capacity, seating style, hospitality access and privacy; measure wall lengths, ceiling height, doors and AC positions. Compare circulation, seating layouts and cleanable finishes. Receive a dimensioned furniture plan, lighting locations and finish samples.
+Start a majlis design with the hosting pattern: perimeter seating or smaller groups, a serving area, and any separate entrance. Supply clear wall dimensions, window heights, door swings, air-conditioning outlets and photographs of all four corners. Ask for two layouts showing the actual seating capacity, a serving route and unobstructed doors. Compare proposals by their joinery, curtain and lighting details as well as plans, not by attractive renders alone. Check a sample seat depth and table height before approval, and obtain a traceable schedule of fabrics and finishes.
 
 ### 30. Living room design
 
-Start with household use, screen position, storage and daily activities. Record window dimensions, power outlets, viewing distance and circulation. Compare furniture and daylight options; receive a plan showing unobstructed doors and routes.
+A living room may need to support television viewing, children's play, reading and visitors at different times. Record the users, devices to retain, daylight direction and communications points; measure the room depth, doors and balcony opening clearance. Request a plan with sofa-to-table spacing, circulation and storage, plus an alternative that permits later rearrangement. Compare how each proposal deals with screen glare, visible cabling and air-conditioning outlets. Accept a dimensioned furniture plan and socket layout before ordering large pieces.
 
 ### 31. Bedroom design
 
-Set bed size, wardrobe capacity, blackout needs and switch positions. Measure the room, window and door swing. Compare storage and clearances around the bed; receive coordinated wardrobe elevations and electrical and lighting plans.
+For a bedroom, establish the actual mattress size, wardrobe users and whether a desk or child's bed is required. Measure wall projections and door and window swings. The layout must demonstrate access on both sides of the bed and sufficient clearance for drawers and wardrobe doors, rather than relying on a spacious-looking rendering. Compare wardrobe-front materials, reading lights, blackout treatment and cleanable edges. Deliverables should include wardrobe sections, switch and socket levels and fabrication-ready dimensions.
 
 ### 32. Kitchen design
 
-Measure walls and appliances and locate water, drainage and extraction connections. Check working distances, drawer clearance, ventilation and surface resistance to heat and moisture. Compare board thickness and fittings; receive fabrication dimensions and service points.
+A kitchen plan should begin with an appliance inventory and model numbers: refrigerators, ovens, dishwashers and extractors have different clearance and ventilation needs. Supply finished wall measurements, drainage and water points, and gas arrangements if relevant, together with cooking and storage requirements. Ask for a layout showing simultaneous door and drawer openings, preparation space around the sink and hob, and power and extraction points. Compare cabinet carcasses, fronts, hinges, countertops and plumbing separately. Accept shop drawings and sections stating board thickness and moisture-resistant edge treatment; remeasure before cutting.
 
 ### 33. Bathroom design
 
-Measure room levels, drainage, doors and ventilation; choose shower and fixtures. Compare clearances, floor falls, waterproofing junctions and maintenance access. Receive coordinated plumbing and tile drawings identifying waterproofing zones and joints.
+For a bathroom, locate the actual drains, floor falls and available door threshold height before selecting tiles. Photograph the shower, corners and ventilation and measure clearances around the toilet and basin. Request drawings marking waterproofing zones, joints, service access and the interfaces between fittings and wall finishes. Compare slip resistance, cleanability and future access to mixer valves. Review falls and waterproofing details with the installer, and document the agreed tests before concealed layers are covered.
 
 ### 34. Furniture layout planning
 
-Supply actual furniture dimensions and a plan showing doors, windows and sockets. Test arrangements for movement, cabinet access and cleaning; accept a scaled layout rather than symbolic furniture sizes.
+Furniture layout is more than placing attractive shapes on a plan. Collect the actual external dimensions of every retained item, including clearance for opening cabinet doors and pulling chairs back. Mark door swings, sockets, air outlets and columns on a measured plan, then test alternative arrangements against daily movement and sightlines. Compare whether the options reuse existing furniture before proposing purchases. Accept a scaled plan with a furniture schedule and explicit notes on dimensions still needing site confirmation.
 
 ### 35. Interior 3D visualisation
 
-Define rooms, viewpoints and rendering detail; provide plans and material references. Compare the number of views and revision rounds. Receive visuals that communicate design choices, noting that screen colours do not replace physical samples.
+Agree what a 3D visualization is intended to decide: room layout, material approval or presentation to the owner. Provide a scaled plan, actual samples or material codes and photographs of existing light; specify rooms, camera views and revision rounds. Do not compare quotes by image count alone: establish whether changes to furniture geometry, lighting and dimensional accuracy are included. Receive the images with a decision log, distinguishing available specified products from illustrative placeholders. A rendering does not replace electrical, joinery or construction details.
 
 ### 36. Office design
 

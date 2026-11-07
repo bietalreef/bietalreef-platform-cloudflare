@@ -12,7 +12,7 @@
 | --- | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد (`general-contracting`) | 6/6 | 56/56 | content_saved |
 | الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
-| الصيانة العامة والتشطيبات (`general-maintenance`) | 5/10 | 49/105 | in_progress |
+| الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved |
 | مواد البناء والتوريد (`building-materials`) | 0/5 | 0/49 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 0/5 | 0/56 | pending |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 0/4 | 0/24 | pending |
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: الصيانة العامة والتشطيبات؛ مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- متبقٍ: مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -52,3 +52,13 @@
 - electrical-lighting: 14 services, [AR](./general-maintenance/electrical-lighting/content-ar.md), [EN](./general-maintenance/electrical-lighting/content-en.md), [review](./general-maintenance/electrical-lighting/review.md).
 
 - مجموع المنطقة حاليًا: **15/50 تخصصات و154/434 خدمة لكل لغة**. المتبقي في قطاع الصيانة: السباكة وكشف التسربات؛ التكييف والتبريد؛ الأنظمة الذكية والمراقبة؛ الدهانات؛ العزل المائي والحراري. (راجع الأرقام الفعلية للشجرة: في القطاع 10 تخصصات، وقد عولجت الخمسة الأولى.)
+
+## الصيانة العامة والتشطيبات — إغلاق القطاع الثالث
+
+- **plumbing-leak-detection** — 14 services: [AR](./general-maintenance/plumbing-leak-detection/content-ar.md) · [EN](./general-maintenance/plumbing-leak-detection/content-en.md) · [review](./general-maintenance/plumbing-leak-detection/review.md).
+- **air-conditioning-refrigeration** — 14 services: [AR](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [EN](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [review](./general-maintenance/air-conditioning-refrigeration/review.md).
+- **smart-systems-surveillance** — 14 services: [AR](./general-maintenance/smart-systems-surveillance/content-ar.md) · [EN](./general-maintenance/smart-systems-surveillance/content-en.md) · [review](./general-maintenance/smart-systems-surveillance/review.md).
+- **painting** — 7 services: [AR](./general-maintenance/painting/content-ar.md) · [EN](./general-maintenance/painting/content-en.md) · [review](./general-maintenance/painting/review.md).
+- **waterproofing-thermal-insulation** — 7 services: [AR](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [EN](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [review](./general-maintenance/waterproofing-thermal-insulation/review.md).
+
+- القطاع: 10/10 تخصصات، 105 خدمة لكل لغة. **الإجمالي: 20/50 تخصصًا، 210/434 خدمة لكل لغة، 3/8 قطاعات**. المتبقي: مواد البناء والتوريد؛ ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.

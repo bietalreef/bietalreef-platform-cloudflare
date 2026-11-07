@@ -129,3 +129,12 @@
 - تم تحديث الملفات الثلاثة والتحقق من إعادة قراءتها من GitHub: [العربية](./general-contracting/demolition-concrete/content-ar.md)، [English](./general-contracting/demolition-concrete/content-en.md)، [المراجعة](./general-contracting/demolition-concrete/review.md).
 - الحالة الإجمالية: `in_progress`. التخصصات المحررة الآن: 3 من 50. المتبقي 47 تخصصًا يحتاج تحريرًا وتدقيقًا ثنائي اللغة، ثم مراجعة شاملة للخدمات الـ434 في كل لغة.
 - نقطة الاستئناف الدقيقة: `general-contracting/landscaping/content-ar.md` ثم `content-en.md` ثم `review.md`، وبعدها `general-contracting/irrigation-networks` و`general-contracting/shade-outdoor-works` ثم بقية فهرس المنطقة بالترتيب.
+
+## تحديث تدقيق المحتوى — تنسيق الحدائق وشبكات الري (2026-11-07)
+
+- الحالة العامة: `in_progress`، لا يُعتمد اكتمال الجيمي.
+- أُعيدت كتابة **تنسيق الحدائق وصيانتها**: 14 خدمة بالعربية و14 بالإنجليزية، مع تحديث [العربية](./general-contracting/landscaping/content-ar.md) و[الإنجليزية](./general-contracting/landscaping/content-en.md) و[المراجعة](./general-contracting/landscaping/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub بعد الرفع.
+- أُعيدت كتابة **شبكات الري**: 7 خدمات بالعربية و7 بالإنجليزية، مع تحديث [العربية](./general-contracting/irrigation-networks/content-ar.md) و[الإنجليزية](./general-contracting/irrigation-networks/content-en.md) و[المراجعة](./general-contracting/irrigation-networks/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub بعد الرفع.
+- المحرر حتى الآن: **5 تخصصات من 50**. المتبقي **45 تخصصًا** لتحرير المحتوى الثنائي اللغة، ثم تدقيق نهائي للخدمات الـ434 في كل لغة. الملفات الموجودة مسبقًا ليست اعتمادًا لجودة النص.
+- **نقطة الاستئناف الأولى الدقيقة:** `general-contracting/shade-outdoor-works/content-ar.md`، ثم `content-en.md` و`review.md`. بعد ذلك `interior-design/architectural-plans` وبقية التخصصات حسب فهرس المنطقة، دون تجاوز أي خدمة.
+- التخصصان المحدثان غير قابلين للاختيار حاليًا؛ النصوص معلومات تحضيرية وليست إعلانًا عن تفعيل أو توفر شركة.

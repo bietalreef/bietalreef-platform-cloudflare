@@ -269,3 +269,183 @@ Identify potable or non-potable use, tank substrate, cracks and entry access. Sp
 
 Record mould, peeling, dates and the suspected moisture source, then repair the leak before drying surfaces. Compare drying period, moisture checks, salt treatment and repainting; require recorded observations, not merely concealed stains.
 
+
+## Air-conditioning and refrigeration
+
+### 64. Split AC installation
+
+Match unit capacity to the room, solar exposure and indoor/outdoor positions, noting pipe route and condensate outlet. Compare mounting, insulated lines, evacuation and commissioning; verify cooling and condensate discharge without leaks.
+
+### 65. Central AC installation
+
+Central cooling needs room-by-room load estimates, duct routes, access for maintenance and condensate disposal. Compare equipment, controls, filters, noise and electrical demand; request airflow balancing and temperature readings by zone.
+
+### 66. Concealed AC installation
+
+Verify ceiling void heights, concealed unit envelope, supply and return positions and maintenance openings. Compare insulation, suspension and drain slope; check filter access and absence of condensation on plaster.
+
+### 67. AC refrigerant piping
+
+Mark copper-line lengths, elevation changes, penetrations and the refrigerant specified for the unit. Compare line sizing, insulation, supports, leak testing and evacuation; inspect before any concealed run is closed.
+
+### 68. Air duct installation
+
+Coordinate duct sections, structural beams, lights, diffusers and returns before fabrication. Compare sheet thickness, insulation, hangers and joint sealing; request balancing and noise observations appropriate to the job.
+
+### 69. AC equipment replacement
+
+Record the old model, fault symptoms, capacity, available space and which services can safely be reused. Compare repair versus replacement, removal and connection adaptations; obtain equipment warranty and commissioning report.
+
+### 70. System start-up and inspection
+
+Inspect start-up sequence, sensors, electrical draw, airflow, drainage and filters after installation or repair. Request readings under actual operation and a fault list; fan noise alone does not demonstrate performance.
+
+### 71. AC unit cleaning
+
+Identify whether filters, coil, blower or drain pan need cleaning and photograph dust or mould deposits. Compare cleaning products and protection for electronics and furnishings; inspect drainage and cleanliness before restart.
+
+### 72. Refrigerant charge
+
+Poor cooling does not automatically mean low refrigerant: check airflow, filters, pressure and leaks first. Compare diagnosis, leak repair and charging by manufacturer specification; require operating readings, not arbitrary topping-up.
+
+### 73. AC fault repair
+
+Faults may involve a capacitor, controller, sensor or compressor; record the error code and when it occurs. Compare component repair and replacement with warranty terms; repeat operating cycles to check the defect is resolved.
+
+### 74. Air duct cleaning
+
+List outlets, inspection access, duct type and filter condition; photograph deposits before cleaning. Compare containment, extraction and access to hidden sections; request before-and-after evidence without unsupported sterilisation claims.
+
+### 75. Central AC maintenance
+
+Inventory central units, pumps, filters, controllers, running hours and failures. Compare preventive tasks, visit frequency and excluded parts; require trends and an unresolved-fault register.
+
+### 76. Replacement of spare parts
+
+Obtain model and part numbers, connector photographs and fault evidence before ordering. Compare OEM or compatible approved alternatives and lead time; test the repaired function after fitting.
+
+### 77. Periodic AC maintenance contracts
+
+List unit numbers, locations, use patterns and required seasonal service levels. Compare visit schedules, emergency scope, cleaning, consumables and reporting; review fault trends instead of visit counts alone.
+
+
+## Smart systems and site monitoring
+
+### 78. Smart lighting control
+
+Identify lighting circuits and whether wall switches must remain usable without internet access. Compare dimmer/load compatibility, connectivity and manual override; test each circuit from both switch and app.
+
+### 79. Smart air-conditioning control
+
+List AC models, controllers and sensors and define temperature schedules for each room. Compare interface compatibility, local control and network failure behaviour; verify on/off and mode changes.
+
+### 80. Smart lock installation
+
+Measure door thickness, swing, cylinder type and emergency access before selecting a smart lock. Compare battery life, user permissions and administration; test inside/outside release and low-battery access.
+
+### 81. Smart curtain installation
+
+Specify opening width, curtain weight, power location, track path and manual-use requirement. Compare motor rating, noise and controls; inspect obstacle response and maintenance access.
+
+### 82. Phone app device integration
+
+Inventory device makes, firmware, home network and accounts to be linked. Compare genuine compatibility and access permissions; hand over owner-controlled accounts with recovery instructions.
+
+### 83. Automated smart scenes
+
+Define concrete scenes such as leaving home or bedtime and which devices each may control. Compare safeguards, offline behaviour and manual overrides; test scene transitions without overriding essential equipment.
+
+### 84. Smart-home maintenance
+
+Log intermittent failures, connectivity, configuration backups, sensor batteries and hub health. Compare targeted diagnosis with indiscriminate resets; preserve client settings and retest scenes after repair.
+
+### 85. CCTV installation
+
+Map camera positions, mounting heights, fields of view, lighting, privacy and cable routes. Compare resolution, storage and safe mounting; inspect day/night footage without monitoring unrelated private spaces.
+
+### 86. Recording equipment installation
+
+Identify camera count, recording rate, retention needs, disk capacity and ventilation. Compare storage, backup power and access controls; demonstrate secure search and export of recorded footage.
+
+### 87. Alarm system installation
+
+Map doors, windows and monitored spaces and plan for nuisance alarms. Compare batteries, communications and notification channels; test each sensor without promising third-party response that is not contracted.
+
+### 88. Access control installation
+
+Specify controlled doors, user groups, permitted hours, audit needs and emergency release. Compare card or PIN readers, lock interfaces and privacy safeguards; test authorised and rejected access.
+
+### 89. Intercom installation
+
+Photograph outdoor station, indoor handset locations, gate and cable/network routes. Compare audio/video quality, door release and integration; test every endpoint and document reset procedures.
+
+### 90. CCTV maintenance
+
+Record blurred images, outages, missing footage and fault timings; check power, cabling and storage. Compare camera replacement against connection repairs; verify image quality, continuous recording and reboot recovery.
+
+### 91. Remote phone viewing setup
+
+Identify remote viewers, recorder model, connectivity and two-factor authentication. Prefer secure integration over indiscriminate port forwarding; hand over owner login, access alerts and revoke installer access.
+
+
+## Painting and surface finishes
+
+### 92. Villa painting
+
+Measure wall and ceiling areas, rooms, furniture and existing paint condition before deciding coat counts. Compare filling, primer, paint, masking and protection as separate items; inspect dry colour consistency and clean edges.
+
+### 93. Apartment painting
+
+Document cracks, stains and areas not requiring repainting, especially in occupied apartments. Compare furniture protection, ventilation and suitable low-odour materials; inspect stain treatment and floor protection.
+
+### 94. Exterior building painting
+
+Survey façade peeling, chalking, cracks and water/sun exposure, including access height. Compare washing, exterior primer, crack treatment and access equipment; inspect adhesion and absence of drips.
+
+### 95. Door and wood painting
+
+Count doors and timber items, identify existing coating and whether hardware removal is needed. Compare sanding, compatible primers and topcoats; check smooth finish and doors closing without sticking.
+
+### 96. Decorative painting
+
+Approve a real texture sample and technique such as trowelled or textured paint before pricing the full area. Compare sample costs, material use and future repairability; inspect texture and hue under installed lighting.
+
+### 97. Old paint removal and preparation
+
+Determine whether old paint is peeling, sound or moisture-damaged rather than stripping indiscriminately. Compare selective removal, dust protection and substrate repair; verify a dry, stable surface ready for primer.
+
+### 98. Repainting and maintenance
+
+Photograph scratches and stains, and identify existing colour code and paint system. Compare local touch-up with full-wall repainting to avoid sheen mismatch; inspect colour blending and invisible repair boundaries.
+
+
+## Waterproofing and thermal insulation
+
+### 99. Roof waterproofing
+
+Map concrete surfaces, drains, ponding and movement joints around plant plinths before selecting a membrane. Compare removal of failed layers, preparation and protection; verify drainage and watertight junction details.
+
+### 100. Bathroom waterproofing
+
+Map shower area, drains, threshold and wall upstands before waterproofing. Compare tile-compatible systems and pipe-penetration details; arrange an agreed flood test before finishes are laid.
+
+### 101. Tank waterproofing
+
+Identify water use, tank substrate, cracks, joints, level and safe entry requirements. Compare product suitability for the stored water and cleaning/drying procedure; receive a holding test and material record.
+
+### 102. Building thermal insulation
+
+Record roof/wall build-up, solar exposure, available space, thermal bridges and condensation risks. Compare thickness, thermal performance, moisture response and continuity; inspect junctions without blocking necessary ventilation.
+
+### 103. External wall insulation
+
+Survey façade substrate, cracks, openings, balcony fixings and safe access. Compare external insulation or appropriate coating solutions against design requirements and moisture behaviour; inspect window and edge junctions.
+
+### 104. Rainwater ingress treatment
+
+Relate water marks to rainfall, wind direction, gutters, joints and window openings. Compare targeted water testing and entry-point sealing rather than indiscriminate repainting; verify a suitable repeat test.
+
+### 105. Waterproofing maintenance
+
+Review membrane age, stains, blisters, cuts around drains and movement points. Compare patch repairs with renewal of a failed section based on condition; document repair details, tests and monitoring.
+

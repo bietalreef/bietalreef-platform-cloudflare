@@ -134,7 +134,7 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Independently revised interior-design services 1-28 AR/EN; readback confirms 49 sequential headings per language. Next service 29, majlis design; 21 services remain in sector and seven other sectors require originality review. No approval or deployment.",
+      "review_note": "Independently revised interior-design services 1-35 AR/EN; GitHub readback verified 49 sequential headings per language. Next service 36 (office design); 14 services remain in this sector and seven other sectors require originality review. In progress; no approval or deployment.",
       "editorial_progress": {
         "sector": "interior-design",
         "specialty": "التصميم الداخلي والمواد",
@@ -166,10 +166,17 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 21,
+        "next_service_number": 36,
+        "remaining_in_sector": 14,
         "sector_total": 49,
         "area_total": 434,
         "area_editorially_approved": false

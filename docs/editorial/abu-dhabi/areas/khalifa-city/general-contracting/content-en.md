@@ -5,48 +5,46 @@ Editorial guidance for company and establishment enquiries, not a claim that any
 ## Building and villa construction
 
 ### 1. Villa construction
-Specify plot and built-up areas, storeys and room schedule, with approved drawings if available. Separate structure, finishes and external services in measured quantities; compare programme, materials, testing and warranties, and record inspections before work is concealed.
+For a new villa, assemble the plot plan, setbacks and required floor areas, distinguishing built-up area from plot area. Have contractors price foundations, structure, waterproofing, services and finishes separately, and clarify design coordination. Record reinforcement inspections before pours and waterproofing and pressure tests; handover should include commissioning, defects and warranties rather than a visual walk-through alone.
 
 ### 2. Residential building construction
-Describe unit count, parking, lifts and service rooms. Ask how the main contractor coordinates specialist systems and how waterproofing and concealed services will be inspected. Compare measurable scopes rather than unqualified lump sums.
+For a multi-unit residential building, specify apartment numbers and layouts, entrances, parking, meter rooms and service spaces. Drawings should show common areas, maintenance access and acoustic and water separation between units; the bill of quantities should separate shared works from apartment fit-out. Compare testing and any lift commissioning, then collect operating records, common-area keys and as-built drawings.
 
 ### 3. Commercial building construction
-Describe intended use, operating loads, storage, reception and delivery access. Require coordinated architectural, structural and building-services drawings before pricing; inspect utility connection points and future maintenance access at handover.
+Define the intended commercial uses, sales, storage and loading areas before seeking a building quote: their operating requirements differ from housing. Supply expected equipment loads and ventilation, electrical and water points for professional design review. Compare shell-and-core scope with tenant fit-out, and inspect maintenance access, drainage and electrical distribution at handover.
 
 ### 4. Building works execution
-Identify whether blockwork, concrete or mixed construction is needed and provide lengths, heights and openings. Compare materials, access equipment, protection and waste removal; check dimensions, plumbness and openings before plastering.
+For partial masonry works, send a drawing with wall lengths, heights and door or window openings, plus photographs of connections to the existing structure. Clarify whether blocks, mortar, lintels, access equipment and waste removal are included or whether labour alone is priced. Check wall lines, plumb and opening sizes before services and plastering, recording departures from the drawing.
 
 ### 5. Concrete works execution
-Supply foundation, column and slab drawings, pour sequence and available ground information. Require formwork, reinforcement, construction-joint, curing and sampling provisions appropriate to the design. Record reinforcement inspections before casting.
+Concrete work cannot be priced by cubic metres alone: provide element details, specified grade, pour locations and pump access. Define who supplies formwork, reinforcement, ready-mix, sampling, curing and striking. Before each pour inspect dimensions, cover, steel and embedded services; afterwards review delivery and test records and have any defects assessed by the responsible professional.
 
 ### 6. Structural frame construction
-Identify structural system, levels, stairs and major openings. Quotations should cover foundations, columns, slabs, tests and consultant hold points. Compare schedules and how drawing revisions affect measured quantities.
+For a structure-only contract, define the boundaries: excavation, foundations, columns, slabs, stairs and associated structural waterproofing. Provide structural drawings, reinforcement schedules, openings and pour sequence; require a programme that allows for curing and support removal. Compare steel, concrete, formwork and tests rather than a lump sum, and sign off each level before subsequent trades start.
 
 ### 7. Turnkey project delivery
-Define exactly whether design, permits, structure, finishes, kitchens, air conditioning and external works are included. Identify provisional sums and owner-selected products, agree variation procedures, and collect as-built drawings, test records, warranties and snag closure evidence.
+Turnkey is not a scope definition. Use a schedule to assign design, applications, structure, AC, plumbing, kitchen, cabinetry and external works, with explicit allowances for owner-selected finishes. Link payments to inspectable milestones and record how variations affect cost and time. Require commissioning, warranties, final drawings and a defects list before acceptance.
 
 ### 8. New villa building
-State space priorities, indicative budget and the extent of site and annex works. Compare bidders against the same drawings and finish specifications; approve samples and check foundation, waterproofing and commissioning records at handover.
+When comparing new-villa bids, issue identical drawings and a finishes schedule naming flooring, doors and equipment rather than saying 'premium finish'. Check exclusions such as boundary walls, external connections and landscaping, and reconcile excavation and foundation quantities to the drawings. Record approved samples and waterproofing, cooling and water-system tests before final handover.
 
 ### 9. Residential annex construction
-Describe the annex use, dimensions, relationship to the existing building and water, power and drainage connections. Assess excavation and connection effects on existing foundations and services; do not assume additions are permitted without appropriate professional and authority review. Inspect junctions and waterproofing.
+For an annex beside an existing villa, show its position, boundaries, separation from the house, entrances and nearby service connections. Foundation interaction, ground movement and joints may need professional assessment; do not remove load-bearing elements without it. Compare excavation, backfill, connections, waterproofing, finishes and drainage, and inspect the junctions and service tests at handover.
 
 ### 10. External majlis construction
-Specify seating capacity, toilets, supporting kitchen, guest access and AC locations. Compare ceiling heights, acoustic and thermal treatment and durable finishes; test cooling, drainage, lighting and entrance doors before acceptance.
+An outdoor majlis needs a functional brief before décor choices: seating capacity, entrances, toilets, hospitality area and privacy. Specify room dimensions, ceiling height and AC and drainage routes; compare thermal and acoustic insulation and durable flooring. At handover run the cooling, doors, lighting and drainage and check that finishes can be cleaned and maintained.
 
 ### 11. Villa extensions
-Provide existing plans and photographs and identify walls to be removed. Obtain structural assessment of load paths and foundation and roof connections; compare strengthening and protection of occupied areas, and document concealed work before finishing.
+For a new room, floor or side extension, do not assume the existing structure has spare capacity. Supply as-built information and available foundation or slab photographs, identifying occupied areas. A qualified engineer should assess loads and connections and the protection required for residents. Compare strengthening, new services, joints and waterproofing, documenting concealed connections before finishes cover them.
 
 ### 12. Residential building alterations
-Distinguish non-structural interior changes from wall removal, change of use or major service alterations. Request before-and-after plans and a schedule of safety and service impacts, with regulatory review where applicable; receive test results and final alteration drawings.
+Distinguish relocating an internal doorway or service route from removing a potentially load-bearing wall. Prepare before-and-after drawings, photographs, opening sizes and electrical, water and AC locations. Ask a qualified professional to identify structural checks or approvals where applicable. Compare demolition, new services, finishes and testing separately, and inspect against the final drawing rather than verbal instructions.
 
 ### 13. Villa restoration
-Begin with a defect survey covering cracks, dampness, damaged concrete and finishes and their possible causes. Compare source remediation, repair and reinstatement separately, seeking specialist assessment for structural warning signs; inspect repaired performance, not appearance alone.
+Restoration begins with diagnosis: is dampness caused by leakage or condensation, and is a crack in plaster or a structural member? Photograph defects with a size reference and describe their history and earlier repairs. Require separate pricing for investigation, source correction, damaged material repair and refinishing, with engineering assessment where structural damage is suspected. Do not accept repainting without checking moisture and repair results.
 
 ### 14. Residential building renovation
-Identify occupied units, access windows and protection of residents, lifts and corridors. Require phased removal, services replacement and finishing, with shutdown and waste records. Accept each area against a snag list and functional tests.
-
-## Restoration and renovation
+For refurbishment of an occupied residential building, list affected flats, corridors, lifts and services, working hours and material or waste routes. Request a phased plan protecting residents and scheduling water, power and cooling interruptions; compare repeatable apartment items separately from shared works. Inspect each area in turn, test systems and close residents' defects with documented sign-off.
 
 ### 15. Restoration of older buildings
 

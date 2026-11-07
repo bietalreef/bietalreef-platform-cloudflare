@@ -122,3 +122,10 @@
 - **المجموع المحرر في هذه الدفعة:** 21 مدخل خدمة عربي و7 إنجليزي، إضافة إلى ملفات المراجعة. هذا لا يعني اكتمال مراجعة الجيمي.
 - **نقطة الاستئناف الإلزامية:** `general-contracting/demolition-concrete/content-ar.md` ثم `content-en.md` ثم `review.md`؛ تليها `general-contracting/landscaping` ثم `irrigation-networks` ثم `shade-outdoor-works`، ثم بقية التخصصات حسب الفهرس أعلاه، مع معالجة التكرار الفعلي في كل خدمة.
 - **المتبقي:** تدقيق وتحرير 48 تخصصًا (محتواها العربي والإنجليزي ومراجعاتها)؛ وإجراء مراجعة اتساق نهائية للـ50 تخصصًا و434 خدمة بكل لغة قبل تحويل الحالة إلى complete. الملفات موجودة لكن الجودة التحريرية لم تُعتمد بعد.
+
+## تحديث التحرير — الهدم والأعمال الخرسانية (2026-11-07)
+
+- أعيد تحرير الخدمات السبع في اللغتين بالكامل مع فصل نطاق الهدم عن الصب والترحيل وتحديد صور القياس والفحص والاستثناءات لكل خدمة.
+- تم تحديث الملفات الثلاثة والتحقق من إعادة قراءتها من GitHub: [العربية](./general-contracting/demolition-concrete/content-ar.md)، [English](./general-contracting/demolition-concrete/content-en.md)، [المراجعة](./general-contracting/demolition-concrete/review.md).
+- الحالة الإجمالية: `in_progress`. التخصصات المحررة الآن: 3 من 50. المتبقي 47 تخصصًا يحتاج تحريرًا وتدقيقًا ثنائي اللغة، ثم مراجعة شاملة للخدمات الـ434 في كل لغة.
+- نقطة الاستئناف الدقيقة: `general-contracting/landscaping/content-ar.md` ثم `content-en.md` ثم `review.md`، وبعدها `general-contracting/irrigation-networks` و`general-contracting/shade-outdoor-works` ثم بقية فهرس المنطقة بالترتيب.

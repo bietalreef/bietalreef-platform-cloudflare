@@ -16,7 +16,7 @@
 | مواد البناء والتوريد | 5 | 5 | 49 per language | reviewed_content |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 5 | 56 per language | reviewed_content |
 | الأثاث والمفروشات والتجهيز | 4 | 4 | 24 per language | reviewed_content |
-| المصانع ومعدات الإيجار | 8 | 0 | 0 | pending |
+| المصانع ومعدات الإيجار | 8 | 8 | 53 per language | reviewed_content |
 | التنظيف والتعقيم ومكافحة الحشرات | 8 | 0 | 0 | pending |
 
 ## Verified editorial files
@@ -128,3 +128,11 @@ Continue **Al Hili** with the five workshop specialties, followed by furniture, 
 - [Furniture manufacturing](./furniture-decor/furniture-manufacturing/review.md) · [Stores](./furniture-decor/furniture-shops/review.md) · [Majlis and upholstery](./furniture-decor/majlis-upholstery/review.md) · [Curtains, rugs and furnishings](./furniture-decor/curtains-carpets-furnishings/review.md).
 - The first two categories are non-selectable; the latter two are proposed, not active listings.
 - Cumulative **34/50 specialties and 339 services per language, 6/8 sectors**. **in_progress**: complete factories/equipment (8) and cleaning/pest-control (8) before Al Jimi.
+
+
+## Factories, rental and transport — direct continuation
+
+- All eight company specialties now covered, 53 named services in each language. All 24 new markdown files read back from the branch, and all bilingual heading counts match the taxonomy.
+- [Construction and lifting hire](./equipment-rental/construction-lifting-equipment/review.md) · [Light tool hire](./equipment-rental/light-tools-rental/review.md) · [Aluminium/glass factories](./equipment-rental/aluminium-glass-factories/review.md) · [Marble/stone factories](./equipment-rental/marble-stone-factories/review.md) · [Equipment stores](./equipment-rental/tools-equipment-stores/review.md) · [Property moving](./equipment-rental/property-moving/review.md) · [Project transport](./equipment-rental/project-material-transport/review.md) · [Cement/block factories](./equipment-rental/concrete-block-factories/review.md).
+- Source-restricted factory/store specialties and the proposed cement/block factory category are informational only, not a publication/activation claim.
+- Cumulative **42/50 company specialties, 392 named services per language, 7/8 sectors**. **in_progress** until all 8 cleaning and pest-control specialties are authored, read back and audited.

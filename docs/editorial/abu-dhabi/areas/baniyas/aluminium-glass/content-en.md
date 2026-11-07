@@ -236,3 +236,10 @@ Record metal type, thickness, defect and whether the weld is structural or a non
 
 Photograph rust, distortion, failed hinges and weld damage, noting hazards. Compare repair, reinforcement and renewal for safety and cost; test function and coating after work.
 
+
+
+## Workshop fabrication quotation brief
+
+Provide site-verified dimensions for every unit, opening direction, wall condition, load points, glass/timber/metal type, finish and accessories. Ask for approved shop drawings and samples, and allocate lifting, transport, fitting, edges, anchors and reinstatement. Fall-protection glazing, structural metalwork and fire-rated assemblies require competent design and system review. Customer support can receive a quotation request even without a listed workshop.
+
+**Common question:** Are dimensions estimated from photos enough? No; small measurement errors can make doors or glass unusable. Verify on site before final cutting.

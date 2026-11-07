@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — seven sectors authored; one sector outstanding.
+- Status: **in_progress** — all eight sectors authored; verification and independent quality audit pending.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,7 +13,7 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **42/50 specialties; 392/434 services per language; 7/8 sectors**.
+- Current coverage: **50/50 specialties; 434/434 services per language; 8/8 sectors**.
 - Missing: cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
@@ -76,3 +76,15 @@
 - concrete-block-factories: 4 services [AR](./equipment-rental/concrete-block-factories/content-ar.md) · [EN](./equipment-rental/concrete-block-factories/content-en.md) · [Review](./equipment-rental/concrete-block-factories/review.md)
 
 - Four source-restricted/proposed factory/store specialties remain informational only; cumulative 42/50 specialties and 392/434 service sections each language (7 sectors).
+
+## التنظيف والتعقيم ومكافحة الحشرات
+- تنظيف المنازل والمباني (homes-buildings-cleaning): 7 services [AR](./cleaning-services/homes-buildings-cleaning/content-ar.md) · [EN](./cleaning-services/homes-buildings-cleaning/content-en.md) · [Review](./cleaning-services/homes-buildings-cleaning/review.md)
+- تنظيف المفروشات (upholstery-cleaning): 7 services [AR](./cleaning-services/upholstery-cleaning/content-ar.md) · [EN](./cleaning-services/upholstery-cleaning/content-en.md) · [Review](./cleaning-services/upholstery-cleaning/review.md)
+- تنظيف الواجهات والمواقع (facades-site-cleaning): 4 services [AR](./cleaning-services/facades-site-cleaning/content-ar.md) · [EN](./cleaning-services/facades-site-cleaning/content-en.md) · [Review](./cleaning-services/facades-site-cleaning/review.md)
+- تنظيف الخزانات والمسابح (tanks-pools-cleaning): 3 services [AR](./cleaning-services/tanks-pools-cleaning/content-ar.md) · [EN](./cleaning-services/tanks-pools-cleaning/content-en.md) · [Review](./cleaning-services/tanks-pools-cleaning/review.md)
+- مكافحة الحشرات والقوارض (pest-rodent-control): 5 services [AR](./cleaning-services/pest-rodent-control/content-ar.md) · [EN](./cleaning-services/pest-rodent-control/content-en.md) · [Review](./cleaning-services/pest-rodent-control/review.md)
+- التطهير والتعقيم (disinfection-sanitisation): 2 services [AR](./cleaning-services/disinfection-sanitisation/content-ar.md) · [EN](./cleaning-services/disinfection-sanitisation/content-en.md) · [Review](./cleaning-services/disinfection-sanitisation/review.md)
+- تشغيل وصيانة المباني (building-facility-operations): 7 services [AR](./cleaning-services/building-facility-operations/content-ar.md) · [EN](./cleaning-services/building-facility-operations/content-en.md) · [Review](./cleaning-services/building-facility-operations/review.md)
+- خدمات العمالة والتشغيل (workforce-operations): 7 services [AR](./cleaning-services/workforce-operations/content-ar.md) · [EN](./cleaning-services/workforce-operations/content-en.md) · [Review](./cleaning-services/workforce-operations/review.md)
+
+- 8/8 sectors, 50/50 specialties and 434 named services per language have been drafted and uploaded. Status remains in_progress until read-back and inventory verification; separate detailed editorial sign-off is outstanding.

@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — five sectors authored; remaining three sectors outstanding.
+- Status: **in_progress** — six sectors authored; remaining two sectors outstanding.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,8 +13,8 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **30/50 specialties; 315/434 services per language; 5/8 sectors**.
-- Missing: furnishing, factories/equipment, cleaning/pest-control.
+- Current coverage: **34/50 specialties; 339/434 services per language; 6/8 sectors**.
+- Missing: factories/equipment, cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
 ## الاستشارات الهندسية والتصميم والديكور
@@ -56,3 +56,11 @@
 - metal-fabrication: 7 services [AR](./aluminium-glass/metal-fabrication/content-ar.md) · [EN](./aluminium-glass/metal-fabrication/content-en.md) · [Review](./aluminium-glass/metal-fabrication/review.md)
 
 - Cumulative 30/50 specialties; 315/434 service sections per language; 5/8 sectors.
+
+## الأثاث والمفروشات والتجهيز
+- furniture-manufacturing — 7 services [AR](./furniture-decor/furniture-manufacturing/content-ar.md) · [EN](./furniture-decor/furniture-manufacturing/content-en.md) · [Review](./furniture-decor/furniture-manufacturing/review.md)
+- furniture-shops — 7 services [AR](./furniture-decor/furniture-shops/content-ar.md) · [EN](./furniture-decor/furniture-shops/content-en.md) · [Review](./furniture-decor/furniture-shops/review.md)
+- majlis-upholstery — 5 services [AR](./furniture-decor/majlis-upholstery/content-ar.md) · [EN](./furniture-decor/majlis-upholstery/content-en.md) · [Review](./furniture-decor/majlis-upholstery/review.md)
+- curtains-carpets-furnishings — 5 services [AR](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [EN](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [Review](./furniture-decor/curtains-carpets-furnishings/review.md)
+
+- Four specialties are preparatory (two non-selectable and two proposed). 34/50 specialties, 339/434 service sections each language, six sectors.

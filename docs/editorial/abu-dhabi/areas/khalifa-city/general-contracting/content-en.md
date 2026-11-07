@@ -78,3 +78,130 @@ Before a vacant building takes on a new use, document electrical, water, AC and 
 
 ## Request a quotation through Biet Alreef
 Supply the project location, property type, plans or photographs, approximate dimensions, whether structure, finishes or full delivery are required, expected materials and preferred survey window. If no company is listed, Biet Alreef customer service may receive the enquiry without guaranteeing a provider, price or appointment. Individual tradespeople are listed separately from companies and establishments.
+
+## Demolition, concrete and subsequent specialties
+
+### 22. Demolition works
+Identify precisely what must be removed and what must remain, supported by photographs of walls, slabs and connected services. The contractor should review available drawings, adjoining elements, utility isolation and site protection before pricing. Compare temporary support, removal sequence, plant, dust control and debris transport. At handover, inspect retained structures and finishes for unintended damage.
+
+### 23. Removal of buildings and annexes
+Provide the footprint, number of storeys, structural type, equipment access and proximity of neighbouring structures. The estimate must distinguish superstructure removal from foundation removal and specify protection for adjacent walls and paving. Record the agreed demolition limits, inspect final levels and cleared ground, and establish any necessary permissions before work starts.
+
+### 24. Concrete cutting and core drilling
+Mark the opening location, diameter or cut length and element thickness on a drawing, with photographs from both sides where possible. Hidden reinforcement and services must be located, and a qualified professional should assess structural implications where applicable. Compare cutting method, dust or slurry containment and finish protection; verify opening dimensions and edges at completion. Cutting is not, by itself, approval for structural alteration.
+
+### 25. Foundation and footing concrete pours
+Provide structural drawings showing footing sizes, levels, reinforcement and specified concrete strength, together with relevant ground information where required by the design. Clarify excavation, backfill, formwork, waterproofing and testing responsibilities. Inspect reinforcement before placing and verify grid positions, levels, concrete records and curing before subsequent work proceeds.
+
+### 26. Concrete slab pours
+State slab area, thickness, spans, openings and embedded services, with approved structural drawings. The scope should include formwork, propping, reinforcement, placing, curing, testing and engineer-directed striking of supports. Check reinforcement and penetrations before pouring; review test records, honeycombing and dimensional tolerances before accepting the stage.
+
+### 27. Concrete wall construction
+Specify whether the wall is retaining, shear or another structural type, together with its height, thickness, loads and any groundwater exposure. A square-metre price alone misses reinforcement, joints, waterproofing and drainage behind retaining walls. Inspect alignment, joints, concrete finish, curing and the tests required by the project specification.
+
+### 28. Demolition waste removal
+Estimate debris volume and material types; show the loading route, gate width and proposed skip or truck position. Ask whether loading, trips, access protection and final sweeping are included. Segregate materials requiring specialist handling rather than mixing them with ordinary rubble. Confirm acceptable disposal arrangements with the relevant authority and check for sharp remnants at handover.
+
+## Quotation request checklist
+Send a site plan and available drawings, dimensions or quantities, current-condition photographs, required finish standard, occupancy constraints and procurement scope. Ask for a bill of quantities, exclusions, payment milestones and inspection points. Individual tradespeople belong to a separate classification.
+
+
+## Garden landscaping and maintenance — source category currently not selectable
+
+### 29. Home garden design
+Measure the plot, boundaries, shade patterns, entrances and available water and power points before commissioning a layout. Ask for scaled planting, seating, circulation and drainage plans, plus a plant schedule with quantities and supply sizes. Compare design fees by deliverables, revisions and construction details; a rendering alone is not a measurable handover.
+
+### 30. Villa garden landscaping
+Survey levels and identify existing trees, inspection covers and buried services to protect. Separate soil preparation, irrigation, planting, edging, lighting and paths in the quotation. Confirm responsibility for waterproofing and utility protection. Inspect grading, irrigation operation and the installed plant list at handover.
+
+### 31. Outdoor space design
+Explain whether the space is intended for play, seating, walking or cooking, including expected users and accessibility needs. The plan should resolve pedestrian routes, shade, lighting, drainage and junctions with the building. Compare usability and upkeep alongside appearance, and request dimensioned drawings and a material schedule.
+
+### 32. Green lawn establishment
+Provide the area in square metres, intended foot traffic and available irrigation. Require assessment of soil, levels and drainage before planting. Quotes should identify soil preparation, turf establishment method, initial watering, establishment period and treatment of failed patches. Check evenness, drainage and written aftercare instructions.
+
+### 33. Tree and shrub planting
+Mark planting positions and distances from walls and utilities, and list species, quantities and required nursery sizes. Compare root-ball quality, excavation, soil amendment, supports and watering rather than tree count alone. Check planting depth, stability, undamaged stems and an agreed establishment follow-up.
+
+### 34. Natural turf installation
+State the lawn area, shade exposure and use, with photographs of soil and sprinkler points. Pricing should distinguish weed clearance, grading, growing medium, turf species and origin, laying and establishment watering. Check joints, bare patches and irrigation coverage; agree when heavy use can begin.
+
+### 35. Artificial grass installation
+Measure the area and explain whether it is decorative, for walking or for children's play. Request physical samples and specifications for pile, backing, infill, base layers, drainage, seams and anchoring. Compare warranties and stated heat and wear limitations. Inspect levelness, unobtrusive joins and drainage after testing.
+
+### 36. Plant and tree installation
+Supply a location plan, species and quantities, with photographs of sun exposure and planter dimensions. Specify delivery size, soil mix, initial feeding and irrigation for each plant group. Small nursery plants should not be priced as mature trees. Match labels and quantities at handover and inspect visible plant health and root-zone watering.
+
+### 37. Tree pruning and shaping
+Record tree counts, heights and proximity to buildings or cables, with photographs of affected branches. Agree the extent of pruning, access equipment, protection and green-waste removal; major limb removal warrants suitable assessment. Inspect cuts, trunk condition and site clearance. Pruning is not the same scope as complete tree removal.
+
+### 38. Lawn maintenance
+Provide lawn area, grass type and photographs of yellowing or waterlogging. The contract should specify visits, mowing, aeration where needed, weed control, sprinkler checks and how damaged patches are handled. Separate consumables from labour and assess dated condition photographs and visit records, not attendance alone.
+
+### 39. Plant fertilisation and treatment
+Photograph leaves, stems and soil, and disclose previous watering and fertiliser use. Yellowing can reflect irrigation or salinity rather than nutrient deficiency. Request a diagnosis, product, application rate, safety measures and monitoring plan. Record subsequent growth and any adverse effects instead of accepting an unspecified chemical treatment.
+
+### 40. Garden pest management
+Identify affected plants, damage and any visible insects; disclose pets, children and nearby water features. The provider should identify the pest and consider appropriate non-chemical measures before specifying any permitted product, application controls and re-entry precautions. Request a treatment report and follow-up criteria, not a guarantee of permanent eradication.
+
+### 41. Garden cleaning
+Show the paths, planters, leaves and waste piles, and distinguish green-waste collection from pressure washing or weeding. Compare quotations by area, waste volume, loading, removal and protection of irrigation and planting. Check that paths and beds are clear and drains are not blocked by cuttings.
+
+### 42. Garden maintenance contracts
+Provide landscaped area, plant inventory, irrigation layout and desired condition. Request a seasonal visit schedule separating mowing, pruning, fertilising, pest monitoring and repairs. Clarify excluded materials, spare parts, emergency call-outs and measurable service standards. Review visit logs, photographs and invoices before renewal.
+
+
+## Irrigation networks — source category currently not selectable
+
+### 43. Irrigation network design
+Provide planting zones, plant types, water source, site levels and available pressure. The designer should group plants by water demand, calculate flow and pressure losses, and specify pipe sizes, filters, valves and controller zones. Compare hydraulic calculations and installation drawings rather than sprinkler counts alone; require an as-built plan showing buried routes and isolation points.
+
+### 44. Drip irrigation installation
+Measure beds and planting rows, identify soil type and water supply, and specify emitter spacing and discharge rates. Quotations should include filtration, pressure regulation, flushing ends and protection of exposed tubing. Run the system and compare wetting at the first and last emitters; inspect joints and routes for damage risks.
+
+### 45. Sprinkler installation
+Send lawn dimensions and the positions of walls, paths and plants sensitive to spray. Require head type, throw radius, arc settings, operating pressure and a layout designed for even coverage without watering paving. Witness an operating test, adjust arcs and check for leaks at sprinkler connections.
+
+### 46. Irrigation tanks and pump installation
+State storage capacity, irrigation zones, elevation changes and estimated demand. The proposal should size the tank and pump, specify dry-run protection, isolation valves, accessible maintenance and suitable electrical safeguards. Separate supply, installation and commissioning costs; witness pressure and flow tests and receive filter maintenance instructions.
+
+### 47. Irrigation network maintenance
+Describe low pressure, dry patches or continuous running, and photograph the controller and meter where available. Diagnosis should check filters, valves, emitters, heads and buried lines before parts are replaced. Request a fault report, itemised replacements and a witnessed test of every zone after repair.
+
+### 48. Automatic irrigation controller programming
+Provide zone count, planting types, site use and any water-supply restrictions. Configure days, runtimes, sequencing and supported rain or fault overrides instead of applying one timer to all plants. Verify manual and scheduled operation, and obtain a written programme and instructions for seasonal adjustment.
+
+### 49. Irrigation leak detection
+Photograph wet patches, subsidence and any unusual meter readings; note whether leakage occurs in a particular zone. Isolate zones and check pressure or meter movement before excavation. Agree the suspected location, excavation limits, pipe repair and reinstatement scope; pressure-test the repaired line and compare subsequent consumption.
+
+## Shades and external works — source category currently not selectable
+
+### 50. Car shade installation
+Measure bay widths and lengths, vehicle heights, door swing and turning paths. Specify structural frame, covering, anchorage, drainage and design loads appropriate to the site; check any required approvals before construction. At handover, inspect clearances, fixings, fabric tension and exposed sharp edges.
+
+### 51. Pergola construction
+Provide the seating footprint, desired shade and whether the pergola is freestanding or attached to the building. Compare frame material, protective finish, roofing, foundations and optional lighting separately; detail interfaces with waterproofing and façades. Inspect alignment, anchorage, drainage and maintenance access.
+
+### 52. Outdoor seating area construction
+State expected seating capacity, furniture sizes, access routes and privacy needs, with photographs of existing ground and utility points. The quotation should separate paving build-up, falls, lighting, fixed seating and exposure-appropriate finishes. Inspect drainage, circulation clearances and finished levels before acceptance.
+
+### 53. External fence installation
+Provide boundary lengths, proposed height, gate locations and level changes, using an authoritative boundary survey. Require details of posts, foundations, corrosion protection, finish and treatment of sloping ground; verify applicable permissions before installation. Check alignment, gate operation and sound connections.
+
+### 54. Garden pathway construction
+Mark pathway width and route, intended pedestrian or light-cart use, and existing roots or ponding. Compare paving type, sub-base thickness, edge restraints, falls, slip resistance and accessibility. Inspect finished levels, trip hazards and drainage away from the building.
+
+### 55. Interlocking paver installation
+Provide area, expected loads and whether the paving serves a path or vehicle bay, plus ground-condition photographs. Specify excavation, compaction, base and bedding depths, paver thickness, edge restraints and joint filling. Check levels, falls and restraint stability; a square-metre price without the sub-base specification is not comparable.
+
+### 56. Waterfall and fountain construction
+Provide basin dimensions, location, desired water effect and power and water points, noting nearby children or seating. Request waterproofing, circulation, pump, filtration, overflow drainage and safe maintenance-access details. Witness operational, leak and drainage tests, and receive cleaning and water-use guidance.
+
+**Requesting a quotation:** Where no company is listed, send the site location, photographs, measurements, scope and intended materials to Biet Alreef customer support to prepare an enquiry. This does not activate a restricted category or guarantee provider availability. Individual tradespeople remain in a separate directory.
+
+
+## Construction quotation information
+
+Provide the project type (new build, restoration or extension), site limits and available drawings, floor areas, photographs and access, required stages, material/finish standards and whether premises are occupied. Ask bidders to separate design and permits—where applicable—from construction, tests, handover and warranties; record exclusions and measurement rules. If no company is listed, Biet Al Reef customer support can receive this information without confirming a contractor or authorising work.
+
+**Common question:** Is a square-metre rate enough to compare projects? Only as an early indicator: foundations, MEP systems, finishes, fees and permit responsibilities need like-for-like quantities.

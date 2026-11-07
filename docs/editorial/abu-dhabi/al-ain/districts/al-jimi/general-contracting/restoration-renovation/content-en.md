@@ -1,98 +1,77 @@
-# Renovation and restoration in Al Jimi — company service guide
+# Restoration and renovation in Al Jimi — company services
 
-A useful enquiry starts with the actual site rather than a vague request for a contractor. Existing properties and new projects in Al Jimi can need different scopes; use photos, drawings and quantities rather than assumptions. This guide is for preparing requests, not an offer by any named company.
+This is guidance for preparing real project enquiries, not confirmation of a listed contractor, price or appointment. Structural assessment and strengthening require competent professional review and applicable approvals.
 
 ## 1. Older building restoration
 
-**Service-specific planning:** Survey older structural damage and moisture before selecting repair methods.
+**Need and scope:** Survey moisture, floor settlement and wall condition before deciding which existing fabric should be preserved. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Provide dated defect photographs, crack dimensions, original finish details and a structural assessment where necessary. Record existing materials and access equipment before pricing.
 
-For **older building restoration**, map the intended work and explain the existing condition before discussing a quote. Show dated photographs of defects and the parts you want to retain. Make the quantities and limitations explicit.
+**Quotation comparison and agreement:** Compare root-cause treatment against cosmetic work, including temporary support and protection of sound existing elements. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Quotation and agreement:** Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Compare surveyed causes, methods and exclusions rather than a simple unit rate. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect the repaired underlying failure and preserved elements.
+**Handover checks:** Inspect repaired areas and moisture test evidence before concealed finishes are closed. Photograph outstanding defects and agree their closure before final payment.
 
 ## 2. Villa renovation
 
-**Service-specific planning:** List fit-for-purpose villa finishes to retain instead of stripping everything.
+**Need and scope:** Identify rooms to change and floors or cabinetry worth retaining rather than stripping the whole villa. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Supply a room schedule, kitchen and bathroom photographs and marked service relocation points. Record existing materials and access equipment before pricing.
 
-The scope of **villa renovation** can change significantly after a site survey. Show dated photographs of defects and the parts you want to retain and ask what information is still needed to price the work accurately.
+**Quotation comparison and agreement:** Compare demolition, protection, supply and installation separately; approve finish samples and concealed-defect variations. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Exclusions and comparison:** Compare surveyed causes, methods and exclusions rather than a simple unit rate. Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Review junctions between reused and replacement finishes.
+**Handover checks:** Test doors, drainage and electrics, and check junctions between retained and replacement finishes. Photograph outstanding defects and agree their closure before final payment.
 
 ## 3. Apartment renovation
 
-**Service-specific planning:** Set dust-control and work-hour rules for an occupied apartment.
+**Need and scope:** An apartment renovation in an occupied block needs agreed working hours and lift protection. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Document room sizes, kitchen and bathroom defects, access windows and building management rules. Record existing materials and access equipment before pricing.
 
-Do not approve **apartment renovation** based solely on a reference picture. Show dated photographs of defects and the parts you want to retain; clarify interfaces with existing services and finishes.
+**Quotation comparison and agreement:** Compare corridor protection, debris transport, water shutdowns and noisy-work arrangements. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Contractor responsibilities:** Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Compare surveyed causes, methods and exclusions rather than a simple unit rate. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check shared access, lift protection and functional utilities.
+**Handover checks:** Check utilities and finishes, then inspect shared corridors and lifts for damage. Photograph outstanding defects and agree their closure before final payment.
 
 ## 4. Building rehabilitation
 
-**Service-specific planning:** A new building use may require revised services and ventilation.
+**Need and scope:** A change of use may require reassessment of ventilation, electrical capacity and exits. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Provide the proposed occupancy, existing drawings and condition reports for structure and services. Record existing materials and access equipment before pricing.
 
-For **building rehabilitation**, map the intended work and explain the existing condition before discussing a quote. Show dated photographs of defects and the parts you want to retain. Make the quantities and limitations explicit.
+**Quotation comparison and agreement:** Separate life-safety and essential-system upgrades from decorative work, and allocate design and approval duties. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Quotation and agreement:** Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Compare surveyed causes, methods and exclusions rather than a simple unit rate. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Verify appropriate operational checks before occupation.
+**Handover checks:** Review commissioning records and exit arrangements before the new use begins. Photograph outstanding defects and agree their closure before final payment.
 
 ## 5. Structural crack remediation
 
-**Service-specific planning:** Determine whether cracks affect structure or only plaster finish.
+**Need and scope:** Do not fill a crack cosmetically before assessing whether it reflects structural movement or surface shrinkage. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Provide dated photographs with a width scale, its position on a plan and any observed progression. Record existing materials and access equipment before pricing.
 
-The scope of **structural crack remediation** can change significantly after a site survey. Show dated photographs of defects and the parts you want to retain and ask what information is still needed to price the work accurately.
+**Quotation comparison and agreement:** Compare investigation, monitoring and engineer-designed strengthening or injection where appropriate. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Exclusions and comparison:** Compare surveyed causes, methods and exclusions rather than a simple unit rate. Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check repair reports and any scheduled crack monitoring.
+**Handover checks:** Review the diagnostic report, repair records and monitoring plan before repainting. Photograph outstanding defects and agree their closure before final payment.
 
 ## 6. Façade refurbishment
 
-**Service-specific planning:** Understand why facade render or tiles loosened before replacement.
+**Need and scope:** Investigate loose cladding, peeling coatings and rainwater entry before choosing replacement finishes. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Provide full-elevation photos, close-ups of joints and edges, access heights and existing material types. Record existing materials and access equipment before pricing.
 
-Do not approve **façade refurbishment** based solely on a reference picture. Show dated photographs of defects and the parts you want to retain; clarify interfaces with existing services and finishes.
+**Quotation comparison and agreement:** Compare access equipment, safe removal, substrate repair, waterproofing and the new fixing system. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Contractor responsibilities:** Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Compare surveyed causes, methods and exclusions rather than a simple unit rate. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check the security of finishes and rainwater drainage.
+**Handover checks:** Check cladding security, movement joints and drainage, and inspect the site after access equipment removal. Photograph outstanding defects and agree their closure before final payment.
 
 ## 7. Preparing a building for reuse
 
-**Service-specific planning:** Keep a register of issues preventing the building from being used.
+**Need and scope:** A vacant building may still be unfit for occupation because of failed cooling, electrical faults or leaks. Identify exclusions and any occupied areas that must remain operational.
 
+**Photos, dimensions and specifications:** Provide an equipment and defect register, meter photos and any available maintenance history. Record existing materials and access equipment before pricing.
 
-For **preparing a building for reuse**, map the intended work and explain the existing condition before discussing a quote. Show dated photographs of defects and the parts you want to retain. Make the quantities and limitations explicit.
+**Quotation comparison and agreement:** Separate operational repairs from appearance upgrades, including testing, cleaning and key handover. Agree quantities, material specifications, protection duties, variations and inspection hold points.
 
-**Quotation and agreement:** Separate root-cause repair from cosmetic improvements; identify waste removal and protection of occupied areas. Compare surveyed causes, methods and exclusions rather than a simple unit rate. Include the programme, protection duties and inspection milestones.
+**Handover checks:** Witness essential-system operation and receive closed defect records, keys and agreed documents. Photograph outstanding defects and agree their closure before final payment.
 
-**Acceptance:** Ask the surveyor to distinguish the underlying failure from the visible finish and to confirm which existing elements remain untouched. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
+## Request a quote with Biet Al Reef
 
-**Distinct acceptance check:** Walk through completed repairs and receive functional test records.
-
-## Requesting quotes with Biet Al Reef
-
-Send the service description, site photos, dimensions and any available drawings, including what must remain undisturbed. Biet Al Reef customer service can help structure the request and look for suitable companies; availability, pricing and dates are not guaranteed.
+Specify the service, Al Jimi site location, condition photographs, dimensions and available reports. Biet Al Reef customer service may help structure the request and look for a company; availability, pricing and dates are not guaranteed.

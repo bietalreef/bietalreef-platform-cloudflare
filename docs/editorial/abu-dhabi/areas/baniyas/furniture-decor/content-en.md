@@ -106,3 +106,10 @@ Measure each room and decide fitted carpet or loose rugs. Compare pile, underlay
 
 Measure bed base dimensions, sleepers, firmness preference and mattress depth. Compare construction, warranty and ventilation; check size and packaging at handover.
 
+
+
+## Furniture and furnishing quotation brief
+
+Specify each item, quantity, width, depth and height, route into the room, intended users, colours and reference materials. Include inspiration photographs and fabric samples where possible. Request a bid separating frame, cushions, hardware, assembly, delivery, exchanges and any warranty. Where no company is published, Biet Al Reef customer support can log the request without confirming supply.
+
+**Common question:** Is sofa pricing by linear metre alone comparable? No; construction, foam density, frame, textile quality, upholstery and stitching all affect cost and use.

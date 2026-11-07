@@ -1,0 +1,7 @@
+# Review — شبكات الري
+
+Status: reviewed_content; district status: in_progress.
+
+Taxonomy: company specialty, currently non-selectable; editorial guidance only, not an activation claim.
+
+Exact Arabic service names: 7; English sections: 7. All listed services covered individually. No company, price, availability or deadline invented. Site-specific approvals and safety arrangements require confirmation.

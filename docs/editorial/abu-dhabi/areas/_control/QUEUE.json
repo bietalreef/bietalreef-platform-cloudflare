@@ -134,7 +134,21 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
+      "review_note": "Originality remediation underway: interior-design architectural specialty services 1–3 rewritten independently in both languages and GitHub read-back verified (49/49 headings remain). Resume at service 4; remaining 46 services in interior-design and originality/technical review of seven other sectors. Area stays in_progress, not completed.",
+      "editorial_progress": {
+        "sector": "interior-design",
+        "specialty": "التصميم المعماري والمخططات",
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3
+        ],
+        "next_service_number": 4,
+        "remaining_in_sector": 46,
+        "sector_total": 49,
+        "area_total": 434,
+        "area_editorially_approved": false
+      }
     },
     {
       "sequence": 3,

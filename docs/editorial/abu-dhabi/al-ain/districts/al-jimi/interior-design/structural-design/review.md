@@ -1,14 +1,8 @@
-# Review — التصميم الإنشائي — Al Jimi
+# مراجعة تخصص التصميم الإنشائي — الجيمي
 
-- Taxonomy company specialty exactly: التصميم الإنشائي.
-- 7/7 Arabic services and 7/7 paired English services.
-- Per-service technical question, input documents, scope/exclusions, comparison and deliverable review.
-- No design certification, approved permits, available firms, prices or dates implied.
-
-1. تصميم الهياكل الخرسانية / تصميم الهياكل الخرسانية — Structural design
-2. تصميم القواعد والأساسات / تصميم القواعد والأساسات — Structural design
-3. إعداد المخططات الإنشائية / إعداد المخططات الإنشائية — Structural design
-4. مراجعة الأحمال الإنشائية / مراجعة الأحمال الإنشائية — Structural design
-5. تقييم سلامة المباني / تقييم سلامة المباني — Structural design
-6. تصميم أعمال التدعيم / تصميم أعمال التدعيم — Structural design
-7. إعداد التقارير الإنشائية / إعداد التقارير الإنشائية — Structural design
+- الحالة: `editorially_rewritten_pending_area_audit`.
+- المصدر: `_control/TAXONOMY_SOURCE_AR.md`، قائمة الشركات والمنشآت، تخصص التصميم الإنشائي.
+- الخدمات السبع: تصميم الهياكل الخرسانية؛ تصميم القواعد والأساسات؛ إعداد المخططات الإنشائية؛ مراجعة الأحمال الإنشائية؛ تقييم سلامة المباني؛ تصميم أعمال التدعيم؛ إعداد التقارير الإنشائية.
+- تم تحرير سبعة أقسام كاملة لكل لغة في `content-ar.md` و`content-en.md`، مع حالات الحاجة والمدخلات والحدود والمقارنة والاستلام وطلب عرض السعر.
+- التحقق: أعيدت قراءة الملفين من الفرع بعد الرفع وتطابقت النصوص؛ لا توجد ادعاءات عن شركة أو أسعار أو موافقات مضمونة.
+- يلزم تدقيق اتساق المنطقة النهائي قبل اعتمادها كاملة.

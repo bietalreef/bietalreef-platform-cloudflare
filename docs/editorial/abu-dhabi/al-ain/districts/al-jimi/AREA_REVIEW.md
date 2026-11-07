@@ -15,7 +15,7 @@
 | الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved |
 | مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved |
-| الأثاث والمفروشات والتجهيز (`furniture-decor`) | 0/4 | 0/24 | pending |
+| الأثاث والمفروشات والتجهيز (`furniture-decor`) | 4/4 | 24/24 | content_saved |
 | المصانع ومعدات الإيجار (`equipment-rental`) | 0/8 | 0/53 | pending |
 | التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 0/8 | 0/42 | pending |
 
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- متبقٍ: المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -82,3 +82,13 @@
 - **metal-fabrication** — 7 services: [العربية](./aluminium-glass/metal-fabrication/content-ar.md) · [English](./aluminium-glass/metal-fabrication/content-en.md) · [review](./aluminium-glass/metal-fabrication/review.md)
 
 - القطاع 5/5 تخصصات، 56/56 خدمة. **مجموع الجيمي 30/50 تخصصًا، 315/434 خدمة لكل لغة؛ 5/8 قطاعات**.
+
+## الأثاث والمفروشات — القطاع السادس
+
+- **furniture-manufacturing**, 7 services: [AR](./furniture-decor/furniture-manufacturing/content-ar.md) · [EN](./furniture-decor/furniture-manufacturing/content-en.md) · [review](./furniture-decor/furniture-manufacturing/review.md)
+- **furniture-shops**, 7 services: [AR](./furniture-decor/furniture-shops/content-ar.md) · [EN](./furniture-decor/furniture-shops/content-en.md) · [review](./furniture-decor/furniture-shops/review.md)
+- **majlis-upholstery**, 5 services: [AR](./furniture-decor/majlis-upholstery/content-ar.md) · [EN](./furniture-decor/majlis-upholstery/content-en.md) · [review](./furniture-decor/majlis-upholstery/review.md)
+- **curtains-carpets-furnishings**, 5 services: [AR](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [EN](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [review](./furniture-decor/curtains-carpets-furnishings/review.md)
+
+- غير القابل للاختيار: تصنيع الأثاث، متاجر الأثاث. المقترح وغير المفعل: التنجيد، الستائر والمفروشات.
+- **34/50 تخصصًا؛ 339/434 خدمة لكل لغة؛ 6/8 قطاعات**. المتبقي المصانع ومعدات الإيجار والتنظيف والتعقيم.

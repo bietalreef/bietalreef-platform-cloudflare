@@ -208,3 +208,10 @@ Large porcelain formats need controlled levelling, lifting and proper adhesive b
 
 Measure skirting lengths, height, ends at doorways and columns, and joint colour. Compare factory pieces with cut-tile skirting and mitred corners; inspect secure, even-height fitting.
 
+
+
+## Material procurement request
+
+Send an itemised list with product, unit, grade, size, quantity and justified cutting allowance; attach sample images or manufacturer codes, unloading location, gate clearance and batch dates. Clarify whether quoted terms include applicable tax, testing, packing, transport, unloading and returns, and agree substitutes in writing. Where no shop or supplier is listed, Biet Al Reef customer support can collect a pricing request without promising stock.
+
+**Common question:** Is a tile photo sufficient? No; add size, grade, batch reference, product code and box quantity for consistent colour and quantities.

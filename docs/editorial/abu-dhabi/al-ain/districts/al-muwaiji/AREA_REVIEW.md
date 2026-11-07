@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — six sectors authored; remaining two sectors outstanding.
+- Status: **in_progress** — seven sectors authored; one sector outstanding.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,8 +13,8 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **34/50 specialties; 339/434 services per language; 6/8 sectors**.
-- Missing: factories/equipment, cleaning/pest-control.
+- Current coverage: **42/50 specialties; 392/434 services per language; 7/8 sectors**.
+- Missing: cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
 ## الاستشارات الهندسية والتصميم والديكور
@@ -64,3 +64,15 @@
 - curtains-carpets-furnishings — 5 services [AR](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [EN](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [Review](./furniture-decor/curtains-carpets-furnishings/review.md)
 
 - Four specialties are preparatory (two non-selectable and two proposed). 34/50 specialties, 339/434 service sections each language, six sectors.
+
+## المصانع ومعدات الإيجار
+- construction-lifting-equipment: 7 services [AR](./equipment-rental/construction-lifting-equipment/content-ar.md) · [EN](./equipment-rental/construction-lifting-equipment/content-en.md) · [Review](./equipment-rental/construction-lifting-equipment/review.md)
+- light-tools-rental: 7 services [AR](./equipment-rental/light-tools-rental/content-ar.md) · [EN](./equipment-rental/light-tools-rental/content-en.md) · [Review](./equipment-rental/light-tools-rental/review.md)
+- aluminium-glass-factories: 7 services [AR](./equipment-rental/aluminium-glass-factories/content-ar.md) · [EN](./equipment-rental/aluminium-glass-factories/content-en.md) · [Review](./equipment-rental/aluminium-glass-factories/review.md)
+- marble-stone-factories: 7 services [AR](./equipment-rental/marble-stone-factories/content-ar.md) · [EN](./equipment-rental/marble-stone-factories/content-en.md) · [Review](./equipment-rental/marble-stone-factories/review.md)
+- tools-equipment-stores: 7 services [AR](./equipment-rental/tools-equipment-stores/content-ar.md) · [EN](./equipment-rental/tools-equipment-stores/content-en.md) · [Review](./equipment-rental/tools-equipment-stores/review.md)
+- property-moving: 7 services [AR](./equipment-rental/property-moving/content-ar.md) · [EN](./equipment-rental/property-moving/content-en.md) · [Review](./equipment-rental/property-moving/review.md)
+- project-material-transport: 7 services [AR](./equipment-rental/project-material-transport/content-ar.md) · [EN](./equipment-rental/project-material-transport/content-en.md) · [Review](./equipment-rental/project-material-transport/review.md)
+- concrete-block-factories: 4 services [AR](./equipment-rental/concrete-block-factories/content-ar.md) · [EN](./equipment-rental/concrete-block-factories/content-en.md) · [Review](./equipment-rental/concrete-block-factories/review.md)
+
+- Four source-restricted/proposed factory/store specialties remain informational only; cumulative 42/50 specialties and 392/434 service sections each language (7 sectors).

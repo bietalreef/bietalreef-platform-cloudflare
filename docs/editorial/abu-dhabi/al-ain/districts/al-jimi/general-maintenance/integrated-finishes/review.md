@@ -1,15 +1,14 @@
-# Review — التشطيبات المتكاملة — Al Jimi
+# مراجعة التشطيبات المتكاملة — الجيمي
 
-- Exact company specialty from source: **التشطيبات المتكاملة**.
-- Exact Arabic service labels: 7, paired English headings: 7; same order.
-- Service-specific diagnostic decision, site measurements, inclusions/exclusions, written quotation and handover testing.
-- Regulated safety work requires suitably qualified personnel and appropriate approvals.
-- No company availability, price or schedule claims.
+- الحالة: `editorially_rewritten`; سبع خدمات شركات بأسمائها العربية الحرفية وبالترتيب نفسه في اللغتين.
+- لكل خدمة حاجة مستقلة، صور ومقاسات، نطاق واستثناءات، مقارنة واتفاق، وفحص استلام.
+- لا ادعاءات توفر أو أسعار أو موافقات؛ خدمات طلب عروض الأسعار متاحة للتحضير دون ضمان نتيجة.
+- التحقق: إعادة قراءة الملفات الثلاثة من الفرع بعد الرفع.
 
-1. تشطيب الفلل — Villa fit-out
-2. تشطيب الشقق — Apartment fit-out
-3. تشطيب المحلات — Retail fit-out
-4. تشطيب المكاتب — Office fit-out
+1. تشطيب الفلل — Villa finishing
+2. تشطيب الشقق — Apartment finishing
+3. تشطيب المحلات — Retail shop finishing
+4. تشطيب المكاتب — Office finishing
 5. تجديد المساحات الداخلية — Interior refurbishment
 6. تنفيذ أعمال الديكور — Decorative fit-out works
-7. تسليم التشطيبات المتكاملة — Integrated finishes handover
+7. تسليم التشطيبات المتكاملة — Integrated finishing handover

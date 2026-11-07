@@ -6,16 +6,16 @@ import ProjectDiscovery from './ProjectDiscovery';
 const SITE_URL = 'https://bietalreef.ae';
 const seo = {
   ar: {
-    title: 'بيت الريف | محرك الأعمال الرقمي للمقاولات والبناء في الإمارات',
-    description: 'بيت الريف محرك الأعمال الرقمي لقطاع المقاولات والبناء في الإمارات. يساعد العميل على البحث والتواصل أو تحويل احتياجه إلى مناقصة داخلية، ويساعد الشركة على بناء حضور رقمي منظم ومستدام.',
-    keywords: 'بيت الريف, محرك الأعمال الرقمي, مقاولات الإمارات, شركات خدمات, دليل الإمارات, مواد بناء, تصميم داخلي, صيانة, وياك AI',
-    ogImage: `${SITE_URL}/hero-villa-1.webp`,
+    title: 'بيت الريف | دليل الشركات والخدمات والمقاولات في الإمارات',
+    description: 'اكتشف الشركات والمهنيين وخدمات المقاولات والبناء والصيانة والتصميم ومواد البناء في الإمارات عبر منصة بيت الريف. استعرض الأعمال والعروض والمنتجات واطلب عرض سعر.',
+    keywords: 'بيت الريف, دليل الشركات, دليل المقاولات, خدمات الإمارات, مقاولات, مواد بناء, تصميم داخلي, صيانة, وياك',
+    ogImage: `${SITE_URL}/images/seo/home/biet-al-reef-directory-og.webp`,
   },
   en: {
-    title: 'Biet Al Reef | UAE digital business engine for construction',
-    description: 'Biet Al Reef helps customers discover and contact UAE construction providers and helps providers build a structured, lasting digital presence.',
+    title: 'Biet Al Reef | UAE companies, services and construction directory',
+    description: 'Discover UAE companies, professionals, construction and maintenance services, design, building materials, projects, offers and products.',
     keywords: 'Biet Al Reef, UAE construction, service providers, UAE directory, building materials, interior design, maintenance, Weyaak AI',
-    ogImage: `${SITE_URL}/hero-villa-1.webp`,
+    ogImage: `${SITE_URL}/images/seo/home/biet-al-reef-directory-og.webp`,
   },
 };
 export default function HomePage({ locale = 'ar' }) {
@@ -29,7 +29,7 @@ export default function HomePage({ locale = 'ar' }) {
     { '@context': 'https://schema.org', '@type': 'WebPage', name: content.seo.title, url: isEnglish ? `${SITE_URL}/en` : SITE_URL, description, inLanguage: isEnglish ? 'en-AE' : 'ar-AE', about: isEnglish ? ['construction', 'contracting', 'maintenance', 'interior design', 'building materials', 'UAE service providers'] : ['البناء', 'المقاولات', 'الصيانة', 'التصميم الداخلي', 'مواد البناء', 'دليل الشركات والمهنيين في الإمارات'] },
   ];
   return <>
-    <SEOHead title={content.seo.title} description={description} keywords={content.seo.keywords} ogImage={content.seo.ogImage} canonicalPath={isEnglish ? '/en' : '/'} structuredData={structuredData} />
+    <SEOHead title={content.seo.title} description={description} keywords={content.seo.keywords} ogImage={content.seo.ogImage} ogImageWidth={1200} ogImageHeight={630} canonicalPath={isEnglish ? '/en' : '/'} structuredData={structuredData} />
     <div dir={isEnglish ? 'ltr' : 'rtl'} lang={isEnglish ? 'en' : 'ar'} className="app-viewport-lock bg-[#FCFBF7] text-gray-900 font-sans">
       <Navbar locale={language} />
       <main>

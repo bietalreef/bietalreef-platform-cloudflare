@@ -23,8 +23,8 @@ const AL_AIN_CHOICES = {
   'general-maintenance': [['general-maintenance', 'الصيانة والتشطيبات', 'Maintenance and finishing']],
   'building-materials': [['building-materials', 'مواد البناء', 'Building materials']],
   'aluminium-glass': [['aluminium-wood-glass', 'الألمنيوم والخشب والزجاج', 'Aluminium, wood and glass']],
-  'furniture-decor': [],
-  'equipment-rental': [['factories-suppliers', 'المصانع والتوريد', 'Factories and supply']],
+  'furniture-decor': [['furniture-decor', 'الأثاث والمفروشات والتجهيز', 'Furniture and furnishings']],
+  'equipment-rental': [['equipment-rental', 'المصانع ومعدات الإيجار', 'Factories and equipment rental']],
   'cleaning-services': [['cleaning-services', 'خدمات التنظيف', 'Cleaning services']],
 };
 
@@ -32,8 +32,7 @@ export function sectorChoices(sector, sectionKey, locale = 'ar', locationRoot = 
   const en = locale === 'en';
   if (locationMode === 'al-ain' || locationMode === 'al-ain-district') {
     const choices = AL_AIN_CHOICES[sector.slug] || [];
-    return choices.filter(([slug]) => locationMode !== 'al-ain-district' || ['general-maintenance', 'cleaning-services'].includes(slug))
-      .map(([slug, ar, english]) => ({ slug, name: en ? english : ar, href: `${locationRoot}/${slug}` }));
+    return choices.map(([slug, ar, english]) => ({ slug, name: en ? english : ar, href: `${locationRoot}/${slug}` }));
   }
   const root = sectionKey === 'providers' ? '/providers/specialty/' : en ? '/categories/' : '/services/';
   return (CATEGORY_SLUGS[sector.slug] || []).filter(slug => !locationRoot || SERVICE_CATEGORIES.some(item => item.slug === slug)).map(slug => {

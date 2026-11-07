@@ -8,7 +8,7 @@ import d from './DirectoryLandingPage.module.css';
 
 // The reviewed draft contains paragraphs, headings, and emphasis only. Render
 // those elements explicitly instead of injecting HTML into the document.
-function EditorialBody({ html }) {
+export function EditorialBody({ html }) {
   const blocks = [...html.matchAll(/<(p|h3)>([\s\S]*?)<\/\1>/g)];
   return blocks.map(([, tag, content], index) => {
     const parts = content.split(/(<strong>[\s\S]*?<\/strong>)/g).map((part, partIndex) =>

@@ -213,7 +213,7 @@ function LandingContent({
       <Head>
         <title>{copy.title} | {isEn ? 'Biet Al Reef' : 'بيت الريف'}</title>
         <meta name="description" content={copy.description} />
-        <meta name="robots" content="index, follow, max-image-preview:large" />
+        <meta name="robots" content={entities.length ? "index, follow, max-image-preview:large" : "noindex, follow"} />
         <link rel="canonical" href={canonical} />
         <link rel="alternate" hrefLang={isEn ? 'en-AE' : 'ar-AE'} href={canonical} />
         <link rel="alternate" hrefLang={isEn ? 'ar-AE' : 'en-AE'} href={`https://bietalreef.ae${alternatePath}`} />

@@ -36,8 +36,9 @@ test('Both existing area routes use bilingual cards and real publication coverag
   assert.match(source,/getStaticPaths/);
  }
  const loader=read('lib/abuDhabiAreaPublishedCompanies.js');
- assert.match(loader,/getUaeDirectoryEntities\(card,locale,'abu-dhabi',areaSlug\)/);
- assert.match(read('lib/platformDirectoryCards.js'),/coversEmirateLocation/);
+ assert.match(loader,/isCovered\(locations,p.id,emirates,cities,areas,'',areaSlug\)/);
+ assert.match(loader,/landing_page_status/);
+ assert.match(loader,/verification_status/);
 });
 test('City entry stays Al Ain, remaining areas use the real existing slugs',()=>{
  const src=read('components/DirectoryLandingPage.js');

@@ -4,15 +4,15 @@ import { getSectorCardImage } from '../lib/sectorCards';
 
 const imageByEmirate = Object.fromEntries(UAE_ATLAS_IMAGES.emirates.map((item) => [item.slug, item.image]));
 
-export default function UaeDirectorySeo({ locale = 'ar', title, description, path, alternatePath, emirate, service, image }) {
+export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, description, path, alternatePath, emirate, service, image }) {
   const isEn = locale === 'en';
   const canonical = `https://bietalreef.ae${path}`;
   const alternate = `https://bietalreef.ae${alternatePath}`;
   const imagePath = image || (service ? getSectorCardImage(service.slug) : imageByEmirate[emirate.slug]) || UAE_ATLAS_IMAGES.heroDesktop;
   const shareImage = `https://bietalreef.ae${imagePath}`;
-  const imageWidth = service ? 1536 : 1600;
-  const imageHeight = service ? 864 : 1000;
-  const fullTitle = `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
+  const imageWidth = image ? 1440 : service ? 1536 : 1600;
+  const imageHeight = image ? 810 : service ? 864 : 1000;
+  const fullTitle = seoTitle || `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
 
   return (
     <Head>

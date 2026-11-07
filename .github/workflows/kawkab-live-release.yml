@@ -44,6 +44,8 @@ jobs:
         run: pnpm install --frozen-lockfile
       - name: Kawkab provider route contract
         run: node --test scripts/kawkab-presence.test.cjs
+      - name: Verify geographic directory and publication contracts
+        run: node --test scripts/geographic-platform-services.test.cjs scripts/local-services.test.cjs scripts/cleaning-directory-publication.test.cjs scripts/abu-dhabi-area-directory.test.cjs scripts/abu-dhabi-sector-editorial.test.mjs scripts/al-ain-district-editorial.test.cjs
       - name: Build Next.js 15 / OpenNext before touching live site
         run: pnpm exec opennextjs-cloudflare build --dangerouslyUseUnsupportedNextVersion
       - name: Require existing Cloudflare publishing credential
@@ -76,3 +78,19 @@ jobs:
           test "$image_code" = "200"
           test "$(wc -c < /tmp/kawkab_check.webp)" -gt 1000
           echo "Live provider route, HTML canonical/hreflang, and first optimized WebP passed."
+
+      - name: Verify directory HTML and published geographic services
+        shell: bash
+        run: |
+          set -euo pipefail
+          for path in / /uae /uae/abu-dhabi /uae/abu-dhabi/general-contracting /uae/abu-dhabi/interior-design /uae/abu-dhabi/general-maintenance /uae/abu-dhabi/building-materials /uae/abu-dhabi/aluminium-glass /uae/abu-dhabi/furniture-decor /uae/abu-dhabi/equipment-rental /uae/abu-dhabi/cleaning-services /en/uae/abu-dhabi/cleaning-services /uae/abu-dhabi/al-ain/cleaning-services; do
+            curl -fsSL --retry 6 --retry-delay 5 --retry-all-errors --max-time 40 "https://bietalreef.ae${path}" -o /tmp/directory-check.html
+            grep -q '<h1' /tmp/directory-check.html
+            grep -q 'rel="canonical"' /tmp/directory-check.html
+            grep -q 'name="description"' /tmp/directory-check.html
+          done
+          curl -fsSL --retry 6 --retry-delay 5 --retry-all-errors --max-time 40 'https://bietalreef.ae/uae/abu-dhabi/cleaning-services' -o /tmp/abu-cleaning.html
+          grep -q 'شركات تنظيف وتعقيم ومكافحة حشرات في أبوظبي' /tmp/abu-cleaning.html
+          grep -q '/uae/abu-dhabi/cleaning-services/sofa-cleaning/alrehab-home-clean' /tmp/abu-cleaning.html
+          curl -fsSL --retry 6 --retry-delay 5 --retry-all-errors --max-time 40 'https://bietalreef.ae/sitemap.xml' -o /tmp/platform-sitemap.xml
+          grep -q 'https://bietalreef.ae/uae/abu-dhabi/cleaning-services' /tmp/platform-sitemap.xml

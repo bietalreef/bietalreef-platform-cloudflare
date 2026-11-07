@@ -12,6 +12,13 @@ import UaeSmartFooter from '../../../../components/UaeSmartFooter';
 import SeoProofCardsEn from '../../../../components/SeoProofCardsEn';
 import UaeDirectoryHero from '../../../../components/UaeDirectoryHero';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
+import GeographicServiceCards from '../../../../components/GeographicServiceCards';
+import GeographicOfferCards from '../../../../components/GeographicOfferCards';
+import { getGeographicPublishedServiceCards } from '../../../../lib/platformPublishedServiceCards';
+import { ABU_DHABI_SECTOR_SEO, directorySectorSeo } from '../../../../data/abuDhabiSectorSeo';
+import { UAE_SECTOR_ASSETS } from '../../../../data/uaeDirectoryVisuals';
+import sectorEditorial from '../../../../data/abuDhabiSectorEditorial.json';
+import { EditorialBody } from '../../../../components/DirectoryAbuDhabiSectorCard';
 import AlNaeemLocalDiscovery from '../../../../components/provider/AlNaeemLocalDiscovery';
 import { AL_NAEEM_EDITORIAL_DATA } from '../../../../lib/alNaeemPresence';
 import { alNaeemCoverageFor } from '../../../../lib/alNaeemLocalSeo';
@@ -27,8 +34,12 @@ import abuAreaEditorial from '../../../../data/abuDhabiAreaEditorial.json';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../data/siteTaxonomy';
 import { getEnglishUaeDirectoryCards } from '../../../../lib/platformDirectoryCards';
 
-function EnglishEmirateServiceHub({ emirate, service, rehab }) {
-  const title = `${service.nameEn} in ${emirate.nameEn}`;
+function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, geographicOffers }) {
+  const seo = directorySectorSeo(service.slug, 'en', emirate);
+  const geoSector = emirate.slug === 'abu-dhabi' && !!seo;
+  const title = seo?.heading || `${service.nameEn} in ${emirate.nameEn}`;
+  const description = seo?.description || `Explore ${service.nameEn.toLowerCase()} providers and related locations across ${emirate.nameEn}.`;
+  const sectorImage = seo ? UAE_SECTOR_ASSETS[service.slug]?.desktop : undefined;
   const showSeoProof = false;
   const faqItems = [
     [`Is ${service.nameEn} available across ${emirate.nameEn}?`, `Yes. Related area links are available below so you can continue to ${service.nameEn.toLowerCase()} by area within ${emirate.nameEn}.`],
@@ -38,22 +49,24 @@ function EnglishEmirateServiceHub({ emirate, service, rehab }) {
 
   return (
     <>
-      <UaeDirectorySeo locale="en" title={title} description={`Service hub for ${service.nameEn.toLowerCase()} in ${emirate.nameEn}, with subscribed providers and related areas.`} path={`/en/uae/${emirate.slug}/${service.slug}`} alternatePath={`/uae/${emirate.slug}/${service.slug}`} emirate={emirate} service={service} />
+      <UaeDirectorySeo locale="en" title={title} seoTitle={seo?.title} description={description} image={sectorImage} path={`/en/uae/${emirate.slug}/${service.slug}`} alternatePath={`/uae/${emirate.slug}/${service.slug}`} emirate={emirate} service={service} />
       <EnglishLayout>
-        <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />
+        {emirate.slug !== 'abu-dhabi' && <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />}
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
-          <UaeDirectoryHero locale="en" title={title} description={`Explore ${service.nameEn.toLowerCase()} providers and related locations across ${emirate.nameEn}.`} emirate={emirate} service={service} cleanNavigation />
-          <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />
+          <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
+          {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place="Abu Dhabi"/> : <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />}
+          {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place="Abu Dhabi"/>}
+          {geoSector && sectorEditorial['en']?.[service.slug] && <section className="mx-auto max-w-6xl px-4 py-6"><details className="rounded-2xl border border-slate-200 bg-white p-5 text-slate-700"><summary className="cursor-pointer text-lg font-bold text-[#193b53]">{sectorEditorial['en'][service.slug].title}</summary><div className="mt-4 space-y-4 leading-8"><EditorialBody html={sectorEditorial['en'][service.slug].html}/></div></details></section>}
           {showSeoProof && (
             <SeoProofCardsEn
               title={`Real provider, service and product path for ${service.nameEn} in ${emirate.nameEn}`}
               desc="This service hub is connected to a verified provider profile, a requestable service path, product intent and a quotation step."
             />
           )}
-          <SeoContent title={`${title} inside Biet Al Reef`}>
+          {!seo && <SeoContent title={`${title} inside Biet Al Reef`}>
             <p>This is an emirate-level activity page. City and area links remain organized below so the browsing journey stays clear and consistent.</p>
-          </SeoContent>
-          <FAQ items={faqItems} title={`Frequently asked questions about ${title}`} />
+          </SeoContent>}
+          {!seo && <FAQ items={faqItems} title={`Frequently asked questions about ${title}`} />}
           <UaeSmartFooter locale="en" pageType="emirateService" emirate={emirate} service={service} />
         </main>
       </EnglishLayout>
@@ -61,12 +74,12 @@ function EnglishEmirateServiceHub({ emirate, service, rehab }) {
   );
 }
 
-export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], publishedCompanies = [], baniyasReadingHtml = null, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
+export default function EnglishAreaOrServicePage({ model, mode, emirate, area, service, directoryCards = [], publishedCompanies = [], geographicCards = null, geographicOffers = null, baniyasReadingHtml = null, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', unavailable = false }) {
   if (rehabContext) return <RehabPresencePage data={data} locale="en" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="en" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} unavailable={unavailable} />;
   if (model) return <LocalServicesPage model={model} />;
   if (mode === 'emirateService') {
-    return <EnglishEmirateServiceHub emirate={emirate} service={service} rehab={rehab} />;
+    return <EnglishEmirateServiceHub emirate={emirate} service={service} rehab={rehab} geographicCards={geographicCards} geographicOffers={geographicOffers} />;
   }
 
   const abuLocal=emirate.slug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug);
@@ -87,7 +100,7 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
     <>
       <UaeDirectorySeo locale="en" title={pageData.h1} description={pageData.desc} path={`/en/uae/${emirate.slug}/${area.slug}`} alternatePath={`/uae/${emirate.slug}/${area.slug}`} emirate={emirate} />
       <EnglishLayout>
-        <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />
+        {emirate.slug !== 'abu-dhabi' && <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />}
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
 
@@ -130,7 +143,10 @@ export async function getStaticProps({ params }) {
   const baniyasReadingHtml=area?.slug==='baniyas' && emirate.slug==='abu-dhabi'
     ? (await import('../../../../data/baniyasConstructionReading')).baniyasConstructionReadingHtml('en')
     : null;
-  const rehab = service?.slug === 'cleaning-services' && !area ? await getRehabSiteData().catch(() => null) : null;
+  const geographicCards = emirate.slug === 'abu-dhabi' && service && !area && ABU_DHABI_SECTOR_SEO[service.slug]
+    ? await getGeographicPublishedServiceCards('en', {sector: service.slug}).catch(error => { console.error('Unable to load geographic services:', error?.message); return null; }) : null;
+  const geographicOffers = emirate.slug === 'abu-dhabi' && service && !area && ABU_DHABI_SECTOR_SEO[service.slug] ? await getGeographicPublishedServiceCards('en', {sector:service.slug,cardType:'offer'}).catch(error=>{console.error('Unable to load geographic offers:',error?.message);return null;}) : null;
+  const rehab = service?.slug === 'cleaning-services' && !area && emirate.slug !== 'abu-dhabi' ? await getRehabSiteData().catch(() => null) : null;
 
   return {
     props: {
@@ -140,6 +156,8 @@ export async function getStaticProps({ params }) {
       service: service || null,
       directoryCards,
       publishedCompanies,
+      geographicCards,
+      geographicOffers,
       baniyasReadingHtml,
       rehab,
     },

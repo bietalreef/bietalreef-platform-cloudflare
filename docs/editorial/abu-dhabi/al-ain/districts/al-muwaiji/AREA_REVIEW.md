@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — four sectors authored; remaining four sectors outstanding.
+- Status: **in_progress** — five sectors authored; remaining three sectors outstanding.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,8 +13,8 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **25/50 specialties; 259/434 services per language; 4/8 sectors**.
-- Missing: workshops, furnishing, factories/equipment, cleaning/pest-control.
+- Current coverage: **30/50 specialties; 315/434 services per language; 5/8 sectors**.
+- Missing: furnishing, factories/equipment, cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
 ## الاستشارات الهندسية والتصميم والديكور
@@ -47,3 +47,12 @@
 - ceramic-porcelain: 7 services — [AR](./building-materials/ceramic-porcelain/content-ar.md) · [EN](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md)
 
 - 25/50 company specialties, 259/434 service sections per language, 4/8 sectors.
+
+## ورش الحديد والألمنيوم والزجاج والأخشاب
+- wood-kitchens-cabinets-doors: 14 services [AR](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [EN](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [Review](./aluminium-glass/wood-kitchens-cabinets-doors/review.md)
+- wood-furniture-decor: 14 services [AR](./aluminium-glass/wood-furniture-decor/content-ar.md) · [EN](./aluminium-glass/wood-furniture-decor/content-en.md) · [Review](./aluminium-glass/wood-furniture-decor/review.md)
+- aluminium-doors-windows: 14 services [AR](./aluminium-glass/aluminium-doors-windows/content-ar.md) · [EN](./aluminium-glass/aluminium-doors-windows/content-en.md) · [Review](./aluminium-glass/aluminium-doors-windows/review.md)
+- glass-facades-works: 7 services [AR](./aluminium-glass/glass-facades-works/content-ar.md) · [EN](./aluminium-glass/glass-facades-works/content-en.md) · [Review](./aluminium-glass/glass-facades-works/review.md)
+- metal-fabrication: 7 services [AR](./aluminium-glass/metal-fabrication/content-ar.md) · [EN](./aluminium-glass/metal-fabrication/content-en.md) · [Review](./aluminium-glass/metal-fabrication/review.md)
+
+- Cumulative 30/50 specialties; 315/434 service sections per language; 5/8 sectors.

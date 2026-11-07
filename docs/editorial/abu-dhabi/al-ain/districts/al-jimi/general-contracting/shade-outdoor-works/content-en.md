@@ -1,100 +1,63 @@
-# Shades and outdoor works in Al Jimi — company service guide
+# Shades and outdoor works in Al Jimi — company enquiry guide
 
-A useful enquiry starts with the actual site rather than a vague request for a contractor. Existing properties and new projects in Al Jimi can need different scopes; use photos, drawings and quantities rather than assumptions. This guide is for preparing requests, not an offer by any named company.
-
-> **Taxonomy status:** currently non-selectable. This is preparatory information, not a live category or supplier listing.
+This is preparatory information for the companies and establishments taxonomy, not a listing of available suppliers. **The category is currently non-selectable.** Existing homes and new sites require different surveys; quantities, design and permissions depend on site conditions and approved drawings, not the district name alone.
 
 ## 1. Car shade installation
 
-**Service-specific planning:** Car parking clearance and shade direction guide post locations.
+**When needed and evidence for pricing:** Specify the number and size of vehicles, door-opening space and entry clearance. Photograph the parking area, gate, proposed posts and drainage; locate buried services before excavation.
 
+**Scope, exclusions and quotation comparison:** Compare approved drawings, the designed steel or aluminium structure, canopy fabric or panel, corrosion protection, foundations, anchors and runoff. Separate permits, excavation, lifting, paving reinstatement and lighting where excluded. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-For **car shade installation**, map the intended work and explain the existing condition before discussing a quote. Provide site dimensions, openings and photos of the ground or wall fixings. Make the quantities and limitations explicit.
-
-**Quotation and agreement:** Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Compare engineered details, anchors, warranty and approval obligations. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect foundations, vehicle clearance and runoff.
+**Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; obtain material and finish warranties.
 
 ## 2. Pergola construction
 
-**Service-specific planning:** Pergola span and weather exposure require suitable connections and protective finish.
+**When needed and evidence for pricing:** Send seating-area dimensions, sun direction and photos of fixing walls or ground. Clarify open slats versus weatherproof covering, lighting and climbing plants.
 
+**Scope, exclusions and quotation comparison:** Compare spans, sections, fixings, materials, finishes and weather resistance; obtain competent design checks for wind and structural loading where required. Exclude furniture, electrical works and flooring unless itemised. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-The scope of **pergola construction** can change significantly after a site survey. Provide site dimensions, openings and photos of the ground or wall fixings and ask what information is still needed to price the work accurately.
-
-**Exclusions and comparison:** Compare engineered details, anchors, warranty and approval obligations. Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check roof fixing and sharp-edge safety.
+**Handover inspection:** Inspect alignment, secure joints, safe edges and roof fall/drainage if covered; compare with the approved sample.
 
 ## 3. Outdoor seating construction
 
-**Service-specific planning:** Position outdoor seating for privacy, circulation and appropriate lighting.
+**When needed and evidence for pricing:** State occupancy, intended use, entrances and privacy needs; sketch seating and circulation. Photograph floor conditions and any required power or water points.
 
+**Scope, exclusions and quotation comparison:** Ask for separate line items for groundworks, structure, fixed seating, shade and lighting, with materials suitable for sun and moisture. Do not assume air-conditioning, loose furniture or utility extensions are included. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-Do not approve **outdoor seating construction** based solely on a reference picture. Provide site dimensions, openings and photos of the ground or wall fixings; clarify interfaces with existing services and finishes.
-
-**Contractor responsibilities:** Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Compare engineered details, anchors, warranty and approval obligations. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Test safe access and any provided services.
+**Handover inspection:** Test safe circulation, fixed seating, switch locations and cleanability; check that exits remain unobstructed.
 
 ## 4. External fence installation
 
-**Service-specific planning:** Survey fence lines, gates and levels before installing posts.
+**When needed and evidence for pricing:** Provide an approved plot-boundary drawing where available, measure lengths, heights and gates, and photograph level changes and adjacent services. Never estimate legal boundaries by eye.
 
+**Scope, exclusions and quotation comparison:** Compare fence material, foundations, posts, corrosion protection, gate hinges and coating. Specify who checks boundaries and permissions, removes the old fence and disposes of waste. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-For **external fence installation**, map the intended work and explain the existing condition before discussing a quote. Provide site dimensions, openings and photos of the ground or wall fixings. Make the quantities and limitations explicit.
-
-**Quotation and agreement:** Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Compare engineered details, anchors, warranty and approval obligations. Include the programme, protection duties and inspection milestones.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check line, level and gate operation.
+**Handover inspection:** Check alignment, post spacing, gate and lock operation and safe edges; verify the approved boundary is respected.
 
 ## 5. Garden pathway construction
 
-**Service-specific planning:** Plan path width and slope to keep entrances accessible and dry.
+**When needed and evidence for pricing:** Sketch the walking route from gate to entrances, noting usable width, levels, irrigation and existing trees. Photograph ponding and thresholds.
 
+**Scope, exclusions and quotation comparison:** Compare excavation, sub-base, compaction, edge restraint, surface finish, slip resistance and falls. Clarify tree-root protection and irrigation diversion; exclude planting and lighting unless priced. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-The scope of **garden pathway construction** can change significantly after a site survey. Provide site dimensions, openings and photos of the ground or wall fixings and ask what information is still needed to price the work accurately.
-
-**Exclusions and comparison:** Compare engineered details, anchors, warranty and approval obligations. Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Record variations, approvals and payment stages before work starts.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Inspect joins, trip edges and drainage.
+**Handover inspection:** Walk the route to check trip points, joints, gradients, drainage and unobstructed doors.
 
 ## 6. Interlock paving
 
-**Service-specific planning:** Prepare the sub-base and edge restraints for interlock paving.
+**When needed and evidence for pricing:** Measure the area in square metres, state pedestrian or vehicle loading, and photograph soil, previous settlement, service covers and door thresholds.
 
+**Scope, exclusions and quotation comparison:** Compare paver type and thickness, base layers, compaction, bedding, joints, edge restraints and drainage. Specify old-paver removal, waste transport and cover adjustments. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-Do not approve **interlock paving** based solely on a reference picture. Provide site dimensions, openings and photos of the ground or wall fixings; clarify interfaces with existing services and finishes.
-
-**Contractor responsibilities:** Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Compare engineered details, anchors, warranty and approval obligations. Agree samples or drawings, testing responsibilities and who signs off each stage.
-
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Check level and movement under intended traffic.
+**Handover inspection:** Check consistent joints, stable edges, no movement under expected loads and no standing water after an appropriate test.
 
 ## 7. Water features and fountains
 
-**Service-specific planning:** Design water-feature pumps and electrics with service access and safe isolation.
+**When needed and evidence for pricing:** Define basin size, depth, location and operating mode. Photograph water, power and drainage points and child-access areas; request a circulation and maintenance layout.
 
+**Scope, exclusions and quotation comparison:** Compare waterproofing and testing, pump, filtration, suitable electrical protection near water, isolation and cleaning access. Itemise water supply, lighting and excavation; qualified specialists must review electrical work. Agree drawings, samples, quantities, schedule, payment milestones and written variation approval before work begins.
 
-For **water features and fountains**, map the intended work and explain the existing condition before discussing a quote. Provide site dimensions, openings and photos of the ground or wall fixings. Make the quantities and limitations explicit.
+**Handover inspection:** Require leak and pump-operation tests and safe shutdown; check noise, overspray, maintenance access and operating instructions.
 
-**Quotation and agreement:** Define materials, sun/corrosion protection, drainage, foundations, lifting and surface reinstatement. Compare engineered details, anchors, warranty and approval obligations. Include the programme, protection duties and inspection milestones.
+## Preparing a quotation request
 
-**Acceptance:** Identify load-bearing supports, required clearances and drainage paths before fabrication or groundworks. Confirm the agreed result on site and record photographs, tests and any snag items before final payment.
-
-**Distinct acceptance check:** Test leaks, circulation and shutdown.
-
-## Requesting quotes with Biet Al Reef
-
-Send the service description, site photos, dimensions and any available drawings, including what must remain undisturbed. Biet Al Reef customer service can help structure the request and look for suitable companies; availability, pricing and dates are not guaranteed.
+Send the service name, site location, overview and detail photos, dimensions, intended use and available drawings. Request separate material, labour, permit, transport and warranty items. Biet Al Reef customer service may help structure an enquiry even if no company is listed, **without guaranteeing a supplier, price or date**.

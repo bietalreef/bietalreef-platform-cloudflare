@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "display_files": 15,
+  "webp_files": 15,
+  "hero_files": 2,
+  "specialties": 8,
+  "cases": 4,
+  "og_files": 1,
+  "total_bytes": 1295090,
+  "max_file_bytes": 129020,
+  "checks": [
+    "WebP decoding",
+    "dimensions",
+    "file sizes",
+    "SHA-256",
+    "unique bilingual alt",
+    "preview image links",
+    "one H1",
+    "full original article text preserved",
+    "42 source service entries"
+  ],
+  "browser_test": "See browser-validation.json if available; static checks alone are not a browser test."
+}

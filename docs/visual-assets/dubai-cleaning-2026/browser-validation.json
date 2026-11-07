@@ -1,0 +1,9 @@
+{
+  "status": "not_completed",
+  "requested_viewports": [
+    390,
+    1440
+  ],
+  "reason": "No installed browser; Chromium download failed with truncated/non-ZIP payload. Static checks do not prove viewport rendering.",
+  "static_validation": "validation.json"
+}

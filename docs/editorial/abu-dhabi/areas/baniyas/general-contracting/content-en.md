@@ -95,3 +95,48 @@ Estimate debris volume and material types; show the loading route, gate width an
 
 ## Quotation request checklist
 Send a site plan and available drawings, dimensions or quantities, current-condition photographs, required finish standard, occupancy constraints and procurement scope. Ask for a bill of quantities, exclusions, payment milestones and inspection points. Individual tradespeople belong to a separate classification.
+
+
+## Garden landscaping and maintenance — source category currently not selectable
+
+### Home garden design
+Measure the plot, boundaries, shade patterns, entrances and available water and power points before commissioning a layout. Ask for scaled planting, seating, circulation and drainage plans, plus a plant schedule with quantities and supply sizes. Compare design fees by deliverables, revisions and construction details; a rendering alone is not a measurable handover.
+
+### Villa garden landscaping
+Survey levels and identify existing trees, inspection covers and buried services to protect. Separate soil preparation, irrigation, planting, edging, lighting and paths in the quotation. Confirm responsibility for waterproofing and utility protection. Inspect grading, irrigation operation and the installed plant list at handover.
+
+### Outdoor space design
+Explain whether the space is intended for play, seating, walking or cooking, including expected users and accessibility needs. The plan should resolve pedestrian routes, shade, lighting, drainage and junctions with the building. Compare usability and upkeep alongside appearance, and request dimensioned drawings and a material schedule.
+
+### Green lawn establishment
+Provide the area in square metres, intended foot traffic and available irrigation. Require assessment of soil, levels and drainage before planting. Quotes should identify soil preparation, turf establishment method, initial watering, establishment period and treatment of failed patches. Check evenness, drainage and written aftercare instructions.
+
+### Tree and shrub planting
+Mark planting positions and distances from walls and utilities, and list species, quantities and required nursery sizes. Compare root-ball quality, excavation, soil amendment, supports and watering rather than tree count alone. Check planting depth, stability, undamaged stems and an agreed establishment follow-up.
+
+### Natural turf installation
+State the lawn area, shade exposure and use, with photographs of soil and sprinkler points. Pricing should distinguish weed clearance, grading, growing medium, turf species and origin, laying and establishment watering. Check joints, bare patches and irrigation coverage; agree when heavy use can begin.
+
+### Artificial grass installation
+Measure the area and explain whether it is decorative, for walking or for children's play. Request physical samples and specifications for pile, backing, infill, base layers, drainage, seams and anchoring. Compare warranties and stated heat and wear limitations. Inspect levelness, unobtrusive joins and drainage after testing.
+
+### Plant and tree installation
+Supply a location plan, species and quantities, with photographs of sun exposure and planter dimensions. Specify delivery size, soil mix, initial feeding and irrigation for each plant group. Small nursery plants should not be priced as mature trees. Match labels and quantities at handover and inspect visible plant health and root-zone watering.
+
+### Tree pruning and shaping
+Record tree counts, heights and proximity to buildings or cables, with photographs of affected branches. Agree the extent of pruning, access equipment, protection and green-waste removal; major limb removal warrants suitable assessment. Inspect cuts, trunk condition and site clearance. Pruning is not the same scope as complete tree removal.
+
+### Lawn maintenance
+Provide lawn area, grass type and photographs of yellowing or waterlogging. The contract should specify visits, mowing, aeration where needed, weed control, sprinkler checks and how damaged patches are handled. Separate consumables from labour and assess dated condition photographs and visit records, not attendance alone.
+
+### Plant fertilisation and treatment
+Photograph leaves, stems and soil, and disclose previous watering and fertiliser use. Yellowing can reflect irrigation or salinity rather than nutrient deficiency. Request a diagnosis, product, application rate, safety measures and monitoring plan. Record subsequent growth and any adverse effects instead of accepting an unspecified chemical treatment.
+
+### Garden pest management
+Identify affected plants, damage and any visible insects; disclose pets, children and nearby water features. The provider should identify the pest and consider appropriate non-chemical measures before specifying any permitted product, application controls and re-entry precautions. Request a treatment report and follow-up criteria, not a guarantee of permanent eradication.
+
+### Garden cleaning
+Show the paths, planters, leaves and waste piles, and distinguish green-waste collection from pressure washing or weeding. Compare quotations by area, waste volume, loading, removal and protection of irrigation and planting. Check that paths and beds are clear and drains are not blocked by cuttings.
+
+### Garden maintenance contracts
+Provide landscaped area, plant inventory, irrigation layout and desired condition. Request a seasonal visit schedule separating mowing, pruning, fertilising, pest monitoring and repairs. Clarify excluded materials, spare parts, emergency call-outs and measurable service standards. Review visit logs, photographs and invoices before renewal.

@@ -58,7 +58,8 @@
       "kind": "district",
       "status": "in_progress",
       "completed_sectors": [
-        "general-contracting"
+        "general-contracting",
+        "interior-design"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-ar.md",
@@ -70,7 +71,7 @@
         "docs/editorial/abu-dhabi/areas/baniyas/interior-design/review.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Baniyas: general-contracting 56/56 complete; interior-design architectural 14 plus structural 7 = 21/49 in both languages; 28 design services remain. Total 77/434 per language, 1/8 sectors complete. Continue Baniyas."
+      "review_note": "Baniyas: 56/56 general-contracting and 49/49 interior-design verified in both languages (105/434 total; 2/8 sectors, 10/50 specialties). Next general-maintenance 105 services; 329 remain. Continue Baniyas in_progress."
     },
     {
       "sequence": 2,

@@ -12,7 +12,7 @@
 | --- | ---: | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
-| الصيانة العامة والتشطيبات | 10 | 0 | 0 | pending |
+| الصيانة العامة والتشطيبات | 10 | 3 | 28 per language | in_progress |
 | مواد البناء والتوريد | 5 | 0 | 0 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
@@ -39,10 +39,20 @@
 
 ## Next work
 
-Continue **Al Hili**, starting with the ten company specialties of general maintenance and finishes. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
+Continue **Al Hili**, continuing with the remaining seven company specialties of general maintenance and finishes. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
 
 ## Editorial guardrails
 
 - Company availability is not asserted; customer-service quotation preparation remains available.
 - Landscaping, irrigation and outdoor structures are currently non-selectable in the taxonomy; these pages are informational, not evidence of activation.
 - No code, database, merge or live site publication was performed.
+
+## Maintenance and finishes — verified in run 3
+
+- **general-maintenance** — 14 services: [Arabic](./general-maintenance/general-maintenance/content-ar.md) · [English](./general-maintenance/general-maintenance/content-en.md) · [Review](./general-maintenance/general-maintenance/review.md)
+- **integrated-finishes** — 7 services: [Arabic](./general-maintenance/integrated-finishes/content-ar.md) · [English](./general-maintenance/integrated-finishes/content-en.md) · [Review](./general-maintenance/integrated-finishes/review.md)
+- **gypsum-decor** — 7 services: [Arabic](./general-maintenance/gypsum-decor/content-ar.md) · [English](./general-maintenance/gypsum-decor/content-en.md) · [Review](./general-maintenance/gypsum-decor/review.md)
+
+- 3 additional specialties; 28 services per language; 9/9 files read back from GitHub.
+- Overall Al Hili progress: 13/50 company specialties, 133 service sections per language, 3/10 maintenance specialties.
+- Next: flooring and cladding, electrical and lighting, plumbing and leak detection, HVAC, smart systems and surveillance, painting, waterproofing and insulation; then remaining four sectors. **Al Hili remains in_progress.**

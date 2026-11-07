@@ -14,7 +14,7 @@
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
 | الصيانة العامة والتشطيبات | 10 | 10 | 105 per language | reviewed_content |
 | مواد البناء والتوريد | 5 | 5 | 49 per language | reviewed_content |
-| ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 1 | 14 per language | in_progress |
+| ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 5 | 56 per language | reviewed_content |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
 | المصانع ومعدات الإيجار | 8 | 0 | 0 | pending |
 | التنظيف والتعقيم ومكافحة الحشرات | 8 | 0 | 0 | pending |
@@ -112,3 +112,11 @@ Continue **Al Hili** with the five workshop specialties, followed by furniture, 
 - Overall Al Hili: **26/50 company specialties, 273 services per language, 4/8 complete sectors**. **in_progress**.
 - Next exact workshop specialties: **الأثاث والديكور الخشبي؛ أعمال الألمنيوم والأبواب والنوافذ؛ الواجهات والأعمال الزجاجية؛ تشكيل الحديد والمعادن**. Then all four furniture specialties, eight factory/equipment specialties and eight cleaning/pest-control specialties.
 - The area remains incomplete; do not advance to Al Jimi. No code, database, merge or site publication.
+
+
+## Workshop completion — direct continuation
+
+- The final four company specialties were authored bilingually and GitHub-read-back verified: **الأثاث والديكور الخشبي (14)**, **أعمال الألمنيوم والأبواب والنوافذ (14)**, **الواجهات والأعمال الزجاجية (7)**, **تشكيل الحديد والمعادن (7)**.
+- New files: 12/12 verified; Arabic/English service headings: 42/42.
+- [Wood furniture and decor](./aluminium-glass/wood-furniture-decor/review.md) · [Aluminium doors and windows](./aluminium-glass/aluminium-doors-windows/review.md) · [Glazing and facades](./aluminium-glass/glass-facades-works/review.md) · [Metal fabrication](./aluminium-glass/metal-fabrication/review.md).
+- Cumulative: **30/50 specialties, 315 service sections per language; 5/8 sectors**. Status **in_progress**; next **furniture and furnishing (4)**, then **factories and equipment (8)**, then **cleaning and pest control (8)**.

@@ -230,3 +230,10 @@ Specify kerbs, paving units or precast pieces with dimensions and lifting points
 
 Send quantities, work programme, storage and delivery sequences. Compare units, minimum orders, returns and delivery; reconcile labels and invoices.
 
+
+
+## Equipment hire and transport request
+
+Specify machine type, capacity or payload, hire hours/days, work area, access width, ground conditions, risks and operating window. State whether an operator, fuel, delivery, inspection, insurance and site protection are needed, and who bears stoppages and breakdowns. For transport give load dimensions, weight and loading/offloading method. If no company is listed, Biet Al Reef customer support can collect the request without confirming stock or plant.
+
+**Common question:** Does a daily hire rate include an operator? Never assume it; separate labour, delivery, fuel, waiting and start/stop times.

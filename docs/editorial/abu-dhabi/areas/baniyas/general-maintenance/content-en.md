@@ -61,3 +61,63 @@ Describe the fault, frequency and conditions with photographs or a short video, 
 ## Requesting a quotation
 
 Provide the address, property type, clear photographs, task list, approximate dimensions and suitable access times. Compare inspection, repair, materials and final testing scope. If no company is listed, Biet Alreef customer service can receive the enquiry without guaranteeing a provider or price. Individual tradespeople remain separate from companies and establishments.
+
+## Integrated finishing
+
+### 15. Villa finishing
+
+Start with the condition of the structure and installed services, floor count, room schedule and wall and floor areas. Request a materials schedule identifying tile grades, paint systems, doors and sanitary fittings, plus inspections of waterproofing, plumbing and electrical work before ceilings and finishes are closed. Compare measured quantities, specifications and payment milestones; hand over each room against a snag list, photographs and functional tests.
+
+### 16. Apartment finishing
+
+Provide the apartment plan, floor area, building-management rules and permitted working hours, and identify existing finishes to retain. Separate demolition and waste removal from flooring, painting, kitchen and bathroom costs, including protection of lifts and corridors. At handover check wet-area falls, joints, doors, lighting and cleanliness of shared areas.
+
+### 17. Retail-shop finishing
+
+Specify the business use, sales and storage areas, display positions and power and data outlets, with an existing-condition plan and landlord requirements. Obtain shopfront, counter, ceiling and lighting shop drawings before pricing. Compare materials, lead times and tests, and inspect dimensions, finish quality and access to concealed services.
+
+### 18. Office finishing
+
+Staff numbers, meeting rooms and circulation determine partitioning and service locations. Supply a furniture layout and power and network point schedule, with acoustic partition requirements where needed. Compare partitions, flooring, ceilings, lighting and data as distinct items; test outlets, lighting and doors before acceptance.
+
+### 19. Interior-space refurbishment
+
+Photograph the current space, identify elements to retain and explain whether damage or poor layout drives the change. Quotations should separate stripping, protection, substrate repair and new finishes and describe any electrical or plumbing alterations. Approve physical colour and material samples, then inspect junctions between materials and final dimensions.
+
+### 20. Decorative fit-out work
+
+Supply a dimensioned drawing or reference board showing cladding, battens and concealed lighting. Compare thickness, fixing method, maintenance access and moisture suitability rather than appearance alone. Check straight lines, corners, joints, secure fixing and lighting performance after installation.
+
+### 21. Integrated finishing handover
+
+This is inspection and closure of outstanding work, not a synonym for undertaking the entire fit-out. Request a room-by-room register of completed and outstanding items, test results, warranties and material records. Verify remedial photographs and repeat tests, then record accepted items and exceptions in writing before closing the project.
+
+## Gypsum and decorative work
+
+### 22. Gypsum ceiling installation
+
+Record existing and proposed ceiling heights, room areas, AC and light positions and maintenance openings. Compare board type, metal framing, hanger spacing and moisture suitability. Inspect levelness, fixing, edge junctions and service access before painting.
+
+### 23. Gypsum partition walls
+
+Mark partition lines, opening and door sizes and any wall-mounted loads, including acoustic privacy requirements. Bids should specify board layers, studs, internal insulation and reinforcement. Check plumbness, frame stability, outlet positions and joint finishing.
+
+### 24. Concealed-light coves
+
+Specify cove length, depth, light setback, LED strip type and driver location. Compare edge finish, driver ventilation and replacement access, not only the visual effect. Test even illumination, glare and straightness of the opening.
+
+### 25. Decorative gypsum features
+
+Provide drawings of projections, curves and ornaments with dimensions and positions. Ask for a small sample where details are complex, and compare shaping, framing and painting costs separately. Check symmetry, sound edges and crack-free junctions.
+
+### 26. Wood-effect panel installation
+
+Measure the wall, slat direction, corners and outlets, and identify the substrate; approve an actual colour and texture sample. Compare moisture and scratch resistance, fixing method and end trims. Inspect consistent joints, secure panels and clear door and outlet operation.
+
+### 27. Marble-effect panel installation
+
+Measure walls and openings and identify heat and water exposure; not every panel suits every surface. Obtain panel composition, thickness, adhesive and substrate-preparation details, and compare joint layout and pattern direction. Check flatness, sealed edges and neat treatment around sockets and corners.
+
+### 28. Gypsum repair and maintenance
+
+Document cracks, swelling or water marks before covering them. Investigate moisture ingress or frame movement first, then decide whether local patching or board and framing replacement is required. Inspect repair firmness, skim-coat flatness and paint matching after drying.

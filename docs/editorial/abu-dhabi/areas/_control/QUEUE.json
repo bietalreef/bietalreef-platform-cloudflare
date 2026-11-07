@@ -104,11 +104,16 @@
       "name_ar": "مدينة خليفة",
       "name_en": "Khalifa City",
       "kind": "district",
-      "status": "pending",
+      "status": "in_progress",
       "completed_sectors": [],
-      "files": [],
-      "last_attempt": null,
-      "review_note": null
+      "files": [
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
+      ],
+      "last_attempt": "2026-11-07",
+      "review_note": "Verified 14/434 services in Arabic and English; general-contracting first specialty 14/14, sector 14/56. Resume restoration-and-renovation specialty. Seven sectors pending; no publication."
     },
     {
       "sequence": 3,

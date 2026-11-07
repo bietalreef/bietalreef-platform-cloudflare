@@ -14,7 +14,7 @@
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
 | الصيانة العامة والتشطيبات | 10 | 10 | 105 per language | reviewed_content |
 | مواد البناء والتوريد | 5 | 5 | 49 per language | reviewed_content |
-| ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
+| ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 1 | 14 per language | in_progress |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
 | المصانع ومعدات الإيجار | 8 | 0 | 0 | pending |
 | التنظيف والتعقيم ومكافحة الحشرات | 8 | 0 | 0 | pending |
@@ -103,3 +103,12 @@ Continue **Al Hili** with the five workshop specialties, followed by furniture, 
 - Al Hili cumulative: **25/50 company specialties, 259 service sections per language, 4/8 sectors**. Status **in_progress**.
 - Pending exactly: workshops (5 specialties), furniture and furnishing (4), factories and equipment rental (8), cleaning and pest control (8). Do not advance to Al Jimi.
 - No software, database, merge or live publication.
+
+
+## Workshops — run 7 continuation
+
+- **wood-kitchens-cabinets-doors** — 14 services: [Arabic](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [English](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [Review](./aluminium-glass/wood-kitchens-cabinets-doors/review.md)
+- Three new files read back from GitHub, bilingual service heading counts 14/14.
+- Overall Al Hili: **26/50 company specialties, 273 services per language, 4/8 complete sectors**. **in_progress**.
+- Next exact workshop specialties: **الأثاث والديكور الخشبي؛ أعمال الألمنيوم والأبواب والنوافذ؛ الواجهات والأعمال الزجاجية؛ تشكيل الحديد والمعادن**. Then all four furniture specialties, eight factory/equipment specialties and eight cleaning/pest-control specialties.
+- The area remains incomplete; do not advance to Al Jimi. No code, database, merge or site publication.

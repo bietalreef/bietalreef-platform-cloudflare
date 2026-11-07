@@ -8,15 +8,15 @@ For a Khalifa City room redesign, check ceilings, lighting and air-conditioning 
 
 ### 1. Villa design
 
-Start with household size, reception arrangements and privacy needs. Have the designer reconcile room layouts with a measured plot, access points and applicable site constraints. Compare proposals by floor plans, circulation, elevations, coordination with structural and building services disciplines, and included revision rounds. Check room, door and parking dimensions against the agreed brief before accepting the design.
+For a Khalifa City villa brief, begin with a room schedule: bedrooms, a separate guest entrance, how the majlis connects to the kitchen and service areas, and rooms that may change use as the household evolves. Provide available plot documents and photographs of existing access; do not assume setbacks or building allowances from informal estimates. Ask for at least two circulation and privacy options, with a net room-area schedule that distinguishes usable space from wall thicknesses. Compare fees on measured survey work, architectural drawings, structural and MEP coordination, revision rounds and access to editable deliverables. Before sign-off, walk through guest arrival, large-furniture movement and maintenance access to cooling equipment. A photorealistic rendering is not a substitute for dimensioned plans.
 
 ### 2. Residential building design
 
-Define unit count, unit sizes, separate entrances and shared utilities. Survey the plot and levels, then locate lifts and stairs before comparing schemes. Request unit area schedules, floor plans and circulation diagrams; have the responsible professional check access and escape provisions against the project's applicable requirements.
+For a multi-unit residential building, provide more than a total floor-area target. List the unit mix, shared corridors, meter and waste rooms, and service spaces. Explain whether units will be occupied or let independently, because privacy and maintainable utility access affect the layout. Compare schemes by genuinely usable room areas, daylight, ventilation, furniture delivery routes, and access to lifts and stairs. Request coordinated discipline drawings and a clash schedule before structural columns or service risers are fixed within useful space. At handover, reconcile area schedules, door clearances, levels and drawing interfaces; the responsible engineer must check applicable life-safety and escape requirements rather than presuming prior approval.
 
 ### 3. Commercial building design
 
-Specify intended uses, lettable areas, storage, loading and visitor flows. Compare layouts for future subdivision, service distribution and operational space rather than façade appearance alone. The handover should show entrances, exits, clear dimensions and interfaces requiring engineering coordination.
+Define intended uses by floor before commissioning a commercial façade: independent retail units, offices, storage or loading may demand different layouts. Supply site dimensions, access points and any available service drawings, and distinguish lettable or operational areas from plant rooms and circulation. Compare options for future unit subdivision, goods movement separated from visitors, and safe maintenance access without shutting down operations. The consultant's scope should identify circulation drawings, clear-height sections, and loading and operating assumptions for specialist review, while explicitly excluding items such as individual tenant shopfront design where relevant. Accept revision-controlled files and documented structural, mechanical and electrical interfaces, not presentation images alone.
 
 ### 4. Architectural drawing preparation
 

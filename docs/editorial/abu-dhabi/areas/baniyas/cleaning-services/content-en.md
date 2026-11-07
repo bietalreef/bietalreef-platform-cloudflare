@@ -186,3 +186,10 @@ Map tenants, footfall, circulation, plant rooms, security and cleaning interface
 
 Specify support tasks such as moving, cleaning or setup, with clear boundaries. Compare crews, tools, duration and acceptance point; document exclusions and consumable responsibility.
 
+
+
+## Cleaning or pest-management quotation brief
+
+Describe site use, measured area, rooms/floors, surfaces, stains, close-up photographs, sensitive materials, access time and available water/power. Distinguish cleaning, stain removal, disinfection, pest treatment and preventive maintenance: they have different methods and outcomes. If no company is listed, Biet Al Reef customer support can collect details through the quotation form without guaranteeing a crew or result.
+
+**Common question:** Does steam cleaning prove disinfection? No. Any claim depends on the validated process or product, contact time and surface, not the name alone.

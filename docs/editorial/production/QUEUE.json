@@ -1,0 +1,364 @@
+{
+  "schema_version": 1,
+  "source": "Biet_Al_Reef_Taxonomy_Review_AR(3).md, pending migration",
+  "repo": "bietalreef/bietalreef-platform-cloudflare",
+  "branch": "content/dubai-explore-guides-20261107",
+  "last_verified": "2026-11-07",
+  "instruction_path": "docs/editorial/production/WORKFLOW.md",
+  "sector_prompts": "docs/editorial/production/prompts/<sector>.md",
+  "completion_rule": "Completed only after exact required Markdown and HTML files exist on GitHub and are verified. Never skip blocked units.",
+  "units": [
+    {
+      "id": "abu-dhabi-emirate/general-contracting",
+      "seq": 1,
+      "phase": "abu-dhabi-emirate",
+      "sector": "general-contracting",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/general-contracting",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/interior-design",
+      "seq": 2,
+      "phase": "abu-dhabi-emirate",
+      "sector": "interior-design",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/interior-design",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/general-maintenance",
+      "seq": 3,
+      "phase": "abu-dhabi-emirate",
+      "sector": "general-maintenance",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/general-maintenance",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/building-materials",
+      "seq": 4,
+      "phase": "abu-dhabi-emirate",
+      "sector": "building-materials",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/building-materials",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/aluminium-glass",
+      "seq": 5,
+      "phase": "abu-dhabi-emirate",
+      "sector": "aluminium-glass",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/aluminium-glass",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/furniture-decor",
+      "seq": 6,
+      "phase": "abu-dhabi-emirate",
+      "sector": "furniture-decor",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/furniture-decor",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/equipment-rental",
+      "seq": 7,
+      "phase": "abu-dhabi-emirate",
+      "sector": "equipment-rental",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/equipment-rental",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "abu-dhabi-emirate/cleaning-services",
+      "seq": 8,
+      "phase": "abu-dhabi-emirate",
+      "sector": "cleaning-services",
+      "content_directory": "docs/editorial/abu-dhabi/emirate/cleaning-services",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/general-contracting",
+      "seq": 9,
+      "phase": "al-ain-city",
+      "sector": "general-contracting",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/general-contracting",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/interior-design",
+      "seq": 10,
+      "phase": "al-ain-city",
+      "sector": "interior-design",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/interior-design",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/general-maintenance",
+      "seq": 11,
+      "phase": "al-ain-city",
+      "sector": "general-maintenance",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/general-maintenance",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/building-materials",
+      "seq": 12,
+      "phase": "al-ain-city",
+      "sector": "building-materials",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/building-materials",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/aluminium-glass",
+      "seq": 13,
+      "phase": "al-ain-city",
+      "sector": "aluminium-glass",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/aluminium-glass",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/furniture-decor",
+      "seq": 14,
+      "phase": "al-ain-city",
+      "sector": "furniture-decor",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/furniture-decor",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/equipment-rental",
+      "seq": 15,
+      "phase": "al-ain-city",
+      "sector": "equipment-rental",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/equipment-rental",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "al-ain-city/cleaning-services",
+      "seq": 16,
+      "phase": "al-ain-city",
+      "sector": "cleaning-services",
+      "content_directory": "docs/editorial/abu-dhabi/al-ain/cleaning-services",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/general-contracting",
+      "seq": 17,
+      "phase": "dubai-en",
+      "sector": "general-contracting",
+      "content_directory": "docs/editorial/dubai/general-contracting",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/interior-design",
+      "seq": 18,
+      "phase": "dubai-en",
+      "sector": "interior-design",
+      "content_directory": "docs/editorial/dubai/interior-design",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/general-maintenance",
+      "seq": 19,
+      "phase": "dubai-en",
+      "sector": "general-maintenance",
+      "content_directory": "docs/editorial/dubai/general-maintenance",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/building-materials",
+      "seq": 20,
+      "phase": "dubai-en",
+      "sector": "building-materials",
+      "content_directory": "docs/editorial/dubai/building-materials",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/aluminium-glass",
+      "seq": 21,
+      "phase": "dubai-en",
+      "sector": "aluminium-glass",
+      "content_directory": "docs/editorial/dubai/aluminium-glass",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/furniture-decor",
+      "seq": 22,
+      "phase": "dubai-en",
+      "sector": "furniture-decor",
+      "content_directory": "docs/editorial/dubai/furniture-decor",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/equipment-rental",
+      "seq": 23,
+      "phase": "dubai-en",
+      "sector": "equipment-rental",
+      "content_directory": "docs/editorial/dubai/equipment-rental",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    },
+    {
+      "id": "dubai-en/cleaning-services",
+      "seq": 24,
+      "phase": "dubai-en",
+      "sector": "cleaning-services",
+      "content_directory": "docs/editorial/dubai/cleaning-services",
+      "languages": [
+        "en"
+      ],
+      "status": "pending",
+      "files": [],
+      "quality_report": null,
+      "last_attempt": null
+    }
+  ]
+}

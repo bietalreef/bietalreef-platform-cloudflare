@@ -1,6 +1,6 @@
 # المويجعي | AREA_REVIEW
 
-- Status: **in_progress** — three sectors authored; remaining five sectors outstanding.
+- Status: **in_progress** — four sectors authored; remaining four sectors outstanding.
 - Branch: `content/al-ain-district-services-20261107`; editorial Markdown only.
 - Reference taxonomy: [TAXONOMY_SOURCE_AR.md](../_control/TAXONOMY_SOURCE_AR.md).
 - Source company specialties: 50 across 8 sectors; expected 434 named services in each language.
@@ -13,8 +13,8 @@
 - شبكات الري: 7 services — [AR](./general-contracting/irrigation-networks/content-ar.md) · [EN](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md)
 - المظلات والأعمال الخارجية: 7 services — [AR](./general-contracting/shade-outdoor-works/content-ar.md) · [EN](./general-contracting/shade-outdoor-works/content-en.md) · [review](./general-contracting/shade-outdoor-works/review.md)
 
-- Current coverage: **20/50 specialties; 210/434 services per language; 3/8 sectors**.
-- Missing: construction materials, workshops, furnishing, factories/equipment, cleaning/pest-control.
+- Current coverage: **25/50 specialties; 259/434 services per language; 4/8 sectors**.
+- Missing: workshops, furnishing, factories/equipment, cleaning/pest-control.
 - No site or code publication, branch merge or database changes.
 
 ## الاستشارات الهندسية والتصميم والديكور
@@ -38,3 +38,12 @@
 - waterproofing-thermal-insulation — 7 services [AR](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [EN](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [Review](./general-maintenance/waterproofing-thermal-insulation/review.md)
 
 - Cumulative **20/50 company specialties; 210/434 service sections per language; 3/8 sectors**.
+
+## مواد البناء والتوريد
+- building-finishing-materials: 21 services — [AR](./building-materials/building-finishing-materials/content-ar.md) · [EN](./building-materials/building-finishing-materials/content-en.md) · [Review](./building-materials/building-finishing-materials/review.md)
+- timber-panels: 7 services — [AR](./building-materials/timber-panels/content-ar.md) · [EN](./building-materials/timber-panels/content-en.md) · [Review](./building-materials/timber-panels/review.md)
+- marble-granite: 7 services — [AR](./building-materials/marble-granite/content-ar.md) · [EN](./building-materials/marble-granite/content-en.md) · [Review](./building-materials/marble-granite/review.md)
+- kitchen-countertops: 7 services — [AR](./building-materials/kitchen-countertops/content-ar.md) · [EN](./building-materials/kitchen-countertops/content-en.md) · [Review](./building-materials/kitchen-countertops/review.md)
+- ceramic-porcelain: 7 services — [AR](./building-materials/ceramic-porcelain/content-ar.md) · [EN](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md)
+
+- 25/50 company specialties, 259/434 service sections per language, 4/8 sectors.

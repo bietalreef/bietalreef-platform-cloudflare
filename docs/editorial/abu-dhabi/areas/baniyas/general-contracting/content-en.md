@@ -140,3 +140,52 @@ Show the paths, planters, leaves and waste piles, and distinguish green-waste co
 
 ### Garden maintenance contracts
 Provide landscaped area, plant inventory, irrigation layout and desired condition. Request a seasonal visit schedule separating mowing, pruning, fertilising, pest monitoring and repairs. Clarify excluded materials, spare parts, emergency call-outs and measurable service standards. Review visit logs, photographs and invoices before renewal.
+
+
+## Irrigation networks — source category currently not selectable
+
+### Irrigation network design
+Provide planting zones, plant types, water source, site levels and available pressure. The designer should group plants by water demand, calculate flow and pressure losses, and specify pipe sizes, filters, valves and controller zones. Compare hydraulic calculations and installation drawings rather than sprinkler counts alone; require an as-built plan showing buried routes and isolation points.
+
+### Drip irrigation installation
+Measure beds and planting rows, identify soil type and water supply, and specify emitter spacing and discharge rates. Quotations should include filtration, pressure regulation, flushing ends and protection of exposed tubing. Run the system and compare wetting at the first and last emitters; inspect joints and routes for damage risks.
+
+### Sprinkler installation
+Send lawn dimensions and the positions of walls, paths and plants sensitive to spray. Require head type, throw radius, arc settings, operating pressure and a layout designed for even coverage without watering paving. Witness an operating test, adjust arcs and check for leaks at sprinkler connections.
+
+### Irrigation tanks and pump installation
+State storage capacity, irrigation zones, elevation changes and estimated demand. The proposal should size the tank and pump, specify dry-run protection, isolation valves, accessible maintenance and suitable electrical safeguards. Separate supply, installation and commissioning costs; witness pressure and flow tests and receive filter maintenance instructions.
+
+### Irrigation network maintenance
+Describe low pressure, dry patches or continuous running, and photograph the controller and meter where available. Diagnosis should check filters, valves, emitters, heads and buried lines before parts are replaced. Request a fault report, itemised replacements and a witnessed test of every zone after repair.
+
+### Automatic irrigation controller programming
+Provide zone count, planting types, site use and any water-supply restrictions. Configure days, runtimes, sequencing and supported rain or fault overrides instead of applying one timer to all plants. Verify manual and scheduled operation, and obtain a written programme and instructions for seasonal adjustment.
+
+### Irrigation leak detection
+Photograph wet patches, subsidence and any unusual meter readings; note whether leakage occurs in a particular zone. Isolate zones and check pressure or meter movement before excavation. Agree the suspected location, excavation limits, pipe repair and reinstatement scope; pressure-test the repaired line and compare subsequent consumption.
+
+## Shades and external works — source category currently not selectable
+
+### Car shade installation
+Measure bay widths and lengths, vehicle heights, door swing and turning paths. Specify structural frame, covering, anchorage, drainage and design loads appropriate to the site; check any required approvals before construction. At handover, inspect clearances, fixings, fabric tension and exposed sharp edges.
+
+### Pergola construction
+Provide the seating footprint, desired shade and whether the pergola is freestanding or attached to the building. Compare frame material, protective finish, roofing, foundations and optional lighting separately; detail interfaces with waterproofing and façades. Inspect alignment, anchorage, drainage and maintenance access.
+
+### Outdoor seating area construction
+State expected seating capacity, furniture sizes, access routes and privacy needs, with photographs of existing ground and utility points. The quotation should separate paving build-up, falls, lighting, fixed seating and exposure-appropriate finishes. Inspect drainage, circulation clearances and finished levels before acceptance.
+
+### External fence installation
+Provide boundary lengths, proposed height, gate locations and level changes, using an authoritative boundary survey. Require details of posts, foundations, corrosion protection, finish and treatment of sloping ground; verify applicable permissions before installation. Check alignment, gate operation and sound connections.
+
+### Garden pathway construction
+Mark pathway width and route, intended pedestrian or light-cart use, and existing roots or ponding. Compare paving type, sub-base thickness, edge restraints, falls, slip resistance and accessibility. Inspect finished levels, trip hazards and drainage away from the building.
+
+### Interlocking paver installation
+Provide area, expected loads and whether the paving serves a path or vehicle bay, plus ground-condition photographs. Specify excavation, compaction, base and bedding depths, paver thickness, edge restraints and joint filling. Check levels, falls and restraint stability; a square-metre price without the sub-base specification is not comparable.
+
+### Waterfall and fountain construction
+Provide basin dimensions, location, desired water effect and power and water points, noting nearby children or seating. Request waterproofing, circulation, pump, filtration, overflow drainage and safe maintenance-access details. Witness operational, leak and drainage tests, and receive cleaning and water-use guidance.
+
+**Requesting a quotation:** Where no company is listed, send the site location, photographs, measurements, scope and intended materials to Biet Alreef customer support to prepare an enquiry. This does not activate a restricted category or guarantee provider availability. Individual tradespeople remain in a separate directory.

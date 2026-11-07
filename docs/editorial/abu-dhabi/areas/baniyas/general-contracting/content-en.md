@@ -46,5 +46,28 @@ Photograph cracks, dampness and deterioration, recording locations and when symp
 ### Residential building renovation
 Clarify whether the work involves finishes, systems or layout changes, and whether occupants remain. Request a sequence covering demolition, protection, deliveries, testing and cleaning, with handover checks for each unit and common area.
 
+## Restoration and refurbishment
+
+### Restoration of older buildings
+Commission a condition survey distinguishing superficial deterioration from load-bearing defects. Supply dated photographs showing cracks and damp patches. Request a scope for safe removal, engineer-designed strengthening if required, compatible repair materials and inspection records. Accept documented treatment, not cosmetic concealment.
+
+### Villa refurbishment
+List rooms, bathrooms, kitchens and outdoor elements, and say whether residents remain. Require a room-by-room schedule separating strip-out, plumbing, electrical work, waterproofing, joinery and decoration. Compare shutdowns, materials, exclusions and warranties; test fittings at handover.
+
+### Apartment renovation
+Confirm building-management access, working-hour and waste-handling conditions rather than assuming uniform requirements. Measure surfaces and mark plumbing, power and appliance positions. Require protection of lifts, corridors and neighbouring units, photographs of concealed works and leak and functionality checks.
+
+### Building rehabilitation
+Rehabilitation can address ageing HVAC, electrical, drainage and safety systems as well as damaged fabric. Start with condition reports, maintenance history and target performance. Price each intervention against an inspection or commissioning result, with phased access if the property remains occupied.
+
+### Structural crack remediation
+Record crack width, direction, location and changes over time. Photographs alone cannot determine whether injection or strengthening is suitable. Obtain a structural assessment of the cause and ongoing movement before choosing repairs. Handover should include materials, test records and monitoring recommendations; do not confuse this with paint-crack filling.
+
+### Façade refurbishment
+Identify cladding, render, coatings, heights and defects around windows and joints. Survey fixings and water ingress before choosing colours. Compare preparation, access equipment, pedestrian protection, waterproofing or coating specifications and suitable adhesion and visual acceptance checks.
+
+### Preparing a building for reuse
+Document the old and proposed uses, occupancy, loads, partition layout and service demands. Assess structure, ventilation, electricity, drainage and circulation before quoting alterations. Do not assume a change of use is permitted; appointed specialists should establish applicable approvals. Collect revised drawings and commissioning records at handover.
+
 ## Quotation request checklist
 Send a site plan and available drawings, dimensions or quantities, current-condition photographs, required finish standard, occupancy constraints and procurement scope. Ask for a bill of quantities, exclusions, payment milestones and inspection points. Individual tradespeople belong to a separate classification.

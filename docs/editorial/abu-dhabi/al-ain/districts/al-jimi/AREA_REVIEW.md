@@ -153,3 +153,9 @@
 - أُعيد تحرير 14 خدمة في كل لغة لتخصص [التصميم المعماري والمخططات](./interior-design/architectural-plans/content-ar.md)، مع [النسخة الإنجليزية](./interior-design/architectural-plans/content-en.md) و[المراجعة](./interior-design/architectural-plans/review.md). تحققت إعادة قراءة الملفات الثلاثة حرفيًا بعد الرفع.
 - **أول نقص تالٍ:** `interior-design/structural-design/content-ar.md` ثم `content-en.md` ثم `review.md`؛ وبعده `interior-design/engineering-supervision` وبقية التخصصات وفق الفهرس. لا تبدأ المويجعي قبل اعتماد الجيمي بالكامل.
 - هذا التحديث هو الأحدث؛ سجلات الاستئناف الأقدم أعلاه تاريخية.
+
+## تحديث التحرير — التصميم الإنشائي — 2026-11-07
+
+- الحالة: `in_progress`؛ أُعيد تحرير **8 من 50 تخصصًا**، والمتبقي **42 تخصصًا** مع تدقيق نهائي للـ434 خدمة في كل لغة.
+- أُعيدت كتابة الخدمات السبع في [العربية](./interior-design/structural-design/content-ar.md) و[الإنجليزية](./interior-design/structural-design/content-en.md)، مع [ملف مراجعة](./interior-design/structural-design/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق من تطابقها مع النصوص المرفوعة.
+- نقطة الاستئناف التالية: `interior-design/engineering-supervision/content-ar.md` ثم `content-en.md` و`review.md`، وبعدها `interior-design/interior-materials` ثم القطاعات اللاحقة حسب فهرس المنطقة. سجلات النقاط الأقدم تاريخية.

@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Independent AR/EN rewrite: interior-design 49/49 and general-contracting 1–14/56; GitHub readback verified sequential headings. Remaining originality review 371 services across construction 15–56 and six other sectors. in_progress; no approval/deploy.",
+      "review_note": "Independent AR/EN rewrite: interior-design 49/49 and general-contracting 1–21/56; GitHub readback verified 56 sequential headings in each language. Remaining 364 services for originality review, starting construction service 22. in_progress; no approval/deploy.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "الترميم والتجديد",
+        "specialty": "الهدم والأعمال الخرسانية",
         "rewritten_service_numbers": [
           1,
           2,
@@ -152,14 +152,21 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ],
-        "next_service_number": 15,
-        "remaining_in_sector": 42,
+        "next_service_number": 22,
+        "remaining_in_sector": 35,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 63,
-        "remaining_area_services_for_originality_review": 371,
+        "area_independently_rewritten": 70,
+        "remaining_area_services_for_originality_review": 364,
         "area_editorially_approved": false
       }
     },

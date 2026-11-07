@@ -189,3 +189,10 @@ Provide area, expected loads and whether the paving serves a path or vehicle bay
 Provide basin dimensions, location, desired water effect and power and water points, noting nearby children or seating. Request waterproofing, circulation, pump, filtration, overflow drainage and safe maintenance-access details. Witness operational, leak and drainage tests, and receive cleaning and water-use guidance.
 
 **Requesting a quotation:** Where no company is listed, send the site location, photographs, measurements, scope and intended materials to Biet Alreef customer support to prepare an enquiry. This does not activate a restricted category or guarantee provider availability. Individual tradespeople remain in a separate directory.
+
+
+## Construction quotation information
+
+Provide the project type (new build, restoration or extension), site limits and available drawings, floor areas, photographs and access, required stages, material/finish standards and whether premises are occupied. Ask bidders to separate design and permits—where applicable—from construction, tests, handover and warranties; record exclusions and measurement rules. If no company is listed, Biet Al Reef customer support can receive this information without confirming a contractor or authorising work.
+
+**Common question:** Is a square-metre rate enough to compare projects? Only as an early indicator: foundations, MEP systems, finishes, fees and permit responsibilities need like-for-like quantities.

@@ -134,7 +134,7 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "All 8 sector drafts and reviews saved; 50 specialties, 434 AR and 434 EN service headings verified by read-back. Adapted from existing Baniyas technical guidance, not yet independently localized or fully original; requires service-level editorial rewriting, language and technical review before completed. No publishing."
+      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
     },
     {
       "sequence": 3,
@@ -172,7 +172,7 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "All 8 sectors, 50 specialties, 434 AR and 434 EN service entries saved and verified on review branch. Technical content adapted from Baniyas, NOT yet independently localized; needs original area-specific editorial work and language/technical review before status completed or publishing."
+      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
     },
     {
       "sequence": 4,
@@ -210,7 +210,7 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "8 sector draft files bilingual, 50 specialties and 434 AR/434 EN headings read-back verified; adapted from Baniyas and not independently localized. Original service-level editorial work and technical/language review pending before completed."
+      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
     },
     {
       "sequence": 5,

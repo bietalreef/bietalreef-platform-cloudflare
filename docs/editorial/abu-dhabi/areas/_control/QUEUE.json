@@ -64,10 +64,13 @@
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md"
+        "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/interior-design/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/interior-design/content-en.md",
+        "docs/editorial/abu-dhabi/areas/baniyas/interior-design/review.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Baniyas general-contracting complete: 6 specialties, 56/56 services in both languages verified by GitHub re-read; area 56/434, 1/8 sectors complete. Seven other sectors (378 services per language) remain. Restricted categories remain non-selectable."
+      "review_note": "Baniyas: general-contracting 56/56 complete; interior-design architectural plans 14/49 authored and verified in both languages (1/4 specialties), 35 design services outstanding. Total 70/434 per language; 1/8 sectors complete. Continue Baniyas; no publication."
     },
     {
       "sequence": 2,

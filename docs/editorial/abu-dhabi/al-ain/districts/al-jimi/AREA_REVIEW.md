@@ -16,7 +16,7 @@
 | مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved |
 | ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 4/4 | 24/24 | content_saved |
-| المصانع ومعدات الإيجار (`equipment-rental`) | 0/8 | 0/53 | pending |
+| المصانع ومعدات الإيجار (`equipment-rental`) | 8/8 | 53/53 | content_saved |
 | التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 0/8 | 0/42 | pending |
 
 ## الملفات المكتوبة والمراجعة / Files
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- متبقٍ: التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -92,3 +92,17 @@
 
 - غير القابل للاختيار: تصنيع الأثاث، متاجر الأثاث. المقترح وغير المفعل: التنجيد، الستائر والمفروشات.
 - **34/50 تخصصًا؛ 339/434 خدمة لكل لغة؛ 6/8 قطاعات**. المتبقي المصانع ومعدات الإيجار والتنظيف والتعقيم.
+
+## المصانع ومعدات الإيجار — القطاع السابع
+
+- **construction-lifting-equipment**: 7 services [AR](./equipment-rental/construction-lifting-equipment/content-ar.md) · [EN](./equipment-rental/construction-lifting-equipment/content-en.md) · [review](./equipment-rental/construction-lifting-equipment/review.md)
+- **light-tools-rental**: 7 services [AR](./equipment-rental/light-tools-rental/content-ar.md) · [EN](./equipment-rental/light-tools-rental/content-en.md) · [review](./equipment-rental/light-tools-rental/review.md)
+- **aluminium-glass-factories**: 7 services [AR](./equipment-rental/aluminium-glass-factories/content-ar.md) · [EN](./equipment-rental/aluminium-glass-factories/content-en.md) · [review](./equipment-rental/aluminium-glass-factories/review.md)
+- **marble-stone-factories**: 7 services [AR](./equipment-rental/marble-stone-factories/content-ar.md) · [EN](./equipment-rental/marble-stone-factories/content-en.md) · [review](./equipment-rental/marble-stone-factories/review.md)
+- **tools-equipment-stores**: 7 services [AR](./equipment-rental/tools-equipment-stores/content-ar.md) · [EN](./equipment-rental/tools-equipment-stores/content-en.md) · [review](./equipment-rental/tools-equipment-stores/review.md)
+- **property-moving**: 7 services [AR](./equipment-rental/property-moving/content-ar.md) · [EN](./equipment-rental/property-moving/content-en.md) · [review](./equipment-rental/property-moving/review.md)
+- **project-material-transport**: 7 services [AR](./equipment-rental/project-material-transport/content-ar.md) · [EN](./equipment-rental/project-material-transport/content-en.md) · [review](./equipment-rental/project-material-transport/review.md)
+- **concrete-block-factories**: 4 services [AR](./equipment-rental/concrete-block-factories/content-ar.md) · [EN](./equipment-rental/concrete-block-factories/content-en.md) · [review](./equipment-rental/concrete-block-factories/review.md)
+
+- مصانع الألمنيوم والزجاج ومصانع الرخام والحجر ومتاجر الأدوات والمعدات غير قابلة للاختيار حاليًا؛ مصانع الخرسانة والطابوق مقترحة فقط.
+- **42/50 تخصصًا، 392/434 خدمة لكل لغة، 7/8 قطاعات**. يتبقى قطاع التنظيف والتعقيم ومكافحة الحشرات، 8 تخصصات و42 خدمة لكل لغة.

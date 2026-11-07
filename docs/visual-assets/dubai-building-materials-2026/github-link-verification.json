@@ -1,0 +1,302 @@
+{
+  "status": "pass",
+  "count": 37,
+  "files": [
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-timber-mdf-plywood-supply.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-timber-mdf-plywood-supply.webp",
+      "http_status": 200,
+      "bytes": 71894,
+      "sha256": "5f931aa61519e8f405791d026a620e9441447481905939b522a611de183b54ff",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-materials-boq-planning.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-materials-boq-planning.webp",
+      "http_status": 200,
+      "bytes": 80850,
+      "sha256": "98d2410778faa4c5d18575146e889be70d8760ab3afddc115a57dfaf33cea2fb",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-timber-mdf-plywood-supply-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-timber-mdf-plywood-supply-mobile.webp",
+      "http_status": 200,
+      "bytes": 24436,
+      "sha256": "faa230a4eedc813131dbddcd746003fd9c3107628c51ad10c53b13ac04de9115",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-material-shipment-receiving-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-shipment-receiving-mobile.webp",
+      "http_status": 200,
+      "bytes": 29800,
+      "sha256": "7cd2a0bc029929a7ce6acd01cf667defeb21cf488379b0a164221dcb3f2ba41f",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-finishing-materials-supply-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-finishing-materials-supply-mobile.webp",
+      "http_status": 200,
+      "bytes": 36360,
+      "sha256": "04921ee860d94b88683681facbe47bff7ec85fd00c442a78d332a49ef53de4da",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-insulation-alternative-review.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-insulation-alternative-review.webp",
+      "http_status": 200,
+      "bytes": 58736,
+      "sha256": "2c2e41fb4d3a3a46ae9b37d2229004fe496dea1e01c2a5f5de7722369249c9d7",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-kitchen-countertop-fabrication-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-kitchen-countertop-fabrication-mobile.webp",
+      "http_status": 200,
+      "bytes": 21334,
+      "sha256": "688279b61e7fa1b5a9568382977602c2cb846eb2f78fcb34d369a242985e959d",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-material-delivery-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-material-delivery-mobile.webp",
+      "http_status": 200,
+      "bytes": 32656,
+      "sha256": "4c25a5780d1863f979469a58301acc49915b3abd0a2303161f7d5996afeadf2a",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-insulation-alternative-review-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-insulation-alternative-review-mobile.webp",
+      "http_status": 200,
+      "bytes": 21728,
+      "sha256": "9dba9f355e7910ec3dd5d4484c2221eab3606aa0408c2f588c218cd1f356389f",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero-mobile.webp",
+      "http_status": 200,
+      "bytes": 61182,
+      "sha256": "cf2bf8636a3e631ab5e20d5248543cf480dd0cd4b1eb8a63498097eb861a5a5f",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-material-delivery.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-material-delivery.webp",
+      "http_status": 200,
+      "bytes": 109662,
+      "sha256": "abd82994d38ed6b5fdc5b5fedc10c1e4a8640eb62d4b36b7e33ece2ea3056213",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-material-specification-inspection-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-specification-inspection-mobile.webp",
+      "http_status": 200,
+      "bytes": 21140,
+      "sha256": "bd735ceb91433ced4208ee3260c031f9185709822033cf1167741b3334a1d13a",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/IMAGE_MANIFEST.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/IMAGE_MANIFEST.json",
+      "http_status": 200,
+      "bytes": 50391,
+      "sha256": "0508a0a67d4ffb52cae0d08c1e90ca253147578bc4eb23dee3f93146aa979fc6",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-tile-batch-shade-inspection.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-tile-batch-shade-inspection.webp",
+      "http_status": 200,
+      "bytes": 46174,
+      "sha256": "dd79c1f4b640b5e0a134ca6d88f67f640d5650b8e9b4a0929cd1255de9e09ab2",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-marble-granite-slabs.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-granite-slabs.webp",
+      "http_status": 200,
+      "bytes": 135354,
+      "sha256": "a4c316f4fdbdf2a6ddb4432bbba845263bd17f4ef5c238f9a5ae4e80573a8f11",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-ceramic-porcelain-tiles-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-ceramic-porcelain-tiles-mobile.webp",
+      "http_status": 200,
+      "bytes": 27284,
+      "sha256": "73f3f91a004b34de128a4948905e351a1561aba4f786fd141be46ec0a03a7453",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-kitchen-countertop-fabrication.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-kitchen-countertop-fabrication.webp",
+      "http_status": 200,
+      "bytes": 61984,
+      "sha256": "92780710988478fe3e4de4e40a10950c2bcc50f6f7d2f90a10ca78ed76371f1e",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-material-shipment-receiving.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-shipment-receiving.webp",
+      "http_status": 200,
+      "bytes": 83502,
+      "sha256": "69cc8e1b906e84fa6eb39cff259c1464fbf5639dcab20a11084ea150c22d3ad9",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-marble-elevator-access-check.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-elevator-access-check.webp",
+      "http_status": 200,
+      "bytes": 74144,
+      "sha256": "692c663b7c6bbbcde43219bd10c583d1e09f4716ab9f061326b64ed12fe6ef08",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-ceramic-porcelain-tiles.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-ceramic-porcelain-tiles.webp",
+      "http_status": 200,
+      "bytes": 75460,
+      "sha256": "2c8c21ff2b7c865ef9b53ff18e971bbdec521703b963d6af7d1fe528bcc0fd2a",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-material-specification-inspection.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-specification-inspection.webp",
+      "http_status": 200,
+      "bytes": 58352,
+      "sha256": "9315e480e80e8e10e69a71744179f6afed3ea7d63373537f3e4850b57644b1b3",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-marble-elevator-access-check-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-elevator-access-check-mobile.webp",
+      "http_status": 200,
+      "bytes": 24706,
+      "sha256": "149acb0948b709b3db865d85ae83f6eeac32132b8dd774fc2df2e9b69d349b46",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-finishing-materials-supply.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-finishing-materials-supply.webp",
+      "http_status": 200,
+      "bytes": 120312,
+      "sha256": "c9e510ca4fda426206e7eb10e643438308129b2692e33daf4e9456cbf5aecf01",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-materials-og.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-og.webp",
+      "http_status": 200,
+      "bytes": 89304,
+      "sha256": "926754ef88488f0b529b0a9d38688a56106143a0663cc11ffd466e6f22283ffa",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-marble-granite-slabs-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-granite-slabs-mobile.webp",
+      "http_status": 200,
+      "bytes": 42206,
+      "sha256": "8bdfa4a6c41db8188de19fdc86960f62deb52886a883db25d159279155177899",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-materials-boq-planning-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-materials-boq-planning-mobile.webp",
+      "http_status": 200,
+      "bytes": 24978,
+      "sha256": "3a780e82eaa3a4e1307354dcfe6bac60593c49d64e449812e5921f3f8cc01738",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero.webp",
+      "http_status": 200,
+      "bytes": 112840,
+      "sha256": "a059e8cb7fc704486fd6e4e25927e9f06b8bd4ccfd010823fd55f669522d0fa9",
+      "match": true
+    },
+    {
+      "path": "public/images/uae/dubai/building-materials/dubai-tile-batch-shade-inspection-mobile.webp",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-tile-batch-shade-inspection-mobile.webp",
+      "http_status": 200,
+      "bytes": 17018,
+      "sha256": "8810cda437ebcf04c83f4ceb359a220b9e8b84cbc528705ee7cad1e353c5ad50",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/placement-map.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/placement-map.md",
+      "http_status": 200,
+      "bytes": 9201,
+      "sha256": "13cd107d7895fba917a1d750c02d73bfcebe5f429ebf5b0109a818edcec08d99",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/browser-validation.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/browser-validation.json",
+      "http_status": 200,
+      "bytes": 372,
+      "sha256": "d7c36f313a2cf4f9aec596084dad7f253e671bbeb2f95f144b6e5479947e3fa6",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/preview.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/preview.html",
+      "http_status": 200,
+      "bytes": 116128,
+      "sha256": "e2a65aa07428a6bff72ba0fc3debd6521a33b0ef8e169ced3b1d1ed5abc4736f",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/preview-desktop.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/preview-desktop.html",
+      "http_status": 200,
+      "bytes": 562,
+      "sha256": "22b80e1a07cd51f8c28427ba1bbb3e4ead758047568c7171e9f564ad7dc663d4",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/validation.json",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/validation.json",
+      "http_status": 200,
+      "bytes": 399,
+      "sha256": "c368f8aa5819251cdc55951169aa47afeb91569533bbe294f1c7bb5556403926",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/README.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/README.md",
+      "http_status": 200,
+      "bytes": 1067,
+      "sha256": "27e61cefd33c5ddb4e160519f0821f9f29ad0b4c5da1c4c9d4e57cfcd21e64e1",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/quality-report.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/quality-report.md",
+      "http_status": 200,
+      "bytes": 4667,
+      "sha256": "8bc8c45b969eccfae5f62b45a92987c3852bd83ccbb781d1418224b2e0df49ec",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/service-coverage.md",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/service-coverage.md",
+      "http_status": 200,
+      "bytes": 7532,
+      "sha256": "f9e9d54ea704e4b61192c7f28c58533363f1a3cf1b8494f0925cb02651e54865",
+      "match": true
+    },
+    {
+      "path": "docs/visual-assets/dubai-building-materials-2026/preview-mobile.html",
+      "url": "https://raw.githubusercontent.com/bietalreef/bietalreef-platform-cloudflare/refs/heads/assets/dubai-building-materials-visuals-20261107/docs/visual-assets/dubai-building-materials-2026/preview-mobile.html",
+      "http_status": 200,
+      "bytes": 559,
+      "sha256": "0e3d7c6902e03b28949c914d2c4cbdeca401fbcf88a19c8e07f29fe281bda687",
+      "match": true
+    }
+  ]
+}

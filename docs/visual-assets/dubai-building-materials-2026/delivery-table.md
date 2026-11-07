@@ -1,0 +1,25 @@
+# جدول تسليم الأصول الخمسة عشر
+
+| # | اسم الملف | المقاس | الحجم بالبايت | الرابط | حالة المراجعة |
+|---|---|---|---|---|---|
+| 01 | dubai-building-materials-warehouse-hero.webp | 1920×640 | 112840 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 02 | dubai-building-materials-warehouse-hero-mobile.webp | 900×650 | 61182 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-warehouse-hero-mobile.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 03 | dubai-building-finishing-materials-supply.webp | 1200×900 | 120312 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-finishing-materials-supply.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 04 | dubai-timber-mdf-plywood-supply.webp | 1200×900 | 71894 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-timber-mdf-plywood-supply.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 05 | dubai-marble-granite-slabs.webp | 1200×900 | 135354 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-granite-slabs.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 06 | dubai-kitchen-countertop-fabrication.webp | 1200×900 | 61984 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-kitchen-countertop-fabrication.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 07 | dubai-ceramic-porcelain-tiles.webp | 1200×900 | 75460 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-ceramic-porcelain-tiles.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 08 | dubai-tile-batch-shade-inspection.webp | 1200×900 | 46174 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-tile-batch-shade-inspection.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 09 | dubai-marble-elevator-access-check.webp | 1200×900 | 74144 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-marble-elevator-access-check.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 10 | dubai-insulation-alternative-review.webp | 1200×900 | 58736 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-insulation-alternative-review.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 11 | dubai-materials-boq-planning.webp | 1200×900 | 80850 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-materials-boq-planning.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 12 | dubai-material-specification-inspection.webp | 1200×900 | 58352 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-specification-inspection.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 13 | dubai-building-material-delivery.webp | 1200×900 | 109662 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-material-delivery.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 14 | dubai-material-shipment-receiving.webp | 1200×900 | 83502 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-material-shipment-receiving.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+| 15 | dubai-building-materials-og.webp | 1200×630 | 89304 | [GitHub](https://github.com/bietalreef/bietalreef-platform-cloudflare/blob/assets/dubai-building-materials-visuals-20261107/public/images/uae/dubai/building-materials/dubai-building-materials-og.webp) | فُحص داخليًا؛ بانتظار اعتمادك |
+
+الأصول الأساسية 1,239,750 بايت. مع 12 نسخة هاتف إضافية 600×450: 1,563,396 بايت، أي نحو 1.56 ميجابايت. كل النسخ WebP. تفاصيل النسخ الخفيفة وبصماتها في IMAGE_MANIFEST.json.
+
+الغلافان مستقلان، وOG مشتق من غلاف الكمبيوتر. الأصول الأصلية PNG وأوامر التوليد خارج public ضمن ZIP.
+
+اختبار المتصفح الفعلي عند 390px و1440px لم يكتمل لتعذر تنزيل Chromium؛ يلزم قبل الإدماج.

@@ -57,7 +57,9 @@
       "name_en": "Baniyas",
       "kind": "district",
       "status": "in_progress",
-      "completed_sectors": [],
+      "completed_sectors": [
+        "general-contracting"
+      ],
       "files": [
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/baniyas/general-contracting/content-en.md",
@@ -65,7 +67,7 @@
         "docs/editorial/abu-dhabi/areas/baniyas/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Baniyas general-contracting: 4 specialties complete (14+7+7+14), 42/56 service entries verified in both languages; area 42/434, 0/8 sectors complete. Continue irrigation (7) and external works (7), both non-selectable source categories. Other seven sectors pending."
+      "review_note": "Baniyas general-contracting complete: 6 specialties, 56/56 services in both languages verified by GitHub re-read; area 56/434, 1/8 sectors complete. Seven other sectors (378 services per language) remain. Restricted categories remain non-selectable."
     },
     {
       "sequence": 2,

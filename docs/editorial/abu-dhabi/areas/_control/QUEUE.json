@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "last_defined": "2026-11-07",
+  "repo": "bietalreef/bietalreef-platform-cloudflare",
+  "branch": "content/abu-dhabi-areas-services-20261107",
+  "schedule": "hourly",
+  "unit": "one full user-listed locality per run; if unfinished resume same locality and do not skip",
+  "list_source": "Explicit user list 2026-11-07 — no Abu Dhabi City and no Al Ain",
+  "taxonomy_file": "docs/editorial/abu-dhabi/areas/_control/TAXONOMY_SOURCE_AR.md",
+  "sectors": [
+    {
+      "slug": "general-contracting",
+      "specialties": 6,
+      "service_entries": 56
+    },
+    {
+      "slug": "interior-design",
+      "specialties": 4,
+      "service_entries": 49
+    },
+    {
+      "slug": "general-maintenance",
+      "specialties": 10,
+      "service_entries": 105
+    },
+    {
+      "slug": "building-materials",
+      "specialties": 5,
+      "service_entries": 49
+    },
+    {
+      "slug": "aluminium-glass",
+      "specialties": 5,
+      "service_entries": 56
+    },
+    {
+      "slug": "furniture-decor",
+      "specialties": 4,
+      "service_entries": 24
+    },
+    {
+      "slug": "equipment-rental",
+      "specialties": 8,
+      "service_entries": 53
+    },
+    {
+      "slug": "cleaning-services",
+      "specialties": 8,
+      "service_entries": 42
+    }
+  ],
+  "areas": [
+    {
+      "sequence": 1,
+      "slug": "baniyas",
+      "name_ar": "بني ياس",
+      "name_en": "Baniyas",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 2,
+      "slug": "khalifa-city",
+      "name_ar": "مدينة خليفة",
+      "name_en": "Khalifa City",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 3,
+      "slug": "mohammed-bin-zayed-city",
+      "name_ar": "مدينة محمد بن زايد",
+      "name_en": "Mohammed Bin Zayed City",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 4,
+      "slug": "shamkha",
+      "name_ar": "الشامخة",
+      "name_en": "Al Shamkha",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 5,
+      "slug": "al-wathba",
+      "name_ar": "الوثبة",
+      "name_en": "Al Wathba",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 6,
+      "slug": "al-rahba",
+      "name_ar": "الرحبة",
+      "name_en": "Al Rahba",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 7,
+      "slug": "musaffah",
+      "name_ar": "المصفح",
+      "name_en": "Musaffah",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 8,
+      "slug": "al-reem-island",
+      "name_ar": "جزيرة الريم",
+      "name_en": "Al Reem Island",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 9,
+      "slug": "al-raha",
+      "name_ar": "شاطئ الراحة",
+      "name_en": "Al Raha",
+      "kind": "district",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    },
+    {
+      "sequence": 10,
+      "slug": "al-dhafra",
+      "name_ar": "الظفرة",
+      "name_en": "Al Dhafra",
+      "kind": "region",
+      "status": "pending",
+      "completed_sectors": [],
+      "files": [],
+      "last_attempt": null,
+      "review_note": null
+    }
+  ]
+}

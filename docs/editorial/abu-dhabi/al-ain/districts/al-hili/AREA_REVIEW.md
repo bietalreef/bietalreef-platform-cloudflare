@@ -4,14 +4,14 @@
 - Branch: `content/al-ain-district-services-20261107`
 - Editorial scope: company and establishment specialties only, not separate craftsperson profiles.
 - Source: `docs/editorial/abu-dhabi/al-ain/districts/_control/TAXONOMY_SOURCE_AR.md` and district `README.md`.
-- GitHub read-back: 18/18 expected specialty files verified in this run.
+- GitHub read-back: first sector 18/18 files verified in previous run; engineering/design 12/12 files verified in this run.
 
 ## Sector coverage
 
 | Sector | Company specialties in taxonomy | Completed specialties | Service sections (AR and EN separately) | Status |
 | --- | ---: | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
-| الاستشارات الهندسية والتصميم والديكور | 4 | 0 | 0 | pending |
+| الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
 | الصيانة العامة والتشطيبات | 10 | 0 | 0 | pending |
 | مواد البناء والتوريد | 5 | 0 | 0 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
@@ -28,9 +28,18 @@
 - **irrigation-networks** — 7 services: [Arabic](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [Review](./general-contracting/irrigation-networks/review.md)
 - **shade-outdoor-works** — 7 services: [Arabic](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [Review](./general-contracting/shade-outdoor-works/review.md)
 
+## Engineering and design — verified in run 2
+
+- **architectural-plans** — 14 services: [Arabic](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [Review](./interior-design/architectural-plans/review.md)
+- **structural-design** — 7 services: [Arabic](./interior-design/structural-design/content-ar.md) · [English](./interior-design/structural-design/content-en.md) · [Review](./interior-design/structural-design/review.md)
+- **engineering-supervision** — 7 services: [Arabic](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [Review](./interior-design/engineering-supervision/review.md)
+- **interior-materials** — 21 services: [Arabic](./interior-design/interior-materials/content-ar.md) · [English](./interior-design/interior-materials/content-en.md) · [Review](./interior-design/interior-materials/review.md)
+
+- 4 specialties, 49 distinct services per language; 12/12 files read back from GitHub.
+
 ## Next work
 
-Continue **Al Hili**, starting with the four company specialties of engineering/design. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
+Continue **Al Hili**, starting with the ten company specialties of general maintenance and finishes. Continue through all remaining sectors before any other district. Every new specialty needs separate Arabic and English service sections and review, followed by GitHub read-back. Update this report incrementally. Do not mistake the existing six specialties for district completion.
 
 ## Editorial guardrails
 

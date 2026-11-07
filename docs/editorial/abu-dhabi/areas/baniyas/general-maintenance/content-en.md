@@ -121,3 +121,33 @@ Measure walls and openings and identify heat and water exposure; not every panel
 ### 28. Gypsum repair and maintenance
 
 Document cracks, swelling or water marks before covering them. Investigate moisture ingress or frame movement first, then decide whether local patching or board and framing replacement is required. Inspect repair firmness, skim-coat flatness and paint matching after drying.
+
+## Flooring and wall cladding
+
+### 29. Ceramic tile installation
+
+Measure floor and wall areas, tile size, cutting allowance, joint widths and drain positions. Check substrate flatness and wet-area waterproofing before laying; specify adhesive, grout and cuts at corners. Compare substrate preparation and skirting separately, and inspect drainage falls, straight courses, sound bedding and safe edges.
+
+### 30. Porcelain tile installation
+
+Provide tile dimensions, thickness and a laying plan, especially for large-format slabs requiring careful handling and levelling. Compare adhesive coverage, levelling equipment and movement-joint treatment. Check lippage, pattern alignment and secure bedding before accepting the work.
+
+### 31. Parquet flooring installation
+
+Identify solid or engineered flooring, laying direction, room areas and possible substrate moisture. Specify underlay or vapour control, perimeter expansion gaps and door clearances; compare supply, fitting and skirting separately. Inspect stability, squeaks and swelling and obtain product-specific cleaning guidance.
+
+### 32. Vinyl flooring installation
+
+Distinguish glued, click-lock and sheet vinyl and describe room dimensions, traffic and wet exposure. The base must be smooth because defects can telegraph through vinyl; specify welded or sealed seams where required. Compare wear-layer thickness and slip properties, and inspect joints, adhesion and bubbles.
+
+### 33. Interlocking paving installation
+
+Define the path or parking area, pedestrian or vehicle loads, levels and stormwater drainage. Compare excavation, sub-base depth, compaction, paver thickness and edge restraints rather than the visible square-metre price alone. Check falls, joint filling and stability after compaction.
+
+### 34. Wall cladding installation
+
+Identify stone, panels or tiles, wall height, substrate and electrical openings. Request samples and details of fixing, loading and junctions at doors and ceilings, accounting for moisture exposure. Compare base preparation, cutting and edge trims; inspect secure attachment, joint alignment and service access.
+
+### 35. Flooring repairs
+
+Photograph cracks, loose tiles or swelling, noting the affected area and possible leaks or substrate settlement. Investigate the cause before replacing finishes and confirm whether matching materials are available. Compare local repairs with reinstatement of the affected section; inspect levelness, bonding and joint matching afterwards.

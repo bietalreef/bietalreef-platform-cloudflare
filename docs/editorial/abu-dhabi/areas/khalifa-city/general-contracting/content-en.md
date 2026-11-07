@@ -205,3 +205,70 @@ Provide basin dimensions, location, desired water effect and power and water poi
 Provide the project type (new build, restoration or extension), site limits and available drawings, floor areas, photographs and access, required stages, material/finish standards and whether premises are occupied. Ask bidders to separate design and permits—where applicable—from construction, tests, handover and warranties; record exclusions and measurement rules. If no company is listed, Biet Al Reef customer support can receive this information without confirming a contractor or authorising work.
 
 **Common question:** Is a square-metre rate enough to compare projects? Only as an early indicator: foundations, MEP systems, finishes, fees and permit responsibilities need like-for-like quantities.
+
+## Demolition and concrete works
+
+### 22. Demolition works
+Mark the elements to be removed on a plan and identify occupied areas and active services nearby. The quotation should cover isolation, site protection, support of retained structures where required and debris removal. Compare methods, equipment and neighbouring-property protection; check applicable authority requirements before work. Accept the site only after retained elements and debris clearance are inspected.
+
+### 23. Removal of buildings and annexes
+Provide the annex area, storeys, connection to the main building and photographs of access and services. Request an isolation plan for water and power and treatment of shared walls before removal. Separate demolition, grading and disposal costs; document adjacent-building conditions before and after.
+
+### 24. Concrete cutting and core drilling
+Specify opening diameter or cut length, structural thickness and exact location, explaining which services must pass through. Have a competent specialist review reinforcement, concealed services and structural implications before cutting. Compare dust and water control and protection of finishes; check opening dimensions and edges against the agreed drawing.
+
+### 25. Foundation and footing casting
+Supply structural drawings, available ground investigation and foundation levels, with footing counts, sizes and concrete quantities. Require inspection of excavation, formwork, reinforcement and cover before pouring, with mix records, samples and curing. Compare measured quantities, pumps and testing, and collect inspection records rather than judging only visible surfaces.
+
+### 26. Concrete slab casting
+Identify slab area, thickness, working height and openings and service penetrations from the structural design. Include formwork, propping, reinforcement, casting, curing and striking under the engineer's method. Check levels and penetrations before pouring and record test results and defect rectification before handover.
+
+### 27. Concrete wall construction
+Specify wall length, height, thickness and purpose, including whether it retains soil, with reinforcement and joint details. Compare formwork, ties, waterproofing and drainage where earth or water is present. Inspect plumbness, dimensions and honeycombing after striking, with specialist-directed repairs where necessary.
+
+### 28. Demolition waste removal
+Estimate waste volume, type, collection point and vehicle access; identify materials requiring segregation or special handling. Compare loading, skips, trips and final cleaning explicitly. Request suitable disposal documentation where appropriate, and inspect the site for remaining debris and sharp objects.
+
+## Garden landscaping and maintenance
+
+### 29. Home garden design
+Provide the plot layout, building edges, entrances, sun and shade and water points, and explain desired seating, play and planting. Compare plans by circulation, soil, irrigation and future maintenance, not attractive renderings alone. Approve a dimensioned planting, material, level and quantity plan before construction.
+
+### 30. Villa garden landscaping
+Measure planting, paths, seating and existing beds and photograph services and access. Ask for a plant schedule suited to actual conditions, soil, irrigation and drainage details, separating supply from installation. Inspect levels, edging and irrigation, and record any agreed plant-establishment period.
+
+### 31. Outdoor-space design
+Explain movement between gates, parking and majlis, privacy needs, lighting and drainage points. Obtain a dimensioned plan for paths, falls, shade and services; compare surface materials for slip risk and maintenance. Accept coordinated drawings showing transitions between paving, planting and buildings.
+
+### 32. Green-area installation
+Identify area, use, soil condition and sunlight, then require soil preparation, grading and irrigation before turf laying. Compare grass type, soil quantities and initial maintenance period. Inspect coverage, even levels and drainage after irrigation starts.
+
+### 33. Tree and shrub planting
+Supply plant numbers, sizes and positions, including distances from walls and utilities. The offer should cover pits, soil, staking and irrigation while allowing for mature roots. Accept healthy, secure plants with a clear initial watering and care schedule.
+
+### 34. Natural turf installation
+Measure the lawn and describe sunlight, available irrigation and expected activity. Compare proposed turf or establishment method, grading, fertilising and initial watering. Check seams, gaps and low spots and agree on acceptance criteria after establishment.
+
+### 35. Artificial grass installation
+Provide area, traffic use, drainage locations and curved boundaries. Request pile height, density, backing and any infill specifications, comparing base preparation, fastening and seams. Inspect drainage, pile direction, secured edges and wrinkles.
+
+### 36. Plant and tree installation
+List desired plants or their function, such as shade or screening, and identify space, sun and water availability. Compare nursery sizes, transport, planting soil and follow-up care. Count and inspect plants in their agreed locations and obtain care instructions.
+
+### 37. Tree pruning and trimming
+Photograph trees and note height, proximity to walls, utilities and paths, and whether hazardous limbs or crown shaping are the priority. Require safe access and waste collection without excessive pruning. Inspect crown balance, trunk condition and site cleanliness.
+
+### 38. Lawn maintenance
+Measure lawn area, identify grass type and desired visit frequency, and record yellow patches or ponding. Compare mowing, aeration, feeding, irrigation checks and patch repair rather than visit counts alone. Request work logs and periodic photographs.
+
+### 39. Plant feeding and treatment
+Record symptoms, plant species and watering practices before prescribing fertiliser. Request suitable products and application rates with precautions for people and animals. Compare follow-up and improvement checks, recording treatment dates and results.
+
+### 40. Garden pest management
+Describe affected plants and photograph insects or damage when possible. The provider should explain diagnosis, lower-impact options, precautions and follow-up rather than promise permanent eradication. Collect treatment records and a monitoring plan.
+
+### 41. Garden cleaning
+Measure the garden and describe leaves, branches, soil and access for collection. Separate cleaning of paths, beds and drains from pruning or irrigation repairs. Inspect clear paths and drains and confirm plants were not damaged.
+
+### 42. Periodic garden maintenance
+Provide the garden plan, irrigation setup and seasonal use, then define weekly and monthly tasks. Compare mowing, pruning, watering, fertilising, cleaning and replacement parts in a written service schedule. Require visit logs, observations and outstanding-action records.

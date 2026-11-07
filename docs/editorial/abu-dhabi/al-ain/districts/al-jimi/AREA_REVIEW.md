@@ -159,3 +159,10 @@
 - الحالة: `in_progress`؛ أُعيد تحرير **8 من 50 تخصصًا**، والمتبقي **42 تخصصًا** مع تدقيق نهائي للـ434 خدمة في كل لغة.
 - أُعيدت كتابة الخدمات السبع في [العربية](./interior-design/structural-design/content-ar.md) و[الإنجليزية](./interior-design/structural-design/content-en.md)، مع [ملف مراجعة](./interior-design/structural-design/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق من تطابقها مع النصوص المرفوعة.
 - نقطة الاستئناف التالية: `interior-design/engineering-supervision/content-ar.md` ثم `content-en.md` و`review.md`، وبعدها `interior-design/interior-materials` ثم القطاعات اللاحقة حسب فهرس المنطقة. سجلات النقاط الأقدم تاريخية.
+
+## تحديث التحرير — الإشراف والاستشارات الهندسية — 2026-11-07
+
+- الحالة: `in_progress`؛ تم تحرير **9 تخصصات من 50** ثنائية اللغة، والمتبقي **41 تخصصًا** ثم تدقيق نهائي للـ434 خدمة في كل لغة.
+- أعيدت كتابة الخدمات السبع في [العربية](./interior-design/engineering-supervision/content-ar.md) و[الإنجليزية](./interior-design/engineering-supervision/content-en.md)، مع [ملف المراجعة](./interior-design/engineering-supervision/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub وتحققت مطابقة النصوص المرفوعة.
+- أُزيلت المقاطع المتكررة واستبدلت بنطاقات فنية مختلفة للإشراف، الإدارة، الجودة، الاستلام المرحلي، التقارير، حصر الكميات ومراجعة العروض. لا ادعاء بتوفر شركات أو موافقات.
+- **أول نقص تالٍ:** `interior-design/interior-materials/content-ar.md` ثم `content-en.md` و`review.md`؛ تليه تخصصات الصيانة العامة والتشطيبات وبقية القطاعات بحسب الفهرس. لا يبدأ المويجعي قبل اكتمال الجيمي ومراجعتها. سجلات الاستئناف الأقدم تاريخية.

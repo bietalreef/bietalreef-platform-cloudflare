@@ -449,3 +449,10 @@ Relate water marks to rainfall, wind direction, gutters, joints and window openi
 
 Review membrane age, stains, blisters, cuts around drains and movement points. Compare patch repairs with renewal of a failed section based on condition; document repair details, tests and monitoring.
 
+
+
+## Maintenance and finishing request details
+
+Identify the property and affected room or system, when the fault began, overview and close-up photographs, measured affected area, and any active leakage, power outage or falling-object hazard. State whether you need diagnosis only or full repair, and whether reinstatement, parts and waste removal belong in the quote. Essential system tests still matter on small jobs. Where no company is listed, use Biet Al Reef customer support's quotation form without assuming appointment or price.
+
+**Common question:** Why can maintenance bids vary for the same symptom? One may include diagnosis, source repair, tests and reinstatement; another may only replace the visible component. Ask for an itemised scope.

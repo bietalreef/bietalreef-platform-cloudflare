@@ -105,17 +105,36 @@
       "name_en": "Khalifa City",
       "kind": "district",
       "status": "in_progress",
-      "completed_sectors": [
-        "general-contracting"
-      ],
+      "completed_sectors": [],
       "files": [
         "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/interior-design/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/interior-design/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/interior-design/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-maintenance/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-maintenance/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/general-maintenance/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/building-materials/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/building-materials/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/building-materials/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/aluminium-glass/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/aluminium-glass/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/aluminium-glass/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/furniture-decor/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/furniture-decor/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/furniture-decor/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/equipment-rental/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/equipment-rental/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/equipment-rental/review.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/cleaning-services/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/cleaning-services/content-en.md",
+        "docs/editorial/abu-dhabi/areas/khalifa-city/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-07",
-      "review_note": "Verified GitHub 56 numbered services each in Arabic and English for Khalifa City general-contracting; 1/8 sectors complete, 378 services remain. Resume interior-design. Editorial pending human review; no production publish."
+      "review_note": "All 8 sector drafts and reviews saved; 50 specialties, 434 AR and 434 EN service headings verified by read-back. Adapted from existing Baniyas technical guidance, not yet independently localized or fully original; requires service-level editorial rewriting, language and technical review before completed. No publishing."
     },
     {
       "sequence": 3,

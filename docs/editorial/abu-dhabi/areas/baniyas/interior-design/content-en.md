@@ -61,3 +61,33 @@ Request an approval matrix showing potentially relevant authorities, required do
 ## Preparing a quotation request
 
 Provide the site, property type, approximate area, available plans and photographs of existing conditions. State required deliverables and the intended timeline. Compare drawing scope, revision rounds, coordination responsibilities and excluded fees. If no company is listed, Biet Alreef customer service can receive the enquiry without promising provider availability or a price. Individual tradespeople remain a separate directory from companies and establishments.
+
+## Structural design
+
+### 15. Concrete structural system design
+
+Commission this when designing a new building or altering its load-bearing system. Supply architectural plans, floor count, intended uses and any available ground investigation. Ask for the structural scheme, column, beam and slab arrangement, movement joints, loading assumptions and coordination of service penetrations. Compare offers by calculation scope, drawings and revision allowance. Accept coordinated design documents, appropriately reviewed and signed for the project, rather than relying on 3D visualisations for member sizes.
+
+### 16. Foundation and footing design
+
+Before selecting foundations, provide site boundaries, levels, a suitable ground investigation report and known buried utilities. The engineer should assess isolated or combined footings or a raft against structural loads and ground conditions, and detail reinforcement, connections and settlement considerations. Compare proposals for responsibility for soil investigation, excavation interfaces and coordination. Receive dimensioned, levelled foundation plans and details after technical review.
+
+### 17. Structural drawing preparation
+
+This service turns the structural analysis into buildable concrete, reinforcement, connection and detailing drawings. Supply the latest architectural issue and coordinated stair, drainage and HVAC opening locations. Compare the level of reinforcement schedules, clash resolution and revision support. At handover, check grid lines, levels and openings across sheets and confirm every drawing has a clear issue identifier.
+
+### 18. Structural load review
+
+Request a load review when changing room use, adding heavy machinery, tanks or floors—not merely when replacing finishes. Provide equipment weights, locations, base dimensions and available original drawings. Require identification of dead, imposed and concentrated loads and their paths through the supporting structure, with unknown inputs flagged. The delivered calculation note should define its limits and whether site testing or strengthening is needed before works.
+
+### 19. Building structural safety assessment
+
+Progressive cracking, settlement, exposed corrosion or deformation call for documented site inspection rather than a diagnosis from photographs alone. The engineer should identify appropriate tests and distinguish visible conditions from concealed uncertainties. Compare proposals by inspection coverage, sampling, report and recommendations. Receive prioritised findings, confidence limits and urgent actions where justified. If immediate danger is suspected, restrict access to the affected area and seek qualified on-site advice promptly.
+
+### 20. Structural strengthening design
+
+Strengthening design follows diagnosis of the defect and verification of existing loads and members. Provide as-built information, investigation results, photographs and access restrictions. Request assessed options, such as section strengthening or additional supports, with construction sequence, temporary propping and inspection points. Accept connection details, material specifications and a monitoring plan; never cut or remove a load-bearing element based only on verbal advice.
+
+### 21. Structural engineering reports
+
+Define the report's purpose: crack investigation, change-of-use assessment or a condition record before adjacent works. Supply the location, photos, drawings, dates and earlier findings. The report should separate observations, measurements, assumptions and conclusions, stating test methods, access limits, results and recommendations. Compare offers by visits, testing and required appendices, and obtain a dated, scoped report identifying the responsible professional.

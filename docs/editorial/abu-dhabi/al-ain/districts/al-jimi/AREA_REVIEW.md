@@ -14,7 +14,7 @@
 | الاستشارات الهندسية والتصميم والديكور (`interior-design`) | 4/4 | 49/49 | content_saved |
 | الصيانة العامة والتشطيبات (`general-maintenance`) | 10/10 | 105/105 | content_saved |
 | مواد البناء والتوريد (`building-materials`) | 5/5 | 49/49 | content_saved |
-| ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 0/5 | 0/56 | pending |
+| ورش الحديد والألمنيوم والزجاج والأخشاب (`aluminium-glass`) | 5/5 | 56/56 | content_saved |
 | الأثاث والمفروشات والتجهيز (`furniture-decor`) | 0/4 | 0/24 | pending |
 | المصانع ومعدات الإيجار (`equipment-rental`) | 0/8 | 0/53 | pending |
 | التنظيف والتعقيم ومكافحة الحشرات (`cleaning-services`) | 0/8 | 0/42 | pending |
@@ -31,7 +31,7 @@
 ## النواقص / Remaining work
 
 - قطاع المقاولات: 6/6 تخصصات، و56 خدمة لكل لغة، ومُطابق لعدد العناوين بعد إعادة قراءة الملفات.
-- متبقٍ: ورش الحديد والألمنيوم والزجاج والأخشاب؛ الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
+- متبقٍ: الأثاث والمفروشات والتجهيز؛ المصانع ومعدات الإيجار؛ التنظيف والتعقيم ومكافحة الحشرات.
 - لا تعلن اكتمال المنطقة حتى استكمال جميع الخدمات ومطابقة الملفات في اللغتين.
 
 ## الاستشارات الهندسية والتصميم — تدقيق حفظ الدفعة الثانية
@@ -72,3 +72,13 @@
 - ceramic-porcelain: 7 services [AR](./building-materials/ceramic-porcelain/content-ar.md) · [EN](./building-materials/ceramic-porcelain/content-en.md) · [Review](./building-materials/ceramic-porcelain/review.md).
 
 - **مجموع الجيمي:** 25/50 تخصصات، 259/434 خدمة لكل لغة، 4/8 قطاعات. التخصص الأول مقيّد وغير قابل للاختيار؛ لم يُفعّل.
+
+## ورش الحديد والألمنيوم والزجاج والأخشاب — الدفعة الخامسة
+
+- **wood-kitchens-cabinets-doors** — 14 services: [العربية](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [English](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [review](./aluminium-glass/wood-kitchens-cabinets-doors/review.md)
+- **wood-furniture-decor** — 14 services: [العربية](./aluminium-glass/wood-furniture-decor/content-ar.md) · [English](./aluminium-glass/wood-furniture-decor/content-en.md) · [review](./aluminium-glass/wood-furniture-decor/review.md)
+- **aluminium-doors-windows** — 14 services: [العربية](./aluminium-glass/aluminium-doors-windows/content-ar.md) · [English](./aluminium-glass/aluminium-doors-windows/content-en.md) · [review](./aluminium-glass/aluminium-doors-windows/review.md)
+- **glass-facades-works** — 7 services: [العربية](./aluminium-glass/glass-facades-works/content-ar.md) · [English](./aluminium-glass/glass-facades-works/content-en.md) · [review](./aluminium-glass/glass-facades-works/review.md)
+- **metal-fabrication** — 7 services: [العربية](./aluminium-glass/metal-fabrication/content-ar.md) · [English](./aluminium-glass/metal-fabrication/content-en.md) · [review](./aluminium-glass/metal-fabrication/review.md)
+
+- القطاع 5/5 تخصصات، 56/56 خدمة. **مجموع الجيمي 30/50 تخصصًا، 315/434 خدمة لكل لغة؛ 5/8 قطاعات**.

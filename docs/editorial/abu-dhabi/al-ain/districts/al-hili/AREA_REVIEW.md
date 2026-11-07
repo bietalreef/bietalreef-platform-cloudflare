@@ -12,7 +12,7 @@
 | --- | ---: | ---: | ---: | --- |
 | المقاولات العامة والبناء والتشييد | 6 | 6 | 56 per language | reviewed_content |
 | الاستشارات الهندسية والتصميم والديكور | 4 | 4 | 49 per language | reviewed_content |
-| الصيانة العامة والتشطيبات | 10 | 3 | 28 per language | in_progress |
+| الصيانة العامة والتشطيبات | 10 | 5 | 49 per language | in_progress |
 | مواد البناء والتوريد | 5 | 0 | 0 | pending |
 | ورش الحديد والألمنيوم والزجاج والأخشاب | 5 | 0 | 0 | pending |
 | الأثاث والمفروشات والتجهيز | 4 | 0 | 0 | pending |
@@ -55,4 +55,14 @@ Continue **Al Hili**, continuing with the remaining seven company specialties of
 
 - 3 additional specialties; 28 services per language; 9/9 files read back from GitHub.
 - Overall Al Hili progress: 13/50 company specialties, 133 service sections per language, 3/10 maintenance specialties.
-- Next: flooring and cladding, electrical and lighting, plumbing and leak detection, HVAC, smart systems and surveillance, painting, waterproofing and insulation; then remaining four sectors. **Al Hili remains in_progress.**
+- Next: plumbing and leak detection, HVAC, smart systems and surveillance, painting, waterproofing and insulation; then remaining five sectors. **Al Hili remains in_progress.**
+
+## Maintenance and finishes — verified in run 4
+
+- **flooring-cladding** — 7 services: [Arabic](./general-maintenance/flooring-cladding/content-ar.md) · [English](./general-maintenance/flooring-cladding/content-en.md) · [Review](./general-maintenance/flooring-cladding/review.md)
+- **electrical-lighting** — 14 services: [Arabic](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [Review](./general-maintenance/electrical-lighting/review.md)
+
+- Added 2 company specialties, 21 service sections per language, and verified all 6 new GitHub files by read-back and heading counts (7/7 and 14/14).
+- Overall progress: **15/50 company specialties**, **154 service sections per language**, 5/10 maintenance specialties; **Al Hili remains in_progress**.
+- Next: plumbing and leak detection, air conditioning and refrigeration, smart systems and surveillance, painting, waterproofing and thermal insulation; then the five remaining sectors.
+- Editorial-only branch changes; no software, database, merge or live publication.

@@ -146,3 +146,10 @@
 - رُفعت الملفات وتحققت إعادة قراءتها حرفيًا من GitHub: [العربية](./general-contracting/shade-outdoor-works/content-ar.md)، [English](./general-contracting/shade-outdoor-works/content-en.md)، [المراجعة](./general-contracting/shade-outdoor-works/review.md).
 - **أول نقص تالٍ:** `interior-design/architectural-plans/content-ar.md` ثم `content-en.md` ثم `review.md`، ثم بقية تخصصات التصميم والقطاعات التالية وفق الفهرس. لا يُعد وجود الملفات القديمة اعتمادًا لجودتها.
 - السجلات التاريخية أعلاه توثق مراحل سابقة؛ هذه الفقرة أحدث حالة معتمدة لنقطة الاستئناف.
+
+## تحديث التحرير — التصميم المعماري والمخططات — 2026-11-07
+
+- الحالة: `in_progress`؛ تم تحرير **7 من 50 تخصصًا**، والمتبقي **43 تخصصًا** ثم مراجعة اتساق 434 خدمة في كل لغة.
+- أُعيد تحرير 14 خدمة في كل لغة لتخصص [التصميم المعماري والمخططات](./interior-design/architectural-plans/content-ar.md)، مع [النسخة الإنجليزية](./interior-design/architectural-plans/content-en.md) و[المراجعة](./interior-design/architectural-plans/review.md). تحققت إعادة قراءة الملفات الثلاثة حرفيًا بعد الرفع.
+- **أول نقص تالٍ:** `interior-design/structural-design/content-ar.md` ثم `content-en.md` ثم `review.md`؛ وبعده `interior-design/engineering-supervision` وبقية التخصصات وفق الفهرس. لا تبدأ المويجعي قبل اعتماد الجيمي بالكامل.
+- هذا التحديث هو الأحدث؛ سجلات الاستئناف الأقدم أعلاه تاريخية.

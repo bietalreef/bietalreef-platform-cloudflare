@@ -151,3 +151,121 @@ Identify stone, panels or tiles, wall height, substrate and electrical openings.
 ### 35. Flooring repairs
 
 Photograph cracks, loose tiles or swelling, noting the affected area and possible leaks or substrate settlement. Investigate the cause before replacing finishes and confirm whether matching materials are available. Compare local repairs with reinstatement of the affected section; inspect levelness, bonding and joint matching afterwards.
+
+## Electrical installations and lighting
+
+### 36. Building electrical installation
+
+Map rooms, appliance loads, meter position and the main board before chasing walls; drawings should distinguish circuits and wet-area supplies. Request continuity and protection tests, labelled circuits and an as-built diagram.
+
+### 37. Cable and wiring runs
+
+Record route lengths, conductor sizes, insulation grade and containment method; a quotation without measured runs is difficult to compare. Check fixings, protected terminations and insulation test records before covering finishes.
+
+### 38. Distribution board installation
+
+Provide existing-board photographs, load schedule and proposed spare capacity; qualified personnel must coordinate protection and earthing. Compare panel layout, labels and test results, and retain a legible circuit schedule.
+
+### 39. Socket and switch fitting
+
+Mark outlet quantities, heights, damp zones, wall finishes and connected appliance ratings; separate accessories from circuit extensions. Test polarity, earthing, switch operation and secure faceplates without heating or looseness.
+
+### 40. Power supply for extensions
+
+For an annex, list rooms, AC equipment, kitchen loads, distance from the supply board and any outdoor cable route. Compare dedicated-circuit needs, weather protection and voltage drop; commission the installation under its planned loads.
+
+### 41. Electrical network rehabilitation
+
+Document nuisance trips, deteriorated wiring, overheated connections and installation age before deciding on full renewal. Price investigation, rewiring and reinstatement separately; accept measured test results and a new circuit register.
+
+### 42. Electrical load assessment
+
+Count AC units, heaters, equipment ratings, supply capacity and circuit distribution; breaker size alone is not an assessment. Obtain a documented qualified load assessment highlighting imbalance and likely future demand rather than simply upsizing breakers.
+
+### 43. Interior lighting installation
+
+Identify room use, ceiling levels, task areas, colour temperature and control points. Compare distribution, fitting types, maintenance access and power draw; inspect the actual lighting for glare and uneven coverage.
+
+### 44. Exterior lighting installation
+
+Map façades, paths, car entrances, cable routes and locations exposed to rain or dust. Compare outdoor-rated fittings, mountings and beam direction; test after dark and inspect sealed enclosures and safe wiring.
+
+### 45. Chandelier installation
+
+Supply the chandelier weight, ceiling height and substrate, supply point and manufacturer mounting details, especially beneath gypsum. Use suitable structural anchorage rather than relying on plasterboard; inspect balance, security and electrical connections.
+
+### 46. Concealed lighting installation
+
+Measure LED runs, feed points, driver locations and ventilation within coves. Compare driver quantities, maintenance access and colour samples; inspect for uninterrupted light with no flicker or dark patches.
+
+### 47. Garden lighting installation
+
+Plot trees, paths, sprinklers and irrigation trenches before burying lighting cables; identify operating voltage and protection. Request underground route drawings and wet-condition safety checks; inspect beam aim to avoid nuisance glare.
+
+### 48. Motion sensor installation
+
+Define detection zones, occupancy patterns, delay requirements and likely pet movement. Compare detector coverage, ingress protection and settings; test switching delay, cut-off and false activations.
+
+### 49. Lighting unit maintenance
+
+Record failed lights and establish whether the lamp, driver, switch or supply is at fault before replacing assemblies. Compare replacement components, access costs and availability; verify firm fittings, correct switching and stable output.
+
+
+## Plumbing, drainage and leak detection
+
+### 50. Water supply network installation
+
+Count kitchens, bathrooms, tanks and appliances; map supply routes, target pressure and hot/cold lines. Compare pipe material, diameters, fittings and pressure testing; inspect a flushed, leak-free system before concealment.
+
+### 51. Drainage network installation
+
+Provide drainage plans, levels, inspection chambers, fixtures and vent positions; pipe length alone omits critical falls. Compare clean-outs, expansion details and tests; witness flow without back-up or foul odour.
+
+### 52. Sanitary fixture installation
+
+Identify basin, WC and mixer models, dimensions, fixing points and heights before wall tiling closes. Compare connection kits, seals and drilling; test flow, drainage, watertight joints and secure mounting.
+
+### 53. Water tank installation
+
+Specify tank capacity, material, location, base loads, wash-out access, vent, overflow and drain. Compare sun protection, access and fixing arrangements; test filling, float controls, overflow and leakage.
+
+### 54. Water pump installation
+
+Report storey count, outlet pressures, peak demand and supply tank details. Request a pump curve, dry-run protection and vibration/noise controls; commission stable delivery without leaks.
+
+### 55. Pipework rehabilitation
+
+Photograph corrosion, leaks and low pressure, identifying retained sections and access routes. Compare selective replacement, waste removal and reinstatement; pressure-test the connected system rather than only new pipe sections.
+
+### 56. Drainage maintenance
+
+Map repeat blockages, drain smells, cleaning history and chamber locations. Compare mechanical clearing and camera inspection where needed instead of indiscriminate chemicals; verify flow and document the obstruction.
+
+### 57. Water leak investigation
+
+Provide meter trends, damp patches and photographs; check the meter with outlets closed when feasible. Compare acoustic, thermal and pressure methods suited to the site; request findings and uncertainty before destructive access.
+
+### 58. Pipe leak repairs
+
+Identify pipe material, leak point, access and whether water service must be interrupted. Compare localized repair, connector choice, partial renewal and finish reinstatement; witness a pressure test before covering.
+
+### 59. Tank leak investigation
+
+Record water-level loss, overflow, pipework, float valves and tank shell before blaming the lining. Compare connection checks, waterproofing inspection and joint remediation; document the loss mechanism and refill test.
+
+### 60. Bathroom waterproofing
+
+Measure bathroom floor, wall upstands, pipe penetrations and doorway threshold. Specify a tile-compatible waterproofing system and an agreed flood test before tiling; check substrate condition first.
+
+### 61. Roof waterproofing
+
+Record roof area, falls, drains, joints, equipment plinths and ponding. Compare preparation, membrane build-up and UV protection; inspect drainage and the agreed integrity test before acceptance.
+
+### 62. Water tank waterproofing
+
+Identify potable or non-potable use, tank substrate, cracks and entry access. Specify a lining suitable for the water use, cleaning and rinsing procedure and separate joint checks; accept a watertightness test and material record.
+
+### 63. Leak-related dampness treatment
+
+Record mould, peeling, dates and the suspected moisture source, then repair the leak before drying surfaces. Compare drying period, moisture checks, salt treatment and repainting; require recorded observations, not merely concealed stains.
+

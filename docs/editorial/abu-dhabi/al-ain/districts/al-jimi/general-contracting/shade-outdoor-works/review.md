@@ -1,10 +1,11 @@
-# Review — المظلات والأعمال الخارجية — Al Jimi
+# مراجعة تخصص المظلات والأعمال الخارجية — الجيمي
 
-- Source: original companies/establishments taxonomy; the separate craftsperson tree was not used.
-- Service headings: **7** exact Arabic labels, **7** corresponding English labels, same sequence.
-- Status: non-selectable; preparatory information only.
-- Review includes request details, limitations, specification, quotation comparison, handover and non-guarantee notice.
-- Revision requested if a technical statement is not supported by the actual project drawings or qualified consultant.
+- الحالة: `editorially_revised`، ضمن منطقة `in_progress`، والتخصص غير قابل للاختيار؛ معلومات تحضيرية فقط.
+- المصدر: شجرة الشركات والمنشآت الأصلية، لا شجرة المهنيين.
+- الخدمات: 7 عناوين عربية مطابقة للشجرة و7 مقابلات إنجليزية بنفس الترتيب.
+- لكل خدمة: معطيات طلب السعر، النطاق والاستثناءات، مواد أو معدات مناسبة، مقارنة العروض، الاتفاق، فحص الاستلام.
+- لا أسماء شركات أو أسعار أو مواعيد أو ادعاءات عن إتاحة الخدمة.
+- يلزم تحقق نهائي من جودة واتساق المنطقة كاملة قبل تغيير AREA_REVIEW إلى complete.
 
 1. تركيب مظلات السيارات — Car shade installation
 2. تنفيذ البرجولات — Pergola construction

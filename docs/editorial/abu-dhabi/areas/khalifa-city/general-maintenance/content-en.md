@@ -255,32 +255,31 @@ Drainage maintenance should start with the blockage location, recurrence, odours
 
 ### 57. Water leak investigation
 
-Provide meter trends, damp patches and photographs; check the meter with outlets closed when feasible. Compare acoustic, thermal and pressure methods suited to the site; request findings and uncertainty before destructive access.
+First distinguish rising water consumption from a visible or concealed leak. Record meter readings at set intervals and note whether dampness appears after one bathroom is used or persists all day. Provide photographs of stains, valve positions and any available pipe layout. Ask whether the inspection includes circuit isolation, pressure testing, acoustic listening or thermal imaging, and what each method cannot establish; a thermal image alone does not prove where a pipe has failed. At handover, request a report naming the tested circuit, readings, suspected location, confidence level and the proposed confirmation step before opening a wall or floor.
 
 ### 58. Pipe leak repairs
 
-Identify pipe material, leak point, access and whether water service must be interrupted. Compare localized repair, connector choice, partial renewal and finish reinstatement; witness a pressure test before covering.
+Do not start by breaking finishes at random. Confirm the leak location, pipe material, diameter and access route, and photograph the area before opening it. Ask for separate quotation lines for locating the fault, opening the surface, replacing damaged pipe and fittings, reinstating waterproofing and replacing tile or paint. Agree the water shutdown period and debris removal responsibilities. If damage is near a joint, inspect the visible adjacent run rather than assuming the joint is the only cause. Accept the repair only after a suitable pressure or operating test has been documented without renewed seepage, before the opening is permanently closed.
 
 ### 59. Tank leak investigation
 
-Record water-level loss, overflow, pipework, float valves and tank shell before blaming the lining. Compare connection checks, waterproofing inspection and joint remediation; document the loss mechanism and refill test.
+A falling tank level does not automatically mean a cracked tank shell: a float valve, overflow line, connections or unrecorded consumption may explain the loss. Provide a photograph of the tank label, its location, approximate capacity and safely recorded level changes. Require separate checks for connections and for the shell, floor and joints, together with safe access arrangements; nobody should enter a tank without appropriate confined-space precautions. The inspection report should identify the likely loss mechanism, show before-and-after evidence and record the agreed refill or watertightness test.
 
 ### 60. Bathroom waterproofing
 
-Measure bathroom floor, wall upstands, pipe penetrations and doorway threshold. Specify a tile-compatible waterproofing system and an agreed flood test before tiling; check substrate condition first.
+When renovating a bathroom or addressing leakage to the floor below, diagnose the failure before applying a new membrane. Supply a sketch with floor dimensions, shower, drain, threshold and wet-wall heights. Require a specified system covering primer, corners, pipe penetrations and wall upstands, with confirmed compatibility with tile adhesive and falls toward the drain. Compare substrate preparation, coats, curing time and a safe agreed flood test before tiling. Photographs are not sufficient acceptance evidence: document the test result and check the drain and threshold before the membrane is covered.
 
 ### 61. Roof waterproofing
 
-Record roof area, falls, drains, joints, equipment plinths and ponding. Compare preparation, membrane build-up and UV protection; inspect drainage and the agreed integrity test before acceptance.
+Identify the roof leak mechanism first: ponding near a drain, an expansion joint, a pipe penetration or an equipment plinth may need different treatment. Supply roof dimensions, photographs of falls and outlets, and details of existing layers and access constraints. The quote should explain removal of loose material, crack repair, substrate preparation, treatment of joints and penetrations, membrane type and thickness, and protection for sunlight or foot traffic as appropriate. Compare warranty exclusions and the suitable integrity test. At handover, obtain photographs of concealed stages and confirm drainage rather than accepting appearance alone.
 
 ### 62. Water tank waterproofing
 
-Identify potable or non-potable use, tank substrate, cracks and entry access. Specify a lining suitable for the water use, cleaning and rinsing procedure and separate joint checks; accept a watertightness test and material record.
+Before specifying a tank lining, establish whether the water is for drinking, irrigation or fire protection, plus the tank material, capacity, emptying arrangements and access. Diagnose cracks, joints and penetrations first: coating the walls will not fix a leaking pipe connection. Ask for the proposed lining system and evidence that it suits the stated water use, surface preparation, cure time, cleaning, rinsing and disposal of wash water. Tank entry and confined spaces require specialist risk controls. Accept the work against material records, a watertightness test and tank cleanliness checks, with any water-quality testing agreed for the intended use.
 
 ### 63. Leak-related dampness treatment
 
-Record mould, peeling, dates and the suspected moisture source, then repair the leak before drying surfaces. Compare drying period, moisture checks, salt treatment and repainting; require recorded observations, not merely concealed stains.
-
+Do not cover a damp patch with moisture-resistant paint before finding its source: it could be pipework, failed waterproofing or condensation on a cold surface. Record when the stain appeared and how it spread, photograph peeling or salts, and request comparative moisture readings from affected and sound areas. Separate source repair, removal of damaged finishes, drying, appropriate salt or mould treatment and reinstatement in the quote. Do not close a persistently wet wall. At handover compare readings before and after treatment, inspect adhesion and agree a follow-up period to check for renewed dampness.
 
 ## Air-conditioning and refrigeration
 

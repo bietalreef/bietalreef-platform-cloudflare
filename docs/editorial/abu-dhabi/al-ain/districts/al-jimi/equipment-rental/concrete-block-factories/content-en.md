@@ -1,41 +1,55 @@
-# Concrete and cement products factories in Al Jimi
+# Concrete, block and cement product factories in Al Jimi
 
-These notes help a customer prepare a company enquiry for Al Jimi, not identify available vendors. Transport, permits, insurance and checks depend on the actual load or equipment. Agree the specifications and responsibilities before accepting a quote.
-
-> **Taxonomy status:** proposed, not automatically active. Preparatory guidance only.
+**Classification:** Proposed new company specialty, not automatically active. This is preparatory guidance, not confirmation of a local factory. Verify specifications and applicable approvals with the project engineer and relevant authorities.
 
 ## 1. Ready-mix concrete production
 
-Agree strength, admixtures, workability and pour timing with the engineer. Before requesting prices, supply technical drawings, quantity schedule, truck access and storage locations; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed:** Ready-mix is ordered for specified structural elements under the engineer's design; a vague strength claim is insufficient.
 
-**Quote and scope:** Specify mix or product grade, conformity evidence, quantities, sampling, delivery schedule and rejection procedures. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos, dimensions and specifications:** Provide element drawings, cubic metres, approved mix grade, pump location, truck access and pour window.
 
-**Acceptance:** Check batch slips, specified tests and dimensions before use. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare cement and admixture specifications, workability, testing, dispatch intervals and whether pumping, samples and waiting are included.
 
-## 2. Concrete block manufacture
+**Agreement and exclusions:** Assign mix approval, rejection of late or nonconforming loads, construction joints and site crew coordination.
 
-Block density, strength and dimension depend on wall use, not colour. Before requesting prices, supply technical drawings, quantity schedule, truck access and storage locations; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**Acceptance checks:** Check batch tickets, mixing and arrival times, specified workability checks and sample records; later strength tests remain necessary.
 
-**Quote and scope:** Specify mix or product grade, conformity evidence, quantities, sampling, delivery schedule and rejection procedures. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+## 2. Block and masonry unit production
 
-**Acceptance:** Check batch slips, specified tests and dimensions before use. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**When needed:** Choose masonry units for wall purpose, loading and insulation requirements, not just colour or nominal size.
 
-## 3. Cement-based product manufacture
+**Photos, dimensions and specifications:** Provide wall plans, thicknesses, heights, openings and quantities; identify solid, hollow or insulating units per specification.
 
-Pavers or kerbs need dimensions, durability and finish suited to location. Before requesting prices, supply technical drawings, quantity schedule, truck access and storage locations; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**Comparing quotations:** Compare dimensional tolerances, density, compressive performance, test records, packaging and pallet counts.
 
-**Quote and scope:** Specify mix or product grade, conformity evidence, quantities, sampling, delivery schedule and rejection procedures. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Agreement and exclusions:** Agree an approved sample before bulk production, allowable breakage, replacement terms and unloading/storage duties.
 
-**Acceptance:** Check batch slips, specified tests and dimensions before use. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Acceptance checks:** Measure representative units, inspect chipped edges and consistency, and match counts and markings to required product records.
 
-## 4. Project product supply
+## 3. Cement-based product manufacturing
 
-Phase supply with progress to avoid damaged or obstructive stockpiles. Before requesting prices, supply technical drawings, quantity schedule, truck access and storage locations; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed:** Interlocking pavers, kerbs and precast tiles need different thickness, strength and finish for pedestrian or vehicle use.
 
-**Quote and scope:** Specify mix or product grade, conformity evidence, quantities, sampling, delivery schedule and rejection procedures. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos, dimensions and specifications:** Share dimension drawings, use category, paved area, colour, finish, edge shapes, curves and unit count.
 
-**Acceptance:** Check batch slips, specified tests and dimensions before use. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare curing approach, abrasion and slip requirements, thickness tolerances, colour samples and product-specific testing.
 
-## Quote support from Biet Al Reef
+**Agreement and exclusions:** Agree batch colour variation, corner cuts, wastage and pallet stacking; installation may be outside the factory supply scope.
 
-Share an item/equipment inventory, measurements, access photos and proposed dates with Biet Al Reef customer service. We can help prepare a clear quotation request and look for a suitable company without guaranteeing availability, prices or timing.
+**Acceptance checks:** Check thickness, surface consistency, cracks and edges, and compare colour batches before site distribution.
+
+## 4. Supply of cement products to projects
+
+**When needed:** Phased delivery avoids stockpiling blocks and cement goods before work areas are ready and reduces storage damage.
+
+**Photos, dimensions and specifications:** Provide quantity schedules by floor or phase, unloading locations, pallet storage space and truck gate slots.
+
+**Comparing quotations:** Compare product, haulage, loading/unloading, returns, minimum order and delivery frequency, not unit price alone.
+
+**Agreement and exclusions:** Set order-change lead times, delivery paperwork, shortages, breakage and truck standby responsibility.
+
+**Acceptance checks:** Reconcile delivery notes, pallet and unit counts, packaging condition and specified product type before issue to site.
+
+## Prepare a quotation request
+
+Send approved specifications, drawings, quantities, delivery phases and access photos to Biet Al Reef customer service for help preparing an enquiry. Company availability, prices and dates are not guaranteed.

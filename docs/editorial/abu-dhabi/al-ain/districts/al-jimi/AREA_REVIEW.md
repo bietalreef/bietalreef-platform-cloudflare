@@ -371,3 +371,11 @@
 - تحققت القراءة من وجود ملفات `content-ar.md` و`content-en.md` و`review.md` للتخصصات الخمسة الأخيرة: `tanks-pools-cleaning`، `pest-rodent-control`، `disinfection-sanitisation`، `building-facility-operations`، `workforce-operations`. وجود الملفات لا يثبت اعتماد مراجعة المنطقة كاملة.
 - أُعيد تحرير [خدمات العمالة والتشغيل بالعربية](./cleaning-services/workforce-operations/content-ar.md) و[بالإنجليزية](./cleaning-services/workforce-operations/content-en.md) و[مراجعتها](./cleaning-services/workforce-operations/review.md)؛ 7 خدمات لكل لغة، وتم التحقق من الملفات الثلاثة بعد الرفع.
 - **أول عمل ناقص:** تدقيق بقية التخصصات الأربعة في قطاع التنظيف من حيث التكرار والدقة الفنية، بدءًا من `cleaning-services/tanks-pools-cleaning/content-ar.md` ثم الإنجليزية والمراجعة، وبعده `pest-rodent-control`، `disinfection-sanitisation`، `building-facility-operations`. ثم فحص ملفات القطاعات الثمانية جميعًا ومطابقة الأسماء والعدد وجودة النصوص قبل اعتماد الجيمي. لا تعتمد 50/50 نهائيًا دون هذا الفحص.
+
+
+## مراجعة تشغيل وصيانة المباني — 2026-11-08
+
+- الحالة العامة: `in_progress`؛ ملفات 50 تخصصًا موجودة، لكن اعتماد 434 خدمة في كل لغة مرهون بالتدقيق الشامل للقطاعات الثمانية.
+- أُعيد تحرير الخدمات السبع في **تشغيل وصيانة المباني** تحريرًا مخصصًا لكل خدمة، مع نطاقات واستثناءات ومقارنة عروض وفحص استلام مختلفة، وتحقق حفظ الملفات الثلاثة: [العربي](./cleaning-services/building-facility-operations/content-ar.md) · [English](./cleaning-services/building-facility-operations/content-en.md) · [المراجعة](./cleaning-services/building-facility-operations/review.md).
+- تمت قراءة الملفات الثلاثة وإثبات مطابقتها للمحتوى المرفوع.
+- **النواقص التالية:** مراجعة تحريرية مفصلة لـ`cleaning-services/tanks-pools-cleaning` ثم `pest-rodent-control` ثم `disinfection-sanitisation`، وبالأخص إزالة العبارات المشتركة غير الضرورية وتدقيق تعليمات السلامة؛ يليها تدقيق جودة وأسماء وعدد جميع خدمات التخصصات الخمسين والقطاعات الثمانية مقابل الشجرة الأصلية، وتحديث تقارير المراجعة. لا تبدأ المويجعي حتى اعتماد الجيمي.

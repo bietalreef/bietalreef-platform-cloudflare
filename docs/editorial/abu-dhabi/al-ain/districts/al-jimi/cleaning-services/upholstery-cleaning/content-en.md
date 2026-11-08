@@ -1,63 +1,91 @@
-# Upholstery and soft furnishings cleaning in Al Jimi
+# Upholstery cleaning in Al Jimi — practical quotation guide
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+For properties in Al Jimi, Al Ain, specify the actual materials, access restrictions and timing rather than assuming a standard cleaning method. This page covers companies and establishments, not individual tradespeople. No company, appointment or price is guaranteed.
 
 ## 1. Steam sofa cleaning
 
-**First check:** Steam may be unsuitable for some fibres; follow care labels and test first. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Sofas with daily-use staining need a fibre-safe cleaning plan rather than indiscriminate steam.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Photograph seat cushions, care labels, stains and the number of seats; flag delicate dyes and prior water damage.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Test an inconspicuous area, use compatible extraction and protect adjacent flooring. Reupholstery and guaranteed removal of old stains are excluded.
+
+**Quotation comparison and written agreement:** Compare equipment, chemical disclosures, drying time and whether loose cushions are included. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Inspect colour and water rings only after drying; check for trapped moisture. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 2. Rug cleaning
 
-**Describe the issue:** Handwoven and synthetic rugs differ in dye and backing sensitivity. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Loose rugs may bleed dye or distort if handled like fitted carpet.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Measure each rug, photograph the backing, fringe, labels and marks.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Agree on-site or off-site cleaning after a colourfastness test. Weaving repairs and pre-existing damage are separate.
+
+**Quotation comparison and written agreement:** Compare collection, tracking, drying and return packaging. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Check the edges, dimensions, odour and complete drying on return. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 3. Fitted carpet cleaning
 
-**The practical need:** Underlay and seams affect extraction method and odour prevention. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Wall-to-wall carpet collects soil at seams and under furniture.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Supply floor area, pile type, photographs of joins and a furniture plan.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Vacuum and treat spots before controlled-moisture extraction; adhesive repair and heavy furniture moving require separate agreement.
+
+**Quotation comparison and written agreement:** Compare access, ventilation, furniture protection and room downtime. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Inspect seams, edges, dryness and any residual stains before reopening the room. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 4. Arabic majlis cleaning
 
-**First check:** Count removable cushions and avoid saturating deep seating bases. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Majlis seating often has separate cushions and mixed fabrics.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Count all sections and pillows and photograph covers, fillings and stains.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Test each fabric, clean compatible surfaces and avoid soaking deep foam; filling replacement is not included.
+
+**Quotation comparison and written agreement:** Compare dismantling, labelling cushions, drying arrangements and reassembly. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Check every piece is returned, colours remain stable and no dampness is trapped. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 5. Mattress cleaning
 
-**Describe the issue:** Deep mattress dampness dries more slowly than a surface spot; agree the method. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Mattresses need careful moisture control because their cores dry slowly.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Record mattress size, material, care label and both sides of visible marks.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Agree limited surface extraction and drying; mould remediation and bedbug treatment are different services.
+
+**Quotation comparison and written agreement:** Compare water use, ventilation and the waiting period before sleeping. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Check the surface is dry and whether odours or rings recur after drying. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 6. Curtain cleaning
 
-**The practical need:** Blackout linings and pleats can shrink or suffer during removal and cleaning. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Blackout linings, pleats and rails can be damaged by the wrong cleaning method.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Photograph fabric labels, track fixings and lining; measure drop and width.
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Specify on-site treatment or removal, cleaning, pressing and rehanging. Rail repair is separate.
 
-## 7. Soft furnishing disinfection
+**Quotation comparison and written agreement:** Compare removal labour, transport, shrinkage risk and reinstallation. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
 
-**First check:** Stain removal does not establish disinfection; ask about product, compatibility and efficacy limits. Provide stain photos, fabric care label, composition and seat or area count, including any health risks, sensitive materials or occupancy constraints.
+**Acceptance inspection:** Inspect hanging length, pleats, lining and rail operation. Keep before-and-after photographs and a list of outstanding issues.
 
-**Scope and exclusions:** Require fabric care tests, suitable chemistry, stain limitations, drying time, ventilation and protection. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+## 7. Upholstery disinfection
 
-**Acceptance:** Check colour, water rings and residual dampness after drying rather than while wet. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**When this is useful:** A targeted disinfection request requires a defined purpose and compatible products.
 
-## Biet Al Reef quotation support
+**Site evidence and measurements:** Identify fabric types, frequently touched areas, sensitive occupants and manufacturer labels.
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**Scope and exclusions:** Agree prior cleaning, product suitability, contact time and safe re-entry. Do not assume pest eradication or universal health protection.
+
+**Quotation comparison and written agreement:** Compare product documentation, application method and recorded treated surfaces. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Request treatment records and aftercare instructions; reject unsupported effectiveness claims. Keep before-and-after photographs and a list of outstanding issues.
+
+## Prepare a request through Biet Al Reef
+
+Send customer support photographs, quantities, dimensions, material details, site restrictions and preferred dates. A request can be prepared even when no provider is listed. This does not guarantee a company, quotation amount or booking. Confirm relevant licensing and safe-work requirements before engaging a contractor.

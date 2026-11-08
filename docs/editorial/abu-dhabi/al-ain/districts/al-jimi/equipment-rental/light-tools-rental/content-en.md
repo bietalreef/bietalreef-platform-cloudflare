@@ -1,63 +1,49 @@
 # Light tools and equipment rental in Al Jimi
 
-These notes help a customer prepare a company enquiry for Al Jimi, not identify available vendors. Transport, permits, insurance and checks depend on the actual load or equipment. Agree the specifications and responsibilities before accepting a quote.
+Guidance for company hire enquiries, not a live inventory or supplier listing. Select tools for the actual task, site and safety requirements.
 
 ## 1. Generator rental
 
-Motor starting current, connected loads and ventilation may exceed nominal generator capacity. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For a site without permanent supply, list running and starting loads, concurrent operation, cable route, ventilation and generator location. Starting currents may require a larger unit than a simple sum of ratings.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Compare output rating, sockets, fuel, running hours, noise, transport, earthing and qualified connection. Fuel, cables and distribution may be extra. Check leaks, protection, hour meter and a suitable load test.
 
 ## 2. Cleaning equipment rental
 
-Floor material and oil versus dust contamination determine brush and extraction choice. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For post-fit-out floors, identify floor material, area, soil type, water, power and drainage. Photograph stains, doorways and corridors to select scrubbers or extractors that will not damage the finish.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Ask about brushes, pads, chemicals, tanks, delivery and training; operators and wastewater disposal are separate unless agreed. Test operation, leaks, tanks and brush condition.
 
 ## 3. Air compressor rental
 
-Required airflow, working pressure and hose size matter beyond maximum pressure. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For spraying or pneumatic tools, state required pressure, airflow, duty cycle and number of tools. Photograph the setup, hose runs, power source and ventilation.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Compare delivered airflow at working pressure rather than tank size alone; agree hoses, fittings, filters, dryer and power. Inspect relief valve, gauge, hoses, leaks and operation.
 
 ## 4. Power tool rental
 
-Cutting or drilling material determines bit or disc and suitable guard. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For drilling, fastening or cutting, specify material, thickness, hole diameter or cut length and work area. Share photos and dust/power constraints to select the right tool.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Compare model, cutting accessories, batteries, chargers and consumable charges. Operators and bits/discs may be extra. Inspect guards, cords, batteries, switches and serial numbers.
 
 ## 5. Welding equipment rental
 
-Metal grade, thickness, current and ventilation govern welding equipment. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For metal repairs or assembly, identify material, thickness, welding process, power and work location. Photograph joints and note confined areas or nearby combustibles.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Specify leads, earth clamp, gas, regulators, wire, electrodes and PPE; certified welding labour is not implied. Inspect insulation, connections and cooling; fire precautions and ventilation are essential.
 
 ## 6. Water pump rental
 
-Lift head, hose run and liquid type determine the actual pumping rate. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For dewatering or transferring site water, estimate flow, pumping head, distance, hose diameter and solids content. Photograph intake and discharge and confirm an acceptable discharge route.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and handover:** Compare flow at required head, power, hoses, strainers and standby support; discharge permissions and water treatment may be separate. Inspect seals, leaks, priming and a pumping test.
 
 ## 7. Garden equipment rental
 
-Vegetation density, turf area and concealed irrigation influence tool selection. Before requesting prices, supply task, area, power/water source and secure storage; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For mowing, hedge trimming or clearing garden debris, give area, vegetation type, branch height and ground conditions. Photograph access and obstacles to select mower, trimmer or blower.
 
-**Quote and scope:** Identify model, rating, accessories, deposit, consumables, delivery and when the hire charge starts. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Quotation, agreement and handover:** Compare capacity, batteries/fuel, blades, transport and guards; labour and green-waste collection may be extra. Inspect blade guards, stop switch, vibration and battery or engine condition.
 
-**Acceptance:** Check guards, cables, accessories and a witnessed start-up test. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+## Prepare a quotation request
 
-## Quote support from Biet Al Reef
-
-Share an item/equipment inventory, measurements, access photos and proposed dates with Biet Al Reef customer service. We can help prepare a clear quotation request and look for a suitable company without guaranteeing availability, prices or timing.
+Share Al Jimi site photos, specifications, hire period and accessories with Biet Al Reef customer service; request transport, insurance, breakdown and return terms. Enquiry assistance does not guarantee a supplier, price or date.

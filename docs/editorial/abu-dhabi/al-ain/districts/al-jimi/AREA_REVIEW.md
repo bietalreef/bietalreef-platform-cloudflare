@@ -379,3 +379,10 @@
 - أُعيد تحرير الخدمات السبع في **تشغيل وصيانة المباني** تحريرًا مخصصًا لكل خدمة، مع نطاقات واستثناءات ومقارنة عروض وفحص استلام مختلفة، وتحقق حفظ الملفات الثلاثة: [العربي](./cleaning-services/building-facility-operations/content-ar.md) · [English](./cleaning-services/building-facility-operations/content-en.md) · [المراجعة](./cleaning-services/building-facility-operations/review.md).
 - تمت قراءة الملفات الثلاثة وإثبات مطابقتها للمحتوى المرفوع.
 - **النواقص التالية:** مراجعة تحريرية مفصلة لـ`cleaning-services/tanks-pools-cleaning` ثم `pest-rodent-control` ثم `disinfection-sanitisation`، وبالأخص إزالة العبارات المشتركة غير الضرورية وتدقيق تعليمات السلامة؛ يليها تدقيق جودة وأسماء وعدد جميع خدمات التخصصات الخمسين والقطاعات الثمانية مقابل الشجرة الأصلية، وتحديث تقارير المراجعة. لا تبدأ المويجعي حتى اعتماد الجيمي.
+
+
+## تدقيق التطهير والتعقيم — 2026-11-08
+
+- الحالة العامة: `in_progress`، لا يبدأ المويجعي قبل اعتماد تدقيق خدمات الجيمي الـ434 بكل لغة.
+- أُعيد تحرير خدمتي **رش وتعقيم المنازل** و**تعقيم المكاتب والمنشآت** بشكل مختلف عمليًا في نطاق التطبيق والصور والمقاسات والمواد وحماية الأسطح والتعاقد والاستلام؛ أُعيدت قراءة الملفات الثلاثة وتطابقت مع المحفوظ في الفرع: [العربية](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [المراجعة](./cleaning-services/disinfection-sanitisation/review.md).
+- **أول نقص دقيق تالٍ:** تدقيق `cleaning-services/tanks-pools-cleaning/content-ar.md` ثم `content-en.md` ثم `review.md`؛ وبعده `cleaning-services/pest-rodent-control` بملفاته الثلاثة. يجب إزالة الصياغات المشتركة المتكررة ومراجعة السلامة الفنية، ثم تدقيق أسماء وعدد وجودة جميع خدمات التخصصات الخمسين في القطاعات الثمانية. لا تعتبر وجود الملفات وحده اعتمادًا للجودة.

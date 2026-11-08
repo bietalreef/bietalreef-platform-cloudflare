@@ -1,4 +1,6 @@
 import PublishedPortfolio from './PublishedPortfolio';
+import CompanyPageNav from './CompanyPageNav';
+import CompanyContactBar from './CompanyContactBar';
 import Head from 'next/head';
 import CleaningServiceDetails from './CleaningServiceDetails';
 import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
@@ -205,20 +207,7 @@ export default function RehabPresencePage({ data: sourceData, locale = 'ar', rou
   return <div dir={rtl ? 'rtl' : 'ltr'} lang={locale === 'ar' ? 'ar-AE' : 'en-AE'} className="min-h-screen bg-[#F8F9FB] pb-20 text-slate-800 sm:pb-0">
     <Seo data={data} locale={locale} route={route} detail={detail} />
     <Navbar locale={locale} />
-    <header className="border-b border-slate-200 bg-white">
-      <nav className="mx-auto flex max-w-6xl flex-col gap-2 px-3 py-2 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-3 sm:px-4 sm:py-3" aria-label="Company navigation">
-        <Link href={navPath()} className="flex min-w-0 items-center gap-2 sm:gap-3">
-          {p.logo_url ? <img src={p.logo_url} alt="" className="h-7 w-7 shrink-0 rounded-lg border border-slate-200 bg-white object-contain sm:h-11 sm:w-11 sm:rounded-xl" /> : <Building2 className="text-[#B89149]" />}
-          <strong className="truncate text-sm text-[#122A49] sm:text-lg">{name}</strong>
-        </Link>
-        <div className="flex min-w-0 flex-nowrap items-center justify-between gap-2 overflow-x-auto text-xs font-bold text-[#122A49] sm:flex-wrap sm:justify-start sm:gap-3 sm:overflow-visible sm:text-sm">
-          <Link className="whitespace-nowrap rounded-lg bg-[#F6F3EC] px-2 py-1.5 sm:bg-transparent sm:p-0" href={navPath()}>{t.home}</Link>
-          <Link className="whitespace-nowrap px-1 py-1.5 sm:p-0" href={navPath({ kind: 'services' })}>{t.services}</Link>
-          {data.offers.length > 0 && <Link className="whitespace-nowrap px-1 py-1.5 sm:p-0" href={navPath({ kind: 'offers' })}>{t.offers}</Link>}
-          <Link className="whitespace-nowrap px-1 py-1.5 sm:p-0" href={navPath({ kind: 'service-areas' })}>{t['service-areas']}</Link>
-        </div>
-      </nav>
-    </header>
+    <CompanyPageNav locale={locale} homeHref={navPath()} active={route.kind} hrefs={{home:navPath(),services:navPath({kind:'services'}),offers:navPath({kind:'offers'}),'service-areas':navPath({kind:'service-areas'})}} />
 
     <main>
     {route.directoryArea && <nav aria-label={rtl?'مسار التصفح':'Breadcrumbs'} className="mx-auto max-w-6xl px-3 py-3 text-xs text-slate-600"><Link href={`${rtl?'':'/en'}/uae/abu-dhabi/al-ain`}>{rtl?'العين':'Al Ain'}</Link> / <Link href={`${rtl?'':'/en'}/uae/abu-dhabi/al-ain/${route.directoryArea.slug}`}>{pick(route.directoryArea,locale)}</Link>{route.kind==='services'&&<> / <Link href={`${rtl?'':'/en'}/uae/abu-dhabi/al-ain/${route.directoryArea.slug}/cleaning-services/${route.slug}`}>{rtl?'العودة إلى الخدمة':'Back to service'}</Link></>}</nav>}
@@ -249,19 +238,19 @@ export default function RehabPresencePage({ data: sourceData, locale = 'ar', rou
     </section>
 
     {route.kind === 'home' ? <div className="flex flex-col sm:block">
-      <Section title={t.about} locale={locale} mobileOrder="order-2"><div className="grid items-start gap-5 md:grid-cols-[1fr_220px]"><p className="max-w-4xl rounded-2xl border border-slate-200 bg-white p-3 text-sm leading-7 text-slate-700 sm:p-6 sm:text-base sm:leading-9">{pick(p, locale, 'description') || pick(p, locale, 'short_description')}</p></div></Section>
-      <Section title={t.officialInfo} locale={locale} mobileOrder="order-7"><BusinessInformation data={data} locale={locale} /></Section>
-      <Section title={rtl ? 'تقييمات الرحاب على خرائط Google' : 'Al Rehab reviews on Google Maps'} locale={locale} mobileOrder="order-8"><div className="rounded-2xl border border-[#E1D4BD] bg-white p-4 sm:p-5"><p className="text-sm leading-7 text-slate-600">{rtl ? 'اطّلع على آراء العملاء من تبويب التقييمات في ملف الرحاب على خرائط Google.' : 'Read customer feedback in the reviews tab on the Al Rehab Google Maps listing.'}</p><a href={REHAB_MAP_URL} target="_blank" rel="noopener noreferrer" className="mt-3 inline-flex min-h-11 items-center gap-2 rounded-xl border border-[#D8C6A5] bg-[#F8F4ED] px-4 py-2 text-sm font-bold text-[#193b53]"><MapPin size={17} aria-hidden="true"/>{rtl ? 'افتح ملف الرحاب وتقييماته' : 'Open the listing and reviews'}</a></div></Section>
-      {categories.map((c) => <Section key={c.kind} title={c.title} href={navPath({ kind: c.kind })} locale={locale} mobileOrder={c.kind === 'services' ? 'order-1' : c.kind === 'offers' ? 'order-3' : 'order-5'}><Collection contextBase={route.contextBase} items={c.items.slice(0, 3)} routeKind={c.kind} locale={locale} empty={c.empty} companyCover={data.media?.cover} /></Section>)}
+      <Section title={t.about} locale={locale} mobileOrder="order-1"><div className="grid items-start gap-5 md:grid-cols-[1fr_220px]"><p className="max-w-4xl rounded-2xl border border-slate-200 bg-white p-3 text-sm leading-7 text-slate-700 sm:p-6 sm:text-base sm:leading-9">{pick(p, locale, 'description') || pick(p, locale, 'short_description')}</p></div></Section>
+      <Section title={t.officialInfo} locale={locale} mobileOrder="order-2"><BusinessInformation data={data} locale={locale} /></Section>
+      {categories.map((c) => <Section key={c.kind} title={c.title} href={navPath({ kind: c.kind })} locale={locale} mobileOrder={c.kind === 'services' ? 'order-3' : c.kind === 'offers' ? 'order-4' : 'order-5'}><Collection contextBase={route.contextBase} items={c.items.slice(0, 3)} routeKind={c.kind} locale={locale} empty={c.empty} companyCover={data.media?.cover} /></Section>)}
       <RehabAreaDirectory locale={locale} areas={data.areas} />
-      <PublishedPortfolio items={data.portfolioProjects} locale={locale}/>
+      <div id="company-posts" className="order-7 scroll-mt-36"><PublishedPortfolio items={data.portfolioProjects} locale={locale}/>{!data.portfolioProjects?.length&&<Section title={rtl?'المنشورات':'Posts'} locale={locale}><p className="rounded-xl border border-dashed border-slate-300 bg-white p-4 text-sm text-slate-600">{rtl?'لا توجد منشورات معتمدة بعد.':'No approved posts yet.'}</p></Section>}</div>
+      <Section title={rtl ? 'تقييمات الرحاب على خرائط Google' : 'Al Rehab reviews on Google Maps'} locale={locale} mobileOrder="order-8"><div className="rounded-2xl border border-[#E1D4BD] bg-white p-4 sm:p-5"><p className="text-sm leading-7 text-slate-600">{rtl ? 'اطّلع على آراء العملاء من تبويب التقييمات في ملف الرحاب على خرائط Google.' : 'Read customer feedback in the reviews tab on the Al Rehab Google Maps listing.'}</p><a href={REHAB_MAP_URL} target="_blank" rel="noopener noreferrer" className="mt-3 inline-flex min-h-11 items-center gap-2 rounded-xl border border-[#D8C6A5] bg-[#F8F4ED] px-4 py-2 text-sm font-bold text-[#193b53]"><MapPin size={17} aria-hidden="true"/>{rtl ? 'افتح ملف الرحاب وتقييماته' : 'Open the listing and reviews'}</a></div></Section>
       {data.projects.length ? <Section title={t.gallery} locale={locale} mobileOrder="order-9"><div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{data.projects.map((item) => <figure className="overflow-hidden rounded-2xl border border-slate-200 bg-white" key={item.id}>{item.cover_image_url ? <img src={item.cover_image_url} loading="lazy" alt={pick(item, locale, 'title')} className="h-48 w-full object-cover" /> : null}<figcaption className="p-4"><strong>{pick(item, locale, 'title')}</strong><p className="text-sm leading-7 text-slate-600">{pick(item, locale, 'description')}</p></figcaption></figure>)}</div></Section> : null}
       {data.faqs.length ? <Section title={t.faq} locale={locale} mobileOrder="order-10"><div className="space-y-2 sm:space-y-3">{data.faqs.map((faq) => <details key={faq.id} className="group rounded-xl border border-slate-200 bg-white p-3 text-sm sm:rounded-2xl sm:p-5 sm:text-base"><summary className="cursor-pointer font-bold text-[#122A49]">{pick(faq, locale, 'question')}</summary><p className="pt-2 leading-7 text-slate-600 sm:pt-3 sm:leading-8">{pick(faq, locale, 'answer')}</p></details>)}</div></Section> : null}
       <Section title={t.platformSections} locale={locale} mobileOrder="order-last"><div className="flex flex-wrap gap-1.5 rounded-2xl border border-[#E1D4BD] bg-white p-3 text-xs font-bold sm:gap-3 sm:p-5 sm:text-sm"><Link href={rtl ? '/providers' : '/en/providers'} className="rounded-lg bg-[#F2F5F8] px-3 py-2 text-[#122A49] sm:rounded-xl sm:px-5 sm:py-3">{t.browseDirectory}</Link><Link href={rtl ? '/services/cleaning' : '/en/categories/cleaning-services'} className="rounded-lg bg-[#F2F5F8] px-3 py-2 text-[#122A49] sm:rounded-xl sm:px-5 sm:py-3">{t.browseCleaning}</Link><Link href={rtl ? '/uae/abu-dhabi/al-ain/cleaning-services' : '/en/uae/abu-dhabi/al-ain/cleaning-services'} className="rounded-lg bg-[#F2F5F8] px-3 py-2 text-[#122A49] sm:rounded-xl sm:px-5 sm:py-3">{rtl ? 'شركات التنظيف في العين' : 'Cleaning in Al Ain'}</Link><a href={REHAB_MAP_URL} target="_blank" rel="noopener noreferrer" className="rounded-lg bg-[#FFF6E5] px-3 py-2 text-[#785927] sm:rounded-xl sm:px-5 sm:py-3"><MapPin size={15} className="me-1 inline-block" />{t.openMaps}</a></div></Section>
     </div> : route.slug ? <>
       <Section title={route.kind === 'services' ? (rtl ? 'تفاصيل الخدمة' : 'Service details') : currentName} locale={locale}>
         <article className="overflow-hidden rounded-[1.5rem] border border-slate-200 bg-white shadow-sm">
-          {serviceImage ? <picture><source media="(max-width:700px)" srcSet={serviceImage.mobile}/><img src={serviceImage.desktop} alt={currentName} width="1448" height="1086" className="max-h-96 w-full bg-[#f3efe7] object-contain" /></picture> : detail?.image ? <img src={detail.image} alt={currentName} className="max-h-96 w-full bg-[#f3efe7] object-contain" /> : null}
+          {serviceImage ? <picture><source media="(max-width:700px)" srcSet={serviceImage.mobile}/><img src={serviceImage.desktop} alt={currentName} width="1448" height="1086" className="max-h-96 w-full bg-[#f3efe7] object-cover object-center" /></picture> : detail?.image ? <img src={detail.image} alt={currentName} className="max-h-96 w-full bg-[#f3efe7] object-cover object-center" /> : null}
           <div className="p-6 sm:p-9">{serviceContent ? <CleaningServiceDetails content={serviceContent} locale={locale} /> : <p className="whitespace-pre-line text-base leading-9 text-slate-700">{pick(detail, locale, 'description') || (route.kind === 'service-areas' ? t.offeredInArea : t.inquiry)}</p>}
             {route.kind==='offers'&&detail?.offer?.code&&<p className="mt-4 rounded-xl bg-[#eff6fb] p-4 text-sm font-bold text-[#185b87]">{rtl?'رمز العرض: ':'Offer code: '}<span dir="ltr">{detail.offer.code}</span><span className="mt-1 block text-xs font-normal">{rtl?'اذكر الرمز عند التواصل لتأكيد شروط العرض.':'Mention this code when contacting the company to confirm the offer terms.'}</span></p>}
             {route.kind==='offers'&&detail?.offer?.expiresAt&&<p className="mt-3 text-sm text-slate-600">{rtl?'ينتهي العرض: ':'Offer ends: '}<time dateTime={detail.offer.expiresAt}>{detail.offer.expiresAt.slice(0,10)}</time></p>}
@@ -281,9 +270,6 @@ export default function RehabPresencePage({ data: sourceData, locale = 'ar', rou
     {route.kind === 'services' && detail && data.services.length > 1 ? <Section title={rtl ? 'خدمات أخرى من الرحاب' : 'More Al Rehab services'} locale={locale}><Collection contextBase={route.contextBase} items={data.services.filter(item => item.slug !== detail.slug)} locale={locale} routeKind="services" companyCover={data.media?.cover} areaSlug={route.areaSlug} citySlug={route.citySlug} districtArea={route.districtArea} /></Section> : null}
     </main>
     <Footer locale={locale} showRequestCTA={false} />
-    {(phone || wa) ? <nav aria-label={rtl ? 'اتصال مباشر بالرحاب' : 'Contact Al Rehab'} className="fixed inset-x-0 bottom-0 z-40 flex gap-2 border-t border-slate-200 bg-white/95 px-3 pb-[max(8px,env(safe-area-inset-bottom))] pt-2 shadow-[0_-5px_22px_rgba(18,42,73,.10)] backdrop-blur-xl sm:hidden">
-      {phone ? <a href={`tel:${phone}`} className="inline-flex min-h-11 flex-1 items-center justify-center gap-2 rounded-xl bg-[#F1E1BE] px-2 py-2 text-sm font-black text-[#122A49]"><Phone size={17} />{t.contact}</a> : null}
-      {wa ? <a href={wa} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 flex-1 items-center justify-center gap-2 rounded-xl bg-[#168E4B] px-2 py-2 text-sm font-black text-white"><MessageCircle size={17} />{t.whatsapp}</a> : null}
-    </nav> : null}
+    <CompanyContactBar locale={locale} phoneHref={phone?'tel:'+phone:null} whatsappHref={wa}/>
   </div>;
 }

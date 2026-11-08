@@ -242,3 +242,9 @@
 - الحالة: `in_progress`؛ أُعيد تحرير **20 من 50 تخصصًا** ثنائي اللغة، ويتبقى **30 تخصصًا** ثم التدقيق النهائي لـ434 خدمة في كل لغة.
 - أُعيدت كتابة الخدمات السبع بمتطلبات مستقلة للمواقع والمقاسات والمواد والاستثناءات واختبارات الاستلام، وبعناوين إنجليزية مترجمة: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [المراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وطابقت المحتوى المرفوع.
 - **أول نقص تالٍ:** `building-materials/building-finishing-materials/content-ar.md` ثم `content-en.md` و`review.md`، تليه `building-materials/timber-panels` وبقية تخصصات مواد البناء، ثم القطاعات اللاحقة وفق الفهرس. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث مواد البناء والتشطيب — 2026-11-08
+
+- الحالة `in_progress`: **21 من 50 تخصصًا** محررًا ثنائي اللغة؛ يتبقى **29 تخصصًا** والمراجعة النهائية لجميع خدمات المنطقة.
+- أُعيد تحرير 21 خدمة عربية و21 إنجليزية وفق الشجرة، مع متطلبات خاصة بالمواد والتسليم: [العربي](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md).
+- **أول نقص تالٍ:** `building-materials/timber-panels/content-ar.md` ثم `content-en.md` و`review.md`؛ وبعده الرخام والجرانيت، أسطح المطابخ والمغاسل، السيراميك والبورسلان، ثم بقية القطاعات. لا يبدأ المويجعي قبل اكتمال الجيمي.

@@ -134,7 +134,7 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite: general-contracting 56, interior-design 49, general-maintenance 105, building-materials 49, aluminium-glass 1-7. Total 266/434; 168 remain. Next aluminium-glass service 8. Verified 56 sequential headings each language; no approval or deployment.",
+      "review_note": "Independent bilingual rewrite: general-contracting 56, interior-design 49, general-maintenance 105, building-materials 49, aluminium-glass 1-14. Total 273/434; 161 remain. Next aluminium-glass service 15. Verified 56 sequential headings each language; no approval or deployment.",
       "editorial_progress": {
         "sector": "aluminium-glass",
         "specialty": "المطابخ والخزائن والأبواب الخشبية",
@@ -145,14 +145,21 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ],
-        "next_service_number": 8,
-        "remaining_in_sector": 49,
+        "next_service_number": 15,
+        "remaining_in_sector": 42,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 266,
-        "remaining_area_services_for_originality_review": 168,
+        "area_independently_rewritten": 273,
+        "remaining_area_services_for_originality_review": 161,
         "area_editorially_approved": false
       }
     },

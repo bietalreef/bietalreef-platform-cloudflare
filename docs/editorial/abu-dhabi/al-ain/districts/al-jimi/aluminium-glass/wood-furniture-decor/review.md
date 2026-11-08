@@ -1,15 +1,14 @@
-# Review — الأثاث والديكور الخشبي — Al Jimi
+# مراجعة الأثاث والديكور الخشبي — الجيمي
 
-- Exact source company specialty: **الأثاث والديكور الخشبي**.
-- Exact named Arabic service sections: 14; paired English: 14, in matching order.
-- Job-specific technical consideration, required measurements, fabrication scope, quotations and acceptance checks.
-- No claim of approved safety products, listed companies, prices or delivery date.
+- الحالة: تمت إعادة كتابة الخدمات الأربع عشرة المسماة في شجرة الشركات والمنشآت، بالعربية والإنجليزية وبالترتيب نفسه.
+- تميز كل خدمة متطلبات الصور والقياس، والنطاق والاستثناءات، ومقارنة العروض وبنود الاتفاق والاستلام.
+- لا توجد ادعاءات عن شركة منشورة أو سعر أو موعد. هذا المحتوى تحضيري ولا ينشئ خدمة مفعلة.
 
 1. تصنيع الأثاث حسب الطلب — Custom furniture making
 2. تصنيع طاولات التلفاز — TV unit fabrication
 3. تصنيع وحدات التخزين — Storage unit fabrication
 4. تنفيذ كسوات الجدران الخشبية — Timber wall cladding
-5. تنفيذ ديكورات CNC — CNC woodwork
+5. تنفيذ ديكورات CNC — CNC decorative cutting
 6. تنفيذ الكاونترات — Counter fabrication
 7. تصنيع أثاث المتاجر والمكاتب — Retail and office furniture fabrication
 8. تصميم المساحات الداخلية — Interior space design

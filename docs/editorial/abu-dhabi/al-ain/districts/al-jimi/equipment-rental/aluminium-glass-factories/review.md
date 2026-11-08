@@ -1,9 +1,9 @@
-# Review — مصانع الألمنيوم والزجاج — Al Jimi
+# مراجعة — مصانع الألمنيوم والزجاج — الجيمي
 
-- Exact source company specialty: مصانع الألمنيوم والزجاج; status restricted.
-- Exact service headings: 7 Arabic and 7 English in matched taxonomy order.
-- Distinct task-specific consideration; site/weight/capacity inputs, quote inclusions/exclusions and acceptance checks per service.
-- No invented supplier, equipment inventory, hire rate, permissions, delivery date or activation.
+- الحالة: `reviewed` تحريرياً؛ التصنيف غير قابل للاختيار ومحتواه تحضيري.
+- 7 خدمات مطابقة حرفياً لترتيب شجرة الشركات والمنشآت، مع 7 أقسام إنجليزية مكافئة.
+- لكل خدمة مدخلات محددة للمقاسات والصور والمواصفات، ونطاق واستثناءات ومقارنة واستلام مختلف.
+- لا أسماء شركات أو أسعار أو ادعاء تفعيل أو مواعيد مضمونة.
 
 1. تصنيع قطاعات الألمنيوم / Aluminium profile manufacture
 2. تصنيع الأبواب والنوافذ / Door and window manufacture

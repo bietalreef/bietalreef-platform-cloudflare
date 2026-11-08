@@ -1,65 +1,49 @@
-# Stone and marble factories in Al Jimi
+# Marble and stone factories in Al Jimi
 
-These notes help a customer prepare a company enquiry for Al Jimi, not identify available vendors. Transport, permits, insurance and checks depend on the actual load or equipment. Agree the specifications and responsibilities before accepting a quote.
-
-> **Taxonomy status:** currently non-selectable. Preparatory guidance only.
+Preparatory guidance for establishment enquiries, not evidence of available factories. **This category is currently non-selectable.**
 
 ## 1. Marble and stone cutting
 
-Cut planning affects veining and stone waste at seams. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+Send cutting drawings, dimensions, thickness, vein direction and slab photos with cut-out positions.
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Quote comparison, contract scope and acceptance:** Compare cutting method, waste, edge finish, labelling and transport; check dimensions, vein alignment and chipped corners.
 
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+## 2. Kitchen worktop fabrication
 
-## 2. Kitchen countertop fabrication
+Provide an accurate cabinet template, sink and hob positions, uneven walls, stone type, thickness and edge profile.
 
-Sink and hob cut-outs and support of narrow strips must be decided before cutting. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**Quote comparison, contract scope and acceptance:** Compare cut-outs, seams, supports, sink sealing and installation scope; check level and opening alignment.
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+## 3. Stair stone fabrication
 
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+Measure each tread and riser, landings and existing substrate; specify nosing and slip-resistance requirements.
 
-## 3. Stone stair tread fabrication
+**Quote comparison, contract scope and acceptance:** Compare finish, slip performance, colour consistency and special cuts; allocate installation and substrate correction, then inspect tread and riser consistency.
 
-Stair treads need consistent rise/run and safe edge profiles. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+## 4. Facade marble preparation
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+Provide elevations, cladding sizes, specified anchoring, lifting and storage access; do not assume every stone is suitable outdoors.
 
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quote comparison, contract scope and acceptance:** Compare suitability records, anchors, joints and transport protection; inspect thickness, fixing holes and pane IDs.
 
-## 4. Facade stone preparation
+## 5. Decorative stone carving
 
-Anchors, loads and panel arrangement must precede facade production. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+Send a scaled motif, reference image, carving depth, stone type and display position.
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
-
-## 5. Stone engraving and ornamentation
-
-Carving depth and pattern repetition require detailed drawings and a physical trial. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
-
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quote comparison, contract scope and acceptance:** Compare machine or hand carving, detail level and rear/edge finish; approve a sample and inspect symmetry and fine edges.
 
 ## 6. Marble polishing and treatment
 
-Resolve staining sources before polishing surfaces with ongoing moisture. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+Photograph scratches, stains and dull areas; identify stone and floor area, and test a small patch first.
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Quote comparison, contract scope and acceptance:** Compare grinding stages, polishing compounds and furniture protection; do not promise deep-stain removal without a trial. Inspect sheen consistency and slip risk.
 
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+## 7. Contractor order preparation
 
-## 7. Contractor stone orders
+Send a floor-by-floor numbered bill of quantities, approved cutting drawings, batch schedule and unloading locations.
 
-Room schedules and piece labels prevent mixing stair and kitchen panels. Before requesting prices, supply cutting drawings, opening sizes and approved slab images; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**Quote comparison, contract scope and acceptance:** Compare part tracking, packing, change logs and breakage replacement; reconcile batches with packing lists before acceptance.
 
-**Quote and scope:** Specify stone type, slab thickness, approved sample, veining, cutting, edges, wastage, delivery and fitting. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+## Quotation request
 
-**Acceptance:** Check piece consistency, safe corners, labels and sample matching. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
-
-## Quote support from Biet Al Reef
-
-Share an item/equipment inventory, measurements, access photos and proposed dates with Biet Al Reef customer service. We can help prepare a clear quotation request and look for a suitable company without guaranteeing availability, prices or timing.
+Prepare photos, measurements, drawings, quantities and delivery location. Biet Al Reef customer service can help structure an enquiry without guaranteeing a supplier, price or date.

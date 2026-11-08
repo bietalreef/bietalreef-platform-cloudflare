@@ -1,63 +1,91 @@
 # Building operations and maintenance in Al Jimi
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+Guidance for company and establishment services, not a claim of provider availability, accreditation or a confirmed booking. Building management and technical repairs are distinct scopes.
 
 ## 1. Maintenance management
 
-**First check:** Numbered faults, approving contacts and status tracking prevent lost repairs. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** When faults pass between tenants, managers and contractors without clear ownership, a single controlled work-order process is needed.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Provide fault photos, unit count, recent tickets, authorised approvers and spending limits.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Include triage, work-order dispatch, escalation and documented closure; physical repairs and replacement parts are not automatically included.
+
+**Compare quotes and agree terms:** Compare ticket tracking, priority-based response targets and approval of extras; document key custody, resident-data confidentiality and authority limits.
+
+**Acceptance:** Match sample tickets to work orders, invoices and closure photos; inspect the unresolved queue and reasons for delays.
 
 ## 2. Facility operations
 
-**Describe the issue:** Opening hours, key custody and emergency plans form part of operations. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Shared entrances, common amenities and shift handovers require an operations plan for occupied buildings.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Provide entrance plans, common-area inventory, occupancy hours, key register, critical assets and emergency contacts.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Include operating rounds, vendor coordination, shift handover and access control procedures; licensed guarding and structural repairs require separate scope.
+
+**Compare quotes and agree terms:** Compare holiday cover, emergency escalation, key custody and opening/closing responsibility; specify staffed and on-call hours.
+
+**Acceptance:** Inspect shift logs, rounds and incident records, and walk through the after-hours fault-reporting procedure without assuming guaranteed response.
 
 ## 3. Preventive maintenance
 
-**The practical need:** Filters, pumps and switchgear need asset-specific plans beyond a visit count. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Prevent recurring pump or HVAC failures with an asset-based schedule rather than a generic monthly visit.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Supply asset inventory, model identifiers, locations, service history and available operating readings.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Include agreed inspection, cleaning, non-destructive checks and condition logs; emergency repairs and replacements are separate unless specified.
+
+**Compare quotes and agree terms:** Compare asset-specific frequency, consumables, planned shutdowns and part authorisation; document inaccessible equipment.
+
+**Acceptance:** Review asset-by-asset logs, readings and deferred tasks, checking evidence of scheduled tests rather than visit signatures alone.
 
 ## 4. Electrical-system monitoring
 
-**First check:** Repeated trips and overheating need qualified checks and records, not casual panel access. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Repeated breaker trips, unusual heat or odours call for qualified monitoring and safe isolation.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Provide exterior panel photos, available load schedules and trip history; do not open electrical panels for photographs.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Cover fault-log review, safe visual checks and authorised specialist measurements; rewiring and board replacement are excluded.
+
+**Compare quotes and agree terms:** Compare personnel competence, isolation permits, test scope and risk reporting; name who may authorise power shutdown.
+
+**Acceptance:** Require dated panel identifiers, readings, risk levels and corrective actions; a monitoring report is not a blanket electrical safety certificate.
 
 ## 5. HVAC-system monitoring
 
-**Describe the issue:** Temperature, condensate and pressure readings can reveal deterioration early. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Uneven room temperatures, condensation or unusual energy use benefit from repeatable performance monitoring.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Provide unit counts, models, access photos, temperature observations and occupant complaints.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Include operating checks, filter and drain observations and agreed performance readings; compressor repairs and refrigerant work require explicit scope.
+
+**Compare quotes and agree terms:** Compare logging frequency, room-access windows and condensate escalation; identify units requiring specialist diagnostics.
+
+**Acceptance:** Match unit-specific readings to complaints and recommendations, and check unresolved defects rather than accepting a simple 'operational' label.
 
 ## 6. Plumbing and drainage monitoring
 
-**The practical need:** Recurring small leaks or drainage smells need documented root-cause follow-up. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Recurring damp patches or drain odours need source tracking, not just cosmetic cleanup.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Supply incident locations, stain and meter photos if available, plumbing drawings and blockage history.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Include visual leak and drain checks plus evidence logs; wall opening, specialist leak detection and repairs are not automatically included.
+
+**Compare quotes and agree terms:** Compare active-leak escalation, access to occupied units and authority to isolate water; agree resident coordination.
+
+**Acceptance:** Inspect timestamps, temporary containment and technical recommendations, and distinguish resolved causes from outstanding investigations.
 
 ## 7. Building condition reporting
 
-**First check:** Dated, risk-ranked observations are not automatically a structural safety certificate. Provide unit and equipment count, operating hours, fault history and responsible contact, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Before management renewal or major repairs, a condition report helps rank observed defects and follow-up needs.
 
-**Scope and exclusions:** Separate operator, facilities manager and specialist contractors; define work orders, preventive checks, supplies, reporting and escalation. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and inputs:** Provide approximate building age, floor plans, damage photos, maintenance records and the report's intended purpose.
 
-**Acceptance:** Check dated work records, unresolved defects and response performance. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Cover documented visual inspection, dated photos, priorities and further-test recommendations; structural assessment, laboratory tests and official certification are separate.
 
-## Biet Al Reef quotation support
+**Compare quotes and agree terms:** Compare inspected areas, risk grading, access limitations and specialist referral for serious defects; agree report format and reuse rights.
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**Acceptance:** Check location references, photo-to-defect mapping, recommendations and inspection limitations; distinguish observations from conclusions requiring a qualified engineer.
+
+## Request a quotation
+
+Send building scope, fault history, photos and access windows to Biet Al Reef customer service for help preparing a request. No company, price or date is guaranteed; verify licences and competence for regulated work.

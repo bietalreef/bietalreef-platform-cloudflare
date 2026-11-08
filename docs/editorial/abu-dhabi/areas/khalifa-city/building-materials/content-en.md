@@ -38,31 +38,31 @@ For a multi-material project order, replace the vague phrase 'building supplies'
 
 ### 8. Gypsum materials supply
 
-Separate standard, moisture-resistant and specialist boards by room and measured area. Compare thickness, framing, compound, joint tape and dry storage; check undamaged edges.
+For gypsum procurement, distinguish ceiling and partition boards from plaster powder and finishing accessories; they have different measurement and storage requirements. Supply ceiling or wall drawings, area by board type, thickness, any specified moisture or fire performance, framing lengths, corners and openings. Ask for separate prices for boards, screws, joint tape, compound, transport and lifting to the work floor. On receipt, match board type, thickness and count and inspect edges, warping and water marks. Do not accept an unqualified 'resistant gypsum' description without product documentation.
 
 ### 9. Paint materials supply
 
-Set paint type, area, colour code, sheen and substrate preparation. Compare coverage and primer compatibility, plus batch numbers; check sealed cans and production dates.
+Paint procurement starts with the substrate: fresh plaster, an existing coating, timber or metal. Calculate the net area and specify preparation, filler, primer and finishing coats. Provide approved colour codes, sheen and a physical sample; ask the supplier for product coverage and application conditions rather than calculating tins from wall area alone. Compare complete compatible systems, including repair materials, not just the price of the finish coat. Check batch and colour codes, seals and shelf life on delivery, especially when matching an already painted room.
 
 ### 10. Waterproofing materials supply
 
-Describe substrate, condition, membrane type, joints and upstands. Compare system-layer compatibility, heat suitability and accessories; check unopened packaging and application instructions.
+A request for 'waterproofing materials' is incomplete without identifying the water exposure and substrate: a tiled bathroom, exposed roof, tank or construction joint. Give the area, corner lengths, penetrations, upstand heights, drains and substrate condition. Compare a complete system of primer, membranes or coating, corner reinforcement and protection rather than the container price. Obtain the manufacturer's compatibility and curing guidance. Check packaging, rolls and batch identification on delivery; application and water-tightness testing remain separate installation responsibilities under the project specification.
 
 ### 11. Floor finishes supply
 
-Divide rooms by surface area, finish type, slip needs, colours and sizes. Compare grades, batch numbers, cutting waste and skirting; approve actual samples for colour matching.
+For flooring supply, list each room or outdoor area separately with dimensions, use and finished floor levels. State whether the finish is ceramic, porcelain, timber or vinyl, together with tile or plank size, required slip performance, laying pattern and a realistic cutting allowance. Request a physical sample and consistent production batch for visible surfaces, and clarify whether adhesives, joints and skirting are included. At receipt, reconcile box counts with stated coverage and inspect breakage and shade variations before mixing batches.
 
 ### 12. Sanitary fixtures supply
 
-Provide fixture quantities, models, connections and colours. Compare installation kits, spare parts and warranty rather than unit price alone; inspect ceramics for hairline cracks.
+Prepare a fixture schedule for each bathroom covering basins, toilets, mixers, showers, drains and accessories, with photographs or exact model references. Supply room dimensions, water and waste outlet positions and mounting type. Concealed mixers and wall-hung fixtures require compatible in-wall components. Compare quotations including concealed bodies, traps, valves, fixings, warranty and spare-part support, not only visible fittings. Inspect ceramics, glass and finishes upon delivery and retain model records before walls are closed.
 
 ### 13. Electrical installation supplies
 
-Give conductor lengths and cross-sections, breakers, boxes and conduits from a qualified design. Compare manufacturer data and each item's rating; verify markings and quantities on arrival.
+Electrical supply orders should follow a qualified designer's drawings or schedule specifying conductor cross-sections, insulation, conduit sizes, boxes, protective devices and accessories. State point counts, estimated runs and whether installation is indoors or exposed; a supplier must not substitute breaker ratings or cable sizes merely to reduce price. Compare exact manufacturer models, ratings, accessories and any project-required product records. Check cable reel labels, packaging, breaker references and quantities on receipt, referring discrepancies to the electrical engineer before installation.
 
 ### 14. Plumbing installation supplies
 
-List pipe sizes, materials, fittings, valves and insulation by system. Compare pressure/temperature rating and connection compatibility; reject mismatched fittings.
+For plumbing supplies, separate potable water, drainage and irrigation systems because pipe materials, jointing methods and pressure requirements differ. Provide routing drawings or a schedule of diameters, lengths, elbows, valves, transitions, insulation and maintenance access. Ask suppliers to specify a compatible pipe-and-fitting system, including jointing consumables, seals and insulation. Compare all accessories, which can outweigh differences in pipe unit prices. Inspect markings, diameters and damaged ends at delivery, and do not mix incompatible joining systems; pressure and leak tests belong to installation, not to supply alone.
 
 ### 15. Building-material retail
 

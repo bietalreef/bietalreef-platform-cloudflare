@@ -1,10 +1,8 @@
-# Review — الكهرباء والإنارة — Al Jimi
+# مراجعة — الكهرباء والإنارة — الجيمي
 
-- Exact company specialty from source: **الكهرباء والإنارة**.
-- Exact Arabic service labels: 14, paired English headings: 14; same order.
-- Service-specific diagnostic decision, site measurements, inclusions/exclusions, written quotation and handover testing.
-- Regulated safety work requires suitably qualified personnel and appropriate approvals.
-- No company availability, price or schedule claims.
+- الحالة: reviewed_content; 14 خدمة عربية بأسمائها الحرفية في شجرة الشركات والمنشآت، و14 مقابلًا إنجليزيًا بالترتيب نفسه.
+- لكل خدمة احتياج ومعلومات معاينة ونطاق محدد واستثناء واختبار استلام متخصص؛ تبقى صياغة مقارنة العروض وإرسال الطلب إرشادًا مشتركًا.
+- لا ادعاء بتوفر شركات أو أسعار أو مواعيد. أعمال الكهرباء للجهات المؤهلة وبحسب الموافقات.
 
 1. تأسيس كهرباء المباني — Building electrical rough-in
 2. تمديد الأسلاك والكابلات — Cable and wire installation

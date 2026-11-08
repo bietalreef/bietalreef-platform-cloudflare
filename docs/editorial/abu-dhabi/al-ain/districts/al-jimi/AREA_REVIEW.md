@@ -260,3 +260,9 @@
 - الحالة `in_progress`: **23 من 50 تخصصًا** محررًا باللغتين؛ يتبقى **27 تخصصًا** ثم تدقيق المنطقة النهائي.
 - سبع خدمات لكل لغة مع نطاق وفحص مخصص: [العربي](./building-materials/marble-granite/content-ar.md) · [English](./building-materials/marble-granite/content-en.md) · [المراجعة](./building-materials/marble-granite/review.md).
 - **أول نقص تالٍ:** `building-materials/kitchen-countertops-basins` (تحقق من slug)، بدءًا من `content-ar.md` ثم الإنجليزية والمراجعة؛ وبعده السيراميك والبورسلان، ثم القطاعات المتبقية. الجيمي غير مكتملة.
+
+## تحديث أسطح المطابخ والمغاسل — 2026-11-08
+
+- الحالة `in_progress`: **24 من 50 تخصصًا** محررًا باللغتين؛ يتبقى **26 تخصصًا** والتدقيق النهائي للمنطقة.
+- سبع خدمات لكل لغة: [العربي](./building-materials/kitchen-countertops/content-ar.md) · [English](./building-materials/kitchen-countertops/content-en.md) · [المراجعة](./building-materials/kitchen-countertops/review.md).
+- **أول نقص تالٍ:** `building-materials/ceramic-porcelain/content-ar.md` ثم `content-en.md` و`review.md`، وبعده قطاع ورش الحديد والألمنيوم والزجاج والأخشاب وبقية القطاعات. الجيمي غير مكتملة.

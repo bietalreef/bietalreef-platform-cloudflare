@@ -184,33 +184,31 @@ Worktop repair starts by identifying the material—natural marble, granite, eng
 
 ### 43. Ceramic tile supply
 
-Supply measured area, use, tile size and cutting allowance. Compare shade, surface grade and pack coverage; inspect consistent batch numbers.
+For a bathroom, kitchen or floor order, start with a drawing that separates wall from floor areas and marks doorways, pipe penetrations and drains. Net floor area alone will not cover cuts and spare tiles. Specify the product code, actual dimensions, grade, finish and edge colour, and obtain the manufacturer's guidance on suitable applications, adhesives and joints. Compare suppliers by box coverage, number of cartons, cutting allowance, delivery, unloading and the policy for returning unopened cartons. On arrival, match shade and production batch references across boxes and inspect samples from several cartons for cracks, warping and colour variation before installation starts.
 
 ### 44. Porcelain tile supply
 
-Set porcelain format, thickness and slip suitability for intended areas. Compare pack weight, cutting needs and delivery logistics; inspect edges and flatness.
+Large porcelain formats can require different transport and handling from ordinary tiles. Supply the slab dimensions, thickness, quantities, access route and intended location, including whether the area is wet or outdoors. Request the manufacturer's product data for water absorption, finish and slip suitability rather than assuming all porcelain works outside. Ask for separate prices for material, protective packaging, lifting, delivery and anticipated cutting waste. At handover inspect corners, flatness, batch markings and damaged cartons, and record any transit damage before signing the delivery note.
 
 ### 45. Outdoor paving tile supply
 
-Identify exterior area, pedestrians or vehicles and rainfall drainage. Compare slip texture, thickness, durability and movement details; approve a physical sample.
+Begin by establishing whether the paving will carry pedestrians only or occasional vehicles, what substrate exists and where rainwater drains. Provide an area drawing with levels, entrances and falls. Ask for a physical sample with a suitable wet-surface texture, relevant load suitability and the supplier's installation recommendations. A lightweight garden tile is not automatically suitable for a driveway. Compare thickness, dimensional tolerances, edging pieces, cuts and delivery as well as the base price. Inspect a sample from each batch and confirm consistent texture, colour and intact edges before stacking the delivery safely.
 
 ### 46. Tile cutting and preparation
 
-Draw cuts around pipes, doors and material transitions before fabrication. Compare appropriate cutting methods, waste and breakage liability; dry-check pieces before laying.
+Tile cutting is a separate scope from supply and laying, particularly for pipe holes, corners and narrow pieces around doorways and columns. Submit a numbered laying plan with the length and width of each piece, pattern direction, hole centres and diameters, material and thickness. Cutting a large porcelain slab requires different handling from ordinary ceramic tile. Agree on the cutting method, exposed-edge finish, tolerances and who pays for breakage of customer-supplied material. Compare per-cut or linear-edge charges together with transport, packing and recutting. Receive numbered pieces and dry-fit critical shapes before bonding.
 
 ### 47. Ceramic tile installation
 
-Record substrate levels, floor/wall area, drains and ceramic adhesive system. Compare substrate preparation, joints and skirting; inspect alignment, drainage falls and complete grout.
+Before tiling, check that the substrate is sound, sufficiently level and dry, and that bathroom waterproofing and plumbing tests have been completed; new tiles should not conceal an unresolved leak. Provide wall and floor measurements, the laying pattern, tile size, drains and thresholds. State whether removal of old finishes, substrate repairs and skirting are included. Compare quotations for the adhesive system appropriate to the tile and base, joint widths, grouting, protection and movement joints. At handover check alignment, adhesion and absence of significant voids, and test drainage falls in wet areas before accepting the work.
 
 ### 48. Porcelain tile installation
 
-Large porcelain formats need controlled levelling, lifting and proper adhesive bedding. Compare handling, breakage and movement joints; inspect lippage at tile edges.
+Porcelain installation, especially in large formats, requires careful substrate levelling, planned joints, suitable lifting equipment and controlled adhesive coverage. Ask the installer to survey the base and specify the adhesive and bedding method according to the product instructions, including the handling and levelling tools. Quotations should distinguish cut-outs, corner work, breakage allowance, substrate preparation, movement joints and grouting. Inspect edges under raking light for objectionable lippage or chips, confirm stable bedding and clean joints, and respect the stated curing time before using the floor.
 
 ### 49. Skirting supply and installation
 
-Measure skirting lengths, height, ends at doorways and columns, and joint colour. Compare factory pieces with cut-tile skirting and mitred corners; inspect secure, even-height fitting.
-
-
+Skirting protects the floor-to-wall junction, but it should be measured after the finished floor is in place. Supply perimeter lengths, the agreed height, door and cabinet termination points, and photographs of internal and external corners. Choose between factory-made skirting and strips cut from matching tiles, including the exposed top-edge finish. Compare material, cutting, corners, adhesive and top-joint sealing as separate items; uneven walls can affect the result. At handover check a consistent top line, secure fixing, aligned joints and the absence of sharp ends or open gaps.
 
 ## Material procurement request
 

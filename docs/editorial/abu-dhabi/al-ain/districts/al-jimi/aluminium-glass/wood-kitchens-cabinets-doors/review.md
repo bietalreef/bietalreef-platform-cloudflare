@@ -1,9 +1,6 @@
-# Review — المطابخ والخزائن والأبواب الخشبية — Al Jimi
+# مراجعة المطابخ والخزائن والأبواب الخشبية — الجيمي
 
-- Exact source company specialty: **المطابخ والخزائن والأبواب الخشبية**.
-- Exact named Arabic service sections: 14; paired English: 14, in matching order.
-- Job-specific technical consideration, required measurements, fabrication scope, quotations and acceptance checks.
-- No claim of approved safety products, listed companies, prices or delivery date.
+الحالة: reviewed_for_editorial_scope؛ 14 خدمة شركات مطابقة بالترتيب للشجرة، و14 فقرة إنجليزية مكافئة. لكل خدمة حاجة ومقاسات ونطاق واستثناءات ومقارنة واستلام. الأبواب المقاومة للحريق تتطلب مستندات مطابقة واعتمادًا مناسبًا. لا ادعاء بتوفر مزود أو سعر أو موعد.
 
 1. تصميم المطابخ الخشبية — Wood kitchen design
 2. تصنيع المطابخ — Kitchen fabrication
@@ -18,4 +15,4 @@
 11. تنفيذ إطارات الأبواب — Door frame fabrication
 12. تنفيذ الفواصل الخشبية — Timber partition construction
 13. صيانة الأبواب — Door maintenance
-14. دهان وتجديد الأخشاب — Wood refinishing
+14. دهان وتجديد الأخشاب — Wood painting and refinishing

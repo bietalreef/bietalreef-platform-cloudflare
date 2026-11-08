@@ -42,15 +42,15 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
   return (
     <div dir="rtl" className="min-h-screen bg-[#FDFBF7]">
       <SEOHead
-        title="دليل الشركات والمهنيين في الإمارات | بيت الريف"
-        description="اكتشف شركات المقاولات والصيانة والتنظيف والتصميم والموردين في الإمارات، وراجع تخصص كل جهة وملفها قبل طلب عرض سعر."
+        title="دليل شركات المقاولات والخدمات والمهنيين في الإمارات | بيت الريف"
+        description="دليل الشركات والمقاولين والمهنيين في الإمارات: استكشف المقاولات والاستشارات الهندسية والصيانة والتشطيبات والتنظيف والتوريد، واطلع على الملفات والخدمات ومناطق التغطية."
         canonicalPath="/providers"
         alternatePath="/en/providers"
         ogImage="https://bietalreef.ae/images/providers-hero.webp"
         structuredData={structuredData}
       />
 
-      <Navbar pageTitle="الشركات والمهنيون" />
+      <Navbar pageTitle="دليل الشركات والمهنيين" />
 
       <main className="-mt-[1px]">
         <ProvidersDirectoryHero locale="ar" />

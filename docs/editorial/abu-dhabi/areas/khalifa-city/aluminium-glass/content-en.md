@@ -147,59 +147,59 @@ Interior finishing and handover require a documented inspection, not just site c
 
 ### 29. Aluminium window fabrication
 
-Provide opening dimensions, glass type, sash action and drainage requirements before profile selection. Compare frame system, thickness and gaskets; inspect corners and fabricated dimensions.
+Before window fabrication, prepare an opening schedule showing finished width and height, opening action, insect-screen and curtain clearances, and exposure to rain or noise. 'Double-glazed aluminium' is not a complete specification: request the profile system, glass build-up and thickness, gaskets, drainage details and coating finish. Compare quotations against the same unit schedule and approved shop drawings. Check diagonals, corners and drainage provisions at the workshop before dispatch.
 
 ### 30. Aluminium window installation
 
-Re-measure finished openings, sash clearance and exposure to wind and rain. Compare frame anchors, seals and perimeter silicone; test smooth operation and appropriate water resistance.
+Window fitting is separate from fabrication. Re-measure the completed opening, check reveals and sill levels, and document nearby services or cracks. Assign responsibility for making good the surrounding wall and finishes. Quotations should identify anchor types and spacing, perimeter sealing materials and glazing protection. At handover, operate every sash and lock, inspect drainage and perimeter joints, and agree an appropriate controlled water test where relevant; a simple spray test does not certify the entire façade system.
 
 ### 31. Aluminium door fabrication
 
-Specify opening, swing, glazing, lock and required passage clearance. Compare profiles, reinforcement, hinges and security; inspect squareness and assembled hardware.
+For an aluminium door, identify whether it serves an external entrance, interior room or service area, its frequency of use and the clear passage width required. Supply opening dimensions, swing direction and photographs of the threshold and wall. The fabrication quote should specify profiles, reinforcement, infill or glazing, hinges, locks and handles, and whether the set is single or double leaf. Approve the drawing and check leaf dimensions, clearances and handing before delivery; substitutes for glass or hardware require agreement.
 
 ### 32. Aluminium door installation
 
-Confirm flooring level, threshold, handles and swing. Compare anchors, packers and seals; check smooth closure and effective dust sealing.
+Before installing an aluminium door, verify finished floor and threshold levels and check that the leaf clears furniture and walls. State whether removal of the old set, waste disposal and repairs to tiles or paint are included. Compare anchors, alignment packers, perimeter treatment and final hinge and lock adjustment. At handover, repeatedly open and close the door, inspect even clearances and threshold sealing, and record scratches or unfinished making-good work.
 
 ### 33. Insect screen installation
 
-Measure openings and choose removable or sliding mesh panels. Compare mesh aperture, frame design and cleaning access; inspect tension and side gaps.
+Specify whether a screen is intended for insect exclusion and ventilation, and whether the existing window slides or swings. Send opening measurements and photos of tracks and handles to avoid interference with operation or cleaning. Compare mesh type and aperture, frame material, removable or sliding mechanisms, and replaceable parts. Check that the screen moves or detaches as agreed, with secure corners and no side gaps. Do not represent an insect screen as fall protection.
 
 ### 34. Door and window maintenance
 
-Map sash rubbing, frame movement, failed seals and water entry. Compare adjustments and gasket repairs against full replacement; test seals and square closure.
+For rubbing sashes or water leaks, photograph the fault with the unit open and closed and note whether it appeared after other works or during rain or washing. Diagnose the cause before quoting: loose hinges, worn rollers, hardened gaskets, blocked drains or a displaced frame require different repairs. Separate adjustment and parts replacement from full-unit replacement in the price. Test the original failure point and lock operation at handover; silicone covering a stain is not a diagnosis.
 
 ### 35. Glass and hardware replacement
 
-Provide old hardware photos, aluminium-system code and glass size/thickness. Compare compatible components and safe glazing handling; inspect secure fit and unchipped edges.
+Replacement glass or hardware must match the existing system, not just its appearance. Photograph any glass markings, frame profiles, hinges and handles; do not remove damaged glazing yourself. Have a competent installer identify the appropriate glass build-up, glazing supports, seals and compatible lock parts, including safe removal and disposal of old panes. Check edge condition, secure retention and lock operation at handover. Glazing in fall-risk locations may require additional specialist assessment.
 
 ### 36. Aluminium kitchen fabrication
 
-Give kitchen plan, loads, appliance sizes and moisture requirements for cabinets. Compare profiles, panels, fronts and hardware; inspect assembled dimensions before delivery.
+For an aluminium kitchen, supply wall plans, sink and appliance locations, utilities, appliance dimensions and the worktop type. Request a numbered cabinet schedule showing widths, depths, heights, service cut-outs and ventilation. Compare frame systems, panels, edges, runners, hinges and support details rather than a simple price per linear metre. Approve a finish sample and drawing showing door handing and drawer travel before production, then check assembled dimensions at the workshop.
 
 ### 37. Aluminium kitchen installation
 
-Measure walls, services and floor levels before fitting units. Compare installation, junctions and edge protection; test drawers, hinges and worktop alignment.
+Kitchen installation begins by reconciling fabricated units with finished-site measurements and confirming access to water valves, sockets and extraction ducts. Assign removal of existing units, floor protection, on-site cutting and specialist appliance connections in the scope. Ask how wall cabinets will be supported and how worktop and sink junctions will be sealed. At handover, operate all doors and drawers, check levels and cabinet stability, and ensure maintenance access remains possible.
 
 ### 38. Aluminium cabinet fabrication
 
-Specify cupboard dimensions, shelving and storage loads. Compare panel thickness, doors and fixing; inspect sturdy shelves and protected corners.
+For a freestanding aluminium cupboard, define what it will hold: files, tools or cleaning products require different shelf loads, ventilation and locks. Supply location photos, wall dimensions, required shelf heights and whether the unit will be fixed or movable. Compare panel thickness, shelf supports, door mechanisms and edge protection, and request a stated design load when appropriate. Check door alignment, shelf stability under intended use and the absence of sharp exposed edges.
 
 ### 39. Bathroom aluminium cabinet fabrication
 
-Locate under-basin or bathroom storage, splash zones, airflow and leak drainage. Compare moisture-resistant panels, seals and plumbing access; check vulnerable connections are protected.
+A bathroom cabinet must accommodate plumbing, not merely have a water-resistant front. Photograph the basin underside, drains, valves and previous leaks, and check door clearance from the WC or shower. Request a drawing with removable service panels, base clearance and specified panels, edges and seals. Compare cleaning access and cavity ventilation as well as appearance. At handover, confirm valve access, no contact between doors and pipes, and dry joints after operating the basin.
 
 ### 40. Outdoor aluminium storage fabrication
 
-Specify outdoor position, sun/rain/wind exposure and intended stored loads. Compare finish, ventilation, anchors and locks; inspect weather exposure and access.
+For outdoor storage, identify the contents and whether they are sensitive to heat, and document sun, wind and runoff exposure. Ventilation may matter more than an entirely sealed enclosure, especially where equipment has special storage requirements. Photograph the floor and available space and confirm whether anchoring is permissible. Compare corrosion-resistant finishes, exterior hinges and locks, anchoring and water runoff. Test doors and inspect for pooling around the base at handover.
 
 ### 41. Aluminium kitchen refurbishment
 
-Photograph failing fronts, hinges and bent aluminium sections and identify reusable carcasses. Compare door/hardware renewal with full units; inspect colour matching and drawer action.
+Start an aluminium-kitchen refurbishment by identifying reusable elements: straight carcasses, sound drawers, serviceable worktops and fronts needing renewal. Photograph damage, unit dimensions and hinge positions. Where possible, request separate prices for renewing fronts and hardware versus replacing failed units. Compare removal, transport, wall repairs and colour matching as well as the new parts. Check alignment, drawer movement and sink junctions; a cosmetic coating must not conceal structural corrosion.
 
 ### 42. Kitchen hinges and accessory maintenance
 
-Record hinge, runner and lock models, symptoms and movement lengths. Compare compatible replacements and adjustments; test even opening without sagging.
+For kitchen hinge and runner repairs, photograph each component open and closed and describe sagging, binding or failed soft-close action. Record runner length and hinge fixing pattern where possible; similar-looking parts may differ in hole positions and load capacity. Ask for parts and labour to be priced separately and check that the substrate still holds the fixings securely. Handover requires repeated operation with normal contents and no loose screws or rubbing.
 
 ## Glass façades and installations
 

@@ -1,39 +1,55 @@
-# Facade and site cleaning in Al Jimi
+# Facade and site cleaning in Al Jimi — practical quotation guide
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+For properties in Al Jimi, Al Ain, specify the actual materials, access restrictions and timing rather than assuming a standard cleaning method. This page covers companies and establishments, not individual tradespeople. No company, appointment or price is guaranteed.
 
 ## 1. Glass facade cleaning
 
-**First check:** Mineral deposits need treatment without scratching coated glass. Provide wide/close elevation photos, access height, obstacles and cladding type, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** External glass may have dust, mineral deposits or marks that require non-abrasive treatment.
 
-**Scope and exclusions:** Detail safe access, barriers, water, chemicals, car/pedestrian protection and wash-water disposal. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Photograph elevations, access points, height, glazing coating and surrounding foot traffic.
 
-**Acceptance:** Check water marks, joints, cladding and finish under different lighting angles. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Specify compatible detergents, water treatment and safe access; scratch repair and glazing replacement are excluded.
 
-## 2. Building facade cleaning
+**Quotation comparison and written agreement:** Compare access equipment, permits, pedestrian barriers and protection of parked cars. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
 
-**Describe the issue:** Pressure appropriate for painted walls differs from stone and must not damage joints. Provide wide/close elevation photos, access height, obstacles and cladding type, including any health risks, sensitive materials or occupancy constraints.
+**Acceptance inspection:** Inspect at different daylight angles for streaks and edge damage. Keep before-and-after photographs and a list of outstanding issues.
 
-**Scope and exclusions:** Detail safe access, barriers, water, chemicals, car/pedestrian protection and wash-water disposal. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+## 2. Building exterior cleaning
 
-**Acceptance:** Check water marks, joints, cladding and finish under different lighting angles. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**When this is useful:** Stone, render, painted surfaces and cladding tolerate different cleaning pressures.
 
-## 3. Car park cleaning
+**Site evidence and measurements:** Provide facade area, height, material, cracks and joint photographs.
 
-**The practical need:** Oil stains, drains and moving vehicles determine the cleaning window. Provide wide/close elevation photos, access height, obstacles and cladding type, including any health risks, sensitive materials or occupancy constraints.
+**Scope and exclusions:** Require a trial patch and controlled cleaning; repainting and repairing loose cladding are separate.
 
-**Scope and exclusions:** Detail safe access, barriers, water, chemicals, car/pedestrian protection and wash-water disposal. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Quotation comparison and written agreement:** Compare water containment, surface protection, plant protection and access arrangements. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
 
-**Acceptance:** Check water marks, joints, cladding and finish under different lighting angles. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Acceptance inspection:** Check coatings and joints for damage and uneven wash lines. Keep before-and-after photographs and a list of outstanding issues.
+
+## 3. Parking area cleaning
+
+**When this is useful:** Oil stains and vehicle circulation affect cleaning sequence and safety.
+
+**Site evidence and measurements:** Measure bays and lanes; photograph drains, surface finish and the worst stains.
+
+**Scope and exclusions:** Specify sweeping, targeted degreasing and wastewater handling; hazardous contamination and floor repairs are excluded.
+
+**Quotation comparison and written agreement:** Compare temporary closures, slip prevention, vehicle diversions and waste disposal. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+
+**Acceptance inspection:** Check drainage, residual oil and slip hazards before reopening. Keep before-and-after photographs and a list of outstanding issues.
 
 ## 4. Industrial site cleaning
 
-**First check:** Separate ordinary dust from hazardous waste requiring special handling. Provide wide/close elevation photos, access height, obstacles and cladding type, including any health risks, sensitive materials or occupancy constraints.
+**When this is useful:** Production dust and residues may require equipment isolation and specialist waste handling.
 
-**Scope and exclusions:** Detail safe access, barriers, water, chemicals, car/pedestrian protection and wash-water disposal. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Site evidence and measurements:** Map work zones, machinery, residue type, operating hours and restricted areas.
 
-**Acceptance:** Check water marks, joints, cladding and finish under different lighting angles. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Clean authorised zones with isolation arrangements; hazardous waste requires a suitably qualified provider and separate scope.
 
-## Biet Al Reef quotation support
+**Quotation comparison and written agreement:** Compare work permits, PPE, lockout procedures and waste records. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**Acceptance inspection:** Verify work-zone sign-off, unobstructed emergency equipment and safe restart. Keep before-and-after photographs and a list of outstanding issues.
+
+## Prepare a request through Biet Al Reef
+
+Send customer support photographs, quantities, dimensions, material details, site restrictions and preferred dates. A request can be prepared even when no provider is listed. This does not guarantee a company, quotation amount or booking. Confirm relevant licensing and safe-work requirements before engaging a contractor.

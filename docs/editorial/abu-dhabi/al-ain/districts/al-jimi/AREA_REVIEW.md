@@ -236,3 +236,9 @@
 - الحالة `in_progress`: **19 من 50 تخصصًا** محررًا باللغتين، ويتبقى **31 تخصصًا** ثم تدقيق جميع الخدمات الـ434 بكل لغة.
 - أُعيد تحرير خدمات الدهانات السبع: [العربية](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [المراجعة](./general-maintenance/painting/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق منها.
 - **أول نقص تالٍ:** تخصص **العزل المائي والحراري** في قطاع `general-maintenance`، بدءًا من `content-ar.md` ثم `content-en.md` و`review.md` بعد التحقق من slug الفعلي؛ ثم مواد البناء والتوريد وبقية القطاعات. الجيمي غير مكتملة ولا يبدأ المويجعي.
+
+## تحديث تحرير العزل المائي والحراري — 2026-11-08
+
+- الحالة: `in_progress`؛ أُعيد تحرير **20 من 50 تخصصًا** ثنائي اللغة، ويتبقى **30 تخصصًا** ثم التدقيق النهائي لـ434 خدمة في كل لغة.
+- أُعيدت كتابة الخدمات السبع بمتطلبات مستقلة للمواقع والمقاسات والمواد والاستثناءات واختبارات الاستلام، وبعناوين إنجليزية مترجمة: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [المراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وطابقت المحتوى المرفوع.
+- **أول نقص تالٍ:** `building-materials/building-finishing-materials/content-ar.md` ثم `content-en.md` و`review.md`، تليه `building-materials/timber-panels` وبقية تخصصات مواد البناء، ثم القطاعات اللاحقة وفق الفهرس. لا يبدأ المويجعي قبل اكتمال الجيمي.

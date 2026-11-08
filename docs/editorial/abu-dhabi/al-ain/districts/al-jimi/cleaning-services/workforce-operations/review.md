@@ -1,14 +1,9 @@
-# Review — خدمات العمالة والتشغيل — Al Jimi
+# مراجعة خدمات العمالة والتشغيل — الجيمي
 
-- Exact source companies/establishments specialty: **خدمات العمالة والتشغيل**; individual craftsperson list excluded.
-- Coverage: 7 exact Arabic names and 7 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
-
-1. توفير عمال النظافة — Cleaning staff supply
-2. توفير عمال التحميل — Loading staff supply
-3. توفير فنيي الصيانة — Maintenance technician supply
-4. توفير مشرفي المواقع — Site supervisor supply
-5. تشغيل المجمعات السكنية — Residential compound operations
-6. تشغيل المرافق التجارية — Commercial facility operations
-7. خدمات الدعم للمشاريع — Project support services
+- المصدر: شجرة الشركات والمنشآت في `_control/TAXONOMY_SOURCE_AR.md`، وليس قائمة المهنيين الأفراد.
+- الحالة: تمت إعادة تحرير الملفات العربية والإنجليزية وتأكيد حفظهما بالقراءة من الفرع.
+- التغطية: 7 خدمات عربية و7 إنجليزية بالترتيب نفسه: توفير عمال النظافة، توفير عمال التحميل، توفير فنيي الصيانة، توفير مشرفي المواقع، تشغيل المجمعات السكنية، تشغيل المرافق التجارية، خدمات الدعم للمشاريع.
+- لكل خدمة حالة استخدام ومدخلات تصوير وقياس ونطاق واستثناءات ومعايير مقارنة وبنود اتفاق وفحص استلام مختلفة، مع طلب عرض السعر.
+- لا ضمان لتوفر شركة أو عمالة أو موعد أو سعر؛ التحقق من التراخيص والتصاريح والعمالة المؤهلة واجب بحسب النشاط.
+- [العربية](./content-ar.md) · [English](./content-en.md)
+- المراجعة الشاملة لجميع تخصصات الجيمي وخدماتها لم تُعتمد بعد.

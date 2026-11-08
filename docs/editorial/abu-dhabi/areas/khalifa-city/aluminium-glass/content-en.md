@@ -10,31 +10,31 @@ Fabrication requests start with actual site measurements, photographs, material 
 
 ### 1. Wooden kitchen design
 
-Start with dimensioned kitchen plans, appliance envelopes and actual water and power points, checking opening clearances. Compare board thickness, façade material and cabinet schedule; sign off drawings and corner sections before manufacture.
+Wooden kitchen design begins with as-built wall measurements and the positions of water, drainage, power and extraction, together with door swings, drawers and circulation. Request a dimensioned plan, elevations and cabinet sections, including corners, board thickness, moisture suitability, edging and hinge systems. Compare the design deliverables separately from fabrication and installation, including the number of revisions. Before approval, check appliance removal for servicing, worktop height and clearance between doors, handles and adjacent walls.
 
 ### 2. Kitchen cabinetry fabrication
 
-Specify each cabinet, board type, edging, hinges, runners and appliance openings. Compare sheet cutting, hardware and assembly stages; inspect a sample unit and labelled pieces.
+Kitchen cabinetry fabrication should follow approved shop drawings, final measurements and actual appliance models, not merely a chosen door colour. Request a numbered cabinet schedule covering carcass and front dimensions, board thickness, edge banding, hinges, runners, feet and supports. Compare board supply, cutting, assembly, hardware and delivery as separate items and approve a physical finish and edge sample. At the workshop inspect squareness, straight edges, hardware drilling and piece labels. Document significant site alterations rather than concealing fabrication errors during fitting.
 
 ### 3. Kitchen installation
 
-Confirm floor levels, finished cabinet components and service positions before installation. Compare anchoring, seals and on-site adaptation; inspect door alignment, smooth drawers and appliance clearances.
+Installing prefabricated kitchen units requires checking finished floor levels, wall alignment and the relationship between service points and cabinet openings while protecting existing finishes. Specify whether the quotation includes wall and base units, adjustment, worktop fitting and specialist reconnection of sinks or appliances. Compare fixings suitable for the wall construction, joint seals, levelling methods and moisture protection. At handover operate every door and drawer, check anchorage and appliance clearance, and confirm that valves and electrical outlets remain accessible.
 
 ### 4. Wardrobe design
 
-Measure room walls, height, door swing and socket positions, plus hanging and folded-storage needs. Compare internal storage, rails, drawers and lighting instead of frontage alone; approve sections.
+Wardrobe design starts with storage needs: long and short hanging, folded clothes, shoes and bags. Measure the wall and ceiling and record switches, air outlets and surrounding furniture. Request dimensioned internal layouts for shelves, drawers and rails, plus door type, opening clearance and optional lighting. Compare detailed drawings, corner solutions, ventilation and permitted revisions rather than a linear-metre price alone. Check the plan with nearby furniture and a person standing in front of fully opened drawers before fabrication.
 
 ### 5. Wardrobe fabrication
 
-Schedule wardrobe units, shelf spans, board thickness and expected drawer/door loads. Compare edge finishing, cutting precision and hinge models; test shelves for deflection within planned use.
+Wardrobe fabrication requires a cut list showing each carcass height, width, depth, board grade, thickness and treatment of visible and concealed edges. Agree on shelf spans and support positions for expected loads, along with identifiable hinge, runner and hanging-rail models. Compare doors, drawers, mirrors, lighting, packing and delivery separately from basic carcasses. During workshop inspection check edge straightness, secure rail fixings, square doors and smooth runners; record components requiring remanufacture instead of masking defects at installation.
 
 ### 6. Walk-in closet fit-out
 
-Measure closet circulation, mirror locations, sockets and ventilation before fitting units. Compare hanging heights, drawer depths and lighting; inspect door clearances and floor access.
+A walk-in closet needs a circulation plan showing the clear aisle with drawers and doors open, mirror and seating locations, lighting, sockets and ventilation. Survey actual soffit heights, columns and maintenance access before fixing storage modules. Separate joinery, mirrors, lighting and electrical works in the quotation and agree on finishes and floor-cleaning access. At handover check access to high shelves, operate adjacent doors and drawers together, and ensure air outlets and service panels are not obstructed.
 
 ### 7. Kitchen and wardrobe refurbishment
 
-Photograph sagging doors, swollen boards and damaged edges and assess which carcasses can be reused. Compare replacing doors and hinges against rebuilding failed cabinets; test matching finishes and movement.
+Kitchen and wardrobe refurbishment begins by diagnosing the defect: loose hinges, failed runners, water-swollen boards or peeling edging. Send photographs, unit dimensions, approximate age and any evidence of leaks. Ask whether the carcass remains serviceable before choosing new doors. Compare adjustment, replacement hardware, panel repair and complete carcass replacement, acknowledging that new finishes may not match aged ones exactly. Test normal loads and door and drawer travel after repair, and confirm the moisture source is addressed without blocking plumbing access.
 
 ### 8. Wooden door fabrication
 

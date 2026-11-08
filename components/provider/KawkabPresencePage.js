@@ -1,3 +1,4 @@
+import CompanyPageNav from './CompanyPageNav';
 import PublishedPortfolio from './PublishedPortfolio';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -174,6 +175,7 @@ export default function KawkabPresencePage({locale='ar',section='home',contextBa
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(pageSchema).replace(/</g,'\\u003c')}}/>
     </Head>
     <Navbar locale={lang}/>
+    <CompanyPageNav locale={lang} active={section} homeHref={kawkabPath(lang,'home',contextBase)} hrefs={{home:kawkabPath(lang,'home',contextBase),services:kawkabPath(lang,'services',contextBase),offers:kawkabPath(lang,'home',contextBase)+'#company-offers','service-areas':kawkabPath(lang,'service-areas',contextBase)}}/>
     <main>
       <div className="border-b border-[#e8dfd5] bg-white"><nav aria-label="Breadcrumb" className="mx-auto flex max-w-6xl items-center gap-2 px-4 py-3 text-xs text-[#786e60]"><Link href={lang==='en'?'/en/providers':'/providers'} className="hover:underline">{t.directory}</Link><span>/</span>{section==='home'?<span className="font-medium text-[#302a23]">{t.business}</span>:<><Link href={kawkabPath(lang,'home',contextBase)} className="hover:underline">{t.business}</Link><span>/</span><span className="font-medium">{titles[section]}</span></>}</nav></div>
       <header className="bg-[#fbfaf7]">
@@ -202,8 +204,32 @@ export default function KawkabPresencePage({locale='ar',section='home',contextBa
           </div>
         </div>
       </header>
-      <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-2 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key,contextBase)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>
-      {section==='home'?<><PublishedPortfolio items={portfolioProjects} locale={lang}/><Gallery contextBase={contextBase} locale={lang} short/><Services contextBase={contextBase} locale={lang} short/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><AlAinCoverage contextBase={contextBase} locale={lang} short/><Faq locale={lang}/></>:null}
+
+      {section==='home'?<>
+        <section className="mx-auto max-w-6xl px-3 py-4 sm:px-4 sm:py-7">
+          <h2 className="text-xl font-bold text-[#193b53]">{lang==='en'?'About the company':'نبذة عن الشركة'}</h2>
+          <p className="mt-3 rounded-xl border border-[#e8dfd5] bg-white p-4 text-sm leading-8 text-slate-700">{t.intro}</p>
+        </section>
+        <section className="mx-auto max-w-6xl px-3 py-4 sm:px-4 sm:py-7">
+          <h2 className="text-xl font-bold text-[#193b53]">{lang==='en'?'Business information':'معلومات النشاط التجاري'}</h2>
+          <div className="mt-3 grid gap-2 rounded-xl border border-[#e8dfd5] bg-white p-4 text-sm sm:grid-cols-2">
+            <p><strong>{t.official}: </strong><span dir="ltr">{KAWKAB_PROVIDER_CODE}</span></p>
+            <p><strong>{t.phone}: </strong><a href="tel:+971556485364" dir="ltr">0556485364</a></p>
+          </div>
+        </section>
+        <Services contextBase={contextBase} locale={lang} short/>
+        <section id="company-offers" className="mx-auto max-w-6xl scroll-mt-36 px-3 py-4 sm:px-4">
+          <h2 className="text-xl font-bold text-[#193b53]">{lang==='en'?'Offers':'العروض'}</h2>
+          <p className="mt-3 rounded-xl border border-dashed border-[#e8dfd5] bg-white p-4 text-sm text-slate-600">{lang==='en'?'No approved offers are published yet.':'لا توجد عروض معتمدة منشورة حاليًا.'}</p>
+        </section>
+        <Areas locale={lang} short contextBase={contextBase}/>
+        <AlAinCoverage contextBase={contextBase} locale={lang} short/>
+        <div id="company-posts" className="scroll-mt-36"><PublishedPortfolio items={portfolioProjects} locale={lang}/>{!portfolioProjects?.length&&<section className="mx-auto max-w-6xl px-3 py-4 sm:px-4"><h2 className="text-xl font-bold text-[#193b53]">{lang==='en'?'Posts':'المنشورات'}</h2><p className="mt-3 rounded-xl border border-dashed border-[#e8dfd5] bg-white p-4 text-sm text-slate-600">{lang==='en'?'No approved posts yet.':'لا توجد منشورات معتمدة بعد.'}</p></section>}</div>
+        <Gallery contextBase={contextBase} locale={lang} short/>
+        <DetailedCompanyGuide locale={lang}/>
+        <div className="hidden md:block"><ProcessGuide locale={lang}/></div>
+        <Faq locale={lang}/>
+      </>:null}
       {section==='services'?<><Services contextBase={contextBase} locale={lang}/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><Link href={kawkabPath(lang,'gallery',contextBase)} className="mx-auto mb-4 block max-w-6xl px-4 text-sm font-bold text-[#865f34] underline">{lang==='en'?'View projects and all service cover images':'عرض المشروع وجميع أغلفة الخدمات'}</Link><Faq locale={lang}/></>:null}
       {section==='service-areas'?<><AlAinCoverage contextBase={contextBase} locale={lang}/><Services contextBase={contextBase} locale={lang} short/><Faq locale={lang}/></>:null}
       {section==='gallery'?<><Gallery contextBase={contextBase} locale={lang}/><Faq locale={lang}/></>:null}

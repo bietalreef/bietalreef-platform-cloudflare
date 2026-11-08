@@ -1,3 +1,5 @@
+import CompanyPageNav from './CompanyPageNav';
+import CompanyContactBar from './CompanyContactBar';
 import Head from 'next/head';
 import CleaningServiceDetails from './CleaningServiceDetails';
 import { cleaningContent, cleaningRequestMessage } from '../../lib/cleaningLandingContent';
@@ -94,9 +96,9 @@ function ServiceCard({item,locale,kind='services',areaSlug}) {
   const t=texts[locale];const isOffer=kind==='offers';
   const href=item.isInquiry?alNaeemPath(locale)+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{})});
   return <article className="group overflow-hidden rounded-[22px] border border-[#e4e5e5] bg-white shadow-[0_8px_26px_rgba(19,48,70,.055)] transition hover:-translate-y-0.5 hover:shadow-lg">
-    <Link href={href} className="flex sm:block focus-visible:outline-offset-4">
-      <div className="relative h-28 w-28 shrink-0 overflow-hidden sm:h-auto sm:w-full sm:aspect-[16/10] bg-[#edf0ec]">
-        {item.image?<img src={item.image} alt={mediaAlt(item,locale)} loading="lazy" decoding="async" className="h-full w-full object-cover transition duration-500 group-hover:scale-[1.025]" />:<span className="flex h-full w-full items-center justify-center bg-[#f4efe5] text-[#a78347]"><Sparkles size={36} aria-hidden="true"/></span>}
+    <Link href={href} className="flex h-full sm:block focus-visible:outline-offset-4">
+      <div className="relative min-h-[160px] w-2/5 shrink-0 overflow-hidden bg-[#edf0ec] sm:aspect-[16/10] sm:min-h-0 sm:w-full">
+        {item.image?<img src={item.image} alt={mediaAlt(item,locale)} loading="lazy" decoding="async" className="absolute inset-0 h-full w-full object-cover object-center transition duration-500 group-hover:scale-[1.025]" />:<span className="flex h-full w-full items-center justify-center bg-[#f4efe5] text-[#a78347]"><Sparkles size={36} aria-hidden="true"/></span>}
         {isOffer&&<span className="absolute end-3 top-3 rounded-full bg-[#d7ad61] px-3 py-1.5 text-sm font-black text-[#102f46]">{t.offerBadge}</span>}
       </div>
       <div className="flex min-w-0 flex-1 flex-col gap-2 p-3 sm:p-5">
@@ -214,6 +216,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(structured).replace(/</g,'\\u003c')}}/>
     </Head>
     <Navbar locale={locale}/>
+    <CompanyPageNav locale={locale} homeHref={root} active={route.kind} hrefs={{home:root,services:alNaeemPath(locale,{kind:"services"}),offers:alNaeemPath(locale,{kind:"offers"}),"service-areas":alNaeemPath(locale,{kind:"service-areas"})}}/>
     <main>
       <div className="mx-auto max-w-[1180px] px-4 pt-4 sm:px-6">
         <nav aria-label={en?'Breadcrumb':'مسار التنقل'} className="mb-4 flex flex-wrap items-center gap-2 text-[12px] text-[#67798b]">
@@ -241,17 +244,8 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
           </div>
         </div>
       </section>
-      <nav aria-label={t.discover} className="sticky top-0 z-30 mt-5 border-y border-[#e7e8e3] bg-[#fbfaf7]/95 backdrop-blur-lg">
-        <div className="mx-auto flex max-w-[1180px] gap-2 overflow-x-auto px-4 py-3 sm:px-6">
-          {[{kind:'home'},{kind:'services'},{kind:'offers'},{kind:'service-areas'}].map(r=><Link key={r.kind} href={alNaeemPath(locale,r)} className={"shrink-0 rounded-full px-4 py-2.5 text-[13px] font-bold transition "+(route.kind===r.kind?'bg-[#193b53] text-white':'border border-[#e6e8e8] bg-white text-[#325065] hover:bg-[#edf1f3]')}>{t[r.kind]}</Link>)}
-          <Link href={alt} className="shrink-0 rounded-full border border-[#d9c7a6] bg-white px-4 py-2.5 text-[13px] font-bold text-[#193b53]">{t.langSwitch}</Link>
-        </div>
-      </nav>
+
       {route.kind==='home'?<>
-        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={serviceChoices}/>
-        <div className="border-y border-[#e9e6df] bg-[#f2f1eb]"><Segment kind="offers" locale={locale} title={t.offerTitle} lead={t.offerLead} items={data.offers}/></div>
-        <Segment kind="service-areas" locale={locale} title={t.areaTitle} lead={t.areaLead} items={data.coverageAreas||data.areas}/>
-        <BrandMediaGallery gallery={data.gallery} locale={locale}/>
         <section className="mx-auto grid max-w-[1180px] gap-6 px-4 py-9 sm:px-6 md:grid-cols-2">
           <div className="rounded-[25px] border border-[#e7e3db] bg-white p-6 sm:p-8">
             <span className="text-[12px] font-bold text-[#ad8444]">{t.about}</span>
@@ -263,6 +257,19 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <ol className="mt-5 space-y-4">{t.processSteps.map((step,i)=><li key={step} className="flex items-center gap-3"><span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-[#d1af73] font-extrabold text-[#18394f]"><CheckCircle2 size={18} aria-hidden="true"/></span><span className="text-[15px] leading-6">{step}</span></li>)}</ol>
           </div>
         </section>
+      <section className="mx-auto max-w-[1180px] px-4 pb-12 sm:px-6">
+        <div className="rounded-[22px] border border-[#e1e5e7] bg-white p-5 sm:p-7">
+          <h2 className="text-[20px] font-extrabold text-[#173b53]">{t.companyDetails}</h2>
+          <div className="mt-3 flex flex-wrap items-center justify-between gap-4"><p className="flex items-center gap-2 text-[15px] text-[#586d7b]"><MapPin size={17}/>{t.address}</p>
+            <a href={mapUrl} target="_blank" rel="noopener noreferrer" className="rounded-xl border border-[#d3bea0] px-4 py-2.5 text-[14px] font-bold text-[#173b53]">{t.map}</a></div>
+         </div>
+      </section>
+        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={serviceChoices}/>
+        <div className="border-y border-[#e9e6df] bg-[#f2f1eb]"><Segment kind="offers" locale={locale} title={t.offerTitle} lead={t.offerLead} items={data.offers}/></div>
+        <Segment kind="service-areas" locale={locale} title={t.areaTitle} lead={t.areaLead} items={data.coverageAreas||data.areas}/>
+        <BrandMediaGallery gallery={data.gallery} locale={locale}/>
+        <section id="company-posts" className="mx-auto max-w-[1180px] scroll-mt-36 px-4 py-5 sm:px-6"><h2 className="mb-3 text-xl font-extrabold text-[#17334a]">{en?"Posts":"المنشورات"}</h2><p className="rounded-xl border border-dashed border-[#d9d3c7] bg-white p-4 text-sm text-slate-600">{en?"No approved posts are published yet.":"لا توجد منشورات معتمدة منشورة حاليًا."}</p></section>
+
       </>:item?<>
         <section className="mx-auto max-w-[1180px] px-4 py-9 sm:px-6">
           <div className="rounded-[22px] border border-[#e2e6e7] bg-white p-5 sm:p-8">
@@ -291,19 +298,10 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       {(route.kind==='home'||route.kind==='service-areas')&&<AdditionalCleaningRequests data={data} locale={locale} wa={wa}/>}
       {!serviceContent&&<FAQ locale={locale} subject={subject} phone={phone} wa={wa}/>}
       <section className="mx-auto max-w-[1180px] px-4 py-6 sm:px-6"><h2 className="text-xl font-bold text-[#173b53]">{en?'Explore cleaning on Biet Al Reef':'اكتشف خدمات التنظيف في بيت الريف'}</h2><div className="mt-4 flex flex-wrap gap-3 text-sm font-bold underline underline-offset-4"><Link href={en?'/en/categories/cleaning-services':'/services/cleaning'}>{en?'Cleaning services':'خدمات التنظيف'}</Link><Link href={prefixPath(locale,'/uae/abu-dhabi/al-ain/cleaning-services')}>{en?'Cleaning in Al Ain':'خدمات التنظيف في العين'}</Link><Link href={root}>{t.brand}</Link></div></section>
-      <section className="mx-auto max-w-[1180px] px-4 pb-12 sm:px-6">
-        <div className="rounded-[22px] border border-[#e1e5e7] bg-white p-5 sm:p-7">
-          <h2 className="text-[20px] font-extrabold text-[#173b53]">{t.companyDetails}</h2>
-          <div className="mt-3 flex flex-wrap items-center justify-between gap-4"><p className="flex items-center gap-2 text-[15px] text-[#586d7b]"><MapPin size={17}/>{t.address}</p>
-            <a href={mapUrl} target="_blank" rel="noopener noreferrer" className="rounded-xl border border-[#d3bea0] px-4 py-2.5 text-[14px] font-bold text-[#173b53]">{t.map}</a></div>
-         </div>
-      </section>
+
     </main>
     <Footer locale={locale}/>
-    <div className="fixed inset-x-0 bottom-0 z-40 flex gap-2 border-t border-[#e7e7e6] bg-white/95 px-3 pb-[max(12px,env(safe-area-inset-bottom))] pt-3 shadow-[0_-5px_22px_rgba(12,37,55,.13)] backdrop-blur-xl md:hidden">
-      <a href={safeTel(phone)} aria-label={t.call} className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl bg-[#D4AD63] text-[14px] font-extrabold text-[#102f46]"><Phone size={17}/>{t.call}</a>
-      <a href={whatsappHref(wa,subject)} target="_blank" rel="noopener noreferrer" className="flex min-h-[47px] flex-1 items-center justify-center gap-2 rounded-xl border border-[#c8ac79] bg-white text-[14px] font-bold text-[#173b55]"><MessageCircle size={18}/>{t.whatsapp}</a>
-    </div>
+    <CompanyContactBar locale={locale} phoneHref={safeTel(phone)} whatsappHref={whatsappHref(wa,subject)}/>
     <div className="h-20 md:hidden" aria-hidden="true"/>
   </div>;
 }

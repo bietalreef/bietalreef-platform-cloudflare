@@ -3,8 +3,8 @@ import Image from 'next/image';
 import { ArrowLeft, ArrowRight, Building2, Users } from 'lucide-react';
 
 const content = {
-  ar: { label: 'دليل الشركات والمهنيين', title: 'اختر الشركة أو المهني المناسب لمشروعك', description: 'استعرض الشركات المنشورة وخدماتها ومناطق عملها، ثم تواصل مع الجهة المناسبة أو تصفح حسب القطاع.', browse: 'تصفح الشركات', sectors: 'استعرض القطاعات', alt: 'شركات خدمات البناء والمقاولات والصيانة في بيت الريف' },
-  en: { label: 'Businesses & Professionals', title: 'Choose the right business or professional for your project', description: 'Explore published businesses, their services and coverage, then contact a provider or browse by sector.', browse: 'Browse businesses', sectors: 'Browse sectors', alt: 'Building, contracting and maintenance providers on Biet Al Reef' },
+  ar: { label: 'دليل الشركات والمهنيين', title: 'دليل شركات المقاولات والخدمات والمهنيين في الإمارات', description: 'تصفح الشركات والمقاولين والمكاتب الهندسية ومزودي الصيانة والتنظيف والتوريد، وراجع الخدمات ومناطق التغطية قبل طلب عرض سعر.', browse: 'تصفح الشركات', sectors: 'استعرض القطاعات', alt: 'شركات خدمات البناء والمقاولات والصيانة في بيت الريف' },
+  en: { label: 'Businesses & Professionals', title: 'UAE contractors, service providers and professionals directory', description: 'Find published contractors, engineering offices, maintenance, cleaning and supply businesses. Review their services and coverage before requesting a quote.', browse: 'Browse businesses', sectors: 'Browse sectors', alt: 'Building, contracting and maintenance providers on Biet Al Reef' },
 };
 
 export default function ProvidersDirectoryHero({ locale = 'ar' }) {
@@ -17,14 +17,14 @@ export default function ProvidersDirectoryHero({ locale = 'ar' }) {
         <div className="grid lg:grid-cols-[1.05fr_.95fr] lg:items-stretch">
           <div className="flex flex-col justify-center p-3.5 md:p-10 lg:p-12">
             <span className="inline-flex w-fit items-center gap-1.5 rounded-full border border-[#D4AF37]/35 bg-[#FFF8E5] px-2.5 py-1 text-[10px] font-black text-[#8A6A00] md:gap-2 md:px-4 md:py-2 md:text-xs"><Users className="h-3.5 w-3.5 md:h-4 md:w-4" aria-hidden="true" />{t.label}</span>
-            <h1 className="mt-2.5 max-w-2xl text-xl font-black leading-[1.4] text-[#0F3F1A] md:mt-5 md:text-5xl">{t.title}</h1>
+            <h1 className="mt-2.5 max-w-2xl text-xl font-black leading-[1.4] text-[#193b53] md:mt-5 md:text-5xl">{t.title}</h1>
             <p className="mt-1.5 max-w-2xl text-xs font-semibold leading-5 text-gray-600 md:mt-5 md:text-base md:leading-9">{t.description}</p>
             <div className="mt-3 flex gap-2 md:mt-7 md:gap-3">
               <ScrollToSection target="published-companies" className="inline-flex min-h-10 flex-1 items-center justify-center gap-1 rounded-xl bg-[#193b53] px-2 py-2 text-xs font-black text-white transition hover:bg-[#235679] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#193b53] md:min-h-12 md:flex-none md:gap-2 md:rounded-2xl md:px-6 md:py-3 md:text-sm"><Building2 className="h-4 w-4 md:h-5 md:w-5" aria-hidden="true" />{t.browse}<DirectionArrow className="h-3.5 w-3.5 md:h-4 md:w-4" aria-hidden="true" /></ScrollToSection>
               <ScrollToSection target="provider-sectors" className="inline-flex min-h-10 flex-1 items-center justify-center rounded-xl border border-[#c9dce8] bg-white px-2 py-2 text-xs font-black text-[#193b53] transition hover:bg-[#eff6fb] md:min-h-12 md:flex-none md:rounded-2xl md:px-6 md:py-3 md:text-sm">{t.sectors}</ScrollToSection>
             </div>
           </div>
-          <div className="relative hidden min-h-[300px] overflow-hidden bg-[#F5EFE4] lg:block lg:min-h-[500px]"><Image src="/images/providers-hero.webp" alt={t.alt} fill className="object-cover object-center" sizes="(max-width: 1024px) 100vw, 48vw" /><div className={`absolute inset-0 ${isAr ? 'bg-gradient-to-l' : 'bg-gradient-to-r'} from-white/20 via-transparent to-[#0F3F1A]/12`} /></div>
+          <div className="relative block h-44 overflow-hidden bg-[#F5EFE4] sm:h-64 lg:h-auto lg:min-h-[500px]"><Image src="/images/providers-hero.webp" alt={t.alt} fill priority className="object-cover object-center" sizes="(max-width: 1024px) 100vw, 48vw" /><div className={`absolute inset-0 ${isAr ? 'bg-gradient-to-l' : 'bg-gradient-to-r'} from-white/20 via-transparent to-[#0F3F1A]/12`} /></div>
         </div>
       </div>
     </section>

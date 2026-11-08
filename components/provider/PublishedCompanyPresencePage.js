@@ -1,4 +1,6 @@
 import PublishedPortfolio from './PublishedPortfolio';
+import CompanyPageNav from './CompanyPageNav';
+import CompanyContactBar from './CompanyContactBar';
 import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -70,14 +72,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
   {lastModified&&<script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify({'@context':'https://schema.org','@type':'WebPage',url:canonical,name:pageLabel,dateModified:lastModified}).replace(/</g,'\\u003c')}}/>}
  </Head>
  <Navbar locale={locale}/>
- <header className="border-b border-[#e7ddcc] bg-white">
-  <nav aria-label="Company pages" className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-2 px-3 py-3 text-xs font-bold sm:px-5 sm:text-sm">
-   <Link href={navPath()} className="font-extrabold text-[#173d31]">{name}</Link>
-   <span className="flex flex-wrap items-center gap-3 text-[#173d31]">
-    {['home','services','offers','service-areas'].map(k=><Link key={k} href={navPath(k)}>{t[k]}</Link>)}
-   </span>
-  </nav>
- </header>
+ <CompanyPageNav locale={locale} homeHref={navPath()} active={section} hrefs={{home:navPath(),services:navPath('services'),offers:navPath('offers'),'service-areas':navPath('service-areas')}} />
  <main>
  {cover?(profile.cover_media_is_illustrative?<div className="relative mx-auto h-56 max-w-6xl overflow-hidden bg-[#1e364a] sm:h-80">
    <img src={cover} alt={rtl?'صورة توضيحية لخدمات التنظيف':'Illustrative cleaning services photograph'} fetchPriority="high" width="1600" height="650" className="absolute inset-0 h-full w-full object-cover"/>
@@ -87,7 +82,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
      <div><p className="mb-1 text-[11px] text-white/80">{rtl?'صورة توضيحية — ليست تصويرًا موثقًا لأعمال الشركة':'Illustrative photo — not documented company work'}</p>
        <p className="text-lg font-extrabold leading-snug sm:text-3xl">{name}</p></div>
    </div>
-  </div>:<img src={cover} alt={name} fetchPriority="high" width="1200" height="340" className="mx-auto block max-h-80 w-full max-w-6xl object-contain bg-white"/>):null}
+  </div>:<img src={cover} alt={name} fetchPriority="high" width="1200" height="340" className="mx-auto block aspect-[16/5] max-h-80 w-full max-w-6xl object-cover object-center bg-white"/>):null}
  <div className="mx-auto max-w-6xl border-b border-[#e7ddcc] bg-white px-4 py-5 sm:rounded-b-2xl sm:px-7">
   <nav className="mb-2 flex items-center gap-2 text-xs text-[#755f34]"><Link href={locale==='en'?'/en/providers':'/providers'}>{t.allCompanies}</Link><span>/</span><Link href={navPath()}>{name}</Link>{section!=='home'?<span>/ {pageLabel}</span>:null}</nav>
   <span className="inline-flex items-center gap-1 rounded-full bg-[#f6eedc] px-3 py-1 text-xs font-bold text-[#82682f]"><ShieldCheck size={14}/>{t.verified}</span>
@@ -99,13 +94,20 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
  </div>
  {section==='home'?<>
   <Section title={t.about} locale={locale}><p className="whitespace-pre-line rounded-2xl border border-[#e6dece] bg-white p-4 leading-8 text-slate-600">{text(profile,locale,'description')||description}</p></Section>
+  <Section title={rtl?'معلومات النشاط التجاري':'Business information'} locale={locale}><div className="grid gap-3 rounded-2xl border border-[#e6dece] bg-white p-4 text-sm leading-7 text-slate-700 sm:grid-cols-2">
+    {profile.public_provider_code&&<p><strong>{rtl?'رقم الشركة: ':'Business ID: '}</strong><span dir="ltr">{profile.public_provider_code}</span></p>}
+    {profile.phone&&<p><strong>{rtl?'الهاتف: ':'Phone: '}</strong><a href={call||'#'} dir="ltr">{profile.phone}</a></p>}
+    {profile.public_email&&<p><strong>{rtl?'البريد الإلكتروني: ':'Email: '}</strong><a href={'mailto:'+profile.public_email}>{profile.public_email}</a></p>}
+    {areaNames.length>0&&<p><strong>{rtl?'مناطق الخدمة: ':'Areas served: '}</strong>{areaNames.join(rtl?'، ':', ')}</p>}
+  </div></Section>
   <Section title={t.services} url={navPath('services')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="services" items={services} cover={cover}/></Section>
   {offers.length?<Section title={t.offers} url={navPath('offers')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="offers" items={offers} cover={cover}/></Section>:null}
-  <PublishedPortfolio items={data.portfolioProjects} locale={locale}/>
   <Section title={t.location} url={navPath('service-areas')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="service-areas" items={areas}/></Section>
+  <PublishedPortfolio items={data.portfolioProjects} locale={locale}/>
+  <section id="company-posts" className="mx-auto max-w-6xl scroll-mt-36 px-3 py-4 sm:px-5"><h2 className="mb-3 text-xl font-bold text-[#18334c]">{rtl?'المنشورات':'Posts'}</h2><p className="rounded-xl border border-dashed border-[#d9d3c7] bg-white p-4 text-sm text-slate-600">{rtl?'لا توجد منشورات معتمدة منشورة حاليًا.':'No approved posts are published yet.'}</p></section>
  </>:detail? <Section title={pageLabel} locale={locale}>
    <div className="grid overflow-hidden rounded-2xl border border-[#e6dece] bg-white md:grid-cols-2">
-   {detail.image?<figure className="min-w-0"><picture>{safeImg(detail.image_mobile)&&<source media="(max-width:700px)" srcSet={safeImg(detail.image_mobile)}/>}<img src={detail.image} alt={`${pageLabel} — ${name}`} width="600" height="350" className="h-56 w-full object-contain md:h-80"/></picture>{detail.image_illustrative?<figcaption className="px-3 py-1.5 text-[11px] text-slate-500">{rtl?'تصميم توضيحي للخدمة':'Illustrative service design'}{detail.image_attribution?.author?<> · {detail.image_attribution.author} · <a href={detail.image_attribution.source} target="_blank" rel="noreferrer" className="underline">{detail.image_attribution.license}</a></>:null}</figcaption>:null}</figure>:null}
+   {detail.image?<figure className="min-w-0"><picture>{safeImg(detail.image_mobile)&&<source media="(max-width:700px)" srcSet={safeImg(detail.image_mobile)}/>}<img src={detail.image} alt={`${pageLabel} — ${name}`} width="600" height="350" className="h-56 w-full object-cover object-center md:h-80"/></picture>{detail.image_illustrative?<figcaption className="px-3 py-1.5 text-[11px] text-slate-500">{rtl?'تصميم توضيحي للخدمة':'Illustrative service design'}{detail.image_attribution?.author?<> · {detail.image_attribution.author} · <a href={detail.image_attribution.source} target="_blank" rel="noreferrer" className="underline">{detail.image_attribution.license}</a></>:null}</figcaption>:null}</figure>:null}
    <div className="p-5">{section==='offers'&&detail.discount_percent>0?<span className="mb-3 inline-flex rounded-lg bg-[#eee0bf] px-3 py-2 text-lg font-black text-[#5f4720]">{rtl?`خصم ${detail.discount_percent}% على الخدمة`:`${detail.discount_percent}% discount on this service`}</span>:null}<p className="leading-8 text-slate-700">{text(detail,locale,'description')||t.description}</p>{section==='offers'&&detail.offer?.code?<p className="mt-3 rounded-lg bg-[#eff6fb] p-3 text-sm font-bold text-[#185b87]">{rtl?'رمز العرض: ':'Offer code: '}<span dir="ltr">{detail.offer.code}</span><span className="mt-1 block text-xs font-normal">{rtl?'اذكر الرمز عند التواصل لتأكيد شروط العرض.':'Mention this code when contacting the company to confirm the offer terms.'}</span></p>:null}{section==='offers'&&detail.offer?.expiresAt?<p className="mt-2 text-xs text-slate-500">{rtl?'ينتهي العرض: ':'Offer ends: '}<time dateTime={detail.offer.expiresAt}>{detail.offer.expiresAt.slice(0,10)}</time></p>:null}{section==='offers'&&detail.linked_service_slug?<Link className="mt-3 inline-flex rounded-lg border border-[#ceb77c] px-4 py-2 text-sm font-semibold text-[#173d31]" href={navPath('services',detail.linked_service_slug)}>{rtl?'اقرأ تفاصيل الخدمة الأصلية':'View the original service'}</Link>:null}{section==='service-areas'?<p className="mt-2 leading-7 text-slate-500">{t.areaNotice}</p>:null}{wa?<a href={wa} className="mt-4 inline-flex rounded-xl bg-[#183d31] px-5 py-3 font-bold text-white">{t.direct}</a>:null}</div>
    </div>
    {section==='services'&&detailSeo?<div className="mt-5 grid gap-4 lg:grid-cols-2">
@@ -123,6 +125,6 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
   </Section>:<Section title={t[section]} locale={locale}><Collections contextBase={route.contextBase||''} items={collection||[]} locale={locale} slug={slug} kind={section} cover={cover}/></Section>}
   </main>
   <Footer locale={locale}/>
-  <div className="fixed inset-x-0 bottom-0 z-40 flex gap-2 border-t border-[#ded2b9] bg-white p-2 pb-[calc(8px+env(safe-area-inset-bottom))] sm:hidden">{call?<a href={call} className="flex flex-1 items-center justify-center gap-2 rounded-xl bg-[#173d31] px-3 py-3 text-xs font-bold text-white"><Phone size={17}/>{t.contact}</a>:null}{wa?<a href={wa} className="flex flex-1 items-center justify-center gap-2 rounded-xl border border-[#c6ad78] bg-[#f8f4e8] px-3 py-3 text-xs font-bold text-[#173d31]"><MessageCircle size={17}/>{t.whatsapp}</a>:null}</div>
+  <CompanyContactBar locale={locale} phoneHref={call} whatsappHref={wa}/>
  </div>;
 }

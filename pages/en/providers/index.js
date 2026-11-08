@@ -25,7 +25,7 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
   const companyCards = directoryCompanyCards(providers,rehab,alNaeem,'en');
   return (
     <>
-      <SEOHead title="UAE Business and Professional Directory | Biet Al Reef" description="Explore UAE construction, maintenance, cleaning, design and supply businesses. Review each profile and specialty before requesting a quotation." canonicalPath="/en/providers" alternatePath="/en/providers" ogImage="https://bietalreef.ae/images/providers-hero.webp" structuredData={providerDirectorySchema(companyCards, 'en')}/>
+      <SEOHead title="UAE Contractors, Services & Professionals Directory | Biet Al Reef" description="Discover UAE contractors, engineering consultants, maintenance, cleaning and suppliers. Compare published business profiles, service areas and specialties before requesting a quote." canonicalPath="/en/providers" alternatePath="/en/providers" ogImage="https://bietalreef.ae/images/providers-hero.webp" structuredData={providerDirectorySchema(companyCards, 'en')}/>
       <EnglishLayout>
         <main dir="ltr" className="-mt-[1px] bg-[#FDFBF7] text-left">
           <ProvidersDirectoryHero locale="en" />

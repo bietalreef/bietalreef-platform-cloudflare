@@ -1,11 +1,11 @@
-# Review — مصانع الخرسانة والطابوق والمنتجات الأسمنتية — Al Jimi
+# Editorial review — مصانع الخرسانة والطابوق والمنتجات الأسمنتية — Al Jimi
 
-- Exact source company specialty: مصانع الخرسانة والطابوق والمنتجات الأسمنتية; status proposed.
-- Exact service headings: 4 Arabic and 4 English in matched taxonomy order.
-- Distinct task-specific consideration; site/weight/capacity inputs, quote inclusions/exclusions and acceptance checks per service.
-- No invented supplier, equipment inventory, hire rate, permissions, delivery date or activation.
+Status: bilingual editorial review complete for this specialty; area remains `in_progress`. Classification: **new/proposed, not automatically active**.
 
+Exact company-service source order:
 1. تصنيع الخرسانة الجاهزة / Ready-mix concrete production
-2. تصنيع الطابوق والبلوك / Concrete block manufacture
-3. تصنيع المنتجات الأسمنتية / Cement-based product manufacture
-4. توريد المنتجات للمشاريع / Project product supply
+2. تصنيع الطابوق والبلوك / Block and masonry unit production
+3. تصنيع المنتجات الأسمنتية / Cement-based product manufacturing
+4. توريد المنتجات للمشاريع / Supply of cement products to projects
+
+Each service includes use case, measurements/specifications, quote comparison, agreement exclusions and acceptance checks. No invented producer, availability, certification, rate or delivery date. Separate from individual professional services.

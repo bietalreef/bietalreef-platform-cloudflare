@@ -1,63 +1,91 @@
-# Residential and commercial cleaning in Al Jimi
+# Homes and buildings cleaning in Al Jimi
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+Preparatory company-service guidance. Cleaning scope depends on use and property condition; no available provider, price or appointment is implied.
 
 ## 1. Villa cleaning
 
-**First check:** Stairs, majlis, kitchens and annexes call for a room-by-room schedule. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Villas need a room-by-room scope covering majlis, kitchens, stairs and external areas, not pricing by bedroom count alone.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and dimensions:** Share floors, room and bathroom counts, sensitive surfaces, glazing and access photos; say whether residents and furniture remain.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Comparing quotes:** Compare crew hours, standard versus deep cleaning, supplies and external coverage; tank and high-rise façade cleaning are separate.
+
+**Agreement and exclusions:** Agree room sequence, marble/timber protection, heavy-furniture exclusions and a process for reporting missed areas.
+
+**Acceptance checks:** Inspect corners, behind doors, kitchen surfaces, bathrooms and stairs in good light before sign-off.
 
 ## 2. Apartment cleaning
 
-**Describe the issue:** Occupancy and permission to move furniture define apartment cleaning access. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Occupied and vacant apartments require different handling of cupboards, appliances and personal belongings.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and dimensions:** Provide room/bathroom counts, kitchen and balcony dimensions, stain photos and appliance condition if interior cleaning is requested.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Comparing quotes:** Compare inside-cupboard, appliance, balcony and window coverage, visit count and surface-compatible products.
+
+**Agreement and exclusions:** Set rules for personal belongings, keys, parking, floor protection and handover time.
+
+**Acceptance checks:** Check extractor surfaces, edges, glazing and bathroom floors; confirm agreed items are returned to place.
 
 ## 3. Office cleaning
 
-**The practical need:** Avoid disturbing files and devices; agree shared rooms and out-of-hours access. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Office cleaning must accommodate staff, electronics and confidential papers while covering shared spaces.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and dimensions:** Share desk counts, meeting rooms, toilets, pantries, access hours and flooring photos.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Comparing quotes:** Compare daily versus weekly coverage, consumables, waste collection and interior glazing without touching sensitive equipment.
 
-## 4. Whole-building cleaning
+**Agreement and exclusions:** Define authorised areas, document privacy, chemical storage, damage reporting and after-hours access.
 
-**First check:** List entrances, lifts, corridors, door thresholds and any included parking. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**Acceptance checks:** Check desks, floors, touchpoints, toilets and attendance logs without disturbing staff files.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+## 4. Building common-area cleaning
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**When needed:** Building cleaning typically covers agreed corridors, lifts, stairs and entrances, not private units by default.
 
-## 5. Post-construction cleaning
+**Photos and dimensions:** Provide floors, lifts, entrances, bin areas, floor finishes and visitor-traffic details.
 
-**Describe the issue:** Gypsum dust and paint splashes require removal without scraping delicate glass or stone. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**Comparing quotes:** Compare sweeping and washing frequency, lift controls, handles, bins and supply of consumables.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Agreement and exclusions:** Agree wet-floor signs, peak-hour scheduling and exclusion of locked technical rooms.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Acceptance checks:** Inspect entrances, stair edges, lift corners and bins against visit logs; note inaccessible areas.
+
+## 5. Post-fit-out cleaning
+
+**When needed:** After gypsum, painting and tiling, fine dust and adhesive residue need removal without scratching new finishes.
+
+**Photos and dimensions:** Send photos of plaster, paint splashes, protective films, area size and availability of power and water.
+
+**Comparing quotes:** Compare cleaning stages, fine-dust extraction, stain/film removal and waste disposal; repairing defective finishes is separate.
+
+**Agreement and exclusions:** Schedule after trades finish and assign responsibility for re-soiling caused by later contractors.
+
+**Acceptance checks:** Inspect lit surfaces, tile edges, window frames and accessible visible vents without dismantling equipment.
 
 ## 6. Pre-move-in cleaning
 
-**The practical need:** Include drawer interiors, kitchen cabinets and bathroom drains before furniture arrives. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Before moving furniture in, floors and cupboards are accessible, but internal drawers and new appliances need explicit scope.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and dimensions:** Share floor plan or room counts, kitchen/bathroom photos, key handover and mover arrival times.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Comparing quotes:** Compare internal cupboard cleaning, touchpoint treatment, glazing, vacuuming and drying time.
+
+**Agreement and exclusions:** Specify safe products for new flooring, no incompatible chemical mixing and clear access before movers arrive.
+
+**Acceptance checks:** Check drawers, shelves, bathrooms and floors and confirm dry surfaces before placing furniture or rugs.
 
 ## 7. Recurring cleaning contracts
 
-**First check:** Visit frequency, periodic deep-clean tasks and holiday cover belong in the contract. Provide room photos, areas, bathroom counts, furnishing/floor condition and water access, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** Recurring contracts suit premises with predictable cleaning needs and changing occupancy intensity.
 
-**Scope and exclusions:** Separate surface, kitchen, bathroom, window, cabinet-interior and waste-removal tasks; define crew, consumables and equipment. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and dimensions:** Provide floor areas, service zones, occupancy, operating hours, preferred days and supply storage.
 
-**Acceptance:** Check corners, beneath appliances and edges without damaging glass or stone. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Comparing quotes:** Compare visits, labour hours, tasks per visit, absence cover, consumables and periodic deep-clean tasks.
 
-## Biet Al Reef quotation support
+**Agreement and exclusions:** Agree a reviewable schedule, quality checks, attendance logs, complaint response and emergency exclusions.
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**Acceptance checks:** Review checklists and attendance monthly and inspect sampled areas rather than relying on logged hours alone.
+
+## Request a quotation
+
+Send area measurements, site photos, desired scope and dates and sensitive surface details to Biet Al Reef customer service for a clearer enquiry. Company availability, rates and timing are not guaranteed.

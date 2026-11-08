@@ -133,11 +133,11 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
-      "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite: first four sectors 259 services and aluminium-glass services 1-28. Total 287/434; 147 remain. Next aluminium-glass service 29. Verified 56 sequential headings in each language; no approval or deployment.",
+      "last_attempt": "2026-11-09",
+      "review_note": "Independent bilingual rewrite: first four sectors 259 services and aluminium-glass services 1-42. Total 301/434; 133 remain. Next aluminium-glass service 43. Verified 56 sequential headings in each language; no approval or deployment.",
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
+        "specialty": "الواجهات والأعمال الزجاجية",
         "rewritten_service_numbers": [
           1,
           2,
@@ -166,14 +166,28 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 28,
+        "next_service_number": 43,
+        "remaining_in_sector": 14,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 287,
-        "remaining_area_services_for_originality_review": 147,
+        "area_independently_rewritten": 301,
+        "remaining_area_services_for_originality_review": 133,
         "area_editorially_approved": false
       }
     },

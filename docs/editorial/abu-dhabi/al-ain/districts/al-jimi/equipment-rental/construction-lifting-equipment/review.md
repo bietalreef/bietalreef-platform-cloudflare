@@ -1,13 +1,13 @@
-# Review — تأجير معدات البناء والرفع — Al Jimi
+# مراجعة تخصص تأجير معدات البناء والرفع — الجيمي
 
-- Exact source company specialty: تأجير معدات البناء والرفع; status no live availability asserted.
-- Exact service headings: 7 Arabic and 7 English in matched taxonomy order.
-- Distinct task-specific consideration; site/weight/capacity inputs, quote inclusions/exclusions and acceptance checks per service.
-- No invented supplier, equipment inventory, hire rate, permissions, delivery date or activation.
+- الحالة: reviewed — 7/7 خدمات شركات بالعربية والإنجليزية حسب ترتيب الشجرة.
+- لا تُحتسب تخصصات المهنيين ضمن هذا الملف، ولا توجد ادعاءات عن توفر شركات أو معدات.
+- لكل خدمة وصف حالة استخدام ومدخلات موقع ومواصفات ومقارنة عرض وحدود تعاقد وفحص استلام مستقل.
+- تُطلب التصاريح والفحوص ذات الصلة بحسب الحالة، ولا تُفترض شهادات أو أسعار أو مواعيد.
 
 1. تأجير السقالات / Scaffolding rental
 2. تأجير الرافعات / Crane rental
-3. تأجير معدات الحفر / Excavator rental
+3. تأجير معدات الحفر / Excavation equipment rental
 4. تأجير معدات الدمك / Compaction equipment rental
 5. تأجير الخلاطات / Concrete mixer rental
 6. تأجير معدات قص الخرسانة / Concrete-cutting equipment rental

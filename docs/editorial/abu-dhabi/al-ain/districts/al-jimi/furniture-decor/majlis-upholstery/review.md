@@ -1,10 +1,10 @@
 # Review — تنجيد وتفصيل المجالس والكنب — Al Jimi
 
-- Company specialty exact: **تنجيد وتفصيل المجالس والكنب**.
-- Taxonomy status: **جديد مقترح**; editorial preparation only.
-- Original Arabic service names: 5; corresponding English: 5, same order.
-- Each service has individual use-case, measured inputs, scope/exclusions, quotation comparison and acceptance checklist.
-- No implied business availability, price or activation.
+- Status: editorial reviewed; taxonomy category جديد مقترح; not activated.
+- Company specialty only, not the separate individual-trades taxonomy.
+- Exact Arabic service headings: 5; corresponding English headings: 5; identical sequence.
+- Each service covers use case, scope, photos/measurements, materials/specifications, quotation comparison, agreement/exclusions, acceptance and enquiry.
+- No asserted provider availability, prices or appointments.
 
 1. تفصيل المجالس العربية / Arabic majlis tailoring
 2. تفصيل الكنب / Bespoke sofa tailoring

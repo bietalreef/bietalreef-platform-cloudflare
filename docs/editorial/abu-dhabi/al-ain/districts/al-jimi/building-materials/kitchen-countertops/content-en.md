@@ -1,63 +1,73 @@
-# Kitchen and vanity countertops in Al Jimi
+# Kitchen countertops and vanities in Al Jimi
 
-For delivery to an Al Jimi project, agree units, quality and unloading responsibilities before comparing quotations. This guide does not verify stock or any named supplier.
+Final measurements should follow cabinet installation. This company/establishment guide does not confirm provider availability or scheduling.
 
 ## 1. Kitchen countertop fabrication
 
-Kitchen counter fabrication. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** Provide cabinet plan, countertop lengths, depths, material and seam positions, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check straight cuts, uniform edges and correctly placed seams, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
+
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
 ## 2. Kitchen countertop installation
 
-Kitchen counter installation. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** Provide cabinet levels, flatness, walls, sink and appliance positions, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check stable support, corner reinforcement, sound joints and sealant, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
 
-## 3. Marble washbasin fabrication
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
-Stone vanity fabrication. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 3. Marble vanity fabrication
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Need and survey:** Provide vanity width, depth, height, drainage edges and basin location, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
+
+**Acceptance:** Check specified water fall, intact corners and clean openings, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
+
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
 ## 4. Sink and appliance cut-outs
 
-Sink and appliance cut-outs. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** Provide sink templates, actual appliance dimensions and safe edge clearances, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check opening size, edge finish and dry-fit of the appliance, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
 
-## 5. Quartz surface installation
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
-Quartz countertop installation. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 5. Quartz countertop installation
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Need and survey:** Provide slab code, thickness, overhangs, supports and heat limitations, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
+
+**Acceptance:** Check colour match, secure seams and adequate overhang support, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
+
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
 ## 6. Porcelain slab countertop installation
 
-Large-format porcelain counter installation. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** Provide large-format slab dimensions, thickness, cutting plan, lifting and support points, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check sound thin edges and absence of fractures, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
 
-## 7. Surface repair and refinishing
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.
 
-Countertop repair and refinishing. Before ordering, gather the cabinet measurements, sink/hob photos and exact appliance models, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 7. Countertop maintenance and repolishing
 
-**Quotation scope:** Require a final template after cabinets, confirmed cut-outs, edges, seams, adhesives and clarity on who supplies fixtures. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Need and survey:** Provide material type, photos of scratches, stains, cracks and failed sealant, approved samples and site photos. Confirm cabinet, plumbing and electrical readiness before final measurement; an earlier survey may be invalid after substrate changes.
 
-**On arrival:** Verify level, seam treatment, water-sealed edges and accessible appliances. Record differences from approved samples before the materials are cut, installed or consumed.
+**Scope and quotations:** Require material, thickness, finish, cutting, drilling, delivery, lifting, fixing and wet-area sealing to be itemised. Compare actual lengths, exposed edge metres, openings and fittings. Cabinet alteration, plumbing extensions and removal of old tops are excluded unless quoted. Agree seam locations, samples and breakage responsibility.
 
-## Biet Al Reef quotation assistance
+**Acceptance:** Check preserved finish, even appearance and effective resealing, including water-tightness at exposed wet joints. Photograph defects before sign-off and document remedies or replacement.
 
-Send the bill of quantities, photos, dimensions and approved specification to Biet Al Reef customer service. We can help structure comparable enquiries and look for suppliers, without guaranteeing stock, providers, price or delivery dates.
+**Quote request:** Send plans, dimensions and photos to Biet Al Reef customer service; no provider, price or slot is guaranteed.

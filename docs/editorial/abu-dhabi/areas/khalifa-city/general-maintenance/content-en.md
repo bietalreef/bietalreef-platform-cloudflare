@@ -227,31 +227,31 @@ When several lights fail, record whether the fault is constant or intermittent a
 
 ### 50. Water supply network installation
 
-Count kitchens, bathrooms, tanks and appliances; map supply routes, target pressure and hot/cold lines. Compare pipe material, diameters, fittings and pressure testing; inspect a flushed, leak-free system before concealment.
+For a new water supply network in a Khalifa City villa, provide a drawing showing fixture feeds, pipe routes, diameters, materials, hot and cold lines, and isolation valves. Record route lengths and fixture levels before walls are closed. Quotations should separate opening-up, installation, testing and reinstatement. Accept the work only after a documented pressure test, joint inspection and confirmation that valves remain accessible—not merely because water flows.
 
 ### 51. Drainage network installation
 
-Provide drainage plans, levels, inspection chambers, fixtures and vent positions; pipe length alone omits critical falls. Compare clean-outs, expansion details and tests; witness flow without back-up or foul odour.
+Drainage design depends on bathroom and kitchen positions, floor levels and connections to existing lines; photographs alone cannot establish gradients. Ask for pipe diameters, cleanouts, venting arrangements, penetrations and waterproofing interfaces. Compare quotations including excavation, reinstatement and tests. Obtain evidence of leak and flow testing before pipework is concealed.
 
 ### 52. Sanitary fixture installation
 
-Identify basin, WC and mixer models, dimensions, fixing points and heights before wall tiling closes. Compare connection kits, seals and drilling; test flow, drainage, watertight joints and secure mounting.
+For a basin, WC or tap installation, supply the model, dimensions, photographs and feed and waste connection positions. Confirm connector compatibility, installation height, service clearances and whether fittings, sealant and removal of old fixtures are included. At handover check secure mounting, drainage, operation, dry joints and the condition of surrounding tiles.
 
 ### 53. Water tank installation
 
-Specify tank capacity, material, location, base loads, wash-out access, vent, overflow and drain. Compare sun protection, access and fixing arrangements; test filling, float controls, overflow and leakage.
+Water tank installation requires an agreed capacity, tank dimensions, location and confirmation that the supporting base can carry the filled load, with safe cleaning access. Specify inlet, outlet, overflow, vent, isolation valve and float control, and whether old-tank removal is included. Compare tank materials, warranty and anchoring. Check filling, leakage and float operation; do not claim potable-water quality without appropriate testing.
 
 ### 54. Water pump installation
 
-Report storey count, outlet pressures, peak demand and supply tank details. Request a pump curve, dry-run protection and vibration/noise controls; commission stable delivery without leaks.
+Do not select a water pump by motor power alone. State the number of outlets, elevation difference, available pressure, installation location and acceptable noise. Request the pump performance curve, dry-run protection, non-return valve, controls and electrical isolation details. Compare supply, installation, accessories and servicing, then verify pressure, automatic start/stop and leak-free operation.
 
 ### 55. Pipework rehabilitation
 
-Photograph corrosion, leaks and low pressure, identifying retained sections and access routes. Compare selective replacement, waste removal and reinstatement; pressure-test the connected system rather than only new pipe sections.
+Rehabilitating old pipework begins by locating failed sections and investigating repeated blockage or leakage, with photographs of access points and existing materials. Request a plan distinguishing replacement from retained sections, temporary connections, water shutdown duration and protection of occupied rooms. Compare more than a per-metre price: include opening-up, waterproofing and reinstatement. Receive test records and photographs before closure.
 
 ### 56. Drainage maintenance
 
-Map repeat blockages, drain smells, cleaning history and chamber locations. Compare mechanical clearing and camera inspection where needed instead of indiscriminate chemicals; verify flow and document the obstruction.
+Drainage maintenance should start with the blockage location, recurrence, odours and whether several outlets are affected: the cause may be a single trap or a shared line. Ask whether mechanical clearance or camera inspection is warranted rather than assuming replacement. The quotation should define cleaning limits, waste disposal and excluded repairs. At handover test flow at affected outlets and check for backflow and leaks.
 
 ### 57. Water leak investigation
 

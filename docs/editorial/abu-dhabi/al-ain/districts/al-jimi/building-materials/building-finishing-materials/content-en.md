@@ -1,177 +1,213 @@
-# Building and finishing material supply in Al Jimi
+# Building and finishing materials in Al Jimi — procurement guide
 
-For delivery to an Al Jimi project, agree units, quality and unloading responsibilities before comparing quotations. This guide does not verify stock or any named supplier.
-
-> **Taxonomy status:** currently non-selectable; this information is preparatory and does not activate a category.
+This is preparatory information for a company/establishment specialty that is currently non-selectable. It does not imply a listed supplier, stock, price or delivery slot. Obtain the responsible engineer's approval for structural materials before purchase.
 
 ## 1. Cement supply
 
-Cement supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For cement supply to an Al Jimi project, supply approved cement grade, bag weight and count, production date and dry storage, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check grade and batch match, sealed dry bags without lumps. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 2. Sand supply
 
-Sand supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For sand supply to an Al Jimi project, supply plaster, concrete or backfill use, grading, cleanliness and cubic-metre load, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 3. Aggregate supply
 
-Aggregate supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For aggregate supply to an Al Jimi project, supply stone size and grading, intended concrete or drainage use, source and load volume, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 4. Block supply
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Block supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 4. Block and brick supply
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For block and brick supply to an Al Jimi project, supply block dimensions, thickness, solid or hollow type, specified strength and piece count, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-## 5. Reinforcement steel supply
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check unbroken edges, correct dimensions and piece count. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-Reinforcing steel supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+## 5. Reinforcing steel supply
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**When and what to provide:** For reinforcing steel supply to an Al Jimi project, supply bar diameters, steel grade, lengths, tonnage and approved bar schedule, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
+
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
+
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check identification, certificates, quantities and absence of damaging defects. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 6. Ready-mix concrete supply
 
-Ready-mix concrete supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For ready-mix concrete supply to an Al Jimi project, supply specified strength, workability, volume, pour slot, pump access and testing plan, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 7. Project building-material supply
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Project building material supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 7. Project-wide construction material supply
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For project-wide construction material supply to an Al Jimi project, supply phased bill of quantities with line-by-line specifications and required dates, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
+
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check each shipment matches its purchase order and site readiness. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 8. Gypsum material supply
 
-Gypsum supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For gypsum material supply to an Al Jimi project, supply boards or powder, board thickness and specified moisture or fire rating, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check flat dry boards, intact edges and correct product labels. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 9. Paint material supply
 
-Paint material supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For paint material supply to an Al Jimi project, supply substrate, primer and filler system, topcoat, colour code and sheen, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check colour and batch codes, shelf life and sealed containers. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 10. Waterproofing and insulation material supply
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Waterproofing material supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 10. Waterproofing material supply
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For waterproofing material supply to an Al Jimi project, supply approved membrane or coating system, thickness, coverage and corner or joint accessories, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
+
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check compatible components, production and storage condition and required compliance records. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 11. Flooring material supply
 
-Flooring material supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For flooring material supply to an Al Jimi project, supply net area plus waste, tile or plank size, finish and slip rating where required, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check shade and batch consistency, straight pieces and no breakage. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 12. Sanitary fixture supply
 
-Sanitary ware supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For sanitary fixture supply to an Al Jimi project, supply fixture models, connection dimensions, mixers and fixing accessories, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check correct models, finishes and accessories without cracks or scratches. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 13. Electrical accessories supply
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Electrical accessory supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 13. Electrical installation material supply
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For electrical installation material supply to an Al Jimi project, supply cable cross-sections, insulation ratings, breakers and switches per load schedule, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-## 14. Plumbing accessories supply
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check ratings, markings and required approvals without unapproved substitutions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-Plumbing fitting supply. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+## 14. Plumbing installation material supply
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**When and what to provide:** For plumbing installation material supply to an Al Jimi project, supply pipe material, diameters, pressure class, compatible fittings and valves, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-## 15. Building materials retail
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-Building material retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check matching diameters and ratings, no cracked or missing fittings. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+## 15. Construction material retail
+
+**When and what to provide:** For construction material retail to an Al Jimi project, supply shopping list, retail units and suitable sizes for the current construction phase, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
+
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
+
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check invoice, unit counts, quantities and returns terms before collection. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 16. Sanitaryware retail
 
-Bathroom and sanitary retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For sanitaryware retail to an Al Jimi project, supply installation dimensions, water and waste connection photos and desired model, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check complete sets, connection compatibility and documented warranty. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 17. Electrical supplies retail
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Electrical supplies retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 17. Electrical accessories retail
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For electrical accessories retail to an Al Jimi project, supply part or device model, voltage and current ratings and mounting method, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-## 18. Plumbing materials retail
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check correct specified item and safety rating, with no unsuitable substitution. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-Plumbing materials retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+## 18. Plumbing material retail
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**When and what to provide:** For plumbing material retail to an Al Jimi project, supply sample or photo of the old fitting, pipe diameter, material and operating pressure, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
+
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
+
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check thread, dimensions and seals fit before installation. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
 ## 19. Paint retail
 
-Paint retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**When and what to provide:** For paint retail to an Al Jimi project, supply colour code, substrate, coverage area, coat count and sheen, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check mixed colour matches code, batch and future repeatability. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-## 20. Insulation materials retail
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-Insulation material retail. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 20. Waterproofing retail
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**When and what to provide:** For waterproofing retail to an Al Jimi project, supply leak location, substrate, treatment area and primer/topcoat compatibility, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-## 21. Delivery of materials to site
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check compatible system components, accessories and application instructions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-Site material delivery. Before ordering, gather the bill of quantities, delivery-access photos and storage area, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
-**Quotation scope:** Specify unit of measure, grade, supply documentation and storage, and separate carriage and unloading from material price. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+## 21. Material delivery to site
 
-**On arrival:** Verify quantity, batch reference, packaging and dimensions. Record differences from approved samples before the materials are cut, installed or consumed.
+**When and what to provide:** For material delivery to site to an Al Jimi project, supply site address, access photos, clearance, unloading point and lifting needs, plus relevant site or sample photos and drawings. The product name alone is not a sufficient specification for every application.
 
-## Biet Al Reef quotation assistance
+**Quotation scope and comparison:** Ask for the unit, quantity, specified grade or brand and permitted alternatives. Separate goods from transport, unloading, storage or installation unless expressly included; agree on partial deliveries, returns and transit damage. Engineering inspection and fitting are not automatically included.
 
-Send the bill of quantities, photos, dimensions and approved specification to Biet Al Reef customer service. We can help structure comparable enquiries and look for suppliers, without guaranteeing stock, providers, price or delivery dates.
+**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check package count, condition, proof of delivery and damage noted before signing. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+
+**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.

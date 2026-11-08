@@ -8,59 +8,59 @@ If cooling is poor in only some Khalifa City rooms, ask for airflow and controls
 
 ### 1. Periodic villa maintenance
 
-Inventory relevant finishes, doors, services and equipment and agree visit intervals. Supply fault photographs and prior records. Compare preventive checks with excluded repairs and parts; receive dated checklists, work logs and recommendations.
+Routine villa maintenance is more than a visit after something fails. Start with an inventory of air-conditioning units, pumps, electrical panels, doors and prior faults, noting locations and dates. Ask for a visit plan separating inspection, cleaning, specialist work, emergency call-outs and replacement parts. Compare inspection frequency, response arrangements and recorded readings. At handover, require dated findings, photographs and recommendations rather than a generic statement that maintenance was completed.
 
 ### 2. Periodic building maintenance
 
-Define unit count, shared areas, plant rooms and access responsibilities. Request system-specific visit plans, fault logs and response arrangements. Compare inspection coverage and consumables; receive reports separating recurring defects from completed work.
+A building maintenance agreement should identify the number of units, shared spaces, service rooms and equipment within the contractor's responsibility. Provide basic layouts, operating information and access windows. Where lifts or fire systems need specialist attention, identify that separately rather than assuming they fall within general maintenance. Compare periodic reporting, fault-ticket closure and exclusions; receive a log distinguishing recurring defects from completed repairs.
 
 ### 3. Interior damage repairs
 
-Photograph damage, location, likely cause and affected area. Require the source to be addressed before repainting or recladding. Compare removal, substrate preparation and colour matching; inspect the dry finish and before-and-after evidence.
+Photograph interior damage both close up and in context, with a ruler, and identify whether the affected material is plasterboard, tile, paint or timber. A stain behind cabinetry may signal continuing moisture, so repainting should wait until the cause is investigated. Price removal, substrate preparation and matching replacement separately. Inspect a dry, even finish and request photographs of concealed work before it is covered.
 
 ### 4. Door and window repairs
 
-Record frame material, dimensions and closing or leakage faults; photograph hinges and seals. Compare alignment and hardware replacement with full-unit replacement. Test smooth opening, locking and sealing at handover.
+For a dragging door or a draughty window, record frame material, leaf dimensions and photographs of hinges, locks and seals. Quotations should distinguish adjustment, replacement of a specific component and full-unit replacement, including hardware compatibility. Open, close and lock the unit repeatedly at handover, checking clearances and seals. Replacing a handle alone will not correct a distorted frame.
 
 ### 5. Dampness treatment
 
-Document stain locations, onset and nearby water sources; do not order sealing paint before diagnosis. Compare investigation, moisture checks, source repair and drying. Receive photographs and moisture findings stating what was treated and what remains unverified.
+Moisture may come from pipe leakage, condensation or failed waterproofing. Record when staining appears, its position and any connection to rainfall or air-conditioning. Request investigation of the source and extent before choosing waterproof coatings or repainting. Compare diagnosis, source repair, drying and reinstatement as separate costs. Receive photographs and suitable inspection findings, including any areas that could not be verified.
 
 ### 6. Crack treatment
 
-Measure and photograph crack length, direction and width with a scale. Distinguish superficial cracking from possible structural movement and seek specialist assessment where warning signs exist. Compare preparation, filling and monitoring; do not accept concealment of an active cause.
+Photograph the crack beside a ruler and date the image; monitor any change in width or length before covering it with filler. A hairline paint crack differs from stepped cracking in masonry or around an opening, which may require assessment by a qualified engineer. Ask for the suspected cause, edge preparation, repair material and monitoring plan. Retain before-and-after evidence.
 
 ### 7. Pre-handover property preparation
 
-Create a room-by-room snag list covering paint, doors, lighting, sanitary fixtures and cleaning. Separate repairs from final cleaning and record replacements. Compare bids by snag count and return visits; receive a signed inspection record with closure photographs.
+Property handover preparation begins with a numbered room-by-room snag register, with photographs, location and responsible party for each item. Separate operational tests of lighting, outlets, sanitary fittings and doors from final cleaning and debris removal; appearance alone does not prove operation. Compare quotations by snag count and return-inspection visits, then close each item with a dated test and photograph in the handover record.
 
 ### 8. Minor home maintenance
 
-Bundle small tasks into a photographed list with measurements and access notes. Identify jobs needing qualified electrical or plumbing work. Compare call-out charges and excluded materials; test each repair and record replaced parts.
+Bundle small household jobs into one documented schedule: a loose handle, hinge, sealant bead or shelf, with photographs, dimensions and access details. Exposed electrical faults and active leaks should not be treated as minor handyman tasks without specialist assessment. Compare call-out fees, minimum hours and materials separately. Receive a list of replaced parts and a functional check for each completed task.
 
 ### 9. Curtain installation
 
-Measure opening width, mounting height, substrate and curtain weight and track type. Compare fixings, load capacity and stack-back clearance; test movement and bracket stability without obstructing windows or AC.
+Before ordering a curtain track, measure the window width, side stack-back allowance and fixing height to the floor, and identify the ceiling type and fabric weight. Some tracks require additional supports or suitable plasterboard anchoring. Compare bracket design, fixing points and curtain opening direction. Test full travel and check clearance from air-conditioning units and window handles.
 
 ### 10. Shelf installation
 
-Specify shelf length, depth, expected load, wall construction and concealed services. Compare board, brackets and fixings; check before drilling. Accept level, stable shelving with a stated recommended load.
+A book shelf carries different loads from a lightweight display shelf. State its length, depth and expected contents, and photograph wall construction and nearby services. The quotation should specify board material and thickness, bracket count and anchors appropriate for concrete, blockwork or plasterboard. Check level, stability and surrounding clearances; request a recommended working load rather than an unsafe improvised load test.
 
 ### 11. TV mounting
 
-Record screen size, weight, mounting pattern, wall type and viewing height. Compare fixed and articulated brackets and safe cable routing; test fixing stability, movement and connector access.
+Record the television's weight, dimensions, VESA pattern, viewing position and candidate walls. An articulated arm places different leverage on fixings from a fixed bracket, so screen-size compatibility alone is insufficient. Agree cable routing and socket locations before drilling. At handover, check fixings, move the arm safely through its range and confirm access to ports.
 
 ### 12. Accessory installation
 
-List items, dimensions and positions on tile, plasterboard or timber, with photographs of drilling zones. Compare suitable anchors and sealants where needed; inspect alignment, secure fixing and undamaged finishes.
+In bathrooms and kitchens, photograph the intended positions of towel rails, soap holders and mirrors before drilling, noting tile, stone or timber substrates. Agree suitable fixings, protection against cracked edges and sealing of holes near wet areas where appropriate. Inspect alignment, security, intact cladding and the absence of water-trapping gaps.
 
 ### 13. Furniture assembly
 
-Supply model details, parts photographs, assembly manual, work area and access dimensions. Compare unit count, wall anchoring and packaging removal. Check door and drawer alignment, tight joints and a documented list of missing parts.
+Send photographs of cartons, model details, assembly instructions, part counts and lift or doorway dimensions for bulky items. Price assembly, wall anchoring, relocation of old furniture and packaging removal separately. At handover, operate drawers and doors, check level and tightened joints, and document any missing component or pre-existing damage.
 
 ### 14. Minor fault repairs
 
-Describe the fault, frequency and conditions with photographs or a short video, and flag safety concerns. Require diagnosis before part replacement and compare inspection and repair costs. Receive an operating test, cause explanation and warranty scope.
+Calling a fault 'minor' does not establish its cause or cost. Record when it occurs, whether it recurs after restarting and safe photographs or recordings of symptoms. The technician should separate diagnosis, parts and labour, and refer electrical hazards or active water leaks for appropriate specialist checks. Receive an operational test, identification of replaced components and an explanation of anything left unresolved.
 
 ## Requesting a quotation
 

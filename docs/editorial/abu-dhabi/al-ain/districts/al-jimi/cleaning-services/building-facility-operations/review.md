@@ -1,9 +1,9 @@
-# Review — تشغيل وصيانة المباني — Al Jimi
+# مراجعة تشغيل وصيانة المباني — الجيمي
 
-- Exact source companies/establishments specialty: **تشغيل وصيانة المباني**; individual craftsperson list excluded.
-- Coverage: 7 exact Arabic names and 7 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
+- المصدر: شجرة الشركات والمنشآت، قطاع التنظيف والتعقيم ومكافحة الحشرات؛ لا يشمل مسار المهنيين.
+- التغطية: 7 خدمات عربية و7 إنجليزية بنفس الترتيب والأسماء العربية الأصلية.
+- مراجعة تحريرية: لكل خدمة حالة استخدام وبيانات معاينة ونطاق واستثناءات ومقارنة وشروط استلام مختلفة؛ لا تُستخدم ادعاءات شهادات أو توفر مزود.
+- الحالة: مراجعة تخصص مكتملة؛ مراجعة المنطقة الشاملة لا تزال `in_progress`.
 
 1. إدارة أعمال الصيانة — Maintenance management
 2. تشغيل المرافق — Facility operations
@@ -12,3 +12,5 @@
 5. متابعة أنظمة التكييف — HVAC-system monitoring
 6. متابعة السباكة والصرف — Plumbing and drainage monitoring
 7. إعداد تقارير حالة المبنى — Building condition reporting
+
+[العربي](./content-ar.md) · [English](./content-en.md)

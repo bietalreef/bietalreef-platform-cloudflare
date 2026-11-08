@@ -1,63 +1,77 @@
 # Waterproofing and thermal insulation in Al Jimi
 
-For **waterproofing and thermal insulation** at an Al Jimi property, identify the actual fault and operating conditions first. Quotes are comparable only when contractors receive the same brief. Specialist work and safety systems may require qualified personnel and relevant approvals.
+Preparatory guidance for company and establishment quotations, not a claim of a listed provider, price or appointment. Hazardous specialist work requires qualified contractors and appropriate safety controls.
 
-## 1. عزل الأسطح
+## 1. Roof waterproofing
 
-**Start with the fault:** Ponding near roof outlets can undermine even a good membrane if drainage falls remain wrong. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When needed:** A leak or an aged membrane can justify work, but ponding around outlets may point to defective falls that a new membrane alone will not correct.
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Evidence and measurements:** Photograph the whole roof, drains, parapets, upstands and old layers; measure area and joint lengths and locate equipment.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Scope and exclusions:** Specify removal of failed layers, fall corrections, substrate preparation, membrane type and thickness, drain detailing and protection from traffic and sunlight. Structural concrete repairs and moving AC units are separate unless priced.
 
-## 2. عزل الحمامات
+**Quotes, agreement and acceptance:** Compare system warranty, measurement rules, corner details and waste removal. Agree a safe, suitable water test after checking loading and drainage, before covering the system; inspect the test record and the ceiling below.
 
-**The key decision:** Bathrooms need continuous waterproofing at corners and penetrations before tiling. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+## 2. Bathroom waterproofing
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**When needed:** A bathroom renovation or dampness below tiles may call for waterproofing, but first rule out supply-pipe or drainage leaks.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Evidence and measurements:** Share dimensions and photos showing the shower, toilet, drain, door threshold and wet wall zones.
 
-## 3. عزل الخزانات
+**Scope and exclusions:** Specify tile removal where necessary, drying, corner and pipe-penetration detailing, wall upstand heights and a membrane compatible with tile adhesive. Plumbing replacement, tiles and sanitaryware should be separately identified.
 
-**Before choosing a fix:** Tank lining must be suitable for intended water use and not compromise water safety. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Quotes, agreement and acceptance:** Compare curing time, protection from punctures and reinstatement cost. Require a safe ponding test before tiling and obtain concealed-work photographs, test results and confirmation of falls to the drain.
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+## 3. Water tank waterproofing
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**When needed:** Water loss or a damaged lining can warrant intervention, but check fittings and float valves before blaming the tank shell.
 
-## 4. العزل الحراري للمباني
+**Evidence and measurements:** Provide tank material, dimensions, approximate capacity, location, crack and fitting photos, and whether the water is potable.
 
-**Start with the fault:** Thermal insulation depends on roof/wall location and treatment of thermal bridges. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Scope and exclusions:** Require documented suitability of the lining for the water use and substrate, plus safe emptying, cleaning, drying and ventilation. Confined-space entry needs qualified personnel and safety controls; pumps and supply pipes are not automatically included.
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Quotes, agreement and acceptance:** Compare material suitability evidence, curing and hygiene arrangements, and return-to-service steps. Agree leak testing and cleaning before use, and obtain records without assuming an official certificate.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+## 4. Building thermal insulation
 
-## 5. عزل الجدران الخارجية
+**When needed:** High cooling demand or renovation may justify insulation, though thermal bridges and air leakage can also be responsible.
 
-**The key decision:** Exterior walls need a system addressing cracks and joints, not thick paint alone. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Evidence and measurements:** Supply roof and wall photographs, layer details if known, surface areas, openings, AC penetrations and sun exposure.
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Scope and exclusions:** Ask for declared thermal resistance, thickness, relevant density, continuity at edges and bridges, and fire and moisture detailing. AC repairs or window replacement are separate work.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes, agreement and acceptance:** Compare documented performance rather than thickness alone and compatibility with the roof assembly. Inspect fastening and gaps before closing and retain installation photos and product data.
 
-## 6. معالجة تسرب مياه الأمطار
+## 5. External wall waterproofing
 
-**Before choosing a fix:** Trace rain ingress at joints and outlets before covering an entire roof. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When needed:** Damp around facade cracks, joints or windows may originate outside, but concealed internal pipe leaks must also be considered.
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Evidence and measurements:** Photograph the facade overall and close-up; record orientation, height, crack and joint lengths, window edges and interior damp locations.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Scope and exclusions:** Specify crack treatment appropriate to its cause, cleaning, primer, coating or membrane system and window perimeter details. Access scaffolds, structural crack repair and replacement cladding require explicit pricing.
 
-## 7. صيانة أعمال العزل
+**Quotes, agreement and acceptance:** Compare joint movement tolerance, UV exposure and safe access cost. Agree a sample area and checks of adhesion, coverage and junctions; inspect for voids and untreated openings.
 
-**Start with the fault:** Local membrane failure may require a broader test before isolated patching. Prepare area and drain photos, previous dampness, dimensions and existing layers and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+## 6. Rainwater ingress repair
 
-**Written scope:** Specify substrate preparation, compatible membrane system, joints, upstands, protection and testing before covering works. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**When needed:** Moisture appearing only during rain may enter at window seals, blocked outlets or roof-wall junctions. Recoating an entire roof before tracing the path may waste money.
 
-**Acceptance:** Verify recorded tests, drain/wall details and protection of the completed system. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Evidence and measurements:** Record when staining occurs, photograph during and after rain, and mark water paths, outlets, penetrations and the affected area.
 
-## Request for quotation support
+**Scope and exclusions:** Price investigation of outlets and joints first, with controlled local spray testing only where safe, then the identified repair and specified reinstatement. Whole-facade and interior repairs are not assumed.
 
-Send the description, photos and measurements to Biet Al Reef customer service. We can help prepare a clear comparison-ready request and look for suitable companies; provider availability, timing and prices cannot be guaranteed.
+**Quotes, agreement and acceptance:** Compare how each contractor proposes to demonstrate the source, not just material brands. Agree responsibility for opening and reinstating finishes; record an appropriate retest, noting that final confirmation may await rainfall.
+
+## 7. Waterproofing maintenance
+
+**When needed:** Detached edges, punctures or failed protective layers may need maintenance; a patch is appropriate only if the remaining substrate and system are sound.
+
+**Evidence and measurements:** Share the installation date if known, old membrane type, defect photos, damaged area and adjacent areas exposed to traffic.
+
+**Scope and exclusions:** Require compatibility checks, defined opening and cleaning limits, new laps and protection. A local patch does not automatically renew the warranty for the whole roof or include interior damage repairs.
+
+**Quotes, agreement and acceptance:** Compare targeted repair with wider replacement and their risks and limited warranties. Agree a local test before covering and obtain photos of laps and a record of untreated areas.
+
+## Request a quotation
+
+Send photographs, dimensions, the issue and when it occurs to Biet Al Reef customer service for help preparing a comparable brief. Company availability, pricing and appointment dates are not guaranteed.

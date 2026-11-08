@@ -1,9 +1,7 @@
-# Review — تأجير الأدوات والمعدات الخفيفة — Al Jimi
+# مراجعة تأجير الأدوات والمعدات الخفيفة — الجيمي
 
-- Exact source company specialty: تأجير الأدوات والمعدات الخفيفة; status no live availability asserted.
-- Exact service headings: 7 Arabic and 7 English in matched taxonomy order.
-- Distinct task-specific consideration; site/weight/capacity inputs, quote inclusions/exclusions and acceptance checks per service.
-- No invented supplier, equipment inventory, hire rate, permissions, delivery date or activation.
+- الحالة: reviewed؛ 7 خدمات شركات مطابقة للشجرة، بسبعة أقسام عربية وإنجليزية متوازية.
+- لكل خدمة متطلبات تقنية مختلفة ونطاق واستثناءات وفحص استلام؛ لا أسعار أو موردين أو تفعيل مفترض.
 
 1. تأجير مولدات الكهرباء / Generator rental
 2. تأجير معدات التنظيف / Cleaning equipment rental

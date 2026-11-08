@@ -1,14 +1,15 @@
-# Review — العزل المائي والحراري — Al Jimi
+# مراجعة — العزل المائي والحراري — الجيمي
 
-- Company specialty: exact source name **العزل المائي والحراري**; separate craftsperson entries not used.
-- Source Arabic services covered 7/7; English headings 7/7 in source order.
-- Per-service diagnostic issue, required evidence, agreed specification, explicit inclusions/exclusions, comparison, testing and handover.
-- No published provider, regulatory approval, availability, rates or dates presumed.
+- الحالة: `editorially_revised`; المنطقة `in_progress`.
+- المصدر: تخصص الشركات «العزل المائي والحراري»، سبع خدمات بأسمائها العربية وترتيبها الأصلي، مع عناوين إنجليزية مترجمة وليست أسماء تخصصات إضافية.
+- عدد الخدمات: 7/7 عربي و7/7 إنجليزي.
+- لكل خدمة سبب مستقل، صور/مقاسات، نطاق واستثناءات، مقارنة وتعاقد وفحص استلام؛ لا نصوص عامة مكررة في أجسام الخدمات.
+- تنبيه: الخزانات والمناطق المحصورة والاختبارات والأعمال على ارتفاع تتطلب تدابير سلامة ومختصين. لا ادعاء بشركات منشورة أو موافقات أو أسعار.
 
-1. عزل الأسطح — عزل الأسطح
-2. عزل الحمامات — عزل الحمامات
-3. عزل الخزانات — عزل الخزانات
-4. العزل الحراري للمباني — العزل الحراري للمباني
-5. عزل الجدران الخارجية — عزل الجدران الخارجية
-6. معالجة تسرب مياه الأمطار — معالجة تسرب مياه الأمطار
-7. صيانة أعمال العزل — صيانة أعمال العزل
+1. عزل الأسطح — Roof waterproofing
+2. عزل الحمامات — Bathroom waterproofing
+3. عزل الخزانات — Water tank waterproofing
+4. العزل الحراري للمباني — Building thermal insulation
+5. عزل الجدران الخارجية — External wall waterproofing
+6. معالجة تسرب مياه الأمطار — Rainwater ingress repair
+7. صيانة أعمال العزل — Waterproofing maintenance

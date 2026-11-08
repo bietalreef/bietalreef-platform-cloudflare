@@ -13,6 +13,7 @@ test('every published company uses the same five tabs without a repeated name or
   for (const filename of [
     'components/provider/PublishedCompanyPresencePage.js',
     'components/provider/RehabPresencePage.js',
+    'components/provider/KawkabPresencePage.js',
     'components/provider/AlNaeemPresencePage.js',
   ]) {
     const source = get(filename);
@@ -26,6 +27,8 @@ test('mobile service images occupy their card media region and both contact acti
   const card = get('components/cards/DiscoveryEntityCard.js');
   assert.match(card, /object-cover object-center/);
   assert.doesNotMatch(card, /object-contain/);
+  const kawkabBar = get('components/provider/KawkabMobileContactBar.js');
+  assert.match(kawkabBar, /<CompanyContactBar/);
   const contacts = get('components/provider/CompanyContactBar.js');
   assert.match(contacts, /bg-\[#193b53\]/);
   assert.match(contacts, /<Phone/);
@@ -39,6 +42,8 @@ test('company information is shown before service cards', () => {
   const general = get('components/provider/PublishedCompanyPresencePage.js');
   assert.ok(general.indexOf("<Section title={t.about}") < general.indexOf("<Section title={t.services}"));
   assert.ok(general.indexOf("معلومات النشاط التجاري") < general.indexOf("<Section title={t.services}"));
+  const kawkab = get('components/provider/KawkabPresencePage.js');
+  assert.ok(kawkab.indexOf("نبذة عن الشركة") < kawkab.indexOf("<Services contextBase={contextBase} locale={lang} short/>"));
   const naeem = get('components/provider/AlNaeemPresencePage.js');
   assert.ok(naeem.indexOf("t.aboutTitle") < naeem.indexOf('<Segment kind="services"'));
 });

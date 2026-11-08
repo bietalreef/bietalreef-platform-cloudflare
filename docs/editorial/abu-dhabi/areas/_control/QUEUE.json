@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 91/105. GitHub readback verified 105 sequential service headings in both languages; next 92 دهان الفلل. 238 remain for originality review. No approval/deploy.",
+      "review_note": "Independent bilingual rewrite verified: interior-design 49/49, general-contracting 56/56, general-maintenance 105/105. Next building-materials service 1; 224 services remain in five sectors. 105 sequential maintenance headings verified in both languages; no editorial approval or deployment.",
       "editorial_progress": {
-        "sector": "general-maintenance",
-        "specialty": "الدهانات",
+        "sector": "building-materials",
+        "specialty": "",
         "rewritten_service_numbers": [
           1,
           2,
@@ -229,14 +229,28 @@
           88,
           89,
           90,
-          91
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105
         ],
-        "next_service_number": 92,
-        "remaining_in_sector": 14,
-        "sector_total": 105,
+        "next_service_number": 1,
+        "remaining_in_sector": 49,
+        "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 196,
-        "remaining_area_services_for_originality_review": 238,
+        "area_independently_rewritten": 210,
+        "remaining_area_services_for_originality_review": 224,
         "area_editorially_approved": false
       }
     },

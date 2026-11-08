@@ -1,65 +1,87 @@
 # Furniture manufacturing in Al Jimi
 
-For Al Jimi premises, take real measurements before choosing or commissioning furniture; “medium size” is not a specification. Confirm finish, stability, cleaning, transport and assembly responsibilities before comparing costs.
+Preparatory guidance for a currently non-selectable business category. This does not mean the category is active or a supplier is available.
 
-> **Category status:** non-selectable category; this preparatory content does not activate a category or prove a provider is available.
+## 1. Home furniture manufacturing
 
-## 1. Home furniture fabrication
+**Need and scope:** Identify the room, users and everyday use, including circulation clearances. Clarify whether design, fabrication, supply and fitting are included individually.
 
-Home furniture manufacture. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+**Photos and dimensions:** Provide room, doorway and lift photos plus space dimensions and socket locations. Confirm production measurements on site.
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Materials, comparison and agreement:** Compare frame and board grades, edge banding, hinges, upholstery and finish; itemize delivery. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Handover:** Check stability, flatness, drawers and clearances.
 
-## 2. Office furniture fabrication
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
 
-Office furniture manufacture. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+## 2. Office furniture manufacturing
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Need and scope:** Specify workstations, storage, cable routing and privacy requirements. Clarify whether design, fabrication, supply and fitting are included individually.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Photos and dimensions:** Measure office footprint, aisles and power and data outlets. Confirm production measurements on site.
 
-## 3. Hotel furniture fabrication
+**Materials, comparison and agreement:** Compare surface durability, cable access, desk heights, finishes and installation scheduling. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
 
-Hotel furniture manufacture. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+**Handover:** Check desk heights, stability, cable openings and unit alignment.
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+## 3. Hotel furniture manufacturing
 
-## 4. Restaurant furniture fabrication
+**Need and scope:** Repeated guest rooms benefit from a signed-off prototype and maintainable, durable finishes. Clarify whether design, fabrication, supply and fitting are included individually.
 
-Restaurant furniture manufacture. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+**Photos and dimensions:** Supply typical-room drawings, quantities, corridors and service-lift limits. Confirm production measurements on site.
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Materials, comparison and agreement:** Compare a prototype, wear resistance, applicable safety specifications, packaging and phased deliveries. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Handover:** Approve one sample room and inspect batch consistency against it.
 
-## 5. Custom furniture fabrication
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
 
-Custom furniture manufacture. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+## 4. Restaurant furniture manufacturing
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Need and scope:** Restaurant seating must tolerate frequent cleaning and heavy turnover. Clarify whether design, fabrication, supply and fitting are included individually.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Photos and dimensions:** Provide seat counts, table layout, service aisles and indoor or outdoor exposure. Confirm production measurements on site.
+
+**Materials, comparison and agreement:** Compare chair stability, stain and moisture resistance, replaceable parts and finish. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
+
+**Handover:** Test table leveling, seating comfort, sample cleaning and safe edges.
+
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
+
+## 5. Custom furniture manufacturing
+
+**Need and scope:** Begin with the furniture's function and space limits, not a reference image alone. Clarify whether design, fabrication, supply and fitting are included individually.
+
+**Photos and dimensions:** Provide sketches, inspiration photos, dimensions and door or window constraints. Confirm production measurements on site.
+
+**Materials, comparison and agreement:** Compare shop drawings, samples, material schedules, change approval and payment milestones. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
+
+**Handover:** Check finished dimensions, function and finish against approved drawings.
+
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
 
 ## 6. Furniture repair and refurbishment
 
-Furniture restoration and repair. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+**Need and scope:** Identify structural, hardware, fabric or finish damage and assess whether repair is worthwhile. Clarify whether design, fabrication, supply and fitting are included individually.
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Photos and dimensions:** Photograph damage in close-up and context; identify age and material if known. Confirm production measurements on site.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Materials, comparison and agreement:** Separate strengthening, replacement parts, upholstery, refinishing and transport; note visible limitations. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
+
+**Handover:** Test joints, drawers and seating; compare color and texture with the approved sample.
+
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.
 
 ## 7. Project furniture supply
 
-Project furniture supply. Send room, doorway and staircase photographs with finished dimensions and clarify whether the request is new fabrication, refurbishment or ready-made supply; floor levels and access dimensions may affect fit.
+**Need and scope:** Project supply needs a room-by-room schedule, staged delivery and clear installation responsibilities. Clarify whether design, fabrication, supply and fitting are included individually.
 
-**Exclusions and agreement:** Identify materials, frame, upholstery, hardware, approved drawings, quantity, delivery, assembly and change rules. Compare approved materials, item counts, delivery, defects policy and the written treatment of wall repairs or removal of old goods if required.
+**Photos and dimensions:** Provide a furniture schedule, site drawings and receiving readiness dates. Confirm production measurements on site.
 
-**Handover:** Inspect stability, edge finishing, sample match and operating mechanisms. Try seating, door/drawer operation or fabric movement as relevant, and photograph shortages or scratches before signing.
+**Materials, comparison and agreement:** Compare approved models, quantities, packaging, phased delivery, substitutions and transit damage terms. Require quantities, warranty, lead time, change terms and delivery responsibilities; electrical and building alterations are excluded unless specified.
 
-## Requesting a quotation
+**Handover:** Count items against the schedule, inspect condition and record shortages and defects.
 
-Share the photos, dimensions, item list and finish samples with Biet Al Reef customer service. We can help structure a comparable enquiry and look for potential providers, without guaranteeing a company, price or date. Restricted or proposed categories remain inactive unless separately enabled.
+**Quotation request:** Send specifications, photos, dimensions and quantities to Biet Al Reef customer service to prepare a request. No supplier, price or date is guaranteed.

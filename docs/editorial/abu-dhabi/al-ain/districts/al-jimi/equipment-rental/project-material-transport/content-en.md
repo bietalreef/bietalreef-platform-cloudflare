@@ -1,63 +1,91 @@
-# Construction materials and equipment transport in Al Jimi
+# Project materials and equipment transport in Al Jimi
 
-These notes help a customer prepare a company enquiry for Al Jimi, not identify available vendors. Transport, permits, insurance and checks depend on the actual load or equipment. Agree the specifications and responsibilities before accepting a quote.
+Practical company-service enquiry guidance for Al Jimi, not a directory of confirmed providers. Specify actual pickup and delivery access before requesting a quotation.
 
 ## 1. Construction materials transport
 
-Do not expose bagged cement to wet or dirty loose aggregates. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** For cement, blocks and aggregates, specify separate protection: bagged goods must stay dry and loose loads must be contained.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Send a material schedule, pallet counts, approximate weights and photos of turning space and the drop-off point; identify forklift access.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare covered versus flatbed transport, load restraint, separation and whether wrapping, loading and unloading are included.
+
+**Agreement and exclusions:** Agree trips, waiting limits, damaged-bag responsibility and redelivery charges; upper-floor lifting is not automatically included.
+
+**Acceptance checks:** Count delivered units against the delivery note and inspect for moisture, torn bags and spilled aggregate.
 
 ## 2. Timber transport
 
-Long panels need distributed support and protected ends. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** MDF, veneer sheets and long timber require level support, dry protection and edge padding during transport.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Provide the longest board dimensions, thicknesses, bundle count and photos of lifting points and dry storage access.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Ask about deck length, bearers, separators, straps and weather covers; compare protection and unloading, not mileage alone.
+
+**Agreement and exclusions:** Record who bears the cost of chipped edges or bent panels and whether the crew carries packs indoors or only to kerbside.
+
+**Acceptance checks:** Check flatness, dryness, veneer faces and corners, photographing damage before all packaging is removed.
 
 ## 3. Marble transport
 
-Slab racks and restraints are more important than crew size for stone transport. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** Stone slabs can crack when transported on unsuitable supports; the rack and restraint must suit each slab.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Share dimensions, thicknesses, slab count, estimated mass and photos of access and proposed lifting equipment.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare slab rack design, edge padding, separators and suitable lifting gear; clarify whether crane, labour and packing are included.
+
+**Agreement and exclusions:** Agree breakage and delay procedures and who handles steps or narrow corridors; do not assume any lifting setup is approved.
+
+**Acceptance checks:** Inspect slab identifiers, finish, edges and fractures under good light and reconcile quantities with the cutting schedule.
 
 ## 4. Machinery transport
 
-Weight, centre of gravity, fluids and detachable parts need recording before loading. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** Transporting a generator, compressor or excavator depends on weight, centre of gravity and removable attachments.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Give model, operating mass, dimensions, fuel condition, accessory list and access/ground photos.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare trailer rating, ramps, tie-down points and lifting plan; distinguish transport from dismantling, installation or commissioning.
+
+**Agreement and exclusions:** Assign responsibility for any required route permits, insurance, standby and surface protection; record condition before collection.
+
+**Acceptance checks:** Check bodywork, fittings, accessories, hour meters and leaks against the handover record.
 
 ## 5. Construction waste removal
 
-Separate ordinary rubble from waste needing special handling or authorised disposal. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** Separate rubble from timber, glass, coatings and any waste needing special handling; not every load is acceptable.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Send pile photos, estimated volume, waste types, skip location, truck access and permitted collection hours.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare skip capacity, trips, manual/mechanical loading, covering and authorised disposal charges; request disposal evidence where relevant.
+
+**Agreement and exclusions:** Agree segregated handling, cleanup of loading residue and who pays for rejected or incorrectly described loads.
+
+**Acceptance checks:** Check the agreed area is cleared and access roads are free of debris; retain available haulage or disposal records.
 
 ## 6. Project truck supply
 
-Agree trips, standby and gate slots to prevent idle time. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** For recurring site deliveries, truck scheduling and waiting time are central to the contract, not minor extras.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Provide load types, expected trips per day, gate windows, route distances and collection/drop-off points.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare per-trip, daily or shift rates, vehicle capacity, driver, fuel, tolls and standby allowances.
+
+**Agreement and exclusions:** Define dispatch confirmation, cancellation, delay limits, replacement procedure and load logs; no fleet availability is assumed.
+
+**Acceptance checks:** Reconcile trip sheets, gate times and delivery quantities before approving the period invoice.
 
 ## 7. Loading and unloading services
 
-State forklift, special rigging and safe access requirements. Before requesting prices, supply load dimensions, approximate weights and collection/delivery area photos; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+**When needed and scope:** Handling panels, machines or parcels requires assessing weights, travel paths and safe standing areas before staffing.
 
-**Quote and scope:** Confirm vehicle, restraints, lifting, loading/unloading, relevant permits, insurance and waiting charges. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Photos and measurements:** Send photos of pallets, unloading height, doorway widths, floors and stairs; unidentified weights should be checked first.
 
-**Acceptance:** Check counts, packaging, no transport damage and a cleared unloading area. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Comparing quotations:** Compare crew, forklift or handling aids, protective equipment, packing and floor protection; separate unloading from internal placement.
 
-## Quote support from Biet Al Reef
+**Agreement and exclusions:** Specify who provides suitable lifting equipment and controls the work zone, and how damage to goods or finishes is handled.
 
-Share an item/equipment inventory, measurements, access photos and proposed dates with Biet Al Reef customer service. We can help prepare a clear quotation request and look for a suitable company without guaranteeing availability, prices or timing.
+**Acceptance checks:** Count items after unloading, inspect corners and floors and confirm removal of agreed straps and packing waste.
+
+## Request a quotation
+
+Send a load inventory, approximate weights, site photos, proposed transport dates and handling requirements to Biet Al Reef customer service to prepare a clear enquiry. No company availability, price or date is guaranteed.

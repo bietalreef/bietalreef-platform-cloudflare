@@ -70,31 +70,31 @@ Provide the address, property type, clear photographs, task list, approximate di
 
 ### 15. Villa finishing
 
-Start with the condition of the structure and installed services, floor count, room schedule and wall and floor areas. Request a materials schedule identifying tile grades, paint systems, doors and sanitary fittings, plus inspections of waterproofing, plumbing and electrical work before ceilings and finishes are closed. Compare measured quantities, specifications and payment milestones; hand over each room against a snag list, photographs and functional tests.
+Villa finishing starts by defining the handover level: are the structure and services already complete, or is first-fix work included? Supply floor plans, room and bathroom areas, and choices for floors, ceilings, doors, paint and lighting points. Request measured quantities and specifications for each trade, with plumbing and electrical testing before ceilings or cladding are closed. Compare material supply, labour, waste allowances and warranties separately. At handover collect test records, concealed-work photographs and a signed defects list.
 
 ### 16. Apartment finishing
 
-Provide the apartment plan, floor area, building-management rules and permitted working hours, and identify existing finishes to retain. Separate demolition and waste removal from flooring, painting, kitchen and bathroom costs, including protection of lifts and corridors. At handover check wet-area falls, joints, doors, lighting and cleanliness of shared areas.
+Apartment finishing must account for work within the unit and protection of shared corridors and lifts. Provide room plans, ceiling heights and photographs of the existing kitchen and bathrooms; identify what will be removed and retained. Quotations should cover material and waste movement, wet-area waterproofing and transitions between new floors and door thresholds. Inspect bathroom falls, joints, socket operation and lighting before accepting the work.
 
 ### 17. Retail-shop finishing
 
-Specify the business use, sales and storage areas, display positions and power and data outlets, with an existing-condition plan and landlord requirements. Obtain shopfront, counter, ceiling and lighting shop drawings before pricing. Compare materials, lead times and tests, and inspect dimensions, finish quality and access to concealed services.
+A shop described as 'ready to open' still needs a precise fit-out scope. State the intended use, sales and storage areas, power points, lighting, cooling and signage positions. Ask for a layout and durable surface specifications, and identify façade or specialist-system work as separate responsibilities. Compare contractors against identical drawings and quantities. Test the fitted equipment and record defects at handover; do not assume any regulatory approval has been obtained.
 
 ### 18. Office finishing
 
-Staff numbers, meeting rooms and circulation determine partitioning and service locations. Supply a furniture layout and power and network point schedule, with acoustic partition requirements where needed. Compare partitions, flooring, ceilings, lighting and data as distinct items; test outlets, lighting and doors before acceptance.
+Office finishing should coordinate workstation layouts with data, power, lighting, acoustics and ventilation. Provide staff numbers, meeting-room plans, printer and server positions, and permitted working windows. Request floor and partition samples, door performance details and a testing sequence for circuits and network points before furniture installation. At handover test actual workstations and check that service and maintenance access remains clear.
 
 ### 19. Interior-space refurbishment
 
-Photograph the current space, identify elements to retain and explain whether damage or poor layout drives the change. Quotations should separate stripping, protection, substrate repair and new finishes and describe any electrical or plumbing alterations. Approve physical colour and material samples, then inspect junctions between materials and final dimensions.
+For an occupied interior refurbishment, separate removal and protection from repairs and new finishes. Photograph existing surfaces, record cracks, moisture and floor levels, and identify rooms that must remain usable. Compare the cost of treating hidden defects with cosmetic replacement alone. Agree on real colour and material samples, then inspect edges, doors and final cleanliness after protective screens are removed.
 
 ### 20. Decorative fit-out work
 
-Supply a dimensioned drawing or reference board showing cladding, battens and concealed lighting. Compare thickness, fixing method, maintenance access and moisture suitability rather than appearance alone. Check straight lines, corners, joints, secure fixing and lighting performance after installation.
+Decorative fit-out needs more than a reference photograph. Start with a dimensioned drawing showing wall build-ups, finished depths, lighting, switches and air-conditioning access. Choose materials for the room's use, moisture exposure and cleaning needs, and require fixing details for edges, corners and removable service panels. Compare physical samples and shop drawings. Check joint alignment, colour consistency, secure fixing and lighting operation at handover.
 
 ### 21. Integrated finishing handover
 
-This is inspection and closure of outstanding work, not a synonym for undertaking the entire fit-out. Request a room-by-room register of completed and outstanding items, test results, warranties and material records. Verify remedial photographs and repeat tests, then record accepted items and exceptions in writing before closing the project.
+Integrated finishing handover is a documented inspection, not simply a cleaned site and a set of keys. Request a contract-linked checklist, waterproofing, electrical and plumbing test records, product warranties and operating manuals. Inspect every room in daylight and artificial light, operate doors, drains and sockets, and log defects with photographs and rectification dates. Close the record only after reinspection of corrected items and written agreement on exceptions.
 
 ## Gypsum and decorative work
 

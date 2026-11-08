@@ -290,3 +290,9 @@
 - الحالة `in_progress`؛ اكتملت إعادة تحرير **30 من 50 تخصصًا** باللغتين؛ يتبقى **20 تخصصًا** ومراجعة جميع الخدمات الـ434 بكل لغة.
 - أُعيد تحرير الخدمات السبع في تشكيل الحديد والمعادن وفق الشجرة، مع متطلبات مستقلة للتصنيع والقياسات والمواصفات والسلامة والاستلام: [العربية](./aluminium-glass/metal-fabrication/content-ar.md) · [English](./aluminium-glass/metal-fabrication/content-en.md) · [المراجعة](./aluminium-glass/metal-fabrication/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub بعد الحفظ وتطابقت.
 - **أول نقص تالٍ:** قطاع `furniture-decor` بدءًا من أول تخصص وفق شجرة الشركات، ثم قطاع `equipment-rental`، ثم `cleaning-services`؛ يلزم التحقق من أسماء مجلدات التخصصات وخدماتها قبل التحرير. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث تصنيع الأثاث — 2026-11-08
+
+- الحالة `in_progress`؛ **31 من 50 تخصصًا** أعيد تحريرها بالعربية والإنجليزية، ويتبقى **19 تخصصًا** ثم تدقيق جميع خدمات المنطقة.
+- أُعيد تحرير خدمات تصنيع الأثاث السبع، مع توضيح أن التخصص غير قابل للاختيار حاليًا: [العربي](./furniture-decor/furniture-manufacturing/content-ar.md) · [English](./furniture-decor/furniture-manufacturing/content-en.md) · [المراجعة](./furniture-decor/furniture-manufacturing/review.md). أُعيدت قراءة الملفات بعد الحفظ.
+- **أول نقص تالٍ:** `furniture-decor/furniture-shops/content-ar.md` ثم `content-en.md` و`review.md`؛ بعده `furniture-decor/majlis-upholstery` ثم `furniture-decor/curtains-carpets-furnishings`، ثم القطاعات المتبقية. لا تبدأ المويجعي قبل اكتمال الجيمي.

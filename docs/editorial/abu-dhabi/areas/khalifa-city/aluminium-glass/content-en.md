@@ -235,33 +235,31 @@ Start façade maintenance by identifying the symptom: rain penetration, condensa
 
 ### 50. Steel door fabrication
 
-Measure door opening, weight, hinge and lock positions and corrosion exposure. Compare metal gauge, coating and anchors; inspect flatness and functional locks.
+For a steel door, begin with the clear opening, swing direction and estimated leaf weight, supported by photographs of the wall, threshold, lock and hinge positions. State whether the door is exposed outdoors or serves an internal utility room. Request a fabrication drawing specifying steel sections, reinforcement, welds and corrosion-protection layers. Compare fabrication, coating, delivery, installation and making-good as separate items; 'heavy steel' is not a measurable specification. At handover check leaf alignment, consistent clearances, smooth locking, secure hinges and finished weld areas.
 
 ### 51. Steel balustrade fabrication
 
-Define guard lengths, heights, corner geometry, base fixings and users. Compare member sizes, joints and finish; inspect the full length for stability.
+A metal railing must be specified for its location: stairs, corridor or balcony, as a protective barrier has different duties from a simple wall-mounted handrail. Provide route lengths, stair levels, substrate photographs and fixing locations. Have a competent designer define applicable height, spacing, sections and load requirements. Compare drawings, anchors, weld details and corrosion-resistant finish rather than a metre rate alone. At handover check edges, alignment, fixing records and required verification; pushing the rail by hand is not an engineering load test.
 
 ### 52. Steel shade fabrication
 
-Measure vehicle envelope, traffic routes, post positions, wind and rain drainage. Compare steel sections, footings and covering; inspect secure anchorage and runoff.
+For a steel gate, establish vehicle clearance, manoeuvring room, ground slope, pier locations and opening direction. A sliding gate needs a different track and foundation arrangement from a hinged one. Supply photographs and levels, and specify any motor, electric lock or pedestrian wicket. Ask for drawings covering frame reinforcement, hinges or rollers, stops and pinch-point protection. Compare foundations, wiring, coating, installation and commissioning. At handover test manual and powered operation where provided, including stops and safety sensors in accordance with the selected system.
 
 ### 53. Structural steelwork execution
 
-Define structural function, spans, loads, approved drawings and lifting access. Obtain engineered connection details and shop drawings; inspect geometry, joints and corrosion protection.
+Steelwork may form a lightweight canopy, platform or equipment-support frame; a photograph alone cannot establish the structural requirements. Supply intended use, dimensions, loads and connections to existing construction. Have a qualified professional specify members, joints, foundations, corrosion protection and erection method. Compare bids using approved drawings, quantities, lifting procedures and inspections, identifying concrete or electrical work separately. At handover inspect anchor positions, alignment, weld and coating records and the checks called for by the design.
 
 ### 54. Stainless-steel fabrication
 
-Identify stainless grade, finish, cleaning exposure and piece dimensions. Compare weld preparation, grinding and finish; inspect smooth joins, safe edges and no surface staining.
+Define a metal fence by its measured boundary runs, gates, levels and intended function, distinguishing decorative screening from a protective barrier. Photograph existing footings, walls and nearby services. Request drawings showing height, post spacing, sections and anchors. Compare post and gate counts, protective finish and any excluded excavation or making-good, not just total length. At handover check alignment, post fixings, welds, paint coverage and gate movement. Where property boundaries or permissions are relevant, confirm them with the appropriate professional or authority.
 
 ### 55. Metal welding services
 
-Record metal type, thickness, defect and whether the weld is structural or a non-load-bearing repair. Compare welding procedure, preparation, fire protection and inspection; check for cracking or distortion.
+For metal gate or railing repairs, photograph rust, cracking, failed welds, sagging and rubbing from both close and wider views. Establish whether the defect is cosmetic or affects safety or operation. A useful quote diagnoses the cause and assesses whether repair is safe, rather than proposing paint over deterioration. Compare removal of damaged material, rewelding or replacement, corrosion treatment and protection of adjacent finishes. At handover inspect repaired locations and operation, recording any requirement for independent structural assessment before use resumes.
 
 ### 56. Metalwork maintenance
 
-Photograph rust, distortion, failed hinges and weld damage, noting hazards. Compare repair, reinforcement and renewal for safety and cost; test function and coating after work.
-
-
+Steel cutting and welding starts with metal grade, thickness, cut lengths, joint geometry and dimensional tolerances. Supply a drawing or sample showing holes and angles, and identify whether the part is load-bearing or an accessory. Structural parts need specifications and inspection procedures determined by a competent professional. Compare edge preparation, welding process, finish, transport and restoration of corrosion protection after welding. At handover measure dimensions, inspect edges and joint appearance and remove sharp burrs; appearance alone does not prove the strength of a structural weld.
 
 ## Workshop fabrication quotation brief
 

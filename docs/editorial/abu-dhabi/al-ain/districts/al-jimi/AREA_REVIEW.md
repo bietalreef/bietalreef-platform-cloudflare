@@ -332,3 +332,11 @@
 - **مصانع الألمنيوم والزجاج** (غير قابل للاختيار): 7 خدمات عربية و7 إنجليزية، محتوى مخصص للقياسات والمواصفات والمقارنة والاستلام: [العربية](./equipment-rental/aluminium-glass-factories/content-ar.md) · [English](./equipment-rental/aluminium-glass-factories/content-en.md) · [المراجعة](./equipment-rental/aluminium-glass-factories/review.md). أُعيدت قراءة الملفات الثلاثة وتطابقت.
 - **مصانع الرخام والحجر** (غير قابل للاختيار): 7 خدمات عربية و7 إنجليزية، محتوى مخصص للتصنيع والقص والتشطيب والاستلام: [العربية](./equipment-rental/marble-stone-factories/content-ar.md) · [English](./equipment-rental/marble-stone-factories/content-en.md) · [المراجعة](./equipment-rental/marble-stone-factories/review.md). أُعيدت قراءة الملفات الثلاثة وتطابقت.
 - **أول نقص دقيق:** `equipment-rental/tools-equipment-stores/content-ar.md` ثم `content-en.md` و`review.md`، يليها `property-moving` و`project-material-transport` و`concrete-block-factories`، ثم تخصصات `cleaning-services` الثمانية. الملفات الموجودة مسبقًا لا تُحتسب محررة دون إعادة تدقيق. لا يبدأ المويجعي قبل إكمال الجيمي ومراجعتها.
+
+
+## تحديث متاجر الأدوات والمعدات ونقل الأثاث والممتلكات — 2026-11-08
+
+- الحالة: `in_progress`؛ **40 من 50 تخصصًا** أعيد تحريرها باللغتين، والمتبقي **10 تخصصات** ثم التدقيق النهائي لـ434 خدمة بكل لغة. هذه أحدث نقطة استئناف؛ السجلات السابقة تاريخية.
+- **متاجر الأدوات والمعدات** (غير قابل للاختيار حاليًا): 7 خدمات عربية و7 إنجليزية؛ [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) · [English](./equipment-rental/tools-equipment-stores/content-en.md) · [المراجعة](./equipment-rental/tools-equipment-stores/review.md). تمت إعادة قراءة الملفات الثلاثة بعد الرفع.
+- **نقل الأثاث والممتلكات**: 7 خدمات عربية و7 إنجليزية؛ [العربية](./equipment-rental/property-moving/content-ar.md) · [English](./equipment-rental/property-moving/content-en.md) · [المراجعة](./equipment-rental/property-moving/review.md). تمت إعادة قراءة الملفات الثلاثة بعد الرفع.
+- **أول نقص دقيق:** `equipment-rental/project-material-transport/content-ar.md` ثم `content-en.md` و`review.md`؛ يليه `equipment-rental/concrete-block-factories` ثم جميع تخصصات `cleaning-services` الثمانية. تحقق من أسماء المسارات والخدمات وحالة التفعيل قبل التحرير. لا تبدأ المويجعي قبل مراجعة الجيمي بالكامل.

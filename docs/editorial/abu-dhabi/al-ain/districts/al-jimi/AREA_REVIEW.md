@@ -310,3 +310,10 @@
 - الحالة: `in_progress`؛ **34 من 50 تخصصًا** خضعت للتحرير الثنائي، ويتبقى **16 تخصصًا** والمراجعة النهائية لكل الخدمات الـ434 في كل لغة. السجلات السابقة تاريخية ولا تمثل نقطة الاستئناف.
 - تخصص **الستائر والسجاد والمفروشات** (جديد مقترح، غير مفعل): 5 خدمات مطابقة للشجرة باللغتين. [العربية](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [English](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [المراجعة](./furniture-decor/curtains-carpets-furnishings/review.md). تمت إعادة قراءة ملف الإنجليزية والمراجعة بعد الحفظ، وفُحصت العربية الموجودة على الفرع.
 - **أول نقص تالٍ:** `equipment-rental/construction-lifting-equipment/content-ar.md` ثم `content-en.md` و`review.md`؛ الخدمات السبع تحتاج تحريرًا يزيل التكرار ويخصص شروط السلامة والاستلام لكل معدة. بعدها بقية تخصصات `equipment-rental` السبعة، ثم تخصصات `cleaning-services` الثمانية. يلزم التحقق من المسارات وأسماء الخدمات حرفيًا قبل كل تعديل. لا يبدأ المويجعي قبل اكتمال الجيمي وتدقيقها.
+
+
+## تحديث تأجير معدات البناء والرفع — 2026-11-08
+
+- الحالة: `in_progress`؛ **35 من 50 تخصصًا** أعيد تحريرها باللغتين؛ يتبقى **15 تخصصًا** ثم مراجعة الـ434 خدمة لكل لغة. لا يبدأ المويجعي.
+- أُعيدت كتابة الخدمات السبع وفق الشجرة دون فقرات نمطية، مع تفاصيل المعدات والنقل والسلامة وحدود الإيجار والاستلام: [العربية](./equipment-rental/construction-lifting-equipment/content-ar.md) · [English](./equipment-rental/construction-lifting-equipment/content-en.md) · [المراجعة](./equipment-rental/construction-lifting-equipment/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتطابقت.
+- **أول نقص تالٍ:** `equipment-rental/light-tools-equipment/content-ar.md` (تحقق من slug)، ثم `content-en.md` و`review.md`؛ بعده مصانع الألمنيوم والزجاج، مصانع الرخام والحجر، متاجر الأدوات والمعدات، نقل الأثاث والممتلكات، نقل مواد ومعدات المشاريع، مصانع الخرسانة والطابوق والمنتجات الأسمنتية؛ ثم تخصصات `cleaning-services` الثمانية. لا تُحتسب الملفات القديمة المحشوة بالتكرار محررة.

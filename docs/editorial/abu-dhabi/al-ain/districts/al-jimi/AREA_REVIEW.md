@@ -230,3 +230,9 @@
 - غُطيت الخدمات الأربع عشرة حرفيًا من شجرة الشركات، بالعربية والإنجليزية، مع متطلبات خاصة لكل خدمة في الصور والقياسات والأجهزة والموافقات والنطاق والاستثناءات والمقارنة والاستلام وطلب عرض السعر.
 - ملفات تم تحديثها والتحقق من إعادة قراءتها: [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [المراجعة](./general-maintenance/smart-systems-surveillance/review.md).
 - **أول نقص تالٍ:** `general-maintenance/painting/content-ar.md` بعد التحقق من مسار التخصص الفعلي، ثم `content-en.md` و`review.md`، وبعدها `general-maintenance/waterproofing-thermal-insulation` (تحقق من slug) ثم بقية القطاعات. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث تحرير الدهانات — 2026-11-08
+
+- الحالة `in_progress`: **19 من 50 تخصصًا** محررًا باللغتين، ويتبقى **31 تخصصًا** ثم تدقيق جميع الخدمات الـ434 بكل لغة.
+- أُعيد تحرير خدمات الدهانات السبع: [العربية](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [المراجعة](./general-maintenance/painting/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق منها.
+- **أول نقص تالٍ:** تخصص **العزل المائي والحراري** في قطاع `general-maintenance`، بدءًا من `content-ar.md` ثم `content-en.md` و`review.md` بعد التحقق من slug الفعلي؛ ثم مواد البناء والتوريد وبقية القطاعات. الجيمي غير مكتملة ولا يبدأ المويجعي.

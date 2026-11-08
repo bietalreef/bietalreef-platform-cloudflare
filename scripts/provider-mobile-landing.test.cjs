@@ -19,7 +19,7 @@ test('every published company uses the same five tabs without a repeated name or
     const source = get(filename);
     assert.match(source, /<CompanyPageNav\b/);
     assert.match(source, /id="company-posts"/);
-    assert.match(source, /<CompanyContactBar\b/);
+    assert.match(source, /<(?:CompanyContactBar|KawkabMobileContactBar)\b/);
   }
 });
 

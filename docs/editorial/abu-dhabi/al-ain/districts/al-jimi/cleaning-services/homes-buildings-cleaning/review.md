@@ -1,14 +1,11 @@
-# Review — تنظيف المنازل والمباني — Al Jimi
+# Editorial review — تنظيف المنازل والمباني — Al Jimi
 
-- Exact source companies/establishments specialty: **تنظيف المنازل والمباني**; individual craftsperson list excluded.
-- Coverage: 7 exact Arabic names and 7 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
+Seven company services in exact source order; both language versions include distinct practical requirements, exclusions, quote comparisons and acceptance checks. No company, price, booking or licence claimed. Area remains `in_progress`.
 
-1. تنظيف الفلل — Villa cleaning
-2. تنظيف الشقق — Apartment cleaning
-3. تنظيف المكاتب — Office cleaning
-4. تنظيف المباني — Whole-building cleaning
-5. التنظيف بعد التشطيب — Post-construction cleaning
-6. التنظيف قبل الانتقال — Pre-move-in cleaning
-7. عقود التنظيف الدورية — Recurring cleaning contracts
+1. تنظيف الفلل / Villa cleaning
+2. تنظيف الشقق / Apartment cleaning
+3. تنظيف المكاتب / Office cleaning
+4. تنظيف المباني / Building common-area cleaning
+5. التنظيف بعد التشطيب / Post-fit-out cleaning
+6. التنظيف قبل الانتقال / Pre-move-in cleaning
+7. عقود التنظيف الدورية / Recurring cleaning contracts

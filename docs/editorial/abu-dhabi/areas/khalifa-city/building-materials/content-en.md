@@ -66,31 +66,31 @@ For plumbing supplies, separate potable water, drainage and irrigation systems b
 
 ### 15. Building-material retail
 
-Bring a measurable shopping list with unit, brand or grade, size and reference code. Compare returns, delivery charges and collection terms; approve substitutions in writing.
+For building-material purchases from a shop or yard, prepare a separate list of what the contractor needs for the current phase rather than an open-ended loading order. Record the selling unit for each item—bag, tonne, cubic metre or piece—along with grade, dimensions, quantity and intended use date. Separate moisture-sensitive products from materials suitable for outdoor storage, and ask whether deliveries can be split. Compare the effective unit price after transport, loading and returns; require written approval for any brand or grade substitution. On arrival, count items against the invoice, inspect markings and packaging, and photograph shortages or damage before signing an unconditional receipt.
 
 ### 16. Sanitary ware retail
 
-Take bathroom dimensions, drainage centres and water-connection measurements when buying fixtures. Compare fit, colours and mounting kits; inspect packaged small parts at receipt.
+Buying bathroom or kitchen fixtures requires more than selecting a finish. Bring a simple sketch showing basin or toilet dimensions, drain positions, water connections and clearance for doors and cabinets. For wall-hung toilets or concealed mixers, confirm that the support frame, in-wall body and service parts are compatible and included where necessary. Request model numbers, finish references and a packing list for each box. Compare warranty terms, spare-part availability, delivery fees and returns for opened packages. Inspect ceramic surfaces for cracks and plated finishes for scratches, and count seals and fasteners at receipt. Leak testing belongs to the installation stage, not the shop counter.
 
 ### 17. Electrical supplies retail
 
-Bring product numbers, appliance ratings and photographs of the existing breaker or outlet. Compare genuine electrical ratings and suitability; verify legible markings before installation.
+When buying outlets, switches, breakers or luminaires, use a schedule checked by a qualified electrician showing operating voltage, ratings, cable sizes, mounting arrangements and indoor or outdoor conditions. A photo of an old breaker can identify a model but does not establish a safe replacement rating or compatibility with a distribution board. Ask for exact part numbers, technical sheets and warranty terms. Compare quotations that include frames, boxes and accessories against those covering the main component alone. Check printed ratings, insulation condition and packaging on delivery, and set aside any mismatch for technical review rather than energising it as a sales check.
 
 ### 18. Plumbing supplies retail
 
-Choose plumbing fittings by diameter, pipe material and service conditions rather than appearance. Compare seals, joining compounds and installation needs; trial-fit components before service.
+For pipes, valves and fittings needed for a repair or new connection, photograph the existing component beside a ruler and record the actual outside diameter and material: nominal pipe sizes can be misleading. Distinguish drinking-water, drainage and irrigation components and request fittings compatible with the specified joining method. Compare the full assembly cost, including seals, adaptors, valves, joining consumables and tools, rather than the pipe price alone. Before leaving the store, check threads, dimensions and gasket condition; retain a sample fitting when practical. A dry trial fit does not replace pressure or leak testing after installation.
 
 ### 19. Paint retail
 
-Identify interior/exterior use, exposure, coating system and sheen. Compare pack size, spreading rate and batch matching; retain a colour reference for later touch-ups.
+Before buying paint, establish whether the substrate is new plaster, previously coated masonry, timber or metal, and whether it is indoors or outdoors. Measure wall and ceiling areas, deduct substantial openings, and record coats, colour codes and sheen. Review the manufacturer's coverage guidance against the substrate's absorbency. Compare a complete compatible primer, filler and finish system rather than tin prices alone, including drying and recoat intervals. Check expiry dates, batch numbers, tinting codes and seals when collecting the paint; retain a labelled sample for future repairs. A phone photograph alone cannot establish an exact dried colour match.
 
 ### 20. Waterproofing products retail
 
-Choose by leak location, substrate moisture and water pressure direction. Compare primer, membrane protection and curing period; do not rely on a generic 'waterproof' label.
+Waterproofing products must be selected for their actual location: beneath bathroom tiles, on an exposed roof, inside a tank or around a construction joint. Tell the supplier the substrate type, area, moisture condition and whether standing water or hydrostatic pressure is involved. Liquid coatings, cementitious systems and sheet membranes are not automatically interchangeable. Request the complete system specification, including primer, corner reinforcement, protection layer, finish compatibility, curing times and storage instructions. Compare the installed-area material requirement rather than container price alone, and inspect sealed packs and dates. Flood or watertightness tests remain part of the appropriate installation process, not proof supplied by a retail sale.
 
 ### 21. Site materials delivery
 
-Specify each load, weight, unloading point, access permission and site hours. Compare crane versus manual unloading and freight responsibilities; count pallets and inspect packaging on the receipt.
+Site delivery is a separate service from selling the materials. Before booking a vehicle, provide item dimensions, weights, long-piece lengths and pallet counts, plus the site address, truck entrance, unloading point and required floor. Establish who supplies labour or lifting equipment, whether the proposed delivery window is permitted and how weather-sensitive goods will be protected while waiting. Compare haulage quotations by load, trips, waiting time, lifting charges and returns; agree responsibility for breakage and shortages before dispatch. Count pallets and packages on arrival, photograph visible damage and note discrepancies on the delivery document before signing.
 
 ## Timber and sheet goods
 

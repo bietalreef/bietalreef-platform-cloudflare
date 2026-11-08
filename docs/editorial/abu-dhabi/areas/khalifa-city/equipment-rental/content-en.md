@@ -10,31 +10,31 @@ Compare hire, fabrication and haulage based on duties, quantities, access, dates
 
 ### 1. Scaffolding hire
 
-Specify working height, façade length, ground bearing and safe ladder access. Compare hire days, erection, inspection, guardrails and dismantling; require pre-use checks.
+Scaffolding hire should not be priced solely by the number of frames. Provide façade photographs, working height, length and access points, and specify whether the task is painting, cladding or repair. Establish who plans, erects and inspects the scaffold, how bases are supported and how edges and residents' routes are protected. Compare hire duration, transport, erection, alterations and dismantling; require a documented pre-use inspection of platforms and guardrails.
 
 ### 2. Crane hire
 
-Record load weight, dimensions, lifting radius, boom route, ground and obstructions. Compare crane capacity, operator, lifting plan and waiting terms; request inspection records.
+For lifting an AC unit or heavy panels, obtain a reliable load weight, dimensions, centre of gravity, landing position and horizontal lifting radius. Photograph access, standing ground, overhead cables and other obstacles. The crane must be assessed against its capacity at the actual radius, not its advertised maximum. Compare operator, rigging, lift planning and waiting charges, and verify inspection records and any site-specific permissions before lifting.
 
 ### 3. Excavator hire
 
-Calculate excavation volume, depth, soil, machine access and buried utilities. Compare excavator size, attachments, mobilization, fuel and operator; inspect agreed levels and site condition.
+An excavator for foundations or service trenches needs a plan showing length, width, depth, access and spoil-storage location. Never assume the ground is clear of buried cables or pipes; existing utilities and protective measures must be checked first. Compare machine size, attachments, spoil removal, operator, fuel and mobilisation. Survey completed levels and boundaries and record damage outside the agreed excavation.
 
 ### 4. Compaction plant hire
 
-Define filled area, lift thickness, target compaction and roller or plate access. Compare machine type, test provisions and transport; confirm compacted layers against project criteria.
+A plate compactor for a narrow trench is not interchangeable with a roller for an open area. Specify fill material, layer thickness, working area and proximity to walls or buried services. Ask the project engineer to define the compaction criteria and any required testing rather than assuming a fixed number of passes. Compare machine access, fuel, operator and transport, and accept documented test results where specified.
 
 ### 5. Concrete mixer hire
 
-Identify small pour volumes, frequency, power or fuel and mixing location. Compare drum capacity, output rate, cleaning and loading; check guards and operation on delivery.
+A hired mixer can suit limited batches of mortar or concrete once volumes and mixing requirements are defined; it is not automatically a substitute for specified ready-mix structural concrete. State batch size, water and power supply, discharge location and washout arrangements. Compare drum capacity, cycle time, delivery, fuel and cleaning obligations. Check guards, drum condition and operation before accepting the machine.
 
 ### 6. Concrete cutting equipment hire
 
-State hole diameters or cut length, concrete thickness and concealed steel/services. Compare cutter capacity, water cooling, slurry collection and noise; obtain structural review for load-bearing elements.
+For concrete cutting equipment, distinguish a chased groove, circular core and full-depth saw cut, and supply the element thickness, dimensions and access points. Reinforcement and concealed services must be assessed, with structural implications reviewed where necessary, before cutting. Compare cutter capacity, blade type, cooling, slurry capture and site protection. Check final dimensions, edges and waste removal at handover.
 
 ### 7. Project equipment hire
 
-Create a plant list by task, hire duration, power or fuel and storage. Compare rental, operator, transport, insurance and breakdown terms; record serial numbers and condition.
+For equipment hired across several project phases, maintain a plant schedule linking each item to its task, arrival and return dates, power or fuel requirements and storage area. Compare daily or monthly hire separately from transport, operator, insurance, servicing and breakdown downtime. Photograph serial numbers, condition, meter hours and accessories on delivery; agree how faults and returns will be recorded to prevent billing disputes.
 
 ## Small equipment and tool hire
 

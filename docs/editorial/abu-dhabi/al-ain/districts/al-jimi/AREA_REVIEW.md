@@ -254,3 +254,9 @@
 - الحالة `in_progress`: **22 من 50 تخصصًا** محررًا بالعربية والإنجليزية، ويتبقى **28 تخصصًا** ثم مراجعة المنطقة النهائية.
 - تمت إعادة كتابة 7 خدمات بكل لغة: [العربية](./building-materials/timber-panels/content-ar.md) · [English](./building-materials/timber-panels/content-en.md) · [المراجعة](./building-materials/timber-panels/review.md).
 - **أول نقص تالٍ:** تخصص `building-materials/marble-granite` (التحقق من slug)، بدءًا من `content-ar.md` ثم الإنجليزية والمراجعة؛ بعده أسطح المطابخ والمغاسل والسيراميك والبورسلان ثم بقية القطاعات. لا يبدأ المويجعي.
+
+## تحديث الرخام والجرانيت — 2026-11-08
+
+- الحالة `in_progress`: **23 من 50 تخصصًا** محررًا باللغتين؛ يتبقى **27 تخصصًا** ثم تدقيق المنطقة النهائي.
+- سبع خدمات لكل لغة مع نطاق وفحص مخصص: [العربي](./building-materials/marble-granite/content-ar.md) · [English](./building-materials/marble-granite/content-en.md) · [المراجعة](./building-materials/marble-granite/review.md).
+- **أول نقص تالٍ:** `building-materials/kitchen-countertops-basins` (تحقق من slug)، بدءًا من `content-ar.md` ثم الإنجليزية والمراجعة؛ وبعده السيراميك والبورسلان، ثم القطاعات المتبقية. الجيمي غير مكتملة.

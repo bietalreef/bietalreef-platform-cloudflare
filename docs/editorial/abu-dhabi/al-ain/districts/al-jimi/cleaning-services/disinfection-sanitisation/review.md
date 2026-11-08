@@ -1,9 +1,8 @@
-# Review — التطهير والتعقيم — Al Jimi
+# مراجعة التطهير والتعقيم — الجيمي
 
-- Exact source companies/establishments specialty: **التطهير والتعقيم**; individual craftsperson list excluded.
-- Coverage: 2 exact Arabic names and 2 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
-
-1. رش وتعقيم المنازل — Home disinfection service
-2. تعقيم المكاتب والمنشآت — Office and facility disinfection
+- الحالة: مراجعة تخصص مكتملة، ومراجعة المنطقة الشاملة ما زالت `in_progress`.
+- المصدر: `_control/TAXONOMY_SOURCE_AR.md`، قائمة الشركات والمنشآت.
+- عدد الخدمات: 2 عربية و2 إنجليزية، بالأسماء والترتيب الأصليين: رش وتعقيم المنازل؛ تعقيم المكاتب والمنشآت.
+- فُصلت متطلبات المنازل عن المكاتب في الصور والمقاسات والنطاق والاستثناءات ومقارنة العروض وبنود الاتفاق والاستلام.
+- لا ادعاء بفعالية صحية مطلقة أو شهادة تلقائية أو توفر شركة أو سعر أو موعد.
+- [العربية](./content-ar.md) · [English](./content-en.md)

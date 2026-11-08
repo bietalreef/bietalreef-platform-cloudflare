@@ -40,77 +40,71 @@ Project furniture supply requires a bill of quantities linking each item code, d
 
 ### 8. Home furniture sales
 
-Measure doorways, stairways and rooms before choosing sofa or bed dimensions. Compare frame, cushion materials, upholstery and delivery terms; check dimensions and condition.
+Before buying a ready-made bedroom or lounge set, measure the clear wall space, sockets, wardrobe-door swing and the narrowest delivery doorway. Ask for dimensions and frame, cushion and upholstery specifications for every piece, with delivery, assembly and packaging removal itemised. Compare construction rather than piece count alone; inspect joints, door alignment and fabric condition before signing for delivery.
 
 ### 9. Office furniture sales
 
-Plan workstation count, desk footprints, outlets, chair adjustment and load. Compare warranty, spares and returns; inspect assembly and operation.
+Buying office furniture is different from commissioning bespoke joinery. Draw the workstation layout, chair clearance and power and data points, then test desk height, surface depth and chair adjustment. Request separate prices for storage, assembly and delivery. Compare warranties, replacement parts and damaged-item returns; check each model and quantity against the order rather than counting cartons.
 
 ### 10. Lighting retail
 
-Measure ceiling height, intended illuminance, colour temperature and lamp quantity. Compare photometric details, warranty and mounting kit; see an operating sample.
+For lounge or workplace lighting, distinguish general, task and accent lighting at each point. Compare light output in lumens, colour temperature in kelvin, beam distribution and dimming compatibility instead of wattage alone. Check cut-out dimensions, mounting hardware and compatibility with the existing electrical provision. Inspect a working sample and verify colour, flicker and accessories before accepting the batch.
 
 ### 11. Curtain retail
 
-Measure window width, rail height, curtain drop, lining and cleaning requirements. Compare per-panel versus per-metre pricing and tracks/sewing; inspect fabric and finished length.
+Ready-made curtains should be selected using the proposed track width, stacking space at either end and finished drop, not just the glass width. Specify privacy, glare reduction or blackout needs and inspect the lining and care instructions. Compare panel count and individual panel sizes, and whether tracks and installation are included. Check fabric shade, weave and edge stitching when delivered.
 
 ### 12. Carpet retail
 
-Record room size, rug dimensions, door swings and cleaning frequency. Compare pile density, backing and slip properties; inspect dimensions and edges.
+For a majlis or bedroom rug, mark furniture legs, walking routes and door swings on a simple floor sketch. Decide whether the rug must be movable or secured, then compare fibre type, pile density, backing and stain-cleaning method. Inspect the rug laid flat for size, edge finishing, ripples and colour under the room's actual lighting.
 
 ### 13. Home accessories retail
 
-List mirrors, handles and accessories with dimensions and fixing locations. Compare anchors, moisture suitability and weights; inspect for chips and missing hardware.
+For mirrors, shelves, towel rails and home accessories, list each item's location, dimensions, quantity and expected loading. A heavy mirror needs different anchors from a light accessory; wall substrate, moisture and concealed services matter before drilling. Request close-up photographs of finishes and supplied fixings and confirm whether installation is included. Check for chipped glass, damaged coatings and missing parts on receipt.
 
 ### 14. Bulk project furniture supply
 
-Define quantities, delivery rooms, project milestones and uniform finish samples. Compare substitution, packing, assembly and batch consistency; obtain a model-by-model receipt.
-
-## Majlis and sofa upholstery
+Furniture supply for a multi-unit project needs a coded schedule listing each model, dimensions, finish, quantity and destination room, with a physical sample approved before bulk ordering. Phase deliveries around room readiness, lift access and secure storage, and allocate responsibility for transport and assembly damage. Compare equivalent models, substitution rules and replacement lead times; record and inspect every batch before signing acceptance.
 
 ### 15. Traditional majlis seating
 
-Measure walls, seating capacity, seat height and clear door routes before designing a majlis. Compare frame, padding, textiles and joints; inspect comfort and even seating.
+Start a traditional majlis design with measured wall lengths, door positions, columns, circulation and the required seating capacity. Agree seat height and depth, frame construction, cushion filling and removable-cover options; approve a corner sample or cushion before full production. Ask whether tables, curtains, delivery and fitting are included. Check seat-level consistency, joint alignment and comfort at handover.
 
 ### 16. Custom sofas
 
-Specify straight, corner or modular forms, each section's size and seat depth. Compare upholstery performance, cushion fill, leg frame and transport; measure completed modules.
+For a corner or modular sofa, record the direction of the corner, each module's dimensions, door clearance and the delivery route. Choose seat depth, back height and firmness around the household's use and inspect a fabric sample in the actual room. Compare frame construction, leg fixings, cushions and module connectors. Verify finished dimensions, stability and seating comfort after assembly.
 
 ### 17. Furniture reupholstery
 
-Photograph frame, arms and damaged textiles to identify spring, padding or upholstery faults. Compare stripping, frame repair, padding and covering as distinct costs; inspect rigidity and taut seams.
+Full reupholstery involves more than replacing fabric. Photograph the seat, back, underside and arms, noting sagging, creaks and loose joints. An inspection should distinguish frame, spring, webbing and padding repairs from new covering. Request separate costs for stripping, structural work, foam, sewing and transport, and retain an approved swatch. Inspect seam tension, even padding and seat stability on return.
 
 ### 18. Sofa fabric replacement
 
-Record fabric area, pattern direction and extra material for cushions. Compare abrasion/cleaning suitability and stripping/sewing costs; inspect aligned patterns and seams.
+If the sofa frame and padding are sound, a fabric-only change may be enough. Photograph all sections, loose cushions, buttons and decorative seams to preserve. Calculate fabric using roll width, pattern repeat and cutting allowance rather than sofa length alone. Compare cleaning suitability, wear performance and labour for stripping and sewing. Check pattern matching at corners and even seam tension.
 
 ### 19. Cushion foam renewal
 
-Specify foam density, seat thickness and collapsed zones while retaining finished dimensions. Compare firmness, fill options and warranty; test seating and upholstery closure.
-
-## Curtains, rugs and soft furnishings
+When seats have sagged but the frame and cover remain usable, inspect webbing or springs as well as foam before ordering replacement cushions. Record original thickness, preferred firmness and use frequency; ask for foam density and any layered filling without assuming that maximum density is automatically best. Compare cushion replacement with support repairs, then test seating evenness and recovery after fitting.
 
 ### 20. Made-to-measure curtains
 
-Measure window width, track-to-floor drop, pleat style, lining and blackout needs. Compare fabric allowance, stitching and track loading; inspect finished drops and folds.
+Made-to-measure curtains require the actual track width and finished drop from the mounting point, allowing for windowsills and nearby furniture. Agree pleat style, fabric fullness, blackout lining and pattern direction before cutting. Ask for fabric, sewing, lining, track and fitting as separate quotation items. Inspect the drop at several points, consistent pleats and the intended floor clearance.
 
 ### 21. Curtain installation
 
-Identify wall substrate, AC outlets and window operation before drilling rails. Compare bracket spacing and load rating; test smooth movement and window clearance.
+Before fitting curtain tracks, establish whether the fixings go into concrete, gypsum board or timber and check nearby AC outlets, wiring and window operation. Heavy or double curtains need brackets suited to the track system and supporting surface; a universal bracket count is unreliable. Compare the scope of fixings and making good, and test full travel without hitting handles or furniture.
 
 ### 22. Furnishing fabrics supply
 
-Specify sofa, curtain or bedding fabrics by use, sunlight and moisture exposure. Compare weave density, colourfastness and care; approve swatches and spare fabric if needed.
+Upholstery fabric for a frequently used majlis has different demands from sheer curtain fabric. Specify use, abrasion, sunlight exposure and permitted cleaning methods. Request a sample from the intended material and shade, with composition and roll width, and calculate cutting allowance and pile or pattern direction. Compare maintenance and dye-lot consistency, and inspect length and visible defects before cutting.
 
 ### 23. Carpets and fitted carpet supply
 
-Measure each room and decide fitted carpet or loose rugs. Compare pile, underlay, seams and slip control; inspect grain direction and edge joins.
+For fitted carpet in rooms or offices, send a floor plan showing columns, doors and laying direction and decide between broadloom and replaceable carpet tiles. Ask about pile, backing, adhesive or fixing method and treatment of seams and edges. Compare the total quantity including cutting waste and any removal of old flooring. Check batch numbers, pattern alignment and colour after installation.
 
 ### 24. Mattress supply
 
-Measure bed base dimensions, sleepers, firmness preference and mattress depth. Compare construction, warranty and ventilation; check size and packaging at handover.
-
-
+Choose a mattress from the actual internal dimensions of the bed base, the acceptable finished height and the sleeper's support and ventilation preferences. Test firmness where possible and ask about foam or spring construction, rotation and care. Compare trial terms, warranty, delivery and old-mattress removal if offered. Check size, product label and cover condition before accepting delivery.
 
 ## Furniture and furnishing quotation brief
 

@@ -1,23 +1,31 @@
 # Disinfection and sanitisation in Al Jimi
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+Preparatory guidance for company and establishment services, not evidence of provider availability or licensing. Verify appropriate credentials and product directions for the intended use; avoid indiscriminate spraying or mixing chemicals.
 
 ## 1. Home disinfection service
 
-**First check:** Children, toys and mattresses require surface-specific choices rather than indiscriminate spraying. Provide room sizes, usage, high-touch surfaces and occupancy window, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** For treating frequently touched household surfaces after cleaning; spraying is not a substitute for soil removal or medical care.
 
-**Scope and exclusions:** Agree pre-cleaning, suitable product, application, contact period, re-entry advice and written record. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos, measurements and inputs:** Room count and sizes, photos of target surfaces, flooring and fabric types, toys or pets, and the vacant access window.
 
-**Acceptance:** Check protection of sensitive materials and treatment logs without unsupported health promises. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Specify pre-cleaning, surface-compatible products, application method, contact time, ventilation and re-entry instructions. Mattress, upholstery and duct treatment are excluded unless expressly listed.
+
+**Compare quotes and contract terms:** Request product identification and instructions, protection for food, electronics and toys, included rooms, furniture-moving responsibilities, duration and return-visit charges. Reject promises of eliminating every pathogen.
+
+**Acceptance check:** Match treated rooms to the schedule, inspect sensitive surfaces for problematic residue or moisture, and obtain product records and re-entry guidance; appearance alone cannot establish disinfection efficacy.
 
 ## 2. Office and facility disinfection
 
-**Describe the issue:** Protect computers and documents and define the staff reoccupation window. Provide room sizes, usage, high-touch surfaces and occupancy window, including any health risks, sensitive materials or occupancy constraints.
+**When needed:** When a facility needs a documented programme for shared touchpoints within a defined operating or shutdown window.
 
-**Scope and exclusions:** Agree pre-cleaning, suitable product, application, contact period, re-entry advice and written record. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos, measurements and inputs:** Floor plans, office and washroom counts, operating hours, photos of reception desks, handles and workstations, and zones with electronics or sensitive records.
 
-**Acceptance:** Check protection of sensitive materials and treatment logs without unsupported health promises. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** Agree zones, prerequisite cleaning, responsibility for equipment isolation and access, touchpoint treatment and room-by-room logs. Deep carpet cleaning or HVAC treatment is excluded unless separately quoted.
 
-## Biet Al Reef quotation support
+**Compare quotes and contract terms:** Compare out-of-hours scheduling, protection of equipment and records, product documentation and contact time, staff training, incident reporting, visit frequency and repeat-treatment charges.
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**Acceptance check:** Obtain zone-by-zone timestamps and product records, check equipment and furniture condition, and confirm staff re-entry instructions; an unspecified certificate does not prove efficacy.
+
+## Request a quotation
+
+Send site details, photographs, floor areas and permitted access windows to Biet Al Reef customer service to prepare a quotation request. A request can be prepared even with no listed company; no provider, price or appointment is guaranteed. These are establishment services, separate from individual trades.

@@ -1,14 +1,13 @@
 # Review — نقل الأثاث والممتلكات — Al Jimi
 
-- Exact source company specialty: نقل الأثاث والممتلكات; status no live availability asserted.
-- Exact service headings: 7 Arabic and 7 English in matched taxonomy order.
-- Distinct task-specific consideration; site/weight/capacity inputs, quote inclusions/exclusions and acceptance checks per service.
-- No invented supplier, equipment inventory, hire rate, permissions, delivery date or activation.
+Status: seven company services rewritten and checked in both languages. No provider, price or schedule asserted.
 
 1. نقل أثاث المنازل / Home furniture moving
 2. نقل أثاث المكاتب / Office furniture moving
 3. فك وتركيب الأثاث / Furniture disassembly and reassembly
 4. تغليف الأثاث / Furniture packing
-5. توفير عمال التحميل / Loading crew provision
+5. توفير عمال التحميل / Loading labour supply
 6. التخزين المؤقت / Temporary storage
-7. نقل الممتلكات بين الإمارات / Inter-emirate belongings moving
+7. نقل الممتلكات بين الإمارات / Inter-emirate belongings transport
+
+Each service covers specific need, scope and exclusions, photos/dimensions, quote comparison, agreement, acceptance and enquiry. Not artisan services.

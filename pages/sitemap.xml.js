@@ -104,13 +104,14 @@ export async function getServerSideProps({ res }) {
   };
 
   // Existing emirate-sector pages and geographic paths backed by published services.
-  for (const sector of UAE_MAIN_SECTORS) {
-    const path = `/uae/abu-dhabi/${sector.slug}`;
+  for (const emirate of ['abu-dhabi','dubai']) for (const sector of UAE_MAIN_SECTORS) {
+    const path = `/uae/${emirate}/${sector.slug}`;
     addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop);
   }
   try {
-    const groups = await Promise.all(UAE_MAIN_SECTORS.flatMap(sector => ['', 'al-ain'].map(city =>
-      getGeographicPublishedServiceCards('ar', {sector:sector.slug,city})
+    const locations = [{emirate:'abu-dhabi',city:''},{emirate:'abu-dhabi',city:'al-ain'},{emirate:'dubai',city:''}];
+    const groups = await Promise.all(UAE_MAIN_SECTORS.flatMap(sector => locations.map(place =>
+      getGeographicPublishedServiceCards('ar', {sector:sector.slug,...place})
     )));
     for (const item of groups.flat()) {
       const detailPath = item.href;

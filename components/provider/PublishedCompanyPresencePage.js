@@ -1,3 +1,4 @@
+import PublishedPortfolio from './PublishedPortfolio';
 import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -96,6 +97,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
   <Section title={t.about} locale={locale}><p className="whitespace-pre-line rounded-2xl border border-[#e6dece] bg-white p-4 leading-8 text-slate-600">{text(profile,locale,'description')||description}</p></Section>
   <Section title={t.services} url={navPath('services')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="services" items={services} cover={cover}/></Section>
   {offers.length?<Section title={t.offers} url={navPath('offers')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="offers" items={offers} cover={cover}/></Section>:null}
+  <PublishedPortfolio items={data.portfolioProjects} locale={locale}/>
   <Section title={t.location} url={navPath('service-areas')} locale={locale}><Collections contextBase={route.contextBase||''} locale={locale} slug={slug} kind="service-areas" items={areas}/></Section>
  </>:detail? <Section title={pageLabel} locale={locale}>
    <div className="grid overflow-hidden rounded-2xl border border-[#e6dece] bg-white md:grid-cols-2">

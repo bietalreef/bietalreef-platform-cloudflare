@@ -6,6 +6,7 @@ import { CleaningReadMore } from './AlAinCleaningPage';
 import CleaningServiceDetails from './provider/CleaningServiceDetails';
 import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import GeographicServiceCards from './GeographicServiceCards';
+import SectorVisualGuide from './SectorVisualGuide';
 import { cleaningContent } from '../lib/cleaningLandingContent';
 import { rehabServiceImage } from '../lib/rehabServiceImages';
 import { localPath } from '../lib/localServices';
@@ -29,6 +30,7 @@ export default function AlAinDistrictCleaningPage({model}) {
       <nav className={styles.crumb} aria-label={en?'Breadcrumbs':'مسار التصفح'}>{crumbs.map((c,i)=><span key={c.href}><Link href={c.href}>{c.name}</Link>{i<crumbs.length-1?' / ':''}</span>)}</nav>
       <section className="rounded-2xl border border-[#E9DFCE] bg-white p-5 sm:p-8"><p className="text-xs font-bold text-[#806333]">{en?'AL AIN · ABU DHABI':'العين · أبوظبي'}</p><h1 className="mt-3 text-2xl font-extrabold leading-relaxed text-[#24354B] md:text-4xl">{heading}</h1><div className="mt-3 max-w-4xl"><CleaningReadMore text={description} en={en}/></div><p className="mt-3 text-sm leading-7 text-slate-600">{en?'Share the exact location and confirm the scope, availability and quotation with the company.':'شارك الموقع الدقيق وأكد نطاق العمل وتوفر الشركة وعرض السعر قبل الاتفاق.'}</p></section>
       {!service&&<GeographicServiceCards items={model.geographicCards ?? null} locale={locale} place={name}/>}
+      {!service&&<SectorVisualGuide sector="cleaning-services" locale={locale}/>}
       {service&&<section className="rounded-2xl border border-[#E9DFCE] bg-white p-4 md:p-7">{image&&<picture><source media="(max-width:700px)" srcSet={image.mobile}/><img src={image.desktop} alt={serviceName} width="1448" height="1086" className="max-h-80 w-full rounded-xl object-cover"/></picture>}<CleaningServiceDetails content={cleaningContent(service.slug,locale)} locale={locale}/></section>}
       {service&&<GeographicServiceCards items={model.geographicCards === null ? null : (model.geographicCards || []).filter(card=>card.serviceSlug===service.slug)} locale={locale} place={name}/>}
       {service&&<section className={styles.section}><div className={styles.heading}><h2>{en?`More cleaning services in ${name}`:`خدمات تنظيف أخرى في ${name}`}</h2></div><div className="flex flex-wrap gap-2">{data.services.filter(item=>item.slug!==service.slug).map(item=><Link key={item.slug} href={`${categoryPath}/${item.slug}`} className="rounded-xl border border-[#E9DFCE] bg-white px-3 py-2 text-sm font-semibold">{en?item.name_en:item.name_ar}</Link>)}</div></section>}

@@ -159,13 +159,13 @@ export default function About() {
         <meta property="og:url" content="https://bietalreef.ae/about" />
         <meta property="og:locale" content="ar_AE" />
         <meta property="og:locale:alternate" content="en_AE" />
-        <meta property="og:image" content="https://bietalreef.ae/logo.png" />
+        <meta property="og:image" content="https://bietalreef.ae/images/seo/home/biet-al-reef-directory-og.webp" />
         <meta property="og:image:alt" content="شعار بيت الريف" />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="عن بيت الريف | قصتنا ورؤيتنا" />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://bietalreef.ae/logo.png" />
+        <meta name="twitter:image" content="https://bietalreef.ae/images/seo/home/biet-al-reef-directory-og.webp" />
 
         <script
           type="application/ld+json"

@@ -14,14 +14,14 @@ function FooterGroup({id, title, summary, locale, children}) {
   </section>;
 }
 
-export default function AlAinConstructionFooter({locale='ar',areas=[]}) {
+export default function AlAinConstructionFooter({locale='ar',areas=[],showAreas=false}) {
   const en=locale==='en', prefix=en?'/en':'';
   return <nav className={styles.context} aria-labelledby="construction-footer-heading">
     <div className={styles.heading}><div><span>{en?'AL AIN DIRECTORY':'دليل العين'}</span><h2 id="construction-footer-heading">{en?'Explore more for your construction project':'استكشف المزيد لمشروعك في العين'}</h2><p>{en?'Locations, project services, official guidance and business tools.':'المناطق، وخدمات المشروع، والجهات الرسمية، وأدوات الأعمال.'}</p></div><Link className={styles.cityLink} href={localPath({locale})}>{en?'Open Al Ain directory':'افتح دليل العين'}</Link></div>
     <div className={styles.grid}>
-      <FooterGroup id="construction-footer-areas" locale={locale} title={en?'Al Ain areas':'مناطق العين'} summary={en?'Browse each area directory':'افتح دليل المنطقة'}>
+      {showAreas&&<FooterGroup id="construction-footer-areas" locale={locale} title={en?'Al Ain areas':'مناطق العين'} summary={en?'Browse each area directory':'افتح دليل المنطقة'}>
         <ul className={styles.chips}>{areas.map(a=><li key={a.slug}><Link href={localPath({locale,area:a.slug})}>{en?a.nameEn:a.nameAr}</Link></li>)}</ul>
-      </FooterGroup>
+      </FooterGroup>}
       <FooterGroup id="construction-footer-services" locale={locale} title={en?'Project services':'خدمات مشروعك'} summary={en?'Related sectors in Al Ain':'تخصصات مرتبطة في العين'}>
         <ul className={styles.linkList}><li><Link href={localPath({locale,category:'interior-design'})}>{en?'Engineering and design':'الهندسة والتصميم'}</Link></li><li><Link href={localPath({locale,category:'building-materials'})}>{en?'Building materials':'مواد البناء'}</Link></li><li><Link href={localPath({locale,category:'general-maintenance'})}>{en?'Maintenance and finishing':'الصيانة والتشطيبات'}</Link></li></ul>
       </FooterGroup>

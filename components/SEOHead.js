@@ -1,17 +1,26 @@
 import { resolveLanguagePaths } from '../lib/searchIndexRoutes';
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import { UAE_SECTOR_ASSETS } from '../data/uaeDirectoryVisuals';
 
 const SITE_DOMAIN = 'https://bietalreef.ae';
 const SITE_NAME = 'بيت الريف';
-const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/images/seo/home/hero-main.webp';
+const DEFAULT_OG_IMAGE = 'https://bietalreef.ae/images/seo/home/biet-al-reef-directory-og.webp';
+const SECTOR_ALIASES = {'aluminium-wood-glass':'aluminium-glass','factories-suppliers':'equipment-rental','hourly-cleaning':'cleaning-services'};
+function contextualImage(path) {
+  const parts = path.split('/').filter(Boolean);
+  const sector = parts.map(part => SECTOR_ALIASES[part] || part).find(part => UAE_SECTOR_ASSETS[part]);
+  if (sector) return `${SITE_DOMAIN}${UAE_SECTOR_ASSETS[sector].desktop}`;
+  if (parts.includes('uae') && parts.includes('al-ain')) return `${SITE_DOMAIN}/images/uae/places/al-ain-oasis-1440.webp`;
+  return DEFAULT_OG_IMAGE;
+}
 export default function SEOHead({
   title,
   description,
   keywords,
-  ogImage = DEFAULT_OG_IMAGE,
-  ogImageWidth = ogImage === DEFAULT_OG_IMAGE ? 2048 : undefined,
-  ogImageHeight = ogImage === DEFAULT_OG_IMAGE ? 1143 : undefined,
+  ogImage,
+  ogImageWidth,
+  ogImageHeight,
   ogType = 'website',
   noIndex = false,
   noIndexFollow = false,
@@ -23,6 +32,11 @@ export default function SEOHead({
   const router = useRouter();
   const cleanPath = String(canonicalPath || router.asPath).replace(SITE_DOMAIN, '').split(/[?#]/)[0] || '/';
   const canonicalUrl = cleanPath === '/' || cleanPath === '' ? SITE_DOMAIN : `${SITE_DOMAIN}${cleanPath}`;
+  const selectedImage = ogImage || contextualImage(cleanPath);
+  const shareImage = selectedImage.startsWith('/') ? `${SITE_DOMAIN}${selectedImage}` : selectedImage;
+  const width = ogImageWidth ?? (shareImage === DEFAULT_OG_IMAGE ? 1200 : undefined);
+  const height = ogImageHeight ?? (shareImage === DEFAULT_OG_IMAGE ? 630 : undefined);
+  const extension = shareImage.toLowerCase().split(/[?#]/)[0];
   const paths = resolveLanguagePaths(cleanPath);
   const enPath = alternatePath || paths.englishPath;
   const arabicUrl = paths.arabicPath === '/' ? SITE_DOMAIN : `${SITE_DOMAIN}${paths.arabicPath}`;
@@ -72,11 +86,11 @@ export default function SEOHead({
       <meta property="og:url" content={canonicalUrl} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={ogImage} />
-      <meta property="og:image:type" content={ogImage.toLowerCase().split(/[?#]/)[0].endsWith('.webp') ? 'image/webp' : 'image/jpeg'} />
-      <meta property="og:image:secure_url" content={ogImage} />
-      {Number.isFinite(ogImageWidth) ? <meta property="og:image:width" content={String(ogImageWidth)} /> : null}
-      {Number.isFinite(ogImageHeight) ? <meta property="og:image:height" content={String(ogImageHeight)} /> : null}
+      <meta property="og:image" content={shareImage} />
+      <meta property="og:image:type" content={extension.endsWith('.webp') ? 'image/webp' : extension.endsWith('.png') ? 'image/png' : 'image/jpeg'} />
+      <meta property="og:image:secure_url" content={shareImage} />
+      {Number.isFinite(width) ? <meta property="og:image:width" content={String(width)} /> : null}
+      {Number.isFinite(height) ? <meta property="og:image:height" content={String(height)} /> : null}
       <meta property="og:image:alt" content={title} />
       <meta property="og:locale" content={paths.isEnglish ? 'en_AE' : 'ar_AE'} />
       <meta property="og:locale:alternate" content={paths.isEnglish ? 'ar_AE' : 'en_AE'} />
@@ -85,7 +99,7 @@ export default function SEOHead({
       <meta name="twitter:site" content="@bietalreef" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={ogImage} />
+      <meta name="twitter:image" content={shareImage} />
       <meta name="theme-color" content="#0F3F1A" />
       {schemas.map((schema, index) => (
         <script key={index} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />

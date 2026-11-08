@@ -58,3 +58,12 @@ test('only active platform offers are shown, with a link to their real service',
  d.cards.at(-1).expires_at='2020-01-01';
  assert.equal(buildGeographicServiceCards(d,{sector:'cleaning-services',cardType:'offer'}).length,0);
 });
+test('coverage never moves across emirates even when city names or area slugs collide',()=>{
+ const d=fixture();d.emirates.push({id:'dx',slug:'dubai'});d.cities.push({id:'dx-city',slug:'dubai-city',emirate_id:'dx'});d.areas.push({id:'dx-hili',slug:'al-hili',city_id:'dx-city',name_ar:'اختبار دبي',name_en:'Dubai test'});
+ d.locations=[{provider_id:'p1',emirate_id:'ad',coverage_type:'emirate',is_active:true}];
+ assert.equal(buildGeographicServiceCards(d,{emirate:'dubai',area:'al-hili',sector:'cleaning-services'}).length,0);
+ d.locations.push({provider_id:'p1',emirate_id:'dx',area_id:'dx-hili',coverage_type:'area',is_active:true});
+ const result=buildGeographicServiceCards(d,{emirate:'dubai',area:'al-hili',sector:'cleaning-services'});
+ assert.equal(result.length,1);assert.equal(result[0].placeName,'اختبار دبي');
+ assert.equal(servicePath({emirate:'dubai',city:'al-ain',sector:'cleaning-services',service:'sofa',provider:'rehab'}),null);
+});

@@ -148,12 +148,12 @@ export default function AboutEnglishPage() {
         <meta property="og:url" content="https://bietalreef.ae/en/about" />
         <meta property="og:locale" content="en_AE" />
         <meta property="og:locale:alternate" content="ar_AE" />
-        <meta property="og:image" content="https://bietalreef.ae/logo.png" />
-        <meta property="og:image:alt" content="Biet Al Reef logo" />
+        <meta property="og:image" content="https://bietalreef.ae/images/seo/home/biet-al-reef-directory-og.webp" />
+        <meta property="og:image:alt" content="Biet Al Reef companies and services directory" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="About Biet Al Reef | Our Story and Vision" />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content="https://bietalreef.ae/logo.png" />
+        <meta name="twitter:image" content="https://bietalreef.ae/images/seo/home/biet-al-reef-directory-og.webp" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
       </Head>
 

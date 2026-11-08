@@ -1,3 +1,4 @@
+import PublishedPortfolio from './PublishedPortfolio';
 import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from '../Navbar';
@@ -145,7 +146,7 @@ function Faq({locale}) {
   </div>)}</div>
  </section>;
 }
-export default function KawkabPresencePage({locale='ar',section='home',contextBase=''}){
+export default function KawkabPresencePage({locale='ar',section='home',contextBase='',portfolioProjects=[]}){
   const lang=locale==='en'?'en':'ar', t=i18n[lang], direction=lang==='ar'?'rtl':'ltr';
   const paths={ar:kawkabPath('ar',section),en:kawkabPath('en',section)};
   const titles={home:t.business,services:t.servicesTitle,'service-areas':t.areasTitle,gallery:t.galleryTitle,'al-ain':t.ainTitle};
@@ -202,7 +203,7 @@ export default function KawkabPresencePage({locale='ar',section='home',contextBa
         </div>
       </header>
       <nav aria-label={lang==='en'?'Company sections':'أقسام الشركة'} className="border-b border-[#e9e2d8] bg-white"><div className="mx-auto grid max-w-6xl grid-cols-4 gap-1 px-2 py-2 sm:gap-3">{Object.entries(routeLabels(t)).map(([key,label])=><Link key={key} href={kawkabPath(lang,key,contextBase)} aria-current={key===section?'page':undefined} className={`rounded-lg px-1 py-2 text-center text-xs font-medium sm:px-3 sm:text-sm ${key===section?'bg-[#f0e8da] text-[#5c421d]':'text-[#5e574e] hover:bg-[#f7f4ee]'}`}>{label}</Link>)}</div></nav>
-      {section==='home'?<><Gallery contextBase={contextBase} locale={lang} short/><Services contextBase={contextBase} locale={lang} short/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><AlAinCoverage contextBase={contextBase} locale={lang} short/><Faq locale={lang}/></>:null}
+      {section==='home'?<><PublishedPortfolio items={portfolioProjects} locale={lang}/><Gallery contextBase={contextBase} locale={lang} short/><Services contextBase={contextBase} locale={lang} short/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><AlAinCoverage contextBase={contextBase} locale={lang} short/><Faq locale={lang}/></>:null}
       {section==='services'?<><Services contextBase={contextBase} locale={lang}/><DetailedCompanyGuide locale={lang}/><div className="hidden md:block"><ProcessGuide locale={lang}/></div><Link href={kawkabPath(lang,'gallery',contextBase)} className="mx-auto mb-4 block max-w-6xl px-4 text-sm font-bold text-[#865f34] underline">{lang==='en'?'View projects and all service cover images':'عرض المشروع وجميع أغلفة الخدمات'}</Link><Faq locale={lang}/></>:null}
       {section==='service-areas'?<><AlAinCoverage contextBase={contextBase} locale={lang}/><Services contextBase={contextBase} locale={lang} short/><Faq locale={lang}/></>:null}
       {section==='gallery'?<><Gallery contextBase={contextBase} locale={lang}/><Faq locale={lang}/></>:null}

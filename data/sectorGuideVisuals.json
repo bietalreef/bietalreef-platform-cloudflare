@@ -1,0 +1,656 @@
+{
+  "general-contracting": {
+    "sourceBranch": "assets/dubai-contracting-visuals-20261106",
+    "items": [
+      {
+        "title": {
+          "ar": "إنشاء المباني والفلل",
+          "en": "Building and villa construction"
+        },
+        "alt": {
+          "ar": "فيلا بهيكل خرساني وجدران بلوك وجناح مكسو باللون الأبيض، وعاملان بجوار مواد البناء.",
+          "en": "A villa with a concrete frame, block walls and a white-rendered wing, with two workers beside stored building materials."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-villa-construction.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-villa-construction-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الترميم والتجديد",
+          "en": "Building renovation"
+        },
+        "alt": {
+          "ar": "عامل يسوي رقعة محارة على جدار داخلي أزيل عنه الطلاء المتقشر، مع أرضية مغطاة للحماية.",
+          "en": "A worker smoothing a plaster patch on an interior wall with peeling paint removed and the floor protected by sheeting."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-building-renovation.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-building-renovation-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الأعمال الخرسانية وتجهيز الموقع",
+          "en": "Concrete works and site preparation"
+        },
+        "alt": {
+          "ar": "شبكة تسليح داخل شدة خشبية منخفضة، وعاملان على الممر الجانبي بجوار موقع منظم.",
+          "en": "A reinforcement grid within low timber formwork, with two workers on a side walkway beside an organised work area."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-concrete-works.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-concrete-works-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تنسيق حدائق الفلل",
+          "en": "Villa landscaping"
+        },
+        "alt": {
+          "ar": "حديقة فيلا بممر حجري وأحواض حصوية ونخلة وشجيرات ومساحة عشب بجوار جلسة مظللة.",
+          "en": "A villa garden with a stone path, gravel planting beds, a palm, shrubs and a lawn beside a shaded terrace."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-villa-landscaping.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-villa-landscaping-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تفاصيل شبكة الري بالتنقيط",
+          "en": "Drip irrigation detail"
+        },
+        "alt": {
+          "ar": "أنبوب ري بني بوصلة تفرع ونقاط تنقيط قرب جذور شجيرات، وبجواره غطاء صندوق صمامات أخضر.",
+          "en": "A brown irrigation pipe with a tee connection and drip outlets near shrub roots, beside a green valve-box lid."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-drip-irrigation.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-drip-irrigation-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "المظلات والبرجولات والأعمال الخارجية",
+          "en": "Carports, pergolas and external works"
+        },
+        "alt": {
+          "ar": "مظلة سيارات بيضاء فوق أرضية إنترلوك وبرجولا داكنة فوق جلسة بجوار فيلا.",
+          "en": "A white carport over interlocking paving and a dark pergola covering seating beside a villa."
+        },
+        "desktop": "/images/guides/sector-library/general-contracting/uae-carports-pergolas.webp",
+        "mobile": "/images/guides/sector-library/general-contracting/uae-carports-pergolas-mobile.webp"
+      }
+    ]
+  },
+  "interior-design": {
+    "sourceBranch": "assets/dubai-engineering-visuals-20261107",
+    "items": [
+      {
+        "title": {
+          "ar": "التصميم المعماري والمخططات",
+          "en": "Architectural design and plans"
+        },
+        "alt": {
+          "ar": "نموذج معماري أبيض لفيلا على مكتب، بجواره مخططات وأدوات رسم",
+          "en": "White villa scale model on a desk beside architectural drawings and drafting tools"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-architectural-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-architectural-design-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "التصميم الإنشائي",
+          "en": "Structural engineering"
+        },
+        "alt": {
+          "ar": "مجسم تعليمي لهيكل مبنى تظهر فيه البلاطات والأعمدة والقواعد على قاعدة مقطعية",
+          "en": "Educational building-frame model showing slabs, columns and pad foundations on a cutaway base"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-structural-engineering.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-structural-engineering-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الإشراف والاستشارات الهندسية",
+          "en": "Engineering supervision"
+        },
+        "alt": {
+          "ar": "شخصيتان اصطناعيتان بملابس سلامة تراجعان مخططًا وتمديدات سقف مكشوف في موقع منظم",
+          "en": "Two synthetic professionals in safety wear review a drawing and exposed ceiling services at an orderly site"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-engineering-supervision.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-engineering-supervision-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "التصميم الداخلي والمواد",
+          "en": "Interior design and materials"
+        },
+        "alt": {
+          "ar": "عينات خشب وبلاط وقماش وبطاقات ألوان مع نموذج إضاءة على طاولة مواد",
+          "en": "Wood, tile and fabric samples, colour cards and a lighting sample arranged on a materials table"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-interior-design-materials.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-interior-design-materials-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تصميم واجهات الفلل",
+          "en": "Villa exterior design"
+        },
+        "alt": {
+          "ar": "واجهة فيلا معاصرة بنوافذ غائرة وعناصر تظليل ومدخل محمي وكسوة حجرية فاتحة",
+          "en": "Contemporary villa facade with recessed windows, shading elements, a sheltered entrance and light stone cladding"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-villa-exterior-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-villa-exterior-design-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تصميم مجلس عربي معاصر",
+          "en": "Contemporary Arabic majlis design"
+        },
+        "alt": {
+          "ar": "مجلس بأرائك قماشية متصلة وطاولات خشبية وممر وسط واضح وإضاءة طبيعية",
+          "en": "Majlis with continuous upholstered seating, timber tables, a clear central passage and natural light"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-arabic-majlis-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-arabic-majlis-design-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تصميم مطبخ حسب المقاس",
+          "en": "Custom kitchen design"
+        },
+        "alt": {
+          "ar": "مطبخ بخزائن خشبية وبيضاء وأجهزة مدمجة ومسطح عمل مضاء ومساحة حركة واضحة",
+          "en": "Kitchen with timber and white cabinetry, integrated appliances, a lit worktop and clear circulation"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-custom-kitchen-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-custom-kitchen-design-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تصميم المساحات التجارية",
+          "en": "Commercial interior design"
+        },
+        "alt": {
+          "ar": "متجر معاصر بأرفف عرض جانبية ووحدات منخفضة ومسار واضح نحو مكتب الخدمة",
+          "en": "Contemporary shop with side display shelves, low display units and a clear route to the service counter"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-commercial-interior-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-commercial-interior-design-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الرسم ثنائي الأبعاد والنمذجة والتنسيق",
+          "en": "2D drawing, 3D modelling and BIM coordination"
+        },
+        "alt": {
+          "ar": "مخطط تخطيطي واحد يظهر كرسم مسطح ومجسم مفتوح ونموذج تنسيق بمسارات ملونة",
+          "en": "One schematic layout shown as a flat plan, an open-top model and a coordination model with coloured routes"
+        },
+        "desktop": "/images/guides/sector-library/interior-design/uae-2d-3d-bim-design.webp",
+        "mobile": "/images/guides/sector-library/interior-design/uae-2d-3d-bim-design-mobile.webp"
+      }
+    ]
+  },
+  "general-maintenance": {
+    "sourceBranch": "assets/dubai-maintenance-visuals-20261107",
+    "items": [
+      {
+        "title": {
+          "ar": "الصيانة المنزلية المحدودة",
+          "en": "Small household maintenance"
+        },
+        "alt": {
+          "ar": "فني يضبط مفصلة باب خزانة خشبية منخفضة، مع حصيرة واقية وأدوات مرتبة قرب الأثاث المغطى.",
+          "en": "A technician adjusts a low timber cabinet hinge, with a protective mat and organised tools beside covered furniture."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-home-general-maintenance.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-home-general-maintenance-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تنسيق التشطيبات المتكاملة",
+          "en": "Coordinated interior finishing"
+        },
+        "alt": {
+          "ar": "غرفة قيد التشطيب بجدران مجهزة وسقف جبسي بسيط وأرضية يتدرج تنفيذها بين قاعدة مجهزة وبلاط محمي.",
+          "en": "A room during finishing, with prepared walls, a simple gypsum ceiling and flooring transitioning from a prepared base to protected installed tiles."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-integrated-finishing.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-integrated-finishing-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الجبس وتفاصيل الأسقف",
+          "en": "Gypsum ceiling details"
+        },
+        "alt": {
+          "ar": "سقف جبسي قيد التجهيز يظهر معالجة الفواصل وبيت نور بسيط وفتحة صيانة مؤطرة.",
+          "en": "A gypsum ceiling in preparation, showing treated joints, a simple recessed cove and a framed maintenance opening."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-gypsum-ceiling-finishing.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-gypsum-ceiling-finishing-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تركيب الأرضيات والبورسلان",
+          "en": "Flooring and porcelain installation"
+        },
+        "alt": {
+          "ar": "تفصيل تركيب بلاط بورسلان مع فواصل منتظمة ومشط لاصق مرتب وأدوات تسوية على قاعدة أرضية مجهزة.",
+          "en": "Porcelain floor installation detail with regular joints, neatly combed adhesive and levelling tools on a prepared floor base."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-flooring-tiling.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-flooring-tiling-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "فحص الكهرباء والإنارة",
+          "en": "Electrical and lighting inspection"
+        },
+        "alt": {
+          "ar": "فني يفحص خارجيًا لوحة كهربائية مغلقة بمصباح يدوي، مع أداة عزل مقفلة ظاهرة قربها.",
+          "en": "A technician visually inspects a closed electrical enclosure with a torch, with a locked isolating device visible nearby."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-electrical-maintenance.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-electrical-maintenance-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "فحص آثار الرطوبة والتسرب",
+          "en": "Moisture and leak investigation"
+        },
+        "alt": {
+          "ar": "يد فني تستخدم جهاز فحص رطوبة على جدار متأثر قرب حوض، مع حماية الأرضية وتسجيل الملاحظات.",
+          "en": "A technician uses a moisture inspection meter on an affected wall near a basin, with floor protection and notes nearby."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-water-leak-detection.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-water-leak-detection-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "صيانة التكييف وفحص المرشحات",
+          "en": "AC maintenance and filter inspection"
+        },
+        "alt": {
+          "ar": "فني يمسك مرشح هواء منزوعًا فوق طاولة خدمة محمية قرب وحدة تكييف سبليت مغلقة.",
+          "en": "A technician holds a removed air filter over a protected service table near a closed split AC unit."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-ac-maintenance.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-ac-maintenance-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الأنظمة الذكية والدخول",
+          "en": "Smart home and access systems"
+        },
+        "alt": {
+          "ar": "مدخل منزلي مع قفل ذكي وحساس باب ووحدة تحكم جدارية بسيطة دون شاشة تطبيق أو بيانات مراقبة.",
+          "en": "A residential entrance with a smart lock, door sensor and simple wall control, without an app interface or surveillance data."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-smart-home-systems.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-smart-home-systems-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تجهيز الجدران وإعادة الدهان",
+          "en": "Wall preparation and repainting"
+        },
+        "alt": {
+          "ar": "دهّان يمرر رول دهان على جدار مجهز في غرفة مضاءة طبيعيًا، مع تغطية الأرضية وحواف النوافذ.",
+          "en": "A painter rolls paint onto a prepared wall in a naturally lit room, with the floor and window edges protected."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-villa-wall-painting.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-villa-wall-painting-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تفاصيل العزل قبل التغطية",
+          "en": "Waterproofing before covering"
+        },
+        "alt": {
+          "ar": "حمام قيد التجهيز بطبقة عزل أرضية متصلة بارتفاع عند الجدران وتفاصيل معالجة حول مصرف الأرضية.",
+          "en": "A bathroom in preparation with a waterproofing layer continued up the wall junctions and detailing around a floor drain."
+        },
+        "desktop": "/images/guides/sector-library/general-maintenance/uae-waterproofing-insulation.webp",
+        "mobile": "/images/guides/sector-library/general-maintenance/uae-waterproofing-insulation-mobile.webp"
+      }
+    ]
+  },
+  "aluminium-glass": {
+    "sourceBranch": "assets/dubai-workshops-visuals-20261107",
+    "items": [
+      {
+        "title": {
+          "ar": "المطابخ والخزائن والأبواب الخشبية",
+          "en": "Kitchens, wardrobes and wooden doors"
+        },
+        "alt": {
+          "ar": "حرفي يضبط مفصلة باب خزانة على طاولة تجميع",
+          "en": "Craftsperson adjusting a cabinet door hinge on an assembly bench"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-custom-kitchens-wardrobes.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-custom-kitchens-wardrobes-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الأثاث والديكور الخشبي",
+          "en": "Custom furniture and wood décor"
+        },
+        "alt": {
+          "ar": "تجميع قطعة أثاث خشبية مخصصة بجوار ألواح زخرفية",
+          "en": "Custom wooden furniture assembly beside decorative panels"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-custom-wood-furniture-cnc.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-custom-wood-furniture-cnc-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الألمنيوم والأبواب والنوافذ",
+          "en": "Aluminium doors and windows"
+        },
+        "alt": {
+          "ar": "إطار نافذة ألمنيوم مسطح على طاولة مبطنة بجوار مقبض ومفصلتين وشريط قياس",
+          "en": "Flat aluminium window frame on a padded bench beside a handle, two hinges and a tape measure"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-aluminium-doors-windows.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-aluminium-doors-windows-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الواجهات والزجاج المعماري",
+          "en": "Architectural glass façades"
+        },
+        "alt": {
+          "ar": "واجهة محل زجاجية بإطارات معدنية وفواصل منتظمة ومدخل واضح",
+          "en": "Glazed storefront with metal frames, regular joints and a clearly defined entrance"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-architectural-glass-facades.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-architectural-glass-facades-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تشكيل الحديد والمعادن",
+          "en": "Metal fabrication"
+        },
+        "alt": {
+          "ar": "فحص إطار معدني مثبت بمشابك على طاولة تصنيع",
+          "en": "Checking a clamped metal frame on a fabrication table"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-metal-fabrication-workshop.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-metal-fabrication-workshop-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "القياسات النهائية للمطبخ",
+          "en": "Final kitchen measurements"
+        },
+        "alt": {
+          "ar": "مختص يقيس الجدار المتاح بجوار فتحة باب ونقاط خدمات المطبخ",
+          "en": "Surveyor measuring available kitchen wall space beside a doorway and service points"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-kitchen-wall-measurement.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-kitchen-wall-measurement-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تفاصيل نظام النافذة",
+          "en": "Window system details"
+        },
+        "alt": {
+          "ar": "لقطة قريبة لزاوية نافذة ألمنيوم وحشواتها ومفصلتها",
+          "en": "Close view of an aluminium window corner, gasket and hinge"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-aluminium-window-details.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-aluminium-window-details-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الحواجز والدرابزين الزجاجي",
+          "en": "Glass balustrades"
+        },
+        "alt": {
+          "ar": "درابزين زجاجي عند بسطة سلم مع درابزين علوي وقاعدة تثبيت",
+          "en": "Glass balustrade at a stair landing with a top rail and base channel"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-glass-railing-details.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-glass-railing-details-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "قص وتجهيز الألواح الخشبية",
+          "en": "CNC panel preparation"
+        },
+        "alt": {
+          "ar": "لوح خشبي داخل آلة CNC محاطة بحاجز مع نظام شفط",
+          "en": "Wood panel inside an enclosed CNC machine with dust extraction"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-wood-panels-cnc-cutting.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-wood-panels-cnc-cutting-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "البوابات الحديدية والتشطيب",
+          "en": "Steel gates and finishing"
+        },
+        "alt": {
+          "ar": "فحص تشطيب بوابة معدنية مثبتة على حامل داخل الورشة",
+          "en": "Inspecting the finish of a metal gate secured on a workshop stand"
+        },
+        "desktop": "/images/guides/sector-library/aluminium-glass/uae-steel-gates-finishing.webp",
+        "mobile": "/images/guides/sector-library/aluminium-glass/uae-steel-gates-finishing-mobile.webp"
+      }
+    ]
+  },
+  "cleaning-services": {
+    "sourceBranch": "assets/dubai-cleaning-visuals-20261107",
+    "items": [
+      {
+        "title": {
+          "ar": "تنظيف المنازل والمباني",
+          "en": "Home and building cleaning"
+        },
+        "alt": {
+          "ar": "عامل ينظف أرضية بورسلان في غرفة معيشة بفيلا",
+          "en": "Male cleaner vacuuming porcelain flooring in a villa living room"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-villa-deep-cleaning.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "تنظيف المفروشات",
+          "en": "Upholstery cleaning"
+        },
+        "alt": {
+          "ar": "فني يستخدم أداة استخلاص صغيرة لتنظيف مقعد مجلس عربي",
+          "en": "Male technician using a compact extraction tool on an Arabic majlis seat"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-majlis-upholstery-cleaning.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "تنظيف الواجهات والمواقع",
+          "en": "Façade and site cleaning"
+        },
+        "alt": {
+          "ar": "عامل ينظف واجهة زجاجية منخفضة من الأرض مع عزل مسار العمل",
+          "en": "Male worker cleaning low storefront glazing from ground level with the work area separated"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-building-facade-cleaning.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "تنظيف الخزانات والمسابح",
+          "en": "Tank and pool cleaning"
+        },
+        "alt": {
+          "ar": "عامل ينظف حافة مسبح خاص بأداة طويلة من سطح جاف",
+          "en": "Male worker cleaning a private pool edge with a long-handled tool from a dry deck"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-pool-cleaning-service.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "مكافحة الحشرات والقوارض",
+          "en": "Pest control inspection"
+        },
+        "alt": {
+          "ar": "فني يفحص فتحة خدمات أسفل خزانة مطبخ بمصباح",
+          "en": "Male pest technician inspecting a service opening beneath a kitchen cabinet with a torch"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-pest-control-inspection.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "التطهير والتعقيم",
+          "en": "Surface disinfection"
+        },
+        "alt": {
+          "ar": "عامل بقفازات يمسح سطح طاولة اجتماع خالية من الأجهزة",
+          "en": "Gloved male worker wiping an empty meeting table surface"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-office-surface-disinfection.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "تشغيل وصيانة المباني",
+          "en": "Building facilities operation"
+        },
+        "alt": {
+          "ar": "فنيان يراجعان تجهيزات غرفة خدمات وسجل فحص ورقي",
+          "en": "Two male technicians reviewing service-room equipment and a paper inspection checklist"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-building-facilities-inspection.webp",
+        "mobile": null
+      },
+      {
+        "title": {
+          "ar": "خدمات العمالة والتشغيل",
+          "en": "Workforce and operations support"
+        },
+        "alt": {
+          "ar": "مشرف يوزع مهام العمل على فريق رجال في منطقة خدمات تجارية",
+          "en": "Male supervisor briefing a service team in a commercial service area"
+        },
+        "desktop": "/images/guides/sector-library/cleaning-services/uae-service-team-briefing.webp",
+        "mobile": null
+      }
+    ]
+  },
+  "building-materials": {
+    "sourceBranch": "assets/dubai-building-materials-visuals-20261107",
+    "items": [
+      {
+        "title": {
+          "ar": "مواد البناء والتشطيب",
+          "en": "Building and finishing supply"
+        },
+        "alt": {
+          "ar": "مشرف يراجع مواد معبأة ومنصات بلوك",
+          "en": "Supervisor reviewing packaged materials and block pallets"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-building-finishing-materials-supply.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-building-finishing-materials-supply-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الأخشاب والألواح",
+          "en": "Timber and sheet boards"
+        },
+        "alt": {
+          "ar": "عينات بحواف MDF وأبلكاش وميلامين وخشب طبيعي",
+          "en": "Samples showing MDF, plywood, melamine and natural timber edges"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-timber-mdf-plywood-supply.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-timber-mdf-plywood-supply-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "الرخام والجرانيت",
+          "en": "Marble and granite"
+        },
+        "alt": {
+          "ar": "ألواح رخام بعروق وجرانيت منقط مثبتة في حوامل",
+          "en": "Veined marble and speckled granite slabs secured in racks"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-marble-granite-slabs.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-marble-granite-slabs-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "تفصيل أسطح المطابخ",
+          "en": "Countertop detailing"
+        },
+        "alt": {
+          "ar": "فني يفحص حافة وفتحة حوض بسطح كوارتز مدعوم",
+          "en": "Technician inspecting a supported quartz countertop edge and sink opening"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-kitchen-countertop-fabrication.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-kitchen-countertop-fabrication-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "السيراميك والبورسلان",
+          "en": "Ceramic and porcelain tiles"
+        },
+        "alt": {
+          "ar": "عينات بلاط ناعم ومحَبب في معرض مواد",
+          "en": "Smooth and textured tile samples in a materials showroom"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-ceramic-porcelain-tiles.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-ceramic-porcelain-tiles-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "حصر الكميات",
+          "en": "Quantity takeoff"
+        },
+        "alt": {
+          "ar": "مسؤول يراجع مخططًا وجدول كميات بجوار عينات",
+          "en": "Specialist reviewing a plan and quantity schedule beside samples"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-materials-boq-planning.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-materials-boq-planning-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "فحص مواصفات المواد",
+          "en": "Material specification inspection"
+        },
+        "alt": {
+          "ar": "فني يقيس حافة عينة بلاط قرب عبوة وورقة فنية",
+          "en": "Technician measuring a tile edge beside packaging and technical paper"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-material-specification-inspection.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-material-specification-inspection-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "توصيل مواد البناء",
+          "en": "Material delivery"
+        },
+        "alt": {
+          "ar": "شاحنة بحمولة مربوطة في منطقة تسليم بموقع بناء",
+          "en": "Truck with secured cargo in a construction delivery zone"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-building-material-delivery.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-building-material-delivery-mobile.webp"
+      },
+      {
+        "title": {
+          "ar": "فحص استلام الشحنة",
+          "en": "Shipment receiving inspection"
+        },
+        "alt": {
+          "ar": "مسؤول يراجع طرودًا وسند توريد في منطقة استقبال",
+          "en": "Receiver checking packages and a delivery note in a receiving bay"
+        },
+        "desktop": "/images/guides/sector-library/building-materials/uae-material-shipment-receiving.webp",
+        "mobile": "/images/guides/sector-library/building-materials/uae-material-shipment-receiving-mobile.webp"
+      }
+    ]
+  }
+}

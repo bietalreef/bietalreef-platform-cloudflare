@@ -27,10 +27,10 @@ import { trackPublicEvent } from '../lib/publicAnalytics';
 
 export default function LocalServicesPage({ model }) {
   if (model.cityCompany === 'rehab') return <RehabPresencePage data={model.data} locale={model.locale} />;
-  if (model.cityCompany === 'kawkab') return <KawkabPresencePage locale={model.locale} />;
+  if (model.cityCompany === 'kawkab') return <KawkabPresencePage locale={model.locale} portfolioProjects={model.data?.portfolioProjects} />;
   if (model.cityCompany === 'naeem') return <AlNaeemPresencePage data={model.data} locale={model.locale} />;
   if (model.cityCompany === 'published') return <PublishedCompanyPresencePage data={model.data} locale={model.locale} />;
-  if (model.districtKawkabCompany) return <KawkabPresencePage locale={model.locale} />;
+  if (model.districtKawkabCompany) return <KawkabPresencePage locale={model.locale} portfolioProjects={model.data?.portfolioProjects} />;
   if (model.districtKawkabService) return <KawkabServicePage locale={model.locale} serviceId={model.service} districtArea={model.area} />;
   if (model.districtCompany) return <RehabPresencePage data={model.data} locale={model.locale} route={model.route} />;
   if (model.districtCleaning) return <AlAinDistrictCleaningPage model={model} />;

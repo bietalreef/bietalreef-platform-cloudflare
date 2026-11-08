@@ -1,9 +1,10 @@
 # Review — التكييف والتبريد — Al Jimi
 
-- Company specialty: exact source name **التكييف والتبريد**; separate craftsperson entries not used.
-- Source Arabic services covered 14/14; English headings 14/14 in source order.
-- Per-service diagnostic issue, required evidence, agreed specification, explicit inclusions/exclusions, comparison, testing and handover.
-- No published provider, regulatory approval, availability, rates or dates presumed.
+Status: editorial_reviewed; district remains in_progress.
+
+Source: `_control/TAXONOMY_SOURCE_AR.md`, section 3, company specialty `التكييف والتبريد` (not the craftsperson category).
+
+Coverage: 14/14 Arabic service names exactly in source order, 14/14 full English equivalents. Each service has distinct need, evidence/measurements, comparison and scope/exclusions, handover test, and quotation instructions. No unsupported rates, provider availability or guarantees. Refrigerant work calls for qualified handling, diagnosis and no venting.
 
 1. تركيب تكييف سبليت — Split AC installation
 2. تركيب تكييف مركزي — Central AC installation

@@ -205,31 +205,31 @@ For kitchen hinge and runner repairs, photograph each component open and closed 
 
 ### 43. Glazed façade execution
 
-Set façade height, environmental exposure, wind design and structural fixing points. Compare curtain-wall system, glass, joints and drainage against engineered design; inspect test evidence and anchors.
+A glazed façade needs a different brief depending on whether it is a small shopfront or a multi-storey curtain-wall system: structural loads, thermal movement and design responsibility change substantially. Supply elevations, structural details and photographs of connection points. Have a qualified designer specify the framing, glass build-up, gaskets, drainage and maintenance access. Compare quotations against approved drawings, calculations, material traceability, lifting plans and testing rather than glass area alone. At handover check joint alignment, pane condition, drainage and inspection records; a fabricator's estimate is not a substitute for structural design.
 
 ### 44. Toughened glass installation
 
-Identify pane location, function, thickness, holes and edge profile before tempering. Compare fabrication details, handling and edge protection; reject chipped or cracked pieces.
+Toughened glass must be cut, drilled and edge-finished before tempering, so approve final dimensions, hinge positions, handle holes and cut-outs before manufacture. Provide a drawing showing its use, floor clearance and adjoining surfaces; ask the specialist to select glass thickness and safety characteristics appropriate to that application. Compare factory documentation, edge finish, handling and lifting arrangements, with installation priced separately where useful. On delivery inspect scratches, edge damage, hole positions and fixings. Never attempt to trim or drill a tempered pane on site.
 
 ### 45. Shopfront glazing
 
-Measure retail opening, door position, visibility, security and closure. Compare glass, framing and hardware; inspect door action, reflections and weather seals.
+A shopfront must coordinate display space, customer access, locks, signage and nearby building services, not simply maximize transparent glass. Provide opening width and height, photographs of the floor and soffit, door swing and security-device locations. Request shop drawings showing panel divisions, handles and perimeter seals. Compare framing system, glazing specification, threshold details, finish and future maintenance access. At handover test doors and locks, check alignment and inspect exposed weather seals. Any project-specific approval requirements should be checked by the appointed professional.
 
 ### 46. Glass door installation
 
-Specify panel dimensions, swing, weight, lock, hinges and fixing substrate. Compare load-rated hardware; test balanced closing without floor scraping.
+For a glass door, specify whether it swings or slides, expected traffic, clear passage width, leaf clearance and the substrate supporting its hardware. Send finished-opening dimensions and photographs of fixing locations. Ask for the glass type, panel dimensions and weight, compatible hinges or rollers, lock and stops. Compare offers for hardware capacity, adjustment and replacement access, not just the pane. At handover repeatedly operate the door, test the closing action and lock, and check floor clearance and protected edges without forcing the leaf.
 
 ### 47. Glass partition installation
 
-Lay out rooms, glass heights, privacy, acoustic expectations and doors. Compare clear or obscured glass, anchoring and seals; check panel stability and ceiling junctions.
+Plan glass partitions around desk positions, door routes, existing electrical points and ceiling services. Define the desired privacy and acoustic performance in terms suppliers can quote rather than saying 'soundproof'. Request samples of clear or obscured glass and details for connections to floor, ceiling and walls, including how a damaged pane could later be replaced. Compare panel counts, glass build-up, frame system, fittings and finishing. At handover check joint alignment, stability and door operation, and confirm that partitions do not obstruct services or circulation routes.
 
 ### 48. Glass balustrade installation
 
-Identify guard height, stair or balcony geometry, glass sizes and fixing positions. Have a qualified designer establish load resistance; compare glazing build-up and fixings, then inspect for movement.
+A glass balustrade is fall protection, not merely decoration. Supply photographs of the slab edge or stairs, route dimensions, finished levels and the concrete or steel substrate. Require a competent designer to specify loads, suitable safety-glass build-up and fixing details. Quotations should separate base shoes or brackets, anchors, edge treatment, waterproofing, any handrail and the verification plan. At handover review drawings and records, inspect anchor locations and protected edges, and verify the specified checks; shaking the rail by hand does not establish structural safety.
 
 ### 49. Façade glazing maintenance
 
-Record leaks, condensation, failed opening hardware and seal faults, including elevated access. Compare joint, drainage and component repairs plus access equipment; verify repaired areas with a targeted test.
+Start façade maintenance by identifying the symptom: rain penetration, condensation within an insulated glass unit, failed gaskets, cracked glazing or a jammed operable panel. Photograph the affected bay, its height and the conditions when the fault appears. Request diagnosis that distinguishes blocked drainage, joint defects, glazing-unit failure and building movement. Compare safe-access provisions, replacement parts, pedestrian protection, exclusions and post-repair testing. At handover record repaired bays and appropriate operating or localized water tests, plus the procedure if the fault returns.
 
 ## Steel and metal fabrication
 

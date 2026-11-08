@@ -134,7 +134,7 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite verified: general-contracting 56, interior-design 49, general-maintenance 105, building-materials 1–14. Total 224/434. Next building-materials service 15; 210 remain. 49 sequential headings verified in both languages; no approval or deployment.",
+      "review_note": "Independent bilingual rewrite verified: general-contracting 56, interior-design 49, general-maintenance 105, building-materials 1–21. Total 231/434; 203 remain. Next building-materials service 22. 49 sequential headings verified in both languages; no approval or deployment.",
       "editorial_progress": {
         "sector": "building-materials",
         "specialty": "مواد البناء والتشطيب",
@@ -152,14 +152,21 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ],
-        "next_service_number": 15,
-        "remaining_in_sector": 35,
+        "next_service_number": 22,
+        "remaining_in_sector": 28,
         "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 224,
-        "remaining_area_services_for_originality_review": 210,
+        "area_independently_rewritten": 231,
+        "remaining_area_services_for_originality_review": 203,
         "area_editorially_approved": false
       }
     },

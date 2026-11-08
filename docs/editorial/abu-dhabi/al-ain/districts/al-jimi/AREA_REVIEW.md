@@ -340,3 +340,11 @@
 - **متاجر الأدوات والمعدات** (غير قابل للاختيار حاليًا): 7 خدمات عربية و7 إنجليزية؛ [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) · [English](./equipment-rental/tools-equipment-stores/content-en.md) · [المراجعة](./equipment-rental/tools-equipment-stores/review.md). تمت إعادة قراءة الملفات الثلاثة بعد الرفع.
 - **نقل الأثاث والممتلكات**: 7 خدمات عربية و7 إنجليزية؛ [العربية](./equipment-rental/property-moving/content-ar.md) · [English](./equipment-rental/property-moving/content-en.md) · [المراجعة](./equipment-rental/property-moving/review.md). تمت إعادة قراءة الملفات الثلاثة بعد الرفع.
 - **أول نقص دقيق:** `equipment-rental/project-material-transport/content-ar.md` ثم `content-en.md` و`review.md`؛ يليه `equipment-rental/concrete-block-factories` ثم جميع تخصصات `cleaning-services` الثمانية. تحقق من أسماء المسارات والخدمات وحالة التفعيل قبل التحرير. لا تبدأ المويجعي قبل مراجعة الجيمي بالكامل.
+
+
+## تحديث نقل مواد ومعدات المشاريع ومصانع الخرسانة والطابوق — 2026-11-08
+
+- الحالة `in_progress`: **42 من 50 تخصصًا** محررًا ثنائي اللغة؛ يتبقى **8 تخصصات** من قطاع `cleaning-services`، ثم مراجعة شاملة لخدمات المنطقة الـ434 بكل لغة. هذه أحدث نقطة استئناف؛ السجلات السابقة تاريخية.
+- **نقل مواد ومعدات المشاريع**: 7 خدمات في كل لغة، بمحتوى مخصص لنوع الحمولة والتثبيت والتحميل والتفريغ والضرر والاستلام: [العربية](./equipment-rental/project-material-transport/content-ar.md) · [English](./equipment-rental/project-material-transport/content-en.md) · [المراجعة](./equipment-rental/project-material-transport/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub بعد الحفظ.
+- **مصانع الخرسانة والطابوق والمنتجات الأسمنتية** (جديد مقترح، غير مفعل تلقائيًا): 4 خدمات في كل لغة، بمحتوى مخصص للمواصفات والفحوص والتوريد: [العربية](./equipment-rental/concrete-block-factories/content-ar.md) · [English](./equipment-rental/concrete-block-factories/content-en.md) · [المراجعة](./equipment-rental/concrete-block-factories/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub بعد الحفظ.
+- **أول نقص دقيق:** `cleaning-services/homes-buildings-cleaning/content-ar.md` ثم `content-en.md` و`review.md`؛ وبعده `upholstery-cleaning`, `facades-site-cleaning`, `tanks-pools-cleaning`, `pest-rodent-control`, `disinfection-sanitisation`, `building-facility-operations`, `workforce-operations`. لا تبدأ المويجعي قبل اكتمال الجيمي ومراجعتها.

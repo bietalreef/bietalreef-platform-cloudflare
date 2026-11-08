@@ -285,60 +285,59 @@ Do not cover a damp patch with moisture-resistant paint before finding its sourc
 
 ### 64. Split AC installation
 
-Match unit capacity to the room, solar exposure and indoor/outdoor positions, noting pipe route and condensate outlet. Compare mounting, insulated lines, evacuation and commissioning; verify cooling and condensate discharge without leaks.
+For split AC installation, record room dimensions, ceiling height, glazing exposure, occupancy, outdoor-unit position and condensate route. Request a suitable cooling-load assessment rather than sizing by floor area alone. Compare quotes for insulated copper lines, electrical supply, supports, drainage and commissioning. Check secure mounting, unobstructed drainage, operating temperatures, refrigerant-circuit tightness and abnormal vibration at handover.
 
 ### 65. Central AC installation
 
-Central cooling needs room-by-room load estimates, duct routes, access for maintenance and condensate disposal. Compare equipment, controls, filters, noise and electrical demand; request airflow balancing and temperature readings by zone.
+Central AC installation requires a zone schedule, ceiling and plant-space layouts, and supply/return air routes. Request load calculations, airflow design and coordination with power, drainage and maintenance access, including equipment type, noise and controls. Compare ductwork, insulation, builder's work and commissioning inclusions; receive zone-by-zone airflow and temperature readings plus protection checks.
 
 ### 66. Concealed AC installation
 
-Verify ceiling void heights, concealed unit envelope, supply and return positions and maintenance openings. Compare insulation, suspension and drain slope; check filter access and absence of condensation on plaster.
+For concealed AC units, confirm available ceiling void, service clearance, filter access and condensate tray location. Coordinate supply and return grilles with lights, gypsum and detectors; specify pipe runs and future cleaning access. Approve a coordinated shop drawing before closing the ceiling, then physically test service access, drainage, controls and airflow balance.
 
 ### 67. AC refrigerant piping
 
-Mark copper-line lengths, elevation changes, penetrations and the refrigerant specified for the unit. Compare line sizing, insulation, supports, leak testing and evacuation; inspect before any concealed run is closed.
+Refrigerant lines and condensate drains serve different purposes. Mark each route, diameter, length and wall penetration. Specify equipment-compatible copper, properly formed joints, continuous insulation and external protection, checking manufacturer limits for line length and elevation. Record pressure and evacuation tests before concealment, check drain fall and photograph hidden routes.
 
 ### 68. Air duct installation
 
-Coordinate duct sections, structural beams, lights, diffusers and returns before fabrication. Compare sheet thickness, insulation, hangers and joint sealing; request balancing and noise observations appropriate to the job.
+Air duct installation starts with a layout showing sizes, branches, supply and return points—not just sheet-metal quantities. Review velocity, noise, insulation, hangers, balancing dampers and cleaning access above closed ceilings. Compare material gauges, leakage treatment and applicable fire provisions against the approved design; request documented leakage and airflow-balancing results.
 
 ### 69. AC equipment replacement
 
-Record the old model, fault symptoms, capacity, available space and which services can safely be reused. Compare repair versus replacement, removal and connection adaptations; obtain equipment warranty and commissioning report.
+Before replacing an AC unit, obtain a diagnosis of poor performance or recurring faults; airflow, controls or power may be responsible. Compare replacement capacity, footprint and compatibility with existing ducts, pipes, supports and electrical supply. Include lifting, removal and disposal of the old unit; handover should document model numbers, warranty, commissioning, drainage and leak checks.
 
 ### 70. System start-up and inspection
 
-Inspect start-up sequence, sensors, electrical draw, airflow, drainage and filters after installation or repair. Request readings under actual operation and a fault list; fan noise alone does not demonstrate performance.
+Commissioning is more than switching the equipment on. Require a checklist covering power, protections, fan direction, filters, condensate drainage, pressures, temperatures and controls as relevant to the system and manufacturer instructions. Compare test instruments, reporting and defect rectification; receive before-and-after readings and a brief user handover.
 
 ### 71. AC unit cleaning
 
-Identify whether filters, coil, blower or drain pan need cleaning and photograph dust or mould deposits. Compare cleaning products and protection for electronics and furnishings; inspect drainage and cleanliness before restart.
+Clarify whether the service covers filters and the indoor casing or coils, blower and drain pan; these differ in time and risk. Photograph contamination and leaks, and request a method for protecting furnishings, electrics and sensitive components. After cleaning, verify refitted filters, dry electrical connections, free drainage and absence of spray or persistent odour.
 
 ### 72. Refrigerant charge
 
-Poor cooling does not automatically mean low refrigerant: check airflow, filters, pressure and leaks first. Compare diagnosis, leak repair and charging by manufacturer specification; require operating readings, not arbitrary topping-up.
+Low refrigerant charge may indicate a leak, so repeated top-ups without diagnosis are not a sound remedy. Record the refrigerant type from the nameplate and the symptoms; request leak testing, necessary repair, evacuation and charging to manufacturer specifications by a qualified technician. Compare diagnostic, repair and charging costs separately; obtain a record of refrigerant type, quantity and operating readings.
 
 ### 73. AC fault repair
 
-Faults may involve a capacitor, controller, sensor or compressor; record the error code and when it occurs. Compare component repair and replacement with warranty terms; repeat operating cycles to check the defect is resolved.
+Describe the fault precisely: no start, breaker trips, weak cooling, dripping water or unusual noise. Note when it began and any error codes; do not repeatedly operate a unit that trips electrical protection. Request written diagnosis, failed component, cause, alternatives and warranty before replacement. Handover should reproduce and then verify resolution of the original symptom under suitable operation.
 
 ### 74. Air duct cleaning
 
-List outlets, inspection access, duct type and filter condition; photograph deposits before cleaning. Compare containment, extraction and access to hidden sections; request before-and-after evidence without unsupported sterilisation claims.
+Before pricing duct cleaning, list grilles, access points, contamination type and any recurring dust or odour complaints. Wiping visible grilles is not equivalent to cleaning ducts. Request a method for containment, extraction, access and dust control, with comparable before-and-after photographs. Inspect resealed access panels and intact insulation; duct cleaning alone does not resolve every indoor-air issue.
 
 ### 75. Central AC maintenance
 
-Inventory central units, pumps, filters, controllers, running hours and failures. Compare preventive tasks, visit frequency and excluded parts; require trends and an unresolved-fault register.
+Prepare an equipment register with unit IDs, operating hours and fault history. The maintenance scope should distinguish filters, belts, fans, condensers, drains and controls from major component repairs according to equipment type. Compare visit frequency, measured readings, reporting and fault response; receive a traceable service record for each unit rather than one generic building report.
 
 ### 76. Replacement of spare parts
 
-Obtain model and part numbers, connector photographs and fault evidence before ordering. Compare OEM or compatible approved alternatives and lead time; test the repaired function after fitting.
+Do not approve a replacement described merely as an 'AC part'. Request the equipment model, original part number or compatible specification, evidence of failure and likely cause, and check warranty implications. Compare the component price separately from labour and testing. Where agreed, retain the removed part and obtain a functional test showing the fault is resolved without a new issue.
 
 ### 77. Periodic AC maintenance contracts
 
-List unit numbers, locations, use patterns and required seasonal service levels. Compare visit schedules, emergency scope, cleaning, consumables and reporting; review fault trends instead of visit counts alone.
-
+Before signing a periodic AC maintenance contract, list equipment, locations, seasonal visits, visit tasks and access arrangements. Separate preventive work from emergency repairs, spare parts and consumables, with response and ticket-closure criteria. Compare contracts by scope and exclusions rather than visit count alone; require periodic reports, fault history and actionable recommendations.
 
 ## Smart systems and site monitoring
 

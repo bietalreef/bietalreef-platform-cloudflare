@@ -355,3 +355,11 @@
 - الحالة `in_progress`: **43 من 50 تخصصًا** محررًا باللغتين؛ يتبقى **7 تخصصات** والمراجعة النهائية لكل خدمات الجيمي. هذه نقطة الاستئناف الأحدث.
 - **تنظيف المنازل والمباني**: 7 خدمات في كل لغة بمحتوى مستقل عن نطاق التنظيف والقياسات والمواد الحساسة ومقارنة العروض والاستلام: [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) · [English](./cleaning-services/homes-buildings-cleaning/content-en.md) · [المراجعة](./cleaning-services/homes-buildings-cleaning/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub بعد الحفظ.
 - **أول نقص دقيق:** `cleaning-services/upholstery-cleaning/content-ar.md` ثم `content-en.md` و`review.md`؛ يليها `facades-site-cleaning`, `tanks-pools-cleaning`, `pest-rodent-control`, `disinfection-sanitisation`, `building-facility-operations`, `workforce-operations`. لا تبدأ المويجعي قبل اكتمال الجيمي ومراجعتها.
+
+
+## تحديث تحرير تنظيف المفروشات والواجهات والمواقع — 2026-11-08
+
+- الحالة: `in_progress`؛ **45 من 50 تخصصًا** محررًا باللغتين، ويتبقى **5 تخصصات** والمراجعة النهائية لجميع الخدمات الـ434 في كل لغة. السجلات الأقدم تاريخية وليست نقطة الاستئناف الحالية.
+- **تنظيف المفروشات**: 7 خدمات كاملة لكل لغة مع تمييز طرق التنظيف واختبار الأقمشة والتجفيف. [العربية](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [المراجعة](./cleaning-services/upholstery-cleaning/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من مطابقتها.
+- **تنظيف الواجهات والمواقع**: 4 خدمات لكل لغة مع تفصيل وسائل الوصول والسلامة وحماية الخامات والتخلص من المياه. [العربية](./cleaning-services/facades-site-cleaning/content-ar.md) · [English](./cleaning-services/facades-site-cleaning/content-en.md) · [المراجعة](./cleaning-services/facades-site-cleaning/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من مطابقتها.
+- **أول نقص دقيق:** `cleaning-services/tanks-pools-cleaning/content-ar.md` ثم `content-en.md` و`review.md`؛ بعده `pest-rodent-control` و`disinfection-sanitisation` و`building-facility-operations` و`workforce-operations`، ثم مراجعة 50 تخصصًا وجميع خدماتها قبل اعتماد الجيمي. لا تبدأ المويجعي.

@@ -1,119 +1,143 @@
 # Electrical and lighting in Al Jimi
 
-Explain the actual condition and expected outcome before seeking a company quotation for an Al Jimi property. This buyer's guide does not establish a listed business, price or appointment.
+A preparation guide for company quotations, not a claim that a company, price or appointment is available. Electrical works require qualified contractors and applicable approvals and testing. Do not personally test live circuits.
 
 ## 1. Building electrical rough-in
 
-**When this matters:** Split circuits by kitchen, AC and room loads before conduit routing. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Separate kitchen, air-conditioning and room circuits before wall closure.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Point layout, load schedule and photographs of conduit routes. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Specify conduits, boxes, conductors and protection; wall reinstatement is excluded unless priced. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Inspect routes against the approved layout and photograph concealed work. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 2. Cable and wire installation
 
-**When this matters:** Cable routes, section sizes and mechanical protection matter before plaster or ceiling closure. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Replace deteriorated wiring or connect new circuits.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Route length, conductor cross-section, exposure and mechanical protection. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Specify cables and compliant terminations; new conduit routes are excluded unless quoted. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Request insulation and continuity test records and cable-end identification. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 3. Distribution board installation
 
-**When this matters:** Distribution boards require breaker labelling, service access and specified protection. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Add circuits or replace a board that cannot safely serve planned loads.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Existing board photographs, circuit schedule, available clearance. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Itemise enclosure, protective devices and labels; upstream supply upgrades require separate approval. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check circuit labelling, test documentation and safe maintenance access. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 4. Sockets and switches installation
 
-**When this matters:** Set socket heights against furniture and wet areas for suitability. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Replace broken accessories or relocate points to suit furniture.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Point count, mounting heights, wall type and proximity to water. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Identify accessories and boxes; new circuit wiring is separate unless included. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Operate every switch and test each socket with covers securely fitted. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 5. Electrical supply for annexes
 
-**When this matters:** Annex loads and safe cable routing through outdoor areas require planning. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Connect a detached majlis or outbuilding.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Supply distance, projected load and proposed underground or overhead route. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Price cable, protection and termination; trenching and paving reinstatement are separate unless listed. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Verify protected routing and documented commissioning under expected load. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 6. Electrical network rehabilitation
 
-**When this matters:** Ageing wiring or mismatched protection calls for assessment, not random replacement. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Address repeated faults or obsolete building wiring.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Fault history, board condition and rooms included in the upgrade. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Identify circuits to isolate and replace; a full-property rewire is not assumed. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Obtain updated circuit records and relevant electrical test results. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 7. Electrical load assessment
 
-**When this matters:** Check current, protection and conductor temperature risk before adding heavy appliances. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Investigate breaker trips or assess additional high-load appliances.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Appliance ratings, usage pattern and distribution-board details. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Agree on measurements and written findings; remedial electrical works are separate. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check that the report identifies observed loads, limitations and recommended action. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 8. Indoor lighting installation
 
-**When this matters:** Living room and study lighting differ in task level and control. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Improve room lighting or replace ceiling fixtures.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Ceiling height, room dimensions, existing points and desired colour temperature. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** List fittings and connections to existing points; additional wiring is separate. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Test switching, dimming where specified and evenness of illumination. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 9. Outdoor lighting installation
 
-**When this matters:** Outdoor fittings need appropriate weather protection and cable routes. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Light entrances and façades exposed to weather.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Façade photographs, fixing heights, power source and exposure. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Specify weather-suitable fittings and secure fixings; access equipment must be quoted. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Inspect cable entries and fittings and test after dark. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 10. Chandelier installation
 
-**When this matters:** Heavy chandeliers need verified structural support, not gypsum board alone. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Suspend a heavy or multi-lamp fixture.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Fixture weight, ceiling structure, suspension height and electrical point. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Include an engineered fixing suited to the substrate; ceiling reinforcement or lifts are separate. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Confirm support stability and operation of every lamp. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 11. Concealed cove lighting
 
-**When this matters:** Set LED strip, driver, ventilation and access before closing a cove. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Create continuous ambient light in a gypsum recess.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Cove lengths, driver locations and service access. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** List LED strips, channels and drivers; gypsum construction is a separate scope. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check uniformity, flicker and access to replace drivers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 12. Garden lighting installation
 
-**When this matters:** Keep garden cables protected from irrigation and digging tools. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Illuminate paths and planting without glare.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Landscape plan, irrigation routes, walkways and power supply. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Specify protected outdoor wiring and fittings; landscaping and irrigation are separate. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Conduct a night-time check and confirm wiring avoids irrigation works. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 13. Motion sensor installation
 
-**When this matters:** Set sensor coverage and delay to avoid needless switching. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Automate entrance or corridor lighting.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Mounting height, detection angle, movement paths and pets. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Include sensor connection and sensitivity/timer adjustment; full circuit replacement is separate. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
+
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Walk-test intended approaches and check for nuisance triggers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 14. Lighting fixture maintenance
 
-**When this matters:** Flicker may arise from drivers or wiring, not only lamps. For the site survey, bring site photos, load schedules and fixture locations if available and a measured description or count of the affected locations.
+**When needed:** Investigate flicker, failure or damaged luminaires.
 
-**Scope and exclusions:** Electrical work requires appropriately qualified personnel and relevant approvals. Request circuit and load schedules, cable/breaker specifications and testing; civil repairs are not automatically included. Specify the exact material or replacement, samples, warranty and visit timing in writing. Ask who removes debris and makes good adjacent finishes. Compare equivalent deliverables, not headline totals alone.
+**Site evidence and specifications:** Fixture model photographs, symptoms and quantity. Ask a qualified contractor to verify the proposed solution and materials on site before a final price.
 
-**At handover:** Check required electrical tests, circuit labels and stable operation; then operate or inspect the repaired component under normal use. Photograph defects and record open snags before approving payment.
+**Quotation boundaries:** Separate diagnosis, replacement parts and whole-unit replacement in the quotation. Compare itemised quantities, testing, warranty, duration and responsibility for making good—not headline totals.
 
-## Request for quotation support
-
-Share the scope, site images and measurements with Biet Al Reef customer service. We can help structure a comparable request and look for a suitable business without guaranteeing provider availability, price or date.
+**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Test repaired units and record parts warranty. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.

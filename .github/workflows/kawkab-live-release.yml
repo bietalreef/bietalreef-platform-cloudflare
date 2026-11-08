@@ -1,4 +1,4 @@
-name: Kawkab Al Saeed — production build, deploy and live verification
+name: Biet Al Reef Platform — production build, deploy and live verification
 on:
   push:
     branches: [master]
@@ -12,6 +12,16 @@ on:
       - components/provider/KawkabPresencePage.js
       - components/provider/DirectoryCompanyCard.js
       - scripts/kawkab-presence.test.cjs
+      - components/provider/CompanyPageNav.js
+      - components/provider/CompanyContactBar.js
+      - components/provider/PublishedCompanyPresencePage.js
+      - components/provider/RehabPresencePage.js
+      - components/provider/AlNaeemPresencePage.js
+      - components/cards/DiscoveryEntityCard.js
+      - components/ProvidersDirectoryHero.js
+      - pages/providers/index.js
+      - pages/en/providers/index.js
+      - scripts/provider-mobile-landing.test.cjs
   workflow_dispatch:
 permissions:
   contents: read
@@ -42,6 +52,8 @@ jobs:
           cache: pnpm
       - name: Frozen dependency install
         run: pnpm install --frozen-lockfile
+      - name: Unified company pages mobile and SEO contract
+        run: node --test scripts/provider-mobile-landing.test.cjs
       - name: Kawkab provider route contract
         run: node --test scripts/kawkab-presence.test.cjs
       - name: Verify geographic directory and publication contracts

@@ -303,3 +303,10 @@
 - **متاجر الأثاث والمفروشات**: 7 خدمات عربية و7 إنجليزية، فُصّلت حسب نوع السلعة ومتطلبات التوريد والتسليم. [العربية](./furniture-decor/furniture-shops/content-ar.md) · [English](./furniture-decor/furniture-shops/content-en.md) · [المراجعة](./furniture-decor/furniture-shops/review.md). الملفات الثلاثة أعيدت قراءتها والتحقق من مطابقتها بعد الحفظ. التصنيف غير قابل للاختيار حاليًا.
 - **تنجيد وتفصيل المجالس والكنب**: 5 خدمات عربية و5 إنجليزية، مع تفصيل الهيكل والحشوات والأقمشة والقياسات والاستلام. [العربية](./furniture-decor/majlis-upholstery/content-ar.md) · [English](./furniture-decor/majlis-upholstery/content-en.md) · [المراجعة](./furniture-decor/majlis-upholstery/review.md). الملفات الثلاثة أعيدت قراءتها والتحقق من مطابقتها بعد الحفظ. التصنيف جديد مقترح.
 - **أول نقص دقيق**: `furniture-decor/curtains-carpets-furnishings/content-ar.md` ثم `content-en.md` و`review.md`؛ ملفات هذا التخصص ما زالت بنصوص عامة متكررة وتحتاج إعادة تحرير خمس خدمات في كل لغة. يلي ذلك جميع تخصصات `equipment-rental` الثمانية و`cleaning-services` الثمانية، ثم المراجعة النهائية. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## تحديث الستائر والسجاد والمفروشات — 2026-11-08
+
+- الحالة: `in_progress`؛ **34 من 50 تخصصًا** خضعت للتحرير الثنائي، ويتبقى **16 تخصصًا** والمراجعة النهائية لكل الخدمات الـ434 في كل لغة. السجلات السابقة تاريخية ولا تمثل نقطة الاستئناف.
+- تخصص **الستائر والسجاد والمفروشات** (جديد مقترح، غير مفعل): 5 خدمات مطابقة للشجرة باللغتين. [العربية](./furniture-decor/curtains-carpets-furnishings/content-ar.md) · [English](./furniture-decor/curtains-carpets-furnishings/content-en.md) · [المراجعة](./furniture-decor/curtains-carpets-furnishings/review.md). تمت إعادة قراءة ملف الإنجليزية والمراجعة بعد الحفظ، وفُحصت العربية الموجودة على الفرع.
+- **أول نقص تالٍ:** `equipment-rental/construction-lifting-equipment/content-ar.md` ثم `content-en.md` و`review.md`؛ الخدمات السبع تحتاج تحريرًا يزيل التكرار ويخصص شروط السلامة والاستلام لكل معدة. بعدها بقية تخصصات `equipment-rental` السبعة، ثم تخصصات `cleaning-services` الثمانية. يلزم التحقق من المسارات وأسماء الخدمات حرفيًا قبل كل تعديل. لا يبدأ المويجعي قبل اكتمال الجيمي وتدقيقها.

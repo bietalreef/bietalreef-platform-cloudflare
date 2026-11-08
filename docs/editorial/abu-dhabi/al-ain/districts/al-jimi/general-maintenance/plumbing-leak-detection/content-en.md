@@ -1,119 +1,143 @@
 # Plumbing and leak detection in Al Jimi
 
-For **plumbing and leak detection** at an Al Jimi property, identify the actual fault and operating conditions first. Quotes are comparable only when contractors receive the same brief. Specialist work and safety systems may require qualified personnel and relevant approvals.
+This is preparatory information for requesting quotations from companies, not a claim that a provider, price or appointment is available. Specify the Al Jimi property and access arrangements; Biet Al Reef customer service may help prepare the request without guaranteeing a response.
 
 ## 1. Water supply rough-in
 
-**Start with the fault:** Route water supplies from an agreed source to kitchens and bathrooms with protected pipe paths. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Mark kitchens, bathrooms, supply origin and pipe routes before walls are closed.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** A point schedule, pipe diameters and grades, route photos and valve positions.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare valve access and pressure-testing method; exclude fixtures and unspecified demolition. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Obtain as-built routes, concealed-work photos and pressure-test results before covering. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 2. Drainage rough-in
 
-**The key decision:** Drainage falls, venting and future access matter more than fixture count. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Start with drain locations, finished-floor levels and discharge connection to prevent backflow.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Count outlets, measure runs and levels, specify diameters and cleanouts.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare falls, inspection access and leak tests; price excavation and tiling reinstatement separately. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Run water through every outlet; check for ponding, leakage and odour. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 3. Sanitary fixture installation
 
-**Before choosing a fix:** Confirm basin and mixer heights and trap positions before drilling finishes. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Check basin, WC or mixer compatibility with existing connections before purchase.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Photograph outlets and mounting dimensions; record models and connection kits.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare fittings, sealant, old-fixture removal and disposal; do not assume fixtures are supplied. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Operate each tap and flush; check stability and dry joints. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 4. Water tank installation
 
-**Start with the fault:** Check tank capacity, delivery route, base loading and cleaning access. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Confirm capacity, location, base suitability, fill line and overflow route.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Tank volume, access and base dimensions, site photos and connection heights.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare tank material, lid, float valve, connections and cleaning; base works and lifting are separate unless included. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Check stability, lid and overflow; fill and inspect for leaks. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 5. Water pump installation
 
-**The key decision:** Specify pump pressure, dry-running protection and electrical supply. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Describe storeys, current pressure and demand pattern before selecting a pump.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Photograph old pump, electrical supply and pipe sizes; supply pressure readings if available.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare duty curve, dry-run protection, noise and warranty; electrical modifications require explicit scope. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Observe cut-in/out, pressure, vibration and leak-free connections. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 6. Pipework rehabilitation
 
-**Before choosing a fix:** Renewing corroded sections of older pipework calls for compatible materials and isolation. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Determine whether recurring corrosion, low pressure or distributed leaks justify replacement.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Photograph failures; note known system age, route lengths and isolation points.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare partial versus full replacement, pipe grade and reinstatement; approve extra openings first. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Test each circuit and record new joints and routes before concealment. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 7. Drainage maintenance
 
-**Start with the fault:** Recurring clogs or smells may indicate incorrect slope or venting, not only dirt. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Locate recurring blockage, overflow or odour and note which fixtures are affected.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Provide manhole photos, blockage history and equipment access.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare manual/mechanical clearing and camera inspection; pipe replacement is not automatic. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Flow-test after cleaning and request defect footage if a camera was used. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 8. Water leak detection
 
-**The key decision:** Meter movement when taps are closed or persistent damp patches require diagnosis before opening walls. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Note meter movement and damp timing when fixtures are off.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Meter readings, stain photos, valve locations and floor type.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare detection methods, uncertainty and location report; tracing does not automatically include opening or repair. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Request a suspected-location report, confidence level and next step without a guarantee of certainty. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 9. Pipe leak repair
 
-**Before choosing a fix:** Pinpoint a leak in context of operating pressure and joint material. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Isolate supply and determine whether the leak is exposed or concealed before opening finishes.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Photograph dampness, shutoff, pipe material and expected opening size.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare replacement joint, pressure test, waterproofing and tile reinstatement; agree hidden-damage variations. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Test under operating pressure and photograph the joint before closing. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 10. Tank leak detection
 
-**Start with the fault:** Inspect tank lid, water level and fittings before assuming the tank shell is leaking. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Distinguish tank-shell leakage from pipe, float-valve or overflow faults.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Tank photos, water level, damp location and capacity.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare shell and fitting inspection plus level monitoring; cleaning, repair and lining are separate. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Obtain suspected-source findings and test evidence before approving repair. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 11. Bathroom waterproofing
 
-**The key decision:** Assess floor falls and drain condition before waterproofing a bathroom. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Define wet-zone boundaries, wall upstands and drain detailing.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Floor area, corner lengths, drain photos and existing substrate type.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare system, substrate preparation, coats and curing; tile removal/reinstatement must be explicit. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Request a documented appropriate flood test before tiling, subject to system instructions. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 12. Roof waterproofing
 
-**Before choosing a fix:** Map roof ponding, outlets and protective layer condition. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Inspect ponding, drains and roof-wall junctions before choosing a system.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Roof area, falls, old membrane condition and service-penetration photos.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare old-layer removal/treatment, drain details and warranty; slope correction is separate. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Inspect adhesion, edges, drainage and appropriate water testing at handover. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 13. Water tank waterproofing
 
-**Start with the fault:** Water-storage tank lining needs materials suitable for intended use and cleaning before refilling. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Confirm tank type, water use and lining suitability for water contact.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Tank capacity, wall/floor area, crack photos and access openings.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare crack repair, surface preparation and potable-water suitability where relevant; lining is not disinfection. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+
+**Handover checks:** Request product evidence, curing time and fill/leak test before use. Include these details, clear photos and actual measurements in the quotation request.
 
 ## 14. Leak-related damp remediation
 
-**The key decision:** Damp skirting may come from leaks or condensation; locating the source changes the remedy. Prepare photos of damage, shutoff locations and any available pipework layout and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When and scope:** Do not repaint before stopping the source and checking substrate dryness.
 
-**Written scope:** Specify pipe and fitting materials, pressure tests and wet-zone protection; separate leak tracing from breaking out, repairs and reinstatement. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Survey evidence:** Photos of stain progression, any moisture readings and affected area.
 
-**Acceptance:** Verify functional, pressure and drainage tests and monitoring of the original damp area. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Quotes and agreement:** Compare removal, drying, mould treatment and reinstatement; paint alone does not fix leakage. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
 
-## Request for quotation support
-
-Send the description, photos and measurements to Biet Al Reef customer service. We can help prepare a clear comparison-ready request and look for suitable companies; provider availability, timing and prices cannot be guaranteed.
+**Handover checks:** Check no recurring moisture, dry substrate and sound finish after agreed observation. Include these details, clear photos and actual measurements in the quotation request.

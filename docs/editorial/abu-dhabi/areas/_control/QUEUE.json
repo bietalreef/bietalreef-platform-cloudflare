@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 35/105. Readback verified 105 sequential service headings in each language; next 36 تأسيس كهرباء المباني. 294 remain for originality review. No approval/deploy.",
+      "review_note": "Independent bilingual rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 49/105. GitHub readback verified 105 sequential service headings in both languages; next 50 تأسيس شبكات المياه. 280 remain for originality review. No approval/deploy.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الكهرباء والإنارة",
+        "specialty": "السباكة وكشف التسربات",
         "rewritten_service_numbers": [
           1,
           2,
@@ -173,14 +173,28 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
         ],
-        "next_service_number": 36,
-        "remaining_in_sector": 70,
+        "next_service_number": 50,
+        "remaining_in_sector": 56,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 140,
-        "remaining_area_services_for_originality_review": 294,
+        "area_independently_rewritten": 154,
+        "remaining_area_services_for_originality_review": 280,
         "area_editorially_approved": false
       }
     },

@@ -12,6 +12,7 @@ on:
       - components/provider/KawkabPresencePage.js
       - components/provider/DirectoryCompanyCard.js
       - scripts/kawkab-presence.test.cjs
+      - components/provider/KawkabMobileContactBar.js
       - components/provider/CompanyPageNav.js
       - components/provider/CompanyContactBar.js
       - components/provider/PublishedCompanyPresencePage.js

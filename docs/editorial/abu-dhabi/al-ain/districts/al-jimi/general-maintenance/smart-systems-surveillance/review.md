@@ -1,21 +1,23 @@
-# Review — الأنظمة الذكية والمراقبة — Al Jimi
+# مراجعة تخصص الأنظمة الذكية والمراقبة — الجيمي
 
-- Company specialty: exact source name **الأنظمة الذكية والمراقبة**; separate craftsperson entries not used.
-- Source Arabic services covered 14/14; English headings 14/14 in source order.
-- Per-service diagnostic issue, required evidence, agreed specification, explicit inclusions/exclusions, comparison, testing and handover.
-- No published provider, regulatory approval, availability, rates or dates presumed.
+- الحالة: تحرير ثنائي اللغة مكتمل لهذا التخصص فقط، والمنطقة `in_progress`.
+- المصدر: قائمة الشركات والمنشآت في `TAXONOMY_SOURCE_AR.md`، 14/14 خدمة بنفس ترتيب الأسماء العربية.
+- الإنجليزية: 14/14 عنوانًا مترجمًا، لا عناوين عربية متروكة.
+- لكل خدمة: الحاجة، الصور والمقاسات، النطاق والاستثناءات، المقارنة والاتفاق، اختبار الاستلام وطلب عرض السعر.
+- الخصوصية والصلاحيات والتوافق ومتطلبات الجهات المختصة مذكورة دون ادعاء تفعيل أو توفر مزود.
+- الملفات: [العربي](./content-ar.md) · [English](./content-en.md).
 
-1. التحكم الذكي في الإنارة — التحكم الذكي في الإنارة
-2. التحكم الذكي في التكييف — التحكم الذكي في التكييف
-3. تركيب الأقفال الذكية — تركيب الأقفال الذكية
-4. تركيب الستائر الذكية — تركيب الستائر الذكية
-5. ربط الأجهزة بتطبيق الهاتف — ربط الأجهزة بتطبيق الهاتف
-6. تنفيذ السيناريوهات الذكية — تنفيذ السيناريوهات الذكية
-7. صيانة أنظمة المنزل الذكي — صيانة أنظمة المنزل الذكي
-8. تركيب كاميرات المراقبة — تركيب كاميرات المراقبة
-9. تركيب أجهزة التسجيل — تركيب أجهزة التسجيل
-10. تركيب أنظمة الإنذار — تركيب أنظمة الإنذار
-11. تركيب أنظمة الدخول — تركيب أنظمة الدخول
-12. تركيب الإنتركم — تركيب الإنتركم
-13. صيانة كاميرات المراقبة — صيانة كاميرات المراقبة
-14. ربط المراقبة بالهاتف — ربط المراقبة بالهاتف
+1. التحكم الذكي في الإنارة — Smart lighting control
+2. التحكم الذكي في التكييف — Smart air-conditioning control
+3. تركيب الأقفال الذكية — Smart lock installation
+4. تركيب الستائر الذكية — Motorised curtain installation
+5. ربط الأجهزة بتطبيق الهاتف — Connecting devices to a mobile app
+6. تنفيذ السيناريوهات الذكية — Smart automation scenes
+7. صيانة أنظمة المنزل الذكي — Smart-home system maintenance
+8. تركيب كاميرات المراقبة — CCTV camera installation
+9. تركيب أجهزة التسجيل — CCTV recorder installation
+10. تركيب أنظمة الإنذار — Alarm system installation
+11. تركيب أنظمة الدخول — Access-control system installation
+12. تركيب الإنتركم — Video/audio intercom installation
+13. صيانة كاميرات المراقبة — CCTV camera maintenance
+14. ربط المراقبة بالهاتف — Mobile CCTV viewing setup

@@ -272,3 +272,9 @@
 - الحالة `in_progress`: **25 من 50 تخصصًا** محررًا ثنائي اللغة؛ يتبقى **25 تخصصًا** والتدقيق النهائي لـ434 خدمة في كل لغة.
 - أُعيد تحرير سبع خدمات بكل لغة: [العربي](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [المراجعة](./building-materials/ceramic-porcelain/review.md).
 - **أول نقص تالٍ:** `aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md` ثم `content-en.md` و`review.md`؛ يليها الأثاث والديكور الخشبي، الألمنيوم والأبواب والنوافذ، الواجهات والأعمال الزجاجية، تشكيل الحديد والمعادن ثم القطاعات الباقية. الجيمي غير مكتملة ولا يبدأ المويجعي.
+
+## تحديث المطابخ والخزائن والأبواب الخشبية — 2026-11-08
+
+- الحالة: `in_progress`؛ أُعيد تحرير **26 من 50 تخصصًا** ثنائي اللغة؛ يتبقى **24 تخصصًا** والمراجعة الشاملة للمنطقة (434 خدمة بكل لغة).
+- 14 خدمة للشركات في تخصص المطابخ والخزائن والأبواب الخشبية، مع نطاق مستقل ومقاسات واستثناءات ومقارنة واستلام؛ [العربي](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) · [English](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md) · [المراجعة](./aluminium-glass/wood-kitchens-cabinets-doors/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق من مطابقتها.
+- **أول نقص تالٍ:** `aluminium-glass/wood-furniture-decor/content-ar.md` (تحقق من اسم المجلد في الفرع) ثم `content-en.md` و`review.md`؛ بعده الألمنيوم والأبواب والنوافذ، الواجهات والأعمال الزجاجية، تشكيل الحديد والمعادن، ثم الأثاث والمفروشات والتجهيز، المصانع ومعدات الإيجار، والتنظيف والتعقيم ومكافحة الحشرات. لا تبدأ المويجعي قبل اكتمال الجيمي.

@@ -126,33 +126,31 @@ Board cutting and preparation requires more than supplying raw sheets. Submit a 
 
 ### 29. Natural marble supply
 
-Specify stone type, colour variation, slab size and thickness. Compare actual slab photographs, source and vein layout; inspect transport cracks before fabrication.
+Specify natural marble against a layout showing each application, slab dimensions and required thickness rather than selecting from a colour photograph. Veining and variation between slabs are inherent, while stair treads, floors and wall cladding call for different finishes, slip characteristics and fixing methods. Ask for photographs and batch references of the actual slabs, a vein-matching and cutting layout, expected waste, edge finishing and delivery arrangements. Compare net-area pricing against whole-slab purchasing including offcuts and transport. Before installation, inspect cracks, corners, thickness and correspondence with the approved slabs.
 
 ### 30. Granite supply
 
-State whether granite is for worktops, floors or steps and its slip and weather exposure. Compare staining, finish and thickness; approve an actual stone sample.
+Granite should not automatically be substituted for marble: surface wear, staining, moisture, heat exposure and intended use matter. Supply dimensions for floors or counters, cut-out positions, edge profiles and finish, and request a physical sample showing grain, colour and thickness. Quotations should distinguish raw material, cutting, finishing, transport and lifting to the installation floor, and explain natural variation between batches. At delivery, check slab identification, dimensions, the specified polished or textured finish, and hairline damage near edges.
 
 ### 31. Custom-size marble cutting
 
-Issue dimensioned templates showing edges, openings and vein direction before cutting. Compare mitres, edge work, fabrication and packing; measure completed pieces against drawings.
+Custom marble cutting requires a dimensioned shop drawing checked against finished site conditions, not rough measurements taken before adjacent finishes are complete. List pieces, grain direction, slab thickness, saw-kerf allowance, openings, corners and edge profiles. Have the workshop approve a cutting diagram before production and agree who pays for breakage or recutting caused by measurement discrepancies. Receive numbered pieces, measure lengths and diagonals where relevant, and inspect straightness and finished edges before dispatch to site.
 
 ### 32. Marble polishing
 
-Identify scratch depth, prior sealers and stone type. Compare polishing grits, material removal and dust control; inspect uniform sheen without hazing.
+Grinding and polishing can address superficial scratches and dullness, but cannot by itself correct deep fractures, subsidence or moisture beneath a floor. Provide side-lit photographs, floor area, details of staining, open joints and earlier treatments. Agree a small trial area to establish abrasion stages and stone-compatible polishing products, together with protection of doors and walls and control of slurry and dust. Compare joint repairs, polishing stages and final protection in each quotation. Inspect the dry floor for consistent sheen, swirl marks and unsuitable slipperiness.
 
 ### 33. Marble floor laying
 
-Record floor area, stone thickness, substrate condition, joints and thresholds. Compare levelling, bedding and post-installation finishing; inspect lippage and vein direction.
+Before laying marble flooring, survey substrate flatness, door thresholds and drainage levels as well as the net floor area. Provide a layout identifying grain direction, cut-piece distribution, joints and transitions; specify slab thickness and an installation system suitable for the project design. Separate substrate preparation, any required waterproofing, cutting, laying, grouting and post-installation protection in the quotation. At handover, check levels, joint alignment, bond and visual consistency with the approved setting-out plan; significant unevenness should not be concealed by polishing alone.
 
 ### 34. Wall and façade marble installation
 
-Measure wall height, fixing points, openings and stone weight. Compare engineered mechanical fixing or appropriate bonding and check safe anchorage and edge details.
+Marble wall or façade cladding must be priced against cladding height, slab size and weight, supporting wall construction and the proposed fixing system. Attach elevations, opening and corner details and junctions with windows. Request an approved fixing design addressing anchors, movement joints and water management appropriate to the location. The quotation should allocate responsibility for design, supply, lifting, access equipment and installation. Heavy slabs must not rely on an unsuitable adhesive-only arrangement. Inspect joint alignment, secure fixing, protected edges and water-shedding details at handover.
 
 ### 35. Marble restoration
 
-Photograph cracks, staining, wear and acid damage before specifying restoration. Compare specialist cleaning, filling, local replacement and polishing; inspect colour and edge consistency.
-
-## Kitchen surfaces and basins
+Marble restoration begins with diagnosis: penetrating stain, chemical etching, chipped edge, crack or loose slab each needs a different remedy. Photograph the damage beside a scale and disclose cleaners used and any suspected moisture source. Request an inspection that establishes whether repair is feasible or replacement is necessary. Compare resin filling, consolidation, grinding and replacement in terms of achievable appearance and colour variation; avoid acidic or stone-incompatible treatments. Accept the repair after checking bond, surface feel and appearance in natural light.
 
 ### 36. Fabricate kitchen worktops
 

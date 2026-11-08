@@ -266,3 +266,9 @@
 - الحالة `in_progress`: **24 من 50 تخصصًا** محررًا باللغتين؛ يتبقى **26 تخصصًا** والتدقيق النهائي للمنطقة.
 - سبع خدمات لكل لغة: [العربي](./building-materials/kitchen-countertops/content-ar.md) · [English](./building-materials/kitchen-countertops/content-en.md) · [المراجعة](./building-materials/kitchen-countertops/review.md).
 - **أول نقص تالٍ:** `building-materials/ceramic-porcelain/content-ar.md` ثم `content-en.md` و`review.md`، وبعده قطاع ورش الحديد والألمنيوم والزجاج والأخشاب وبقية القطاعات. الجيمي غير مكتملة.
+
+## تحديث السيراميك والبورسلان — 2026-11-08
+
+- الحالة `in_progress`: **25 من 50 تخصصًا** محررًا ثنائي اللغة؛ يتبقى **25 تخصصًا** والتدقيق النهائي لـ434 خدمة في كل لغة.
+- أُعيد تحرير سبع خدمات بكل لغة: [العربي](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [المراجعة](./building-materials/ceramic-porcelain/review.md).
+- **أول نقص تالٍ:** `aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md` ثم `content-en.md` و`review.md`؛ يليها الأثاث والديكور الخشبي، الألمنيوم والأبواب والنوافذ، الواجهات والأعمال الزجاجية، تشكيل الحديد والمعادن ثم القطاعات الباقية. الجيمي غير مكتملة ولا يبدأ المويجعي.

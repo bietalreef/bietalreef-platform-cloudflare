@@ -6,16 +6,14 @@ import Footer from '../../components/Footer';
 import SEOHead from '../../components/SEOHead';
 import ProvidersSmartFooter from '../../components/ProvidersSmartFooter';
 import { ChevronLeft } from 'lucide-react';
-import { ProviderCard } from '../../components/cards/SmartEntityCard';
+import CompanyDirectoryList from '../../components/CompanyDirectoryList';
 import ProviderSectorCards from '../../components/ProviderSectorCards';
 import ProviderSelectionGuide from '../../components/ProviderSelectionGuide';
-import DirectoryCustomerSupportCard from '../../components/DirectoryCustomerSupportCard';
 import {
   getPublishedProviderCards,
   getUaeSectionCards,
 } from '../../lib/platformDirectoryCards';
 import ProvidersDirectoryHero from '../../components/ProvidersDirectoryHero';
-import SectionBackBar from '../../components/SectionBackBar';
 import { getRehabSiteData } from '../../lib/rehabPresence';
 import { getAlNaeemData } from '../../lib/alNaeemPresence';
 
@@ -53,11 +51,11 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
       />
 
       <Navbar pageTitle="الشركات والمهنيون" />
-      <SectionBackBar />
 
       <main className="-mt-[1px]">
         <ProvidersDirectoryHero locale="ar" />
-        <section id="provider-sectors" className="mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
+        <CompanyDirectoryList companies={companyCards} locale="ar" />
+        <section id="provider-sectors" className="scroll-mt-40 mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
           <div className="mb-2 md:mb-8 md:text-right">
             <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm md:inline-flex">
               تخصصات لبيتك ومشروعك
@@ -70,24 +68,7 @@ export default function ProvidersPage({ providers = [], directoryCards = [], reh
           <ProviderSectorCards locale="ar" />
         </section>
 
-        <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14">
-          <div className="mb-2 md:mb-10 md:text-right">
-            <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] md:inline-flex">
-              تعرف على الشركات وخدماتها
-            </span>
-            <h2 className="text-base font-black text-[#0F3F1A] md:mb-3 md:mt-4 md:text-3xl">الشركات المتاحة الآن</h2>
-            <p className="hidden leading-8 text-gray-500 md:block">
-              تعرف على خدمات كل شركة وأعمالها، وتواصل معها لاختيار ما يناسب احتياجك.
-            </p>
-          </div>
 
-          <div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">
-
-            {companyCards.length ? companyCards.map((provider) => (
-              <ProviderCard key={provider.id} item={provider} locale="ar" showReading />
-            )) : <DirectoryCustomerSupportCard locale="ar" />}
-          </div>
-        </section>
 
         <ProviderSelectionGuide locale="ar" />
 

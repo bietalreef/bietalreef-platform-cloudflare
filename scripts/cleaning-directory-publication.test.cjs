@@ -50,7 +50,7 @@ test('Discount offers stay in the platform publication channel and carry bilingu
  assert.match(card,/item\.discount_percent===10/);
  assert.match(card,/detail\.linked_service_slug/);
  assert.match(grid,/DiscoveryEntityCard/);
- assert.match(discoveryCard,/discountPercent===10/);
+ assert.match(discoveryCard,/discountPercent>0/);
  assert.match(directory,/PublishedOfferGrid/);
  assert.match(enDirectory,/PublishedOfferGrid/);
 });

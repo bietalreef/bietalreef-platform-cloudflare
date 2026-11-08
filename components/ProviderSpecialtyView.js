@@ -55,16 +55,16 @@ export default function ProviderSpecialtyView({ service, providers, locale = 'ar
   const name = isEn ? service.nameEn || service.nameAr : service.nameAr;
   const image = service.image || '/images/providers-hero.webp';
   const guide = PROVIDER_SPECIALTY_GUIDES[service.slug]?.[locale];
-  const joinHref = isEn ? 'https://play.google.com/store/apps/details?id=ae.bietalreef.app' : 'https://play.google.com/store/apps/details?id=ae.bietalreef.app';
+  const joinHref = 'https://providers.bietalreef.ae/';
   return (
     <main dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FDFBF7] text-[#0F3F1A]">
       <section className="mx-auto max-w-6xl px-4 pt-6 md:pt-10">
-        <div className="relative min-h-[460px] overflow-hidden rounded-[2.5rem] border border-[#D4AF37]/35 shadow-[0_28px_70px_rgba(18,58,70,.16)] md:min-h-[560px]">
+        <div className="relative min-h-[300px] overflow-hidden rounded-[2rem] border border-[#D4AF37]/35 shadow-[0_28px_70px_rgba(18,58,70,.16)] md:min-h-[560px]">
           <Image src={image} alt={name} fill priority className="object-cover" sizes="(max-width: 1200px) 100vw, 1200px" />
           <div className="absolute inset-0 bg-gradient-to-t from-[#071A10]/95 via-[#071A10]/48 to-transparent" />
           <div className="absolute inset-x-0 bottom-0 p-6 text-white md:p-10">
             <span className="inline-flex items-center gap-2 rounded-full border border-[#F7E7A0]/40 bg-[#123A46]/85 px-4 py-2 text-xs font-black backdrop-blur-xl"><Building2 className="h-4 w-4 text-[#F7E7A0]" />{isEn ? 'Service provider sector' : 'قطاع الشركات والمهنيين'}</span>
-            <h1 className="mt-5 max-w-4xl text-4xl font-black leading-tight md:text-6xl">{isEn ? `${name} Providers` : `شركات ${name}`}</h1>
+            <h1 className="mt-3 max-w-4xl text-2xl font-black leading-tight md:mt-5 md:text-6xl">{isEn ? `${name} Providers` : `شركات ${name}`}</h1>
             <p className="mt-4 max-w-3xl text-sm font-semibold leading-8 text-white/85 md:text-lg">{isEn ? 'Explore published business profiles in this specialty and confirm their services, location and availability directly.' : 'تصفح ملفات الجهات المنشورة في هذا التخصص، وتواصل معها لتأكيد الخدمات والتغطية والموعد.'}</p>
           </div>
         </div>

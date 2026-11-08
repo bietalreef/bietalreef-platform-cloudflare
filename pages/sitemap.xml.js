@@ -10,6 +10,7 @@ import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
 import { getAlNaeemData, alNaeemPath } from '../lib/alNaeemPresence';
 import { CLEANING_CONTENT_UPDATED_AT } from '../lib/cleaningLandingContent';
+import { latestContentDate } from '../lib/contentDates.cjs';
 import {
   getPublishedProductsForSitemap,
   getPublishedProviderCards,
@@ -160,11 +161,16 @@ export async function getServerSideProps({ res }) {
         items.forEach((item) => routePairs.push({ kind, slug: item.slug }));
       }
       routePairs.forEach((route) => {
+        const records=route.kind==='services'?rehab.services:route.kind==='offers'?rehab.offers:route.kind==='service-areas'?rehab.areas:[];
+        const dates=(route.slug?records.filter(item=>item.slug===route.slug):records).map(item=>item.updated_at);
+        // Portfolio snapshots do not currently expose their edit timestamps.
+        // Omit the home-page date instead of publishing a stale or guessed one.
+        const lastmod=route.kind==='home'?null:latestContentDate(CLEANING_CONTENT_UPDATED_AT,rehab.profile.updated_at,dates,rehab.areas.map(area=>area.updated_at));
         addPair(
           presencePath('ar', route),
           presencePath('en', route),
           route.kind === 'home' ? rehab.profile.cover_image_url : undefined,
-          { priority: route.kind === 'home' ? 0.8 : 0.65, lastmod: CLEANING_CONTENT_UPDATED_AT },
+          { priority: route.kind === 'home' ? 0.8 : 0.65, lastmod },
         );
       });
       // Geographic service combinations are backed by the same published service
@@ -172,7 +178,7 @@ export async function getServerSideProps({ res }) {
       rehab.areas.forEach((area) => {
         rehab.services.forEach((service) => {
           const route = { kind: 'services', slug: service.slug, areaSlug: area.slug };
-          addPair(presencePath('ar', route), presencePath('en', route), undefined, { priority: 0.61, lastmod: CLEANING_CONTENT_UPDATED_AT });
+          addPair(presencePath('ar', route), presencePath('en', route), undefined, { priority: 0.61, lastmod: latestContentDate(CLEANING_CONTENT_UPDATED_AT,rehab.profile.updated_at,area.updated_at,service.updated_at) });
         });
       });
     }
@@ -190,7 +196,7 @@ export async function getServerSideProps({ res }) {
           companyPath(company.slug, 'ar', route.kind, route.slug),
           companyPath(company.slug, 'en', route.kind, route.slug),
           route.kind === 'home' ? company.cover : null,
-          { priority: route.kind === 'home' ? 0.78 : 0.64 },
+          { priority: route.kind === 'home' ? 0.78 : 0.64, lastmod: route.lastmod },
         );
       }
     }

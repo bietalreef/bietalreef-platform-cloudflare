@@ -4,16 +4,14 @@ import Link from 'next/link';
 import SEOHead from '../../../components/SEOHead';
 import EnglishLayout from '../../../components/EnglishLayout';
 import ProvidersSmartFooter from '../../../components/ProvidersSmartFooter';
-import { ProviderCard } from '../../../components/cards/SmartEntityCard';
+import CompanyDirectoryList from '../../../components/CompanyDirectoryList';
 import ProviderSectorCards from '../../../components/ProviderSectorCards';
 import ProviderSelectionGuide from '../../../components/ProviderSelectionGuide';
-import DirectoryCustomerSupportCard from '../../../components/DirectoryCustomerSupportCard';
 import {
   getPublishedProviderCards,
   getUaeSectionCards,
 } from '../../../lib/platformDirectoryCards';
 import ProvidersDirectoryHero from '../../../components/ProvidersDirectoryHero';
-import SectionBackBar from '../../../components/SectionBackBar';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import { getAlNaeemData } from '../../../lib/alNaeemPresence';
 
@@ -29,10 +27,10 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
     <>
       <SEOHead title="UAE Business and Professional Directory | Biet Al Reef" description="Explore UAE construction, maintenance, cleaning, design and supply businesses. Review each profile and specialty before requesting a quotation." canonicalPath="/en/providers" alternatePath="/en/providers" ogImage="https://bietalreef.ae/images/providers-hero.webp" structuredData={providerDirectorySchema(companyCards, 'en')}/>
       <EnglishLayout>
-        <SectionBackBar locale="en" />
         <main dir="ltr" className="-mt-[1px] bg-[#FDFBF7] text-left">
           <ProvidersDirectoryHero locale="en" />
-          <section id="provider-sectors" className="mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
+          <CompanyDirectoryList companies={companyCards} locale="en" />
+          <section id="provider-sectors" className="scroll-mt-40 mx-auto max-w-6xl px-3 py-2 md:px-4 md:py-14">
             <div className="mb-2 md:mb-8 md:text-left">
               <span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm md:inline-flex">8 main sectors</span>
               <h2 className="text-base font-black text-[#0F3F1A] md:mt-4 md:text-4xl">Sectors & specialties</h2>
@@ -40,7 +38,7 @@ export default function ProvidersEnglishPage({ providers = [], directoryCards = 
             </div>
             <ProviderSectorCards locale="en" />
           </section>
-          <section className="mx-auto max-w-6xl px-3 pb-5 pt-2 md:px-4 md:py-14"><div className="mb-2 md:mb-10 md:text-left"><span className="hidden rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] md:inline-flex">Published business profiles</span><h2 className="text-base font-black text-[#0F3F1A] md:mb-3 md:mt-4 md:text-3xl">Available providers</h2><p className="hidden leading-8 text-gray-500 md:block">Review each published profile and confirm the service, coverage and timing directly with the business.</p></div><div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-6">{companyCards.length ? companyCards.map((provider) => <ProviderCard key={provider.id} item={provider} locale="en" showReading />) : <DirectoryCustomerSupportCard locale="en" />}</div></section>
+
           <ProviderSelectionGuide locale="en" />
           <section className="hidden border-y border-[#E6DCC8] bg-white py-20 md:block"><div className="mx-auto max-w-6xl px-4 text-center"><h2 className="mb-4 text-3xl font-black text-[#0F3F1A]">How do you join the Biet Al Reef network?</h2><p className="mb-12 text-gray-500">Simple steps to start your digital growth journey with us</p><div className="grid gap-12 md:grid-cols-3">{steps.map((step) => (<div key={step.i} className="relative text-center"><div className="absolute -top-10 left-1/2 z-0 -translate-x-1/2 text-8xl font-black text-gray-50">{step.i}</div><div className="relative z-10"><h3 className="mb-3 text-xl font-black text-[#0F3F1A]">{step.t}</h3><p className="text-sm leading-7 text-gray-500">{step.d}</p></div></div>))}</div></div></section>
           <ProvidersSmartFooter locale="en" directoryCards={directoryCards} />

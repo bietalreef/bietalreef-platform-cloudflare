@@ -47,7 +47,10 @@ test('Baniyas full guide is included only in the actual existing area route; res
 test('No fake sector coverage or hardcoded company list is introduced',()=>{
  const area=read('components/AbuDhabiAreaGuide.js');
  assert.match(area,/providers\.map\(/);
- assert.match(read('lib/abuDhabiAreaPublishedCompanies.js'),/getUaeDirectoryEntities/);
+ const loader=read('lib/abuDhabiAreaPublishedCompanies.js');
+ assert.match(loader,/provider_public_profiles/);
+ assert.match(loader,/provider_service_locations/);
+ assert.match(loader,/isCovered\(/);
  const local=JSON.parse(read('data/abuDhabiAreaEditorial.json'));
  assert.equal(Object.keys(local.areas).length,11);
 });

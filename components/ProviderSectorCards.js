@@ -41,9 +41,6 @@ export default function ProviderSectorCards({ locale = 'ar' }) {
             </DirectoryReadingDialog>
             {primary ? <Link className={styles.explore} href={primary.href}>{en ? 'Explore' : 'استكشف'}<Arrow aria-hidden="true"/></Link> : <a className={styles.explore} href="https://wa.me/971564456337">{en ? 'Customer service' : 'خدمة العملاء'}<Arrow aria-hidden="true"/></a>}
           </div>
-          {choices.length > 1 && <div className={styles.specialties} aria-label={en ? 'Other specialties' : 'تخصصات أخرى'}>
-            {choices.slice(1).map(choice => <Link key={choice.slug} href={choice.href}>{choice.name}</Link>)}
-          </div>}
         </div>
       </article>;
     })}

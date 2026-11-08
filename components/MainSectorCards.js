@@ -11,9 +11,9 @@ const CATEGORY_SLUGS = {
   'interior-design': ['engineering-consultants', 'interior-design'],
   'general-maintenance': ['general-maintenance', 'finishing-works'],
   'building-materials': ['building-materials'],
-  'aluminium-glass': ['workshops', 'aluminium-glass', 'carpentry'],
+  'aluminium-glass': ['aluminium-glass', 'workshops', 'carpentry'],
   'furniture-decor': ['furniture-decor'],
-  'equipment-rental': ['workshops', 'equipment-rental'],
+  'equipment-rental': ['equipment-rental', 'workshops'],
   'cleaning-services': ['cleaning-services'],
 };
 

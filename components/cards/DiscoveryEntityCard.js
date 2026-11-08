@@ -12,7 +12,7 @@ export default function DiscoveryEntityCard({item,locale='ar',type='service'}) {
   const amount=Number(item.priceValue);
   return <article dir={en?'ltr':'rtl'} className="flex h-full min-w-0 flex-row overflow-hidden rounded-2xl border border-[#e2d8c6] bg-white shadow-sm sm:flex-col sm:rounded-3xl">
     <Link href={href} aria-label={title} className="relative block w-2/5 shrink-0 overflow-hidden bg-[#f3efe7] sm:aspect-[4/3] sm:w-full">
-      {image?<picture>{item.imageMobile&&<source media="(max-width:700px)" srcSet={item.imageMobile}/>}<img src={image} alt={title} loading="lazy" decoding="async" width="1440" height="1080" className="absolute inset-0 h-full w-full object-contain"/></picture>:<span className="flex h-full items-center justify-center text-[#ac8b52]">{type==='offer'?<BadgePercent size={32}/>:<Building2 size={32}/>}</span>}
+      {image?<picture className="absolute inset-0 block h-full w-full">{item.imageMobile&&<source media="(max-width:700px)" srcSet={item.imageMobile}/>}<img src={image} alt={title} loading="lazy" decoding="async" width="1440" height="1080" className="absolute inset-0 h-full w-full object-cover object-center"/></picture>:<span className="flex h-full items-center justify-center text-[#ac8b52]">{type==='offer'?<BadgePercent size={32}/>:<Building2 size={32}/>}</span>}
       {type==='offer'&&item.discountPercent>0&&<span className="absolute end-1 top-1 rounded-lg bg-white/95 px-2 py-1 text-xs font-extrabold text-[#24354B] sm:end-3 sm:top-3">{en?`${item.discountPercent}% OFF`:`خصم ${item.discountPercent}%`}</span>}
     </Link>
     <div className="flex min-w-0 flex-1 flex-col gap-2 p-3 sm:p-5">

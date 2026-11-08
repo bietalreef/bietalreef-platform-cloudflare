@@ -134,17 +134,25 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "Independent bilingual rewrite: first five sectors 315/434 services completed, including aluminium-glass 56/56. Remaining 119 services across furniture-decor (24), equipment-rental (53), cleaning-services (42). Verified sequential 56 AR and EN headings after reread; no editorial approval or deployment.",
+      "review_note": "322/434 independently rewritten in both languages. Furniture manufacturing services 1-7 verified; 17 furniture services plus 53 equipment and 42 cleaning remain. No editorial approval or deployment.",
       "editorial_progress": {
         "sector": "furniture-decor",
-        "specialty": "pending first specialty per TAXONOMY_SOURCE_AR.md",
-        "rewritten_service_numbers": [],
-        "next_service_number": 1,
-        "remaining_in_sector": 24,
+        "specialty": "متاجر الأثاث والمفروشات",
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "next_service_number": 8,
+        "remaining_in_sector": 17,
         "sector_total": 24,
         "area_total": 434,
-        "area_independently_rewritten": 315,
-        "remaining_area_services_for_originality_review": 119,
+        "area_independently_rewritten": 322,
+        "remaining_area_services_for_originality_review": 112,
         "area_editorially_approved": false
       }
     },

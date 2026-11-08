@@ -324,3 +324,11 @@
 - الحالة: `in_progress`؛ **36 من 50 تخصصًا** أعيد تحريرها باللغتين؛ يتبقى **14 تخصصًا** ثم مراجعة شاملة لجميع الخدمات الـ434 بكل لغة.
 - خدمات تأجير الأدوات والمعدات الخفيفة السبع مكتملة تحريريًا ومراجعة: [العربية](./equipment-rental/light-tools-rental/content-ar.md) · [English](./equipment-rental/light-tools-rental/content-en.md) · [المراجعة](./equipment-rental/light-tools-rental/review.md). تم التحقق بإعادة قراءة الملفات الثلاثة من الفرع.
 - **نقطة الاستئناف:** `equipment-rental/aluminium-glass-factories/content-ar.md` ثم `content-en.md` و`review.md`، وبعدها `marble-stone-factories`، `tools-equipment-stores`، `property-moving`، `project-material-transport`، `concrete-block-factories`، ثم تخصصات `cleaning-services` الثمانية. لا تبدأ المويجعي قبل تدقيق الجيمي واعتمادها.
+
+
+## تحديث مصانع الألمنيوم والزجاج والرخام والحجر — 2026-11-08
+
+- الحالة `in_progress`؛ أُعيد تحرير **38 من 50 تخصصًا** باللغتين، ويتبقى **12 تخصصًا** ومراجعة جميع خدمات المنطقة الـ434 بكل لغة.
+- **مصانع الألمنيوم والزجاج** (غير قابل للاختيار): 7 خدمات عربية و7 إنجليزية، محتوى مخصص للقياسات والمواصفات والمقارنة والاستلام: [العربية](./equipment-rental/aluminium-glass-factories/content-ar.md) · [English](./equipment-rental/aluminium-glass-factories/content-en.md) · [المراجعة](./equipment-rental/aluminium-glass-factories/review.md). أُعيدت قراءة الملفات الثلاثة وتطابقت.
+- **مصانع الرخام والحجر** (غير قابل للاختيار): 7 خدمات عربية و7 إنجليزية، محتوى مخصص للتصنيع والقص والتشطيب والاستلام: [العربية](./equipment-rental/marble-stone-factories/content-ar.md) · [English](./equipment-rental/marble-stone-factories/content-en.md) · [المراجعة](./equipment-rental/marble-stone-factories/review.md). أُعيدت قراءة الملفات الثلاثة وتطابقت.
+- **أول نقص دقيق:** `equipment-rental/tools-equipment-stores/content-ar.md` ثم `content-en.md` و`review.md`، يليها `property-moving` و`project-material-transport` و`concrete-block-factories`، ثم تخصصات `cleaning-services` الثمانية. الملفات الموجودة مسبقًا لا تُحتسب محررة دون إعادة تدقيق. لا يبدأ المويجعي قبل إكمال الجيمي ومراجعتها.

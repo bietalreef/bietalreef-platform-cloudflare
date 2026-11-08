@@ -38,31 +38,38 @@ Kitchen and wardrobe refurbishment begins by diagnosing the defect: loose hinges
 
 ### 8. Wooden door fabrication
 
-Specify rough opening, swing, core construction, finish and moisture exposure. Compare core, lippings and hinges; inspect straight leaves and correctly positioned lock mortises.
+Before making a timber door, record the finished opening, final floor level, required clear passage width, swing and lock position. A bedroom leaf and a moisture-exposed bathroom door need different edge and core specifications. Ask for the core construction, veneer or board grade, bottom-edge protection, leaf thickness, frame details and hinge positions. Compare complete leaf-and-frame packages, thresholds, hardware, finishing and transport rather than the leaf price alone. Approve a finish sample and lock preparation drawing before cutting. At handover check straightness, even perimeter gaps and any warping.
+
 
 ### 9. Door installation
 
-Measure the opening after plaster and flooring; check swing and under-door clearance. Compare frame anchoring, hinge reinforcement and sealant; test latching and smooth closing.
+Door installation starts with measuring the opening at several heights and checking the finished floor level and frame alignment, especially where adjacent rooms have different floor finishes. Supply photographs of both sides and state whether the existing leaf and frame will be reused. Quotations should distinguish removal, plaster repairs, frame anchoring, hardware fitting and perimeter sealing, with fixings appropriate to the wall substrate. At handover repeatedly open and close the door, test latch and lock engagement, inspect bottom clearance and confirm there is no rubbing or unintended swing.
+
 
 ### 10. Fire-rated door fabrication
 
-Fire-door requirements come from the approved project schedule and location, not from a marketing label. Request evidence for the complete rated assembly—leaf, frame, seals, hardware and qualified installation—and check matching components.
+A fire-rated door is not simply a heavy timber door or a special paint finish. Its specification must come from the approved door schedule and applicable project documentation. Provide the door reference, location, wall opening and documented required rating. Request test and certification evidence for the complete assembly, including leaf, frame, intumescent seals, hinges, closer and lockset. Compare offers for system compatibility, installation scope and documentation; do not accept substitute hardware without evidence that it belongs to the tested assembly. A competent specialist should check labels, documentation, gaps, closing action and installation at handover. No universal rating is assumed without project evidence.
+
 
 ### 11. Doorframe construction
 
-Measure wall thickness, rough opening, frame section and threshold before fabrication. Compare treated timber and anchors; inspect plumb frames that let the door operate without twist.
+Doorframe fabrication requires finished wall thickness, opening width and height, and diagonal measurements to identify out-of-square masonry. Specify timber or metal frame, threshold, architrave and the weight of the intended leaf. Ask for a section drawing showing frame depth, anchor locations, hinge positions and any moisture treatment. Compare fabrication separately from removal of the old frame and reinstatement of plaster or wall finishes. Before hanging the leaf, inspect plumb, level, square corners and the security of each fixing point.
+
 
 ### 12. Wooden partition fabrication
 
-Define whether the partition is decorative, privacy screening or load-bearing for shelves, with spans and fixing points. Compare timber section, slat spacing and concealed anchors; inspect stability and safe edges.
+Timber partitions may be open slats between a majlis and entrance, privacy screens or display dividers carrying shelves; the fixing design depends on their function. Provide a dimensioned layout, ceiling height, photographs of gypsum soffits, lighting and possible concealed services, plus desired slat spacing and privacy. Request timber or board grades, thicknesses, end-fixing details and cleaning access. Compare finish samples, scratch resistance, removable components and reinstatement of floors and ceilings. At handover test rigidity, safe corners and clearance from doors and air outlets.
+
 
 ### 13. Door repairs
 
-Photograph loose hinges, failed locks, swelling and floor rubbing. Compare adjustment and hardware replacement with joinery repair before full replacement; test operation and security.
+Replacing a faulty door should not be the starting assumption. Photograph where the leaf rubs the floor or frame, and note loose hinges, a failing latch or timber swelling after a leak. Include the approximate age if known, frame and lock type, and whether the fault recurs. Ask for separately priced hinge adjustment, anchor repair, lock replacement, limited trimming and full leaf replacement, including how cutting affects the finish. At handover test keys, handles, frame stability and gaps on all four sides. Fire-rated doors require specialist assessment before trimming or alteration.
+
 
 ### 14. Timber refinishing
 
-Identify existing coating, timber type and whether scratches, colour or full stripping drive refinishing. Compare sanding, primers and coat schedule; inspect even finish without paint in hinges.
+Timber refinishing depends on whether the substrate is solid wood, veneer or melamine and on the existing coating: aggressive sanding can destroy thin veneer. Supply daylight photographs of scratches, peeling and damaged edges and specify whether the aim is colour restoration or a new shade. Require a small inconspicuous trial, a preparation schedule covering cleaning, loose-coating removal, filling or primer, finish coats and curing time. Compare preparation and protection of floors and hardware rather than surface area alone. Inspect colour and sheen after curing, with no runs or sticking doors and drawers.
+
 
 ## Custom furniture and decorative joinery
 

@@ -317,3 +317,10 @@
 - الحالة: `in_progress`؛ **35 من 50 تخصصًا** أعيد تحريرها باللغتين؛ يتبقى **15 تخصصًا** ثم مراجعة الـ434 خدمة لكل لغة. لا يبدأ المويجعي.
 - أُعيدت كتابة الخدمات السبع وفق الشجرة دون فقرات نمطية، مع تفاصيل المعدات والنقل والسلامة وحدود الإيجار والاستلام: [العربية](./equipment-rental/construction-lifting-equipment/content-ar.md) · [English](./equipment-rental/construction-lifting-equipment/content-en.md) · [المراجعة](./equipment-rental/construction-lifting-equipment/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتطابقت.
 - **أول نقص تالٍ:** `equipment-rental/light-tools-equipment/content-ar.md` (تحقق من slug)، ثم `content-en.md` و`review.md`؛ بعده مصانع الألمنيوم والزجاج، مصانع الرخام والحجر، متاجر الأدوات والمعدات، نقل الأثاث والممتلكات، نقل مواد ومعدات المشاريع، مصانع الخرسانة والطابوق والمنتجات الأسمنتية؛ ثم تخصصات `cleaning-services` الثمانية. لا تُحتسب الملفات القديمة المحشوة بالتكرار محررة.
+
+
+## تحديث تأجير الأدوات والمعدات الخفيفة — 2026-11-08
+
+- الحالة: `in_progress`؛ **36 من 50 تخصصًا** أعيد تحريرها باللغتين؛ يتبقى **14 تخصصًا** ثم مراجعة شاملة لجميع الخدمات الـ434 بكل لغة.
+- خدمات تأجير الأدوات والمعدات الخفيفة السبع مكتملة تحريريًا ومراجعة: [العربية](./equipment-rental/light-tools-rental/content-ar.md) · [English](./equipment-rental/light-tools-rental/content-en.md) · [المراجعة](./equipment-rental/light-tools-rental/review.md). تم التحقق بإعادة قراءة الملفات الثلاثة من الفرع.
+- **نقطة الاستئناف:** `equipment-rental/aluminium-glass-factories/content-ar.md` ثم `content-en.md` و`review.md`، وبعدها `marble-stone-factories`، `tools-equipment-stores`، `property-moving`، `project-material-transport`، `concrete-block-factories`، ثم تخصصات `cleaning-services` الثمانية. لا تبدأ المويجعي قبل تدقيق الجيمي واعتمادها.

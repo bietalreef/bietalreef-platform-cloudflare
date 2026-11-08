@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent bilingual rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 77/105. GitHub readback verified 105 sequential service headings in both languages; next 78 التحكم الذكي في الإنارة. 252 remain for originality review. No approval/deploy.",
+      "review_note": "Independent bilingual rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 91/105. GitHub readback verified 105 sequential service headings in both languages; next 92 دهان الفلل. 238 remain for originality review. No approval/deploy.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الأنظمة الذكية والمراقبة",
+        "specialty": "الدهانات",
         "rewritten_service_numbers": [
           1,
           2,
@@ -215,14 +215,28 @@
           74,
           75,
           76,
-          77
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91
         ],
-        "next_service_number": 78,
-        "remaining_in_sector": 28,
+        "next_service_number": 92,
+        "remaining_in_sector": 14,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 182,
-        "remaining_area_services_for_originality_review": 252,
+        "area_independently_rewritten": 196,
+        "remaining_area_services_for_originality_review": 238,
         "area_editorially_approved": false
       }
     },

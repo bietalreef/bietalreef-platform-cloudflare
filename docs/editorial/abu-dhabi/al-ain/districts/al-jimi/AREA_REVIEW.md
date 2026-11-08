@@ -248,3 +248,9 @@
 - الحالة `in_progress`: **21 من 50 تخصصًا** محررًا ثنائي اللغة؛ يتبقى **29 تخصصًا** والمراجعة النهائية لجميع خدمات المنطقة.
 - أُعيد تحرير 21 خدمة عربية و21 إنجليزية وفق الشجرة، مع متطلبات خاصة بالمواد والتسليم: [العربي](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md).
 - **أول نقص تالٍ:** `building-materials/timber-panels/content-ar.md` ثم `content-en.md` و`review.md`؛ وبعده الرخام والجرانيت، أسطح المطابخ والمغاسل، السيراميك والبورسلان، ثم بقية القطاعات. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث الأخشاب والألواح — 2026-11-08
+
+- الحالة `in_progress`: **22 من 50 تخصصًا** محررًا بالعربية والإنجليزية، ويتبقى **28 تخصصًا** ثم مراجعة المنطقة النهائية.
+- تمت إعادة كتابة 7 خدمات بكل لغة: [العربية](./building-materials/timber-panels/content-ar.md) · [English](./building-materials/timber-panels/content-en.md) · [المراجعة](./building-materials/timber-panels/review.md).
+- **أول نقص تالٍ:** تخصص `building-materials/marble-granite` (التحقق من slug)، بدءًا من `content-ar.md` ثم الإنجليزية والمراجعة؛ بعده أسطح المطابخ والمغاسل والسيراميك والبورسلان ثم بقية القطاعات. لا يبدأ المويجعي.

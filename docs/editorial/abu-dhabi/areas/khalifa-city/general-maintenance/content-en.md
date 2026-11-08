@@ -100,31 +100,31 @@ Integrated finishing handover is a documented inspection, not simply a cleaned s
 
 ### 22. Gypsum ceiling installation
 
-Record existing and proposed ceiling heights, room areas, AC and light positions and maintenance openings. Compare board type, metal framing, hanger spacing and moisture suitability. Inspect levelness, fixing, edge junctions and service access before painting.
+Before approving a suspended plasterboard ceiling, measure the clear finished height in every room and locate AC ducts, fire detectors, luminaires and access points for valves and connections. Supply a reflected ceiling plan with levels and hanger positions. Ask bidders to identify board grade and thickness, framing and fixing systems, and joint treatment. Compare access hatches, lighting recesses and painting separately from the square-metre rate. Inspect concealed services before closure, then check levelness, perimeter restraint and finished joints for movement or cracks.
 
 ### 23. Gypsum partition walls
 
-Mark partition lines, opening and door sizes and any wall-mounted loads, including acoustic privacy requirements. Bids should specify board layers, studs, internal insulation and reinforcement. Check plumbness, frame stability, outlet positions and joint finishing.
+A plasterboard partition needs more than a line on the floor. Mark its height, door openings, socket positions and circulation clearance, with photographs of nearby services. Specify board layers, stud spacing, acoustic infill and backing for any television or wall-mounted cabinet; lightweight partitions cannot be assumed to support arbitrary loads. Ask for separate prices for framing, insulation, services, joint finishing and painting. At handover, verify openings and outlets against the drawing, test rigidity and inspect straightness and corner finish.
 
 ### 24. Concealed-light coves
 
-Specify cove length, depth, light setback, LED strip type and driver location. Compare edge finish, driver ventilation and replacement access, not only the visual effect. Test even illumination, glare and straightness of the opening.
+A concealed-light cove must allow both good illumination and future maintenance. Provide a section drawing showing cove width, depth and setback, plus each run length and electrical feed location. Request details of the LED strip, diffuser, driver, heat management and how components can be replaced without breaking the plasterboard. Compare cove construction, lighting equipment and electrical connections as distinct items. Test the finished effect in daylight and darkness for uneven brightness, glare and unwanted shadow lines.
 
 ### 25. Decorative gypsum features
 
-Provide drawings of projections, curves and ornaments with dimensions and positions. Ask for a small sample where details are complex, and compare shaping, framing and painting costs separately. Check symmetry, sound edges and crack-free junctions.
+For gypsum cornices, arches and mouldings, a dimensioned detail matters more than a reference photograph alone. Record wall and ceiling dimensions, projection depths and curve radii, and request a sample of complicated profiles before full installation. Check whether shaping, supports, joint treatment, sanding and painting are all included in the price, with responsibility for defects arising from inadequate fixing clearly stated. Inspect repeated elements, matching corners and consistent lines under side lighting that reveals surface imperfections.
 
 ### 26. Wood-effect panel installation
 
-Measure the wall, slat direction, corners and outlets, and identify the substrate; approve an actual colour and texture sample. Compare moisture and scratch resistance, fixing method and end trims. Inspect consistent joints, secure panels and clear door and outlet operation.
+Wood-look cladding panels vary in composition, scratch and moisture resistance and fixing method. Measure wall height and width, door swings, sockets and corners, then approve a physical sample rather than relying on a phone image. Obtain panel thickness, cutting and edge-trim details, and a price that identifies substrate preparation, adhesive or mechanical fixing, spare pieces and joints. At handover, check slat direction, consistent gaps, secure edges and unobstructed door movement; exposed joints near water need particular attention.
 
 ### 27. Marble-effect panel installation
 
-Measure walls and openings and identify heat and water exposure; not every panel suits every surface. Obtain panel composition, thickness, adhesive and substrate-preparation details, and compare joint layout and pattern direction. Check flatness, sealed edges and neat treatment around sockets and corners.
+Before choosing marble-effect sheets, establish whether the wall faces splashing water or cooking heat; a marble appearance is not evidence of suitability for every application. Measure wall openings and outlets and draw the intended vein direction to avoid mismatched patterns. Ask for material composition, sheet thickness, adhesive and corner-finishing specifications. Compare removal of old finishes, cutting waste and substrate preparation separately. Inspect flatness, pattern continuity and edge adhesion, and do not conceal damp or swollen wall finishes without fixing the source.
 
 ### 28. Gypsum repair and maintenance
 
-Document cracks, swelling or water marks before covering them. Investigate moisture ingress or frame movement first, then decide whether local patching or board and framing replacement is required. Inspect repair firmness, skim-coat flatness and paint matching after drying.
+A cracked plasterboard joint is different from a swollen sheet after a leak or a sagging ceiling section. Photograph the defect in context and close up, record its length and onset, and note any spreading or moisture. Require diagnosis before pricing filler and paint: the board, framing or water source may need repair. Compare local patching with replacing the affected section, including furniture protection and waste removal. Accept only a dry, sound, even surface and inspect paint matching after it has cured.
 
 ## Flooring and wall cladding
 

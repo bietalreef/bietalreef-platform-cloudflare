@@ -1,63 +1,104 @@
-# Painting and coatings in Al Jimi
+# Painting services in Al Jimi — company quotation guide
 
-For **painting and coatings** at an Al Jimi property, identify the actual fault and operating conditions first. Quotes are comparable only when contractors receive the same brief. Specialist work and safety systems may require qualified personnel and relevant approvals.
+A useful quotation specifies substrate condition, coating system, quantities and protection before cost. No company, price or completion date is guaranteed. Moisture and structural damage require separate diagnosis.
 
-## 1. دهان الفلل
+## 1. Villa painting
 
-**Start with the fault:** Villas may have several colour schemes and double-height areas; schedule by room. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**When needed:** refreshing several rooms or preparing a villa for occupancy at an Al Jimi property.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Photos, measurements and specifications:** Record wall/ceiling areas, stairwell heights and room counts, close-up defect images and a wider view; identify substrate and intended colour.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Scope, materials and equipment:** Ask for room-by-room colour schedule, protection, filler, primer and specified coats, including product names, coat counts, access equipment and protection. **Exclusions:** leak repairs or gypsum replacement unless priced.
 
-## 2. دهان الشقق
+**Compare quotations and agree terms:** compare paint grade, washability, coats and preparation. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
 
-**The key decision:** Agree drying and ventilation time before moving furniture back into an apartment. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Acceptance inspection:** inspect daylight colour, corners and behind doors. Record defects after appropriate drying and before sign-off.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+## 2. Apartment painting
 
-## 3. دهان المباني الخارجية
+**When needed:** repainting an occupied or rental apartment at an Al Jimi property.
 
-**Before choosing a fix:** Exterior sun and moisture demand suitable coatings and crack-source treatment. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Photos, measurements and specifications:** Record room sizes, wall condition, furniture positions and access hours, close-up defect images and a wider view; identify substrate and intended colour.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Scope, materials and equipment:** Ask for surface protection, fixing anchor holes and agreed repainting, including product names, coat counts, access equipment and protection. **Exclusions:** moving heavy furniture or wallpaper stripping without agreement.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Compare quotations and agree terms:** compare drying time, odour, protection and cleanup. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
 
-## 4. دهان الأبواب والأخشاب
+**Acceptance inspection:** check ceiling edges, skirting and clean outlets/floors. Record defects after appropriate drying and before sign-off.
 
-**Start with the fault:** Timber sanding and primer differ from wall-paint preparation. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+## 3. Exterior building painting
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**When needed:** faded or peeling facades exposed to sun and moisture at an Al Jimi property.
 
-## 5. تنفيذ الدهانات الديكورية
+**Photos, measurements and specifications:** Record facade area, heights, crack photos and exposure, close-up defect images and a wider view; identify substrate and intended colour.
 
-**The key decision:** Approve a physical texture sample and stroke direction before a decorative wall. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Scope, materials and equipment:** Ask for washing, sound-surface preparation, primer and suitable exterior coating, including product names, coat counts, access equipment and protection. **Exclusions:** structural crack repair or roof leak remediation.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Compare quotations and agree terms:** compare coating system, UV resistance, access equipment and permits. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Acceptance inspection:** inspect uniform finish, adhesion, edges and window cleanliness. Record defects after appropriate drying and before sign-off.
 
-## 6. معالجة وتقشير الدهانات القديمة
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
 
-**Before choosing a fix:** Repeated flaking calls for moisture and old-coating adhesion checks before repainting. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+## 4. Door and timber painting
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**When needed:** scratched doors, faded timber or refinishing at an Al Jimi property.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Photos, measurements and specifications:** Record leaf count, substrate/veneer type, hinges and previous finish, close-up defect images and a wider view; identify substrate and intended colour.
 
-## 7. صيانة وإعادة الدهان
+**Scope, materials and equipment:** Ask for sanding, spot repairs, compatible primer and paint or varnish, including product names, coat counts, access equipment and protection. **Exclusions:** warped door repair or veneer replacement.
 
-**Start with the fault:** Locate damaged walls or ceilings and stain cause before comparing patch repair with full repaint. Prepare wall and edge photos, approximate area and desired colour references and include when the fault appears, or how the new installation will be used, with measured or counted quantities.
+**Compare quotations and agree terms:** compare application method, odour, sheen and colour sample. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
 
-**Written scope:** Define old-coating removal, filler, primer, number of coats, paint grade, damp treatment and furniture protection. Separate diagnosis, rectification, reinstatement, parts and consumables. Agree variation approvals, warranty, working arrangements and the tests required before the site is handed back.
+**Acceptance inspection:** check free opening, even sheen and unpainted hardware. Record defects after appropriate drying and before sign-off.
 
-**Acceptance:** Verify shade consistency in natural light, clean edges and no runs or peeling. Observe operation or inspect the treated area with the contractor and record readings, photos and unresolved defects.
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
 
-## Request for quotation support
+## 5. Decorative paint finishes
 
-Send the description, photos and measurements to Biet Al Reef customer service. We can help prepare a clear comparison-ready request and look for suitable companies; provider availability, timing and prices cannot be guaranteed.
+**When needed:** creating textured, metallic or concrete-effect feature walls at an Al Jimi property.
+
+**Photos, measurements and specifications:** Record feature-wall area, lighting, reference image and flatness, close-up defect images and a wider view; identify substrate and intended colour.
+
+**Scope, materials and equipment:** Ask for approved sample, finish layers, application tools and agreed sealer, including product names, coat counts, access equipment and protection. **Exclusions:** major wall levelling or new lighting design.
+
+**Compare quotations and agree terms:** compare sample size, method, cleanability and upkeep. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+
+**Acceptance inspection:** compare finished texture to the approved sample under site lighting. Record defects after appropriate drying and before sign-off.
+
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+
+## 6. Stripping and preparing old paint
+
+**When needed:** recurring flaking or blistering before repainting at an Al Jimi property.
+
+**Photos, measurements and specifications:** Record defect photos, any moisture readings and substrate type, close-up defect images and a wider view; identify substrate and intended colour.
+
+**Scope, materials and equipment:** Ask for remove loose coatings, contain dust, repair substrate and prime, including product names, coat counts, access equipment and protection. **Exclusions:** fixing moisture sources or hazardous materials without specialist assessment.
+
+**Compare quotations and agree terms:** compare stripping limits, dust containment and disposal. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+
+**Acceptance inspection:** confirm dry, stable substrate before recoating. Record defects after appropriate drying and before sign-off.
+
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+
+## 7. Paint touch-up and recoating
+
+**When needed:** local scratches or colour mismatch after service work at an Al Jimi property.
+
+**Photos, measurements and specifications:** Record defect photos, colour code, affected area and previous paint age, close-up defect images and a wider view; identify substrate and intended colour.
+
+**Scope, materials and equipment:** Ask for spot preparation, feathered edges and agreed repainting extent, including product names, coat counts, access equipment and protection. **Exclusions:** guaranteed invisible patch against aged paint.
+
+**Compare quotations and agree terms:** compare patch versus whole-wall repainting for consistency. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+
+**Acceptance inspection:** check colour from several angles and smoothness. Record defects after appropriate drying and before sign-off.
+
+**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+## Biet Al Reef support
+
+Customer service can help prepare a comparable request and seek a company; availability, price and timing are not guaranteed.

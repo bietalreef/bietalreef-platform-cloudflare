@@ -363,3 +363,11 @@
 - **تنظيف المفروشات**: 7 خدمات كاملة لكل لغة مع تمييز طرق التنظيف واختبار الأقمشة والتجفيف. [العربية](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [المراجعة](./cleaning-services/upholstery-cleaning/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من مطابقتها.
 - **تنظيف الواجهات والمواقع**: 4 خدمات لكل لغة مع تفصيل وسائل الوصول والسلامة وحماية الخامات والتخلص من المياه. [العربية](./cleaning-services/facades-site-cleaning/content-ar.md) · [English](./cleaning-services/facades-site-cleaning/content-en.md) · [المراجعة](./cleaning-services/facades-site-cleaning/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من مطابقتها.
 - **أول نقص دقيق:** `cleaning-services/tanks-pools-cleaning/content-ar.md` ثم `content-en.md` و`review.md`؛ بعده `pest-rodent-control` و`disinfection-sanitisation` و`building-facility-operations` و`workforce-operations`، ثم مراجعة 50 تخصصًا وجميع خدماتها قبل اعتماد الجيمي. لا تبدأ المويجعي.
+
+
+## تحقق إضافي من الملفات المتبقية — 2026-11-08
+
+- الحالة: `in_progress` حتى انتهاء المراجعة النهائية لجميع 50 تخصصًا و434 خدمة لكل لغة؛ لا يبدأ المويجعي.
+- تحققت القراءة من وجود ملفات `content-ar.md` و`content-en.md` و`review.md` للتخصصات الخمسة الأخيرة: `tanks-pools-cleaning`، `pest-rodent-control`، `disinfection-sanitisation`، `building-facility-operations`، `workforce-operations`. وجود الملفات لا يثبت اعتماد مراجعة المنطقة كاملة.
+- أُعيد تحرير [خدمات العمالة والتشغيل بالعربية](./cleaning-services/workforce-operations/content-ar.md) و[بالإنجليزية](./cleaning-services/workforce-operations/content-en.md) و[مراجعتها](./cleaning-services/workforce-operations/review.md)؛ 7 خدمات لكل لغة، وتم التحقق من الملفات الثلاثة بعد الرفع.
+- **أول عمل ناقص:** تدقيق بقية التخصصات الأربعة في قطاع التنظيف من حيث التكرار والدقة الفنية، بدءًا من `cleaning-services/tanks-pools-cleaning/content-ar.md` ثم الإنجليزية والمراجعة، وبعده `pest-rodent-control`، `disinfection-sanitisation`، `building-facility-operations`. ثم فحص ملفات القطاعات الثمانية جميعًا ومطابقة الأسماء والعدد وجودة النصوص قبل اعتماد الجيمي. لا تعتمد 50/50 نهائيًا دون هذا الفحص.

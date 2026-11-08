@@ -1,14 +1,17 @@
-# Review — الواجهات والأعمال الزجاجية — Al Jimi
+# مراجعة الواجهات والأعمال الزجاجية — الجيمي
 
-- Exact source company specialty: **الواجهات والأعمال الزجاجية**.
-- Exact named Arabic service sections: 7; paired English: 7, in matching order.
-- Job-specific technical consideration, required measurements, fabrication scope, quotations and acceptance checks.
-- No claim of approved safety products, listed companies, prices or delivery date.
+- status: reviewed_content; area_status: in_progress
+- taxonomy: قائمة الشركات والمنشآت، القطاع الخامس، 7 خدمات حرفيًا.
+- Arabic sections: 7; English sections: 7.
+- التحقق التحريري: لكل خدمة سياق فني محدد، متطلبات قياس، مقارنة عروض، استلام وطلب سعر؛ لا توجد أسماء شركات أو أسعار مفترضة.
+- تنبيه: فحص اكتمال المنطقة ومراجعة جميع التخصصات الأخرى لم ينتهيا بعد.
 
-1. تنفيذ واجهات زجاجية — Glass facades
-2. تركيب الزجاج السيكوريت — Tempered glass installation
-3. تنفيذ واجهات المحلات — Shopfront glazing
-4. تركيب الأبواب الزجاجية — Glass doors
-5. تنفيذ القواطع الزجاجية — Glass partitions
-6. تركيب درابزين زجاجي — Glass balustrades
-7. صيانة الواجهات الزجاجية — Glass facade maintenance
+| الخدمة العربية | English |
+|---|---|
+| تنفيذ واجهات زجاجية | Constructing glass façades |
+| تركيب الزجاج السيكوريت | Installing tempered safety glass |
+| تنفيذ واجهات المحلات | Installing shopfronts |
+| تركيب الأبواب الزجاجية | Installing glass doors |
+| تنفيذ القواطع الزجاجية | Installing glass partitions |
+| تركيب درابزين زجاجي | Installing glass balustrades |
+| صيانة الواجهات الزجاجية | Maintaining glass façades |

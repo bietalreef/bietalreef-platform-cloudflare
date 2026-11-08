@@ -1,63 +1,73 @@
-# Marble and granite supply and works in Al Jimi
+# Marble and granite in Al Jimi — supply and works guide
 
-For delivery to an Al Jimi project, agree units, quality and unloading responsibilities before comparing quotations. This guide does not verify stock or any named supplier.
+Natural stone needs a physical approved sample because colour and veining vary. This is company/establishment guidance, not evidence of a supplier or stock.
 
 ## 1. Natural marble supply
 
-Natural marble supply. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** For natural marble supply, prepare colour, veining, slab size, thickness and installation area, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check vein matching, batch consistency, sound edges and unacceptable cracks and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
+
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
 ## 2. Granite supply
 
-Granite supply. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** For granite supply, prepare granite type, thickness, finish and slip suitability where used on floors, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check finish, dimensions, shade consistency and intact corners and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
 
-## 3. Cut-to-size marble
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
-Custom marble cutting. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 3. Custom marble cutting
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Need and survey:** For custom marble cutting, prepare millimetre cut drawings, openings, vein direction and joint allowances, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
+
+**Acceptance:** Check dimensions, squareness, clean cut-outs and piece numbering and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
+
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
 ## 4. Marble honing and polishing
 
-Stone polishing. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** For marble honing and polishing, prepare photos of scratches and stains, surface area, stone type and existing sealant, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check even sheen without burn marks, waves or filler residue and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
 
-## 5. Marble floor installation
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
-Marble floor installation. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 5. Marble flooring installation
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Need and survey:** For marble flooring installation, prepare tile layout, floor area, door thresholds and substrate condition, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
+
+**Acceptance:** Check levelness, joints, thresholds and securely fixed pieces and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
+
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
 ## 6. Marble wall and facade installation
 
-Marble wall and facade installation. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** For marble wall and facade installation, prepare wall height, fixing design, panel weight, substrate and approved details, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check fixing per approved design, aligned joints and finished edges and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
+
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
 
 ## 7. Marble repair and treatment
 
-Marble treatment and repair. Before ordering, gather the site dimensions, slab references, vein direction and cut-out positions, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Need and survey:** For marble repair and treatment, prepare crack and stain photos and whether damage is superficial or needs replacement, accurate measurements, site photographs and an actual sample. Clarify whether the request covers supply, fabrication, installation or restoration; each stage requires different equipment and responsibility.
 
-**Quotation scope:** Separate stone reference, approved slab, thickness, edge finish, polish, transport and installation with wastage basis. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Scope and quotation comparison:** Specify stone type, thickness, finish, pricing unit, wastage, cutting, lifting, fixing and adhesives or treatment materials. Removal, substrate repairs, scaffolding and transport are excluded unless expressly quoted. Agree sample approval, vein layout, surface protection, curing and remedies for defective work.
 
-**On arrival:** Verify unbroken corners, vein matching, joints and level. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance:** Check reasonable visual match, stable repairs and no harmful residue and record defects before final sign-off. Heavy wall and facade fixing needs approved engineering details, not visual judgement alone.
 
-## Biet Al Reef quotation assistance
-
-Send the bill of quantities, photos, dimensions and approved specification to Biet Al Reef customer service. We can help structure comparable enquiries and look for suppliers, without guaranteeing stock, providers, price or delivery dates.
+**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.

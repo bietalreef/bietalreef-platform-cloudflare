@@ -1,63 +1,73 @@
-# Timber and board supply in Al Jimi
+# Timber and boards in Al Jimi — company procurement guide
 
-For delivery to an Al Jimi project, agree units, quality and unloading responsibilities before comparing quotations. This guide does not verify stock or any named supplier.
+Joinery boards should be chosen for their application, dimensions and assembly method. This is guidance, not confirmation of a listed supplier, stock or price.
 
-## 1. MDF supply
+## 1. MDF board supply
 
-MDF supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating board thickness, density, sheet size and moisture-resistance grade appropriate to the room, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance check:** Inspect flat sheets, sound edges and no swelling; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
 ## 2. Solid timber supply
 
-Solid timber supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating wood species, section sizes, lengths, acceptable moisture content and finish, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance check:** Inspect warping, splits and knots against the agreed grade; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
 ## 3. Plywood supply
 
-Plywood supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating ply count, thickness, bonding grade and suitability for dry or damp conditions, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance check:** Inspect delamination, visible voids and size consistency; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
 
-## 4. Melamine board supply
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
-Melamine board supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 4. Melamine-faced board supply
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating colour and texture code, core thickness, grain direction and matching edging, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-## 5. HPL sheet supply
+**Acceptance check:** Inspect consistent finish, no face scratches or chipped corners; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
 
-High-pressure laminate supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+## 5. HPL laminate supply
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating laminate thickness, application, colour, texture and intended substrate, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
+
+**Acceptance check:** Inspect scratch-free faces, batch consistency and compatibility with adhesive system; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
 ## 6. Joinery hardware supply
 
-Joinery hardware supply. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating hinge, runner and handle quantities, dimensions, load ratings and fixing models, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Acceptance check:** Inspect complete screws and fittings and smooth operation of a sample; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
 
-## 7. Panel cutting and preparation
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
-Board cutting and preparation. Before ordering, gather the cut list with net dimensions and photos of the intended use and openings, intended application, quantities and when the job needs them. A lower unit price may conceal an unsuitable specification or packaging problem.
+## 7. Board cutting and preparation
 
-**Quotation scope:** Specify board type, thickness, grade, finish, edging and cut schedule; hardware is not automatically included. Ask about damage replacement, sample and batch matching, payment stages, delivery slot and the actual unloading point. Avoid a lump sum that leaves those responsibilities unclear.
+**Use case and preparation:** For a kitchen, wardrobe, door or interior cladding job, send a drawing stating millimetre cut list, grain direction, hinge-bore locations and edge-banding sides, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
 
-**On arrival:** Verify flatness, edge protection, pack integrity, shade and sample thickness. Record differences from approved samples before the materials are cut, installed or consumed.
+**Comparing quotations:** Compare the correct unit price per sheet, metre or piece. Ask for product grade, brand or equivalent, packing, wastage, cutting, edging and transport as separate lines. Agree dimensional tolerances, defect remedies, transport responsibility and staged deliveries before payment.
 
-## Biet Al Reef quotation assistance
+**Acceptance check:** Inspect post-cut dimensions, square edges and matching part labels; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
 
-Send the bill of quantities, photos, dimensions and approved specification to Biet Al Reef customer service. We can help structure comparable enquiries and look for suppliers, without guaranteeing stock, providers, price or delivery dates.
+**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.

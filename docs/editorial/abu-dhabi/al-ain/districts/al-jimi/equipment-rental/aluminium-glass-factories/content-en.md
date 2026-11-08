@@ -1,65 +1,49 @@
 # Aluminium and glass factories in Al Jimi
 
-These notes help a customer prepare a company enquiry for Al Jimi, not identify available vendors. Transport, permits, insurance and checks depend on the actual load or equipment. Agree the specifications and responsibilities before accepting a quote.
-
-> **Taxonomy status:** currently non-selectable. Preparatory guidance only.
+Practical preparation guidance for company and establishment enquiries in Al Jimi, not a listing of available factories. **This category is currently non-selectable; the information is preparatory only.**
 
 ## 1. Aluminium profile manufacture
 
-Profile wall thickness, performance and coating belong in the production order. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For frames or repeat joinery, send the section drawing, cut lengths, quantities, wall thickness, alloy and finish. Cutting, drilling and fitting are not automatically included.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Compare profile performance, sample and coating, cut waste, packaging and lead time. Specify dimensional tolerances and transport responsibility; inspect straightness, scratches, wall thickness and quantities.
 
 ## 2. Door and window manufacture
 
-Swing direction, glass, fittings and unit labels reduce site mix-ups. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For replacement openings or a new project, photograph each opening and record swing, sill, width, height and reveal depth; attach a unit schedule, glazing and hardware choices.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Compare weather sealing, hinges, locks, glass, finishes and warranty. State whether lifting, installation, sealant and old-frame removal are included; test operation, closure and drainage.
 
 ## 3. Tempered glass manufacture
 
-All holes and edges must be fixed before tempering; they cannot normally be altered later. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For doors or partitions needing heat-treated glass, provide final pane dimensions, thickness, cut-outs, hole positions and edge finish before tempering; later machining is generally unsuitable.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Request the appropriate glass specification and applicable marking. Compare edge work, packing, transport and breakage terms; inspect holes, dimensions and visible edge damage on receipt.
 
 ## 4. Facade glazing preparation
 
-Panel identification, lifting and installation sequence form part of delivery planning. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For multi-panel facades, provide grid elevations, pane IDs, dimensions, site access and lifting plan. Distinguish fabrication-only orders from supply-and-install packages.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Compare compatibility with the specified facade system, safety, fixings and sequence. Allocate lifting, storage and testing responsibilities; verify pane labels, edge protection and required product records.
 
 ## 5. Partition fabrication
 
-Lock position, height and ceiling junction govern partition profiles. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For an office or reception partition, provide layout, ceiling height, door positions, power and air-conditioning interfaces, and visual or acoustic privacy needs.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Compare fixings, panel or glass thickness, seals and hardware. Agree floor and ceiling making-good exclusions; inspect alignment, stability and door operation.
 
 ## 6. Glass supply
 
-Correct racks and edge protection reduce breakage in transport. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For workshop or project supply, send a pane schedule with sizes, thickness, glass type, tint, edge finish, unloading point and truck-access limits.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
-
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+**Quotation, agreement and acceptance:** Compare pane cost alongside cutting, racks, loading, delivery and breakage liability. Require pane labels; count units and inspect corners and surfaces before signing the delivery note.
 
 ## 7. Project order fulfilment
 
-Quantity schedules and floor priorities should govern production batches. Before requesting prices, supply shop drawings, sections, door schedules and glass sizes; state whether machines, workforce or goods fit the site and when delivery or return is needed.
+For staged projects, submit numbered quantities, approved drawings, floor priorities, storage zones and receiving contacts.
 
-**Quote and scope:** Approve profile, finish, glazing, part labels, production schedule, panel transport, inspection and installation responsibility. Agree damage, downtime, operating windows, setup and cleanup responsibilities. Ask for applicable suitability or compliance records rather than assuming credentials or permits are in place.
+**Quotation, agreement and acceptance:** Compare batch traceability, rejection replacement and sequencing. Agree variation, delay and storage terms; reconcile each shipment with its packing list, drawings and snag log.
 
-**Acceptance:** Check dimensions, part labels, straightness, safe edges and required product records. Retain photos, part inventories and operational or delivery logs and record differences before signing off.
+## Requesting a quotation
 
-## Quote support from Biet Al Reef
-
-Share an item/equipment inventory, measurements, access photos and proposed dates with Biet Al Reef customer service. We can help prepare a clear quotation request and look for a suitable company without guaranteeing availability, prices or timing.
+Share photos, dimensions, drawings, quantities, location and target dates with Biet Al Reef customer service to prepare a clear enquiry. No factory availability, price or date is guaranteed, and this guidance does not activate the category.

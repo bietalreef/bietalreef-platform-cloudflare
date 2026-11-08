@@ -209,3 +209,11 @@
 - الحالة: `in_progress`؛ أُعيد تحرير **15 من 50 تخصصًا** ثنائي اللغة، والمتبقي **35 تخصصًا** ثم التدقيق النهائي للـ434 خدمة في كل لغة.
 - أُعيد تحرير 14 خدمة عربية و14 إنجليزية في [العربي](./general-maintenance/electrical-lighting/content-ar.md) و[English](./general-maintenance/electrical-lighting/content-en.md) و[المراجعة](./general-maintenance/electrical-lighting/review.md)، مع تفاصيل مستقلة للأحمال والكابلات واللوحات والإنارة الداخلية والخارجية والسلامة والاستلام. أُعيدت قراءة الملفات الثلاثة بعد الرفع وتطابقت.
 - **أول نقص تالٍ:** `general-maintenance/plumbing-leak-detection/content-ar.md` (تحقق من slug الفعلي أولًا)، ثم `content-en.md` ثم `review.md`، ثم التكييف والتبريد، الأنظمة الذكية والمراقبة، الدهانات، العزل، ثم بقية القطاعات. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+
+## تحديث تحرير السباكة وكشف التسربات — 2026-11-08
+
+- الحالة: `in_progress`؛ **16 من 50 تخصصًا** محررة ثنائي اللغة، والمتبقي **34 تخصصًا** ثم تدقيق نهائي للـ434 خدمة بكل لغة.
+- أُعيدت صياغة 14 خدمة في كل لغة، مع تفصيل متطلبات المعاينة ونطاق الأعمال والاستثناءات والمقارنة والاستلام لكل خدمة: [العربي](./general-maintenance/plumbing-leak-detection/content-ar.md) · [English](./general-maintenance/plumbing-leak-detection/content-en.md) · [المراجعة](./general-maintenance/plumbing-leak-detection/review.md).
+- أُعيدت قراءة الملفات الثلاثة من الفرع وتطابقت مع النصوص المحفوظة.
+- **نقطة الاستئناف الدقيقة:** `general-maintenance/air-conditioning-refrigeration/content-ar.md` بعد التحقق من slug الفعلي في GitHub، ثم `content-en.md` و`review.md`؛ يليها الأنظمة الذكية والمراقبة، الدهانات، العزل، ثم بقية القطاعات حسب الفهرس. لا تبدأ المويجعي قبل اعتماد الجيمي.

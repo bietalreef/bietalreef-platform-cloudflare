@@ -1,9 +1,10 @@
-# Review — السباكة وكشف التسربات — Al Jimi
+# مراجعة السباكة وكشف التسربات — الجيمي
 
-- Company specialty: exact source name **السباكة وكشف التسربات**; separate craftsperson entries not used.
-- Source Arabic services covered 14/14; English headings 14/14 in source order.
-- Per-service diagnostic issue, required evidence, agreed specification, explicit inclusions/exclusions, comparison, testing and handover.
-- No published provider, regulatory approval, availability, rates or dates presumed.
+- الحالة: تحرير ثنائي اللغة مكتمل للتخصص فقط؛ المنطقة `in_progress`.
+- شجرة الشركات والمنشآت: 14/14 اسمًا عربيًا حرفيًا وبنفس الترتيب؛ 14 عنوانًا إنجليزيًا مقابلًا.
+- لكل خدمة حاجة محددة، بيانات معاينة، حدود نطاق، نقاط مقارنة وتعاقد، واختبار استلام.
+- لا ادعاء بتفعيل خدمات مقيدة أو توفر شركات أو أسعار أو مواعيد؛ لا خلط مع مسار المهنيين.
+- مراجعة المنطقة النهائية لجميع الخدمات ما زالت مطلوبة.
 
 1. تأسيس شبكات المياه — Water supply rough-in
 2. تأسيس شبكات الصرف — Drainage rough-in

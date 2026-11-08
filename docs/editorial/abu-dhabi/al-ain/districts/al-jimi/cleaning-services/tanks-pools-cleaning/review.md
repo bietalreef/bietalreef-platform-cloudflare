@@ -1,10 +1,10 @@
-# Review — تنظيف الخزانات والمسابح — Al Jimi
+# مراجعة تنظيف الخزانات والمسابح — الجيمي
 
-- Exact source companies/establishments specialty: **تنظيف الخزانات والمسابح**; individual craftsperson list excluded.
-- Coverage: 3 exact Arabic names and 3 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
-
-1. تنظيف خزانات المياه — Water tank cleaning
-2. تعقيم الخزانات — Water tank disinfection
-3. تنظيف المسابح — Swimming pool cleaning
+- الحالة: محرر ثنائي اللغة؛ مراجعة الخدمة على مستوى التخصص.
+- المصدر: `_control/TAXONOMY_SOURCE_AR.md` — قسم الشركات والمنشآت، قطاع التنظيف والتعقيم ومكافحة الحشرات.
+- عدد الخدمات: 3 عربية و3 إنجليزية.
+- الأسماء العربية بالترتيب: تنظيف خزانات المياه، تعقيم الخزانات، تنظيف المسابح.
+- التغطية: حاجة، صور ومواصفات، نطاق واستثناءات، مقارنة واتفاق، فحص استلام، طلب عرض سعر.
+- لا ادعاء بوجود شركة أو سعر أو موعد؛ التحقق من الترخيص واجب حيث يلزم.
+- [العربي](./content-ar.md) | [English](./content-en.md)
+- مراجعة المنطقة النهائية مستقلة ولا تُعتبر مكتملة بهذا الملف.

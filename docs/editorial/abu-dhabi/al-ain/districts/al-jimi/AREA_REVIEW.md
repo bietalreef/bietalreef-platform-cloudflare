@@ -223,3 +223,10 @@
 - الحالة: `in_progress`؛ أُعيد تحرير **17 من 50 تخصصًا** باللغتين، والمتبقي **33 تخصصًا**، ثم مراجعة اتساق نهائية لـ434 خدمة بكل لغة. لا تعني الملفات القديمة اجتياز الجودة.
 - أُعيدت كتابة الخدمات الأربع عشرة وفق الشجرة، بنطاق ومقاسات ومعاينة واستثناءات وفحص مختلف لكل خدمة: [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) · [English](./general-maintenance/air-conditioning-refrigeration/content-en.md) · [المراجعة](./general-maintenance/air-conditioning-refrigeration/review.md). أُعيدت قراءة الملفات الثلاثة بعد الرفع وتطابقت.
 - **أول نقص تالٍ:** `general-maintenance/smart-systems-surveillance/content-ar.md` (تحقق من slug الفعلي)، ثم `content-en.md` و`review.md`؛ بعده الدهانات ثم العزل المائي والحراري، ثم مواد البناء والتوريد وبقية القطاعات. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث تحرير الأنظمة الذكية والمراقبة — 2026-11-08
+
+- الحالة `in_progress`: أُعيد تحرير **18 من 50 تخصصًا** ثنائي اللغة؛ يتبقى **32 تخصصًا** وتدقيق نهائي لجميع الخدمات الـ434 بكل لغة.
+- غُطيت الخدمات الأربع عشرة حرفيًا من شجرة الشركات، بالعربية والإنجليزية، مع متطلبات خاصة لكل خدمة في الصور والقياسات والأجهزة والموافقات والنطاق والاستثناءات والمقارنة والاستلام وطلب عرض السعر.
+- ملفات تم تحديثها والتحقق من إعادة قراءتها: [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [المراجعة](./general-maintenance/smart-systems-surveillance/review.md).
+- **أول نقص تالٍ:** `general-maintenance/painting/content-ar.md` بعد التحقق من مسار التخصص الفعلي، ثم `content-en.md` و`review.md`، وبعدها `general-maintenance/waterproofing-thermal-insulation` (تحقق من slug) ثم بقية القطاعات. لا تبدأ المويجعي قبل اكتمال الجيمي.

@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-08",
-      "review_note": "Independent AR/EN rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 14/105. GitHub readback verified 105 headings in each maintenance language; next service 15 تشطيب الفلل. 315 services remain for originality review. No approval/deploy.",
+      "review_note": "Independent AR/EN rewrite: interior-design 49/49, general-contracting 56/56, general-maintenance 21/105. Readback verified 105 sequential headings per language; next service 22 تركيب أسقف الجبس. 308 remain for originality review. No approval/deploy.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الصيانة العامة",
+        "specialty": "التشطيبات المتكاملة",
         "rewritten_service_numbers": [
           1,
           2,
@@ -152,14 +152,21 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ],
-        "next_service_number": 15,
-        "remaining_in_sector": 91,
+        "next_service_number": 22,
+        "remaining_in_sector": 84,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 119,
-        "remaining_area_services_for_originality_review": 315,
+        "area_independently_rewritten": 126,
+        "remaining_area_services_for_originality_review": 308,
         "area_editorially_approved": false
       }
     },

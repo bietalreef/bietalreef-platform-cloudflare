@@ -75,31 +75,38 @@ Timber refinishing depends on whether the substrate is solid wood, veneer or mel
 
 ### 15. Bespoke furniture fabrication
 
-Schedule each item, intended use, dimensions, circulation and expected loading. Compare materials, joints and fittings; approve finish samples and joinery details.
+Start with an item schedule: is the requirement a fitted bookcase, storage bench or freestanding table? Dimension the length, depth and height of each piece and photograph nearby corners, sockets and door swings. Specify intended loads, solid timber or board type, edge treatment and whether the item must be dismantled for relocation. Ask for shop drawings showing joints, bracing, hinges and a physical finish sample before cutting. Compare board thickness, hardware, delivery, installation and stated warranty rather than the bare unit price. At handover check dimensions, leg or wall-fixing stability, door alignment and splinter-free edges.
+
 
 ### 16. TV console fabrication
 
-Provide screen width, bracket, sockets, data points, device depth and ventilation. Compare fixing and cable management; test stability and service access.
+A TV console must accommodate more than screen width. Measure the display, bracket, receivers and gaming equipment, and allow realistic cable access and ventilation. Photograph power and data outlets and decide whether the unit stands on the floor or hangs from the wall; suspended units require verification of the substrate, fixings and load. Request a drawing of rear access openings, shelves and equipment servicing routes. Compare board finish, scratch resistance, runners and door mechanisms, including any wall reinstatement. Check stability, cable disconnection access and heat build-up in enclosed compartments during normal use.
+
 
 ### 17. Storage unit fabrication
 
-Inventory stored items, shelf loads, door sizes and proximity to moisture. Compare board thickness, anchoring and runners; inspect shelves under agreed loads.
+A cleaning-supply cupboard is not specified like a bookcase or filing unit. List what each shelf will hold, approximate weights and any exposure to liquids or humidity. Measure the wall, ceiling and door clearance and photograph pipes or electrical panels that must remain accessible. Ask for shelf spans, board thickness, supports, tall-unit anchoring and drawer-runner specifications. Compare adjustable with fixed shelves, moisture-resistant with ordinary boards, and assembly with on-site fitting. At handover load representative shelves to the agreed capacity and check for sagging or tipping.
+
 
 ### 18. Timber wall cladding
 
-Measure wall, outlets, height, moisture and required grain direction. Compare panel finish, fixing and expansion details; inspect straight alignment and removable access panels.
+Timber wall cladding should never be used to conceal an unresolved leak. Inspect the wall for moisture, swelling or salt deposits and remedy the cause before enclosure. Measure length and height, switches, air outlets and access panels, and photograph the lighting direction that may reveal uneven surfaces. Approve a sample showing veneer or laminate shade, grain direction, corners, joints and fixing method, with removable access where services need maintenance. Compare backing preparation, edge finishing and waste removal. At handover inspect straight joints and confirm sockets and service hatches remain accessible.
+
 
 ### 19. CNC decorative joinery
 
-Supply vector artwork or dimensioned pattern, board thickness and minimum cut detail. Compare CNC precision, edge quality and sanding; approve a sample before full production.
+A reference photograph alone is insufficient for CNC decorative cutting. Provide vector artwork or a dimensioned motif, panel thickness and the narrowest bridge between cut-outs. State whether the piece is a self-supporting screen or fixed decorative panel, since stiffness and anchoring differ. Request a sample cut in the actual material to inspect edge quality, routing marks and paint compatibility; identify the visible face and reverse. Compare drawing preparation, machine cutting, sanding, coating and installation separately. Inspect consistent repeats, intact fine details, safe edges and firm fixings.
+
 
 ### 20. Custom counters
 
-Set counter height, length, staff clearance, POS and data/power positions. Compare durability, surface finish and corner protection; inspect working clearances and connections.
+Design a reception counter around its operation before selecting the front finish. Identify standing or seated visitors, staff numbers, monitors, printers, payment terminals and cable routes. Measure staff-side clearance and drawer swings; photograph outlets, flooring and areas exposed to wet cleaning. Request a section showing worktop height and depth, reinforcement of overhangs, corner protection and surface resistance to wear and spills. Compare visual finishes with actual worktop durability and maintenance access. At handover work behind the counter, open every drawer and check for exposed cables or sharp corners.
+
 
 ### 21. Retail and office furniture fabrication
 
-Schedule desks, storage and displays, power interfaces, loads and opening dates. Compare modular repeatability, production and labelled delivery; inspect stability and drawing compliance.
+Office and retail furniture starts with an operational layout, not a count of desks. List staff or display categories, storage volumes, merchandise weights and customer and delivery routes. Provide dimensioned rooms, entrances, lift access, network points and sockets, and identify repeated units that can share replaceable components. Require a prototype or first-off unit before batch production, with a labelled manufacturing and delivery schedule. Compare load capacity, stability, cleanability, reconfiguration and installation. At handover reconcile the item schedule with drawings, test drawers and anchors, and record defects unit by unit.
+
 
 ### 22. Interior space design
 

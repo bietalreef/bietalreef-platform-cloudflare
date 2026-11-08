@@ -1,21 +1,24 @@
-# Review — أعمال الألمنيوم والأبواب والنوافذ — Al Jimi
+# مراجعة أعمال الألمنيوم والأبواب والنوافذ — الجيمي
 
-- Exact source company specialty: **أعمال الألمنيوم والأبواب والنوافذ**.
-- Exact named Arabic service sections: 14; paired English: 14, in matching order.
-- Job-specific technical consideration, required measurements, fabrication scope, quotations and acceptance checks.
-- No claim of approved safety products, listed companies, prices or delivery date.
+- status: reviewed_content; area_status: in_progress
+- taxonomy: قائمة الشركات والمنشآت، القطاع الخامس، 14 خدمات حرفيًا.
+- Arabic sections: 14; English sections: 14.
+- التحقق التحريري: لكل خدمة سياق فني محدد، متطلبات قياس، مقارنة عروض، استلام وطلب سعر؛ لا توجد أسماء شركات أو أسعار مفترضة.
+- تنبيه: فحص اكتمال المنطقة ومراجعة جميع التخصصات الأخرى لم ينتهيا بعد.
 
-1. تصنيع نوافذ الألمنيوم — Aluminium window fabrication
-2. تركيب نوافذ الألمنيوم — Aluminium window installation
-3. تصنيع أبواب الألمنيوم — Aluminium door fabrication
-4. تركيب أبواب الألمنيوم — Aluminium door installation
-5. تركيب الشبك — Insect screen installation
-6. صيانة الأبواب والنوافذ — Door and window repairs
-7. استبدال الإكسسوارات والزجاج — Hardware and glass replacement
-8. تصنيع مطابخ الألمنيوم — Aluminium kitchen fabrication
-9. تركيب مطابخ الألمنيوم — Aluminium kitchen installation
-10. تصنيع خزائن الألمنيوم — Aluminium cabinet fabrication
-11. تصنيع خزائن الحمامات — Bathroom cabinet fabrication
-12. تصنيع وحدات التخزين الخارجية — Outdoor storage unit fabrication
-13. تجديد مطابخ الألمنيوم — Aluminium kitchen refurbishment
-14. صيانة مفصلات وإكسسوارات المطابخ — Kitchen hinge and hardware repairs
+| الخدمة العربية | English |
+|---|---|
+| تصنيع نوافذ الألمنيوم | Fabricating aluminium windows |
+| تركيب نوافذ الألمنيوم | Installing aluminium windows |
+| تصنيع أبواب الألمنيوم | Fabricating aluminium doors |
+| تركيب أبواب الألمنيوم | Installing aluminium doors |
+| تركيب الشبك | Installing insect screens |
+| صيانة الأبواب والنوافذ | Maintaining doors and windows |
+| استبدال الإكسسوارات والزجاج | Replacing hardware and glazing |
+| تصنيع مطابخ الألمنيوم | Fabricating aluminium kitchens |
+| تركيب مطابخ الألمنيوم | Installing aluminium kitchens |
+| تصنيع خزائن الألمنيوم | Fabricating aluminium wardrobes |
+| تصنيع خزائن الحمامات | Fabricating bathroom cabinets |
+| تصنيع وحدات التخزين الخارجية | Fabricating outdoor storage units |
+| تجديد مطابخ الألمنيوم | Refurbishing aluminium kitchens |
+| صيانة مفصلات وإكسسوارات المطابخ | Maintaining kitchen hinges and hardware |

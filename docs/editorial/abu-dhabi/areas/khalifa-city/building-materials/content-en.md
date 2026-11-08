@@ -96,31 +96,31 @@ Site delivery is a separate service from selling the materials. Before booking a
 
 ### 22. MDF board supply
 
-Specify MDF thickness, moisture grade, surface finish, board size and cut plan. Compare density, edge integrity, cutting charges and waste; reject swollen sheets.
+For MDF boards intended for cabinets or internal doors, send fabrication drawings showing finished thickness, dimensions, piece counts, drilling positions and exposed edges. Distinguish raw from faced board and specify the moisture-resistance grade appropriate to the installation; a vague 'waterproof' label does not replace edge protection. Request manufacturer data for density, emissions and thickness tolerance. Compare board price alongside cutting, edge-banding, transport and waste. On delivery, check flatness, corners, swelling and batch identification before releasing boards to the workshop.
 
 ### 23. Natural timber supply
 
-State timber species, section, lengths and moisture level for indoor or outdoor use. Compare straightness, knots and treatment; reject warped pieces before cutting.
+Natural timber for doors, frames or shelves should be ordered by species, grade, cross-section and length, with the intended indoor or outdoor exposure stated. Provide a parts drawing and grain direction for visible components. Ask how the timber was dried, its measured moisture content, storage conditions and any treatment relevant to the job. Compare usable finished volume rather than the nominal load alone. Inspect for bowing, splits, problematic knots and incorrect sections; proposed species substitutions need design or client approval before cutting.
 
 ### 24. Plywood supply
 
-Identify plywood grade, bonding type, ply count and expected exposure. Compare edge voids, bonding and moisture suitability; sample thickness and delamination resistance.
+Start a plywood order with its purpose: cabinet backing, furniture carcasses, temporary formwork or a moisture-exposed application require different face grades and bonding systems. Specify sheet thickness, dimensions, quantity and visible-face orientation. Request the supplier's documented grade and bond classification rather than relying on the label 'marine'. Compare cutting, delivery and expected offcuts as well as sheet price. Inspect edges for core voids or separation, sample thickness across the batch and reject sheets showing warping or damaged corners.
 
 ### 25. Melamine board supply
 
-Set board thickness, melamine colour, texture, units and grain direction. Compare face finish, edge banding and matching batches; check scratches before cutting.
+For melamine-faced boards in wardrobes or offices, provide a cutting schedule stating core material, board thickness, both face finishes, décor code, grain direction and part numbers. Supply an approved physical sample and specify matching edge-band colour, thickness and sheen. Compare quotations for boards, cutting and edge-banding together, rather than per-square-metre board cost alone; check whether adjacent parts can come from a consistent batch. At receipt, inspect face colour, scratches and chipped edges, and verify finished cut sizes before hinge drilling.
 
 ### 26. HPL sheet supply
 
-Specify whether HPL serves countertops, doors or wall surfaces and its thickness and bonding system. Compare scratch/moisture performance and substrate suitability; match colours across sheets.
+An HPL order for a worktop, door or wall must distinguish thin laminate bonded to a substrate from compact laminate panels of a different structural thickness. Provide surface dimensions, cut-outs, edge details and any required bending radius, plus finish code, cleaning needs and moisture exposure. Request thickness, adhesive and compatible substrate information from the manufacturer. Compare the full installed-material package, including edge finishing, cutting and waste. Inspect sheets under even lighting for cracks or scratches and match décor and batch codes before fabrication.
 
 ### 27. Joinery fittings supply
 
-List hinges, runners, handles, sizes and drawer loads. Compare load ratings, motion and warranty; check actual part models against drawings.
+Supply a joinery fittings schedule with door and drawer dimensions, approximate leaf weights, opening angles, drawer travel and available clearances. Separate door hinges, drawer runners, handles and lift mechanisms, and identify any soft-close or corrosion-resistance requirement. Compare exact part numbers, rated loads, published cycle performance, mounting accessories and warranty terms—not a generic description such as 'premium hinge'. Count bases, screws and handed components on delivery, and trial-fit a sample assembly before approving the full order.
 
 ### 28. Board cutting and preparation
 
-Supply labelled cut plans specifying dimensions, board type, grain direction and edge banding. Compare cutting tolerance, yield and transport; measure samples and check labels at collection.
+Board cutting and preparation requires more than supplying raw sheets. Submit a numbered cutting list with each part's length, width, thickness, board type, grain direction, edge-banding and drilling positions. Specify whether dimensions are final after edging, acceptable tolerances and the delivery point. Ask the workshop for its cutting layout and policy for usable offcuts; compare cutting, drilling, packaging and transport separately from raw board cost. At collection, match part labels to the list, measure representative long and short pieces, and check edge straightness and surface chipping.
 
 ## Natural stone and granite
 

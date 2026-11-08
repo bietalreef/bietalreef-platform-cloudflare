@@ -1,12 +1,10 @@
-# Review — مكافحة الحشرات والقوارض — Al Jimi
+# مراجعة مكافحة الحشرات والقوارض — الجيمي
 
-- Exact source companies/establishments specialty: **مكافحة الحشرات والقوارض**; individual craftsperson list excluded.
-- Coverage: 5 exact Arabic names and 5 paired English sections, same sequence.
-- Per-service risk and use case, request inputs, scope exclusions, quote comparison, inspection and customer-service CTA.
-- No invented supplier, availability, price, booking, safety certificate, chemical claims or schedule.
-
-1. مكافحة الصراصير — Cockroach control
-2. مكافحة النمل — Ant control
-3. مكافحة القوارض — Rodent control
-4. مكافحة بق الفراش — Bed bug control
-5. عقود المكافحة الدورية — Periodic pest-control agreements
+- الحالة: محرر ثنائي اللغة؛ مراجعة الخدمة على مستوى التخصص.
+- المصدر: `_control/TAXONOMY_SOURCE_AR.md` — قسم الشركات والمنشآت، قطاع التنظيف والتعقيم ومكافحة الحشرات.
+- عدد الخدمات: 5 عربية و5 إنجليزية.
+- الأسماء العربية بالترتيب: مكافحة الصراصير، مكافحة النمل، مكافحة القوارض، مكافحة بق الفراش، عقود المكافحة الدورية.
+- التغطية: حاجة، صور ومواصفات، نطاق واستثناءات، مقارنة واتفاق، فحص استلام، طلب عرض سعر.
+- لا ادعاء بوجود شركة أو سعر أو موعد؛ التحقق من الترخيص واجب حيث يلزم.
+- [العربي](./content-ar.md) | [English](./content-en.md)
+- مراجعة المنطقة النهائية مستقلة ولا تُعتبر مكتملة بهذا الملف.

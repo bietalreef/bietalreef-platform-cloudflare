@@ -1,15 +1,6 @@
-# Review — تصنيع الأثاث — Al Jimi
+# مراجعة تصنيع الأثاث — الجيمي
 
-- Company specialty exact: **تصنيع الأثاث**.
-- Taxonomy status: **غير قابل للاختيار حاليًا**; editorial preparation only.
-- Original Arabic service names: 7; corresponding English: 7, same order.
-- Each service has individual use-case, measured inputs, scope/exclusions, quotation comparison and acceptance checklist.
-- No implied business availability, price or activation.
-
-1. تصنيع الأثاث المنزلي / Home furniture fabrication
-2. تصنيع الأثاث المكتبي / Office furniture fabrication
-3. تصنيع أثاث الفنادق / Hotel furniture fabrication
-4. تصنيع أثاث المطاعم / Restaurant furniture fabrication
-5. تصنيع الأثاث حسب الطلب / Custom furniture fabrication
-6. إصلاح وتجديد الأثاث / Furniture repair and refurbishment
-7. توريد الأثاث للمشاريع / Project furniture supply
+- الحالة: محرر باللغتين، والمنطقة `in_progress`.
+- التخصص من شجرة الشركات، **غير قابل للاختيار حاليًا**؛ المحتوى تحضيري فقط.
+- التغطية: 7/7 خدمات حرفية بالعربية و7/7 مقابلات إنجليزية، مع احتياجات ومقاسات وخامات ومقارنة واستثناءات وفحص استلام وطلب عرض.
+- [العربية](./content-ar.md) · [English](./content-en.md).

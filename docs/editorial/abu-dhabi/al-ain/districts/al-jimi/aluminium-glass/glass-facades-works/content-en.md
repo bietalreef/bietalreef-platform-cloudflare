@@ -1,63 +1,87 @@
-# Glazing and glass facades in Al Jimi
+# Glass façades and glazing works in Al Jimi
 
-A workshop quotation should identify materials, shop drawings, finishing and fixings, not merely a total. For work in Al Jimi, document actual openings, approved samples and delivery access, and obtain professional design or approvals where the job requires them.
+Practical preparation for company and establishment services, not an individual tradesperson listing or a claim that a provider is available. A site survey and agreed specifications come first.
 
-## 1. Glass facades
+## 1. Constructing glass façades
 
-**Design decision:** Glass facade execution. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**When and scope:** Define structural system, building movement and wind requirements. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Survey, photos and dimensions:** Survey dimensions, elevations, load points and access. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Materials, quotations and agreement:** Compare engineered drawings, safety glazing, seals and leakage testing. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
 
-## 2. Tempered glass installation
+**Acceptance:** Review material documents, movement joints, fixings and professional inspection. Record defects before final sign-off and request maintenance instructions.
 
-**Measurements and context:** Tempered glass installation. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+## 2. Installing tempered safety glass
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**When and scope:** Define location and impact exposure before choosing glass. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
 
-## 3. Shopfront glazing
+**Survey, photos and dimensions:** Measure openings and required holes before toughening. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
 
-**Before fabrication:** Shopfront glazing. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**Materials, quotations and agreement:** Compare appropriate thickness, edges, clamps and glazing certification. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Acceptance:** Inspect edges and ensure glass is isolated from direct metal contact. Record defects before final sign-off and request maintenance instructions.
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
-## 4. Glass doors
+## 3. Installing shopfronts
 
-**Design decision:** Glass door installation. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**When and scope:** Coordinate customer entry, visibility, security and accessibility. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Survey, photos and dimensions:** Photograph opening, threshold, signage and adjacent doors. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Materials, quotations and agreement:** Compare glass, framing, locks and permitted work windows. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
 
-## 5. Glass partitions
+**Acceptance:** Test entrance operation, edge safety and closure. Record defects before final sign-off and request maintenance instructions.
 
-**Measurements and context:** Glass partition fabrication. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+## 4. Installing glass doors
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**When and scope:** Select hinged or sliding hardware for expected foot traffic. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
 
-## 6. Glass balustrades
+**Survey, photos and dimensions:** Measure height, clearances and finished floor level. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
 
-**Before fabrication:** Glass balustrade installation. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**Materials, quotations and agreement:** Compare floor springs, handles, locks and stops. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Acceptance:** Test safe closing speed and alignment without impact. Record defects before final sign-off and request maintenance instructions.
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
-## 7. Glass facade maintenance
+## 5. Installing glass partitions
 
-**Design decision:** Facade glazing maintenance. Provide inside/outside opening images, dimensions, installation height and fixing substrate; indicate opening direction, intended use and exposure to water or heat where relevant.
+**When and scope:** Define privacy, acoustic expectations and cleaning access. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
 
-**Scope and quotation:** Define approved glass specification, thickness, edge treatment, fixing, lifting, site safety and permits where needed, including sealing after removal. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Survey, photos and dimensions:** Measure floor, ceiling and concealed service routes. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
 
-**Handover:** Inspect sound glass edges, firm supports, sealing and unobstructed door movement, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Materials, quotations and agreement:** Compare laminated or treated glass, frames and silicone joints. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
 
-## Quotation request through Biet Al Reef
+**Acceptance:** Check alignment, stability, edges and joints. Record defects before final sign-off and request maintenance instructions.
 
-Share site pictures, drawings, measured sizes and finish references. Biet Al Reef customer service can help structure a quotation request and look for a suitable business, without guaranteeing availability, prices or dates.
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+
+## 6. Installing glass balustrades
+
+**When and scope:** Design must address guarding loads, fall risk and approved fixings. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
+
+**Survey, photos and dimensions:** Survey edge heights, slab substrate and anchor spacing. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
+
+**Materials, quotations and agreement:** Compare design calculations, safety glass and anchor assemblies. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
+
+**Acceptance:** Do not accept before fixing and height checks against requirements. Record defects before final sign-off and request maintenance instructions.
+
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+
+## 7. Maintaining glass façades
+
+**When and scope:** Diagnose leaks, loose gaskets or glass damage before replacement. Only explicitly itemised work and quantities are included; removal, hidden defects, building repairs or electrical works require separate written inclusion.
+
+**Survey, photos and dimensions:** Photograph defects inside and outside and identify access method. Provide overview and close-up photos and approximate measurements; fabrication dimensions should be confirmed on site.
+
+**Materials, quotations and agreement:** Compare seal inspection, gaskets, glazing and work-at-height equipment. Compare itemised materials, quantities, fabrication, fitting, transport, warranty, schedule and any permits. Approve samples or drawings before work starts.
+
+**Acceptance:** Inspect repaired areas after cleaning and appropriate water testing. Record defects before final sign-off and request maintenance instructions.
+
+**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.

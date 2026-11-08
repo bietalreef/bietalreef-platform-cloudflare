@@ -1,119 +1,175 @@
 # Kitchens, wardrobes and timber doors in Al Jimi
 
-A workshop quotation should identify materials, shop drawings, finishing and fixings, not merely a total. For work in Al Jimi, document actual openings, approved samples and delivery access, and obtain professional design or approvals where the job requires them.
+This is preparatory guidance for company and workshop quotations, not a directory of confirmed providers. Agree final measurements, samples and responsibility for survey, fabrication, delivery and fitting.
 
 ## 1. Wood kitchen design
 
-**Design decision:** Wood kitchen design. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+A layout review helps when storage is insufficient or the sink, cooker and fridge obstruct movement.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Share room dimensions, ceiling height, appliance sizes, drainage, sockets, windows and clear opening spaces.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Request dimensioned plans, elevations, board and edging specifications and hardware positions. Fabrication, installation and relocating services are separate unless contracted.
+
+**Quotation comparison and agreement:** Compare drawing deliverables, revision rounds and material schedules; approve drawings before cutting.
+
+**Handover checks:** Check appliance clearances, door swings and the plan against site measurements.
 
 ## 2. Kitchen fabrication
 
-**Measurements and context:** Kitchen manufacture. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Approved drawings must become accurately cut and protected units, not just a rendered concept.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Supply approved shop drawings, a unit schedule, actual appliance sizes and finish samples.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify board type, thickness, edge sealing, backs, hardware and workshop assembly; worktops, appliances and fitting are not assumed included.
+
+**Quotation comparison and agreement:** Compare cut lists, hardware brands, sample approval and protection during delivery.
+
+**Handover checks:** Inspect dimensions, finish consistency and any swelling or chipped edges before dispatch.
 
 ## 3. Kitchen installation
 
-**Before fabrication:** Kitchen installation. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Installation follows finished floors and a survey of wall alignment and connection points.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Photograph walls and corners and confirm worktop height, pipes and sockets.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Include suitable wall anchors, cabinet levelling, hinge adjustment and sealing near wet areas. Gas, electrical and stone alterations require separate agreement.
+
+**Quotation comparison and agreement:** Compare fixing materials, protection, waste removal and installation responsibility.
+
+**Handover checks:** Operate every drawer and door; inspect levels, exposed gaps and wet-edge sealing.
 
 ## 4. Wardrobe design
 
-**Design decision:** Wardrobe design. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+A tailored wardrobe can solve blocked door swings and poor storage access.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Measure wall width, ceiling height, usable depth, bed clearance and hanging requirements.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify internal compartments, shelves, drawers, ventilation and hinged or sliding doors; lighting and manufacture are separate unless listed.
+
+**Quotation comparison and agreement:** Compare access, storage capacity and hardware specifications.
+
+**Handover checks:** Check reach to shelves and that doors do not strike other furniture.
 
 ## 5. Wardrobe fabrication
 
-**Measurements and context:** Wardrobe manufacture. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Once storage layout is agreed, parts must be produced consistently for site assembly.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Provide final dimensions, internal layouts, board finish and drawer sizes.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify shelf thickness, backs, edge bands, hanging rails and door tracks; transport and anchoring are separate unless quoted.
+
+**Quotation comparison and agreement:** Compare rail quality, shelf support and edge protection.
+
+**Handover checks:** Count all parts and inspect drawer assembly and edge finish.
 
 ## 6. Walk-in closet fit-out
 
-**Before fabrication:** Walk-in wardrobe fit-out. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Walk-in rooms require circulation and lighting decisions before cabinetry fills the walls.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Photograph each wall and record aisle widths, openings, AC and lighting positions.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify hanging sections, shelves and mirrors; electrical works and centre islands must be separately identified if not included.
+
+**Quotation comparison and agreement:** Compare cleaning access, lighting details and tall-unit anchoring.
+
+**Handover checks:** Open drawers while checking that a person can still pass through the aisle.
 
 ## 7. Kitchen and wardrobe refurbishment
 
-**Design decision:** Kitchen and wardrobe refurbishment. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Swollen boards or sagging doors may warrant local repair rather than total replacement.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Show close and wide photos of defects, water sources and affected hinges or drawers.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Separate leak repair, panel replacement, door refinishing and hardware replacement. A perfect match to aged finishes cannot be presumed.
+
+**Quotation comparison and agreement:** Compare repair cost with replacement and check remaining carcass condition.
+
+**Handover checks:** Confirm the moisture cause is addressed and test repaired moving parts.
 
 ## 8. Wood door fabrication
 
-**Measurements and context:** Timber door manufacture. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+A new leaf may be required for a changed room layout or irreparable damage.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Measure opening width, height, wall thickness, swing direction and lock positions.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Define core construction, veneer or paint, leaf thickness, edging, frame and ironmongery. Moisture or acoustic performance needs specific evidence.
+
+**Quotation comparison and agreement:** Compare physical samples, leaf straightness and included fittings.
+
+**Handover checks:** Inspect dimensions, flatness and finish before shipment.
 
 ## 9. Door installation
 
-**Before fabrication:** Door installation. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+An accurately made door can still drag if the frame or hinges are misaligned.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Show the opening, finished floor and threshold and confirm door swing.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Include frame fixing, leaf alignment, lock fitting and trim finishing; wall demolition or floor modification is excluded unless agreed.
+
+**Quotation comparison and agreement:** Compare fixing methods, gap treatment and damage liability.
+
+**Handover checks:** Cycle the door and test latch and lock without forcing the leaf.
 
 ## 10. Fire-rated door fabrication
 
-**Design decision:** Fire-rated door manufacture. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Fire-rated assemblies are safety systems, not ordinary timber doors with thicker panels.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Provide the approved fire strategy, required rating, location and structural opening dimensions.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify a documented compliant door set including leaf, frame, seals, hinges, closer and lock for the required application. Substituting components may invalidate conformity.
+
+**Quotation comparison and agreement:** Compare valid test and conformity evidence and qualified installation, not price alone.
+
+**Handover checks:** Check labels, documentation, self-closing action and specified gaps; competent authority acceptance remains necessary.
 
 ## 11. Door frame fabrication
 
-**Measurements and context:** Door-frame fabrication. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+A loose frame or changed wall finish can require a replacement frame.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Record opening size, wall thickness, jamb alignment and leaf details.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Specify frame material, jointing, moisture protection and architraves; wall repairs and repainting are separate.
+
+**Quotation comparison and agreement:** Compare anchoring method and compatibility with hinges and lock.
+
+**Handover checks:** Check plumb, square corners and frame rigidity during operation.
 
 ## 12. Timber partition construction
 
-**Before fabrication:** Timber partition fabrication. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+A partition can screen an entrance or divide a room without acting as a structural wall.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Measure length and height and show floor, ceiling and lighting interfaces.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Define slat or panel material, spacing, anchors and finish. Acoustic or fire performance must not be claimed without documented design.
+
+**Quotation comparison and agreement:** Compare stability, cleanability and edge safety.
+
+**Handover checks:** Inspect parallel slats, secure joints and smooth edges.
 
 ## 13. Door maintenance
 
-**Design decision:** Door repairs. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+Squeaking hinges, rubbing leaves and faulty latches require diagnosis before replacement.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+**Photos and measurements:** Send a short operation video and close-ups of hinges, latch and rubbing points.
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+**Scope and exclusions:** Identify hinge adjustment, lock replacement or timber swelling; structural wall movement and active leaks are separate problems.
 
-## 14. Wood refinishing
+**Quotation comparison and agreement:** Compare replacement parts, call-out charges and repair warranty.
 
-**Measurements and context:** Timber painting and refinishing. Provide site photos, final opening sizes, appliances and electrical or plumbing points; indicate opening direction, intended use and exposure to water or heat where relevant.
+**Handover checks:** Open and close repeatedly and check screws and locking action.
 
-**Scope and quotation:** Separate site survey, drawings, board or timber grade, thickness, edging, hardware, fabrication and fitting; electrical, plumbing and removal should not be presumed included. Compare thickness, hardware, samples, warranty and fabrication/fitting stages. Agree how site-size discrepancies and transport damage are handled; moving services or repairing adjoining walls is not automatically included.
+## 14. Wood painting and refinishing
 
-**Handover:** Inspect alignment, edge finishing, secure fixings and free movement of doors and drawers, photograph joints and defects, and test movement or operation. Safety-critical installations need appropriate conformity evidence, not just a good appearance.
+Faded or scratched joinery needs an assessment of the existing coating before refinishing.
 
-## Quotation request through Biet Al Reef
+**Photos and measurements:** Photograph defects in daylight and specify surface area, timber type and desired sheen.
 
-Share site pictures, drawings, measured sizes and finish references. Biet Al Reef customer service can help structure a quotation request and look for a suitable business, without guaranteeing availability, prices or dates.
+**Scope and exclusions:** Include compatibility testing, preparation, sanding, filling, protection and ventilation. Replacing rotten panels is excluded.
+
+**Quotation comparison and agreement:** Compare test samples, coat system, application method and curing time.
+
+**Handover checks:** Inspect even colour and absence of runs or bubbles after curing.
+
+## Request a quotation
+
+Send photos, dimensions, drawings and samples to Biet Al Reef customer service to help prepare a request and look for a suitable business; no provider, price or date is guaranteed.

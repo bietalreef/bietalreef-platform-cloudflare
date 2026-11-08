@@ -296,3 +296,10 @@
 - الحالة `in_progress`؛ **31 من 50 تخصصًا** أعيد تحريرها بالعربية والإنجليزية، ويتبقى **19 تخصصًا** ثم تدقيق جميع خدمات المنطقة.
 - أُعيد تحرير خدمات تصنيع الأثاث السبع، مع توضيح أن التخصص غير قابل للاختيار حاليًا: [العربي](./furniture-decor/furniture-manufacturing/content-ar.md) · [English](./furniture-decor/furniture-manufacturing/content-en.md) · [المراجعة](./furniture-decor/furniture-manufacturing/review.md). أُعيدت قراءة الملفات بعد الحفظ.
 - **أول نقص تالٍ:** `furniture-decor/furniture-shops/content-ar.md` ثم `content-en.md` و`review.md`؛ بعده `furniture-decor/majlis-upholstery` ثم `furniture-decor/curtains-carpets-furnishings`، ثم القطاعات المتبقية. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+## تحديث متاجر الأثاث والمفروشات وتنجيد المجالس — 2026-11-08
+
+- الحالة: `in_progress`؛ **33 من 50 تخصصًا** أعيد تحريرها باللغتين، والمتبقي **17 تخصصًا** ثم التدقيق النهائي لـ434 خدمة في كل لغة. السجلات السابقة تاريخية ولا تمثل نقطة الاستئناف الحالية.
+- **متاجر الأثاث والمفروشات**: 7 خدمات عربية و7 إنجليزية، فُصّلت حسب نوع السلعة ومتطلبات التوريد والتسليم. [العربية](./furniture-decor/furniture-shops/content-ar.md) · [English](./furniture-decor/furniture-shops/content-en.md) · [المراجعة](./furniture-decor/furniture-shops/review.md). الملفات الثلاثة أعيدت قراءتها والتحقق من مطابقتها بعد الحفظ. التصنيف غير قابل للاختيار حاليًا.
+- **تنجيد وتفصيل المجالس والكنب**: 5 خدمات عربية و5 إنجليزية، مع تفصيل الهيكل والحشوات والأقمشة والقياسات والاستلام. [العربية](./furniture-decor/majlis-upholstery/content-ar.md) · [English](./furniture-decor/majlis-upholstery/content-en.md) · [المراجعة](./furniture-decor/majlis-upholstery/review.md). الملفات الثلاثة أعيدت قراءتها والتحقق من مطابقتها بعد الحفظ. التصنيف جديد مقترح.
+- **أول نقص دقيق**: `furniture-decor/curtains-carpets-furnishings/content-ar.md` ثم `content-en.md` و`review.md`؛ ملفات هذا التخصص ما زالت بنصوص عامة متكررة وتحتاج إعادة تحرير خمس خدمات في كل لغة. يلي ذلك جميع تخصصات `equipment-rental` الثمانية و`cleaning-services` الثمانية، ثم المراجعة النهائية. لا تبدأ المويجعي قبل اعتماد الجيمي.

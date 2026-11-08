@@ -134,17 +134,25 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "339/434 independently rewritten in both languages. Furniture services 1–24 verified; 53 equipment and 42 cleaning services remain. No editorial approval or deployment.",
+      "review_note": "346/434 independently rewritten in AR/EN; equipment rental services 1–7 verified, services 8–53 and cleaning 1–42 remain. Not approved for publication.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "",
-        "rewritten_service_numbers": [],
-        "next_service_number": 1,
-        "remaining_in_sector": 53,
+        "specialty": "تأجير الأدوات والمعدات الخفيفة",
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "next_service_number": 8,
+        "remaining_in_sector": 46,
         "sector_total": 53,
         "area_total": 434,
-        "area_independently_rewritten": 339,
-        "remaining_area_services_for_originality_review": 95,
+        "area_independently_rewritten": 346,
+        "remaining_area_services_for_originality_review": 88,
         "area_editorially_approved": false
       }
     },

@@ -1,47 +1,67 @@
-# Pest and rodent management in Al Jimi
+# Pest and rodent control in Al Jimi
 
-Describe the surface, system or underlying problem and the occupancy window before comparing contractors for an Al Jimi property. A clear quotation request can be prepared even if no company is currently listed, but it is not a confirmed appointment or price.
+This is preparatory information for company and establishment services, not a listing of an available or licensed provider. Clarify site access and requirements before requesting a quote.
 
 ## 1. Cockroach control
 
-**First check:** Cockroaches behind appliances may be linked to damp and hidden harbourages. Provide pest or evidence photos, locations, timing and any children or pets, including any health risks, sensitive materials or occupancy constraints.
+**When it is needed:** night sightings around kitchens or drains.
 
-**Scope and exclusions:** Ask for species identification, source control, exclusion, authorised products, child/pet safety and revisit plan. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and specifications:** Provide pest photos, hiding areas and moisture.
 
-**Acceptance:** Check visit log, treatment points, exclusion measures and prevention recommendations. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** inspect harbourage, use permitted bait or treatment and agreed sealing; plumbing repair excluded.
+
+**Compare quotations and agree terms:** Check visit count and food or child safety precautions; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+
+**Acceptance:** Verify treatment locations and monitoring plan. Record outstanding issues with dated photos.
 
 ## 2. Ant control
 
-**Describe the issue:** Trace ant trails to entry routes instead of treating a single visible path. Provide pest or evidence photos, locations, timing and any children or pets, including any health risks, sensitive materials or occupancy constraints.
+**When it is needed:** recurrent trails near gaps and sinks.
 
-**Scope and exclusions:** Ask for species identification, source control, exclusion, authorised products, child/pet safety and revisit plan. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and specifications:** Provide trail and entry-point photos.
 
-**Acceptance:** Check visit log, treatment points, exclusion measures and prevention recommendations. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** trace trails and apply suitable approved control; demolition excluded.
+
+**Compare quotations and agree terms:** Check bait checks and responsibility for sealing; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+
+**Acceptance:** Verify activity along recorded trails. Record outstanding issues with dated photos.
 
 ## 3. Rodent control
 
-**The practical need:** Service openings and food sources need exclusion and monitoring, not indiscriminate poison. Provide pest or evidence photos, locations, timing and any children or pets, including any health risks, sensitive materials or occupancy constraints.
+**When it is needed:** droppings or gnawing near stores and service ducts.
 
-**Scope and exclusions:** Ask for species identification, source control, exclusion, authorised products, child/pet safety and revisit plan. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Photos and specifications:** Provide gnawing, pipe penetrations and food storage photos.
 
-**Acceptance:** Check visit log, treatment points, exclusion measures and prevention recommendations. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Scope and exclusions:** survey entry points and secure monitoring stations; major building works excluded.
 
-## 4. Bed bug control
+**Compare quotations and agree terms:** Check station map, checks and safe disposal; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
 
-**First check:** Skin marks alone do not confirm infestation; inspect beds and nearby furniture. Provide pest or evidence photos, locations, timing and any children or pets, including any health risks, sensitive materials or occupancy constraints.
+**Acceptance:** Verify station log and unresolved openings. Record outstanding issues with dated photos.
 
-**Scope and exclusions:** Ask for species identification, source control, exclusion, authorised products, child/pet safety and revisit plan. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+## 4. Bedbug control
 
-**Acceptance:** Check visit log, treatment points, exclusion measures and prevention recommendations. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**When it is needed:** signs along mattress seams and bed frames.
 
-## 5. Periodic pest-control agreements
+**Photos and specifications:** Provide specimen and sleeping-area photos.
 
-**Describe the issue:** A contract should have monitoring points, visit logs and corrective actions. Provide pest or evidence photos, locations, timing and any children or pets, including any health risks, sensitive materials or occupancy constraints.
+**Scope and exclusions:** inspect harbourage and plan suitable treatments and follow-up; furniture disposal excluded unless agreed.
 
-**Scope and exclusions:** Ask for species identification, source control, exclusion, authorised products, child/pet safety and revisit plan. Ask about products, equipment, waste handling and exclusions. Compare follow-up and building downtime as well as the total price.
+**Compare quotations and agree terms:** Check laundry preparation and repeat visits; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
 
-**Acceptance:** Check visit log, treatment points, exclusion measures and prevention recommendations. Photograph missed areas and record any safety directions before reoccupying. Do not accept unverified absolute claims about disinfection or safety.
+**Acceptance:** Verify reinspection of original hotspots. Record outstanding issues with dated photos.
 
-## Biet Al Reef quotation support
+## 5. Recurring pest-control contracts
 
-Share the service description, site photos and measurements with Biet Al Reef customer service. We can help prepare a clear quotation request and look for potential providers without guaranteeing a company, price or date. Verify applicable credentials for regulated work.
+**When it is needed:** repeated pest activity in occupied buildings.
+
+**Photos and specifications:** Provide floor plan, incident log and sensitive zones.
+
+**Scope and exclusions:** scheduled inspection, monitoring, reports and escalation; structural cleaning excluded.
+
+**Compare quotations and agree terms:** Check emergency callouts, response targets and permitted products; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+
+**Acceptance:** Verify trend reports and unresolved recommendations. Record outstanding issues with dated photos.
+
+## Request a quotation
+
+Share location, photos, measurements and access windows with Biet Al Reef customer service to prepare a quotation request. No provider, price or appointment is guaranteed. Check applicable licences, permits and competence; company services are distinct from individual trades.

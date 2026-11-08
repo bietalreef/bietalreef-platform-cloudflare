@@ -401,62 +401,76 @@ Identify who needs phone access and whether they require live view, recorded pla
 
 ### 92. Villa painting
 
-Measure wall and ceiling areas, rooms, furniture and existing paint condition before deciding coat counts. Compare filling, primer, paint, masking and protection as separate items; inspect dry colour consistency and clean edges.
+For an occupied villa in Khalifa City, plan the painting room by room and identify spaces that must remain usable. Measure wall and ceiling areas in square metres, record damp patches, cracks and previous repairs, and photograph corners and door surrounds. Request a dried sample on the actual wall, specifying surface repairs, primer, filler, coating system, number of coats, drying intervals and furniture protection. Quotations should distinguish ceilings, walls and joinery, with a sequence for returning rooms to use. At handover, inspect uniform colour in daylight and installed lighting, clean edges around switches and frames, and the absence of drips, peeling or paint on floors.
+
 
 ### 93. Apartment painting
 
-Document cracks, stains and areas not requiring repainting, especially in occupied apartments. Compare furniture protection, ventilation and suitable low-odour materials; inspect stain treatment and floor protection.
+Apartment repainting may involve filling picture-hook holes, restoring a single room or preparing the entire unit for handover. Mark precisely which walls are included, measure lengths and heights, and record the previous colour, furniture positions and air-conditioning outlets. Ask how floors, sockets and belongings will be protected and how dust and odours will be managed. A spot repair is not equivalent to coating an entire wall. Compare filler, primer, coat count, furniture moving and final cleaning as separate quotation items. After drying, inspect repaired patches under angled light, colour continuity at edges and clean switches and hinges.
+
 
 ### 94. Exterior building painting
 
-Survey façade peeling, chalking, cracks and water/sun exposure, including access height. Compare washing, exterior primer, crack treatment and access equipment; inspect adhesion and absence of drips.
+Before repainting an exterior façade in Khalifa City, photograph chalking, flaking, hollow render, cracks and water marks; measure elevation areas and safe access heights. Paint alone will not repair leakage through a window joint, so separate source repairs from coating. Specify substrate washing and drying, crack treatment, compatible exterior primer and finish coats, as well as scaffolding and protection for cars and planting. Compare warranty scope and adhesion conditions rather than brand names alone. Handover should check consistent appearance from normal viewing distance, complete edge coverage and no runs or exposed patches.
+
 
 ### 95. Door and wood painting
 
-Count doors and timber items, identify existing coating and whether hardware removal is needed. Compare sanding, compatible primers and topcoats; check smooth finish and doors closing without sticking.
+An interior timber door, sun-exposed external door and coated MDF panel require different preparation. Photograph scratches, swelling and peeling; list leaf counts, dimensions, existing finish and hinge or lock condition. Ask for a discreet compatibility test, and specify whether removal, sanding, filling, primer and spray or brush application are included. Compare both faces, edges and frames separately and agree on a dust-controlled drying location. Test each door opening and closing at handover, checking smoothness, non-sticking edges and clean hardware.
+
 
 ### 96. Decorative painting
 
-Approve a real texture sample and technique such as trowelled or textured paint before pricing the full area. Compare sample costs, material use and future repairability; inspect texture and hue under installed lighting.
+Decorative finishes depend on both technique and lighting: texture can look different under grazing light. Measure the net feature-wall area, note furniture and lighting positions, and approve a physical mock-up on a comparable substrate rather than a phone image. Specify base coat, tools, colour, sheen, cleanability and the method for repairing later scratches. Quotations should price the sample, layers, corners and transitions to ordinary paint. Inspect the finished wall against the approved mock-up under more than one lighting condition, allowing for the deliberate variation of hand-applied work.
+
 
 ### 97. Old paint removal and preparation
 
-Determine whether old paint is peeling, sound or moisture-damaged rather than stripping indiscriminately. Compare selective removal, dust protection and substrate repair; verify a dry, stable surface ready for primer.
+Peeling paint needs diagnosis before wholesale stripping: possible causes include moisture, poor adhesion or incompatible old coatings. Photograph blisters and estimate the affected area; check render soundness, dryness and any water source. Ask for the limits of removal, dust containment, crack repair, drying and primer before recoating. Compare pricing by treated area and clarify whether render replacement is included. Do not coat over active leakage. The first acceptance milestone is a clean, stable, dry substrate—not simply a fresh finish concealing the defect.
+
 
 ### 98. Repainting and maintenance
 
-Photograph scratches and stains, and identify existing colour code and paint system. Compare local touch-up with full-wall repainting to avoid sheen mismatch; inspect colour blending and invisible repair boundaries.
+For scuffs, furniture marks or isolated stains, establish whether the damage is superficial or linked to dampness or failed filler. Record any colour code and photograph both the whole wall and the defect: an old paint code may not match aged sheen. Request a clear comparison between a local patch and repainting corner to corner, including filler, primer, protection and cleanup. Inspect after drying in oblique light, and do not accept cosmetic repainting over an unresolved moisture source.
+
 
 
 ## Waterproofing and thermal insulation
 
 ### 99. Roof waterproofing
 
-Map concrete surfaces, drains, ponding and movement joints around plant plinths before selecting a membrane. Compare removal of failed layers, preparation and protection; verify drainage and watertight junction details.
+Roof leakage may originate at a blocked outlet, movement joint or pipe penetration rather than across the entire membrane. Prepare a simple roof plan with square metres, falls, outlets, AC plinths and joints, plus photographs of ponding and indoor damp marks. Require an assessment of existing layers before proposing removal or overlay, specifying membrane compatibility, upstands and protection against traffic and sunlight. Compare substrate preparation, junction detailing, watertightness testing and any tile reinstatement. Handover should include an appropriate test record and confirmation that drainage remains unobstructed.
+
 
 ### 100. Bathroom waterproofing
 
-Map shower area, drains, threshold and wall upstands before waterproofing. Compare tile-compatible systems and pipe-penetration details; arrange an agreed flood test before finishes are laid.
+For a new bathroom or recurring leakage to the floor below, distinguish plumbing failures from shower-floor or drain-junction failures. Photograph leak locations and measure the floor, wall upstand heights, threshold and outlets. Separate plumbing pressure checks from membrane testing, and specify substrate falls, corner tapes and pipe penetrations before tiling. Compare waterproofing with tile and sanitaryware removal and reinstatement as separate costs. Agree on a documented, suitable water-retention test before covering the membrane.
+
 
 ### 101. Tank waterproofing
 
-Identify water use, tank substrate, cracks, joints, level and safe entry requirements. Compare product suitability for the stored water and cleaning/drying procedure; receive a holding test and material record.
+Not every coating suits every tank. Identify whether water is for drinking or irrigation, the tank type, volume, dimensions, substrate, joints and cracks. Ask for diagnosis distinguishing structural seepage from pipe or connection leaks, plus cleaning, drying and surface preparation and manufacturer documentation showing suitability for the intended water use. Quotations must address safe access, ventilation, contamination prevention and curing before refilling. Handover includes a water-holding check, material records and safe recommissioning; confined-space entry requires specialist precautions.
+
 
 ### 102. Building thermal insulation
 
-Record roof/wall build-up, solar exposure, available space, thermal bridges and condensation risks. Compare thickness, thermal performance, moisture response and continuity; inspect junctions without blocking necessary ventilation.
+If rooms gain heat rapidly, insulation is one possible intervention, not a substitute for checking cooling equipment and air leakage. Record roof and wall assemblies, areas and existing thicknesses; photograph thermal bridges and any condensation or dampness. Compare location-appropriate systems by thermal resistance, thickness, moisture and fire performance and fixing method, checking project-specific requirements rather than claiming a universal mandatory value. Include continuity at joints and openings. Inspect for gaps, crushed insulation and blocked necessary ventilation at handover.
+
 
 ### 103. External wall insulation
 
-Survey façade substrate, cracks, openings, balcony fixings and safe access. Compare external insulation or appropriate coating solutions against design requirements and moisture behaviour; inspect window and edge junctions.
+Before adding external insulation, establish the existing façade build-up—rendered blockwork or cladding—and the positions of windows, balconies and fixings. Measure elevations and openings, document cracks and moisture sources and plan safe access. Boards installed over an unsound substrate can hide defects. Compare the complete system: fixings, reinforced layer, finish, weather resistance and window reveals, not board price alone. Inspect fixings, joints and water detailing around penetrations against the approved project specification.
+
 
 ### 104. Rainwater ingress treatment
 
-Relate water marks to rainfall, wind direction, gutters, joints and window openings. Compare targeted water testing and entry-point sealing rather than indiscriminate repainting; verify a suitable repeat test.
+When a stain appears after rainfall, record when it formed and its relation to windows or roof edges, photographing external seals, gutters and joints before they dry. Water can travel within a wall far from its entry point. Request staged diagnosis of outlets, falls, sealants and flashing, followed by a controlled, safe water test where appropriate. Compare evidence-based point repairs with broader membrane replacement, and clarify who reinstates internal render and paint. A concealed stain is not proof of repair; request a test record or a monitoring plan for subsequent rain.
+
 
 ### 105. Waterproofing maintenance
 
-Review membrane age, stains, blisters, cuts around drains and movement points. Compare patch repairs with renewal of a failed section based on condition; document repair details, tests and monitoring.
+Waterproofing maintenance starts with prior repair records, system age and mapped blisters, punctures around outlets and plinths, and movement joints, supported by dated photographs. Require an explanation of whether a local patch is chemically and mechanically compatible with the existing layer or whether widespread deterioration calls for sectional renewal. Compare removal of failed material, edge preparation, protection, testing and follow-up. Do not accept a patch over wet substrate without a justified method. Record repaired boundaries, products, test outcomes and the scope of any warranty.
+
 
 
 

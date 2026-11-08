@@ -10,31 +10,31 @@ Start with the dimensions of the space, delivery access and how the piece will b
 
 ### 1. Residential furniture manufacture
 
-List furniture types, quantity, room size, access route and daily cleaning needs. Compare materials, finishes, fittings and actual samples; inspect stability and edges.
+For residential furniture in Khalifa City, prepare a room-by-room schedule of pieces and measure the finished spaces rather than relying only on plan dimensions. Photograph doorways, stairs and lifts, and establish whether items can arrive assembled. Request drawings showing table heights, cabinet depths, drawer clearances and a physical material and finish sample. The quotation should distinguish manufacture, delivery, installation and post-measurement changes. At handover, check stability, door and drawer movement, joint integrity and clearance from surrounding walls.
 
 ### 2. Office furniture manufacture
 
-Specify headcount, desks, seating, cable routes and existing outlets. Compare load capacity, ergonomics, adjustability and serviceability; test units in use.
+An office fit-out should begin with a layout showing workstation numbers, individual footprints, circulation and power/data outlets. Staff desks, meeting tables and filing units have different loading, cable-management and privacy requirements. Ask for board specifications, edge finishing and replaceable hinges or runners. Compare offers against the same item schedule, sizes, assembly and packaging removal, not an isolated desk price. Test drawers and chairs, verify cable routes and check that completed desks do not wobble.
 
 ### 3. Hotel furniture manufacture
 
-List room types, beds, wardrobes, cleaning cycles and the hotel's own specification. Compare hardware durability, uniform finishes and replaceable parts; approve a sample room before volume production.
+Hotel furniture production needs an item-coded schedule for each room type, covering beds, headboards, wardrobes, desks and luggage stands. Provide actual room plans and the positions of outlets and switches so fittings do not obstruct services. Approve a prototype room before repeated manufacture, and specify surface protection during transport and fitting. Compare maintainability, finish consistency and replacement parts. Inspect the sample, count and secure fixing of every item against a room-by-room handover record.
 
 ### 4. Restaurant furniture manufacture
 
-Check seating count, staff routes, chair movements and moisture/heat exposure near tables. Compare cleanable materials, stable bases and wear resistance; verify service circulation.
+Restaurant furniture selection starts with seating capacity, aisle widths, cleaning methods and whether tables will be used indoors or outside. Ask for frame, joint, foot and upholstery details; consider repeated chair movement, edge safety and surface cleaning. Separate upholstered seating from table fabrication in the quotation and identify any required spare units. At handover, test the proposed seating arrangement and service routes, then inspect stability, scratches and cleaning access.
 
 ### 5. Bespoke furniture manufacture
 
-Start with a scale drawing detailing sections, colour and precise dimensions of the item. Compare prototype, lead time, warranty and transport responsibility; inspect dimensions and assembly.
+For a bespoke bookcase in an alcove or a non-standard table, provide site photos and finished width, height and depth, including socket and skirting positions. Obtain shop drawings showing compartments, door swings and fixing points, and approve a finish sample before cutting. Compare board thickness, hardware, coating, delivery and installation, and record how design changes affect the price. At handover, measure the piece, inspect gaps and alignment, and verify secure fixing.
 
 ### 6. Furniture restoration
 
-Photograph cracks, scratches, loose joints and underlying wood or fabric before selecting a repair. Compare selective replacements against rebuilding; inspect stability and consistent surfaces.
+Furniture restoration should start with the cause of damage, not an immediate repaint. Photograph loose joints, cracks, swollen boards and damp marks, and identify whether the piece uses solid timber, engineered board or metal framing. Request a diagnosis separating structural repairs, padding or fabric replacement and surface refinishing. Compare the repair cost and likely service life with replacement, and approve a finish sample. Inspect joint strength, moisture condition and normal operation before accepting the work.
 
 ### 7. Project furniture supply
 
-Schedule furniture by room, quantities, models, delivery phase and storage space. Compare packing, installation, damage and delay terms; reconcile a numbered inventory with purchase orders.
+Project furniture supply requires a bill of quantities linking each item code, dimension and finish to its destination room. Share layout drawings, site readiness dates, delivery access and secure storage arrangements. Ask bidders to identify approved samples, packaging, labelling, installation, damage returns and replacement responsibilities; compare the disruption caused by phased deliveries. For each shipment, reconcile item codes and quantities against the purchase order and photograph defects before signing a receipt.
 
 ## Furniture and home furnishing stores
 

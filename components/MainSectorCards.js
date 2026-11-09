@@ -30,6 +30,9 @@ const AL_AIN_CHOICES = {
 
 export function sectorChoices(sector, sectionKey, locale = 'ar', locationRoot = '', locationMode = '') {
   const en = locale === 'en';
+  if (locationMode === 'emirate-area') {
+    return [{slug:sector.slug,name:sector.name[locale],href:locationRoot+'/'+sector.slug}];
+  }
   if (locationMode === 'al-ain' || locationMode === 'al-ain-district') {
     const choices = AL_AIN_CHOICES[sector.slug] || [];
     return choices.map(([slug, ar, english]) => ({ slug, name: en ? english : ar, href: `${locationRoot}/${slug}` }));

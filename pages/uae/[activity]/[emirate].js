@@ -29,6 +29,9 @@ import { AL_NAEEM_EDITORIAL_DATA } from '../../../lib/alNaeemPresence';
 import { alNaeemCoverageFor } from '../../../lib/alNaeemLocalSeo';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards';
+import MainSectorCards from '../../../components/MainSectorCards';
+import {UAE_MAIN_SECTORS} from '../../../data/directoryDiscovery';
+import {areaEditorialFor} from '../../../data/sharjahAjmanAreaEditorial';
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../components/UaeContextInfoCard';
 import UaeDirectorySeo from '../../../components/UaeDirectorySeo';
@@ -111,9 +114,12 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
   if (!area) return null;
 
   const abuLocal=emirate.slug==='abu-dhabi'&&isAbuDhabiDirectoryArea(area.slug);
+  const regionArea=['sharjah','ajman'].includes(emirate.slug);
+  const regionText=regionArea?areaEditorialFor(emirate.slug,area.slug,'ar'):null;
   const localEditorial=abuLocal?abuAreaEditorial.areas[area.slug].ar:null;
   const pageData = abuLocal
     ? {h1:localEditorial.title,desc:localEditorial.intro}
+    : regionText ? {h1:`دليل المقاولات والصيانة والخدمات في ${area.nameAr}، ${emirate.nameAr}`,desc:regionText[0].slice(0,156)}
     : {h1:`خدمات البناء والمقاولات في ${area.nameAr}`,desc:`اختر الخدمة المناسبة في ${area.nameAr} داخل ${emirate.nameAr}: مقاولات، نجارة، رخام، صيانة، تصميم داخلي ومواد بناء.`};
 
   const alNaeemAreaSlug = alNaeemCoverageFor(emirate.slug, area.slug);
@@ -127,7 +133,7 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
 
   return (
     <>
-      <UaeDirectorySeo locale="ar" title={pageData.h1} description={pageData.desc} path={`/uae/${emirateSlug}/${areaSlug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}`} emirate={emirate} />
+      <UaeDirectorySeo locale="ar" title={pageData.h1} description={pageData.desc} path={`/uae/${emirateSlug}/${areaSlug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}`} emirate={emirate} area={regionArea?area:undefined} />
 
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900 font-sans">
         <Navbar pageTitle={area.nameAr} />
@@ -135,23 +141,25 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
 
         <main>
           <UaeDirectoryHero locale="ar" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
+          {regionText&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="معلومات عن أعمال المنطقة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">تجهيز طلب مشروع في {area.nameAr}</h2>{regionText.map((p,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{p}</p>)}</div></section>}
 
-          {!abuLocal&&<UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />}
+          {!abuLocal&&!regionArea&&<UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />}
 
           <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى الشركة أو مسار الطلب المناسب.`} />
 
-          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
+          {abuLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} baniyasReadingHtml={baniyasReadingHtml} />:regionArea? <section className="mx-auto max-w-6xl px-3 py-7 sm:px-4" aria-labelledby="area-service-head"><h2 id="area-service-head" className="text-xl font-extrabold text-[#193b53] sm:text-2xl">اختر تخصص مشروعك في {area.nameAr}</h2><div className="mt-4"><MainSectorCards locale="ar" locationRoot={'/uae/'+emirate.slug+'/'+area.slug} locationMode="emirate-area" sectionKey="providers"/></div></section>:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
             <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" /></div>
           </section>}
 
-          {!abuLocal&&<SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
+          {!abuLocal&&!regionArea&&<SeoContent title={`${area.nameAr} في دليل بيت الريف`}>
             <p>صفحة {area.nameAr} داخل {emirate.nameAr} تربط الموقع بالخدمات المتاحة، مع الحفاظ على الروابط الجغرافية ومسار تصفح واضح.</p>
           </SeoContent>}
 
-          {!abuLocal&&<FAQ items={faqItems} title={`أسئلة شائعة حول الخدمات في ${area.nameAr}`} />}
+          {!abuLocal&&!regionArea&&<FAQ items={faqItems} title={`أسئلة شائعة حول الخدمات في ${area.nameAr}`} />}
           <UaeSmartFooter locale="ar" pageType="area" emirate={emirate} area={area} directoryCards={directoryCards} />
+          {regionArea&&<DirectorySectorQuoteForm locale="ar" place={area.nameAr+', '+emirate.nameAr} groups={UAE_MAIN_SECTORS.map(sector=>({slug:sector.slug,name:sector.name.ar,services:[{slug:sector.slug,name:sector.name.ar}]}))} pagePath={'/uae/'+emirate.slug+'/'+area.slug}/>}
         </main>
         <Footer showRequestCTA={false} />
       </div>

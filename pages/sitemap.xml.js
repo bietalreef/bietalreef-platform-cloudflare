@@ -3,6 +3,8 @@ import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPE
 import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import {getGeographicPublishedServiceCards} from '../lib/platformPublishedServiceCards';
 import {UAE_MAIN_SECTORS} from '../data/directoryDiscovery';
+import {UAE_EMIRATES} from '../data/siteTaxonomy';
+import {areaEditorialFor} from '../data/sharjahAjmanAreaEditorial';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
@@ -109,6 +111,21 @@ export async function getServerSideProps({ res }) {
     const path = `/uae/${emirate}/${sector.slug}`;
     addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-09'} : {});
   }
+
+  // Approved, original bilingual regional area hubs and sector guides.
+  // Never insert unlisted providers or fabricated service/company detail pages.
+  for (const emirate of UAE_EMIRATES.filter(row=>['sharjah','ajman'].includes(row.slug))) {
+    for (const area of emirate.areas) {
+      if (!areaEditorialFor(emirate.slug,area.slug,'ar') || !areaEditorialFor(emirate.slug,area.slug,'en')) continue;
+      const hub='/uae/'+emirate.slug+'/'+area.slug;
+      addPair(hub,'/en'+hub,undefined,{lastmod:'2026-11-09'});
+      for (const sector of UAE_MAIN_SECTORS) {
+        const path=hub+'/'+sector.slug;
+        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{lastmod:'2026-11-09'});
+      }
+    }
+  }
+
   try {
     const locations = [{emirate:'abu-dhabi',city:''},{emirate:'abu-dhabi',city:'al-ain'},{emirate:'dubai',city:''}];
     const groups = await Promise.all(UAE_MAIN_SECTORS.flatMap(sector => locations.map(place =>

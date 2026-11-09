@@ -1,3 +1,4 @@
+import {useState} from 'react';
 import DubaiDecisionGuide from '../../../components/DubaiDecisionGuide';
 import DirectoryContextCompany from '../../../components/provider/DirectoryContextCompany';
 import { getCompanyStaticContextProps } from '../../../lib/publishedCompanyPresence';
@@ -33,6 +34,7 @@ import UaeContextInfoCard from '../../../components/UaeContextInfoCard';
 import UaeDirectorySeo from '../../../components/UaeDirectorySeo';
 import SectorVisualGuide from '../../../components/SectorVisualGuide';
 import SectorTaxonomyExplorer from '../../../components/SectorTaxonomyExplorer';
+import DirectorySectorQuoteForm from '../../../components/DirectorySectorQuoteForm';
 import {getSectorTaxonomy} from '../../../lib/sectorTaxonomyExplorer';
 import {getAbuDhabiSectorContent} from '../../../lib/abuDhabiSectorContent';
 import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../components/AbuDhabiAreaGuide';
@@ -48,6 +50,7 @@ function shouldShowAlHootPath(emirateSlug, serviceSlug) {
 }
 
 function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCards, geographicOffers, sectorTaxonomy, sectorGuides }) {
+  const [requestedService,setRequestedService]=useState('');
   const seo = directorySectorSeo(service.slug, 'ar', emirate);
   const geoSector = ['abu-dhabi','dubai'].includes(emirate.slug) && !!seo;
   const title = seo?.heading || `${service.nameAr} في ${emirate.nameAr}`;
@@ -69,7 +72,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCar
         <main>
           <UaeDirectoryHero locale="ar" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={emirate.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr} pagePath={'/uae/'+emirateSlug+'/'+service.slug} serviceGuides={sectorGuides}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr} pagePath={'/uae/'+emirateSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={emirate.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" showEditorial excludeSpecialties={sectorTaxonomy}/>}
           {emirate.slug==='dubai' && <DubaiDecisionGuide sector={service.slug}/>}
@@ -86,6 +89,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCar
           </SeoContent>}
           {!seo && <FAQ items={faqItems} title={`أسئلة شائعة حول ${title}`} />}
           <UaeSmartFooter locale="ar" pageType="emirateService" emirate={emirate} service={service} />
+          {geoSector && <DirectorySectorQuoteForm locale="ar" place={emirate.nameAr} groups={sectorTaxonomy||[]} requestedService={requestedService} pagePath={'/uae/'+emirateSlug+'/'+service.slug}/>}
         </main>
         <Footer showRequestCTA={false} />
       </div>

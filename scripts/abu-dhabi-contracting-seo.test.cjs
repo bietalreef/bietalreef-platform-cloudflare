@@ -63,3 +63,13 @@ for(const [file, district] of [
   }
 }
 console.log('Al Ain districts: 8-sector reviewed bilingual content and HTML contract: PASS.');
+const bannerCss = read('components/AlAinSectorCards.module.css');
+assert.ok(bannerCss.includes('grid-template-columns:repeat(2,minmax(0,1fr))'));
+assert.ok(bannerCss.includes('aspect-ratio:2/1'));
+assert.ok(bannerCss.includes('object-fit:cover'));
+assert.ok(!bannerCss.includes('repeat(3,minmax(0,1fr))'));
+const districtRoutes=read('lib/localRouteProps.js');
+assert.ok(districtRoutes.includes('alAinAreaSectorProps(locale,district.slug,CATEGORY.slug)'));
+assert.ok(read('components/AlAinMaintenanceAreaPage.js').includes('reviewedServiceGuides={model.reviewedServiceGuides}'));
+assert.ok(read('components/AlAinDistrictCleaningPage.js').includes('reviewedServiceGuides={model.reviewedServiceGuides}'));
+console.log('Al Ain city/district banner + service form parity: PASS.');

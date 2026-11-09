@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "367/434 independently rewritten AR/EN; equipment-rental 1–28 verified. Remaining equipment 29–53 (25) and cleaning 1–42 (42). Not approved for publication.",
+      "review_note": "381/434 independently rewritten AR/EN; equipment-rental 1–42 verified. Remaining equipment 43–53 (11) and cleaning 1–42 (42). Not approved for publication.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "متاجر الأدوات والمعدات",
+        "specialty": "نقل مواد ومعدات المشاريع",
         "rewritten_service_numbers": [
           1,
           2,
@@ -166,14 +166,28 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 25,
+        "next_service_number": 43,
+        "remaining_in_sector": 11,
         "sector_total": 53,
         "area_total": 434,
-        "area_independently_rewritten": 367,
-        "remaining_area_services_for_originality_review": 67,
+        "area_independently_rewritten": 381,
+        "remaining_area_services_for_originality_review": 53,
         "area_editorially_approved": false
       }
     },

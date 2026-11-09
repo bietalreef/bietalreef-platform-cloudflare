@@ -13,8 +13,8 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
   const imageWidth = image ? 1440 : service ? 1536 : 1600;
   const imageHeight = image ? 810 : service ? 864 : 1000;
   const fullTitle = seoTitle || `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
-  const isAbuDhabiContracting = emirate?.slug === 'abu-dhabi' && service?.slug === 'general-contracting';
-  const breadcrumbData = isAbuDhabiContracting ? {
+  const isAbuDhabiSector = emirate?.slug === 'abu-dhabi' && Boolean(service);
+  const breadcrumbData = isAbuDhabiSector ? {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [

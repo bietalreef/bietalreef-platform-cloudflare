@@ -1,0 +1,364 @@
+{
+  "sector": "equipment-rental",
+  "source": "Existing bilingual editorial draft for all services, adapted to Abu Dhabi, with service availability always determined by existing taxonomy.",
+  "specialties": [
+    {
+      "slug": "construction-lifting-equipment",
+      "services": [
+        {
+          "nameAr": "تأجير السقالات",
+          "nameEn": "Scaffolding hire",
+          "bodyAr": "استئجار السقالات لا يبدأ من عدد الإطارات فقط. أرسل صور الواجهة وارتفاع منطقة العمل وطولها ونقاط الدخول، واذكر هل العمل دهان أم تركيب كسوة أم صيانة واجهة. يجب تحديد من يصمم ترتيب السقالات ويركبها ويفحصها، وكيف ستثبت القواعد وتؤمن الحواف وممرات السكان. قارن عرض الإيجار بحسب مدة الاستخدام والنقل والتركيب والتعديل والتفكيك، ولا تسمح بالاستخدام قبل توثيق فحص الاستلام وحالة الحواجز والمنصات.",
+          "bodyEn": "Scaffolding hire should not be priced solely by the number of frames. Provide façade photographs, working height, length and access points, and specify whether the task is painting, cladding or repair. Establish who plans, erects and inspects the scaffold, how bases are supported and how edges and residents' routes are protected. Compare hire duration, transport, erection, alterations and dismantling; require a documented pre-use inspection of platforms and guardrails."
+        },
+        {
+          "nameAr": "تأجير الرافعات",
+          "nameEn": "Crane hire",
+          "bodyAr": "قبل طلب رافعة لمناولة وحدة تكييف أو ألواح ثقيلة، حدد وزن الحمولة من مستند موثوق وأبعادها ومركز ثقلها ونقطة الإنزال ومسافة الرفع الأفقية. صور المدخل والأرض وموقع الوقوف وأي أسلاك أو عوائق علوية، واطلب تقييم قدرة الرافعة عند نصف القطر الفعلي لا أقصى حمولة مكتوبة على جسمها. قارن وجود المشغل ومعدات الربط وخطة الرفع ورسوم الانتظار، وتحقق من سجلات الفحص والتصاريح المطلوبة بحسب الموقع قبل التشغيل.",
+          "bodyEn": "For lifting an AC unit or heavy panels, obtain a reliable load weight, dimensions, centre of gravity, landing position and horizontal lifting radius. Photograph access, standing ground, overhead cables and other obstacles. The crane must be assessed against its capacity at the actual radius, not its advertised maximum. Compare operator, rigging, lift planning and waiting charges, and verify inspection records and any site-specific permissions before lifting."
+        },
+        {
+          "nameAr": "تأجير معدات الحفر",
+          "nameEn": "Excavator hire",
+          "bodyAr": "تأجير حفار لحفر أساس أو خندق خدمات يتطلب مخططًا يحدد العمق والعرض والطول ومسار الدخول ومكان تكديس ناتج الحفر. لا تفترض خلو الأرض من الكابلات والأنابيب؛ يجب التحقق من الخدمات القائمة وتحديد إجراءات الحماية قبل الحفر. قارن الحفار والملحقات ووسائل نقل التربة والمشغل والوقود ووقت التعبئة، ثم قِس المناسيب والحدود بعد العمل وسجل أي تلف خارج نطاق الحفر.",
+          "bodyEn": "An excavator for foundations or service trenches needs a plan showing length, width, depth, access and spoil-storage location. Never assume the ground is clear of buried cables or pipes; existing utilities and protective measures must be checked first. Compare machine size, attachments, spoil removal, operator, fuel and mobilisation. Survey completed levels and boundaries and record damage outside the agreed excavation."
+        },
+        {
+          "nameAr": "تأجير معدات الدمك",
+          "nameEn": "Compaction plant hire",
+          "bodyAr": "اختيار دكاك صفيحي أو مدحلة لردم خندق يختلف عن دمك مساحة مفتوحة. اذكر نوع الردم وسماكة كل طبقة ومساحة التشغيل وقرب الجدران والخدمات المدفونة، واطلب من جهة المشروع تحديد معيار الدمك والاختبارات اللازمة بدل اعتماد عدد مرور ثابت. قارن سعة المعدة وإمكانية الوصول والوقود والمشغل وتكلفة النقل، واستلم طبقات موثقة بنتائج الفحص حيث يطلب المشروع ذلك.",
+          "bodyEn": "A plate compactor for a narrow trench is not interchangeable with a roller for an open area. Specify fill material, layer thickness, working area and proximity to walls or buried services. Ask the project engineer to define the compaction criteria and any required testing rather than assuming a fixed number of passes. Compare machine access, fuel, operator and transport, and accept documented test results where specified."
+        },
+        {
+          "nameAr": "تأجير الخلاطات",
+          "nameEn": "Concrete mixer hire",
+          "bodyAr": "الخلاطة المؤجرة مناسبة لصبات أو مونة محدودة فقط بعد تحديد الكميات وطريقة الخلط المطلوبة؛ ليست بديلًا تلقائيًا للخرسانة الجاهزة في الأعمال الإنشائية. اذكر حجم كل دفعة ومصدر المياه والطاقة ومكان التفريغ ومسار تنظيف المعدات. قارن سعة الحلة وزمن الدورة والنقل والوقود ومن يتحمل تنظيف بقايا الأسمنت، وافحص الحواجز وحالة الأسطوانة والتشغيل قبل قبول الجهاز.",
+          "bodyEn": "A hired mixer can suit limited batches of mortar or concrete once volumes and mixing requirements are defined; it is not automatically a substitute for specified ready-mix structural concrete. State batch size, water and power supply, discharge location and washout arrangements. Compare drum capacity, cycle time, delivery, fuel and cleaning obligations. Check guards, drum condition and operation before accepting the machine."
+        },
+        {
+          "nameAr": "تأجير معدات قص الخرسانة",
+          "nameEn": "Concrete cutting equipment hire",
+          "bodyAr": "في استئجار معدات قص الخرسانة، وضّح هل المطلوب فتح مجرى أو ثقب دائري أو قص لوح، مع سماكة العنصر وأبعاد القطع ونقاط الوصول. يجب فحص مخططات التسليح والخدمات المخفية وتقييم تأثير القطع على العنصر الإنشائي عند اللزوم قبل تشغيل المنشار. قارن قدرة المعدة ونوع الشفرة والتبريد وتجميع مياه القص والطين وحماية المنطقة، واستلم حوافًا وأبعادًا مطابقة مع تنظيف المخلفات.",
+          "bodyEn": "For concrete cutting equipment, distinguish a chased groove, circular core and full-depth saw cut, and supply the element thickness, dimensions and access points. Reinforcement and concealed services must be assessed, with structural implications reviewed where necessary, before cutting. Compare cutter capacity, blade type, cooling, slurry capture and site protection. Check final dimensions, edges and waste removal at handover."
+        },
+        {
+          "nameAr": "تأجير معدات المشاريع",
+          "nameEn": "Project equipment hire",
+          "bodyAr": "عند استئجار معدات مشروع متعدد المراحل، أنشئ سجلًا يربط كل جهاز بالمهمة وموعد دخوله وخروجه وقدرة الكهرباء أو استهلاك الوقود ومساحة التخزين. افصل في المقارنة بين الإيجار اليومي أو الشهري والنقل والمشغل والتأمين والصيانة والتوقف بسبب العطل. سجّل الرقم التسلسلي وصور الحالة وساعات التشغيل والملحقات عند التسليم، وحدد آلية الإبلاغ عن العطل وإثبات الإرجاع لتجنب خلافات الفواتير.",
+          "bodyEn": "For equipment hired across several project phases, maintain a plant schedule linking each item to its task, arrival and return dates, power or fuel requirements and storage area. Compare daily or monthly hire separately from transport, operator, insurance, servicing and breakdown downtime. Photograph serial numbers, condition, meter hours and accessories on delivery; agree how faults and returns will be recorded to prevent billing disputes."
+        }
+      ]
+    },
+    {
+      "slug": "light-equipment-tools",
+      "services": [
+        {
+          "nameAr": "تأجير مولدات الكهرباء",
+          "nameEn": "Generator hire",
+          "bodyAr": "قبل اختيار مولد كهرباء مؤقت، اجمع لوحة الأحمال للأجهزة المراد تشغيلها وحدد القدرة التشغيلية وقدرة بدء المحركات، وما إذا كانت هناك أحمال حساسة تتطلب استقرار الجهد. أرفق صور لوحة التوصيل وموقع وضع المولد ومسافة الكابلات وساعات العمل اليومية. اطلب من المؤجر بيان القدرة المستمرة بالكيلو فولت أمبير عند ظروف التشغيل، ونوع الوقود واستهلاكه، ومستوى الضجيج، وحماية التسرب الأرضي، وطريقة التأريض والربط الآمن بواسطة مختص. قارن الإيجار مع الوقود والتعبئة والصيانة والنقل والاستبدال عند العطل. عند التسليم سجّل ساعات العداد واختبر الجهد تحت حمل مناسب، ولا تشغّل المولد في مكان مغلق أو قرب فتحات التهوية.",
+          "bodyEn": "Before selecting a temporary generator, prepare an equipment load schedule showing running demand, motor starting loads and any voltage-sensitive devices. Provide photographs of the connection point, proposed generator position, cable run and daily operating hours. Ask for the continuous kVA rating under the intended conditions, fuel type and consumption, noise output, earth-leakage protection and a safe connection and earthing arrangement by a competent person. Compare fuel, refilling, servicing, transport and breakdown replacement separately from hire. Record meter hours at handover and test voltage under a suitable load; never operate the generator indoors or beside ventilation openings."
+        },
+        {
+          "nameAr": "تأجير معدات التنظيف",
+          "nameEn": "Cleaning equipment hire",
+          "bodyAr": "لا يكفي طلب «ماكينة تنظيف» دون تحديد ما إذا كانت الأرضيات سيراميك أو حجرًا حساسًا أو سجادًا، وهل المطلوب غسيلًا أم شفط مياه أم إزالة غبار إنشائي. أرسل صور الاتساخ ومساحة العمل بالمتر المربع، وحدد عرض الأبواب والمصاعد ومصدر الماء والكهرباء. قارن بين ماكينة فرك وتجفيف الأرضيات، وجهاز استخلاص السجاد، والمكنسة الصناعية بحسب طبيعة السطح، مع احتساب الفرش والفلاتر والمواد المسموح بها وتكلفة التسليم والاستلام. افحص الخراطيم والخزانات وعمل نظام الشفط، وجرّب الجهاز على مساحة صغيرة لتجنب تلف التشطيب. وثّق حالة الجهاز والملحقات عند إرجاعه.",
+          "bodyEn": "An unspecified 'cleaning machine' is not enough: distinguish tiled floors, delicate stone, carpet, wet extraction and construction dust. Supply photographs of the contamination, floor area in square metres, door and lift clearances and available water and power. Compare a scrubber-dryer, carpet extractor and industrial vacuum for the actual surface, including brushes, filters, approved chemicals and collection charges. Inspect hoses, tanks and suction operation, then trial the machine on a small inconspicuous area to avoid finish damage. Photograph its condition and accessories before return."
+        },
+        {
+          "nameAr": "تأجير ضواغط الهواء",
+          "nameEn": "Air compressor hire",
+          "bodyAr": "حدد الأداة الهوائية التي ستعمل بالضاغط أولًا؛ فالمطلوب ليس الضغط بالبار وحده بل تدفق الهواء الفعلي باللتر في الدقيقة عند ضغط التشغيل، ونسبة التشغيل المستمر. أرفق بيانات الأداة وطول الخرطوم ومكان العمل ومصدر الكهرباء المتاح. اطلب مقارنة ضاغط المكبس أو اللولب وفق قدرة الخزان والضجيج والتكاثف وفاصل الرطوبة، وتحقق من ملاءمة الخراطيم والوصلات للضغط المحدد. بيّن في العرض من يتحمل الوقود أو الكهرباء والزيت والنقل وإصلاح الأعطال. عند الاستلام افحص مقياس الضغط وصمام الأمان وتصريف المكثفات والتسرب، ولا تتجاوز الضغط المسموح للأداة.",
+          "bodyEn": "Start with the pneumatic tool: required pressure in bar alone is insufficient without its actual airflow demand in litres per minute at operating pressure and duty cycle. Provide the tool specification, hose length, work location and available power. Compare piston and rotary-screw compressors by delivery, tank capacity, noise and moisture separation, and ensure hoses and fittings have the correct pressure rating. State who pays for power or fuel, oil, transport and breakdowns. On delivery check the gauge, safety valve, condensate drain and leaks; never exceed the tool's rated pressure."
+        },
+        {
+          "nameAr": "تأجير العدد الكهربائية",
+          "nameEn": "Power-tool hire",
+          "bodyAr": "جهّز قائمة أدوات مرتبطة بالمهمة: مثقاب للخرسانة أو مفك ربط أو صاروخ قطع، مع نوع المادة وسماكتها وقطر الثقوب أو الأقراص المطلوبة. أرسل صور منطقة العمل واذكر هل الكهرباء متاحة أم يلزم نظام بطاريات، وهل هناك غبار أو عمل قرب خدمات مخفية. قارن تكلفة الجهاز منفصلة عن الشفرات والرؤوس والبطاريات والشواحن، وحدد مسؤولية التلف الناتج عن الاستهلاك الطبيعي. افحص واقيات القطع وسلامة الأسلاك ومفاتيح التشغيل، واختبر دوران الأداة دون حمل قبل الاستلام. لا تستخدم قرصًا أو ملحقًا غير مطابق لسرعة الجهاز أو مادة العمل.",
+          "bodyEn": "Prepare a task-specific tool list: masonry drill, driver or angle grinder, identifying the material, thickness, hole diameter or required disc. Photograph the work area and state whether mains power is available, batteries are needed, or concealed services and dust are concerns. Compare hire of the tool separately from blades, bits, batteries and chargers, and clarify fair-wear versus damage charges. Check guards, cables and switches, then test the tool without load before accepting it. Never fit an accessory whose speed rating or material suitability does not match the tool."
+        },
+        {
+          "nameAr": "تأجير معدات اللحام",
+          "nameEn": "Welding equipment hire",
+          "bodyAr": "عند تأجير ماكينة لحام، حدّد المعدن وسماكته ونوع الوصلة وهل المطلوب لحام قوس كهربائي أم MIG/TIG، لأن المعدات والغازات والمواد الاستهلاكية تختلف. قدّم صور موضع العمل وبيّن التهوية ومصدر الكهرباء والحمل المتاح ووجود مواد قابلة للاشتعال. اطلب عرضًا يفصل الماكينة والكابلات والأقطاب أو سلك اللحام والأسطوانة والمنظم ومعدات الحماية، وحدد من يوفر العامل المؤهل ومن يتولى مراقبة الحريق. عند التسليم افحص التأريض والعزل ووصلات الغاز إن وجدت، وجرّب إعدادات التيار على قطعة اختبار مناسبة. لا تعتبر تأجير الجهاز تصريحًا بتنفيذ أعمال لحام في أي موقع.",
+          "bodyEn": "For welding-machine hire, identify the metal, thickness, joint and whether stick, MIG or TIG welding is intended; consumables and gas arrangements differ. Supply site photographs, ventilation conditions, electrical capacity and proximity to combustible materials. Obtain an itemised quote for the machine, leads, electrodes or wire, gas cylinder, regulator and protective equipment. Establish who supplies a competent welder and fire watch where needed. Inspect cable insulation, earthing and gas connections, and trial settings on suitable scrap. Hiring a welder does not itself authorise hot work at a site."
+        },
+        {
+          "nameAr": "تأجير مضخات المياه",
+          "nameEn": "Water pump hire",
+          "bodyAr": "لتحديد مضخة مناسبة، اذكر مصدر الماء ونوعه وهل يحوي رملًا أو شوائب، وحجم التجمع المطلوب نزحه، وفرق المنسوب وطول خط الطرد وقطره. أرسل صور الحفرة أو الخزان ومسار الخرطوم ومكان التصريف المقترح، مع بيان توفر الكهرباء والحماية من الماء. اطلب من المؤجر منحنى أداء يوضح التصريف عند ارتفاع الضخ المطلوب، ولا تقارن قدرة المحرك وحدها. اتفق على مصفاة السحب وصمام عدم الرجوع والخراطيم والكابلات والتشغيل الاحتياطي عند الحاجة. اختبر معدل الضخ والتسرب وحماية التشغيل الجاف عند التسليم، وتأكد من أن تصريف المياه يتم إلى موقع مناسب ومصرح به عند اللزوم.",
+          "bodyEn": "To size a water pump, identify the water source, sediment content, estimated volume, elevation difference and discharge hose length and diameter. Photograph the pit or tank, hose route and proposed discharge point, and describe the available electrical supply and water protection. Request a pump performance curve showing flow at the required head; motor power alone is not a meaningful comparison. Agree on suction strainer, non-return valve, hoses, cables and any standby arrangements. Check flow, leaks and dry-running protection on handover, and verify that discharge goes to an appropriate, authorised location where required."
+        },
+        {
+          "nameAr": "تأجير معدات الحدائق",
+          "nameEn": "Garden equipment hire",
+          "bodyAr": "اختيار معدات الحدائق يعتمد على طبيعة المهمة: قص مسطح عشبي، تشذيب سياج، تقليم أغصان، أو جمع أوراق؛ ولا تصلح آلة واحدة لكل ذلك. أرفق مساحة الحديقة وصور الممرات وميل الأرض وارتفاع النباتات، واذكر قرب الأطفال والمركبات والواجهات الزجاجية. قارن عرض الإيجار بحسب نوع الجزازة أو المقص أو المنفاخ، ومصدر الطاقة، والبطاريات أو الوقود، والشفرات ووسائل الحماية ورسوم النقل. افحص حالة الشفرات والحواجز ومفتاح الإيقاف وأي اهتزاز غير طبيعي قبل الاستخدام، وحدد مسؤولية التخلص من المخلفات الخضراء. وثّق حالة المعدة وملحقاتها عند الإرجاع.",
+          "bodyEn": "Select garden equipment by task: mowing lawn, trimming hedges, pruning branches or clearing leaves require different machines. Supply garden area, photographs of paths, slopes and vegetation height, noting nearby children, vehicles and glazing. Compare mower, trimmer and blower hire by power source, battery or fuel provision, blades, guards and transport. Inspect blades, safety interlocks, stop switch and unusual vibration before use, and clarify green-waste disposal. Record equipment condition and accessories on return."
+        }
+      ]
+    },
+    {
+      "slug": "aluminium-glass-factories",
+      "services": [
+        {
+          "nameAr": "تصنيع قطاعات الألمنيوم",
+          "nameEn": "Aluminium profile production",
+          "bodyAr": "يبدأ طلب تصنيع قطاعات الألمنيوم برسم مقطع يوضح شكل التجاويف ومواقع البراغي والحشوات، لا بصورة للون النهائي فقط. أرسل الطول المطلوب لكل قطعة، والسماكات المحددة في التصميم، والكمية، وطريقة الاستخدام وهل القطاع جزء من نافذة أو واجهة أو هيكل داخلي. ميّز بين قطاع متاح في كتالوج المصنع وقالب بثق جديد يحتاج تكلفة إعداد وكمية إنتاج دنيا؛ لا تعتمد مقطعًا بديلًا لمجرد تشابه عرضه الخارجي. اطلب عينة فعلية وبيانات السبيكة والتشطيب وحدود التفاوت، وقارن تكلفة القالب والهالك والقص والتغليف والتسليم. عند الاستلام افحص الاستقامة والأبعاد وسمك الجدران وعيوب الطلاء على عينات موزعة على الدفعة، وسجّل رقم التشغيل لتتبع أي اختلاف لاحق.",
+          "bodyEn": "An aluminium extrusion order starts with a dimensioned section drawing showing cavities, screw ports and gasket seats, not just a colour reference. Provide cut lengths, specified wall thicknesses, intended application and batch quantity, distinguishing a catalogue profile from a new die that may involve tooling charges and a minimum production run. A profile with similar outside dimensions may not accommodate the required hardware or structural detailing. Request a physical sample, alloy and finish information, dimensional tolerances and traceable batch identification. Compare tooling, scrap allowance, cutting, protective packing and delivery separately. At receipt, sample-check straightness, critical dimensions, wall thickness and coating defects across the batch rather than examining only one convenient piece."
+        },
+        {
+          "nameAr": "تصنيع الأبواب والنوافذ",
+          "nameEn": "Door and window production",
+          "bodyAr": "في تصنيع الأبواب والنوافذ، ينبغي أن يصل إلى الورشة جدول فتحات يحمل رقم كل فتحة ومقاسها بعد التشطيب واتجاه الفتح ونوع الزجاج والأقفال والمفصلات. صورة الواجهة وحدها لا تكشف عمق الحلق أو اختلاف مناسيب العتبات؛ لذلك تُراجع القياسات بالموقع قبل اعتماد قص القطاعات. اطلب رسومات تصنيع تحدد نظام العزل والحشوات ومواقع تصريف الماء وموانع الحركة، مع بيان ما إذا كان التوريد يشمل التركيب والسيليكون والتشطيب المحيط. قارن عروض الورش على أساس نظام قطاع محدد وإكسسوارات قابلة للاستبدال وضمانات واضحة، لا على أساس عدد الأمتار فقط. عند الاستلام طابق أرقام الوحدات مع جدول الفتحات، وافحص الزوايا وحركة الضلف وسلامة الزجاج وأماكن التصريف قبل اعتماد الدفعة.",
+          "bodyEn": "Before a factory makes doors and windows, provide a numbered opening schedule with finished opening measurements, handing, glazing, locks, hinges and sill details. Elevation photographs do not establish frame depth or finished floor levels, so the fabrication dimensions should be checked on site before cutting. Request shop drawings identifying the frame system, seals, drainage routes and movement allowances, and clarify whether installation, perimeter sealant and making good are included. Compare bids using the same profile specification and serviceable hardware rather than a simple price per square metre. On delivery, match labelled units to the schedule and inspect squareness, sash operation, glass condition and drainage provisions before accepting the batch."
+        },
+        {
+          "nameAr": "تصنيع الزجاج المقسى",
+          "nameEn": "Toughened glass manufacture",
+          "bodyAr": "الزجاج المقسى يُطلب بعد حسم مقاس اللوح وشكل الحواف ومواقع الثقوب والفتحات، لأن تعديل القص أو الثقب بعد التقسية غير ممكن بالطريقة المعتادة. قدم رسمًا يوضح أماكن المفصلات والمقابض والابتعاد عن الحواف، وحدد الاستخدام النهائي للوح وهل يتطلب تصميمًا زجاجًا مصفحًا أو تركيبًا مركبًا بدل الاكتفاء بالتقسية. اطلب توضيح نوع الزجاج وسماكته ومعالجة الحواف ووسم التعريف وتقارير الفحص ذات الصلة بالمواصفات المتفق عليها؛ لا تفترض أن كل لوح مقسى صالح لكل درابزين أو واجهة. قارن السعر شاملاً القوالب والقص والمعالجة والنقل بحوامل مناسبة. افحص أبعاد كل لوح وحوافه والخدوش والكسور الدقيقة والتغليف عند الاستلام، ولا تقبل لوحًا متضررًا بحجة أن تركيبه سيخفي العيب.",
+          "bodyEn": "Toughened glass must be cut, drilled and edge-finished to its final geometry before the tempering process; it cannot normally be resized afterwards. Submit drawings showing hinge and handle holes, edge distances and final use. Confirm with the responsible designer whether the application requires laminated or another engineered safety-glazing assembly rather than assuming tempering alone is sufficient for a balustrade or façade. Request glass type, thickness, edge treatment, identification markings and relevant test information against the agreed specification. Compare processing, drilling, handling frames and transport, not just glass area. Check each pane for size, edge damage, scratches and handling defects before signing delivery documents."
+        },
+        {
+          "nameAr": "تجهيز الواجهات الزجاجية",
+          "nameEn": "Glass façade preparation",
+          "bodyAr": "تجهيز واجهة زجاجية في المصنع يبدأ بمخطط واجهة معتمد للتنفيذ يبين ترقيم الألواح والقطاعات وفواصل التمدد ونقاط التثبيت وتفاصيل تصريف الماء. يحتاج المصنع إلى الأبعاد الفعلية بعد مراجعة الموقع، وإلى تحديد الأحمال والمتطلبات التي يقررها المصمم المختص، خصوصًا عند الواجهات المرتفعة أو الكبيرة. اطلب نموذجًا أو عينة تجميع للتأكد من توافق الزجاج مع الحشوات والقطاعات والمثبتات، وحدد تسلسل الشحن بحسب مراحل التركيب حتى لا تتراكم الألواح في موقع ضيق. قارن عروض التصنيع على أساس نوع الزجاج والمعالجة والحواف والملحقات والاختبارات المتفق عليها. عند التسليم راجع جدول الألواح ورموز مواقعها وحماية الحواف وتقارير الفحص، ولا تعتبر تجهيز المصنع بديلًا عن فحص التثبيت في الموقع.",
+          "bodyEn": "Factory preparation of a glazed façade requires coordinated elevations and fabrication drawings that number every pane and identify framing, movement joints, anchors and drainage details. Verify as-built dimensions and provide the loads and performance requirements established by the responsible façade designer, particularly for large or elevated installations. Ask for a sample assembly to confirm compatibility among glazing, gaskets, profiles and fixings. Sequence packing and deliveries to match installation stages instead of storing fragile panes unnecessarily on site. Compare glass build-up, processing, accessories and agreed factory checks. At handover, reconcile pane tags, edge protection, packing lists and inspection records; factory acceptance does not replace inspection of the installed façade."
+        },
+        {
+          "nameAr": "تصنيع القواطع",
+          "nameEn": "Partition fabrication",
+          "bodyAr": "عند تصنيع قواطع زجاجية أو ألمنيوم للمكاتب أو المحلات، أرسل مخطط توزيع يبين طول كل قاطع وارتفاعه ومواضع الأبواب واتجاه فتحها ومسارات الكهرباء والتكييف. تختلف قواطع الخصوصية الصوتية عن الفواصل البصرية؛ لذلك يجب الاتفاق على نوع الزجاج والحشوات وطريقة التثبيت بالأرضية والسقف قبل التسعير. اطلب تفاصيل معالجة التقاء القاطع بالجدران والأسقف المستعارة، مع بيان من يتحمل تعديل التشطيبات القائمة أو نقل نقاط الخدمات. قارن عروض الورش بحسب قطاعات النظام والتدعيم والإكسسوارات ونطاق التركيب، لا بحسب مساحة الزجاج فقط. افحص التجميع المبدئي واستقامة الإطارات ومواضع الثقوب، ثم تحقق بعد التركيب من إحكام الأبواب وثبات القاطع ونظافة الفواصل.",
+          "bodyEn": "For office or retail partitions, send a layout identifying each run length and height, door position and swing, plus nearby power, lighting and air-conditioning services. A visually separating screen and an acoustically rated enclosure have different glass, seal and junction requirements, which must be defined before quotation. Specify how frames meet the floor, existing walls and suspended ceiling, and who is responsible for moving services or repairing disturbed finishes. Compare the actual framing system, reinforcement, fittings and installation scope rather than glazing area alone. Review a trial assembly for alignment and hole locations, then check stability, door operation and perimeter seals after installation."
+        },
+        {
+          "nameAr": "توريد الزجاج",
+          "nameEn": "Glass product supply",
+          "bodyAr": "توريد الزجاج يختلف عن تصنيعه وتركيبه؛ فقد يكون المطلوب ألواحًا خامًا لورشة أخرى أو ألواحًا مقصوصة ومجهزة لمشروع محدد. أرسل قائمة قطع تتضمن الطول والعرض والسماكة والكمية ونوع المعالجة واللون وأي طلاء أو تصفيح، مع تحديد الوجه الذي يجب أن يتجه إلى الخارج إن كانت للوح طبقة وظيفية. لا تكتفِ باسم تجاري؛ اطلب بيانات المنتج ومطابقته للاستخدام المقصود، خاصة في الأبواب والواجهات والمناطق التي تتطلب زجاج أمان وفق التصميم. قارن تكلفة القص والهالك والحماية والحوامل والنقل وإعادة التوريد عند الكسر. عند التسليم طابق الملصقات وقائمة التعبئة، وافحص الزوايا والخدوش وتفاوت الأبعاد قبل توقيع الاستلام.",
+          "bodyEn": "Glass supply may mean raw stock for another workshop or finished, cut-to-size panes for a particular project; these are different orders. Supply a cutting list with width, height, thickness, quantity, glass processing, colour and any coating or laminate, including orientation of functional coatings where relevant. Ask for product documentation and suitability for the designed use, particularly at doors, façades and safety-critical locations. Compare cutting yield, breakage arrangements, racks, protective packaging, transport and replacement lead time. On receipt, reconcile labels and packing lists, inspect corners and surfaces for damage, and measure representative pieces before signing acceptance."
+        },
+        {
+          "nameAr": "تنفيذ طلبات المشاريع",
+          "nameEn": "Project batch fabrication",
+          "bodyAr": "تنفيذ طلبات المشاريع المتكررة يحتاج ضبطًا للنسخ أكثر من حاجة الطلب الفردي. جهز جدول كميات يربط كل باب أو نافذة أو لوح برقم المبنى والطابق والفتحة، مع الرسومات المعتمدة وتواريخ احتياج الموقع. اتفق على عينة أولى يتم قياسها وتجريب تركيبها قبل بدء الإنتاج الكمي، وعلى آلية إدارة أي تغيير في المقاسات حتى لا تُنتج دفعات وفق مخططات قديمة. قارن عروض المصانع بحسب القدرة الإنتاجية الفعلية ومراحل الفحص والتغليف والنقل وجدول الدفعات وشروط معالجة القطع المرفوضة. عند كل تسليم افحص عينة موزعة على الدفعة، وطابق أرقام القطع وكمياتها وسجلات الفحص، ولا تعتمد فاتورة التوريد وحدها دليلًا على قبول الجودة.",
+          "bodyEn": "Repeated project orders require version control as well as production capacity. Build a schedule tying every door, window or glass pane to its building, floor and opening number, with approved drawings and required site dates. Agree on a first-article sample and trial installation before releasing full production, plus a formal method for communicating dimensional revisions so later batches are not made from obsolete drawings. Compare factories on demonstrated output capacity, inspection stages, packing, phased deliveries and replacement of rejected units. For each batch, sample-check dimensions, count labelled items and reconcile inspection records; a delivery invoice alone does not establish technical acceptance."
+        }
+      ]
+    },
+    {
+      "slug": "marble-stone-factories",
+      "services": [
+        {
+          "nameAr": "قص الرخام والحجر",
+          "nameEn": "Stone cutting",
+          "bodyAr": "قص الرخام والحجر لا يبدأ من قياس طول اللوح فقط؛ يلزم تحديد نوع الحجر الطبيعي أو الصناعي، والسماكة، والتشطيب، واتجاه العروق، ومكان كل قطعة في المشروع. أرسل للورشة مخططًا مرقمًا أو قائمة قص تشمل الأبعاد النهائية بعد احتساب الفواصل، ومواضع الفتحات، وطريقة معالجة الحواف. إذا كانت القطع متجاورة فاطلب توزيعها على صورة للألواح قبل القص لمراجعة امتداد العروق وتقليل الهالك؛ ولا تقبل تغيير اتجاه القص دون موافقة. قارن العروض على أساس كمية الحجر الخام، ونسبة الهالك، والقص المائي أو المنشار بحسب الحاجة، وتشطيب الحواف، والتغليف والنقل، ومسؤولية إعادة تصنيع القطعة الخاطئة. عند الاستلام قس عينة من القطع، وافحص استقامة الحواف والزوايا والشروخ الدقيقة وترقيم القطع، وطابقها مع مخطط التركيب.",
+          "bodyEn": "Stone cutting starts with the intended installation, not just slab dimensions. Specify natural or engineered stone, thickness, finish, vein orientation and the destination of each piece. Give the workshop a numbered cutting schedule with final dimensions, joint allowances, openings and exposed-edge treatments. For adjacent pieces, request a photographed slab layout before cutting so the vein sequence and waste can be reviewed; changes to that layout should be agreed rather than assumed. Compare quotations for raw slab allowance, waste, appropriate saw or waterjet work, edge finishing, packaging, transport and responsibility for recutting incorrect pieces. At receipt, measure sample pieces, inspect square corners and straight edges, check for hairline cracks and match the labels to the installation drawing."
+        },
+        {
+          "nameAr": "تصنيع أسطح المطابخ",
+          "nameEn": "Kitchen counter fabrication",
+          "bodyAr": "تصنيع سطح مطبخ حجري يتطلب رفع قالب نهائي بعد تثبيت الخزائن والتحقق من استوائها، وليس الاكتفاء بأبعاد التصميم الأولية. حدد نوع السطح وسماكته وطريقة تدعيم البروزات، وموضع الحوض والموقد والحنفيات ومخارج الخدمات، واترك قرار مسافات الأمان حول الأجهزة لمتطلبات مصنّعها. ناقش مع الورشة مواقع الوصلات واتجاه العروق ونوع الحافة، وهل يشمل العرض فتحات الأجهزة والتلميع والحمل إلى الموقع والتركيب والسيلكون. عند المقارنة اطلب رسم تصنيع واضحًا وعينة من اللون والتشطيب وشروط معالجة الكسر أو اختلاف المقاس. افحص الفتحات والحواف قبل النقل، ثم عند التركيب راجع استواء السطح وثبات الوصلات وعدم وجود فراغات أو تحميل غير مدعوم.",
+          "bodyEn": "A stone kitchen countertop should be templated after cabinets are installed and levelled, rather than fabricated solely from preliminary design dimensions. Confirm material and thickness, support for overhangs, sink and hob cut-outs, taps and service penetrations; clearances around appliances must follow the relevant manufacturers' requirements. Agree seam positions, vein matching and edge profiles, and distinguish fabrication from delivery, lifting, installation and sealing in the quotation. Ask for a shop drawing and a physical finish sample, including terms for remaking damaged or wrongly sized pieces. Inspect cut-outs and polished edges before dispatch. After fitting, check levels, joint alignment, secure support and the absence of unsupported voids or chipped edges."
+        },
+        {
+          "nameAr": "تصنيع الدرج",
+          "nameEn": "Stair tread fabrication",
+          "bodyAr": "تصنيع كسوة درجات من الرخام أو الحجر يبدأ بمخطط درج منفذ فعليًا يبين عرض كل درجة وعمق النائمة وارتفاع القائمة وأبعاد البسطات. لا تفترض تساوي جميع الدرجات في مبنى قائم؛ قسها واحدةً واحدة، وحدد موضع الأنف والحواف المكشوفة وملمس السطح المناسب لتقليل الانزلاق. يحتاج المصنع إلى ترقيم كل قطعة بحسب موضعها وتحديد اتجاه العروق والسماكة وأي أخاديد أو شرائط تباين مقررة في التصميم. قارن عروض التصنيع في القص والتشطيب والقطع البديلة والتغليف والتركيب إن كان مشمولًا. عند التسليم طابق ترقيم القطع وأبعادها، وافحص الزوايا والحواف والاختلافات اللونية؛ وبعد التركيب راجع انتظام مناسيب الدرج وثبات القطع دون اعتبار تصنيع الحجر وحده إثباتًا لسلامة تصميم السلم.",
+          "bodyEn": "Stone stair treads require an as-built stair survey showing the width, going and rise of each step and the dimensions of landings. Do not assume every existing step is identical: measure individually, and specify exposed nosings, edge profiles and a suitable slip-resistant finish. The factory needs piece numbers tied to positions, vein direction, thickness and any grooves or contrasting inserts required by the design. Compare cutting, finishing, replacement pieces, packing and whether installation is included. At delivery, match each label to its position and inspect dimensions, corners, colour variation and damaged edges. After installation, check consistent finished levels and secure seating; stone fabrication alone does not establish the structural or dimensional safety of the staircase."
+        },
+        {
+          "nameAr": "تجهيز رخام الواجهات",
+          "nameEn": "Façade stone preparation",
+          "bodyAr": "تجهيز رخام الواجهات عمل تصنيع مرتبط بتصميم تثبيت مستقل، وليس مجرد قص ألواح ديكور. قدم مخططات الواجهة المحدثة وأرقام الألواح والفتحات والمناسيب واتجاه العروق، مع تفاصيل نظام التعليق والفواصل والأحمال التي يعتمدها المصمم المختص. يجب توضيح مواضع الثقوب أو المجاري ونوع المراسي والحوامل قبل تشغيل الماكينات، لأن التعديل الميداني غير المخطط قد يضعف الحجر. قارن عروض المصانع بحسب السماكات والتفاوتات ومعالجة الحواف وتتبّع الألواح واختبار العينات والتغليف المناسب للرفع. افحص عينة أولية من تثبيت الحامل مع الحجر، ثم راجع عند الاستلام رموز الألواح ومواضع الثقوب والحواف والتشققات. ولا يُعد تسليم الألواح موافقة على التصميم الإنشائي أو تنفيذ التثبيت بالموقع.",
+          "bodyEn": "Façade stone preparation depends on a separately engineered fixing design, not merely decorative slab cutting. Supply current elevation drawings, panel IDs, openings, levels and vein layout together with the attachment details, movement joints and loads established by the responsible designer. Hole and slot positions, anchors and brackets must be resolved before machining; improvised on-site changes can compromise the stone. Compare factories on thickness tolerances, edge finishing, traceability, sample checks and packaging suitable for lifting. Request an initial stone-and-fixing sample, then inspect delivered panel IDs, drilling locations, edges and cracks. Delivery of fabricated panels is not approval of the structural fixing design or site installation."
+        },
+        {
+          "nameAr": "تنفيذ النقوش والزخارف",
+          "nameEn": "Stone carving and engraving",
+          "bodyAr": "عند طلب زخرفة أو نقش على حجر، قدّم رسمًا بمقياس واضح أو ملف تصنيع يحدد أبعاد الوحدة وعمق الحفر ونصف قطر الزوايا وأصغر تفصيلة يمكن تنفيذها. يختلف الحفر البارز عن الحفر الغائر وعن القطع المفرغ، كما تختلف قابلية الحجر للتفاصيل الدقيقة؛ لذلك اطلب عينة على المادة المختارة قبل إنتاج الكمية. حدد هل القطعة ستُستخدم على جدار داخلي أو في موضع معرض للعوامل الخارجية، وما إذا كانت تحتاج حماية سطحية أو نقاط تثبيت مخفية. قارن العروض بحسب إعداد التصميم وبرمجة الماكينة والتشطيب اليدوي والهالك والقطع المرفوضة. عند الاستلام قارن العينة المعتمدة بالمنتج، وافحص انتظام العمق وحواف النقوش وغياب التشققات وآثار الأدوات غير المطلوبة.",
+          "bodyEn": "For carved or engraved stone, provide a scaled drawing or production file defining overall dimensions, carving depth, corner radii and the smallest detail to be reproduced. Raised relief, recessed engraving and through-cut patterns have different limitations, particularly on brittle stone. Request a trial sample in the actual material before approving the batch. Identify whether the feature is for an interior wall or an exposed location, and specify any surface treatment or concealed mounting points. Compare design preparation, machine programming, hand finishing, waste and replacement terms. On receipt, compare the approved sample with the finished pieces and inspect depth consistency, crisp edges, cracks and unwanted tool marks."
+        },
+        {
+          "nameAr": "تلميع ومعالجة الرخام",
+          "nameEn": "Stone polishing and repair",
+          "bodyAr": "قبل جلي الرخام أو معالجته، حدد إن كانت المشكلة خدشًا سطحيًا أو بقعة متغلغلة أو بهتانًا أو تشققًا؛ فلكل حالة معالجة مختلفة وقد لا يعود اللون الأصلي بالكامل. وثّق صورًا تحت إضاءة ثابتة وحدد نوع الحجر والتشطيب السابق وأي مواد تنظيف استُخدمت. اطلب اختبارًا على مساحة صغيرة غير ظاهرة للتأكد من توافق مواد إزالة البقع أو الحشو ودرجات الجلخ والتلميع، ولا توافق على إزالة طبقة كبيرة دون تقدير أثرها على المناسيب والحواف. قارن عروض المعالجة بحسب مراحل العمل وحماية الجدران والأثاث والتعامل مع الغبار والمياه، لا بحسب مساحة الأرضية وحدها. عند الاستلام افحص انتظام المظهر في ضوء النهار، ونظافة الفواصل وعدم بقاء بقع معالجة أو حواف منخفضة، وسجل أي عيوب يتعذر إصلاحها.",
+          "bodyEn": "Before polishing or repairing marble, establish whether the problem is a surface scratch, a penetrating stain, dullness or a crack; the remedy differs, and restoration of the original appearance cannot always be guaranteed. Photograph the condition under consistent lighting and identify the stone, existing finish and previously used cleaners. Ask for a discreet test patch to assess stain removers, fillers and grinding or polishing stages. Significant material removal should not proceed without considering levels and edge profiles. Compare quotations for protection of adjacent finishes, dust and wastewater management and each treatment stage, not area alone. Inspect the result in natural light, including joints, residual marks and any uneven edges, and record defects that cannot be corrected."
+        },
+        {
+          "nameAr": "تجهيز طلبات المقاولين",
+          "nameEn": "Contractor stone orders",
+          "bodyAr": "تجهيز طلبات الحجر للمقاولين يحتاج ربطًا بين التصنيع والتوريد والتركيب في الموقع. أرسل جدول قطع يضم رمز كل قطعة وموقعها ورقم المخطط المعتمد ونوع الحجر والسماكة والتشطيب والكميات وتاريخ الحاجة الفعلي. اتفق على اعتماد عينة أولى وعلى آلية إصدار نسخة جديدة من الرسومات عند تعديل الفتحات، حتى لا تختلط دفعات مصنعة وفق مقاسات قديمة. اسأل عن قدرة المصنع على مطابقة العروق بين القطع، وترقيم الطبالي، وإرسال قائمة تعبئة لكل شحنة، وطريقة التعامل مع القطع المكسورة أو الناقصة. قارن عروض الموردين على أساس الهالك والقص والتشطيب والتغليف والنقل ومراحل السداد ومعايير الرفض. عند التسليم طابق رموز القطع وكمياتها مع أوامر التوريد وافحص عينة من كل دفعة قبل السماح بتركيبها.",
+          "bodyEn": "Contractor stone orders need a controlled link between fabrication, delivery and site installation. Issue a piece schedule with unique IDs, installation locations, approved drawing revisions, material, thickness, finish, quantities and required delivery dates. Agree a first-piece sample and a revision procedure when openings change, so batches are not made to obsolete dimensions. Check the factory's approach to vein matching, pallet numbering, packing manifests and replacement of damaged or missing pieces. Compare quotations for waste, cutting, finishing, packaging, transport, payment milestones and rejection criteria. On each delivery, reconcile piece IDs and quantities against the purchase order and inspect samples from the batch before releasing them for installation."
+        }
+      ]
+    },
+    {
+      "slug": "tools-equipment-stores",
+      "services": [
+        {
+          "nameAr": "بيع العدد اليدوية",
+          "nameEn": "Hand tools retail",
+          "bodyAr": "قبل شراء العدد اليدوية، حدد نوع العمل والمقاسات المطلوبة: مفاتيح الربط بالمليمتر أو البوصة، ونوع رؤوس المفكات، ومجال عزم الشد إن كان مهمًا. اطلب صورة للقطعة الحالية أو قائمة مقاسات بدل شراء طقم كبير لا يناسب المهمة. قارن مادة التصنيع، إحكام المقبض، إمكان تبديل القطع وشروط الضمان، ولا تخلط بين أدوات الاستخدام المنزلي وأدوات الورش المتكررة. عند الاستلام افحص حواف الفكوك واستقامة الأدوات، وجرّب مقاسًا نموذجيًا دون تحميل زائد، وطابق العدد الفعلي مع الفاتورة.",
+          "bodyEn": "Start with the actual tasks and sizes: metric or imperial spanners, screwdriver profiles and any torque range that matters. Send a photo of the existing fitting or a size schedule instead of buying an oversized assortment. Compare steel quality, grip, replaceable components and warranty; occasional household use and repeated workshop duty are not equivalent. On delivery check jaw edges, straightness and the item count against the invoice, and try one representative fit without overloading the tool."
+        },
+        {
+          "nameAr": "بيع العدد الكهربائية",
+          "nameEn": "Power tools retail",
+          "bodyAr": "شراء العدد الكهربائية يبدأ بوصف المادة المراد ثقبها أو قطعها وسمكها، وعدد ساعات الاستخدام ومصدر الكهرباء. تختلف المثاقب المطرقية عن مفكات الربط، كما تختلف مناشير الخشب عن أدوات قطع المعادن. أرسل صور موقع العمل وحدد إن كانت الأدوات سلكية أو بطاريات، ثم اطلب عرضًا يفصل الجهاز والبطاريات والشاحن والأقراص ووسائل الحماية. قارن القدرة والسرعات وقطع الغيار وخدمة الصيانة لا السعر وحده. افحص الرقم التسلسلي والملحقات وسلامة الحواجز، وشغّل الجهاز دون حمل وفق تعليماته قبل قبول التسليم.",
+          "bodyEn": "Describe the material to drill or cut, its thickness, daily duty and available power before choosing a tool. A hammer drill is not a fastening driver, and a wood saw is not automatically suitable for metal. Provide site photos and state corded or battery preference. Ask suppliers to separate the body, batteries, charger, discs and guards in the quotation. Compare speed control, power, spare parts and servicing as well as price. Check serial numbers, accessories and safety guards, then perform a permitted no-load test before acceptance."
+        },
+        {
+          "nameAr": "بيع معدات السلامة",
+          "nameEn": "Safety equipment retail",
+          "bodyAr": "لا تُشترى معدات السلامة من اسم المنتج وحده؛ ابدأ بتحديد الخطر الفعلي: سقوط من ارتفاع، غبار ناعم، رذاذ كيميائي، ضوضاء أو أجسام متطايرة. حدد عدد المستخدمين ومقاساتهم ومدة العمل، واطلب بيانات الملاءمة والمواصفات المعلنة من المصنع دون افتراض اعتماد تنظيمي لمجرد وجود ملصق. تختلف الخوذة عن حماية الوجه، ولا يغني القناع العادي عن وسيلة تنفس ملائمة للخطر. قارن المقاسات وتاريخ الصلاحية وإرشادات الاستخدام والاستبدال. عند الاستلام تحقق من سلامة الأحزمة والعدسات والتغليف، وسجّل المقاسات والدفعات لتسهيل التتبع.",
+          "bodyEn": "Select protective equipment against a defined hazard: falls, fine dust, chemical splashes, noise or flying particles. State wearer numbers, sizes and duration of exposure. Request manufacturer suitability data and applicable product documentation rather than assuming a label proves regulatory approval. A hard hat is not a face shield, and an ordinary mask may not control the identified respiratory risk. Compare fit, replacement intervals, expiry and instructions. Inspect straps, lenses, packaging and batch identifiers on receipt so the supplied items remain traceable."
+        },
+        {
+          "nameAr": "بيع معدات الورش",
+          "nameEn": "Workshop equipment retail",
+          "bodyAr": "لتجهيز ورشة، ضع مخططًا يوضح مسار القطع والتجميع والتخزين، مع أبعاد الماكينات ومسافات الحركة ومداخل المواد. حدد الكهرباء المتاحة ومتطلبات شفط الغبار أو الأبخرة وأحمال الأرضية قبل اختيار الضاغط أو المنشار أو المكبس. اطلب مواصفات التركيب والتشغيل والتدريب وقطع الغيار، وافصل تكلفة النقل والرفع والتثبيت عن ثمن المعدة. عند مقارنة الموردين، راجع الطاقة الإنتاجية المطلوبة ودقة التشغيل وفترات الصيانة. الاستلام يشمل فحص وسائل الحماية والتوقف الطارئ، وتجربة تشغيل موثقة على عينة من مادة الورشة، دون تجاوز متطلبات السلامة.",
+          "bodyEn": "Plan the workshop workflow before buying machines: material entry, cutting, assembly, storage and safe circulation. Supply machine footprints, power availability, extraction needs and floor-loading information. Ask for installation, commissioning, operator training and spare-part terms, with lifting and delivery priced separately. Compare realistic output and operating accuracy rather than rated capacity alone. Acceptance should include guards and emergency-stop checks plus a documented trial on representative workshop material under safe conditions."
+        },
+        {
+          "nameAr": "بيع معدات التنظيف",
+          "nameEn": "Cleaning equipment retail",
+          "bodyAr": "اختيار ماكينة تنظيف يعتمد على نوع الاتساخ ومساحة السطح وحساسيته، لا على حجم الخزان فقط. للأرضيات الصلبة اسأل عن عرض الفرشاة وتجميع المياه وزمن الجفاف، وللمفروشات راجع قوة الاستخلاص وملاءمة المنظفات للقماش. حدد مصدر الكهرباء والمياه وطريقة تصريف المياه المستعملة، واطلب تجربة على مساحة صغيرة إذا كانت الخامة حساسة. قارن الملحقات والمواد الاستهلاكية وسهولة تنظيف الخزانات وخدمة ما بعد البيع. عند التسليم افحص الخراطيم والأختام والفرش، وجرّب الشفط أو الغسل ثم تحقق من خلو الجهاز من التسرب.",
+          "bodyEn": "Choose a cleaning machine for the soil and surface, not simply its tank capacity. For hard floors assess brush width, water recovery and drying time; for upholstery assess extraction and detergent compatibility. Record water, power and wastewater arrangements and request a small trial on delicate finishes. Compare accessories, consumables, tank cleaning and service support. At handover inspect hoses, seals and brushes, run an appropriate cleaning or suction test and check for leaks."
+        },
+        {
+          "nameAr": "بيع قطع الغيار",
+          "nameEn": "Spare parts retail",
+          "bodyAr": "عند طلب قطعة غيار، قدّم الشركة المصنعة وطراز الجهاز ورقمه التسلسلي ورقم القطعة إن توفر، مع صور واضحة لموضع العطل والقطعة القديمة. التشابه الشكلي لا يضمن توافق الجهد أو المقاس أو اتجاه الدوران أو نقاط التثبيت. اطلب بيانًا يميز القطعة الأصلية والبديلة وشروط إرجاع غير المطابق، وقارن مدة التوريد والضمان وتوافر المستهلكات المرتبطة. عند الاستلام طابق الأكواد والأبعاد والتوصيلات قبل التركيب، واحتفظ بالفاتورة والتغليف. تركيب القطع الحساسة أو اختبارها يجب أن يتم بواسطة مختص مناسب.",
+          "bodyEn": "Supply the maker, machine model, serial number and part number where available, supported by clear photographs of the failed component and its location. Visual similarity does not establish matching voltage, dimensions, rotation or mounting points. Distinguish original and alternative parts in quotations and clarify returns for incompatibility. Compare delivery lead time, warranty and related consumables. Check codes, connectors and dimensions before installation, retaining packaging and invoices; safety-critical fitting and testing require an appropriately qualified person."
+        },
+        {
+          "nameAr": "صيانة المعدات",
+          "nameEn": "Equipment servicing",
+          "bodyAr": "قبل صيانة المعدات، سجّل ساعات التشغيل والأعراض وتوقيت ظهور العطل وآخر أعمال صيانة، مع صور أو مقطع قصير إن كان تصويره آمنًا. اطلب تشخيصًا يفرق بين العطل الكهربائي والميكانيكي ونقص الصيانة، ولا توافق على تغيير مجموعة كاملة قبل توضيح سبب التلف. يجب أن يفصل العرض تكلفة الفحص والقطع والأجور والنقل، مع موافقة مسبقة على أي أعمال إضافية. بعد الإصلاح اطلب تقريرًا بالأجزاء المستبدلة والقياسات أو الاختبارات التي أجريت، وتجربة تشغيل في ظروف آمنة، وتوضيح حدود الضمان وما إذا كان العطل الأصلي قد زال.",
+          "bodyEn": "Record running hours, symptoms, when the fault appears and previous maintenance, with safe photographs or video where useful. Request a diagnosis that distinguishes electrical, mechanical and maintenance-related causes before approving major replacement. The quotation should separate inspection, parts, labour and transport, with approval required for extra work. On completion request a service report identifying replaced components and tests performed, observe a safe functional test and confirm whether the original symptom is resolved and what the warranty excludes."
+        }
+      ]
+    },
+    {
+      "slug": "furniture-property-moving",
+      "services": [
+        {
+          "nameAr": "نقل أثاث المنازل",
+          "nameEn": "Household moving",
+          "bodyAr": "لنقل أثاث منزل، جهّز جردًا بالغرف يحدد القطع الكبيرة والزجاج والأجهزة والمقتنيات الهشة، وصوّر حالتها قبل التحميل. أرسل أبعاد المصاعد والأبواب والطوابق ومسافة حمل القطع ومكان وقوف الشاحنة، وحدد إن كان النقل يشمل الفك والتغليف والتركيب. قارن العروض على عدد العمال وحجم المركبة ومواد الحماية ومسؤولية التلف ورسوم الانتظار. اطلب ترقيم الصناديق وتحديد محتوياتها بصورة عامة دون كتابة بيانات حساسة. عند الوصول طابق الجرد بالغرف وافحص الزوايا والأسطح والأجهزة قبل توقيع محضر الاستلام.",
+          "bodyEn": "Prepare a room-by-room inventory of large furniture, glazing, appliances and fragile possessions, photographing their condition before collection. Provide floor numbers, lift and doorway dimensions, carrying distance and truck parking arrangements. Clarify whether dismantling, packing and reassembly are included. Compare crew size, vehicle capacity, protective materials, damage liability and waiting charges. Number cartons without exposing sensitive details. At destination reconcile the inventory by room and inspect corners, surfaces and appliances before signing the handover."
+        },
+        {
+          "nameAr": "نقل أثاث المكاتب",
+          "nameEn": "Office moving",
+          "bodyAr": "نقل مكتب يتطلب خطة لاستمرار العمل أكثر من مجرد عدد الكراسي. احصر محطات العمل والخزائن والطابعات والشاشات والملفات، وحدد ما سيُستبعد وما سينقل ومواعيد فصل الأجهزة وإعادة تشغيلها. يجب الاتفاق على من يتولى النسخ الاحتياطي وحماية البيانات وفصل الشبكات؛ لا يُفترض أن شركة النقل مسؤولة عن ذلك تلقائيًا. قارن العروض على الوسم والتغليف ومسار النقل والرفع وأوقات العمل خارج الدوام. عند الاستلام طابق أرقام المحطات بمخطط المكتب الجديد، وافحص الأثاث وسجّل المفقود أو المتضرر قبل إغلاق الطلب.",
+          "bodyEn": "An office move requires a continuity plan as well as a furniture count. Inventory workstations, storage, printers, screens and records, identifying items to discard and windows for shutdown and reconnection. Agree who handles backups, confidential records and network disconnection; these are not automatically the mover's responsibility. Compare labelling, packing, route protection, lifting and out-of-hours rates. At handover reconcile workstation identifiers with the new layout, inspect furnishings and record missing or damaged items before closure."
+        },
+        {
+          "nameAr": "فك وتركيب الأثاث",
+          "nameEn": "Furniture dismantling and reassembly",
+          "bodyAr": "عند فك سرير أو خزانة أو مكتب، صوّر الوصلات والقطع المتماثلة ومواضع المفصلات قبل البدء، وسجّل المقاسات إن كان التركيب في غرفة مختلفة. بعض الأثاث المركّب لا يتحمل الفك المتكرر؛ اسأل عن الألواح المتضررة والبراغي التي يلزم استبدالها. قارن عروض الفك والترقيم والتغليف والنقل وإعادة الضبط، ولا تعتبر إصلاح الخدوش جزءًا من الخدمة إلا إذا ذُكر. ضع الإكسسوارات في أكياس معنونة مرتبطة بكل قطعة. عند إعادة التركيب افحص الثبات واستقامة الأبواب والأدراج وعدم وجود مسامير أو قطع ناقصة.",
+          "bodyEn": "Photograph joints, matching panels and hinge positions before dismantling beds, wardrobes or desks; measure the destination room if the layout changes. Some flat-pack furniture does not tolerate repeated disassembly, so identify damaged boards and replacement fixings beforehand. Compare item labelling, wrapping, transport and readjustment, and specify separately whether scratch repairs are included. Keep fittings in labelled bags linked to each item. After reassembly test stability, door alignment and drawer travel, and account for all screws and panels."
+        },
+        {
+          "nameAr": "تغليف الأثاث",
+          "nameEn": "Furniture wrapping",
+          "bodyAr": "تغليف الأثاث يختلف بحسب السطح: الزجاج يحتاج حماية للحواف وفصلًا بين الألواح، والخشب المطلي يحتاج طبقة لا تترك أثرًا، والأقمشة تحتاج غطاءً نظيفًا يسمح بالحماية من الأتربة والرطوبة. قدّم صور القطع وأبعادها وحدد إن كان التغليف للتخزين أو لنقل قصير أو لمسافة طويلة. اطلب بيانًا لطبقات التغليف وحماية الزوايا وتثبيت القطع داخل الشاحنة، مع تحديد من يفك الأغلفة ويتخلص منها. افحص سلامة الأسطح قبل التغليف وبعد نزعه، وسجّل أي تلف ظاهر فورًا.",
+          "bodyEn": "Packing methods should match the finish. Glass needs edge protection and separation; painted timber needs non-marking contact layers; textiles need clean covers appropriate to dust and moisture exposure. Provide item photographs and dimensions and explain whether packing is for short transport, long-distance haulage or storage. Ask the supplier to identify corner protection, wrapping layers, vehicle restraint and who removes packaging. Inspect finishes before wrapping and again after unwrapping, documenting any visible damage immediately."
+        },
+        {
+          "nameAr": "توفير عمال التحميل",
+          "nameEn": "Loading labour supply",
+          "bodyAr": "عند طلب عمال تحميل، أرسل قائمة تقريبية بأعداد القطع وأوزانها وأطوالها، والطوابق والسلالم ومسافة النقل بين الشاحنة والمخزن. لا يكفي ذكر عدد العمال دون بيان ما إذا كانت هناك رافعة أو عربة نقل أو مواد شديدة الهشاشة. قارن العروض على حجم الفريق وساعات العمل ومعدات المناولة والإشراف ومسؤولية حماية الجدران والأرضيات. يجب ترتيب مسار خالٍ من العوائق وتجنب الرفع اليدوي للأحمال التي تحتاج معدات مناسبة. بعد التنفيذ طابق عدد القطع المحمّلة وسجّل أي ضرر أو نقص.",
+          "bodyEn": "Provide approximate piece counts, dimensions and weights, floor levels, stairs and carrying distance from truck to destination. Crew numbers alone are insufficient when lifting aids, long items or fragile materials are involved. Compare supervision, handling equipment, hours, wall and floor protection and damage responsibility. Keep routes clear and use suitable equipment for loads that should not be lifted manually. At completion reconcile piece counts and document any loss or damage."
+        },
+        {
+          "nameAr": "التخزين المؤقت",
+          "nameEn": "Temporary storage",
+          "bodyAr": "التخزين المؤقت يبدأ بجرد وصور للحالة قبل الإيداع، مع تحديد مدة التخزين وأحجام القطع وحساسيتها للحرارة أو الرطوبة. اسأل عن طريقة الرص والتهوية والحماية من الماء والحشرات والتحكم في الدخول، ولا تفترض وجود تأمين شامل دون مراجعة شروطه المكتوبة. قارن عروض التخزين على المساحة الفعلية ورسوم الاستلام والسحب الجزئي والتمديد والتوصيل. اطلب إيصالًا يربط كل قطعة أو صندوق برقم واضح وموقع تخزين. عند الاسترجاع طابق الجرد وافحص التغليف والأسطح قبل مغادرة موقع التسليم.",
+          "bodyEn": "Create an itemised condition record with photographs before storage. State the intended period, piece dimensions and sensitivity to moisture or temperature. Ask how items are stacked, ventilated and protected from water, pests and unauthorised access; do not assume comprehensive insurance without reading its terms. Compare usable space, intake fees, partial retrieval, extensions and final delivery. Obtain a numbered receipt tied to each item or carton and its storage location. Reconcile the inventory and inspect wrapping and surfaces when collecting."
+        },
+        {
+          "nameAr": "نقل الممتلكات بين الإمارات",
+          "nameEn": "Inter-emirate removals",
+          "bodyAr": "نقل الممتلكات بين الإمارات يحتاج بيانات دقيقة عن موقع التحميل والتسليم وأوقات الدخول وحجم الحمولة والقطع التي تتطلب فكًا أو معدات رفع. أرسل قائمة بالأجهزة والأثاث والقطع الحساسة، وحدد إذا كانت الخدمة تشمل التغليف والتخزين المؤقت أو مجرد النقل. قارن نوع الشاحنة وتثبيت الحمولة والتكاليف الإضافية للانتظار والتوقف والتحميل، ولا تفترض زمن وصول مضمونًا. وثّق حالة القطع قبل التحميل واتفق على جهة التواصل عند التأخير. عند التسليم احصِ الصناديق والقطع وافحص أي كسر أو خدش وأثبته في محضر الاستلام.",
+          "bodyEn": "An inter-emirate move needs precise pickup and delivery locations, access windows, load volume and items requiring dismantling or lifting equipment. List appliances, furniture and fragile pieces and distinguish packing, temporary storage and transport-only services. Compare vehicle type, restraint methods and disclosed waiting, loading and stop charges; do not assume a guaranteed arrival time. Record condition before collection and agree a delay contact. Count cartons and items at delivery and note breakage or scratches in the handover record."
+        }
+      ]
+    },
+    {
+      "slug": "project-materials-equipment-transport",
+      "services": [
+        {
+          "nameAr": "نقل مواد البناء",
+          "nameEn": "Construction material haulage",
+          "bodyAr": "لنقل مواد البناء، أرسل نوع كل مادة وكميتها ووزنها التقريبي وأبعاد العبوات ومكان التفريغ. يختلف التعامل مع الأسمنت المعبأ عن الحديد الطويل أو الطابوق على الطبالي؛ لذا حدد وسيلة الرفع ومداخل الشاحنات وساعات الموقع. قارن عروض النقل على الحمولة المسموحة وعدد الرحلات وتغطية الحمولة ورسوم الانتظار والتفريغ. يجب حماية المواد من البلل أو الانزلاق بحسب طبيعتها. عند الاستلام طابق أرقام الطلبيات وأعداد الطبالي وإيصالات الوزن إن وجدت، وسجّل التلف أو النقص قبل مغادرة الناقل.",
+          "bodyEn": "For construction-material haulage, provide each material type, quantity, approximate weight, package dimensions and unloading point. Bagged cement, long steel lengths and palletised blocks require different handling. Confirm lifting equipment, vehicle access and site delivery windows. Compare permissible payload, trip count, load protection and waiting or unloading charges. Protect goods from rain or movement as appropriate. At handover reconcile order numbers, pallet counts and weighbridge tickets where applicable, and record damage or shortages before the vehicle leaves."
+        },
+        {
+          "nameAr": "نقل الأخشاب",
+          "nameEn": "Timber transport",
+          "bodyAr": "نقل الأخشاب يحتاج بيان أطوال القطع وأبعاد الألواح وسماكاتها وما إذا كانت الأسطح نهائية أو خامًا. الألواح الطويلة تتطلب دعمًا متوازنًا وتثبيتًا يمنع الانحناء، بينما تتطلب الكسوات المدهونة حماية من الاحتكاك والرطوبة. أرسل صور التعبئة ومسار الوصول إلى الورشة أو المشروع، واطلب تحديد نوع المركبة وأحزمة التثبيت وواقيات الحواف وطريقة التنزيل. قارن عروض الناقلين على المسؤولية عن الكسر والتأخير والانتظار. عند الوصول افحص الزوايا والاستقامة وآثار البلل وطابق عدد الألواح والأطوال مع كشف الشحنة.",
+          "bodyEn": "Timber transport requires lengths, sheet dimensions, thicknesses and whether surfaces are unfinished or factory-finished. Long boards need adequate support to prevent bending; finished panels need protection from rubbing and moisture. Send packing photographs and access information for the workshop or site. Ask for vehicle type, securing straps, edge guards and offloading method. Compare liability for breakage, delay and waiting. Inspect corners, straightness and moisture marks on arrival and reconcile board counts and lengths with the packing list."
+        },
+        {
+          "nameAr": "نقل الرخام",
+          "nameEn": "Marble transport",
+          "bodyAr": "لنقل الرخام، حدّد لكل لوح الطول والعرض والسماكة والوزن التقريبي ووجود فتحات أو قصات تضعفه. اطلب من المصنع توضيح طريقة التحميل المناسبة للحجر: حوامل مصممة للوح أو تغليف قطع جاهزة، مع فصل يمنع احتكاك الأسطح. يجب الاتفاق مسبقًا على معدات الرفع في موقع الوصول ومسار إدخال الألواح. قارن عروض النقل على الحوامل والتثبيت والتأمين المعلن ومسؤولية الكسر. صوّر الحواف والوجوه قبل التحميل، ثم افحص الشروخ والكسور والتطابق مع أرقام القطع عند التسليم.",
+          "bodyEn": "For marble haulage, specify each slab's length, width, thickness, estimated weight and any openings or cuts that weaken it. Agree with the fabricator whether purpose-designed slab racks or protective packaging for finished pieces is required, with separation between faces. Confirm lifting equipment and the entry route at destination. Compare racks, restraint, stated insurance and breakage responsibility. Photograph faces and edges before loading; inspect for cracks and chipped corners and reconcile piece identifiers at delivery."
+        },
+        {
+          "nameAr": "نقل المعدات",
+          "nameEn": "Equipment transport",
+          "bodyAr": "قبل نقل حفار أو ضاغط أو معدة مشروع، أرسل الطراز والوزن التشغيلي والأبعاد ونقاط الرفع المعتمدة وحالة الحركة أو التعطل. يلزم تحديد من يفصل الملحقات ويؤمّن الأجزاء المتحركة، ومن يتحقق من ملاءمة المقطورة ومسار الدخول والخروج. لا يُختار نوع النقل من صورة عامة فقط. قارن عروض النقل على وسيلة التحميل والربط والمرافقة عند الحاجة وتوقيت الوصول ورسوم الانتظار. وثّق ساعات العداد والحالة الخارجية قبل التحميل وبعد التفريغ، ولا تسمح بتشغيل المعدة قبل فحصها في موقع التسليم.",
+          "bodyEn": "Before transporting an excavator, compressor or other plant, provide its model, operating mass, dimensions, designated lifting points and whether it can move under its own power. Agree who secures attachments and moving parts and who checks trailer suitability and access. A generic photograph is not enough to choose transport. Compare loading, restraint, any required escort, arrival window and waiting charges. Record meter hours and external condition before loading and after unloading; inspect the machine before returning it to service."
+        },
+        {
+          "nameAr": "نقل المخلفات",
+          "nameEn": "Waste transport",
+          "bodyAr": "نقل مخلفات المشاريع يبدأ بفرزها: خرسانة وطابوق، أخشاب، معادن، عبوات دهانات أو مواد قد تحتاج معالجة خاصة. أرسل صور الكميات ونوع المخلفات وموقع الحاوية ومسار الشاحنة، ولا تخلط مواد غير متوافقة أو تفترض قبولها في أي وجهة. اطلب من الناقل توضيح جهة الاستلام وطريقة التخلص والوثائق المتاحة، والتحقق من المتطلبات التنظيمية الفعلية قبل إطلاق أي ادعاء. قارن العروض على حجم الحاوية وعدد النقلات ورسوم التحميل والانتظار. عند الإنجاز احتفظ بسجل النقل أو إيصال التسليم إن صدر، وافحص نظافة الموقع.",
+          "bodyEn": "Separate project waste into concrete and masonry, timber, metal, paint containers and materials needing special handling. Send photographs of quantities, skip position and truck access; do not combine incompatible waste or assume every receiving facility accepts it. Ask the haulier to identify the receiving destination, disposal method and available transfer records, verifying applicable requirements before making compliance claims. Compare skip size, trip count, loading and waiting fees. Retain any issued transfer or receipt documentation and inspect the cleared work area."
+        },
+        {
+          "nameAr": "توفير شاحنات للمشاريع",
+          "nameEn": "Project truck provision",
+          "bodyAr": "عند توفير شاحنات لمشروع، حدد أنواع المواد وأوزانها وأبعادها وعدد النقلات المتوقع وأوقات دخول الموقع. قد يكون التسعير بالرحلة أو بالساعة؛ لذلك اطلب بيان ما يشمله الوقود والسائق والانتظار ورسوم البوابات والتحميل. راجع قدرة الشاحنة الفعلية وملاءمتها لطريق الموقع وطريقة تثبيت الحمولة. قارن العروض على حد أدنى للتشغيل وآلية تسجيل الرحلات والتأخير وتبديل المركبة عند العطل. اعتمد كشوف حركة يومية توضح أوقات الوصول والمغادرة والكميات المسلمة قبل تسوية الفاتورة.",
+          "bodyEn": "When booking project trucks, state material types, payloads, dimensions, anticipated trips and site access windows. Pricing may be per trip or hour, so identify driver, fuel, waiting, tolls and loading in writing. Check vehicle capacity, route suitability and load restraint. Compare minimum booking periods, trip records, breakdown replacements and delay arrangements. Approve daily logs showing arrival, departure and delivered quantities before reconciling invoices."
+        },
+        {
+          "nameAr": "خدمات التحميل والتنزيل",
+          "nameEn": "Loading and offloading",
+          "bodyAr": "التحميل والتنزيل خدمة مستقلة عن النقل وقد تتطلب رافعة شوكية أو ونشًا أو عمالة متخصصة. قدّم أوزان الطرود وأبعادها ونقاط الرفع وحساسيتها للكسر، مع صور لمكان وقوف الشاحنة وارتفاع الرصيف ومسافة النقل داخل الموقع. حدد من يوفّر معدات المناولة ومن يوجّه الحركة ومن يتحمل حماية الأرضيات والجدران. قارن العروض على عدد العمال وساعات العمل والأدوات ورسوم التأخير. عند الانتهاء افحص ثبات الرصّ وعدم إعاقة المخارج، وطابق الطرود مع كشف التحميل وسجّل أي تلف.",
+          "bodyEn": "Loading and offloading are separate from transport and may need a forklift, crane or trained handling crew. Supply package weights, dimensions, lifting points and fragility, plus photographs of truck standing areas, dock height and internal carrying routes. Specify who supplies handling equipment, directs vehicle movement and protects floors and walls. Compare crew numbers, working hours, equipment and delay charges. On completion check stable stacking, clear exits and package counts, documenting any damage."
+        }
+      ]
+    },
+    {
+      "slug": "concrete-block-cement-factories",
+      "services": [
+        {
+          "nameAr": "تصنيع الخرسانة الجاهزة",
+          "nameEn": "Ready-mix concrete manufacturing",
+          "bodyAr": "تصنيع الخرسانة الجاهزة يبدأ بمواصفات المصمم المعتمدة: درجة الخرسانة، حجم الصب، متطلبات التشغيل والضخ، وطريقة أخذ العينات والفحص. لا يكفي طلب «خرسانة قوية» أو تحديد كمية تقريبية. أرسل جدول الصبات وعنوان الموقع ومسار الشاحنات وزمن التفريغ المتوقع، واطلب من المصنع بيانات الخلطة وإجراءات التوريد والتعامل مع التأخير. قارن عروض الموردين على وحدة القياس والضخ والانتظار والاختبارات والتوريدات المتتابعة. عند الاستلام راجع تذاكر الخلط والأوقات والكميات وسجلات العينات وفق خطة الفحص المعتمدة، دون تغيير الخلطة موقعيًا بلا موافقة مختصة.",
+          "bodyEn": "Ready-mix concrete orders start from the designer's approved specification: grade, pour volume, workability and pumping requirements, with a sampling and testing plan. 'Strong concrete' or an approximate volume is not a sufficient order. Supply the pour programme, access route and expected discharge window. Request mix documentation, supply sequence and late-load procedures. Compare unit rates, pumping, waiting, tests and successive deliveries. At receipt check batch tickets, times, volumes and sampling records against the approved inspection plan; do not alter the mix on site without appropriate approval."
+        },
+        {
+          "nameAr": "تصنيع الطابوق والبلوك",
+          "nameEn": "Block and brick manufacturing",
+          "bodyAr": "عند تصنيع الطابوق والبلوك، حدد الأبعاد والنوع والاستخدام المقصود ومتطلبات الكثافة أو المقاومة بحسب مستندات المشروع، مع العدد المطلوب ونسبة الهدر المتوقعة. يختلف بلوك القواطع عن وحدات الجدران ذات المتطلبات الخاصة؛ فلا تقارن السعر للقطعة وحده. اطلب عينات وبيانات المنتج وطريقة الرص والنقل، وقارن التفاوتات والأبعاد ومعدل الكسر وشروط استبدال التالف. عند التسليم عدّ الطبالي وافحص وحدات عشوائية من حيث الأبعاد والتشقق والحواف، واحتفظ ببيانات التشغيلات إن توفرت.",
+          "bodyEn": "For block and brick production, specify dimensions, type, intended use and density or strength requirements from project documents, together with quantities and expected wastage. Partition units and blocks for special wall requirements should not be compared on piece price alone. Request samples, product information, stacking and delivery details. Compare dimensional tolerance, breakage and replacement conditions. Count pallets and sample-check units for size, cracks and chipped edges on receipt, retaining batch details where provided."
+        },
+        {
+          "nameAr": "تصنيع المنتجات الأسمنتية",
+          "nameEn": "Precast cement product manufacturing",
+          "bodyAr": "المنتجات الأسمنتية مسبقة الصب تشمل البردورات والبلاط والعناصر الخاصة، ولكل منها رسومات وأبعاد ونقاط رفع أو تثبيت مختلفة. أرسل مخطط الموقع والكميات والمناسيب والألوان أو التشطيبات المطلوبة، واطلب عينة أولى قبل بدء الإنتاج المتكرر. قارن عروض المصانع على القوالب والتفاوتات والمعالجة والتخزين والنقل واستبدال القطع المتضررة. إذا كانت القطعة إنشائية، يجب الرجوع إلى التصميم المختص ولا يكفي شكل العينة. عند الاستلام طابق الأبعاد والعدد ومواضع القطع المدمجة وافحص الشروخ والتقشر والحواف.",
+          "bodyEn": "Precast cement products include kerbs, paving units and custom elements with different drawings, dimensions and lifting or fixing details. Provide site plans, quantities, levels and required colour or finish, and approve a first article before repeated production. Compare moulds, tolerances, curing, storage, transport and damaged-piece replacement. Structural precast requires competent design review; an attractive sample is not design approval. At handover reconcile sizes and quantities, inspect cast-in fittings, cracks, surface defects and edges."
+        },
+        {
+          "nameAr": "توريد المنتجات للمشاريع",
+          "nameEn": "Cement product supply to projects",
+          "bodyAr": "توريد المنتجات الأسمنتية للمشاريع يحتاج جدول كميات يميز الخرسانة أو البلوك أو البلاط أو العناصر مسبقة الصب، مع المواصفات والمواقع وتواريخ الاحتياج. لا تجمع منتجات مختلفة في بند سعر واحد يصعب التحقق منه. اتفق على دفعات التسليم ومساحة التخزين والحماية من التلف، وعلى من يتحمل التنزيل وإعادة توريد المرفوض. قارن العروض على الحد الأدنى للطلب وسعر الوحدة والنقل والمهل وشروط الاستبدال. عند كل شحنة راجع ملصقات المنتج والكميات وأرقام الطلبات، وسجّل الكسور أو عدم المطابقة قبل اعتماد الفاتورة.",
+          "bodyEn": "Supply of cement-based products needs a quantity schedule distinguishing concrete, blocks, paving and precast items, with specifications, destinations and required dates. Avoid a single undifferentiated price line for unlike goods. Agree phased deliveries, storage protection, unloading responsibility and replacement of rejected items. Compare minimum orders, unit prices, freight, lead times and return terms. At each delivery verify product labels, quantities and order identifiers, and record breakage or nonconformity before approving the invoice."
+        }
+      ]
+    }
+  ]
+}

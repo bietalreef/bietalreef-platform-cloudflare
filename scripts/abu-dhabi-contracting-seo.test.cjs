@@ -20,7 +20,7 @@ const quote = read('components/DirectorySectorQuoteForm.js');
 const metadata = read('data/abuDhabiSectorSeo.js');
 const seoHead = read('components/UaeDirectorySeo.js');
 const whatsapp = read('lib/providerWhatsapp.js');
-assert.match(explorer, /<details className="mt-3">/);
+assert.match(explorer, /<details className="mt-3" open=\{expanded\}/);
 assert.match(explorer, /<h2 className="text-sm font-extrabold/);
 assert.match(explorer, /directoryServiceTitle/);
 assert.match(explorer, /directoryServiceCopy/);

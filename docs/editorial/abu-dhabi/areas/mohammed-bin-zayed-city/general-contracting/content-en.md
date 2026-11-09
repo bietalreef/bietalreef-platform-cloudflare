@@ -147,26 +147,25 @@ For persistently wet soil, settlement or unusual water use, record whether the s
 ## Shades and external works — source category currently not selectable
 
 ### Car shade installation
-Measure bay widths and lengths, vehicle heights, door swing and turning paths. Specify structural frame, covering, anchorage, drainage and design loads appropriate to the site; check any required approvals before construction. At handover, inspect clearances, fixings, fabric tension and exposed sharp edges.
+Measure bays, vehicle heights, turning paths and door clearance; photograph walls and drainage. Require frame, footing, anchor, covering and runoff drawings, with applicable loads and permissions checked. Compare corrosion protection, warranty, excavation and reinstatement, not fabric area alone. Inspect clearance, fixing, sharp edges and drainage.
 
 ### Pergola construction
-Provide the seating footprint, desired shade and whether the pergola is freestanding or attached to the building. Compare frame material, protective finish, roofing, foundations and optional lighting separately; detail interfaces with waterproofing and façades. Inspect alignment, anchorage, drainage and maintenance access.
+Clarify whether the pergola is freestanding or attached, and whether it offers shade or rain protection. Supply seating and opening dimensions and request posts, foundations, connections and façade waterproofing details. Price structure, roofing, finish, lighting and maintenance separately. Check plumb, falls, joints and leaks.
 
 ### Outdoor seating area construction
-State expected seating capacity, furniture sizes, access routes and privacy needs, with photographs of existing ground and utility points. The quotation should separate paving build-up, falls, lighting, fixed seating and exposure-appropriate finishes. Inspect drainage, circulation clearances and finished levels before acceptance.
+Specify seating capacity and circulation around tables and entrances; photograph ground, power, water and drains. Distinguish fixed seating from movable furniture, and separate grading, paving, drainage, shade and lighting in quotations. Inspect ponding, edges, cleaning access and service points.
 
 ### External fence installation
-Provide boundary lengths, proposed height, gate locations and level changes, using an authoritative boundary survey. Require details of posts, foundations, corrosion protection, finish and treatment of sloping ground; verify applicable permissions before installation. Check alignment, gate operation and sound connections.
+Use reliable boundary survey records rather than aerial imagery for lengths, levels, gates and meters. Require footing, post, height and corrosion-protection details, pricing old-fence removal separately. Verify applicable permissions. Check alignment, levels, gate operation and connections at handover.
 
 ### Garden pathway construction
-Mark pathway width and route, intended pedestrian or light-cart use, and existing roots or ponding. Compare paving type, sub-base thickness, edge restraints, falls, slip resistance and accessibility. Inspect finished levels, trip hazards and drainage away from the building.
+State pedestrian or service-cart use and measure route width, levels, trees and drains. Photograph ponding and specify excavation, compaction, base, restraints, slip resistance and drainage. Compare groundwork as well as paving. Check trip hazards, falls and access to inspection covers.
 
 ### Interlocking paver installation
-Provide area, expected loads and whether the paving serves a path or vehicle bay, plus ground-condition photographs. Specify excavation, compaction, base and bedding depths, paver thickness, edge restraints and joint filling. Check levels, falls and restraint stability; a square-metre price without the sub-base specification is not comparable.
+Differentiate vehicle bays from garden paths by loading and base design. Measure area and cuts around chambers; specify excavation, compaction, bedding, thickness, edges and falls. Compare old-surface removal, waste and base layers, not a bare area rate. Inspect gate levels, filled joints, edges and settlement.
 
 ### Waterfall and fountain construction
-Provide basin dimensions, location, desired water effect and power and water points, noting nearby children or seating. Request waterproofing, circulation, pump, filtration, overflow drainage and safe maintenance-access details. Witness operational, leak and drainage tests, and receive cleaning and water-use guidance.
-
+Measure basin depth and distance from seating and children's routes. Require waterproofing, recirculation, pump, filter, overflow, drainage, safe electrical supply and maintenance access. Separate civil work, cladding, equipment and cleaning costs. Witness leak, overflow, pump and noise tests and obtain servicing instructions.
 **Requesting a quotation:** Where no company is listed, send the site location, photographs, measurements, scope and intended materials to Biet Alreef customer support to prepare an enquiry. This does not activate a restricted category or guarantee provider availability. Individual tradespeople remain in a separate directory.
 
 

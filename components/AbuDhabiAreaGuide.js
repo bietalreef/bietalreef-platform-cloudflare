@@ -6,6 +6,11 @@ import DirectoryCustomerSupportCard from './DirectoryCustomerSupportCard';
 import {UAE_MAIN_SECTORS} from '../data/directoryDiscovery';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import regionEditorial from '../data/abuDhabiAreaEditorial.json';
+import {getArea} from '../data/siteTaxonomy';
+import {isNorthernEmirate,northernAreaEditorial,northernAreaSectorNote} from '../data/northernDirectoryContent';
+import chapterIndex from '../data/abuDhabiChapterIndex.json';
+import {EMIRATE_TOPIC_ANSWERS} from '../data/emirateTopicAnswers';
+import {emirateTopicTitle} from '../lib/emirateTopicTitle';
 import localContexts from '../data/abuDhabiAreaSectorContexts.json';
 
 import styles from './AbuDhabiAreaGuide.module.css';
@@ -14,10 +19,18 @@ const sectorGuidance={"general-contracting":{"ar":"قبل طلب مقاول، ح
 const AREA_KEYS=Object.keys(regionEditorial.areas);
 export const isAbuDhabiDirectoryArea=(slug)=>AREA_KEYS.includes(slug);
 const safeText=(str)=>String(str||'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
-function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml){
+function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate=null,area=null){
  if(areaSlug==='baniyas' && sector.slug==='general-contracting' && baniyasReadingHtml) return baniyasReadingHtml;
  const note=sectorGuidance[sector.slug]?.[locale];
- const localNote=localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'';
+ const localNote=isNorthernEmirate(emirate?.slug)?northernAreaSectorNote(emirate,area,sector.slug,locale):(localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'');
+ const localTopics=isNorthernEmirate(emirate?.slug)?(chapterIndex.items[sector.slug]||[]):[];
+ const localAnswers=EMIRATE_TOPIC_ANSWERS[sector.slug]||[];
+ const topicHtml=localTopics.map((topic,index)=>{
+  const name=emirateTopicTitle(locale==='en'?topic.enTitle:topic.arTitle,emirate.slug,locale)
+   .replace(/[0-9\u0660-\u0669]+/g,'').replace(/\s+/g,' ').trim();
+  const answer=localAnswers[index]?.[locale==='en'?1:0]||'';
+  return '<h4>'+safeText(name)+'</h4><p>'+safeText(answer)+'</p>';
+ }).join('');
  const opening=locale==='en'
    ?`<p>In ${safeText(entry.title.replace(/ 2026$/,''))}, choosing ${safeText(sector.name.en.toLowerCase())} starts with a clear description of the work and its location.</p>`
    :`<p>إذا كنت تبحث عن ${safeText(sector.name.ar)} في هذه المنطقة، فابدأ بوصف العمل المطلوب وموقعه وحالته والمعلومات المتاحة قبل طلب السعر.</p>`;
@@ -25,24 +38,26 @@ function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml){
   `<h3>${locale==='en'?'What to check before requesting a quote':'ما الذي تراجعه قبل طلب عرض السعر؟'}</h3><p>${safeText(note)}</p>`+
   `<h3>${locale==='en'?'Considerations in this particular area':'ما الذي يميز هذا العمل في المنطقة؟'}</h3><p>${safeText(localNote)}</p>`+
   `<p>${safeText(entry.focus)}</p>`+
+  (topicHtml?`<h3>${locale==='en'?'Detailed questions for this specialty':'محاور تفصيلية لاختيار الخدمة'}</h3>`+topicHtml:'')+
   `<p>${locale==='en'?'Confirm the business actually covers your site and read the quotation inclusions and exclusions before placing an order.':'تحقق من نطاق تغطية الشركة لموقعك الفعلي، وراجع البنود المشمولة والمستثناة قبل اعتماد العرض.'}</p>`;
 }
-export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],baniyasReadingHtml=null}){
- const en=locale==='en',entry=regionEditorial.areas[areaSlug]?.[locale];
+export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],baniyasReadingHtml=null,emirate=null}){
+ const northern=isNorthernEmirate(emirate?.slug),area=northern?getArea(emirate.slug,areaSlug):null;
+ const en=locale==='en',entry=northern?northernAreaEditorial(emirate,area,locale):regionEditorial.areas[areaSlug]?.[locale];
  if(!entry)return null;
  const prefix=en?'/en':'';
  const crumbs={ '@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[
    {'@type':'ListItem',position:1,name:en?'United Arab Emirates':'الإمارات العربية المتحدة',item:'https://bietalreef.ae'+prefix+'/uae'},
-   {'@type':'ListItem',position:2,name:en?'Abu Dhabi Emirate':'إمارة أبوظبي',item:'https://bietalreef.ae'+prefix+'/uae/abu-dhabi'},
-   {'@type':'ListItem',position:3,name:entry.title,item:'https://bietalreef.ae'+prefix+'/uae/abu-dhabi/'+areaSlug},
+   {'@type':'ListItem',position:2,name:northern?(en?emirate.nameEn:emirate.nameAr):(en?'Abu Dhabi Emirate':'إمارة أبوظبي'),item:'https://bietalreef.ae'+prefix+'/uae/'+(northern?emirate.slug:'abu-dhabi')},
+   {'@type':'ListItem',position:3,name:entry.title,item:'https://bietalreef.ae'+prefix+'/uae/'+(northern?emirate.slug:'abu-dhabi')+'/'+areaSlug},
  ]};
- const root=`${prefix}/uae/abu-dhabi`;
+ const root=`${prefix}/uae/${northern?emirate.slug:'abu-dhabi'}`;
  return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className={styles.wrapper}>
    <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(crumbs)}} />
    <nav aria-label={en?'Breadcrumb':'مسار التصفح'} className={styles.breadcrumb}>
      <Link href={`${prefix}/uae`}>{en?'United Arab Emirates':'الإمارات العربية المتحدة'}</Link>
      <span aria-hidden="true">/</span>
-     <Link href={root}>{en?'Abu Dhabi Emirate':'إمارة أبوظبي'}</Link>
+     <Link href={root}>{northern?(en?emirate.nameEn:emirate.nameAr):(en?'Abu Dhabi Emirate':'إمارة أبوظبي')}</Link>
      <span aria-hidden="true">/</span>
      <span aria-current="page">{entry.title.replace(/ 2026$/,'')}</span>
    </nav>
@@ -52,12 +67,12 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
      <p>{entry.intro}</p><p>{entry.focus}</p><p className={styles.serviceSummary}>{entry.services}</p>
    </section>
    <section aria-labelledby="area-sector-title" className={styles.section}>
-     <h2 id="area-sector-title">{en?'Eight specialties for your property or project':'التخصصات الثمانية لخدمات العقار والمشاريع'}</h2>
+     <h2 id="area-sector-title">{en?'Specialties for your property or project':'تخصصات العقار والمشاريع'}</h2>
      <p className={styles.lede}>{en?'Choose a specialty to read practical advice or open its existing local page.':'اختر التخصص لقراءة إرشادات عملية، أو افتح صفحته المحلية للبحث عن الخدمات والشركات.'}</p>
      <div className={styles.grid}>
        {UAE_MAIN_SECTORS.map(sector=>{
          const href=`${root}/${areaSlug}/${sector.slug}`;
-         const article=readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml);
+         const article=readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate,area);
          return <article className={styles.card} key={sector.slug} id={`sector-${sector.slug}`}>
            <div className={styles.photo}>
              {UAE_SECTOR_ASSETS[sector.slug]?<DirectoryResponsiveImage asset={UAE_SECTOR_ASSETS[sector.slug]} locale={locale} />:
@@ -80,7 +95,7 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
    <section className={styles.section} aria-labelledby="area-companies">
      <h2 id="area-companies">{en?'Published businesses by service area':'الشركات المنشورة حسب نطاق الخدمة'}</h2>
      {providers.length > 0 && <p className={styles.lede}>{en ? 'Ask each business to confirm service availability for your exact location and date.' : 'تواصل مع الشركة لتأكيد توفر الخدمة في موقعك والموعد المناسب.'}</p>}
-     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale}/>}</div>
+     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale} place={northern?(en?area.nameEn+', '+emirate.nameEn:area.nameAr+'، '+emirate.nameAr):''}/>}</div>
    </section>
    <section className={styles.section} aria-labelledby="area-questions">
      <h2 id="area-questions">{en?'Questions people ask about services here':'أسئلة تساعدك قبل الاتفاق'}</h2>
@@ -89,8 +104,8 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
      </article>)}</div>
    </section>
    <nav className={styles.footNav} aria-label={en?'Related directories':'أدلة مرتبطة'}>
-     <Link href={root}>{en?'Back to Abu Dhabi Emirate':'العودة إلى دليل إمارة أبوظبي'}</Link>
-     <Link href={`${root}/al-ain`}>{en?'Al Ain directory':'دليل العين'}</Link>
+     <Link href={root}>{northern?(en?`Back to ${emirate.nameEn}`:`العودة إلى دليل ${emirate.nameAr}`):(en?'Back to Abu Dhabi Emirate':'العودة إلى دليل إمارة أبوظبي')}</Link>
+     {!northern&&<Link href={`${root}/al-ain`}>{en?'Al Ain directory':'دليل العين'}</Link>}
    </nav>
  </div>;
 }

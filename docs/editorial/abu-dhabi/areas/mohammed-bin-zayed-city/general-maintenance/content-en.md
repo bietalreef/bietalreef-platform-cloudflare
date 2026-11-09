@@ -246,31 +246,38 @@ For recurring drain blockages, record which fixtures are affected and whether wa
 
 ### 57. Water leak investigation
 
-Provide meter trends, damp patches and photographs; check the meter with outlets closed when feasible. Compare acoustic, thermal and pressure methods suited to the site; request findings and uncertainty before destructive access.
+Where a concealed leak is suspected, record meter readings during a period with normal consumption isolated and photograph damp patches, their positions and when they appear. High consumption alone cannot locate a broken pipe. Ask the investigator to explain the suitability and limitations of pressure testing, acoustic detection or thermal imaging for the particular network. The report should distinguish a pressurised supply leak from drainage defects or condensation and provide measurements and a likely location before opening finishes. Compare the diagnostic scope, reporting and exclusions for opening, repair and reinstatement. Request traceable photographs and findings at handover.
+
 
 ### 58. Pipe leak repairs
 
-Identify pipe material, leak point, access and whether water service must be interrupted. Compare localized repair, connector choice, partial renewal and finish reinstatement; witness a pressure test before covering.
+To repair a leaking pipe, identify its material, diameter, joint type, exact location and accessibility. Replacing a damaged length is different from resealing a joint or renewing a corroded run. Photograph the area before opening it and agree on tile or plaster removal, furniture protection and water isolation. The quotation should specify compatible fittings, joining method, pressure testing, waterproofing reinstatement and finishing. Do not close the opening until the repair has been tested under appropriate operating conditions and documented; check for renewed dampness afterwards.
+
 
 ### 59. Tank leak investigation
 
-Record water-level loss, overflow, pipework, float valves and tank shell before blaming the lining. Compare connection checks, waterproofing inspection and joint remediation; document the loss mechanism and refill test.
+If a tank loses water or its base becomes wet, record whether it is above or below ground, its construction material, capacity, pipe connections, float valve and overflow. Water may escape through external pipework or a valve rather than the tank body. Require a test that isolates possible sources and records water-level changes over an agreed interval. Compare inspection of the shell, base, joints, access requirements, draining and cleaning. Any repair material must be compatible with the tank and its intended water use. Obtain photographs of the defect and a documented repeat test before acceptance.
+
 
 ### 60. Bathroom waterproofing
 
-Measure bathroom floor, wall upstands, pipe penetrations and doorway threshold. Specify a tile-compatible waterproofing system and an agreed flood test before tiling; check substrate condition first.
+Bathroom waterproofing needs a clear map of wet zones: shower floor, wall-to-floor junctions, corners, pipe penetrations and floor drains. Provide dimensions and photographs after removing defective finishes, together with floor levels and drainage positions. The quotation should separate substrate preparation, crack repairs, waterproofing layers, junction detailing, testing and tiling reinstatement. A product name alone is not a specification. Agree on a controlled flood test where site conditions permit and document its duration and outcome before covering the membrane. Check falls and standing water at handover.
+
 
 ### 61. Roof waterproofing
 
-Record roof area, falls, drains, joints, equipment plinths and ponding. Compare preparation, membrane build-up and UV protection; inspect drainage and the agreed integrity test before acceptance.
+For a leaking roof, photograph ponding areas, joints, outlets, equipment plinths and dampness below the slab. The horizontal area alone is insufficient: measure upstands, pipe penetrations, thresholds and material transitions. Ask the contractor to justify a local repair versus complete system renewal based on the existing layers. The quotation should describe removal of failed material, substrate preparation, drainage falls, weather exposure and protection. Obtain the manufacturer's system details, specified layer thicknesses, suitable adhesion or water tests and photographs before the membrane is covered.
+
 
 ### 62. Water tank waterproofing
 
-Identify potable or non-potable use, tank substrate, cracks and entry access. Specify a lining suitable for the water use, cleaning and rinsing procedure and separate joint checks; accept a watertightness test and material record.
+Water tank waterproofing requires the tank material, capacity, access and ventilation arrangements, previous coatings and the location of cracks and joints. Establish the cause first: structural cracking or moving joints may need a different solution from a worn protective coating. Define draining, cleaning, substrate preparation, the waterproofing system and verified suitability for contact with drinking water where relevant; do not assume an unspecified product is approved. Compare curing, testing and final cleaning as well as coating work. Obtain material records and test results before returning the tank to service.
+
 
 ### 63. Leak-related dampness treatment
 
-Record mould, peeling, dates and the suspected moisture source, then repair the leak before drying surfaces. Compare drying period, moisture checks, salt treatment and repainting; require recorded observations, not merely concealed stains.
+Peeling paint or a damp wall does not automatically call for repainting. Investigate whether the moisture comes from supply pipes, drainage, the roof, condensation or residual moisture after an earlier repair. Record how the patch changes with water use or rainfall and take repeat moisture readings where useful. Compare quotations on stopping the source, removing damaged finishes, drying the substrate, treating salts or surface mould appropriately and restoring the finish. Do not accept the final paintwork until the source is controlled and drying has been demonstrated; identify any areas requiring later monitoring.
+
 
 
 ## Air-conditioning and refrigeration

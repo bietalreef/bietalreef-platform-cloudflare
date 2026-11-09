@@ -451,3 +451,9 @@
 - قُرئت الملفات الثلاثة كاملة من الفرع: [العربية](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md). تطابق 7 عناوين عربية حرفيًا مع شجرة الشركات والمنشآت و7 مقابلات إنجليزية بالترتيب، مع اختلاف عملي بين نطاقات الخدمات واشتراطاتها وفحوصها.
 - التصنيف غير قابل للاختيار حاليًا؛ لم تُرصد ادعاءات بتفعيله أو ضمان مورد أو سعر أو موعد. لم يستدعِ الفحص تعديل نص الخدمة.
 - **أول تخصص تالٍ لم يُفحص:** `general-contracting/shades-outdoor-works` (تحقق من الاسم الفعلي للمجلد)، ثم تخصصات الاستشارات الهندسية والتصميم والديكور وبقية القطاعات؛ تبقى مراجعة التخصصات الخمسين والخدمات الـ434 في كل لغة `in_progress`.
+
+## تدقيق المظلات والأعمال الخارجية — 2026-11-09
+
+- الحالة `in_progress`؛ تمت مراجعة [المظلات والأعمال الخارجية](./general-contracting/shade-outdoor-works/review.md): 7 خدمات بالعربية و7 بالإنجليزية مطابقة لترتيب شجرة الشركات؛ التصنيف غير قابل للاختيار.
+- أُزيلت فقرات الاتفاق المتطابقة من الملفين اللغويين واستُبدلت ببنود مخصصة لكل خدمة. [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md).
+- **أول نطاق تالٍ:** `interior-design/architectural-plans/content-ar.md` ثم `content-en.md` و`review.md`، يليها بقية تخصصات الاستشارات الهندسية، ثم القطاعات التالية حتى تدقيق 50 تخصصًا و434 خدمة في كل لغة. لا تبدأ المويجعي قبل اكتمال المراجعة الشاملة.

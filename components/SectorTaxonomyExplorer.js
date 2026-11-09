@@ -35,7 +35,7 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
     <p className="mb-5 mt-2 text-sm leading-7 text-slate-600">{en?'Review each service scope and prepare a quotation enquiry with Biet Al Reef customer support, even where no company is listed. Images are illustrative.':'تعرّف على نطاق كل خدمة وتفاصيلها، وجهّز طلب عرض سعر لخدمة عملاء بيت الريف حتى إن لم تُنشر شركة في المنطقة. الصور توضيحية.'}</p>
     {items===null?<p role="status">{en?'The specialty list is temporarily unavailable.':'تعذر تحميل التخصصات مؤقتًا.'}</p>:!items.length?<p>{en?'No selectable specialties are available for this sector yet.':'لا توجد تخصصات متاحة للاختيار في هذا القطاع حاليًا.'}</p>:<div className="grid grid-cols-2 items-start gap-3 sm:gap-4">
       {items.map(item=>{const image=assets.find(asset=>asset.desktop.endsWith('/'+images[item.slug]+'.webp'));
-        const editorial=serviceGuides?.sector===normalized && (place==='أبوظبي'||place==='Abu Dhabi')
+        const editorial=serviceGuides?.sector===normalized
           ? serviceGuides.specialties.find(group=>group.slug===item.slug)
           : normalized==='general-contracting'?constructionGuides.specialties.find(group=>group.slug===item.slug):null;
         const intro=(item.description||'').trim();

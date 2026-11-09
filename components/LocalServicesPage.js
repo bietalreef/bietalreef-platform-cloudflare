@@ -11,6 +11,8 @@ import PublishedCompanyPresencePage from './provider/PublishedCompanyPresencePag
 import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import DirectoryCustomerSupportCard from './DirectoryCustomerSupportCard';
 import AlAinDistrictSectorCards from './AlAinDistrictSectorCards';
+import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
+import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 import AlAinContentPage from './AlAinContentPage';
 import districtEditorial from '../data/alAinDistrictEditorial.json';
 import { useEffect, useRef } from 'react';
@@ -66,6 +68,7 @@ function ExistingLocalServicesPage({ model }) {
   const button = 'inline-flex min-h-[48px] items-center justify-center rounded-xl border border-[#D8C8AA] bg-white px-4 py-3 font-bold text-[#0F3F1A]';
   const place = area ? `${name(area)} – ${name(city)}` : name(city);
   const districtIntro = area && !category ? districtEditorial.areas[area.slug] : null;
+  const districtQuoteGroups = districtIntro ? UAE_MAIN_SECTORS.map(sector => ({ slug: sector.slug, name: sector.name[locale], services: [{slug: sector.slug, name: sector.name[locale]}] })) : [];
   const authorityHub = !area && category === CATEGORY.slug && !cityService;
   const marketPrefix = en ? '/en' : '';
   const marketCleaningUrl = `https://app.bietalreef.ae${marketPrefix}/cleaning-services-uae`;
@@ -149,6 +152,7 @@ function ExistingLocalServicesPage({ model }) {
         <section className="rounded-3xl border border-[#E6DCC8] bg-white p-6"><h2 className="text-2xl font-bold">{en ? 'Prepare your quotation request' : 'جهز طلب عرض السعر'}</h2><ul className="mt-4 list-inside list-disc space-y-3"><li>{en ? 'Send the district and a precise location privately to the provider.' : 'أرسل المنطقة والموقع الدقيق للشركة بشكل خاص.'}</li><li>{en ? 'Specify the property size or item count and dimensions.' : 'حدد مساحة المكان أو عدد القطع ومقاساتها.'}</li><li>{en ? 'Attach clear photos and describe stains or post-construction debris.' : 'أرفق صورًا واضحة وحدد البقع أو مخلفات التشطيب.'}</li><li>{en ? 'Agree the scope, materials, price and appointment before work starts.' : 'اتفق على النطاق والمواد والسعر والموعد قبل بدء التنفيذ.'}</li></ul></section>
         <section><h2 className="text-2xl font-bold">{en ? `Questions about services in ${place}` : `أسئلة عن الخدمات في ${place}`}</h2><div className="mt-4 space-y-4">{faqs.map(([question, answer]) => <article key={question} className="rounded-2xl border border-[#E6DCC8] bg-white p-5"><h3 className="font-bold">{question}</h3><p className="mt-2 leading-8">{answer}</p></article>)}</div></section>
         {area && <section><h2 className="text-2xl font-bold">{en ? 'Other Al Ain districts' : 'مناطق أخرى في العين'}</h2><div className="mt-4 flex flex-wrap gap-3">{areas.filter(item => item.slug !== area.slug).map(item => <Link className={button} key={item.slug} href={localPath({ locale, area: item.slug, category: category || undefined })}>{name(item)}</Link>)}</div></section>}
+        {districtIntro && <DirectorySectorQuoteForm locale={locale} place={place} groups={districtQuoteGroups} pagePath={localPath({locale, area:area.slug})} />}
 
       </main><Footer locale={locale} showRequestCTA={false} />
     </div>

@@ -1,0 +1,170 @@
+{
+  "sector": "furniture-decor",
+  "source": "Existing bilingual editorial draft for all services, adapted to Abu Dhabi, with service availability always determined by existing taxonomy.",
+  "specialties": [
+    {
+      "slug": "furniture-factories-workshops",
+      "services": [
+        {
+          "nameAr": "تصنيع الأثاث المنزلي",
+          "nameEn": "Residential furniture manufacture",
+          "bodyAr": "قبل تصنيع أثاث منزلي لغرف أبوظبي، احصر القطع المطلوبة لكل غرفة وأبعادها الصافية بعد التشطيب، لا أبعاد المخطط فقط. صور المداخل والمصعد أو الدرج وحدد ما إذا كان الأثاث سيصل مجمّعًا أم على أجزاء. اطلب رسومات تبين ارتفاع الطاولات وعمق الخزائن وخلوص فتح الأدراج، وعينة من الخامة واللون وطريقة معالجة الحواف. ينبغي أن يفصل العرض التصنيع عن النقل والتركيب وأي تعديل بعد القياس. عند التسليم اختبر اتزان القطع، وفتح الأبواب والأدراج، وثبات الوصلات وعدم احتكاكها بالجدران.",
+          "bodyEn": "For residential furniture in Abu Dhabi, prepare a room-by-room schedule of pieces and measure the finished spaces rather than relying only on plan dimensions. Photograph doorways, stairs and lifts, and establish whether items can arrive assembled. Request drawings showing table heights, cabinet depths, drawer clearances and a physical material and finish sample. The quotation should distinguish manufacture, delivery, installation and post-measurement changes. At handover, check stability, door and drawer movement, joint integrity and clearance from surrounding walls."
+        },
+        {
+          "nameAr": "تصنيع الأثاث المكتبي",
+          "nameEn": "Office furniture manufacture",
+          "bodyAr": "في تجهيز مكتب جديد، ابدأ بمخطط يوضح عدد محطات العمل وأبعاد كل محطة وممرات الحركة ونقاط الكهرباء والبيانات. تختلف طاولة موظف عن طاولة اجتماع وعن وحدة حفظ الملفات من حيث الحمولة وإدارة الكابلات والخصوصية. اطلب بيان نوع الألواح وسماكتها وتشطيب الحواف وإمكانية استبدال المفصلات والأدراج. قارن العروض على أساس عدد الوحدات ومقاساتها والتجميع وإزالة التغليف، وليس سعر المكتب المفرد. جرّب الكراسي والأدراج ومسار الأسلاك وتحقق من عدم اهتزاز الطاولات قبل توقيع الاستلام.",
+          "bodyEn": "An office fit-out should begin with a layout showing workstation numbers, individual footprints, circulation and power/data outlets. Staff desks, meeting tables and filing units have different loading, cable-management and privacy requirements. Ask for board specifications, edge finishing and replaceable hinges or runners. Compare offers against the same item schedule, sizes, assembly and packaging removal, not an isolated desk price. Test drawers and chairs, verify cable routes and check that completed desks do not wobble."
+        },
+        {
+          "nameAr": "تصنيع أثاث الفنادق",
+          "nameEn": "Hotel furniture manufacture",
+          "bodyAr": "تصنيع أثاث غرف الضيافة الفندقية يحتاج جدولًا مرقمًا يربط كل قطعة بنوع الغرفة، من السرير واللوح الخلفي إلى الخزانة والمكتب وحامل الحقائب. سلّم للورشة مخططات الغرف الفعلية ومواقع المخارج وارتفاعات المفاتيح حتى لا تتعارض القطع معها. اتفق على نموذج غرفة معتمد قبل الإنتاج المتكرر، وعلى طريقة حماية الأسطح أثناء النقل والتركيب. قارن سهولة صيانة الأجزاء وتوحيد الألوان وتوافر قطع الغيار، ثم افحص العينات والأعداد والتثبيت في كل غرفة وفق كشف تسليم.",
+          "bodyEn": "Hotel furniture production needs an item-coded schedule for each room type, covering beds, headboards, wardrobes, desks and luggage stands. Provide actual room plans and the positions of outlets and switches so fittings do not obstruct services. Approve a prototype room before repeated manufacture, and specify surface protection during transport and fitting. Compare maintainability, finish consistency and replacement parts. Inspect the sample, count and secure fixing of every item against a room-by-room handover record."
+        },
+        {
+          "nameAr": "تصنيع أثاث المطاعم",
+          "nameEn": "Restaurant furniture manufacture",
+          "bodyAr": "في أثاث المطاعم لا تكفي صورة الطاولة والكرسي؛ حدد عدد الجالسين، وأبعاد الحركة بين الطاولات، وطريقة تنظيف الأسطح، وهل الاستخدام داخلي أم خارجي. اطلب تفاصيل الهيكل والوصلات والأقدام الملامسة للأرض ونوع الكسوة، وراجع حواف الطاولات وثبات المقاعد عند تحريكها المتكرر. ينبغي فصل تكلفة تصنيع المقاعد المبطنة عن الطاولات، وتحديد عدد القطع الاحتياطية إن لزم. استلم الأثاث بعد تجربة ترتيب الجلسات ومسار الخدمة وفحص الخدوش والاتزان وسهولة التنظيف.",
+          "bodyEn": "Restaurant furniture selection starts with seating capacity, aisle widths, cleaning methods and whether tables will be used indoors or outside. Ask for frame, joint, foot and upholstery details; consider repeated chair movement, edge safety and surface cleaning. Separate upholstered seating from table fabrication in the quotation and identify any required spare units. At handover, test the proposed seating arrangement and service routes, then inspect stability, scratches and cleaning access."
+        },
+        {
+          "nameAr": "تصنيع الأثاث حسب الطلب",
+          "nameEn": "Bespoke furniture manufacture",
+          "bodyAr": "عند طلب قطعة مصممة خصيصًا، مثل مكتبة داخل تجويف أو طاولة بمقاس غير قياسي، أرسل صور الموقع وقياسات العرض والارتفاع والعمق مع مواقع المقابس والوزرات. اطلب رسم تصنيع يوضح تقسيمات القطعة واتجاه فتح الأبواب ومواضع التثبيت، واعتمد عينة لون وخامة قبل القص. قارن السعر على أساس سماكة الألواح والإكسسوارات والطلاء والتوصيل والتركيب، مع توضيح أثر تعديل التصميم بعد الاعتماد. افحص تطابق الأبعاد والفواصل واستقامة الأبواب وسلامة التثبيت في الموقع.",
+          "bodyEn": "For a bespoke bookcase in an alcove or a non-standard table, provide site photos and finished width, height and depth, including socket and skirting positions. Obtain shop drawings showing compartments, door swings and fixing points, and approve a finish sample before cutting. Compare board thickness, hardware, coating, delivery and installation, and record how design changes affect the price. At handover, measure the piece, inspect gaps and alignment, and verify secure fixing."
+        },
+        {
+          "nameAr": "إصلاح وتجديد الأثاث",
+          "nameEn": "Furniture restoration",
+          "bodyAr": "لا يبدأ تجديد الأثاث بطلب دهان جديد قبل فحص سبب التلف. صوّر المفاصل المرتخية والكسور وانتفاخ الألواح وبقع الرطوبة وحدد ما إذا كانت القطعة خشبًا طبيعيًا أو ألواحًا مصنعة أو هيكلًا معدنيًا. اطلب تقييمًا يفصل إصلاح الهيكل عن تبديل الحشو أو القماش وعن إعادة التشطيب، وناقش متى تكون تكلفة الإصلاح غير مجدية مقارنة بالاستبدال. اتفق على عينة التشطيب وعلى الأجزاء التي ستُستبدل. عند الاستلام افحص تماسك الوصلات وعدم استمرار الرطوبة وسهولة استخدام القطعة.",
+          "bodyEn": "Furniture restoration should start with the cause of damage, not an immediate repaint. Photograph loose joints, cracks, swollen boards and damp marks, and identify whether the piece uses solid timber, engineered board or metal framing. Request a diagnosis separating structural repairs, padding or fabric replacement and surface refinishing. Compare the repair cost and likely service life with replacement, and approve a finish sample. Inspect joint strength, moisture condition and normal operation before accepting the work."
+        },
+        {
+          "nameAr": "توريد الأثاث للمشاريع",
+          "nameEn": "Project furniture supply",
+          "bodyAr": "توريد أثاث مشروع متعدد الغرف يتطلب جدول كميات يحدد كود كل قطعة ومقاسها ولونها والغرفة المستفيدة، لا قائمة إجمالية مبهمة. أرفق مخططات التوزيع ومواعيد جاهزية الموقع ومسارات إدخال القطع ومساحة التخزين الآمن. اطلب عرضًا يوضح العينات المعتمدة والتغليف والترقيم والتركيب ونقل التالف والاستبدال، وقارن أثر الشحنات الجزئية على التنفيذ. عند كل دفعة طابق الكميات والأكواد مع أمر الشراء وسجل العيوب والصور قبل اعتماد محضر الاستلام.",
+          "bodyEn": "Project furniture supply requires a bill of quantities linking each item code, dimension and finish to its destination room. Share layout drawings, site readiness dates, delivery access and secure storage arrangements. Ask bidders to identify approved samples, packaging, labelling, installation, damage returns and replacement responsibilities; compare the disruption caused by phased deliveries. For each shipment, reconcile item codes and quantities against the purchase order and photograph defects before signing a receipt."
+        }
+      ]
+    },
+    {
+      "slug": "furniture-decor-stores",
+      "services": [
+        {
+          "nameAr": "بيع الأثاث المنزلي",
+          "nameEn": "Home furniture sales",
+          "bodyAr": "قبل شراء غرفة نوم أو طقم جلوس جاهز، قِس عرض الجدار الصافي ومواقع المقابس ومسافة فتح أبواب الخزائن، ثم قِس أضيق باب وممر في مسار التوصيل. اطلب بطاقة توضح خامة الهيكل ونوع القماش ومقاسات كل قطعة، واسأل هل يشمل السعر النقل والتركيب وإزالة التغليف. لا تقارن طقمين بعدد القطع وحده؛ افحص ثبات الوصلات واستقامة الأبواب وسلامة القماش عند التسليم.",
+          "bodyEn": "Before buying a ready-made bedroom or lounge set, measure the clear wall space, sockets, wardrobe-door swing and the narrowest delivery doorway. Ask for dimensions and frame, cushion and upholstery specifications for every piece, with delivery, assembly and packaging removal itemised. Compare construction rather than piece count alone; inspect joints, door alignment and fabric condition before signing for delivery."
+        },
+        {
+          "nameAr": "بيع الأثاث المكتبي",
+          "nameEn": "Office furniture sales",
+          "bodyAr": "بيع الأثاث المكتبي يختلف عن تصنيع أثاث مخصص: ابدأ بمخطط يبين عدد المستخدمين وأبعاد المكاتب ومسار الكراسي ومنافذ الكهرباء والبيانات. اختبر ارتفاع المكتب وعمق سطحه وآلية ضبط الكرسي، واطلب بيانًا منفصلًا للخزائن ووحدات التخزين والتجميع. قارن شروط الضمان وتوافر قطع الغيار وسياسة استبدال القطع التالفة، واستلم وفق قائمة موديلات وكميات لا وفق عدد الصناديق فقط.",
+          "bodyEn": "Buying office furniture is different from commissioning bespoke joinery. Draw the workstation layout, chair clearance and power and data points, then test desk height, surface depth and chair adjustment. Request separate prices for storage, assembly and delivery. Compare warranties, replacement parts and damaged-item returns; check each model and quantity against the order rather than counting cartons."
+        },
+        {
+          "nameAr": "بيع الإضاءة",
+          "nameEn": "Lighting retail",
+          "bodyAr": "عند شراء وحدات إنارة لمجلس أو مكتب، اذكر وظيفة كل نقطة: إنارة عامة أم قراءة أم إبراز ديكور. اعتمد المقارنة على التدفق الضوئي باللومن ودرجة اللون بالكلفن وزاوية التوزيع والتعتيم إن لزم، لا على القدرة الكهربائية وحدها. راجع أبعاد الفتحة أو قاعدة التثبيت وتوافق مصدر التغذية مع التجهيز القائم، واطلب تشغيل عينة وفحص اللون والوميض والملحقات قبل استلام الكمية.",
+          "bodyEn": "For lounge or workplace lighting, distinguish general, task and accent lighting at each point. Compare light output in lumens, colour temperature in kelvin, beam distribution and dimming compatibility instead of wattage alone. Check cut-out dimensions, mounting hardware and compatibility with the existing electrical provision. Inspect a working sample and verify colour, flicker and accessories before accepting the batch."
+        },
+        {
+          "nameAr": "بيع الستائر",
+          "nameEn": "Curtain retail",
+          "bodyAr": "في شراء الستائر الجاهزة، قد لا يكفي قياس عرض الزجاج؛ احسب عرض السكة المطلوب ومساحة التكدس على جانبي النافذة وطول الستارة من نقطة التعليق. حدد هل الغرض حجب الضوء أو الخصوصية أو تخفيف الوهج، وافحص نوع البطانة وتعليمات العناية. قارن عدد الألواح ومقاس كل لوح وهل السكة والتركيب داخل العرض، وافتح العبوات لمطابقة اللون والنسج وخلو الحواف من العيوب.",
+          "bodyEn": "Ready-made curtains should be selected using the proposed track width, stacking space at either end and finished drop, not just the glass width. Specify privacy, glare reduction or blackout needs and inspect the lining and care instructions. Compare panel count and individual panel sizes, and whether tracks and installation are included. Check fabric shade, weave and edge stitching when delivered."
+        },
+        {
+          "nameAr": "بيع السجاد",
+          "nameEn": "Carpet retail",
+          "bodyAr": "اختيار سجادة لمجلس أو غرفة نوم يبدأ بتحديد مكان أرجل الأثاث ومساحة المرور، وليس بمساحة الأرضية وحدها. أرسل رسمًا بسيطًا للأبعاد ومواقع الأبواب، وحدد إن كانت السجادة قابلة للنقل أو ستثبت على الأرض. قارن نوع الألياف وكثافة الوبر والبطانة وطريقة تنظيف البقع، واستلم السجادة مفروشة للتحقق من الاستواء والأبعاد والحواف وثبات الألوان في الإضاءة الفعلية.",
+          "bodyEn": "For a majlis or bedroom rug, mark furniture legs, walking routes and door swings on a simple floor sketch. Decide whether the rug must be movable or secured, then compare fibre type, pile density, backing and stain-cleaning method. Inspect the rug laid flat for size, edge finishing, ripples and colour under the room's actual lighting."
+        },
+        {
+          "nameAr": "بيع الإكسسوارات المنزلية",
+          "nameEn": "Home accessories retail",
+          "bodyAr": "قبل طلب المرايا والرفوف وحوامل المناشف وملحقات المنزل، اكتب قائمة بالموقع والعدد والمقاس ووزن الاستخدام المتوقع لكل قطعة. تختلف مثبتات المرآة الثقيلة عن حامل خفيف، ويجب تحديد مادة الجدار ووجود رطوبة أو تمديدات مخفية قبل التركيب. اطلب صورًا تفصيلية للطلاء والحواف والبراغي المرفقة، وقارن هل التركيب مشمول؛ عند الاستلام افحص اكتمال القطع وسلامة الزجاج والتشطيب.",
+          "bodyEn": "For mirrors, shelves, towel rails and home accessories, list each item's location, dimensions, quantity and expected loading. A heavy mirror needs different anchors from a light accessory; wall substrate, moisture and concealed services matter before drilling. Request close-up photographs of finishes and supplied fixings and confirm whether installation is included. Check for chipped glass, damaged coatings and missing parts on receipt."
+        },
+        {
+          "nameAr": "توريد الأثاث للمشاريع",
+          "nameEn": "Bulk project furniture supply",
+          "bodyAr": "توريد الأثاث لمشروع متعدد الوحدات يحتاج جدولًا موحدًا برمز كل صنف ومقاسه ولونه وعدده والغرفة المخصصة له، مع اعتماد عينة فعلية قبل الطلب الكبير. رتب التسليم على مراحل تتوافق مع جاهزية الغرف والمصاعد ومناطق التخزين، وحدد مسؤولية التلف أثناء النقل والتجميع. قارن عروض الموردين على أساس الصنف نفسه والبدائل المسموحة ومواعيد الاستبدال، ووقّع استلامًا تفصيليًا لكل دفعة بعد فحصها.",
+          "bodyEn": "Furniture supply for a multi-unit project needs a coded schedule listing each model, dimensions, finish, quantity and destination room, with a physical sample approved before bulk ordering. Phase deliveries around room readiness, lift access and secure storage, and allocate responsibility for transport and assembly damage. Compare equivalent models, substitution rules and replacement lead times; record and inspect every batch before signing acceptance."
+        }
+      ]
+    },
+    {
+      "slug": "furniture-upholstery-majlis",
+      "services": [
+        {
+          "nameAr": "تفصيل المجالس العربية",
+          "nameEn": "Traditional majlis seating",
+          "bodyAr": "تفصيل مجلس عربي يبدأ بمخطط يوضح أطوال الجدران ومواقع الأبواب والأعمدة ومسارات الحركة، مع تحديد ارتفاع الجلسة وعمقها وعدد المقاعد المطلوب. اتفق على مقطع الهيكل ونوع الحشو وقابلية إزالة أغطية الوسائد، واطلب نموذج زاوية أو وسادة قبل التصنيع الكامل. يجب أن يوضح العرض ما إذا كانت الطاولات والستائر والنقل ضمن النطاق؛ عند التسليم اختبر تساوي ارتفاعات الجلسات واستقامة الوصلات وراحة الجلوس.",
+          "bodyEn": "Start a traditional majlis design with measured wall lengths, door positions, columns, circulation and the required seating capacity. Agree seat height and depth, frame construction, cushion filling and removable-cover options; approve a corner sample or cushion before full production. Ask whether tables, curtains, delivery and fitting are included. Check seat-level consistency, joint alignment and comfort at handover."
+        },
+        {
+          "nameAr": "تفصيل الكنب",
+          "nameEn": "Custom sofas",
+          "bodyAr": "في تفصيل كنب زاوية أو وحدات منفصلة، حدد مكان كل وحدة واتجاه الزاوية وطول الجدار ومسافة فتح الأبواب ومسار دخول القطع. ناقش عمق المقعد وصلابة الحشوة وارتفاع الظهر حسب استخدام الأسرة، واطلب عينة قماش قابلة للفحص في ضوء الغرفة. قارن هيكل الخشب أو المعدن، تثبيت الأرجل، عدد الوسائد وطريقة وصل الوحدات؛ افحص المقاسات والجلوس والثبات بعد التركيب.",
+          "bodyEn": "For a corner or modular sofa, record the direction of the corner, each module's dimensions, door clearance and the delivery route. Choose seat depth, back height and firmness around the household's use and inspect a fabric sample in the actual room. Compare frame construction, leg fixings, cushions and module connectors. Verify finished dimensions, stability and seating comfort after assembly."
+        },
+        {
+          "nameAr": "تنجيد الأثاث",
+          "nameEn": "Furniture reupholstery",
+          "bodyAr": "التنجيد الكامل ليس مجرد تغيير قماش: صور المقعد من الأمام والخلف وأسفل القطعة، واذكر الأصوات أو الهبوط أو اهتزاز الأذرع. ينبغي أن تكشف المعاينة هل يحتاج الهيكل أو النوابض أو الأحزمة أو الحشو إلى إصلاح قبل الكسوة. اطلب عرضًا يفصل فك القديم وإصلاح البنية والحشوة والخياطة والنقل، واحتفظ بعينة القماش المعتمدة؛ عند الاستلام افحص شد الكسوة وانتظام الدرزات وثبات المقعد.",
+          "bodyEn": "Full reupholstery involves more than replacing fabric. Photograph the seat, back, underside and arms, noting sagging, creaks and loose joints. An inspection should distinguish frame, spring, webbing and padding repairs from new covering. Request separate costs for stripping, structural work, foam, sewing and transport, and retain an approved swatch. Inspect seam tension, even padding and seat stability on return."
+        },
+        {
+          "nameAr": "تغيير أقمشة الكنب",
+          "nameEn": "Sofa fabric replacement",
+          "bodyAr": "إذا كان هيكل الكنبة سليمًا وتحتاج فقط إلى تغيير القماش، صوّر القطع وحدد عدد الوسائد المنفصلة وأي زخارف أو أزرار أو كسرات ينبغي الحفاظ عليها. احسب القماش وفق عرض الرول واتجاه النقشة وهدر المطابقة، لا وفق طول الكنبة فقط. قارن تحمل القماش للتنظيف والاستخدام اليومي وتكلفة الفك والخياطة؛ افحص انتظام النقوش عند الزوايا واستقامة الدرزات وعدم ظهور شد غير متوازن.",
+          "bodyEn": "If the sofa frame and padding are sound, a fabric-only change may be enough. Photograph all sections, loose cushions, buttons and decorative seams to preserve. Calculate fabric using roll width, pattern repeat and cutting allowance rather than sofa length alone. Compare cleaning suitability, wear performance and labour for stripping and sewing. Check pattern matching at corners and even seam tension."
+        },
+        {
+          "nameAr": "تغيير الإسفنج والحشوات",
+          "nameEn": "Cushion foam renewal",
+          "bodyAr": "عندما يهبط مقعد الكنب بينما يبقى القماش والهيكل بحالة جيدة، اطلب فحص الحشوة والأحزمة أو النوابض قبل شراء إسفنج جديد. حدد سماكة المقعد الأصلية والصلابة المفضلة ودرجة الاستخدام، واطلب توضيح كثافة الإسفنج ونوع الطبقات الإضافية دون افتراض أن الأعلى كثافة هو الأنسب دائمًا. قارن تكلفة تغيير الحشوات وحدها مع إصلاح الدعائم، وجرّب الجلوس بعد التركيب للتحقق من التساوي وعودة الوسائد لشكلها.",
+          "bodyEn": "When seats have sagged but the frame and cover remain usable, inspect webbing or springs as well as foam before ordering replacement cushions. Record original thickness, preferred firmness and use frequency; ask for foam density and any layered filling without assuming that maximum density is automatically best. Compare cushion replacement with support repairs, then test seating evenness and recovery after fitting."
+        }
+      ]
+    },
+    {
+      "slug": "curtains-carpets-furnishings",
+      "services": [
+        {
+          "nameAr": "تفصيل الستائر",
+          "nameEn": "Made-to-measure curtains",
+          "bodyAr": "تفصيل الستائر يبدأ بقياس عرض السكة الفعلي والارتفاع من موضع تعليقها إلى نهاية القماش، مع مراعاة عتبة النافذة والأثاث القريب. حدد نوع الطيات ونسبة امتلاء القماش والتعتيم والبطانة، وراجع اتجاه النقشة قبل القص. اطلب عرضًا يفصل القماش والخياطة والبطانة والسكة والتركيب، ثم افحص الطول عند أكثر من نقطة وانتظام الطيات وعدم احتكاك الستارة بالأرض إلا إذا كان ذلك مقصودًا.",
+          "bodyEn": "Made-to-measure curtains require the actual track width and finished drop from the mounting point, allowing for windowsills and nearby furniture. Agree pleat style, fabric fullness, blackout lining and pattern direction before cutting. Ask for fabric, sewing, lining, track and fitting as separate quotation items. Inspect the drop at several points, consistent pleats and the intended floor clearance."
+        },
+        {
+          "nameAr": "تركيب الستائر",
+          "nameEn": "Curtain installation",
+          "bodyAr": "قبل تركيب سكة ستارة، افحص ما إذا كان التثبيت في خرسانة أو جبس أو خشب، وحدد مسار التكييف والتمديدات وحركة ضلف النافذة. الستارة الثقيلة أو المزدوجة تحتاج توزيع حوامل مناسبًا لنظام السكة والسطح الحامل؛ لا تعتمد عددًا ثابتًا دون معاينة. قارن عرض التركيب من حيث السكة والمثبتات ومعالجة الثقوب، واختبر فتح الستارة وإغلاقها بالكامل مع عدم احتكاكها بالمقابض أو الأثاث.",
+          "bodyEn": "Before fitting curtain tracks, establish whether the fixings go into concrete, gypsum board or timber and check nearby AC outlets, wiring and window operation. Heavy or double curtains need brackets suited to the track system and supporting surface; a universal bracket count is unreliable. Compare the scope of fixings and making good, and test full travel without hitting handles or furniture."
+        },
+        {
+          "nameAr": "توريد أقمشة المفروشات",
+          "nameEn": "Furnishing fabrics supply",
+          "bodyAr": "توريد قماش مفروشات لمجلس يختلف عن قماش ستارة شفافة: حدد الاستخدام ومعدل الاحتكاك والتعرض للشمس وطريقة التنظيف المقبولة. اطلب عينة من نفس الخامة واللون مع بيانات التركيب والعرض المتاح للرول، واحسب كمية القص واتجاه الوبر أو النقشة قبل الشراء. قارن قابلية الصيانة وتفاوت ألوان التشغيلات وشروط إعادة اللفات غير المستخدمة؛ افحص الأمتار والعيوب الظاهرة قبل القص.",
+          "bodyEn": "Upholstery fabric for a frequently used majlis has different demands from sheer curtain fabric. Specify use, abrasion, sunlight exposure and permitted cleaning methods. Request a sample from the intended material and shade, with composition and roll width, and calculate cutting allowance and pile or pattern direction. Compare maintenance and dye-lot consistency, and inspect length and visible defects before cutting."
+        },
+        {
+          "nameAr": "توريد السجاد والموكيت",
+          "nameEn": "Carpets and fitted carpet supply",
+          "bodyAr": "عند توريد موكيت ثابت لمكاتب أو غرف، أرسل مخطط المساحة مع الأعمدة والأبواب واتجاه التمديد، وحدد هل المطلوب رول أم بلاطات قابلة للاستبدال. اطلب مواصفات الوبر والبطانة واللاصق أو طريقة التثبيت ووسيلة معالجة الفواصل والحواف. قارن إجمالي الكمية مع هدر القص والتركيب وإزالة القديم إن وجدت، وافحص أرقام التشغيلات واستقامة النقشة وتطابق اللون بعد الفرش.",
+          "bodyEn": "For fitted carpet in rooms or offices, send a floor plan showing columns, doors and laying direction and decide between broadloom and replaceable carpet tiles. Ask about pile, backing, adhesive or fixing method and treatment of seams and edges. Compare the total quantity including cutting waste and any removal of old flooring. Check batch numbers, pattern alignment and colour after installation."
+        },
+        {
+          "nameAr": "توريد المراتب",
+          "nameEn": "Mattress supply",
+          "bodyAr": "شراء مرتبة يبدأ بمقاس قاعدة السرير الداخلي الفعلي، لا بالمقاس التجاري المفترض، مع تحديد ارتفاع المرتبة المقبول واحتياجات المستخدم من دعم وتهوية. جرّب مستوى الصلابة إن أمكن واسأل عن تركيب الطبقات ونوع النوابض أو الرغوة وإمكانية تدوير المرتبة وتعليمات العناية. قارن شروط تجربة المنتج والضمان والنقل وإزالة المرتبة القديمة إن كانت ضمن العرض، وافحص المقاس والملصق والغلاف قبل قبول التسليم.",
+          "bodyEn": "Choose a mattress from the actual internal dimensions of the bed base, the acceptable finished height and the sleeper's support and ventilation preferences. Test firmness where possible and ask about foam or spring construction, rotation and care. Compare trial terms, warranty, delivery and old-mattress removal if offered. Check size, product label and cover condition before accepting delivery."
+        }
+      ]
+    }
+  ]
+}

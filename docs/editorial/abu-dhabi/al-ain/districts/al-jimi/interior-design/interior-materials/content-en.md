@@ -88,7 +88,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 8. Office design
 
-**When it is useful:** organising teams, meetings and acoustic privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** organising teams, meetings and acoustic privacy. Describe merchandise, customer flow, checkout, storage and delivery access.
 
 **Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes.
 
@@ -100,7 +100,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 9. Retail store design
 
-**When it is useful:** guiding customers to displays and checkout without blocking stock access. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** guiding customers to displays and checkout without blocking stock access. State seating capacity, kitchen type, preparation equipment, extraction and staff and waste routes.
 
 **Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances.
 
@@ -112,7 +112,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 10. Restaurant and café design
 
-**When it is useful:** separating seating, service, preparation and cleaning flows. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** separating seating, service, preparation and cleaning flows. Confirm station and basin counts, waiting capacity and service connections.
 
 **Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation.
 
@@ -124,7 +124,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 11. Salon design
 
-**When it is useful:** organising service stations, waiting and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** organising service stations, waiting and privacy. Identify the licensed clinical activity, equipment, examination privacy and patient circulation.
 
 **Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos.
 
@@ -136,7 +136,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 12. Clinic design
 
-**When it is useful:** aligning patient movement with examination-room privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** aligning patient movement with examination-room privacy. Record exhibit sizes, weights, power needs, lighting and visitor circulation.
 
 **Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation.
 
@@ -148,7 +148,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 13. Exhibition design
 
-**When it is useful:** displaying objects safely with flexible arrangements. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** displaying objects safely with flexible arrangements. Specify visitor handling, screen privacy, counter height and accessible circulation.
 
 **Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes.
 
@@ -160,7 +160,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 14. Reception area design
 
-**When it is useful:** welcoming visitors while protecting their information. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** welcoming visitors while protecting their information. Record each room's use, water and slip exposure and the condition of the existing substrate.
 
 **Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access.
 
@@ -172,7 +172,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 15. Flooring selection
 
-**When it is useful:** matching finishes to water, slip and wear exposure. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** matching finishes to water, slip and wear exposure. Record daylight changes and desired sheen before selecting paint codes.
 
 **Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds.
 
@@ -184,7 +184,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 16. Paint colour selection
 
-**When it is useful:** testing colours in daylight and artificial light. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** testing colours in daylight and artificial light. Agree tile dimensions, vein direction, joints, openings and slip-performance needs.
 
 **Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish.
 
@@ -196,7 +196,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 17. Stone and tile selection
 
-**When it is useful:** matching tile sizes, veining and joints to the space. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** matching tile sizes, veining and joints to the space. State daily use, exact dimensions, budget limits and items to retain.
 
 **Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains.
 
@@ -208,7 +208,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 18. Furniture selection
 
-**When it is useful:** evaluating comfort, durability and actual product size. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** evaluating comfort, durability and actual product size. Identify lighting tasks, ceiling height, glare-sensitive zones and control circuits.
 
 **Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
 
@@ -220,7 +220,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 19. Lighting selection
 
-**When it is useful:** placing light by task without unwanted glare. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** placing light by task without unwanted glare. Specify physical samples, intended locations and acceptable alternative references.
 
 **Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight.
 
@@ -232,7 +232,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 20. Materials mood board
 
-**When it is useful:** combining compatible physical finishes rather than screen images. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** combining compatible physical finishes rather than screen images. Identify rooms, drawing references and responsibility for approving and revising finish codes.
 
 **Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known.
 

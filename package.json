@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "audit:site": "node scripts/audit-site-structure.js",
-    "prebuild": "node scripts/audit-site-structure.js",
+    "prebuild": "node scripts/audit-site-structure.js && node scripts/abu-dhabi-contracting-seo.test.cjs",
     "build": "next build",
     "test:weyaak:live": "node scripts/weyaak-preview-smoke.mjs && node scripts/weyaak-provider-search-smoke.mjs",
     "start": "next start",

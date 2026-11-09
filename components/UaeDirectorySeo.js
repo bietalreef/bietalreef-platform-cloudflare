@@ -13,6 +13,17 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
   const imageWidth = image ? 1440 : service ? 1536 : 1600;
   const imageHeight = image ? 810 : service ? 864 : 1000;
   const fullTitle = seoTitle || `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
+  const isAbuDhabiContracting = emirate?.slug === 'abu-dhabi' && service?.slug === 'general-contracting';
+  const breadcrumbData = isAbuDhabiContracting ? {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: isEn ? 'UAE directory' : 'دليل الإمارات', item: 'https://bietalreef.ae' + (isEn ? '/en/uae' : '/uae') },
+      { '@type': 'ListItem', position: 2, name: isEn ? 'Abu Dhabi' : 'أبوظبي', item: 'https://bietalreef.ae' + (isEn ? '/en/uae/abu-dhabi' : '/uae/abu-dhabi') },
+      { '@type': 'ListItem', position: 3, name: title, item: canonical },
+    ],
+  } : null;
+
 
   return (
     <Head>
@@ -38,6 +49,7 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
       <meta name="twitter:title" content={fullTitle} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={shareImage} />
+      {breadcrumbData ? <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }} /> : null}
     </Head>
   );
 }

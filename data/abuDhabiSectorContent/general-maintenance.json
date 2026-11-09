@@ -1,0 +1,686 @@
+{
+  "sector": "general-maintenance",
+  "source": "Existing bilingual editorial draft for all services, adapted to Abu Dhabi, with service availability always determined by existing taxonomy.",
+  "specialties": [
+    {
+      "slug": "villa-building-maintenance",
+      "services": [
+        {
+          "nameAr": "الصيانة الدورية للفلل",
+          "nameEn": "Scheduled villa maintenance",
+          "bodyAr": "الصيانة الدورية للفلل ليست زيارة لإصلاح عطل ظاهر فقط؛ ابدأ بسجل للأجهزة واللوحات والمضخات والتكييف والأبواب، مع تواريخ الأعطال السابقة ومواقعها. اطلب برنامج زيارات يوضح ما يُفحص وما يُنظف وما يحتاج فنيًا متخصصًا، وحدود قطع الغيار والأعمال الطارئة. عند المقارنة احسب عدد الزيارات وزمن الاستجابة وطريقة توثيق القراءات، ثم استلم تقريرًا مؤرخًا بالملاحظات والصور والتوصيات، لا عبارة «تمت الصيانة» وحدها.",
+          "bodyEn": "Routine villa maintenance is more than a visit after something fails. Start with an inventory of air-conditioning units, pumps, electrical panels, doors and prior faults, noting locations and dates. Ask for a visit plan separating inspection, cleaning, specialist work, emergency call-outs and replacement parts. Compare inspection frequency, response arrangements and recorded readings. At handover, require dated findings, photographs and recommendations rather than a generic statement that maintenance was completed."
+        },
+        {
+          "nameAr": "الصيانة الدورية للمباني",
+          "nameEn": "Scheduled building maintenance",
+          "bodyAr": "عقد صيانة المبنى يحتاج تحديد عدد الوحدات والمناطق المشتركة وغرف الخدمات والمعدات التي تدخل في مسؤولية المقاول. أرفق مخططًا مبسطًا ومعلومات التشغيل وأوقات الوصول للمرافق؛ واطلب جدول فحص مستقلًا للمصاعد أو أنظمة الحريق من الجهات المختصة عند انطباق ذلك، دون ضمها تلقائيًا للعقد العام. قارن التقارير الدورية وآلية إغلاق البلاغات والاستثناءات، واستلم سجلًا يفصل العطل المتكرر عن الإصلاح المكتمل.",
+          "bodyEn": "A building maintenance agreement should identify the number of units, shared spaces, service rooms and equipment within the contractor's responsibility. Provide basic layouts, operating information and access windows. Where lifts or fire systems need specialist attention, identify that separately rather than assuming they fall within general maintenance. Compare periodic reporting, fault-ticket closure and exclusions; receive a log distinguishing recurring defects from completed repairs."
+        },
+        {
+          "nameAr": "إصلاح التلفيات الداخلية",
+          "nameEn": "Interior damage repairs",
+          "bodyAr": "قبل معالجة تلف داخلي، صوّر موضعه من بعيد وقريب مع مقياس، وحدد إن كان في الجبس أو البلاط أو الدهان أو الخشب. ظهور بقعة خلف خزانة مثلًا قد يدل على رطوبة مستمرة؛ لا توافق على إعادة الطلاء قبل فحص السبب. اطلب تسعير إزالة الجزء التالف وتجهيز السطح والبديل المطابق كلًّا على حدة، واستلم سطحًا مستويًا جافًا وصورًا للمرحلة المخفية قبل الإغلاق.",
+          "bodyEn": "Photograph interior damage both close up and in context, with a ruler, and identify whether the affected material is plasterboard, tile, paint or timber. A stain behind cabinetry may signal continuing moisture, so repainting should wait until the cause is investigated. Price removal, substrate preparation and matching replacement separately. Inspect a dry, even finish and request photographs of concealed work before it is covered."
+        },
+        {
+          "nameAr": "إصلاح الأبواب والنوافذ",
+          "nameEn": "Door and window repairs",
+          "bodyAr": "إذا كان الباب يحتك بالأرض أو النافذة تسرب الهواء، سجّل نوع الإطار ومقاس الضلفة وصور المفصلات والأقفال والحشوات. يجب أن يميز العرض بين ضبط المحاذاة واستبدال قطعة محددة وتغيير الوحدة كاملة، مع بيان توافق القطع. عند الاستلام جرّب الفتح والإغلاق والقفل عدة مرات وافحص الفواصل والحشوات؛ لا تعتبر تغيير المقبض علاجًا لمشكلة اعوجاج الإطار.",
+          "bodyEn": "For a dragging door or a draughty window, record frame material, leaf dimensions and photographs of hinges, locks and seals. Quotations should distinguish adjustment, replacement of a specific component and full-unit replacement, including hardware compatibility. Open, close and lock the unit repeatedly at handover, checking clearances and seals. Replacing a handle alone will not correct a distorted frame."
+        },
+        {
+          "nameAr": "معالجة الرطوبة",
+          "nameEn": "Damp treatment",
+          "bodyAr": "الرطوبة قد تنتج من تسرب أنبوب أو تكاثف أو خلل في العزل؛ اذكر توقيت ظهور البقعة وموقعها وعلاقتها بالمطر أو تشغيل التكييف. اطلب فحصًا يحدد مصدر المياه ونطاق التأثر قبل اقتراح مادة عزل أو دهان. قارن تكلفة التشخيص وإصلاح المصدر والتجفيف وإعادة التشطيب منفصلة، واستلم صورًا ونتائج فحص أو قياسات مناسبة، مع توضيح الأجزاء التي تعذر التحقق منها.",
+          "bodyEn": "Moisture may come from pipe leakage, condensation or failed waterproofing. Record when staining appears, its position and any connection to rainfall or air-conditioning. Request investigation of the source and extent before choosing waterproof coatings or repainting. Compare diagnosis, source repair, drying and reinstatement as separate costs. Receive photographs and suitable inspection findings, including any areas that could not be verified."
+        },
+        {
+          "nameAr": "معالجة الشقوق",
+          "nameEn": "Crack repair",
+          "bodyAr": "صوّر الشق مع مسطرة وأثبت تاريخ التصوير، ثم راقب تغير العرض أو امتداده بدل إخفائه بالمعجون مباشرة. تختلف معالجة شرخ دهان رفيع عن شق متدرج في جدار أو عند فتحة؛ الأخير قد يحتاج تقييم مهندس مؤهل قبل أي إصلاح تجميلي. اطلب بيان سبب محتمل وطريقة تجهيز الحواف ومادة الإصلاح وفترة المتابعة، واستلم توثيقًا للحالة قبل المعالجة وبعدها.",
+          "bodyEn": "Photograph the crack beside a ruler and date the image; monitor any change in width or length before covering it with filler. A hairline paint crack differs from stepped cracking in masonry or around an opening, which may require assessment by a qualified engineer. Ask for the suspected cause, edge preparation, repair material and monitoring plan. Retain before-and-after evidence."
+        },
+        {
+          "nameAr": "تجهيز المبنى قبل التسليم",
+          "nameEn": "Building preparation before handover",
+          "bodyAr": "تجهيز العقار للتسليم يبدأ بقائمة ملاحظات مرقمة لكل غرفة، تتضمن الصور وموضع الخلل والمسؤول عن إصلاحه. افصل اختبار الإنارة والمقابس والأدوات الصحية والأبواب عن تنظيف الموقع وإزالة مخلفات العمل؛ فالنتيجة البصرية لا تكفي لإثبات سلامة التشغيل. قارن عروض المقاولين بعدد البنود وزيارات إعادة الفحص، ثم أغلق كل بند بصورة واختبار وتاريخ في محضر التسليم.",
+          "bodyEn": "Property handover preparation begins with a numbered room-by-room snag register, with photographs, location and responsible party for each item. Separate operational tests of lighting, outlets, sanitary fittings and doors from final cleaning and debris removal; appearance alone does not prove operation. Compare quotations by snag count and return-inspection visits, then close each item with a dated test and photograph in the handover record."
+        },
+        {
+          "nameAr": "أعمال الصيانة المنزلية البسيطة",
+          "nameEn": "Minor home maintenance",
+          "bodyAr": "اجمع المهام المنزلية الصغيرة في كشف واحد: مقبض مرتخٍ، مفصلة، سيليكون، أو رف، مع صور ومقاسات وأماكن الوصول. لا تجمع أعمال الكهرباء المكشوفة أو تسربًا نشطًا ضمن «إصلاح بسيط» بلا تقييم مختص. اطلب فصل أجرة الزيارة عن المواد والحد الأدنى للساعات، واستلم قائمة بالقطع التي استُبدلت واختبارًا عمليًا لكل مهمة بدل احتساب الزيارة وحدها.",
+          "bodyEn": "Bundle small household jobs into one documented schedule: a loose handle, hinge, sealant bead or shelf, with photographs, dimensions and access details. Exposed electrical faults and active leaks should not be treated as minor handyman tasks without specialist assessment. Compare call-out fees, minimum hours and materials separately. Receive a list of replaced parts and a functional check for each completed task."
+        },
+        {
+          "nameAr": "تركيب الستائر",
+          "nameEn": "Curtain installation",
+          "bodyAr": "قبل شراء السكة، قس عرض النافذة ومسافة امتداد الستارة على الجانبين وارتفاع التثبيت إلى الأرض، وحدد نوع السقف ووزن القماش. بعض المسارات تحتاج دعائم إضافية أو تثبيتًا مناسبًا للجبس؛ لذلك قارن نوع الحامل ونقاط التثبيت وطريقة فتح الستارة. عند الاستلام جرّب السحب الكامل وتحقق من عدم احتكاك القماش بالمكيف أو مقابض النوافذ.",
+          "bodyEn": "Before ordering a curtain track, measure the window width, side stack-back allowance and fixing height to the floor, and identify the ceiling type and fabric weight. Some tracks require additional supports or suitable plasterboard anchoring. Compare bracket design, fixing points and curtain opening direction. Test full travel and check clearance from air-conditioning units and window handles."
+        },
+        {
+          "nameAr": "تركيب الرفوف",
+          "nameEn": "Shelf installation",
+          "bodyAr": "الرف المطلوب للكتب ليس كرف عرض خفيف: حدّد الطول والعمق والحمولة المتوقعة، وصوّر نوع الحائط والتمديدات القريبة. يجب أن يوضح العرض خامة اللوح وسماكته وعدد الحوامل ونوع المثبتات المناسبة للخرسانة أو البلوك أو الجبس. افحص الاستواء وثبات الرف والفراغات حوله، واطلب بيان الحمولة التشغيلية الموصى بها دون اختبار تحميل خطر.",
+          "bodyEn": "A book shelf carries different loads from a lightweight display shelf. State its length, depth and expected contents, and photograph wall construction and nearby services. The quotation should specify board material and thickness, bracket count and anchors appropriate for concrete, blockwork or plasterboard. Check level, stability and surrounding clearances; request a recommended working load rather than an unsafe improvised load test."
+        },
+        {
+          "nameAr": "تعليق الشاشات",
+          "nameEn": "TV mounting",
+          "bodyAr": "سجّل وزن الشاشة ومقاسها ونمط ثقوب VESA وموضع المشاهدة والحوائط المتاحة. اختيار حامل متحرك يغيّر عزم الحمل على نقاط التثبيت مقارنة بحامل ثابت، فلا يكفي أن يناسب مقاس الشاشة فقط. اطلب تحديد مسار الكابلات ومكان المقابس قبل الحفر؛ واستلم تجربة تحريك آمنة وفحصًا للبراغي ووصولًا سهلًا للمنافذ.",
+          "bodyEn": "Record the television's weight, dimensions, VESA pattern, viewing position and candidate walls. An articulated arm places different leverage on fixings from a fixed bracket, so screen-size compatibility alone is insufficient. Agree cable routing and socket locations before drilling. At handover, check fixings, move the arm safely through its range and confirm access to ports."
+        },
+        {
+          "nameAr": "تركيب الإكسسوارات",
+          "nameEn": "Accessory installation",
+          "bodyAr": "في الحمامات والمطابخ، صوّر مواضع علاقات المناشف وحوامل الصابون والمرآة قبل الحفر، مع بيان إن كان السطح سيراميكًا أو حجرًا أو خشبًا. اطلب تحديد نوع المثبت وطريقة حماية الحواف من التشقق، ومعالجة الفتحات قرب مناطق البلل بمادة مناسبة عند الحاجة. افحص المحاذاة والثبات وسلامة الكسوة وعدم وجود فجوات تجمع المياه.",
+          "bodyEn": "In bathrooms and kitchens, photograph the intended positions of towel rails, soap holders and mirrors before drilling, noting tile, stone or timber substrates. Agree suitable fixings, protection against cracked edges and sealing of holes near wet areas where appropriate. Inspect alignment, security, intact cladding and the absence of water-trapping gaps."
+        },
+        {
+          "nameAr": "تجميع الأثاث",
+          "nameEn": "Furniture assembly",
+          "bodyAr": "أرسل صور الصناديق واسم الموديل ودليل التركيب وعدد القطع ومقاسات المصعد والأبواب إذا كانت القطعة كبيرة. فرّق في التسعير بين التجميع والتثبيت الجداري ونقل الأثاث القديم والتخلص من التغليف. عند الاستلام افتح الأدراج والأبواب وتأكد من استواء الوحدات وربط الوصلات، وسجّل أي قطعة ناقصة أو ضرر ظهر قبل التركيب.",
+          "bodyEn": "Send photographs of cartons, model details, assembly instructions, part counts and lift or doorway dimensions for bulky items. Price assembly, wall anchoring, relocation of old furniture and packaging removal separately. At handover, operate drawers and doors, check level and tightened joints, and document any missing component or pre-existing damage."
+        },
+        {
+          "nameAr": "إصلاح الأعطال البسيطة",
+          "nameEn": "Minor fault repairs",
+          "bodyAr": "وصف «العطل بسيط» لا يكفي للتسعير: سجل متى يحدث، وهل يتكرر بعد التشغيل، وصوّر أو صوّت العَرَض دون تعريض نفسك للخطر. يجب أن يوضح الفني الفرق بين تكلفة التشخيص وتكلفة القطعة والعمل، وأن يتوقف عند مؤشرات الخطر الكهربائي أو تسرب المياه حتى يتولى المختص الفحص. استلم اختبار تشغيل واسم القطعة المستبدلة وشرحًا لما لم يُعالج.",
+          "bodyEn": "Calling a fault 'minor' does not establish its cause or cost. Record when it occurs, whether it recurs after restarting and safe photographs or recordings of symptoms. The technician should separate diagnosis, parts and labour, and refer electrical hazards or active water leaks for appropriate specialist checks. Receive an operational test, identification of replaced components and an explanation of anything left unresolved."
+        }
+      ]
+    },
+    {
+      "slug": "integrated-finishing",
+      "services": [
+        {
+          "nameAr": "تشطيب الفلل",
+          "nameEn": "Villa finishing",
+          "bodyAr": "تشطيب الفيلا يبدأ بتحديد مستوى التسليم: هل الهيكل والتمديدات جاهزة أم يشمل العرض أعمال تأسيس؟ أرفق مخططات الطوابق ومساحات الغرف والحمامات، وحدد الأرضيات والأسقف والأبواب والدهانات ومواقع الإنارة. اطلب جدول كميات ومواصفات لكل بند، وتسلسلًا يسبق فيه اختبار السباكة والكهرباء إغلاق الجبس والكسوات. عند المقارنة افصل المواد عن التركيب والهدر والضمان، واستلم محاضر اختبارات وصور الأعمال المخفية وقائمة ملاحظات نهائية.",
+          "bodyEn": "Villa finishing starts by defining the handover level: are the structure and services already complete, or is first-fix work included? Supply floor plans, room and bathroom areas, and choices for floors, ceilings, doors, paint and lighting points. Request measured quantities and specifications for each trade, with plumbing and electrical testing before ceilings or cladding are closed. Compare material supply, labour, waste allowances and warranties separately. At handover collect test records, concealed-work photographs and a signed defects list."
+        },
+        {
+          "nameAr": "تشطيب الشقق",
+          "nameEn": "Apartment finishing",
+          "bodyAr": "تشطيب الشقة يتأثر بحدود العمل داخل الوحدة وبحماية الممرات والمصاعد المشتركة. جهز مخطط الغرف وارتفاعات الأسقف وصور حالة المطبخ والحمامات، وحدد ما سيُزال وما سيُحتفظ به. يجب أن يوضح العرض طريقة نقل المواد والمخلفات، والعزل في المناطق الرطبة، وتوافق الأرضيات الجديدة مع مناسيب الأبواب. افحص ميول الحمامات والفواصل وتشغيل المقابس والإنارة قبل توقيع الاستلام.",
+          "bodyEn": "Apartment finishing must account for work within the unit and protection of shared corridors and lifts. Provide room plans, ceiling heights and photographs of the existing kitchen and bathrooms; identify what will be removed and retained. Quotations should cover material and waste movement, wet-area waterproofing and transitions between new floors and door thresholds. Inspect bathroom falls, joints, socket operation and lighting before accepting the work."
+        },
+        {
+          "nameAr": "تشطيب المحلات",
+          "nameEn": "Shop finishing",
+          "bodyAr": "في تشطيب محل تجاري، لا يكفي وصفه بأنه «جاهز للافتتاح»؛ اذكر النشاط المقصود ومساحة العرض والتخزين ومواقع نقاط الكهرباء والإنارة والتكييف واللافتة. اطلب مخطط توزيع ومواصفات للأسطح المعرضة للاستخدام المتكرر، وحدد مسؤولية أعمال الواجهة والأنظمة المتخصصة منفصلة. قارن عروض المقاولين على أساس نفس الرسومات والكميات، واستلم تشغيل التجهيزات وسجل العيوب دون افتراض أي موافقة تنظيمية.",
+          "bodyEn": "A shop described as 'ready to open' still needs a precise fit-out scope. State the intended use, sales and storage areas, power points, lighting, cooling and signage positions. Ask for a layout and durable surface specifications, and identify façade or specialist-system work as separate responsibilities. Compare contractors against identical drawings and quantities. Test the fitted equipment and record defects at handover; do not assume any regulatory approval has been obtained."
+        },
+        {
+          "nameAr": "تشطيب المكاتب",
+          "nameEn": "Office finishing",
+          "bodyAr": "تشطيب المكتب يحتاج ربط توزيع محطات العمل بقنوات البيانات والكهرباء والإضاءة والصوتيات والتهوية. قدم عدد المستخدمين، مخطط الغرف والاجتماعات، مواقع الطابعات والخوادم، ومواعيد السماح بالأعمال. اطلب عينات للأرضيات والفواصل ومعايير أداء الأبواب، وجدولًا لاختبار الدوائر والشبكة قبل تركيب الأثاث. عند الاستلام اختبر نقاط العمل عمليًا وتأكد من عدم حجب مخارج الخدمات والصيانة.",
+          "bodyEn": "Office finishing should coordinate workstation layouts with data, power, lighting, acoustics and ventilation. Provide staff numbers, meeting-room plans, printer and server positions, and permitted working windows. Request floor and partition samples, door performance details and a testing sequence for circuits and network points before furniture installation. At handover test actual workstations and check that service and maintenance access remains clear."
+        },
+        {
+          "nameAr": "تجديد المساحات الداخلية",
+          "nameEn": "Interior refurbishment",
+          "bodyAr": "عند تجديد مساحة داخلية مأهولة، افصل أعمال الفك والحماية عن أعمال الإصلاح والتشطيب الجديد. صور الأسطح القائمة وسجل التشققات والرطوبة ومناسيب الأرضيات قبل الاتفاق، ثم حدد الغرف التي يجب أن تظل قابلة للاستخدام. قارن تكلفة معالجة الأسباب الخفية مع تكلفة تغيير المظهر وحده، واشترط عينات مطابقة للألوان والخامات، وفحصًا نهائيًا للحواف والأبواب والنظافة بعد إزالة الحواجز.",
+          "bodyEn": "For an occupied interior refurbishment, separate removal and protection from repairs and new finishes. Photograph existing surfaces, record cracks, moisture and floor levels, and identify rooms that must remain usable. Compare the cost of treating hidden defects with cosmetic replacement alone. Agree on real colour and material samples, then inspect edges, doors and final cleanliness after protective screens are removed."
+        },
+        {
+          "nameAr": "تنفيذ أعمال الديكور",
+          "nameEn": "Decorative fit-out",
+          "bodyAr": "تنفيذ الديكور ليس مجرد تركيب ألواح؛ ابدأ برسم يحدد الجدران والأبعاد والعمق النهائي ومواقع الإنارة والمفاتيح وفتحات التكييف. اختر المواد بحسب الاستخدام والرطوبة وقابلية التنظيف، واطلب تفاصيل تثبيت الزوايا والحواف وأماكن الوصول للصيانة. قارن عينات فعلية ورسومات تنفيذية بدل صور مرجعية فقط، واستلم استقامة الوصلات وتجانس اللون وسلامة التثبيت والإضاءة.",
+          "bodyEn": "Decorative fit-out needs more than a reference photograph. Start with a dimensioned drawing showing wall build-ups, finished depths, lighting, switches and air-conditioning access. Choose materials for the room's use, moisture exposure and cleaning needs, and require fixing details for edges, corners and removable service panels. Compare physical samples and shop drawings. Check joint alignment, colour consistency, secure fixing and lighting operation at handover."
+        },
+        {
+          "nameAr": "تسليم التشطيبات المتكاملة",
+          "nameEn": "Complete finishing handover",
+          "bodyAr": "تسليم التشطيبات المتكاملة مرحلة فحص منظمة، لا مجرد تنظيف الموقع وتسليم المفتاح. اطلب قائمة بنود مرتبطة بالمخططات والعقد، ومحاضر اختبار العزل والكهرباء والسباكة، وضمانات المواد وكتيبات التشغيل. افحص كل غرفة بالإضاءة الطبيعية والصناعية، واختبر الأبواب والمصارف والمقابس وسجل الملاحظات بالصور ومواعيد الإصلاح. لا تغلق المحضر إلا بعد إعادة فحص البنود المصححة وتوثيق الاستثناءات.",
+          "bodyEn": "Integrated finishing handover is a documented inspection, not simply a cleaned site and a set of keys. Request a contract-linked checklist, waterproofing, electrical and plumbing test records, product warranties and operating manuals. Inspect every room in daylight and artificial light, operate doors, drains and sockets, and log defects with photographs and rectification dates. Close the record only after reinspection of corrected items and written agreement on exceptions."
+        }
+      ]
+    },
+    {
+      "slug": "gypsum-decor",
+      "services": [
+        {
+          "nameAr": "تركيب أسقف الجبس",
+          "nameEn": "Gypsum ceiling installation",
+          "bodyAr": "قبل اختيار سقف جبس مستعار، قِس الارتفاع الصافي بعد النزول في كل غرفة، وحدد مجاري التكييف وكواشف الحريق والإنارة وفتحات الوصول إلى المحابس والوصلات. أرفق مخططًا يبين مناسيب السقف ومواقع التعليقات، واطلب تحديد نوع اللوح المناسب للغرفة وسماكته ونظام القطاعات والتثبيت ومعالجة الفواصل. لا تقارن عروض المتر المربع وحدها: افصل الفتحات وبيت النور والدهان وفتحات الصيانة. قبل إغلاق السقف افحص الخدمات المخفية، ثم تحقق من استواء الأسطح وثبات الأطراف وعدم تشقق الوصلات بعد التشطيب.",
+          "bodyEn": "Before approving a suspended plasterboard ceiling, measure the clear finished height in every room and locate AC ducts, fire detectors, luminaires and access points for valves and connections. Supply a reflected ceiling plan with levels and hanger positions. Ask bidders to identify board grade and thickness, framing and fixing systems, and joint treatment. Compare access hatches, lighting recesses and painting separately from the square-metre rate. Inspect concealed services before closure, then check levelness, perimeter restraint and finished joints for movement or cracks."
+        },
+        {
+          "nameAr": "تنفيذ الجدران الجبسية",
+          "nameEn": "Gypsum partition construction",
+          "bodyAr": "عند تقسيم غرفة بقاطع جبس، ارسم خط الجدار والارتفاع وفتحات الأبواب، وصوّر نقاط الكهرباء والتكييف ومسارات الحركة. اسأل عن عدد طبقات الألواح وسماكتها، وتباعد القطاعات المعدنية، والحشوة الصوتية المطلوبة، والتدعيم خلف التلفاز أو الخزائن؛ فالقاطع الخفيف لا يحمل كل الأوزان تلقائيًا. ينبغي أن يفصل عرض السعر بين الهيكل والعزل والتمديدات ومعالجة المفاصل والدهان. استلم مواقع الأبواب والمقابس وفق الرسم، واختبر ثبات القاطع واستقامته وجودة معالجة الزوايا.",
+          "bodyEn": "A plasterboard partition needs more than a line on the floor. Mark its height, door openings, socket positions and circulation clearance, with photographs of nearby services. Specify board layers, stud spacing, acoustic infill and backing for any television or wall-mounted cabinet; lightweight partitions cannot be assumed to support arbitrary loads. Ask for separate prices for framing, insulation, services, joint finishing and painting. At handover, verify openings and outlets against the drawing, test rigidity and inspect straightness and corner finish."
+        },
+        {
+          "nameAr": "تنفيذ بيت النور",
+          "nameEn": "Cove lighting construction",
+          "bodyAr": "بيت النور عنصر إضاءة وصيانة معًا، وليس مجرد تجويف ديكوري. قدّم مقطعًا مرسومًا يوضح عرض التجويف وعمقه وبعد شريط الإضاءة عن الحائط، مع طول كل مسار وموقع التغذية الكهربائية. اطلب نوع شريط LED وملفه الناشر ومزود الطاقة وطريقة تبديد الحرارة وإمكانية استبدال القطع دون هدم الجبس. قارن عروض التنفيذ مع الإضاءة والتوصيلات منفصلة، ثم جرّب الإضاءة في الظلام وفي ضوء النهار لرصد تفاوت السطوع والوهج والظلال غير المرغوبة.",
+          "bodyEn": "A concealed-light cove must allow both good illumination and future maintenance. Provide a section drawing showing cove width, depth and setback, plus each run length and electrical feed location. Request details of the LED strip, diffuser, driver, heat management and how components can be replaced without breaking the plasterboard. Compare cove construction, lighting equipment and electrical connections as distinct items. Test the finished effect in daylight and darkness for uneven brightness, glare and unwanted shadow lines."
+        },
+        {
+          "nameAr": "تنفيذ الديكورات الجبسية",
+          "nameEn": "Gypsum decorative work",
+          "bodyAr": "في الكرانيش والأقواس والزخارف الجبسية، يحدد الرسم التنفيذي شكل الحافة ونصف قطر المنحنى وعمق البروز أكثر من الصورة المرجعية وحدها. أرفق مقاسات الحائط والسقف والعناصر المجاورة، واطلب نموذجًا صغيرًا للتفاصيل المعقدة قبل اعتماد التنفيذ. قارن هل يشمل السعر التشكيل والدعامات ومعالجة الفواصل والصنفرة والدهان، ومن المسؤول عن إصلاح التشققات الناتجة عن ضعف التثبيت. عند الاستلام افحص تكرار الوحدات وتناسق الزوايا وتطابق الخطوط تحت إضاءة جانبية تكشف العيوب.",
+          "bodyEn": "For gypsum cornices, arches and mouldings, a dimensioned detail matters more than a reference photograph alone. Record wall and ceiling dimensions, projection depths and curve radii, and request a sample of complicated profiles before full installation. Check whether shaping, supports, joint treatment, sanding and painting are all included in the price, with responsibility for defects arising from inadequate fixing clearly stated. Inspect repeated elements, matching corners and consistent lines under side lighting that reveals surface imperfections."
+        },
+        {
+          "nameAr": "تركيب ألواح بديل الخشب",
+          "nameEn": "Wood-effect panel installation",
+          "bodyAr": "ألواح بديل الخشب تختلف في مادتها ومقاومتها للرطوبة والخدش وطريقة تثبيتها، فلا يكفي اختيار اللون من صورة هاتف. أرسل طول الجدار وارتفاعه ومواقع الأبواب والمفاتيح والزوايا، واطلب عينة فعلية مع بيان سماكة اللوح وطريقة قصه ونهاياته. يجب أن يوضح العرض تجهيز السطح واللاصق أو التثبيت الميكانيكي والقطع الاحتياطية والفواصل. افحص اتجاه الشرائح وانتظام الوصلات وعدم انفصال الأطراف أو إعاقة فتح الأبواب، وتجنب ترك وصلات مكشوفة قرب مصادر المياه.",
+          "bodyEn": "Wood-look cladding panels vary in composition, scratch and moisture resistance and fixing method. Measure wall height and width, door swings, sockets and corners, then approve a physical sample rather than relying on a phone image. Obtain panel thickness, cutting and edge-trim details, and a price that identifies substrate preparation, adhesive or mechanical fixing, spare pieces and joints. At handover, check slat direction, consistent gaps, secure edges and unobstructed door movement; exposed joints near water need particular attention."
+        },
+        {
+          "nameAr": "تركيب ألواح بديل الرخام",
+          "nameEn": "Marble-effect panel installation",
+          "bodyAr": "قبل تركيب بديل الرخام، حدد هل السطح جاف أم معرض لرذاذ الماء أو حرارة الطهي؛ فالمظهر الرخامي لا يعني تحمل كل استخدام. قِس الارتفاع والعرض وفتحات المقابس، وحدد اتجاه العروق في مخطط بسيط لتجنب اختلاف النقشة بين الألواح. اطلب مواصفات المادة والسماكة واللاصق والتشطيب حول الزوايا، وقارن احتساب الهدر والقص وتفكيك الكسوة القديمة. استلم استواء السطح والتقاء النقوش وثبات الحواف، ولا تسمح بتغطية رطوبة أو انتفاخ في الجدار دون معالجة السبب.",
+          "bodyEn": "Before choosing marble-effect sheets, establish whether the wall faces splashing water or cooking heat; a marble appearance is not evidence of suitability for every application. Measure wall openings and outlets and draw the intended vein direction to avoid mismatched patterns. Ask for material composition, sheet thickness, adhesive and corner-finishing specifications. Compare removal of old finishes, cutting waste and substrate preparation separately. Inspect flatness, pattern continuity and edge adhesion, and do not conceal damp or swollen wall finishes without fixing the source."
+        },
+        {
+          "nameAr": "صيانة وإصلاح الجبس",
+          "nameEn": "Gypsum maintenance and repair",
+          "bodyAr": "شق في فاصل الجبس يختلف عن انتفاخ لوح بعد تسرب مياه أو هبوط جزء من السقف. صوّر العيب من قرب ومن مسافة، وحدد طوله وتاريخ ظهوره وما إذا كان يتسع أو يصاحبه بلل. اطلب كشف السبب قبل تسعير المعجون والدهان؛ قد يلزم تبديل اللوح أو إصلاح الهيكل أو إيقاف التسرب. قارن الإصلاح الموضعي باستبدال الجزء المتضرر مع ذكر حماية الأثاث ونقل المخلفات. استلم سطحًا جافًا متماسكًا ومستوياً، وافحصه بعد جفاف الطلاء وليس فور فرد المعجون.",
+          "bodyEn": "A cracked plasterboard joint is different from a swollen sheet after a leak or a sagging ceiling section. Photograph the defect in context and close up, record its length and onset, and note any spreading or moisture. Require diagnosis before pricing filler and paint: the board, framing or water source may need repair. Compare local patching with replacing the affected section, including furniture protection and waste removal. Accept only a dry, sound, even surface and inspect paint matching after it has cured."
+        }
+      ]
+    },
+    {
+      "slug": "flooring-cladding",
+      "services": [
+        {
+          "nameAr": "تركيب السيراميك",
+          "nameEn": "Ceramic tile installation",
+          "bodyAr": "ابدأ بمخطط يوضح مساحة البلاط على الأرض والجدران وأماكن الصفايات والأبواب، ثم حدد مقاس السيراميك واتجاه الصفوف ومواقع القطع الصغيرة. في الحمامات افحص ميول الأرضية واختبار العزل قبل إخفائه؛ وفي الغرف افحص استواء طبقة التأسيس. اطلب في العرض فصل التكسير والترحيل والتسوية واللاصق والروبة والوزرات، وتحديد طريقة معالجة الفواصل. عند الاستلام اختبر تصريف الماء، واستقامة الخطوط، وثبات البلاطات، ونظافة الحواف حول الأدوات الصحية.",
+          "bodyEn": "Start with a measured floor and wall layout showing drains, doorways, tile sizes and the intended laying direction. In bathrooms, check drainage falls and test waterproofing before it is concealed; in dry rooms, assess substrate flatness. Ask quotations to separate removal, disposal, levelling, adhesive, grout and skirting, with joint treatment specified. At handover, test drainage and inspect alignment, bedding and neat cuts around sanitary fixtures."
+        },
+        {
+          "nameAr": "تركيب البورسلان",
+          "nameEn": "Porcelain tile installation",
+          "bodyAr": "البورسلان كبير المقاس يحتاج مراجعة استواء الأرضية وطريقة حمل الألواح وقصها قبل طلب الكميات؛ أرسل الأبعاد وصور المداخل والمصعد إن كان النقل داخليًا. اسأل عن لاصق ملائم للمقاس والسطح، وطريقة توزيع المادة أسفل البلاطة والفواصل المرنة عند حدود الحركة. لا تقارن سعر المتر دون معرفة سماكة البلاط ونسبة الهدر والتجهيز والقص. افحص تفاوت ارتفاع الحواف، وانتظام الفواصل، وعدم وجود بلاطات متحركة أو كسور عند التسليم.",
+          "bodyEn": "Large-format porcelain calls for a substrate flatness check and a handling and cutting plan. Supply dimensions and photographs of access routes, including lifts where relevant. Specify a suitable adhesive system, coverage beneath slabs and movement joints. Compare thickness, cutting allowance, surface preparation and edge detailing rather than unit rate alone. Inspect lippage, consistent joints, cracks and loose tiles before acceptance."
+        },
+        {
+          "nameAr": "تركيب الباركيه",
+          "nameEn": "Parquet installation",
+          "bodyAr": "حدد أولًا هل المطلوب باركيه خشبي طبيعي أم هندسي أم منتجًا يشبه الخشب؛ تختلف متطلبات الرطوبة والتثبيت والعناية. صوّر الأرضية القائمة وحدد أطوال الغرف واتجاه الضوء والأبواب، واطلب قياس رطوبة القاعدة عند الحاجة. ينبغي أن يوضح العرض البطانة والعزل الصوتي أو البخاري، وفراغات التمدد والوزرات وتقصير الأبواب إن لزم. عند الاستلام امشِ على كامل المساحة لفحص الصرير والفراغات والانتفاخ، واستلم تعليمات التنظيف والضمان.",
+          "bodyEn": "First establish whether the product is solid wood, engineered wood or a wood-look alternative: moisture tolerance and installation methods differ. Share room measurements, existing floor photographs and doorway levels; request substrate moisture checks where appropriate. The quote should identify underlay, vapour or acoustic control, expansion gaps, skirting and any door trimming. Walk the completed floor to check squeaks, gaps and swelling, and obtain care and warranty instructions."
+        },
+        {
+          "nameAr": "تركيب الفينيل",
+          "nameEn": "Vinyl flooring installation",
+          "bodyAr": "أرسل مساحة الغرفة وحالة السطح وصور الزوايا والعتبات، وحدد هل الفينيل ألواح متشابكة أم لفائف ملصوقة؛ طريقة التأسيس مختلفة. يتطلب السطح إزالة النتوءات ومعالجة الرطوبة قبل التركيب، ولا يخفي الفينيل عيوب القاعدة. قارن سماكة طبقة الاستخدام، وطريقة اللحام أو الوصل، والوزرات والانتقالات عند الأبواب. افحص تلاصق الحواف وعدم ظهور فقاعات أو انفصال عند الاستلام، وتأكد من ملاءمة المنتج لطبيعة الاستخدام والتنظيف.",
+          "bodyEn": "Provide room dimensions, substrate condition and photographs of corners and thresholds. State whether the proposed vinyl is click-fit plank or bonded sheet, since preparation and jointing differ. High spots and moisture must be addressed before laying; vinyl will not correct a poor base. Compare wear-layer specification, seams, skirting and doorway transitions. Inspect for bubbles, lifting edges and open joints, and confirm suitability for the intended cleaning regime."
+        },
+        {
+          "nameAr": "تركيب الإنترلوك",
+          "nameEn": "Interlock paving installation",
+          "bodyAr": "قبل تركيب الإنترلوك، قِس طول الممر أو الموقف وعرضه وحدد حركة المشاة أو السيارات واتجاه تصريف المياه. اطلب تفصيل الحفر والدك وطبقة الأساس والرمل وحواف التثبيت وسماكة القطع بحسب الاستخدام، بدل تسعير البلاط وحده. يجب تحديد مناسيب الأبواب والمصارف ومنع توجيه الماء نحو المبنى. عند الاستلام افحص ثبات الحواف وانتظام الفواصل والميول وعدم هبوط المناطق بعد المرور التجريبي، مع توثيق طبقات التأسيس قبل تغطيتها.",
+          "bodyEn": "Measure the path or parking area, identify pedestrian versus vehicle loading and mark the required drainage direction. Ask for excavation, compaction, sub-base, bedding, edge restraints and paver thickness as separate scope items rather than a paver-only price. Check levels at doors and drains so runoff does not enter the building. At handover, inspect firm edges, even joints, falls and settlement under trial use, with photographs of concealed base layers."
+        },
+        {
+          "nameAr": "تركيب كسوات الجدران",
+          "nameEn": "Wall cladding installation",
+          "bodyAr": "كسوة الجدار قد تكون حجرًا أو سيراميك أو ألواحًا زخرفية؛ أرسل صورة الجدار وأبعاده ومواقع المقابس والفتحات وحدد مادة الكسوة ووزنها. افحص قدرة القاعدة على تحمل نظام التثبيت، خاصة للألواح الثقيلة أو الواجهات الرطبة، وحدد إن كان التثبيت لاصقًا أو ميكانيكيًا وفق تصميم مناسب. قارن تجهيز السطح والزوايا والفواصل وحواف التشطيب وفتحات الخدمات. عند الاستلام تحقق من المحاذاة وثبات العناصر وسهولة الوصول إلى نقاط الصيانة.",
+          "bodyEn": "Wall cladding may use stone, ceramic or decorative panels. Supply wall dimensions and photographs showing sockets, openings and substrate condition, then specify material and weight. Assess whether the wall and fixing method can carry the proposed finish, particularly for heavy panels or wet locations; adhesive and mechanical systems are not interchangeable. Compare preparation, corners, joints and access to service points. Inspect alignment, secure fixing and finished edges."
+        },
+        {
+          "nameAr": "إصلاح الأرضيات",
+          "nameEn": "Floor repairs",
+          "bodyAr": "لا تبدأ بإبدال البلاط المتشقق قبل تحديد سبب الكسر أو الانفصال؛ صوّر موضع العيب مع البلاطات المجاورة وحدد هل هناك رطوبة أو هبوط أو حركة في القاعدة. اطلب عرضًا يفصل إزالة القطع، وفحص السطح وإصلاحه، وتوفير بلاط مطابق أو بديل متفق عليه، وإعادة الروبة والتنظيف. إذا كان الإصلاح في منطقة مبللة فحدد كيفية استعادة العزل واختباره. استلم سطحًا مستويًا ثابتًا بلا حواف حادة أو فرق لون غير متفق عليه.",
+          "bodyEn": "Investigate why a tile cracked or detached before replacing it. Photograph the defect and adjacent tiles and check for moisture, substrate movement or settlement. Ask the quote to distinguish removal, substrate repair, matching replacement, regrouting and cleanup. For wet areas, specify how waterproofing will be reinstated and checked. Accept an even, secure surface with safe edges and no unagreed colour mismatch."
+        }
+      ]
+    },
+    {
+      "slug": "electrical-installations",
+      "services": [
+        {
+          "nameAr": "تأسيس كهرباء المباني",
+          "nameEn": "Building electrical installation",
+          "bodyAr": "قبل تأسيس كهرباء مبنى أو ملحق بأبوظبي، جهّز مخططًا يحدد مواقع أجهزة التكييف والمطبخ والسخانات والإنارة والمخارج، مع قدرة كل جهاز ومكان اللوحة. لا يكفي عدّ النقاط: يجب على المختص توزيع الدوائر واختيار مقاطع الموصلات ووسائل الحماية وفق التصميم المعتمد. اطلب من المنفذ تسعير المواسير والأسلاك واللوحات والتكسير وإعادة الإغلاق كلًّا على حدة. صوّر مسارات المواسير قبل تغطيتها، واستلم جدول الدوائر ونتائج الفحص الكهربائي والمخطط المطابق للتنفيذ.",
+          "bodyEn": "Before wiring a building or annex in Abu Dhabi, prepare a room plan showing air conditioners, kitchen equipment, water heaters, lights and sockets, with appliance ratings and the proposed distribution board. Counting outlets is not an electrical design: a qualified specialist must determine circuit allocation, conductor sizes and protective devices for the approved scheme. Ask bidders to separate containment, cables, boards, wall chasing and reinstatement. Photograph concealed conduits before closure, and receive a labelled circuit schedule, relevant test results and as-built drawings."
+        },
+        {
+          "nameAr": "تمديد الأسلاك والكابلات",
+          "nameEn": "Wire and cable installation",
+          "bodyAr": "إذا كانت المهمة تمديد كابل لمكيف جديد أو إعادة تغذية غرفة، فاذكر نقطتي البداية والنهاية والمسافة التقريبية ونوع المسار: داخل مواسير مدفونة أو فوق سقف مستعار أو في مسار خارجي. يتغير الاختيار الفني بحسب الحمل وطول المسار وظروف الحرارة والتجميع، وليس بحسب سعر المتر وحده. قارن عروض التوريد والتركيب بعد تحديد مادة الموصل ومقطعه وطريقة حماية المسار والوصلات. قبل إغلاق الجدران اطلب صور التمديدات وفحوص العزل والاستمرارية المناسبة بواسطة فني مؤهل.",
+          "bodyEn": "For a new air-conditioner feed or a replacement run to a room, show the start and end points, approximate distance and whether the route is concealed, above a false ceiling or outdoors. Cable selection depends on load, length, temperature and grouping, not simply the cheapest price per metre. Compare the conductor material and size, containment, termination protection and installation labour. Before finishes are closed, request route photographs and appropriate insulation and continuity test records from a qualified technician."
+        },
+        {
+          "nameAr": "تركيب لوحات التوزيع",
+          "nameEn": "Distribution board installation",
+          "bodyAr": "عند تركيب لوحة توزيع جديدة أو توسيع لوحة قائمة، أرسل صورة واضحة للوحة الحالية وبيانات التغذية وقائمة الدوائر والمكيفات والسخانات المراد خدمتها. راجع مع المختص مساحة اللوحة، توزيع الأحمال، التمييز بين دوائر الإنارة والمقابس، وإمكانية عزل الدوائر بأمان. ينبغي أن يفصل العرض بين جسم اللوحة والقواطع وأجهزة الحماية والتمديدات وأعمال التعديل. الاستلام ليس تشغيل الكهرباء فقط؛ احتفظ بمخطط اللوحة وتسميات واضحة للدوائر ونتائج اختبارات الحماية والتأريض.",
+          "bodyEn": "For a new distribution board or an extension of an existing one, supply clear photographs of the current board, available supply information and the proposed circuits and appliances. Have a specialist assess board capacity, circuit allocation, isolation and protection rather than assuming that spare physical slots mean spare electrical capacity. Quotes should itemise enclosure, breakers, protective devices, wiring and associated modifications. Handover should include a legible circuit directory, board layout and earthing and protection test results, not merely confirmation that power is on."
+        },
+        {
+          "nameAr": "تركيب المقابس والمفاتيح",
+          "nameEn": "Socket and switch installation",
+          "bodyAr": "لتجهيز عرض تركيب مقابس ومفاتيح، ضع علامات على صور الجدران تبين عدد النقاط وارتفاعاتها والأجهزة التي ستوصل بها، وحدد إن كانت النقطة بديلة لمقبس قديم أم تتطلب تمديدًا جديدًا. المقابس في الأماكن الرطبة أو الخارجية تحتاج تقييمًا مختلفًا عن غرفة جافة، ولا يجوز افتراض ملاءمة أي قطعة بمجرد تشابه شكلها. اطلب بيان ماركة الملحقات وقدرتها وأعمال فتح الجدار وإعادة التشطيب. عند الاستلام افحص ثبات الأغطية وسلامة التشغيل والقطبية والتأريض حسب نوع الدائرة.",
+          "bodyEn": "Mark photographs or a floor plan with socket and switch quantities, mounting heights and the appliances they will serve. Distinguish a like-for-like replacement from a new circuit or an extended outlet; wet or exposed locations require a different suitability assessment from dry rooms. Compare accessory make and rating, wiring, wall opening and reinstatement as separate scope items. At handover check secure faceplates, correct operation, polarity and earthing as appropriate to the circuit."
+        },
+        {
+          "nameAr": "تمديد كهرباء الملاحق",
+          "nameEn": "Electrical installation for annexes",
+          "bodyAr": "قبل تمديد التغذية الكهربائية لملحق سكني، احصر أجهزة التكييف والسخانات والمطبخ والإنارة المتوقعة، وحدد المسافة من اللوحة الرئيسية وطبيعة مرور الكابل بين المبنيين. لا تكتفِ بطلب «سلك للملحق»؛ فالمسار الخارجي والتأريض والحماية وسعة التغذية الحالية عناصر تؤثر في الحل. قارن عروض المقاولين على أساس مخطط التغذية والحفر أو المواسير الخارجية واللوحة الفرعية وإعادة الأرضيات. يجب اختبار الدوائر وتوثيقها قبل الإشغال، ومراجعة أي موافقات لازمة مع المختص والجهة المعنية بدل افتراضها.",
+          "bodyEn": "Before supplying an annex, list expected air-conditioning, water-heating, cooking and lighting loads, the distance from the main board and how the cable will pass between buildings. A request for 'one power cable' misses outdoor containment, earthing, protective devices and existing supply capacity. Compare quotations using the proposed supply route, excavation or surface containment, sub-board and reinstatement. Require circuit tests and records before occupation; have the responsible specialist confirm any necessary approvals rather than assuming they apply or have been granted."
+        },
+        {
+          "nameAr": "إعادة تأهيل الشبكات",
+          "nameEn": "Electrical network upgrades",
+          "bodyAr": "إعادة تأهيل تمديدات قديمة تبدأ بكشف سبب فصل القواطع أو سخونة المقابس أو تلف العزل، لا بإزالة جميع الأسلاك فورًا. جهّز سجلًا للأعطال وصور اللوحات والمخارج وحدد الغرف التي يمكن إخلاؤها أثناء العمل. اطلب تقرير فحص يميز بين دوائر تحتاج إصلاحًا محدودًا وأخرى يلزم استبدالها، مع خطة عزل آمنة وإعادة تشطيب الجدران. قارن تكلفة التشخيص والمواد والاختبارات والضمان على كل نطاق؛ واستلم جدول دوائر محدثًا ونتائج الفحوص بدل الاكتفاء بتجربة الإضاءة.",
+          "bodyEn": "Rehabilitating old wiring starts by diagnosing nuisance tripping, hot outlets and deteriorated insulation, not by automatically stripping every cable. Provide a fault log, photographs of boards and outlets and access arrangements for occupied rooms. Ask for findings distinguishing circuits suitable for targeted repair from those needing replacement, together with safe isolation and wall reinstatement. Compare diagnosis, materials, tests and warranty by scope. Receive an updated circuit register and measured test records, not just a demonstration that the lights work."
+        },
+        {
+          "nameAr": "فحص الأحمال الكهربائية",
+          "nameEn": "Electrical load inspection",
+          "bodyAr": "إذا أضفت أجهزة تكييف أو سخانات أو مطبخًا جديدًا، فقد تحتاج إلى مراجعة الأحمال قبل تعديل اللوحة. قدم بيانات القدرة المكتوبة على الأجهزة وعددها وساعات استخدامها، وصور اللوحة ومعلومات التغذية المتاحة. على المختص تقدير الطلب المتزامن وتوزيع الدوائر ومراجعة حدود الكابلات والحماية؛ زيادة قيمة القاطع دون دراسة قد تترك الأسلاك غير محمية. اطلب حسابًا مكتوبًا يوضح الافتراضات والتوصيات وأي قياسات فعلية، وقارن عروض الفحص بحسب التقرير والاختبارات لا بعدد الزيارات فقط.",
+          "bodyEn": "Adding air conditioners, heaters or kitchen equipment may require a load review before board changes. Supply nameplate ratings, quantities, expected use and available board and supply details. A competent specialist should evaluate likely simultaneous demand, circuit balance, cable limits and protective coordination; simply fitting a larger breaker can leave wiring inadequately protected. Compare assessments by their written assumptions, measurements, calculations and recommendations, rather than by the number of visits."
+        },
+        {
+          "nameAr": "تركيب الإنارة الداخلية",
+          "nameEn": "Indoor lighting installation",
+          "bodyAr": "في تركيب إنارة غرفة معيشة أو مطبخ، ابدأ بمخطط الأثاث ومناطق القراءة والعمل ومواقع وحدات التكييف، لا بعدد السبوتات وحده. حدد ارتفاع السقف ودرجات حرارة اللون المطلوبة ونوع التعتيم أو التحكم، واطلب توزيعًا يراعي الوهج والظلال فوق الأسطح. قارن العروض على أساس موديل الوحدات وملحقاتها وفتحات الجبس والأسلاك وإمكان تبديل المشغلات مستقبلًا. جرّب الإضاءة مساءً مع الأثاث في موضعه، وتأكد من عمل المفاتيح ومن تجانس اللون دون وميض.",
+          "bodyEn": "Start a living-room or kitchen lighting plan with furniture, reading and work areas and air-conditioning positions, not a target number of downlights. Provide ceiling heights, preferred colour temperature and dimming or switching requirements. Request a layout that limits glare and shadows on worktops. Compare fitting models, drivers, gypsum cut-outs, wiring and future service access. Test the lights in the evening with furniture in place, checking switching, consistent colour and absence of flicker."
+        },
+        {
+          "nameAr": "تركيب الإنارة الخارجية",
+          "nameEn": "Outdoor lighting installation",
+          "bodyAr": "عند إنارة مدخل فيلا أو ممر خارجي، أرفق صورًا ليلًا ونهارًا وحدد أماكن المشاة والسيارات والواجهات التي لا تريد تسليط الضوء عليها. يجب أن يوضح العرض نوع تثبيت الكشافات ومسارات الأسلاك ودرجة الحماية المناسبة للتعرض للماء والغبار، مع فصل أعمال الحفر أو إصلاح الواجهات. اطلب عينة لتوجيه الضوء قبل تثبيت جميع الوحدات. عند الاستلام اختبر التشغيل ليلًا، وإحكام الوصلات والعلب، وعدم إزعاج الجيران أو تعمية السائقين.",
+          "bodyEn": "For villa entrances and exterior paths, provide daylight and night photographs and identify pedestrian and vehicle movement as well as surfaces that should not be illuminated. Quotations should specify mounting, cable routes and enclosure protection suitable for water and dust exposure, with excavation and façade repairs itemised. Test one fitting's beam direction before committing to all positions. At handover inspect the installation at night, check sealed connections and avoid glare to neighbours or drivers."
+        },
+        {
+          "nameAr": "تركيب الثريات",
+          "nameEn": "Chandelier installation",
+          "bodyAr": "الثريا الثقيلة ليست مجرد نقطة إنارة: أرسل وزنها وأبعادها ومخطط تعليقها، مع صورة للسقف تبين هل هو خرساني أم جبس مستعار وارتفاع المكان. ينبغي تقييم نقطة التثبيت الحاملة والقدرة على الوصول إلى التغذية قبل التسعير؛ لا تُعلّق الثريا في لوح جبس وحده. قارن العروض على أساس تجهيز التعليق والرافعة أو السقالة إن لزمت وتجميع القطع والتوصيلات. استلم الثريا مستقيمة ومستقرة، مع اختبار المفاتيح وعدم وجود شد على الكابل الكهربائي.",
+          "bodyEn": "A heavy chandelier is a suspended load as well as a light fitting. Provide its weight, dimensions, mounting instructions, ceiling height and whether the structural slab is concealed by plasterboard. The installer must assess a suitable load-bearing fixing; plasterboard alone is not an adequate support. Compare assembly, access equipment, suspension hardware and electrical connection separately. Receive a level, stable fitting, functioning controls and wiring free from mechanical strain."
+        },
+        {
+          "nameAr": "تنفيذ إنارة مخفية",
+          "nameEn": "Concealed lighting installation",
+          "bodyAr": "لتنفيذ إنارة مخفية داخل بيت نور، قدم مقطعًا أو صورة توضح عمق التجويف وطول كل ضلع ومكان الوصول إلى مزودات الطاقة. لا يكفي تحديد «متر LED»؛ فالنتيجة تتأثر بكثافة الشريط وملف الألمنيوم وتبديد الحرارة وطول التغذية وتوافق التعتيم. قارن العروض مع فصل الشريط والمشغلات والملفات وأعمال الجبس والتوصيل. اختبر التشغيل مدة مناسبة، وراجع انتظام الإضاءة عند الزوايا وسهولة استبدال المشغل دون تكسير.",
+          "bodyEn": "For cove lighting, supply a section drawing or photograph showing recess depth, each run length and access to drivers. Pricing solely by metres of LED strip ignores strip density, aluminium profiles, heat dissipation, feed length and dimming compatibility. Compare strips, drivers, profiles, gypsum work and wiring as separate items. Run the lights long enough to inspect consistent output at corners, heat management and the ability to replace a driver without breaking finishes."
+        },
+        {
+          "nameAr": "تركيب إنارة الحدائق",
+          "nameEn": "Garden lighting installation",
+          "bodyAr": "قبل إنارة الحديقة، ارسم أماكن الأشجار والممرات وخطوط الري والرشاشات ومصدر الكهرباء، واذكر المناطق التي تُغسل بالماء بانتظام. اطلب تصميمًا يوضح ارتفاع الكشافات واتجاهها ومسار الكابلات المدفونة ونظام الحماية الملائم، حتى لا تتعارض أعمال الكهرباء مع الري أو الحفر لاحقًا. قارن العرض بحسب عدد النقاط والتوصيلات وعلب الحماية وإعادة التربة. استلم مخطط المسارات وصور ما قبل الردم، واختبر الإنارة بعد الغروب مع تشغيل الري عند الحاجة.",
+          "bodyEn": "Before lighting a garden, map trees, paths, irrigation pipes, sprinklers and the supply point, identifying areas regularly washed or watered. Ask for a layout showing beam direction, mounting height, buried cable routes and suitable protection so later irrigation work does not damage wiring. Compare connection points, protective enclosures, trench reinstatement and testing. Receive photographs before backfilling and an as-built route plan; inspect the lighting after dusk, including interaction with irrigation where relevant."
+        },
+        {
+          "nameAr": "تركيب حساسات الحركة",
+          "nameEn": "Motion sensor installation",
+          "bodyAr": "حساس الحركة المناسب لمدخل السيارة قد لا يصلح لممر داخلي أو درج؛ حدد مساحة الكشف واتجاه الاقتراب ومدة بقاء الضوء بعد الحركة، وأرسل صورًا لمواقع التثبيت. ناقش مع الفني تأثير الحيوانات الصغيرة أو حركة الأشجار أو مصادر الحرارة على التشغيل غير المقصود، ونوع الحساس وملاءمته للمكان. قارن التوريد والبرمجة وتمديد الأسلاك إن لزم. جرّب الاقتراب من اتجاهات متعددة، واضبط الحساسية والتأخير قبل اعتماد الاستلام.",
+          "bodyEn": "A motion sensor suitable for a driveway may not suit an indoor corridor or stairwell. Describe the approach direction, detection area, desired switch-off delay and proposed mounting position with photographs. Discuss false triggers from pets, moving vegetation or heat sources, as well as sensor type and environmental suitability. Compare equipment, wiring and setup. Test approaches from several directions and adjust sensitivity and delay before acceptance."
+        },
+        {
+          "nameAr": "صيانة وحدات الإنارة",
+          "nameEn": "Lighting fixture maintenance",
+          "bodyAr": "عند تعطل مجموعة إنارة، سجّل هل الخلل مستمر أم متقطع وهل يتأثر بمفتاح معين، وصوّر ملصق الوحدة إن أمكن. قد يكون السبب المصباح أو مشغل LED أو اتصالًا مرتخيًا أو مشكلة في التغذية؛ لذلك لا توافق على استبدال جميع الوحدات قبل تشخيص السبب. اطلب فصل أجرة الوصول المرتفع أو فك السقف عن سعر القطع، مع بيان توافق البدائل. بعد الإصلاح جرّب التشغيل المتكرر وافحص ثبات الوحدات وعدم الوميض، واحتفظ ببيانات القطع المستبدلة.",
+          "bodyEn": "When several lights fail, record whether the fault is constant or intermittent and whether it follows a particular switch; photograph the fitting label if accessible. The cause may be a lamp, LED driver, loose connection or supply fault, so do not approve wholesale replacement before diagnosis. Separate high-access labour or ceiling removal from component prices, and confirm replacement compatibility. After repair, cycle the lights, check secure mountings and flicker-free operation, and retain the details of replaced parts."
+        }
+      ]
+    },
+    {
+      "slug": "sanitary-installations",
+      "services": [
+        {
+          "nameAr": "تأسيس شبكات المياه",
+          "nameEn": "Water network installation",
+          "bodyAr": "قبل تأسيس شبكة المياه في فيلا بأبوظبي، اطلب مخطط نقاط التغذية ومسارات المواسير وأقطارها ونوعها، مع فصل خطوط البارد والساخن ومواقع محابس العزل. وثّق أطوال المسارات ومناسيب الأجهزة قبل إغلاق الجدران، واطلب عرضًا يفصل التكسير والتركيب والاختبار وإعادة التشطيب. الاستلام يكون بعد اختبار الضغط الموثق، وفحص الوصلات وإمكانية الوصول إلى المحابس، لا بمجرد تدفق الماء.",
+          "bodyEn": "For a new water supply network in a Abu Dhabi villa, provide a drawing showing fixture feeds, pipe routes, diameters, materials, hot and cold lines, and isolation valves. Record route lengths and fixture levels before walls are closed. Quotations should separate opening-up, installation, testing and reinstatement. Accept the work only after a documented pressure test, joint inspection and confirmation that valves remain accessible—not merely because water flows."
+        },
+        {
+          "nameAr": "تأسيس شبكات الصرف",
+          "nameEn": "Drainage network installation",
+          "bodyAr": "شبكة الصرف تُصمم وفق مواقع الحمامات والمطابخ ومناسيب الأرضيات ونقاط الربط القائمة؛ صور الموقع وحدها لا تكفي دون قياسات واتجاهات الميول. اطلب بيان أقطار الأنابيب وفتحات التنظيف وتهوية الصرف ومناطق الاختراق والعزل. قارن عروض التنفيذ على أساس أعمال الحفر والإغلاق والاختبار، واستلم نتائج اختبار التسرب والتصريف قبل تغطية المواسير.",
+          "bodyEn": "Drainage design depends on bathroom and kitchen positions, floor levels and connections to existing lines; photographs alone cannot establish gradients. Ask for pipe diameters, cleanouts, venting arrangements, penetrations and waterproofing interfaces. Compare quotations including excavation, reinstatement and tests. Obtain evidence of leak and flow testing before pipework is concealed."
+        },
+        {
+          "nameAr": "تركيب الأدوات الصحية",
+          "nameEn": "Sanitary fixture installation",
+          "bodyAr": "عند تركيب مغسلة أو مرحاض أو خلاط، قدّم نوع القطعة ومقاسها وصورة مكان التثبيت ومواقع التغذية والصرف. تحقق من توافق الوصلات والارتفاعات والخلوص اللازم للصيانة، ومن إدراج الإكسسوارات والسيليكون وأعمال إزالة القطع القديمة في العرض. اختبر التشغيل والتصريف وعدم الرشح عند الوصلات، وافحص تثبيت القطعة وحالة البلاط المحيط عند التسليم.",
+          "bodyEn": "For a basin, WC or tap installation, supply the model, dimensions, photographs and feed and waste connection positions. Confirm connector compatibility, installation height, service clearances and whether fittings, sealant and removal of old fixtures are included. At handover check secure mounting, drainage, operation, dry joints and the condition of surrounding tiles."
+        },
+        {
+          "nameAr": "تركيب الخزانات",
+          "nameEn": "Tank installation",
+          "bodyAr": "تركيب خزان مياه يتطلب تحديد السعة المطلوبة وأبعاد الخزان وموضعه وقدرة القاعدة على حمله بعد الامتلاء، مع إمكانية وصول آمنة للتنظيف. اطلب تفاصيل أنابيب الدخول والخروج والفيض والتهوية ومحبس العزل والعوامة، وحدد إن كان نقل الخزان القديم مشمولًا. قارن مادة الخزان وضمانه وطريقة تثبيته، واستلم فحص التعبئة والتسرب وتشغيل العوامة دون ادعاء صلاحية مياه الشرب دون فحص مختص.",
+          "bodyEn": "Water tank installation requires an agreed capacity, tank dimensions, location and confirmation that the supporting base can carry the filled load, with safe cleaning access. Specify inlet, outlet, overflow, vent, isolation valve and float control, and whether old-tank removal is included. Compare tank materials, warranty and anchoring. Check filling, leakage and float operation; do not claim potable-water quality without appropriate testing."
+        },
+        {
+          "nameAr": "تركيب مضخات المياه",
+          "nameEn": "Water pump installation",
+          "bodyAr": "لا تختَر مضخة المياه اعتمادًا على القدرة الكهربائية وحدها؛ اذكر عدد نقاط الاستخدام، وفرق الارتفاع، والضغط المتاح، ومكان التركيب ومستوى الضوضاء المقبول. اطلب منحنى أداء المضخة وحماية التشغيل الجاف وصمام عدم الرجوع وطريقة التحكم والعزل الكهربائي. قارن التوريد والتركيب والملحقات والصيانة، ثم افحص الضغط والتشغيل والتوقف الآلي والتسرب أثناء الاستلام.",
+          "bodyEn": "Do not select a water pump by motor power alone. State the number of outlets, elevation difference, available pressure, installation location and acceptable noise. Request the pump performance curve, dry-run protection, non-return valve, controls and electrical isolation details. Compare supply, installation, accessories and servicing, then verify pressure, automatic start/stop and leak-free operation."
+        },
+        {
+          "nameAr": "إعادة تأهيل التمديدات",
+          "nameEn": "Plumbing system upgrades",
+          "bodyAr": "إعادة تأهيل تمديدات قديمة تبدأ بتحديد أجزاء الشبكة المتضررة وأسباب تكرار الانسداد أو التسرب، مع صور مواقع الفتح والمواد القائمة. اطلب خطة تفصل ما سيُستبدل وما سيبقى، ونقاط الربط المؤقتة ومدة انقطاع المياه وحماية الغرف المأهولة. لا تقارن سعر المتر دون حساب التكسير وإعادة العزل والتشطيب؛ استلم نتائج الاختبار وصور المواسير قبل الإغلاق.",
+          "bodyEn": "Rehabilitating old pipework begins by locating failed sections and investigating repeated blockage or leakage, with photographs of access points and existing materials. Request a plan distinguishing replacement from retained sections, temporary connections, water shutdown duration and protection of occupied rooms. Compare more than a per-metre price: include opening-up, waterproofing and reinstatement. Receive test records and photographs before closure."
+        },
+        {
+          "nameAr": "صيانة شبكات الصرف",
+          "nameEn": "Drainage maintenance",
+          "bodyAr": "صيانة الصرف تبدأ بوصف مكان الانسداد وتكراره وروائحه وتأثر أكثر من مصرف؛ فقد تكون المشكلة في سيفون واحد أو خط مشترك. اطلب تشخيصًا يحدد الحاجة إلى تسليك ميكانيكي أو فحص بالكاميرا بدل افتراض استبدال الشبكة. يجب أن يوضح العرض حدود التنظيف والتعامل مع المخلفات والإصلاحات المستثناة. عند الاستلام اختبر تدفق المياه في النقاط المتأثرة وتأكد من عدم رجوعها أو تسربها.",
+          "bodyEn": "Drainage maintenance should start with the blockage location, recurrence, odours and whether several outlets are affected: the cause may be a single trap or a shared line. Ask whether mechanical clearance or camera inspection is warranted rather than assuming replacement. The quotation should define cleaning limits, waste disposal and excluded repairs. At handover test flow at affected outlets and check for backflow and leaks."
+        },
+        {
+          "nameAr": "كشف تسربات المياه",
+          "nameEn": "Water leak detection",
+          "bodyAr": "ابدأ بالتمييز بين زيادة الاستهلاك وتسرب ظاهر أو مخفي: دوّن قراءات العداد في أوقات محددة، وحدد إن كانت الرطوبة تظهر بعد تشغيل حمام بعينه أو طوال اليوم. أرفق صور البقع ومواقع المحابس وخريطة تقريبية للتمديدات إن وجدت. في عرض الفحص، اسأل هل يشمل عزل الدوائر واختبار الضغط والفحص الصوتي أو الحراري، وما الذي لا تستطيع كل وسيلة إثباته؛ فالصورة الحرارية وحدها لا تثبت موضع كسر الأنبوب. عند الاستلام اطلب تقريرًا يحدد الدائرة المختبرة والقراءات وموقع الاشتباه ومستوى الثقة وخطوة التأكيد قبل فتح الجدار أو الأرضية.",
+          "bodyEn": "First distinguish rising water consumption from a visible or concealed leak. Record meter readings at set intervals and note whether dampness appears after one bathroom is used or persists all day. Provide photographs of stains, valve positions and any available pipe layout. Ask whether the inspection includes circuit isolation, pressure testing, acoustic listening or thermal imaging, and what each method cannot establish; a thermal image alone does not prove where a pipe has failed. At handover, request a report naming the tested circuit, readings, suspected location, confidence level and the proposed confirmation step before opening a wall or floor."
+        },
+        {
+          "nameAr": "إصلاح تسربات الأنابيب",
+          "nameEn": "Pipe leak repair",
+          "bodyAr": "لا يبدأ إصلاح الأنبوب بكسر التشطيب عشوائيًا. ثبّت أولًا موضع التسرب ونوع الماسورة وقطرها وإمكان الوصول إليها، وصوّر المكان قبل فتحه. اطلب فصل تكلفة كشف موضع الخلل عن فتح السطح واستبدال الجزء التالف والوصلات وإعادة العزل والبلاط أو الدهان؛ وحدد مدة انقطاع المياه ومن يتحمل نقل المخلفات. إذا كان التلف قرب وصلة، يجب فحص بقية المسار المرئي بدل افتراض أن الوصلة وحدها السبب. يُستلم الإصلاح بعد اختبار ضغط أو تشغيل مناسب لنوع الشبكة وتوثيق عدم ظهور رشح، وقبل إغلاق الفتحة نهائيًا.",
+          "bodyEn": "Do not start by breaking finishes at random. Confirm the leak location, pipe material, diameter and access route, and photograph the area before opening it. Ask for separate quotation lines for locating the fault, opening the surface, replacing damaged pipe and fittings, reinstating waterproofing and replacing tile or paint. Agree the water shutdown period and debris removal responsibilities. If damage is near a joint, inspect the visible adjacent run rather than assuming the joint is the only cause. Accept the repair only after a suitable pressure or operating test has been documented without renewed seepage, before the opening is permanently closed."
+        },
+        {
+          "nameAr": "كشف تسربات الخزانات",
+          "nameEn": "Tank leak detection",
+          "bodyAr": "هبوط مستوى الخزان لا يعني تلقائيًا أن جسمه متشقق؛ قد يكون الفقد من صمام العوامة أو ماسورة الفائض أو التوصيلات أو استهلاك غير محسوب. جهز صورة لوحة الخزان وموقعه وسعته التقريبية وقراءات المنسوب خلال فترة مراقبة آمنة. اطلب في عرض الفحص فصل اختبار الوصلات عن معاينة الجدران والقاع والفواصل، وبيان احتياطات الدخول إلى الخزانات وعدم دخول أي شخص دون إجراءات السلامة الملائمة. استلم محضرًا يذكر سبب الفقد المرجح وموضعه وصور ما قبل الإصلاح وبعده ونتيجة اختبار التعبئة أو العزل المتفق عليه.",
+          "bodyEn": "A falling tank level does not automatically mean a cracked tank shell: a float valve, overflow line, connections or unrecorded consumption may explain the loss. Provide a photograph of the tank label, its location, approximate capacity and safely recorded level changes. Require separate checks for connections and for the shell, floor and joints, together with safe access arrangements; nobody should enter a tank without appropriate confined-space precautions. The inspection report should identify the likely loss mechanism, show before-and-after evidence and record the agreed refill or watertightness test."
+        },
+        {
+          "nameAr": "عزل الحمامات",
+          "nameEn": "Bathroom waterproofing",
+          "bodyAr": "عند تجديد حمام أو معالجة تسرب إلى الطابق الأدنى، يجب تحديد سبب الفشل قبل تركيب طبقة جديدة. جهز مخططًا بسيطًا لأبعاد الأرضية ومكان الدش والمصرف وعتبة الباب وارتفاعات الجدران المبتلة. اطلب نظام عزل محددًا بطبقة تأسيس ومعالجة زوايا واختراقات المواسير وارتفاعات الرفع على الجدران، مع توضيح توافقه مع لاصق البلاط والميول نحو المصرف. قارن العروض بحسب تحضير القاعدة وعدد الطبقات وفترات المعالجة وطريقة اختبار الغمر الآمن قبل التبليط. لا تعتمد التسليم بالصور فقط؛ وثّق نتيجة الاختبار وحالة المصرف والعتبة قبل تغطية العزل.",
+          "bodyEn": "When renovating a bathroom or addressing leakage to the floor below, diagnose the failure before applying a new membrane. Supply a sketch with floor dimensions, shower, drain, threshold and wet-wall heights. Require a specified system covering primer, corners, pipe penetrations and wall upstands, with confirmed compatibility with tile adhesive and falls toward the drain. Compare substrate preparation, coats, curing time and a safe agreed flood test before tiling. Photographs are not sufficient acceptance evidence: document the test result and check the drain and threshold before the membrane is covered."
+        },
+        {
+          "nameAr": "عزل الأسطح",
+          "nameEn": "Roof waterproofing",
+          "bodyAr": "افحص مصدر تسرب السطح أولًا: هل يأتي من تجمع مياه قرب المصرف، أم فاصل تمدد، أم اختراق مواسير أو قاعدة جهاز؟ قدّم مساحة السطح وصور الميول والمصارف والطبقات القديمة، وحدد إن كان الوصول متاحًا دون نقل معدات. اطلب وصفًا مكتوبًا لطريقة إزالة الأجزاء المنفصلة وإصلاح الشروخ وتجهيز القاعدة ومعالجة الفواصل والاختراقات، ثم نوع الغشاء وسمكه والحماية اللازمة حسب تعرضه للشمس أو الحركة. قارن حدود الضمان والاستثناءات وطريقة اختبار الإحكام المناسبة؛ واستلم صور المراحل المخفية وفحص تصريف المياه لا مجرد شكل السطح النهائي.",
+          "bodyEn": "Identify the roof leak mechanism first: ponding near a drain, an expansion joint, a pipe penetration or an equipment plinth may need different treatment. Supply roof dimensions, photographs of falls and outlets, and details of existing layers and access constraints. The quote should explain removal of loose material, crack repair, substrate preparation, treatment of joints and penetrations, membrane type and thickness, and protection for sunlight or foot traffic as appropriate. Compare warranty exclusions and the suitable integrity test. At handover, obtain photographs of concealed stages and confirm drainage rather than accepting appearance alone."
+        },
+        {
+          "nameAr": "عزل خزانات المياه",
+          "nameEn": "Water tank waterproofing",
+          "bodyAr": "قبل اقتراح بطانة جديدة للخزان، حدد استخدام المياه: شرب أم ري أم مكافحة حريق، ونوع الخزان ومادته وسعته وإمكان تفريغه والوصول إليه. اطلب تشخيص الشقوق والفواصل والاختراقات أولًا؛ فطلاء الجدار لا يعالج ماسورة تسرب من الوصلة. في طلب السعر اشترط بيان اسم نظام العزل وملاءمته للاستعمال المحدد، وتحضير السطح وفترة المعالجة والتنظيف والشطف والتخلص من المياه الناتجة. دخول الخزانات والأماكن المحصورة يتطلب تقييم مخاطر وإجراءات متخصصة. يُستلم العمل بعد توثيق المواد واختبار الإحكام وفحص نظافة الخزان، مع أي اختبارات جودة مياه يلزم الاتفاق عليها بحسب الاستخدام.",
+          "bodyEn": "Before specifying a tank lining, establish whether the water is for drinking, irrigation or fire protection, plus the tank material, capacity, emptying arrangements and access. Diagnose cracks, joints and penetrations first: coating the walls will not fix a leaking pipe connection. Ask for the proposed lining system and evidence that it suits the stated water use, surface preparation, cure time, cleaning, rinsing and disposal of wash water. Tank entry and confined spaces require specialist risk controls. Accept the work against material records, a watertightness test and tank cleanliness checks, with any water-quality testing agreed for the intended use."
+        },
+        {
+          "nameAr": "معالجة الرطوبة الناتجة عن التسرب",
+          "nameEn": "Treatment of damp caused by leaks",
+          "bodyAr": "لا تعالج بقعة رطوبة بدهان مقاوم للماء قبل تحديد مصدرها؛ فقد تكون من أنبوب أو عزل أو تكاثف على سطح بارد. سجل متى ظهرت البقعة واتجاه انتشارها، وصوّر التقشر أو الأملاح، واطلب قياسات رطوبة مقارنة بمناطق سليمة. افصل في عرض السعر بين إصلاح المصدر وإزالة الأجزاء المتضررة وتجفيف القاعدة ومعالجة الأملاح أو العفن بالطريقة الملائمة ثم إعادة المعجون والطلاء. إذا استمر البلل فلا يُغلق الجدار؛ وعند التسليم قارن القراءات قبل العلاج وبعده، وافحص التصاق التشطيب وخلوه من عودة الرشح خلال فترة متابعة متفق عليها.",
+          "bodyEn": "Do not cover a damp patch with moisture-resistant paint before finding its source: it could be pipework, failed waterproofing or condensation on a cold surface. Record when the stain appeared and how it spread, photograph peeling or salts, and request comparative moisture readings from affected and sound areas. Separate source repair, removal of damaged finishes, drying, appropriate salt or mould treatment and reinstatement in the quote. Do not close a persistently wet wall. At handover compare readings before and after treatment, inspect adhesion and agree a follow-up period to check for renewed dampness."
+        }
+      ]
+    },
+    {
+      "slug": "ac-installation",
+      "services": [
+        {
+          "nameAr": "تركيب تكييف سبليت",
+          "nameEn": "Split AC installation",
+          "bodyAr": "قبل اختيار جهاز سبليت، سجّل مساحة الغرفة وارتفاعها واتجاه النوافذ وعدد المستخدمين وموقع الوحدة الخارجية ومسار تصريف التكاثف. اطلب حساب حمل تبريد مناسبًا بدل الاعتماد على مساحة الغرفة وحدها، وحدد طول مواسير النحاس وعزلها والتغذية الكهربائية وقواعد التثبيت ضمن العرض. عند الاستلام راقب تصريف المياه، وثبات الوحدتين، ودرجات حرارة الهواء، واختبار إحكام دائرة التبريد والتشغيل دون اهتزاز غير طبيعي.",
+          "bodyEn": "For split AC installation, record room dimensions, ceiling height, glazing exposure, occupancy, outdoor-unit position and condensate route. Request a suitable cooling-load assessment rather than sizing by floor area alone. Compare quotes for insulated copper lines, electrical supply, supports, drainage and commissioning. Check secure mounting, unobstructed drainage, operating temperatures, refrigerant-circuit tightness and abnormal vibration at handover."
+        },
+        {
+          "nameAr": "تركيب تكييف مركزي",
+          "nameEn": "Central AC installation",
+          "bodyAr": "يتطلب التكييف المركزي تحديد المناطق المخدومة ومخططات الأسقف وغرف المعدات ومسارات الهواء الراجع والإمداد. اطلب دراسة أحمال وتوزيع هواء وتنسيقًا مع الكهرباء والصرف وفتحات الصيانة، مع بيان نوع الوحدات ومستويات الضجيج والتحكم. قارن الأعمال المدنية والعزل والدكت والاختبارات ضمن نطاق واحد؛ واستلم قراءات تدفق الهواء والحرارة وتشغيل الحمايات لكل منطقة.",
+          "bodyEn": "Central AC installation requires a zone schedule, ceiling and plant-space layouts, and supply/return air routes. Request load calculations, airflow design and coordination with power, drainage and maintenance access, including equipment type, noise and controls. Compare ductwork, insulation, builder's work and commissioning inclusions; receive zone-by-zone airflow and temperature readings plus protection checks."
+        },
+        {
+          "nameAr": "تركيب تكييف مخفي",
+          "nameEn": "Concealed AC installation",
+          "bodyAr": "قبل تركيب وحدة مخفية فوق السقف، تحقق من الارتفاع الصافي ومساحة الصيانة ومكان فلتر الهواء وصينية التكاثف. يجب تنسيق مخارج الهواء والراجع مع الإنارة والجبس والكواشف، وبيان طول التمديدات وإمكانية تنظيفها لاحقًا. اطلب مخططًا تنفيذيًا قبل إغلاق السقف؛ وعند التسليم افتح فتحة الصيانة فعليًا واختبر التصريف والتحكم وتوازن الهواء.",
+          "bodyEn": "For concealed AC units, confirm available ceiling void, service clearance, filter access and condensate tray location. Coordinate supply and return grilles with lights, gypsum and detectors; specify pipe runs and future cleaning access. Approve a coordinated shop drawing before closing the ceiling, then physically test service access, drainage, controls and airflow balance."
+        },
+        {
+          "nameAr": "تمديد مواسير التكييف",
+          "nameEn": "AC pipe installation",
+          "bodyAr": "تختلف مواسير وسيط التبريد عن مواسير صرف التكاثف؛ حدد مسار كل شبكة وأقطارها وطولها ونقاط اختراق الجدران. اطلب نحاسًا مناسبًا للمعدة مع وصلات صحيحة وعزل مستمر وحماية خارجية، وتحقق من متطلبات الشركة المصنعة لطول الخط والفرق الرأسي. قبل الإغلاق تُوثق اختبارات الضغط والتفريغ ويُفحص ميل الصرف، ثم تُصوّر المسارات المخفية.",
+          "bodyEn": "Refrigerant lines and condensate drains serve different purposes. Mark each route, diameter, length and wall penetration. Specify equipment-compatible copper, properly formed joints, continuous insulation and external protection, checking manufacturer limits for line length and elevation. Record pressure and evacuation tests before concealment, check drain fall and photograph hidden routes."
+        },
+        {
+          "nameAr": "تركيب مجاري الهواء",
+          "nameEn": "Air duct installation",
+          "bodyAr": "تبدأ مجاري الهواء بمخطط يوضح المقاسات والتفرعات والمخارج والراجع، لا بمجرد حصر أمتار الصاج. راجع السرعات والضجيج والعزل والتعليق ومواضع بوابات الضبط وفتحات التنظيف، خاصة عند مرور الدكت فوق أسقف مغلقة. قارن سماكات المواد ومعالجة التسرب الهوائي والحريق عند اللزوم وفق تصميم معتمد؛ واستلم اختبار تسرب وتوازن تدفق موثقًا.",
+          "bodyEn": "Air duct installation starts with a layout showing sizes, branches, supply and return points—not just sheet-metal quantities. Review velocity, noise, insulation, hangers, balancing dampers and cleaning access above closed ceilings. Compare material gauges, leakage treatment and applicable fire provisions against the approved design; request documented leakage and airflow-balancing results."
+        },
+        {
+          "nameAr": "استبدال أجهزة التكييف",
+          "nameEn": "AC unit replacement",
+          "bodyAr": "قبل استبدال الجهاز، اطلب تقريرًا يبين سبب ضعف الأداء أو تكرار الأعطال؛ فقد تكون المشكلة في تدفق الهواء أو التحكم أو التغذية. قارن سعة البديل وأبعاده وتوافقه مع الدكت أو المواسير والقواعد والقدرة الكهربائية، وبيّن مصير الجهاز القديم وتكاليف الرفع والنقل. الاستلام يشمل أرقام الطراز والضمان ونتائج التشغيل والتصريف وعدم بقاء تسربات.",
+          "bodyEn": "Before replacing an AC unit, obtain a diagnosis of poor performance or recurring faults; airflow, controls or power may be responsible. Compare replacement capacity, footprint and compatibility with existing ducts, pipes, supports and electrical supply. Include lifting, removal and disposal of the old unit; handover should document model numbers, warranty, commissioning, drainage and leak checks."
+        },
+        {
+          "nameAr": "تشغيل وفحص الأنظمة",
+          "nameEn": "System commissioning and testing",
+          "bodyAr": "التشغيل الأولي ليس مجرد الضغط على زر التشغيل. اطلب قائمة فحص للتغذية والحمايات واتجاه المراوح والفلاتر وتصريف التكاثف وقراءات الضغط والحرارة والتحكم، بحسب نوع النظام وتعليمات المصنع. قارن عروض الاختبار من حيث الأجهزة المستخدمة والتقرير والعيوب المطلوب تصحيحها؛ واستلم نتائج قبل وبعد الضبط مع تدريب مختصر للمستخدم.",
+          "bodyEn": "Commissioning is more than switching the equipment on. Require a checklist covering power, protections, fan direction, filters, condensate drainage, pressures, temperatures and controls as relevant to the system and manufacturer instructions. Compare test instruments, reporting and defect rectification; receive before-and-after readings and a brief user handover."
+        },
+        {
+          "nameAr": "تنظيف أجهزة التكييف",
+          "nameEn": "AC unit cleaning",
+          "bodyAr": "حدّد هل المطلوب تنظيف فلاتر ووحدة داخلية أم ملفات تبادل حراري ومروحة وصينية تصريف؛ فهذه أعمال مختلفة في الوقت والمخاطر. صوّر الاتساخ والتسرب قبل الزيارة، واطلب طريقة حماية الأثاث والكهرباء ومواد تنظيف مناسبة للمكونات. افحص بعد العمل عودة الفلاتر لمواضعها وجفاف التوصيلات وسريان الصرف وعدم وجود روائح أو رذاذ داخل الغرفة.",
+          "bodyEn": "Clarify whether the service covers filters and the indoor casing or coils, blower and drain pan; these differ in time and risk. Photograph contamination and leaks, and request a method for protecting furnishings, electrics and sensitive components. After cleaning, verify refitted filters, dry electrical connections, free drainage and absence of spray or persistent odour."
+        },
+        {
+          "nameAr": "تعبئة غاز التبريد",
+          "nameEn": "Refrigerant charging",
+          "bodyAr": "نقص وسيط التبريد قد يشير إلى تسرب؛ لذلك لا تعتمد تعبئة متكررة دون تشخيص. سجّل نوع وسيط التبريد من لوحة الجهاز وأعراض العطل، واطلب فحصًا للتسرب وإصلاحه عند الحاجة ثم تفريغًا وشحنًا بكمية وفق بيانات المصنع، بواسطة فني مؤهل. قارن تكلفة الكشف والإصلاح والشحن منفصلة، واستلم سجل النوع والكمية والقراءات بدل عبارة «تعبئة غاز» فقط.",
+          "bodyEn": "Low refrigerant charge may indicate a leak, so repeated top-ups without diagnosis are not a sound remedy. Record the refrigerant type from the nameplate and the symptoms; request leak testing, necessary repair, evacuation and charging to manufacturer specifications by a qualified technician. Compare diagnostic, repair and charging costs separately; obtain a record of refrigerant type, quantity and operating readings."
+        },
+        {
+          "nameAr": "إصلاح أعطال التكييف",
+          "nameEn": "AC fault repair",
+          "bodyAr": "صف العطل بدقة: لا يعمل، يفصل القاطع، يبرد ضعيفًا، يقطر ماءً أو يصدر صوتًا. اذكر متى بدأ وما إذا ظهرت رموز خطأ، ولا تُشغّل جهازًا يسبب فصل حماية كهربائية متكررًا. اطلب تشخيصًا مكتوبًا يحدد الجزء والسبب والبدائل والضمان قبل الاستبدال؛ ويشمل الاستلام إعادة اختبار العطل تحت ظروف تشغيل مناسبة.",
+          "bodyEn": "Describe the fault precisely: no start, breaker trips, weak cooling, dripping water or unusual noise. Note when it began and any error codes; do not repeatedly operate a unit that trips electrical protection. Request written diagnosis, failed component, cause, alternatives and warranty before replacement. Handover should reproduce and then verify resolution of the original symptom under suitable operation."
+        },
+        {
+          "nameAr": "تنظيف مجاري الهواء",
+          "nameEn": "Air duct cleaning",
+          "bodyAr": "قبل تسعير تنظيف الدكت، حدّد عدد المخارج ومسارات الوصول ونوع الاتساخ، وهل توجد شكاوى روائح أو غبار متكرر. لا يكفي تنظيف الشبكات الظاهرة إذا كان النطاق يشمل المجاري؛ اطلب وصفًا لطريقة العزل والشفط والوصول والحماية من نشر الغبار، مع صور قبل وبعد من نقاط محددة. افحص سلامة العزل والفتحات بعد الإغلاق ولا تُقدّم التنظيف علاجًا لكل مشكلة جودة هواء.",
+          "bodyEn": "Before pricing duct cleaning, list grilles, access points, contamination type and any recurring dust or odour complaints. Wiping visible grilles is not equivalent to cleaning ducts. Request a method for containment, extraction, access and dust control, with comparable before-and-after photographs. Inspect resealed access panels and intact insulation; duct cleaning alone does not resolve every indoor-air issue."
+        },
+        {
+          "nameAr": "صيانة وحدات التكييف المركزي",
+          "nameEn": "Central AC maintenance",
+          "bodyAr": "اجمع قائمة الوحدات وأرقامها وساعات تشغيلها وسجل الأعطال قبل الاتفاق على الصيانة. ينبغي أن يميز العقد بين فحص المرشحات والسيور والمراوح والمكثفات والتصريف والتحكم وبين إصلاحات القطع الكبيرة، وفق نوع الجهاز. قارن عدد الزيارات والتقارير والقياسات والاستجابة للأعطال؛ واستلم سجلًا لكل وحدة مع ملاحظات تتبع لا تقريرًا عامًا للمبنى.",
+          "bodyEn": "Prepare an equipment register with unit IDs, operating hours and fault history. The maintenance scope should distinguish filters, belts, fans, condensers, drains and controls from major component repairs according to equipment type. Compare visit frequency, measured readings, reporting and fault response; receive a traceable service record for each unit rather than one generic building report."
+        },
+        {
+          "nameAr": "تغيير قطع الغيار",
+          "nameEn": "Spare part replacement",
+          "bodyAr": "لا توافق على قطعة بديلة بناءً على وصف عام مثل «قطعة تكييف». اطلب رقم الموديل والقطعة الأصلية أو المواصفات المتوافقة، وصورة العطل وسبب التلف، وتحقق من أثر الاستبدال على الضمان. قارن سعر القطعة منفصلًا عن التركيب والاختبار، واستلم القطعة القديمة عند الاتفاق ونتيجة اختبار تثبت زوال العطل دون ظهور مشكلة جديدة.",
+          "bodyEn": "Do not approve a replacement described merely as an 'AC part'. Request the equipment model, original part number or compatible specification, evidence of failure and likely cause, and check warranty implications. Compare the component price separately from labour and testing. Where agreed, retain the removed part and obtain a functional test showing the fault is resolved without a new issue."
+        },
+        {
+          "nameAr": "عقود الصيانة الدورية",
+          "nameEn": "Scheduled maintenance contracts",
+          "bodyAr": "قبل توقيع عقد تكييف دوري، حدد الأجهزة وأماكنها وعدد الزيارات الموسمية ومهام كل زيارة وأوقات الدخول. فرّق بين الوقاية والإصلاح الطارئ وقطع الغيار والمواد الاستهلاكية، واطلب معايير للاستجابة وإغلاق البلاغات وتوثيق القراءات. قارن قيمة العقد على أساس النطاق والاستثناءات لا عدد الزيارات وحده؛ واستلم تقارير دورية وسجل أعطال وتوصيات قابلة للمتابعة.",
+          "bodyEn": "Before signing a periodic AC maintenance contract, list equipment, locations, seasonal visits, visit tasks and access arrangements. Separate preventive work from emergency repairs, spare parts and consumables, with response and ticket-closure criteria. Compare contracts by scope and exclusions rather than visit count alone; require periodic reports, fault history and actionable recommendations."
+        }
+      ]
+    },
+    {
+      "slug": "smart-homes",
+      "services": [
+        {
+          "nameAr": "التحكم الذكي في الإنارة",
+          "nameEn": "Smart lighting control",
+          "bodyAr": "ابدأ بحصر دوائر الإنارة وأنواع المصابيح والمفاتيح الحالية، وحدد هل المطلوب تعتيم الضوء أم تشغيله عن بُعد أم جدولة المشاهد. ليست كل وحدات LED قابلة للتعتيم؛ اطلب اختبار توافق الدرايفر والمفتاح وحمل الدائرة قبل شراء المتحكمات. قارن عدد القنوات وإمكانية التشغيل اليدوي عند انقطاع الشبكة وما يشمله ضبط التطبيق، واستلم تجربة تشغيل وإطفاء وتعتيم لكل مجموعة دون وميض.",
+          "bodyEn": "Inventory the lighting circuits, lamp types and existing switches, then distinguish dimming from remote switching and scheduled scenes. Not every LED driver supports dimming, so test driver, switch and circuit-load compatibility before buying controllers. Compare channel counts, manual operation during network outages and app configuration included in the quote. At handover, switch and dim each group and check for flicker."
+        },
+        {
+          "nameAr": "التحكم الذكي في التكييف",
+          "nameEn": "Smart AC control",
+          "bodyAr": "قبل ربط التكييف بالتحكم الذكي، سجّل ماركة كل وحدة وطرازها ونوع الترموستات وطريقة التحكم المتاحة؛ فبعض الأجهزة تقبل وحدة تحكم مباشرة وأخرى تحتاج واجهة متوافقة. حدّد الغرف والجداول وحدود درجات الحرارة المسموح بها، ولا تفترض أن التحكم الذكي يصلح ضعف التبريد الميكانيكي. قارن ثبات الاتصال وإمكانية التشغيل المحلي، ثم اختبر تغيير الوضع والحرارة واستعادة الإعدادات بعد انقطاع الكهرباء.",
+          "bodyEn": "Record the make and model of each AC unit, thermostat type and supported control interface before specifying smart control; some units accept direct controllers while others need compatible adapters. Identify rooms, schedules and permitted temperature limits. Smart controls cannot remedy a mechanical cooling fault. Compare connection reliability and local fallback, then test modes, setpoints and recovery after a power interruption."
+        },
+        {
+          "nameAr": "تركيب الأقفال الذكية",
+          "nameEn": "Smart lock installation",
+          "bodyAr": "صوّر الباب والحافة والقفل الحالي وحدد سمك الضلفة واتجاه الفتح ومكان الأسطوانة والمسافة إلى الإطار قبل اختيار القفل. اطلب بيان طريقة فتح احتياطية عند نفاد البطارية وإدارة صلاحيات المستخدمين، مع مراعاة متطلبات الخروج الآمن. قارن ما إذا كان العرض يشمل تعديل الباب وتركيب الصفيحة وضبط المحاذاة؛ استلم اختبار القفل والفتح من الداخل والخارج وتغيير رمز الدخول وإلغاء صلاحية مستخدم.",
+          "bodyEn": "Photograph the door edge and existing lock; measure leaf thickness, opening direction, cylinder position and frame clearance before selecting hardware. Require a backup unlocking method for depleted batteries, user-access management and safe exit provisions. Compare door modification, strike-plate fitting and alignment in the scope. Test locking and unlocking from both sides, changing a code and revoking a user's access."
+        },
+        {
+          "nameAr": "تركيب الستائر الذكية",
+          "nameEn": "Smart curtain installation",
+          "bodyAr": "حدد عرض كل فتحة وارتفاع السكة ووزن الستارة ونوعها، والمساحة المتاحة للمحرك والتغذية الكهربائية قبل طلب ستارة ذكية. راجع ما إذا كانت الستارة الحالية تصلح للتحويل أم تحتاج سكة ومحركًا جديدين، وحدد نقطة توقف الفتح والغلق. قارن مستوى الضجيج وإمكانية التشغيل اليدوي وخدمة المعايرة، واستلم تجربة حركة كاملة دون احتكاك بالقماش أو تعثر عند النهايات.",
+          "bodyEn": "Measure each opening, track height, curtain weight and fabric type, as well as available motor space and power supply. Determine whether the existing curtain can be motorised or needs a new track. Agree open and close end positions. Compare operating noise, manual override and calibration service; at handover run a full travel cycle without fabric rubbing or jamming at either end."
+        },
+        {
+          "nameAr": "ربط الأجهزة بتطبيق الهاتف",
+          "nameEn": "Device connection to a mobile app",
+          "bodyAr": "جهّز قائمة بالأجهزة المراد ربطها وأرقام طرازاتها وتطبيقاتها، مع تحديد من يملك الحساب الرئيسي ومن يحتاج صلاحيات محدودة. توافق الجهاز مع شبكة Wi‑Fi لا يعني بالضرورة توافقه مع منصة المنزل الذكي المختارة؛ اطلب مصفوفة توافق قبل التنفيذ. قارن الربط المحلي مقابل الاعتماد على خدمة سحابية، واختبر كل جهاز من حساب مخوّل، ثم استلم توثيقًا لطريقة نقل الملكية وإلغاء وصول الفني دون مشاركة كلمات المرور.",
+          "bodyEn": "List the devices, model numbers and existing apps to be integrated, identifying the account owner and users needing restricted access. Wi-Fi connectivity alone does not guarantee compatibility with the chosen home platform; request a compatibility matrix. Compare local control with cloud dependency, test each device using an authorised account and obtain a documented ownership transfer and technician-access revocation process without sharing passwords."
+        },
+        {
+          "nameAr": "تنفيذ السيناريوهات الذكية",
+          "nameEn": "Smart automation setup",
+          "bodyAr": "صف سيناريوهات فعلية مثل إطفاء إنارة محددة عند مغادرة المنزل أو إغلاق الستائر في وقت معلوم، وحدد المحفز والشروط والاستثناءات لكل سيناريو. تجنب ربط الأقفال أو أجهزة السلامة بإجراءات تلقائية غير مدروسة. اطلب مخططًا بسيطًا لتتابع الأوامر وخطة عند انقطاع الإنترنت؛ قارن سهولة تعديل المشاهد، واستلم اختبارًا لكل سيناريو في حالته الطبيعية وحالة التعارض أو فشل أحد الأجهزة.",
+          "bodyEn": "Describe real scenarios, such as switching off selected lights on departure or closing curtains at a specified time, and record each trigger, condition and exception. Avoid unsafe automatic actions involving door locks or safety equipment. Request a simple command-flow diagram and an internet-outage fallback. Compare how easily scenes can be edited and test each scene normally and when commands conflict or a device fails."
+        },
+        {
+          "nameAr": "صيانة أنظمة المنزل الذكي",
+          "nameEn": "Smart home system maintenance",
+          "bodyAr": "إذا أصبحت الأوامر بطيئة أو توقفت أجهزة عن الاستجابة، دوّن الأجهزة المتأثرة ووقت العطل وهل بدأ بعد تحديث تطبيق أو تغيير الموجّه. يبدأ العمل بفحص الطاقة والتغطية والبوابات والنسخ الاحتياطية قبل إعادة ضبط المصنع التي قد تمحو الإعدادات. قارن رسوم التشخيص بتكلفة استبدال الوحدات، واطلب سجلًا بالتحديثات والأجهزة التي أعيد ربطها واختبار التشغيل اليدوي والآلي بعد الإصلاح.",
+          "bodyEn": "When commands lag or devices stop responding, note affected models, failure times and whether the problem followed an app update or router change. Check power, wireless coverage, hubs and backups before factory resets that may erase configuration. Compare diagnostic charges with replacement costs, and receive a change log of firmware updates, re-paired devices and manual and automated function tests."
+        },
+        {
+          "nameAr": "تركيب كاميرات المراقبة",
+          "nameEn": "CCTV installation",
+          "bodyAr": "ارسم مواقع المداخل والممرات ومناطق المراقبة المطلوبة وحدد زاوية الرؤية ومسافة التعرف المطلوبة وظروف الإضاءة ليلًا، بدل اختيار عدد الكاميرات فقط. راجع مسارات الكابلات ومصادر الطاقة ومكان التسجيل وخصوصية الجيران والمناطق غير المسموح تصويرها، وتحقق من المتطلبات القانونية السارية قبل التركيب. قارن دقة الصورة الفعلية ومقاومة العوامل الجوية والتخزين، واستلم لقطات اختبار نهارية وليلية لكل موقع.",
+          "bodyEn": "Mark entrances, passages and desired surveillance areas on a plan, specifying viewing angles, identification distances and night lighting rather than just camera counts. Check cable routes, power, recorder location and neighbouring privacy; verify applicable legal requirements before installation. Compare usable image detail, outdoor protection and retention capacity. Receive daylight and night-time test images from every camera position."
+        },
+        {
+          "nameAr": "تركيب أجهزة التسجيل",
+          "nameEn": "Recorder installation",
+          "bodyAr": "حدد عدد قنوات التسجيل والكاميرات ودقة البث ومعدل الإطارات ومدة الاحتفاظ المطلوبة، لأن سعة القرص وحدها لا تحدد مدة التسجيل. اطلب حسابًا تقريبيًا للاستهلاك مع هامش للتوسع، وموقعًا آمنًا ومهوّى للجهاز ومصدر طاقة مناسبًا. قارن ما إذا كانت الأقراص وتهيئة النسخ الاحتياطي ضمن العرض، واستلم اختبار تسجيل متواصل واسترجاع مقطع محدد مع ضبط الوقت والصلاحيات.",
+          "bodyEn": "Specify channel count, camera resolutions, frame rates and desired retention period: disk capacity alone does not determine how long footage lasts. Request an estimated storage calculation with expansion allowance, secure ventilated recorder placement and suitable power. Compare included disks, backup configuration and support. At handover, verify continuous recording, retrieval of a dated clip, clock settings and user permissions."
+        },
+        {
+          "nameAr": "تركيب أنظمة الإنذار",
+          "nameEn": "Alarm system installation",
+          "bodyAr": "حدد الغرض من الإنذار: كشف اقتحام أم فتح أبواب ونوافذ أم حركة في مساحات معينة، ثم ارسم مواقع الحساسات ومناطق التسليح ومسارات الدخول والخروج. يجب فصل هذا النظام عن أنظمة إنذار الحريق المتخصصة وعدم وصفه بديلًا عنها. قارن البطاريات الاحتياطية ووسائل الإشعار واحتمالات الإنذار الكاذب، واستلم اختبارًا لكل حساس ولإلغاء التسليح والتنبيه عند انقطاع الطاقة أو الاتصال.",
+          "bodyEn": "Define whether the system detects intrusion, door/window opening or movement in specific rooms; plot sensor positions, armed zones and entry and exit delays. Keep this separate from specialist fire-alarm systems and never present it as their replacement. Compare battery backup, notification paths and false-alarm management. Test every sensor, disarming, and alerts during power or connection loss."
+        },
+        {
+          "nameAr": "تركيب أنظمة الدخول",
+          "nameEn": "Access control installation",
+          "bodyAr": "احصر الأبواب والمداخل وعدد المستخدمين وفئات صلاحياتهم وأوقات السماح بالدخول، وحدد هل يلزم قارئ بطاقة أو رمز أو وسيلة أخرى. راجع توافق القفل الكهربائي مع الباب وآلية الخروج الآمن عند الطوارئ قبل اختيار الأجهزة. قارن حفظ سجلات الدخول وإلغاء البطاقات المفقودة والصيانة، واستلم اختبار السماح والرفض وإلغاء مستخدم وإجراءات التشغيل عند انقطاع الكهرباء.",
+          "bodyEn": "List entrances, user groups, access hours and whether cards, PINs or other credentials are needed. Check electric-lock compatibility and emergency egress arrangements before equipment selection. Compare audit logs, lost-card revocation and maintenance responsibilities. At handover, test authorised and denied entry, user removal and operation during a power outage."
+        },
+        {
+          "nameAr": "تركيب الإنتركم",
+          "nameEn": "Intercom installation",
+          "bodyAr": "حدد عدد الوحدات الداخلية والأبواب الخارجية والمسافة بينهما، وهل المطلوب صوت فقط أم فيديو وفتح باب من الشاشة. صوّر تمديدات النظام القديم وحدد مكان التغذية والشبكة قبل تقدير إمكانية الاستبدال دون تكسير. قارن جودة الصوت والصورة وزاوية الكاميرا ومقاومة الوحدة الخارجية للعوامل الجوية، واستلم تجربة اتصال وفتح باب وصوت واضح من كل وحدة داخلية.",
+          "bodyEn": "Count indoor stations and external entrances and measure cable distances; decide whether audio, video and remote door release are required. Photograph existing wiring and identify network and power points before pricing replacement without opening walls. Compare speech clarity, image angle and outdoor-unit protection. Test calling and door release from every indoor station, with intelligible two-way audio."
+        },
+        {
+          "nameAr": "صيانة كاميرات المراقبة",
+          "nameEn": "CCTV maintenance",
+          "bodyAr": "عند انقطاع الصورة أو تكرار التشويش، سجل أرقام الكاميرات ومواعيد المشكلة وهل تظهر على الشاشة المحلية أم الهاتف فقط. افحص التغذية والكابلات والموصلات والعدسات والتخزين وتوقيت الجهاز قبل الحكم بتلف الكاميرا. قارن تنظيفًا وضبطًا وإصلاح اتصال باستبدال القطعة مع توضيح الضمان، واستلم صورًا قبل وبعد واختبار التسجيل والاسترجاع لكل قناة تمت صيانتها.",
+          "bodyEn": "For missing pictures or intermittent interference, record camera identifiers, failure times and whether the fault appears on the local monitor or only on a phone. Check power, cabling, connectors, lenses, storage and recorder time before declaring a camera defective. Compare cleaning, adjustment and cable repair with replacement and warranty terms. Receive before-and-after images and playback tests for each serviced channel."
+        },
+        {
+          "nameAr": "ربط المراقبة بالهاتف",
+          "nameEn": "CCTV connection to a mobile phone",
+          "bodyAr": "حدد أولًا من يحتاج مشاهدة الكاميرات عبر الهاتف، وهل المطلوب بث مباشر فقط أم استرجاع التسجيلات وإشعارات الحركة. لا تُفتح منافذ الإنترنت أو تُشارك حسابات المدير افتراضيًا؛ اطلب طريقة اتصال آمنة مدعومة من النظام مع مصادقة قوية وتحديد الصلاحيات. قارن الاعتماد على خدمة سحابية ورسومها وإمكان الوصول المحلي، واستلم اختبار مشاهدة من شبكة خارجية وإلغاء وصول جهاز لم يعد مستخدمًا.",
+          "bodyEn": "Identify who needs phone access and whether they require live view, recorded playback or motion alerts. Do not expose internet ports or share administrator credentials by default; request a supported secure connection method, strong authentication and least-privilege access. Compare cloud-service dependence, subscription charges and local viewing. Verify viewing from an external network and revocation of an unused device."
+        }
+      ]
+    },
+    {
+      "slug": "interior-exterior-painting",
+      "services": [
+        {
+          "nameAr": "دهان الفلل",
+          "nameEn": "Villa painting",
+          "bodyAr": "عند تجديد فيلا مأهولة بأبوظبي، يبدأ العمل بجولة غرفةً غرفة وتحديد ما سيبقى مستخدمًا أثناء التنفيذ. احصر مساحات الأسقف والجدران بالمتر المربع، وأماكن الرطوبة والشروخ وآثار الترميم، وصوّر تفاصيل الزوايا والأبواب. اطلب عينة لون على الجدار بعد جفافها، وبيان معالجة السطح ونوع البرايمر والمعجون وعدد أوجه الطلاء وفترات الجفاف وحماية الأثاث والأرضيات. يجب فصل دهان الأسقف عن الجدران والنجارة في العرض، مع جدول مراحل يسمح بإعادة إشغال الغرف. عند الاستلام افحص انتظام اللون في ضوء النهار والإنارة، وحواف المفاتيح والأبواب وعدم وجود بقع أو تقشير أو آثار طلاء على الأرضيات.",
+          "bodyEn": "For an occupied villa in Abu Dhabi, plan the painting room by room and identify spaces that must remain usable. Measure wall and ceiling areas in square metres, record damp patches, cracks and previous repairs, and photograph corners and door surrounds. Request a dried sample on the actual wall, specifying surface repairs, primer, filler, coating system, number of coats, drying intervals and furniture protection. Quotations should distinguish ceilings, walls and joinery, with a sequence for returning rooms to use. At handover, inspect uniform colour in daylight and installed lighting, clean edges around switches and frames, and the absence of drips, peeling or paint on floors."
+        },
+        {
+          "nameAr": "دهان الشقق",
+          "nameEn": "Apartment painting",
+          "bodyAr": "في الشقة، قد يختلف نطاق إعادة الطلاء بين معالجة آثار تعليق اللوحات وتجديد غرفة كاملة أو تجهيز الوحدة للتسليم. حدّد الجدران المطلوب دهانها بدقة، وقِس أطوالها وارتفاعاتها، وسجّل لون الطلاء السابق ومواضع الأثاث والتكييف. اطلب خطة تغطية الأرضيات والمقابس وإدارة الغبار والروائح، ولا تساوِ بين ترميم موضعي وإعادة طلاء كامل السطح. قارن عروض السعر على أساس المعجون والبرايمر وعدد الطبقات وتكلفة نقل الأثاث والتنظيف النهائي. افحص بعد الجفاف التقاء اللون عند الحواف، وأماكن الإصلاح في إضاءة جانبية، وخلو المفاتيح والمفصلات من البقع.",
+          "bodyEn": "Apartment repainting may involve filling picture-hook holes, restoring a single room or preparing the entire unit for handover. Mark precisely which walls are included, measure lengths and heights, and record the previous colour, furniture positions and air-conditioning outlets. Ask how floors, sockets and belongings will be protected and how dust and odours will be managed. A spot repair is not equivalent to coating an entire wall. Compare filler, primer, coat count, furniture moving and final cleaning as separate quotation items. After drying, inspect repaired patches under angled light, colour continuity at edges and clean switches and hinges."
+        },
+        {
+          "nameAr": "دهان المباني الخارجية",
+          "nameEn": "Exterior building painting",
+          "bodyAr": "قبل تجديد واجهة في أبوظبي، افحص التطبيل أو تقشر الطلاء والطباشير وتشققات اللياسة وآثار الماء، وحدّد ارتفاع الواجهة ونقاط الوصول الآمن بالصور والمقاسات. لا يُعالج تسرب من فاصل أو شباك بطبقة دهان وحدها؛ افصل إصلاح المصدر عن الطلاء. اطلب نظامًا خارجيًا متوافقًا مع القاعدة يشمل الغسل والتجفيف ومعالجة الشقوق والبرايمر والطبقات النهائية، وحدد مسؤولية السقالات وحماية السيارات والنباتات. قارن الضمان على التصاق النظام وشروطه لا على اسم العبوة فقط. الاستلام يشمل تساوي اللون من مسافة مشاهدة طبيعية، سلامة الحواف وعدم وجود تسييل أو مناطق مكشوفة.",
+          "bodyEn": "Before repainting an exterior façade in Abu Dhabi, photograph chalking, flaking, hollow render, cracks and water marks; measure elevation areas and safe access heights. Paint alone will not repair leakage through a window joint, so separate source repairs from coating. Specify substrate washing and drying, crack treatment, compatible exterior primer and finish coats, as well as scaffolding and protection for cars and planting. Compare warranty scope and adhesion conditions rather than brand names alone. Handover should check consistent appearance from normal viewing distance, complete edge coverage and no runs or exposed patches."
+        },
+        {
+          "nameAr": "دهان الأبواب والأخشاب",
+          "nameEn": "Door and wood painting",
+          "bodyAr": "يختلف طلاء باب خشبي داخلي عن إعادة تشطيب باب معرض للشمس أو قطعة MDF مكسوة. صوّر التقشر والخدوش والانتفاخات، وسجّل عدد الضلف والمقاسات ونوع التشطيب السابق وحالة المفصلات والأقفال. اطلب تجربة على جزء غير ظاهر للتحقق من توافق المواد، وحدد ما إذا كان الفك والصنفرة وملء العيوب والبرايمر والرش أو الفرشاة ضمن السعر. قارن تكلفة الوجهين والحواف والإطارات منفصلة، مع مكان تجفيف يمنع التصاق الغبار. عند التسليم افتح وأغلق كل ضلفة وافحص عدم التصاق الحواف، ونعومة السطح، وخلو الأقفال والمفصلات من الطلاء.",
+          "bodyEn": "An interior timber door, sun-exposed external door and coated MDF panel require different preparation. Photograph scratches, swelling and peeling; list leaf counts, dimensions, existing finish and hinge or lock condition. Ask for a discreet compatibility test, and specify whether removal, sanding, filling, primer and spray or brush application are included. Compare both faces, edges and frames separately and agree on a dust-controlled drying location. Test each door opening and closing at handover, checking smoothness, non-sticking edges and clean hardware."
+        },
+        {
+          "nameAr": "تنفيذ الدهانات الديكورية",
+          "nameEn": "Decorative painting",
+          "bodyAr": "الدهان الديكوري قرار بصري وتنفيذي معًا؛ فملمس الجدار واتجاه الضوء يغيران النتيجة. حدّد مساحة الجدار الصافية ومواقع الأثاث والإضاءة، واختر تقنية محددة مع عينة فعلية على سطح مشابه بدل الاكتفاء بصورة هاتف. اسأل عن طبقة التأسيس والأدوات واللون النهائي ودرجة اللمعان وإمكان تنظيف السطح أو إصلاح خدش لاحقًا. يجب أن يذكر العرض تكلفة العينة وعدد الطبقات ومعالجة الزوايا والانتقال إلى الطلاء العادي. عند الاستلام قارن العينة المعتمدة بالجدار في أوقات إضاءة مختلفة وافحص انتظام النمط دون مطالبة بتماثل آلي غير مناسب للتشطيب اليدوي.",
+          "bodyEn": "Decorative finishes depend on both technique and lighting: texture can look different under grazing light. Measure the net feature-wall area, note furniture and lighting positions, and approve a physical mock-up on a comparable substrate rather than a phone image. Specify base coat, tools, colour, sheen, cleanability and the method for repairing later scratches. Quotations should price the sample, layers, corners and transitions to ordinary paint. Inspect the finished wall against the approved mock-up under more than one lighting condition, allowing for the deliberate variation of hand-applied work."
+        },
+        {
+          "nameAr": "معالجة وتقشير الدهانات القديمة",
+          "nameEn": "Old paint stripping and treatment",
+          "bodyAr": "عندما تتقشر طبقات قديمة، لا تبدأ بالكشط الشامل قبل تحديد السبب: رطوبة، ضعف التصاق، أم طبقات غير متوافقة. صوّر مناطق الانتفاخ وحدد المساحة التقريبية، وافحص تماسك اللياسة وجفافها ومصدر الماء إن وجد. اطلب تحديد حدود إزالة الطلاء الضعيف، وطريقة احتواء الغبار، ومعالجة الشقوق والتجفيف والبرايمر قبل إعادة الدهان. قارن السعر حسب مساحة المعالجة الفعلية وما إذا كانت إعادة اللياسة ضمنه؛ وأوقف الطلاء إذا بقي تسرب نشط. الاستلام الأول هنا سطح نظيف متماسك وجاف، لا مجرد طبقة جديدة تخفي العيب.",
+          "bodyEn": "Peeling paint needs diagnosis before wholesale stripping: possible causes include moisture, poor adhesion or incompatible old coatings. Photograph blisters and estimate the affected area; check render soundness, dryness and any water source. Ask for the limits of removal, dust containment, crack repair, drying and primer before recoating. Compare pricing by treated area and clarify whether render replacement is included. Do not coat over active leakage. The first acceptance milestone is a clean, stable, dry substrate—not simply a fresh finish concealing the defect."
+        },
+        {
+          "nameAr": "صيانة وإعادة الدهان",
+          "nameEn": "Paint maintenance and repainting",
+          "bodyAr": "عند وجود خدوش أو آثار أثاث أو بقع موضعية، حدّد إن كانت المشكلة سطحية أم مرتبطة برطوبة أو تفتت معجون. سجّل كود اللون إن توفر وصوّر الجدار كاملًا وموضع الضرر، لأن لون عبوة قديمة لا يضمن تطابق اللمعان بعد سنوات. اطلب مقارنة واضحة بين إصلاح موضعي وإعادة دهان الجدار من زاوية إلى زاوية، مع عدد طبقات المعجون والبرايمر والحماية والتنظيف. افحص النتيجة بعد الجفاف وفي إضاءة مائلة؛ ولا تعتمد إصلاح بقعة رطوبة قبل معالجة مصدرها.",
+          "bodyEn": "For scuffs, furniture marks or isolated stains, establish whether the damage is superficial or linked to dampness or failed filler. Record any colour code and photograph both the whole wall and the defect: an old paint code may not match aged sheen. Request a clear comparison between a local patch and repainting corner to corner, including filler, primer, protection and cleanup. Inspect after drying in oblique light, and do not accept cosmetic repainting over an unresolved moisture source."
+        }
+      ]
+    },
+    {
+      "slug": "water-thermal-insulation",
+      "services": [
+        {
+          "nameAr": "عزل الأسطح",
+          "nameEn": "Roof waterproofing",
+          "bodyAr": "تسرب السطح قد يأتي من مصرف مسدود أو فاصل أو اختراق مواسير، وليس بالضرورة من كامل طبقة العزل. ابدأ بمخطط بسيط يوضح المساحة بالمتر المربع والميول والمصارف وقواعد أجهزة التكييف والفواصل، وصور تجمع المياه وآثار الرطوبة داخل المبنى. اطلب تقييم الطبقة القائمة قبل اقتراح إزالتها أو تغطيتها، وبيان نظام العزل والتوافق مع القاعدة والرفع على الحواف والحماية من الحركة والشمس. قارن العروض وفق تجهيز السطح ومعالجة التفاصيل واختبار الإحكام وطريقة إعادة البلاط إن وجد. الاستلام يتضمن تقرير اختبار مناسب ومراجعة تصريف الماء دون انسداد المصارف.",
+          "bodyEn": "Roof leakage may originate at a blocked outlet, movement joint or pipe penetration rather than across the entire membrane. Prepare a simple roof plan with square metres, falls, outlets, AC plinths and joints, plus photographs of ponding and indoor damp marks. Require an assessment of existing layers before proposing removal or overlay, specifying membrane compatibility, upstands and protection against traffic and sunlight. Compare substrate preparation, junction detailing, watertightness testing and any tile reinstatement. Handover should include an appropriate test record and confirmation that drainage remains unobstructed."
+        },
+        {
+          "nameAr": "عزل الحمامات",
+          "nameEn": "Bathroom waterproofing",
+          "bodyAr": "في الحمام الجديد أو الذي يتكرر فيه التسرب إلى الطابق الأسفل، حدّد هل المشكلة من تمديدات المياه أم من أرضية منطقة الاستحمام أو فاصل حول الصرف. صوّر أماكن التسرب، وحدد مساحة الأرضية وارتفاعات رفع العزل على الجدران وموقع العتبة والمصارف. اطلب فصل اختبار السباكة عن اختبار طبقة العزل، وتوضيح تجهيز القاعدة والميول والشرائط حول الزوايا والاختراقات قبل البلاط. قارن عرض العزل مع تكاليف فك وإعادة البلاط والأدوات الصحية، واتفق على اختبار احتباس ملائم موثق قبل تغطية الطبقة.",
+          "bodyEn": "For a new bathroom or recurring leakage to the floor below, distinguish plumbing failures from shower-floor or drain-junction failures. Photograph leak locations and measure the floor, wall upstand heights, threshold and outlets. Separate plumbing pressure checks from membrane testing, and specify substrate falls, corner tapes and pipe penetrations before tiling. Compare waterproofing with tile and sanitaryware removal and reinstatement as separate costs. Agree on a documented, suitable water-retention test before covering the membrane."
+        },
+        {
+          "nameAr": "عزل الخزانات",
+          "nameEn": "Tank waterproofing",
+          "bodyAr": "لا يصلح أي منتج عزل لأي خزان؛ حدّد أولًا هل المياه للشرب أم للري، ونوع الخزان وحجمه وأبعاده ومادة الجدران والفواصل والتشققات. اطلب فحصًا يميز تسرب الهيكل عن الوصلات والمواسير، وخطة تنظيف وتجفيف وتحضير السطح ومادة موثقة الملاءمة لنوع المياه وفق بيانات المصنع. يجب أن يوضح العرض متطلبات الدخول الآمن والتهوية ومنع تلوث المياه ومدة المعالجة قبل إعادة التعبئة. الاستلام يشمل اختبار احتفاظ بالماء وتوثيق المواد والتشغيل الآمن، مع تجنب دخول الأماكن المغلقة دون إجراءات متخصصة.",
+          "bodyEn": "Not every coating suits every tank. Identify whether water is for drinking or irrigation, the tank type, volume, dimensions, substrate, joints and cracks. Ask for diagnosis distinguishing structural seepage from pipe or connection leaks, plus cleaning, drying and surface preparation and manufacturer documentation showing suitability for the intended water use. Quotations must address safe access, ventilation, contamination prevention and curing before refilling. Handover includes a water-holding check, material records and safe recommissioning; confined-space entry requires specialist precautions."
+        },
+        {
+          "nameAr": "العزل الحراري للمباني",
+          "nameEn": "Building thermal insulation",
+          "bodyAr": "إذا كانت الغرف تكتسب حرارة سريعًا، فالعزل أحد الاحتمالات وليس بديلًا عن فحص التكييف وتسرب الهواء. سجّل نوع السقف والجدران والمساحات وسماكات البناء الحالية، وصوّر الجسور الحرارية ومواضع التكاثف أو الرطوبة. اطلب مقارنة بين أنظمة مناسبة لموضع التركيب وفق مقاومة الحرارة وسماكة المادة وسلوكها مع الرطوبة والحريق والتثبيت، مع مراجعة متطلبات المشروع المعتمدة بدل ادعاء قيمة إلزامية عامة. يجب أن يتضمن العرض معالجة الفواصل وحول الفتحات واستمرارية الطبقة. عند الاستلام افحص عدم وجود فجوات أو ضغط على العازل وعدم حجب فتحات التهوية الضرورية.",
+          "bodyEn": "If rooms gain heat rapidly, insulation is one possible intervention, not a substitute for checking cooling equipment and air leakage. Record roof and wall assemblies, areas and existing thicknesses; photograph thermal bridges and any condensation or dampness. Compare location-appropriate systems by thermal resistance, thickness, moisture and fire performance and fixing method, checking project-specific requirements rather than claiming a universal mandatory value. Include continuity at joints and openings. Inspect for gaps, crushed insulation and blocked necessary ventilation at handover."
+        },
+        {
+          "nameAr": "عزل الجدران الخارجية",
+          "nameEn": "External wall insulation",
+          "bodyAr": "قبل إضافة عزل خارجي، يجب فهم نظام الواجهة القائم: بلوك ولياسة أم كسوة، ومواقع النوافذ والبلكونات والتثبيتات. اطلب رفع أبعاد الواجهات والفتحات وتوثيق الشقوق ومصادر الرطوبة ومسارات الوصول؛ فتركيب ألواح على قاعدة غير سليمة قد يخفي مشكلة بدل حلها. قارن نظام العزل كاملًا من التثبيت والطبقة المسلحة والتشطيب ومقاومة العوامل الجوية وتفاصيل حواف الشبابيك، وليس سعر اللوح فقط. عند التسليم افحص انتظام التثبيت والفواصل ومنع تسرب الماء حول الاختراقات، مع مراجعة المتطلبات الفنية المعتمدة للمشروع.",
+          "bodyEn": "Before adding external insulation, establish the existing façade build-up—rendered blockwork or cladding—and the positions of windows, balconies and fixings. Measure elevations and openings, document cracks and moisture sources and plan safe access. Boards installed over an unsound substrate can hide defects. Compare the complete system: fixings, reinforced layer, finish, weather resistance and window reveals, not board price alone. Inspect fixings, joints and water detailing around penetrations against the approved project specification."
+        },
+        {
+          "nameAr": "معالجة تسرب مياه الأمطار",
+          "nameEn": "Rainwater leak treatment",
+          "bodyAr": "عند ظهور بقعة بعد المطر، سجّل تاريخ ظهورها وموقعها بالنسبة للنافذة أو السطح، وصوّر الحواف الخارجية والمزاريب والفواصل قبل أن تجف. قد ينتقل الماء داخل الجدار بعيدًا عن نقطة دخوله؛ لذلك اطلب تشخيصًا تدريجيًا يبدأ بفحص المصارف والميول والسيليكون والفلاشينج، ثم اختبار ماء محدود وآمن عند الحاجة. قارن إصلاح نقطة دخول محددة بإعادة عزل مساحة أكبر بناءً على الدليل، وحدد من يعيد اللياسة والدهان الداخلي. لا يُعتبر اختفاء البقعة بعد الطلاء إثباتًا للإصلاح؛ استلم توثيقًا للإجراء واختبارًا مناسبًا أو خطة متابعة عند هطول لاحق.",
+          "bodyEn": "When a stain appears after rainfall, record when it formed and its relation to windows or roof edges, photographing external seals, gutters and joints before they dry. Water can travel within a wall far from its entry point. Request staged diagnosis of outlets, falls, sealants and flashing, followed by a controlled, safe water test where appropriate. Compare evidence-based point repairs with broader membrane replacement, and clarify who reinstates internal render and paint. A concealed stain is not proof of repair; request a test record or a monitoring plan for subsequent rain."
+        },
+        {
+          "nameAr": "صيانة أعمال العزل",
+          "nameEn": "Insulation maintenance",
+          "bodyAr": "تبدأ صيانة العزل بفحص سجل الإصلاحات السابقة وعمر النظام ومواقع الانتفاخ والقطع حول المصارف والقواعد والفواصل، مع صور مؤرخة وخريطة بسيطة للمناطق المتضررة. اطلب بيان ما إذا كان الإصلاح الموضعي متوافقًا كيميائيًا وميكانيكيًا مع الطبقة القائمة، أو أن تدهورًا واسعًا يبرر تجديد قطاع كامل. قارن تكلفة إزالة الطبقات التالفة وتجهيز الحواف وإعادة الحماية والاختبار والمتابعة، ولا تقبل ترقيعًا فوق سطح رطب دون تفسير. عند التسليم وثّق حدود الإصلاح والمواد ونتيجة الاختبار والضمان وحدود تغطيته.",
+          "bodyEn": "Waterproofing maintenance starts with prior repair records, system age and mapped blisters, punctures around outlets and plinths, and movement joints, supported by dated photographs. Require an explanation of whether a local patch is chemically and mechanically compatible with the existing layer or whether widespread deterioration calls for sectional renewal. Compare removal of failed material, edge preparation, protection, testing and follow-up. Do not accept a patch over wet substrate without a justified method. Record repaired boundaries, products, test outcomes and the scope of any warranty."
+        }
+      ]
+    }
+  ]
+}

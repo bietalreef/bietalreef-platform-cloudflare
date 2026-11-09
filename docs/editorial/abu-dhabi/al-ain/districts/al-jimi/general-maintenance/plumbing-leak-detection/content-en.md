@@ -8,7 +8,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** A point schedule, pipe diameters and grades, route photos and valve positions.
 
-**Quotes and agreement:** Compare valve access and pressure-testing method; exclude fixtures and unspecified demolition. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare valve access and pressure-testing method; exclude fixtures and unspecified demolition. Record outlet counts, valve positions, pipe grades and responsibility for pressure testing before closing walls.
 
 **Handover checks:** Obtain as-built routes, concealed-work photos and pressure-test results before covering. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -18,7 +18,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Count outlets, measure runs and levels, specify diameters and cleanouts.
 
-**Quotes and agreement:** Compare falls, inspection access and leak tests; price excavation and tiling reinstatement separately. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare falls, inspection access and leak tests; price excavation and tiling reinstatement separately. Agree drain levels, connection points, cleanouts and who reinstates tiles after flow testing.
 
 **Handover checks:** Run water through every outlet; check for ponding, leakage and odour. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -28,7 +28,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Photograph outlets and mounting dimensions; record models and connection kits.
 
-**Quotes and agreement:** Compare fittings, sealant, old-fixture removal and disposal; do not assume fixtures are supplied. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare fittings, sealant, old-fixture removal and disposal; do not assume fixtures are supplied. List fixture models, connection accessories, old-unit removal and protection of surrounding tiles.
 
 **Handover checks:** Operate each tap and flush; check stability and dry joints. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -38,7 +38,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Tank volume, access and base dimensions, site photos and connection heights.
 
-**Quotes and agreement:** Compare tank material, lid, float valve, connections and cleaning; base works and lifting are separate unless included. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare tank material, lid, float valve, connections and cleaning; base works and lifting are separate unless included. Specify tank capacity, base requirements, overflow routing and responsibility for lifting and testing.
 
 **Handover checks:** Check stability, lid and overflow; fill and inspect for leaks. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -48,7 +48,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Photograph old pump, electrical supply and pipe sizes; supply pressure readings if available.
 
-**Quotes and agreement:** Compare duty curve, dry-run protection, noise and warranty; electrical modifications require explicit scope. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare duty curve, dry-run protection, noise and warranty; electrical modifications require explicit scope. Confirm pump duty, power supply, dry-run protection, spare parts and warranty terms.
 
 **Handover checks:** Observe cut-in/out, pressure, vibration and leak-free connections. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -58,7 +58,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Photograph failures; note known system age, route lengths and isolation points.
 
-**Quotes and agreement:** Compare partial versus full replacement, pipe grade and reinstatement; approve extra openings first. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare partial versus full replacement, pipe grade and reinstatement; approve extra openings first. Agree removal limits, replacement routes, wall reinstatement and commissioning tests.
 
 **Handover checks:** Test each circuit and record new joints and routes before concealment. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -68,7 +68,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Provide manhole photos, blockage history and equipment access.
 
-**Quotes and agreement:** Compare manual/mechanical clearing and camera inspection; pipe replacement is not automatic. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare manual/mechanical clearing and camera inspection; pipe replacement is not automatic. Identify blockage locations, cleaning limits, any internal camera survey and waste disposal.
 
 **Handover checks:** Flow-test after cleaning and request defect footage if a camera was used. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -78,7 +78,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Meter readings, stain photos, valve locations and floor type.
 
-**Quotes and agreement:** Compare detection methods, uncertainty and location report; tracing does not automatically include opening or repair. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare detection methods, uncertainty and location report; tracing does not automatically include opening or repair. Require a report distinguishing test indications from confirmed leak locations; price detection separately from repairs.
 
 **Handover checks:** Request a suspected-location report, confidence level and next step without a guarantee of certainty. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -88,7 +88,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Photograph dampness, shutoff, pipe material and expected opening size.
 
-**Quotes and agreement:** Compare replacement joint, pressure test, waterproofing and tile reinstatement; agree hidden-damage variations. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare replacement joint, pressure test, waterproofing and tile reinstatement; agree hidden-damage variations. Specify replacement length, fitting types, reinstatement and pressure tests after repair.
 
 **Handover checks:** Test under operating pressure and photograph the joint before closing. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -98,7 +98,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Tank photos, water level, damp location and capacity.
 
-**Quotes and agreement:** Compare shell and fitting inspection plus level monitoring; cleaning, repair and lining are separate. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare shell and fitting inspection plus level monitoring; cleaning, repair and lining are separate. Distinguish tank-shell inspection from pipe and float-valve checks, with a safe test method.
 
 **Handover checks:** Obtain suspected-source findings and test evidence before approving repair. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -108,7 +108,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Floor area, corner lengths, drain photos and existing substrate type.
 
-**Quotes and agreement:** Compare system, substrate preparation, coats and curing; tile removal/reinstatement must be explicit. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare system, substrate preparation, coats and curing; tile removal/reinstatement must be explicit. Agree tile removal area, membrane upstands, curing time and reinstatement after testing.
 
 **Handover checks:** Request a documented appropriate flood test before tiling, subject to system instructions. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -118,7 +118,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Roof area, falls, old membrane condition and service-penetration photos.
 
-**Quotes and agreement:** Compare old-layer removal/treatment, drain details and warranty; slope correction is separate. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare old-layer removal/treatment, drain details and warranty; slope correction is separate. Specify falls, drains, upstands, membrane protection and responsibility for moving existing equipment.
 
 **Handover checks:** Inspect adhesion, edges, drainage and appropriate water testing at handover. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -128,7 +128,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Tank capacity, wall/floor area, crack photos and access openings.
 
-**Quotes and agreement:** Compare crack repair, surface preparation and potable-water suitability where relevant; lining is not disinfection. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare crack repair, surface preparation and potable-water suitability where relevant; lining is not disinfection. Require documented lining suitability for water use, safe access and cleaning before recommissioning.
 
 **Handover checks:** Request product evidence, curing time and fill/leak test before use. Include these details, clear photos and actual measurements in the quotation request.
 
@@ -138,6 +138,6 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Survey evidence:** Photos of stain progression, any moisture readings and affected area.
 
-**Quotes and agreement:** Compare removal, drying, mould treatment and reinstatement; paint alone does not fix leakage. Record who supplies materials, protects the property, removes waste, provides warranty and approves variations before work.
+**Quotes and agreement:** Compare removal, drying, mould treatment and reinstatement; paint alone does not fix leakage. Resolve the moisture source before drying; specify whether plaster repairs and repainting are included.
 
 **Handover checks:** Check no recurring moisture, dry substrate and sound finish after agreed observation. Include these details, clear photos and actual measurements in the quotation request.

@@ -1,3 +1,5 @@
+import { emirateSectorEditorial } from './sharjahAjmanSectorEditorial';
+
 // Search snippets describe each real sector and its local customer intent.
 export const ABU_DHABI_SECTOR_SEO = {
   'general-contracting': { ar: ['شركات مقاولات وبناء فلل ومبانٍ في أبوظبي', 'ابحث عن شركة مقاولات أو مقاول بناء في أبوظبي لخدمات إنشاء الفلل والمباني السكنية والتجارية، والترميم والخرسانة والملاحق. استعرض تخصصات الشركات وخدماتها بالتفصيل وجهّز طلب عرض سعر عبر خدمة عملاء بيت الريف حتى قبل ظهور شركات منشورة.'], en: ['Construction contractors and villa building companies in Abu Dhabi', 'Find construction contractors in Abu Dhabi for villa construction, residential buildings, commercial projects, concrete works, extensions and renovations. Explore each service, prepare your project details and request a quotation through Biet Al Reef customer service, whether or not a company is listed.'] },
@@ -47,6 +49,13 @@ const ABU_DHABI_SECTOR_TITLES = {
 
 // Titles and descriptions are localized from the eight reviewed sector texts.
 export function directorySectorSeo(slug, locale, emirate) {
+  const local = emirateSectorEditorial(emirate?.slug, slug, locale);
+  if (local) {
+    return {
+      ...local,
+      title: local.heading + (locale === 'en' ? ' | Biet Al Reef' : ' | بيت الريف'),
+    };
+  }
   const entry = ABU_DHABI_SECTOR_SEO[slug]?.[locale];
   if (!entry || !emirate) return null;
   const from = locale === 'en' ? 'Abu Dhabi' : 'أبوظبي';

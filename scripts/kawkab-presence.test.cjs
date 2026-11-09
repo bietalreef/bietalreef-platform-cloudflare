@@ -118,9 +118,13 @@ test('company-owned mobile contact actions replace platform support on Kawkab la
  const bar=read('components/provider/KawkabMobileContactBar.js');
  assert.match(app,/!isCompanyLanding && !isKawkabDistrictLanding/);
  assert.match(app,/isProviderProfile && !/);
- assert.match(bar,/className="fixed inset-x-0 bottom-0/);
- assert.match(bar,/kawkabWhatsapp\(locale, service\)/);
- assert.match(bar,/tel:/);
+ const sharedContact=read('components/provider/CompanyContactBar.js');
+ assert.match(bar,/return <CompanyContactBar/);
+ assert.match(bar,/phoneHref=\{'tel:'\+phone\}/);
+ assert.match(bar,/whatsappHref=\{kawkabWhatsapp\(locale,service\)\}/);
+ assert.match(sharedContact,/className="fixed inset-x-0 bottom-0/);
+ assert.match(sharedContact,/\{phoneHref\?<a href=\{phoneHref\}/);
+ assert.match(sharedContact,/\{whatsappHref\?<a href=\{whatsappHref\}/);
  assert.match(profile,/<KawkabMobileContactBar locale=\{lang\}/);
  assert.match(service,/<KawkabMobileContactBar locale=\{d\} service=\{service\[d\]\}/);
  assert.match(district,/<KawkabMobileContactBar locale=\{locale\}/);

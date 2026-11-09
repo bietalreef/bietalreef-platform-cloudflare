@@ -7,59 +7,59 @@
 
 ### 1. Villa design
 
-Start with household size, reception arrangements and privacy needs. Have the designer reconcile room layouts with a measured plot, access points and applicable site constraints. Compare proposals by floor plans, circulation, elevations, coordination with structural and building services disciplines, and included revision rounds. Check room, door and parking dimensions against the agreed brief before accepting the design.
+Before sketching a new villa, prepare a room brief covering bedrooms, guest reception, service circulation and step-free access where needed. Ask the architect to test two layouts against measured plot boundaries and verified site constraints rather than assumed setbacks. Compare usable room area against corridor space, stair placement and parking access. At handover, check the room schedule, dimensions, privacy and window positions against the agreed brief.
 
 ### 2. Residential building design
 
-Define unit count, unit sizes, separate entrances and shared utilities. Survey the plot and levels, then locate lifts and stairs before comparing schemes. Request unit area schedules, floor plans and circulation diagrams; have the responsible professional check access and escape provisions against the project's applicable requirements.
+For a multi-unit residential building, repeating one floor plan is not enough. Specify target unit count, independent access, parking, meters and shared services. Commission an early layout of stairs, lifts, plant rooms and access routes with a schedule of net and common areas. Compare schemes for wasted circulation and clashes between columns and furniture; reconcile the unit schedule with the final plans and sections.
 
 ### 3. Commercial building design
 
-Specify intended uses, lettable areas, storage, loading and visitor flows. Compare layouts for future subdivision, service distribution and operational space rather than façade appearance alone. The handover should show entrances, exits, clear dimensions and interfaces requiring engineering coordination.
+Describe the intended commercial use, customer movement, deliveries and whether units may be leased separately. The architect needs site dimensions, frontage constraints and service/loading positions before fixing the layout. Request options showing ground-level access, subdivision flexibility and back-of-house routes. At handover check clear dimensions, storage, toilets and entrances; a proposed layout is not evidence of business-use approval.
 
 ### 4. Architectural drawing preparation
 
-Provide measured dimensions or reliable base drawings and state whether the set is for concept review, pricing or construction. Request coordinated plans, elevations, sections, dimensions and levels, with a revision register. Do not treat pricing drawings as construction-ready without checking their detail and coordination.
+State whether the architectural drawing package is for concept decisions, contractor pricing or construction. Supply plot documents and available surveys, and agree a drawing register covering plans, elevations, sections and relevant schedules with scales and revision numbers. Compare offers for design stages and coordination with structural and MEP disciplines. Reject inconsistent room dimensions between plans and sections.
 
 ### 5. Façade redesign
 
-Photograph the existing elevation, measure openings and projections, and mark AC equipment, drainage and lighting. Compare cladding options for fixing method, colour, cleaning and maintenance, including junctions at windows. Approve physical samples and material junction details before final sign-off.
+An existing façade should be surveyed for levels, openings, air-conditioning outlets and drainage before selecting cladding from reference pictures. Request alternatives showing material thickness, weight, fixing, rainwater management and window junctions. Separate design fees from supply and installation in quotations. At design handover, review physical samples, edge details and safe access for cleaning and maintenance.
 
 ### 6. 3D architectural modelling
 
-Clarify whether the deliverable is a massing study, coordination model or presentation visuals. Supply drawings and levels and identify elements that must be dimensionally reliable. Check model geometry against the plans, and distinguish illustrative finishes or furniture from approved construction specifications.
+A massing model, coordinated 3D model and marketing render serve different purposes. Define views, detail level, whether dimensions can be extracted and the drawing issue used as input. Compare offers for editable source files and revision rounds. Check openings and ceiling heights against the plans; a stone colour shown in a render is not an approved procurement specification.
 
 ### 7. Amending existing plans
 
-Supply the latest drawing issue, site photographs and a precise change request. Distinguish partition rearrangement from changes affecting load-bearing elements or services, and identify impacted disciplines. Receive a dated revision set with changes clearly marked and cross-check it against related drawings.
+Mark proposed wall and room changes on a dated existing plan and photograph visible columns, openings and service routes. Ask the designer to flag structural assessment and MEP coordination needs, including impacts on door clearances and circulation. Require a clearly clouded revision set and change schedule. A concept sketch should not be mistaken for construction documentation.
 
 ### 8. Permit drawing preparation
 
-Identify the project type, proposed works and relevant authority before commissioning a submission set. Request a document checklist, discipline responsibilities and any excluded authority fees. Preparation does not guarantee approval; verify the current submission requirements and signed drawing set with the appointed professional.
+Define the project type and competent authority for the actual site before commissioning a permit submission package. Agree architectural sheets, cross-discipline coordination, signatures and owner-supplied documents. Compare quotations for response rounds to authority comments and excluded fees. Receive a version-controlled submission checklist; preparing drawings does not mean a permit has been issued.
 
 ### 9. Building application submission
 
-Agree who is authorised to submit, respond to authority comments and pay fees. Validate owner, site and drawing details before submission. Ask for an application reference, status record and response log; submitting an application is not the same as obtaining approval.
+For building application follow-up, establish who holds submission authority, answers review comments and pays external fees. Supply validated property, owner and drawing details, and ask for milestones separating filing, acceptance for review and final decision. At handover obtain the application reference, status notices and correspondence. A submission receipt is not permission to begin construction.
 
 ### 10. Revision of approved drawings
 
-Mark each proposed change against the approved issue and provide site records where construction has begun. Ask the designer to assess structural, services, cost and schedule implications and whether authority review is needed. Do not build material departures solely from an unchecked revised sketch.
+When approved plans must change, require a numbered comparison between the approved issue and proposed revision, identifying affected areas, structural elements and building systems. Assess impacts on completed work and whether the authority needs to review the change. Compare design offers for coordination and comment responses. Receive a consistent drawing set bearing its actual approval status.
 
 ### 11. Maintenance permit coordination
 
-Describe the exact works: finish repairs, equipment replacement, or alterations to building elements or services. Have the appointed specialist determine which documents and approvals apply and who tracks the application. Check whether permission is required before work begins; maintenance jobs do not all follow one process.
+A repaint and a change to walls or building services may follow different procedures. Describe precisely whether the maintenance is cosmetic, structural, services-related or a change of use. Ask a qualified adviser to establish the applicable process and necessary documents for this particular job. Compare follow-up responsibilities and excluded fees, and retain the actual decision before undertaking work that requires permission.
 
 ### 12. Extension permit coordination
 
-Define the proposed extension's area, dimensions, connection to the existing structure and utility tie-ins. Structural assessment and coordinated architectural and services drawings may be necessary; agree on responsibility and deliverables. Acceptance of an application for review is not permission to construct.
+An extension enquiry needs measured existing and proposed areas, connection points, plot boundaries and service tie-ins. Ask whether the existing structure needs assessment and who will prepare architectural, structural and services drawings. Compare proposals for survey, submissions and revisions. Neither an application number nor an initial review should be treated as authority to build.
 
 ### 13. As-built survey drawings
 
-Where current drawings are missing, commission measurements of rooms, openings, levels and visible equipment, supported by reference photographs. Clearly label surveyed, inferred and concealed information. Recheck critical dimensions before using the drawings for fabrication or submissions.
+As-built drawings must reflect a site survey, not merely trace old plans. Request measured rooms, levels, openings and visible equipment positions, supported by location-referenced photographs; identify concealed areas that could not be checked. Verify critical dimensions on site at handover, and distinguish measured from assumed information before using drawings for cabinetry fabrication or alterations.
 
 ### 14. Authority approval coordination
 
-Request an approval matrix showing potentially relevant authorities, required documents and the responsible party, without assuming every approval applies. Agree response ownership, redraw allowances and fees. Obtain a correspondence register and actual approval records rather than verbal assurances.
+Where several approvals may be involved, request a matrix showing the responsible authority, document owner, filing date and outstanding comments for each process. Avoid vague 'all approvals included' pricing: compare follow-up duties, drawing resubmissions and external fees. Obtain actual decisions, reference numbers and final status records; silence from an authority is not an approval.
 
 ## Preparing a quotation request
 

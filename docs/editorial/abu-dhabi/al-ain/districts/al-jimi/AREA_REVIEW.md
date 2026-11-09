@@ -428,3 +428,10 @@
 - تمت قراءة `content-ar.md` و`content-en.md` لثمانية تخصصات ممثلة للقطاعات الثمانية: `general-contracting/building-villas` (14)، `interior-design/architectural-plans` (14)، `general-maintenance/general-maintenance` (14)، `building-materials/building-finishing-materials` (21)، `aluminium-glass/wood-kitchens-cabinets-doors` (14)، `furniture-decor/furniture-manufacturing` (7)، `equipment-rental/construction-lifting-equipment` (7)، `cleaning-services/homes-buildings-cleaning` (7). إجمالي **98 عنوان خدمة في كل لغة**؛ تساوى عدد العناوين الرقمية في العربية والإنجليزية مع الشجرة لهذه التخصصات، ولا يشكل ذلك تدقيقًا نهائيًا لبقية الـ336 خدمة.
 - ملاحظة تحريرية: لا يزال قالب المقارنة والتعاقد متكررًا في `building-materials/building-finishing-materials` رغم تخصيص فحوص المواصفات، ويلزم تحسينه دون الإضرار بوضوح الشروط العامة.
 - **أول نقص للتحقق الشامل:** `general-contracting/restoration-renovation/content-ar.md` و`content-en.md` و`review.md`، ثم بقية تخصصات المقاولات بالتسلسل؛ استمر حتى اكتمال الجرد الكامل للـ50 تخصصًا.
+
+
+## مراجعة الترميم والتجديد — 2026-11-09
+
+- الحالة العامة: `in_progress`؛ لا انتقال إلى المويجعي قبل اكتمال فحص الجيمي.
+- تم تخصيص 28 فقرة مكررة في كل لغة عبر الخدمات السبع في [الترميم والتجديد بالعربية](./general-contracting/restoration-renovation/content-ar.md) و[الإنجليزية](./general-contracting/restoration-renovation/content-en.md) وتحديث [مراجعة التخصص](./general-contracting/restoration-renovation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتأكد تطابقها.
+- أول ملفات الجرد التالية: `general-contracting/demolition-concrete/content-ar.md` ثم `content-en.md` و`review.md` (يُتحقق من المسار الفعلي في الشجرة)، وبعده بقية التخصصات وفق المصدر. تبقى مطابقة 434 خدمة بالعربية والإنجليزية وفحص الجودة والسلامة والتصنيفات المقيدة والمقترحة في جميع التخصصات الخمسين.

@@ -99,31 +99,31 @@ This service inspects, records and closes defects in completed works; it is not 
 
 ### 22. Gypsum ceiling installation
 
-Record existing and proposed ceiling heights, room areas, AC and light positions and maintenance openings. Compare board type, metal framing, hanger spacing and moisture suitability. Inspect levelness, fixing, edge junctions and service access before painting.
+Before selecting a gypsum ceiling, request a reflected-ceiling plan showing finished heights and clearance for AC ducts, sprinklers, cables and access hatches. Measure each room and perimeter, and identify chandeliers or heavy fittings that need independent structural support rather than attachment to plasterboard. Compare board grades and moisture suitability, framing and suspension details, joint treatment, paint and service openings as separate quote items. Inspect concealed services before closure, then check flatness, corners and visible fasteners or cracks at handover.
 
 ### 23. Gypsum partition walls
 
-Mark partition lines, opening and door sizes and any wall-mounted loads, including acoustic privacy requirements. Bids should specify board layers, studs, internal insulation and reinforcement. Check plumbness, frame stability, outlet positions and joint finishing.
+A gypsum partition needs a setting-out drawing with length, height, door opening, sockets and AC interfaces. Specify acoustic privacy for bedrooms or offices and concealed backing wherever a television or cabinet will be mounted. Compare bids by board layers, stud dimensions, insulation and door-frame reinforcement; any fire-resistance requirement must come from the approved design, not an assumed board label. Inspect alignment, door stability and service locations before the second face is closed, then review finished joints under normal lighting.
 
 ### 24. Concealed-light coves
 
-Specify cove length, depth, light setback, LED strip type and driver location. Compare edge finish, driver ventilation and replacement access, not only the visual effect. Test even illumination, glare and straightness of the opening.
+A concealed lighting cove needs a dimensioned section showing length, depth, LED setback and direction of light. Specify colour temperature, dimming method, driver location and maintenance access; a driver permanently sealed behind gypsum is difficult to replace. Approve a short illuminated sample before committing to the full room. Compare prices for gypsum, wiring, strip, driver and paint together, and test even illumination, straight edges, flicker and component access at handover.
 
 ### 25. Decorative gypsum features
 
-Provide drawings of projections, curves and ornaments with dimensions and positions. Ask for a small sample where details are complex, and compare shaping, framing and painting costs separately. Check symmetry, sound edges and crack-free junctions.
+For gypsum cornices, arches and projections, supply a reference photograph together with dimensions and junctions at doors, curtains and AC outlets. Repeated profiles benefit from one approved sample showing curve radius, projection and finish, especially where room ceiling levels differ. Compare quotations by linear metres, special pieces, fixing, filling and painting rather than an undefined 'full décor' allowance. Inspect symmetry, shadow lines and vulnerable edges before accepting the work.
 
 ### 26. Wood-effect panel installation
 
-Measure the wall, slat direction, corners and outlets, and identify the substrate; approve an actual colour and texture sample. Compare moisture and scratch resistance, fixing method and end trims. Inspect consistent joints, secure panels and clear door and outlet operation.
+First identify whether wood-effect panels will sit behind a television, in a busy corridor or near moisture; the product name alone does not establish water or heat resistance. Measure wall width and height, switches and openings, and approve a physical colour and texture sample with the slat direction. Ask for material composition, thickness, substrate requirements, adhesive or mechanical fixing and edge trims, separating wall repairs from fitting. Check slat spacing, secure ends, outlet access and door clearance, and obtain the specified product's cleaning instructions.
 
 ### 27. Marble-effect panel installation
 
-Measure walls and openings and identify heat and water exposure; not every panel suits every surface. Obtain panel composition, thickness, adhesive and substrate-preparation details, and compare joint layout and pattern direction. Check flatness, sealed edges and neat treatment around sockets and corners.
+For marble-effect panels in an entrance or media wall, approve actual sheet dimensions and a joint layout so a prominent feature is not interrupted by an awkward seam. Photograph the substrate and identify existing paint, tiles or dampness; confirm adhesive and panel suitability for the actual heat and water exposure, since some decorative sheets are unsuitable near flames. Compare thickness, substrate preparation, outlet cut-outs, trims and edge sealing. Check for bubbles, waviness, consistent veining and sound joints before handover.
 
 ### 28. Gypsum repair and maintenance
 
-Document cracks, swelling or water marks before covering them. Investigate moisture ingress or frame movement first, then decide whether local patching or board and framing replacement is required. Inspect repair firmness, skim-coat flatness and paint matching after drying.
+When a gypsum joint cracks or a ceiling swells near an AC unit, photograph the defect and record whether it returns after repairs or cooling operation. Investigate moisture, framing movement and suspension condition before applying filler. Specify the opening-up area and whether boards or framing must be replaced or joint tape can be repaired, including furniture protection and waste removal. Compare investigation, materials and repainting separately; inspect after drying and confirm the moisture source has been addressed.
 
 ## Flooring and wall cladding
 

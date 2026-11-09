@@ -74,7 +74,7 @@ export default function DirectoryEmirateSectorCard({ sector, locale = 'ar', mode
           <p>{en ? 'These concise answers help you prepare the next step. Check current requirements for your project and location.' : 'إجابات عملية مختصرة تساعدك على تجهيز خطوتك التالية؛ تحقق من المتطلبات السارية لمشروعك وموقعك.'}</p>
           <ol className={hideNumbers?'list-none space-y-4':guide.topics}>
             {topics.map((topic, index) => <li key={topic.id}>
-              <h4>{emirateTopicTitle(en ? topic.enTitle : topic.arTitle, mode, locale)}</h4>
+              <h4>{(hideNumbers?emirateTopicTitle(en ? topic.enTitle : topic.arTitle, mode, locale).replace(/[0-9\u0660-\u0669]+/g,'').replace(/\s+/g,' ').trim():emirateTopicTitle(en ? topic.enTitle : topic.arTitle, mode, locale))}</h4>
               <p>{answers[index][en ? 1 : 0]}</p>
             </li>)}
           </ol>

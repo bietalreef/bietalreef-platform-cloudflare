@@ -95,7 +95,7 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
    <section className={styles.section} aria-labelledby="area-companies">
      <h2 id="area-companies">{en?'Published businesses by service area':'الشركات المنشورة حسب نطاق الخدمة'}</h2>
      {providers.length > 0 && <p className={styles.lede}>{en ? 'Ask each business to confirm service availability for your exact location and date.' : 'تواصل مع الشركة لتأكيد توفر الخدمة في موقعك والموعد المناسب.'}</p>}
-     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale}/>}</div>
+     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale} place={northern?(en?area.nameEn+', '+emirate.nameEn:area.nameAr+'، '+emirate.nameAr):''}/>}</div>
    </section>
    <section className={styles.section} aria-labelledby="area-questions">
      <h2 id="area-questions">{en?'Questions people ask about services here':'أسئلة تساعدك قبل الاتفاق'}</h2>

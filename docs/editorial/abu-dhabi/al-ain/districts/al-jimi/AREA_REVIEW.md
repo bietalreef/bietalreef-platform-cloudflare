@@ -500,3 +500,9 @@
 
 - **الحالة: `in_progress`**. صُححت فقرتا دواعي الحاجة بالعربية وأربع فقرات بالإنجليزية وخطأ نحوي إنجليزي في تخصص [التصميم الداخلي والمواد](./interior-design/interior-materials/review.md)، خصوصًا لوحة المواد وجدول التشطيبات والمجلس والإضاءة. حُفظ [العربي](./interior-design/interior-materials/content-ar.md) و[الإنجليزي](./interior-design/interior-materials/content-en.md) وسجل التخصص، وأُعيدت قراءة الملفات الثلاثة من GitHub للتحقق.
 - **النواقص الدقيقة التالية:** مراجعة النطاق والاستثناءات والاستلام وطلب السعر للخدمات 1–21 في `interior-design/interior-materials`؛ ثم فحص التخصصات المتبقية في `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، والتأكد من مطابقة 50 تخصصًا و434 خدمة بكل لغة مع الشجرة وحالات التصنيف. لا يُعد أي تخصص أو منطقة معتمدًا لمجرد اكتمال العناوين.
+
+## متابعة 2026-11-10 — حالة `in_progress`
+
+- تخصص `interior-design/interior-materials`: تصحيح وصف الحاجة العربي لخدمتي «توزيع الأثاث» و«إعداد التصور ثلاثي الأبعاد»؛ التحقق من صحة مقابلتيهما الإنجليزيتين، وتصحيح خطأ نحوي في مخرج التصور الإنجليزي. ملفات: [العربية](./interior-design/interior-materials/content-ar.md)، [الإنجليزية](./interior-design/interior-materials/content-en.md)، [المراجعة](./interior-design/interior-materials/review.md).
+- **النواقص الدقيقة التالية:** مراجعة النطاق والاستثناءات والاستلام وطلب السعر للخدمات الـ21 في `interior-design/interior-materials` واحدةً واحدةً، ثم مراجعة `general-contracting/building-villas` وبقية تخصصات القطاعات الثمانية للتحقق من تفرّد النصوص؛ لا تكفي مطابقة العناوين والعدد (434 خدمة/لغة) لاعتماد الجودة.
+- لا انتقال إلى المويجعي قبل اعتماد الجيمي كاملة؛ لا تغييرات برمجية أو نشر.

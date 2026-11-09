@@ -483,3 +483,10 @@
 
 - **الحالة: `in_progress`**. أُجريت تعديلات مباشرة في [المحتوى العربي](./interior-design/interior-materials/content-ar.md) و[المحتوى الإنجليزي](./interior-design/interior-materials/content-en.md): تخصيص 2 فقرتين عربيتين و6 فقرات إنجليزية في وصف دواعي الحاجة بحسب المطابقة النصية، وحذف جملة قياس عامة متكررة في 21 موضعًا بكل لغة مع الحفاظ على المقاسات المحددة لكل خدمة. [مراجعة التخصص](./interior-design/interior-materials/review.md). تحققت إعادة قراءة الملفات الثلاثة من GitHub بعد الرفع.
 - **أول نقص تالٍ:** استكمال فحص فقرات الحاجة غير المخصصة في `interior-design/interior-materials` ثم مراجعة فقرات الاستلام وطلب السعر المكررة، وبعدها جرد `general-maintenance` ثم `building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومطابقة جميع عناوين الخدمات العربية الـ434 والإنجليزية وفحص التكرار والسلامة والتصنيفات قبل اعتماد الجيمي. لا تبدأ المويجعي.
+
+
+## متابعة تحرير الجيمي — 2026-11-09 (تخصيص دواعي الحاجة)
+
+- **الحالة: `in_progress`**. عُدلت 18 فقرة عربية و13 فقرة إنجليزية متكررة في [التصميم الداخلي والمواد](./interior-design/interior-materials/review.md) لتصبح تعليمات جمع معلومات مخصصة للخدمة. أُعيدت قراءة الملفين من GitHub بعد رفعهما، وتأكد تطابقهما.
+- **النواقص الدقيقة:** مراجعة صياغات النطاق والاستثناءات والاستلام وطلب السعر في `interior-design/interior-materials/content-ar.md` و`content-en.md`؛ تدقيق ما تبقى من تخصصات `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services` وفق فهرس المنطقة؛ التحقق النهائي من التفرّد الفني والتصنيفات والتكافؤ اللغوي لجميع الخدمات الـ434 في كل لغة.
+- لا تبدأ المويجعي حتى اعتماد جميع التخصصات الخمسين بعد التدقيق الفعلي.

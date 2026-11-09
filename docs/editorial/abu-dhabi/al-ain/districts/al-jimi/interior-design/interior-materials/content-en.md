@@ -12,7 +12,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare guest circulation, privacy and hospitality layouts; agree on the final scaled seating plan, power-point coordination and one measured revision.
 
-**Acceptance and quotation enquiry:** check guest circulation and door swings against furniture. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check guest circulation and door swings against furniture. For a comparable design quotation, provide guest capacity, hospitality locations, privacy requirements and the requested majlis plan; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 2. Living room design
 
@@ -24,7 +24,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare screen glare, seating distances and storage arrangements; require a dimensioned furniture plan and device connection locations.
 
-**Acceptance and quotation enquiry:** check screen glare and cleaning access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check screen glare and cleaning access. For a comparable design quotation, provide household use, screen position, storage needs and furniture to retain; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 3. Bedroom design
 
@@ -36,7 +36,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Request bed and wardrobe alternatives showing door and drawer clearances; agree on final dimensions and bedside switching positions.
 
-**Acceptance and quotation enquiry:** verify drawer operation and bedside switch access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** verify drawer operation and bedside switch access. For a comparable design quotation, provide bed and wardrobe dimensions, switch locations and drawer-opening clearances; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 4. Kitchen design
 
@@ -48,7 +48,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare cabinet sections, worktop details and appliance clearances; allocate responsibility for checking appliance dimensions and coordinating plumbing and power.
 
-**Acceptance and quotation enquiry:** verify appliance openings, work clearance, extraction and surface suitability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** verify appliance openings, work clearance, extraction and surface suitability. For a comparable design quotation, provide appliance sizes, cabinet layout, water and drain points, and extraction route; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 5. Bathroom design
 
@@ -60,7 +60,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Require sanitary-fixture layout, floor falls and wet-area details; clarify who coordinates waterproofing and drainage changes.
 
-**Acceptance and quotation enquiry:** check maintenance access, drainage direction and joints. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check maintenance access, drainage direction and joints. For a comparable design quotation, provide fixture positions, drainage, floor falls and the boundary of waterproofing works; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 6. Furniture layout
 
@@ -72,7 +72,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare alternative furniture arrangements and clear circulation widths; identify retained pieces and who checks product sizes before ordering.
 
-**Acceptance and quotation enquiry:** compare actual product dimensions with plan before purchase. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** compare actual product dimensions with plan before purchase. For a comparable design quotation, provide a measured inventory of retained furniture and required circulation widths; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 7. 3D visualisation
 
@@ -84,7 +84,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Specify render viewpoints, resolution, revision rounds and source-file inclusion; check drawing fidelity rather than comparing image fees alone.
 
-**Acceptance and quotation enquiry:** match proportions and openings to plans; renders are not shop drawings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** match proportions and openings to plans; renders are not shop drawings. For a comparable design quotation, provide reference drawings, camera viewpoints, image resolution and revision allowance; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 8. Office design
 
@@ -96,7 +96,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare workstation capacity, meeting spaces, acoustic privacy and data routes; agree on a departmental needs schedule and service points.
 
-**Acceptance and quotation enquiry:** check accessibility, noisy zones and sightlines. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check accessibility, noisy zones and sightlines. For a comparable design quotation, provide workstation and meeting counts, network outlets and acoustic privacy; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 9. Retail store design
 
@@ -108,7 +108,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Require shelf, checkout, storage and delivery-route plans; compare sightlines and accessibility and define signage coordination.
 
-**Acceptance and quotation enquiry:** check merchandise visibility, stock access and exits. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check merchandise visibility, stock access and exits. For a comparable design quotation, provide product categories, customer routes, shelving sizes and stockroom needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 10. Restaurant and café design
 
@@ -120,7 +120,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare separation of food preparation, seating, waste and ventilation; identify who checks relevant authority requirements before implementation.
 
-**Acceptance and quotation enquiry:** review food/waste route conflicts and relevant authority requirements. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** review food/waste route conflicts and relevant authority requirements. For a comparable design quotation, provide seating capacity, service flow, food-preparation equipment and ventilation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 11. Salon design
 
@@ -132,7 +132,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Specify stations, basins and waiting capacity; compare cleaning access and coordinate power and water-point responsibilities.
 
-**Acceptance and quotation enquiry:** check floor cleaning and staff/customer movement. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check floor cleaning and staff/customer movement. For a comparable design quotation, provide service stations, waiting areas, wash points and privacy needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 12. Clinic design
 
@@ -144,7 +144,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Require examination-room privacy, waiting and hygiene flows; make design review against the licensed clinical activity an explicit deliverable.
 
-**Acceptance and quotation enquiry:** check patient privacy and cleanable finishes; no approval implied. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check patient privacy and cleanable finishes; no approval implied. For a comparable design quotation, provide clinic type, patient routes, examination rooms and relevant approval requirements; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 13. Exhibition design
 
@@ -156,7 +156,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare exhibit loads, plinth stability, lighting and visitor paths; distinguish concept sketches from engineered fixing approvals.
 
-**Acceptance and quotation enquiry:** check display stability, visibility and exit circulation. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check display stability, visibility and exit circulation. For a comparable design quotation, provide exhibit types and dimensions, mounting methods and visitor circulation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 14. Reception area design
 
@@ -168,7 +168,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare counter height, screen privacy and waiting space; agree on options and responsibility for appropriate access review.
 
-**Acceptance and quotation enquiry:** check receptionist sightlines and screen privacy. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** check receptionist sightlines and screen privacy. For a comparable design quotation, provide reception staffing, visitor flow, waiting capacity and privacy needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 15. Flooring selection
 
@@ -180,7 +180,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Request physical samples, slip and wet-use suitability and transition details; compare performance in each room, not appearance alone.
 
-**Acceptance and quotation enquiry:** review sample, slip suitability, joints and level changes. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** review sample, slip suitability, joints and level changes. For a comparable design quotation, provide room areas, intended use, substrate condition and flooring samples; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 16. Paint colour selection
 
@@ -192,7 +192,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Specify paint codes, sheen and on-wall sample locations; compare colours under different lighting and define sample approval before purchase.
 
-**Acceptance and quotation enquiry:** approve a large on-wall sample before full ordering. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** approve a large on-wall sample before full ordering. For a comparable design quotation, provide daylight photographs, paint samples, colour tones and finish sheen; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 17. Stone and tile selection
 
@@ -204,7 +204,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare tile sizes, vein direction, joints and expected cutting waste; require a setting-out drawing and batch/sample approval.
 
-**Acceptance and quotation enquiry:** inspect physical samples, batch consistency and cuts around openings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** inspect physical samples, batch consistency and cuts around openings. For a comparable design quotation, provide surface dimensions, wet-area exposure, stone and tile samples and joint details; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 18. Furniture selection
 
@@ -216,7 +216,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare furniture sizes, frame durability, fabrics, warranty and delivery; record approved substitutes if selected items are unavailable.
 
-**Acceptance and quotation enquiry:** test comfort, upholstery and sample match before accepting delivery. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** test comfort, upholstery and sample match before accepting delivery. For a comparable design quotation, provide furniture budget, product dimensions, use intensity and upholstery needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 19. Lighting selection
 
@@ -228,7 +228,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Require fixture schedules, colour temperature, controls and locations; compare glare, task lighting and electrical circuit coordination.
 
-**Acceptance and quotation enquiry:** review operating scenes, glare and light uniformity. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** review operating scenes, glare and light uniformity. For a comparable design quotation, provide room functions, electrical points, lighting levels and control preferences; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 20. Materials mood board
 
@@ -240,7 +240,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Agree on physical sample count, supplier references, alternatives and intended locations; require a numbered sample board, not only digital images.
 
-**Acceptance and quotation enquiry:** review samples under site lighting and their cleanability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** review samples under site lighting and their cleanability. For a comparable design quotation, provide room photographs, material samples, colour references and acceptable alternatives; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 21. Finishes schedule
 
@@ -252,4 +252,4 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare room references, drawing links and sample codes in the finishes schedule; allocate responsibility for updating it when specifications change.
 
-**Acceptance and quotation enquiry:** cross-check references, quantities and locations against drawings before pricing. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
+**Acceptance and quotation enquiry:** cross-check references, quantities and locations against drawings before pricing. For a comparable design quotation, provide room schedule, finish codes, quantities and approved drawing references; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.

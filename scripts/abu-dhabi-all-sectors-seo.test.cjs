@@ -39,7 +39,7 @@ const metadata=read('data/abuDhabiSectorSeo.js');
 const helper=read('lib/abuDhabiSectorContent.js');
 const schema=read('components/UaeDirectorySeo.js');
 for (const route of [ar,en]){
-  assert.match(route,/getAbuDhabiSectorContent\(service.slug\)/);
+  assert.match(route,/getGeographicSectorContent\(service.slug,emirate.slug\)/);
   assert.match(route,/serviceGuides=\{sectorGuides\}/);
   assert.match(route,/sectorGuides,/);
   assert.match(route,/getSectorTaxonomy\(service.slug/);

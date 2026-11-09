@@ -49,7 +49,7 @@ export default function AlAinCleaningPage({model}) {
   const allFaq=[...guide.faq,...(service?[{q:{ar:'كيف أطلب هذه الخدمة في العين؟',en:'How do I request this service in Al Ain?'},a:{ar:'حدد المنطقة والعدد أو المساحة وأرفق صورًا حديثة. اطلب تأكيد طريقة التنظيف والنطاق والسعر والموعد قبل اعتماد الحجز.',en:'Share your district, quantity or area and recent photos. Confirm method, scope, price and date before booking.'}}]:[])];
   const track=(event,p)=>void trackPublicEvent('click',{metadata:{local_event:event,city:'al-ain',category:'cleaning-services',service:service||'',provider_id:p.id,provider_slug:p.slug}});
   return <>
-    <SEOHead title={model.title} description={model.description} canonicalPath={model.canonical.replace('https://bietalreef.ae','')} alternatePath={model.alternates.en.replace('https://bietalreef.ae','')} noIndex={!model.indexable} noIndexFollow ogImage={'https://bietalreef.ae'+guide.image} structuredData={model.schema} breadcrumbs={model.breadcrumbs}/>
+    <SEOHead title={model.title} description={model.description} canonicalPath={model.canonical.replace('https://bietalreef.ae','')} alternatePath={model.alternates.en.replace('https://bietalreef.ae','')} noIndex={!model.indexable && !model.sectorTaxonomy?.length} noIndexFollow ogImage={'https://bietalreef.ae'+guide.image} structuredData={model.schema} breadcrumbs={model.breadcrumbs}/>
     <div className={styles.page} dir={en?'ltr':'rtl'} lang={locale}>
       <Navbar locale={locale}/>
       <main className={styles.main}>

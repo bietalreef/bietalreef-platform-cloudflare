@@ -60,7 +60,7 @@ export default function EnglishLocalServicePage({ model, geographicServiceCollec
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} area={area} service={service} cleanNavigation />
           {!geoSector && <UaeContextInfoCard locale="en" locationLabel={`${area.nameEn}, ${emirate.nameEn}`} title={`About ${service.nameEn} in ${area.nameEn}`} description={`This page places ${service.nameEn.toLowerCase()} in its correct location context and provides a clear path back to the area and emirate or forward to a project request.`} />}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={area.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={area.nameEn}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={area.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+area.slug+'/'+service.slug}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={area.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" excludeSpecialties={sectorTaxonomy}/>}
           <UaeDirectoryWeyaakCard locale="en" title={`Ask Weyaak about ${service.nameEn} in ${area.nameEn}`} description="Share the service details, measurements or available photos, and Weyaak will help structure and route the request by location and specialty." />

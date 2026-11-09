@@ -56,7 +56,7 @@ assert.match(explorer, /directoryServiceCopy/);
 assert.match(explorer, /'@type':'ItemList'/);
 assert.match(quote, /pagePath: pagePath \|\| window\.location\.pathname/);
 assert.match(quote, /971564456337/);
-assert.match(quote, /customerPhone: phone/);
+assert.match(quote, /customerPhone: phone\.trim\(\)/);
 assert.match(schema, /BreadcrumbList/);
 assert.match(schema, /hrefLang="ar-AE"/);
 assert.match(schema, /hrefLang="en-AE"/);

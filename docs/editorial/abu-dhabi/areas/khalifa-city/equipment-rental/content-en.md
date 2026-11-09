@@ -130,61 +130,61 @@ Contractor stone orders need a controlled link between fabrication, delivery and
 
 ### 29. Hand tools retail
 
-Specify wrench or driver sizes, application and usage frequency rather than brand alone. Compare grip, durability and warranty; inspect dimensions and safe edges.
+Start with the actual tasks and sizes: metric or imperial spanners, screwdriver profiles and any torque range that matters. Send a photo of the existing fitting or a size schedule instead of buying an oversized assortment. Compare steel quality, grip, replaceable components and warranty; occasional household use and repeated workshop duty are not equivalent. On delivery check jaw edges, straightness and the item count against the invoice, and try one representative fit without overloading the tool.
 
 ### 30. Power tools retail
 
-Set drilling or cutting duties, material thickness, power supply and guards. Compare motor capacity, attachments, batteries and service parts; perform a no-load check.
+Describe the material to drill or cut, its thickness, daily duty and available power before choosing a tool. A hammer drill is not a fastening driver, and a wood saw is not automatically suitable for metal. Provide site photos and state corded or battery preference. Ask suppliers to separate the body, batteries, charger, discs and guards in the quotation. Compare speed control, power, spare parts and servicing as well as price. Check serial numbers, accessories and safety guards, then perform a permitted no-load test before acceptance.
 
 ### 31. Safety equipment retail
 
-Identify the actual hazard—fall, splash, dust or noise—before ordering protection. Compare suitability, fit and expiry dates; inspect undamaged gear and use instructions.
+Select protective equipment against a defined hazard: falls, fine dust, chemical splashes, noise or flying particles. State wearer numbers, sizes and duration of exposure. Request manufacturer suitability data and applicable product documentation rather than assuming a label proves regulatory approval. A hard hat is not a face shield, and an ordinary mask may not control the identified respiratory risk. Compare fit, replacement intervals, expiry and instructions. Inspect straps, lenses, packaging and batch identifiers on receipt so the supplied items remain traceable.
 
 ### 32. Workshop equipment retail
 
-Specify machine dimensions, energy supply, ventilation and surrounding clearance. Compare warranty, maintenance and spares plus installation; verify safe operation.
+Plan the workshop workflow before buying machines: material entry, cutting, assembly, storage and safe circulation. Supply machine footprints, power availability, extraction needs and floor-loading information. Ask for installation, commissioning, operator training and spare-part terms, with lifting and delivery priced separately. Compare realistic output and operating accuracy rather than rated capacity alone. Acceptance should include guards and emergency-stop checks plus a documented trial on representative workshop material under safe conditions.
 
 ### 33. Cleaning equipment retail
 
-Describe soil type, coverage, water/power and extraction/drying needs. Compare production rate, accessories and consumables; inspect tanks and moving parts.
+Choose a cleaning machine for the soil and surface, not simply its tank capacity. For hard floors assess brush width, water recovery and drying time; for upholstery assess extraction and detergent compatibility. Record water, power and wastewater arrangements and request a small trial on delicate finishes. Compare accessories, consumables, tank cleaning and service support. At handover inspect hoses, seals and brushes, run an appropriate cleaning or suction test and check for leaks.
 
 ### 34. Spare parts retail
 
-Provide equipment and part numbers with fault photographs rather than a vague description. Compare fit, warranty and return terms; inspect codes and dimensions before fitting.
+Supply the maker, machine model, serial number and part number where available, supported by clear photographs of the failed component and its location. Visual similarity does not establish matching voltage, dimensions, rotation or mounting points. Distinguish original and alternative parts in quotations and clarify returns for incompatibility. Compare delivery lead time, warranty and related consumables. Check codes, connectors and dimensions before installation, retaining packaging and invoices; safety-critical fitting and testing require an appropriately qualified person.
 
 ### 35. Equipment servicing
 
-Log symptoms, hours run, previous maintenance and transport arrangements. Compare diagnosis, parts, labour and safety tests; accept a service report and functional check.
+Record running hours, symptoms, when the fault appears and previous maintenance, with safe photographs or video where useful. Request a diagnosis that distinguishes electrical, mechanical and maintenance-related causes before approving major replacement. The quotation should separate inspection, parts, labour and transport, with approval required for extra work. On completion request a service report identifying replaced components and tests performed, observe a safe functional test and confirm whether the original symptom is resolved and what the warranty excludes.
 
 ## Household and commercial removals
 
 ### 36. Household moving
 
-Inventory room contents, oversized pieces, floors, lifts and truck parking. Compare packing, dismantling, labour, protection and damage terms; reconcile numbered items by room.
+Prepare a room-by-room inventory of large furniture, glazing, appliances and fragile possessions, photographing their condition before collection. Provide floor numbers, lift and doorway dimensions, carrying distance and truck parking arrangements. Clarify whether dismantling, packing and reassembly are included. Compare crew size, vehicle capacity, protective materials, damage liability and waiting charges. Number cartons without exposing sensitive details. At destination reconcile the inventory by room and inspect corners, surfaces and appliances before signing the handover.
 
 ### 37. Office moving
 
-Count workstations, cabinets, devices, sensitive records and downtime window. Compare device disconnection, labelling and data security; test workspace readiness to layout.
+An office move requires a continuity plan as well as a furniture count. Inventory workstations, storage, printers, screens and records, identifying items to discard and windows for shutdown and reconnection. Agree who handles backups, confidential records and network disconnection; these are not automatically the mover's responsibility. Compare labelling, packing, route protection, lifting and out-of-hours rates. At handover reconcile workstation identifiers with the new layout, inspect furnishings and record missing or damaged items before closure.
 
 ### 38. Furniture dismantling and reassembly
 
-Photograph joints and record fittings for every bed and wardrobe before disassembly. Compare packing, labels and reinstatement; inspect stable furniture and complete hardware.
+Photograph joints, matching panels and hinge positions before dismantling beds, wardrobes or desks; measure the destination room if the layout changes. Some flat-pack furniture does not tolerate repeated disassembly, so identify damaged boards and replacement fixings beforehand. Compare item labelling, wrapping, transport and readjustment, and specify separately whether scratch repairs are included. Keep fittings in labelled bags linked to each item. After reassembly test stability, door alignment and drawer travel, and account for all screws and panels.
 
 ### 39. Furniture wrapping
 
-Identify glass, lacquered wood, textiles and vulnerable edges and sizes. Compare wrapping layers, covers and vehicle restraints; inspect packing before loading.
+Packing methods should match the finish. Glass needs edge protection and separation; painted timber needs non-marking contact layers; textiles need clean covers appropriate to dust and moisture exposure. Provide item photographs and dimensions and explain whether packing is for short transport, long-distance haulage or storage. Ask the supplier to identify corner protection, wrapping layers, vehicle restraint and who removes packaging. Inspect finishes before wrapping and again after unwrapping, documenting any visible damage immediately.
 
 ### 40. Loading labour supply
 
-List pieces, approximate weights, stairs, carry distances and time. Compare crew size, handling aids, protection and liability; observe safe loading routes.
+Provide approximate piece counts, dimensions and weights, floor levels, stairs and carrying distance from truck to destination. Crew numbers alone are insufficient when lifting aids, long items or fragile materials are involved. Compare supervision, handling equipment, hours, wall and floor protection and damage responsibility. Keep routes clear and use suitable equipment for loads that should not be lifted manually. At completion reconcile piece counts and document any loss or damage.
 
 ### 41. Temporary storage
 
-Inventory items, storage duration and ventilation or moisture needs. Compare access control, insurance and partial retrieval; obtain a condition and item receipt.
+Create an itemised condition record with photographs before storage. State the intended period, piece dimensions and sensitivity to moisture or temperature. Ask how items are stacked, ventilated and protected from water, pests and unauthorised access; do not assume comprehensive insurance without reading its terms. Compare usable space, intake fees, partial retrieval, extensions and final delivery. Obtain a numbered receipt tied to each item or carton and its storage location. Reconcile the inventory and inspect wrapping and surfaces when collecting.
 
 ### 42. Inter-emirate removals
 
-List origin and destination emirates, load volume, access and requested date. Compare routing, truck type, packaging and disclosed transport charges; count items at delivery.
+An inter-emirate move needs precise pickup and delivery locations, access windows, load volume and items requiring dismantling or lifting equipment. List appliances, furniture and fragile pieces and distinguish packing, temporary storage and transport-only services. Compare vehicle type, restraint methods and disclosed waiting, loading and stop charges; do not assume a guaranteed arrival time. Record condition before collection and agree a delay contact. Count cartons and items at delivery and note breakage or scratches in the handover record.
 
 ## Construction logistics and haulage
 

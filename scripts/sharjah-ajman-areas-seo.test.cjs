@@ -46,7 +46,7 @@ for(const [locale,file] of [['ar','pages/uae/[activity]/[emirate].js'],['en','pa
  assert.match(page,/MainSectorCards locale=/);
  assert.match(page,/regionArea&&<DirectorySectorQuoteForm locale=/);
  assert.match(page,/UaeDirectorySeo locale=/);
- assert.match(page,/area=\{regionArea\?area:undefined\}/);
+ assert.match(page,/area=\{regionArea\|\|northernLocal\?area:undefined\}/);
  assert.match(page,/area-service-head/);
 }
 for(const [locale,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
@@ -54,10 +54,10 @@ for(const [locale,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js']
  assert.match(page,/areaSectorEditorial\(emirate,area,service,/);
  assert.match(page,/getGeographicSectorContent\(service.slug,emirate.slug,area\)/);
  assert.match(page,/serviceGuides=\{sectorGuides\}/);
- assert.match(page,/quotePlacement=\{regionArea\?'external':'inline'\}/);
- assert.match(page,/regionArea&&geoSector&&<DirectorySectorQuoteForm locale=/);
+ assert.match(page,/quotePlacement=\{regionArea\|\|northern\?'external':'inline'\}/);
+ assert.match(page,/\(regionArea\|\|northern\)&&geoSector&&<DirectorySectorQuoteForm locale=/);
  assert.match(page,/sectorTaxonomy\?\.length\?sectorTaxonomy/);
- assert.match(page,/onServiceRequest=\{regionArea\?setRequestedService:undefined\}/);
+ assert.match(page,/onServiceRequest=\{regionArea\|\|northern\?setRequestedService:undefined\}/);
  assert.match(page,/aria-label=/);
 }
 const meta=read('components/UaeDirectorySeo.js');

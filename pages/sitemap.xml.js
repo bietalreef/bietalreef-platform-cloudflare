@@ -126,6 +126,18 @@ export async function getServerSideProps({ res }) {
     }
   }
 
+  // Northern place guides are genuine bilingual editorial pages, not fabricated company listings.
+  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah'].includes(item.slug))) {
+    for (const area of emirate.areas) {
+      const hub = '/uae/'+emirate.slug+'/'+area.slug;
+      addPair(hub,'/en'+hub,undefined,{priority:0.65,lastmod:'2026-11-09'});
+      for(const sector of UAE_MAIN_SECTORS) {
+        const path = hub+'/'+sector.slug;
+        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{priority:0.64,lastmod:'2026-11-09'});
+      }
+    }
+  }
+
   try {
     const locations = [{emirate:'abu-dhabi',city:''},{emirate:'abu-dhabi',city:'al-ain'},{emirate:'dubai',city:''}];
     const groups = await Promise.all(UAE_MAIN_SECTORS.flatMap(sector => locations.map(place =>

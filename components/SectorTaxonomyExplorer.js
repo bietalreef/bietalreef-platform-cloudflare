@@ -27,6 +27,13 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
   const assets=visualData[normalized]?.items||[];
   const [requestedServices, setRequestedServices] = useState('');
   const [expandedSpecialty, setExpandedSpecialty] = useState(null);
+  // SEO deep links to a service also open its parent specialty on hydration.
+  useEffect(()=>{
+    const hash=window.location.hash.slice(1);
+    if(!hash.startsWith('service-')||!Array.isArray(items))return;
+    const group=items.find(entry=>(entry.services||[]).some(service=>'service-'+entry.slug+'-'+service.slug===hash));
+    if(group)setExpandedSpecialty(group.slug);
+  },[items]);
   // Move the viewport to the full-width reading panel once it has opened.
   useEffect(()=>{
     if(!expandedSpecialty)return;

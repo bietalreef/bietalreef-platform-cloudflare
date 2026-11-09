@@ -134,17 +134,25 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "392/434 independently rewritten AR/EN; equipment-rental 53/53 verified. Remaining cleaning-services 1–42 (42). Not approved for publication.",
+      "review_note": "399/434 independently rewritten AR/EN; equipment-rental 53/53 and cleaning-services 1–7 verified. Remaining cleaning-services 8–42 (35). Not approved for publication.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "خدمات التنظيف",
-        "rewritten_service_numbers": [],
-        "next_service_number": 1,
-        "remaining_in_sector": 42,
+        "specialty": "تنظيف المفروشات",
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "next_service_number": 8,
+        "remaining_in_sector": 35,
         "sector_total": 42,
         "area_total": 434,
-        "area_independently_rewritten": 392,
-        "remaining_area_services_for_originality_review": 42,
+        "area_independently_rewritten": 399,
+        "remaining_area_services_for_originality_review": 35,
         "area_editorially_approved": false
       }
     },

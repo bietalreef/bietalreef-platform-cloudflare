@@ -13,6 +13,7 @@ import d from './DirectoryLandingPage.module.css';
 import guide from './EmirateSectorGuide.module.css';
 
 import { emirateTopicTitle } from '../lib/emirateTopicTitle';
+import {isNorthernEmirate} from '../data/northernDirectoryContent';
 
 // The national directory's existing editorial guide provides the common
 // professional background. Each local page adds its own location-specific
@@ -42,6 +43,7 @@ function localGuideBlocks(slug, mode, locale) {
 
 export default function DirectoryEmirateSectorCard({ sector, locale = 'ar', mode, Action }) {
   const en = locale === 'en';
+  const hideNumbers=isNorthernEmirate(mode);
   const number = EMIRATE_SECTOR_ORDER.indexOf(sector.slug);
   const local = EMIRATE_SECTOR_CONTEXTS[mode]?.[number]?.[en ? 1 : 0];
   const topics = chapterIndex.items[sector.slug] || [];
@@ -68,9 +70,9 @@ export default function DirectoryEmirateSectorCard({ sector, locale = 'ar', mode
             if (block.type === 'subheading') return <h4 key={index}>{block.text}</h4>;
             return <p key={index}>{block.text}</p>;
           })}
-          <h3>{en ? '17 practical questions' : '17 محورًا يساعدك على الاختيار'}</h3>
+          <h3>{hideNumbers?(en?'Practical questions for your project':'محاور عملية لاختيار الجهة المناسبة'):(en?'17 practical questions':'17 محورًا يساعدك على الاختيار')}</h3>
           <p>{en ? 'These concise answers help you prepare the next step. Check current requirements for your project and location.' : 'إجابات عملية مختصرة تساعدك على تجهيز خطوتك التالية؛ تحقق من المتطلبات السارية لمشروعك وموقعك.'}</p>
-          <ol className={guide.topics}>
+          <ol className={hideNumbers?'list-none space-y-4':guide.topics}>
             {topics.map((topic, index) => <li key={topic.id}>
               <h4>{emirateTopicTitle(en ? topic.enTitle : topic.arTitle, mode, locale)}</h4>
               <p>{answers[index][en ? 1 : 0]}</p>

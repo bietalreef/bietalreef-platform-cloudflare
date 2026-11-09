@@ -24,7 +24,7 @@ assert.match(explorer, /aria-expanded=\{expanded\}/);
 assert.match(explorer, /aria-controls=\{'specialty-services-'/);
 assert.match(explorer, /hidden=\{!expanded\}/);
 assert.match(explorer, /specialtyRows\.map/);
-assert.match(explorer, /<h2 className="text-sm font-extrabold/);
+assert.match(explorer, /<h2 className="text-base font-extrabold/);
 assert.match(explorer, /directoryServiceTitle/);
 assert.match(explorer, /directoryServiceCopy/);
 assert.match(explorer, /reviewedServiceGuides/);

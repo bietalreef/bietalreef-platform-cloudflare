@@ -134,10 +134,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "346/434 independently rewritten in AR/EN; equipment rental services 1–7 verified, services 8–53 and cleaning 1–42 remain. Not approved for publication.",
+      "review_note": "353/434 independently rewritten in AR/EN; equipment rental services 1–14 verified; services 15–53 and cleaning 1–42 remain. Not approved for publication.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "تأجير الأدوات والمعدات الخفيفة",
+        "specialty": "مصانع الألمنيوم والزجاج",
         "rewritten_service_numbers": [
           1,
           2,
@@ -145,14 +145,21 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ],
-        "next_service_number": 8,
-        "remaining_in_sector": 46,
+        "next_service_number": 15,
+        "remaining_in_sector": 39,
         "sector_total": 53,
         "area_total": 434,
-        "area_independently_rewritten": 346,
-        "remaining_area_services_for_originality_review": 88,
+        "area_independently_rewritten": 353,
+        "remaining_area_services_for_originality_review": 81,
         "area_editorially_approved": false
       }
     },

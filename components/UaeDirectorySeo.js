@@ -13,14 +13,14 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
   const imageWidth = image ? 1440 : service ? 1536 : 1600;
   const imageHeight = image ? 810 : service ? 864 : 1000;
   const fullTitle = seoTitle || `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
-  const hasSectorPath = emirate?.slug === 'abu-dhabi' && !!service;
+  const hasSectorPath = !!emirate?.slug && !!service;
   const breadcrumbData = hasSectorPath ? {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: isEn ? 'UAE directory' : 'دليل الإمارات', item: 'https://bietalreef.ae' + (isEn ? '/en/uae' : '/uae') },
-      { '@type': 'ListItem', position: 2, name: isEn ? 'Abu Dhabi' : 'أبوظبي', item: 'https://bietalreef.ae' + (isEn ? '/en/uae/abu-dhabi' : '/uae/abu-dhabi') },
-      ...(area ? [{ '@type': 'ListItem', position: 3, name: isEn ? area.nameEn : area.nameAr, item: 'https://bietalreef.ae' + (isEn ? '/en' : '') + '/uae/abu-dhabi/' + area.slug }] : []),
+      { '@type': 'ListItem', position: 2, name: isEn ? emirate.nameEn : emirate.nameAr, item: 'https://bietalreef.ae' + (isEn ? '/en' : '') + '/uae/' + emirate.slug },
+      ...(area ? [{ '@type': 'ListItem', position: 3, name: isEn ? area.nameEn : area.nameAr, item: 'https://bietalreef.ae' + (isEn ? '/en' : '') + '/uae/' + emirate.slug + '/' + area.slug }] : []),
       { '@type': 'ListItem', position: area ? 4 : 3, name: title, item: canonical },
     ],
   } : null;

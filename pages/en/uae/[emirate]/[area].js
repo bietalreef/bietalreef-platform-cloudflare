@@ -33,7 +33,7 @@ import SectorVisualGuide from '../../../../components/SectorVisualGuide';
 import SectorTaxonomyExplorer from '../../../../components/SectorTaxonomyExplorer';
 import DirectorySectorQuoteForm from '../../../../components/DirectorySectorQuoteForm';
 import {getSectorTaxonomy} from '../../../../lib/sectorTaxonomyExplorer';
-import {getAbuDhabiSectorContent} from '../../../../lib/abuDhabiSectorContent';
+import {getGeographicSectorContent} from '../../../../lib/geographicSectorContent';
 import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../../components/AbuDhabiAreaGuide';
 import {getPublishedAbuDhabiAreaCompanies} from '../../../../lib/abuDhabiAreaPublishedCompanies';
 import abuAreaEditorial from '../../../../data/abuDhabiAreaEditorial.json';
@@ -43,7 +43,7 @@ import { getEnglishUaeDirectoryCards } from '../../../../lib/platformDirectoryCa
 function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, geographicOffers, sectorTaxonomy, sectorGuides }) {
   const [requestedService,setRequestedService]=useState('');
   const seo = directorySectorSeo(service.slug, 'en', emirate);
-  const geoSector = ['abu-dhabi','dubai'].includes(emirate.slug) && !!seo;
+  const geoSector = ['abu-dhabi','dubai','sharjah','ajman'].includes(emirate.slug) && !!seo;
   const title = seo?.heading || `${service.nameEn} in ${emirate.nameEn}`;
   const description = seo?.description || `Explore ${service.nameEn.toLowerCase()} providers and related locations across ${emirate.nameEn}.`;
   const sectorImage = seo ? UAE_SECTOR_ASSETS[service.slug]?.desktop : undefined;
@@ -61,6 +61,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, ge
         {!geoSector && emirate.slug !== 'abu-dhabi' && <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />}
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
+          {seo?.context?.length>0 && <section className="mx-auto max-w-6xl px-3 pt-6 sm:px-4" aria-label="Local project preparation guidance"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">Planning these services in {emirate.nameEn}</h2>{seo.context.map((paragraph,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={emirate.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={emirate.nameEn}/>}
@@ -153,11 +154,11 @@ export async function getStaticProps({ params }) {
   const baniyasReadingHtml=area?.slug==='baniyas' && emirate.slug==='abu-dhabi'
     ? (await import('../../../../data/baniyasConstructionReading')).baniyasConstructionReadingHtml('en')
     : null;
-  const geoSector=['abu-dhabi','dubai'].includes(emirate.slug) && service && !area && ABU_DHABI_SECTOR_SEO[service.slug];
+  const geoSector=['abu-dhabi','dubai','sharjah','ajman'].includes(emirate.slug) && service && !area && ABU_DHABI_SECTOR_SEO[service.slug];
   const geographicCards = geoSector ? await getGeographicPublishedServiceCards('en', {emirate:emirate.slug,sector: service.slug}).catch(error => { console.error('Unable to load geographic services:', error?.message); return null; }) : null;
   const geographicOffers = geoSector ? await getGeographicPublishedServiceCards('en', {emirate:emirate.slug,sector:service.slug,cardType:'offer'}).catch(error=>{console.error('Unable to load geographic offers:',error?.message);return null;}) : null;
   const sectorTaxonomy=geoSector?await getSectorTaxonomy(service.slug,'en',geographicCards||[]).catch(()=>null):null;
-  const sectorGuides=geoSector&&emirate.slug==='abu-dhabi'?getAbuDhabiSectorContent(service.slug):null;
+  const sectorGuides=geoSector&&['abu-dhabi','sharjah','ajman'].includes(emirate.slug)?getGeographicSectorContent(service.slug,emirate.slug):null;
   const rehab = service?.slug === 'cleaning-services' && !area && !['abu-dhabi','dubai'].includes(emirate.slug) ? await getRehabSiteData().catch(() => null) : null;
 
   return {

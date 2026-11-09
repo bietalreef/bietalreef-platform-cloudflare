@@ -36,7 +36,7 @@ import SectorVisualGuide from '../../../components/SectorVisualGuide';
 import SectorTaxonomyExplorer from '../../../components/SectorTaxonomyExplorer';
 import DirectorySectorQuoteForm from '../../../components/DirectorySectorQuoteForm';
 import {getSectorTaxonomy} from '../../../lib/sectorTaxonomyExplorer';
-import {getAbuDhabiSectorContent} from '../../../lib/abuDhabiSectorContent';
+import {getGeographicSectorContent} from '../../../lib/geographicSectorContent';
 import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../components/AbuDhabiAreaGuide';
 import {getPublishedAbuDhabiAreaCompanies} from '../../../lib/abuDhabiAreaPublishedCompanies';
 import abuAreaEditorial from '../../../data/abuDhabiAreaEditorial.json';
@@ -52,7 +52,7 @@ function shouldShowAlHootPath(emirateSlug, serviceSlug) {
 function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCards, geographicOffers, sectorTaxonomy, sectorGuides }) {
   const [requestedService,setRequestedService]=useState('');
   const seo = directorySectorSeo(service.slug, 'ar', emirate);
-  const geoSector = ['abu-dhabi','dubai'].includes(emirate.slug) && !!seo;
+  const geoSector = ['abu-dhabi','dubai','sharjah','ajman'].includes(emirate.slug) && !!seo;
   const title = seo?.heading || `${service.nameAr} في ${emirate.nameAr}`;
   const description = seo?.description || service.descAr;
   const sectorImage = seo ? UAE_SECTOR_ASSETS[service.slug]?.desktop : undefined;
@@ -71,6 +71,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCar
         {!geoSector && emirate.slug !== 'abu-dhabi' && <SecondaryHeader backUrl={`/uae/${emirateSlug}`} backLabel={`العودة إلى ${emirate.nameAr}`} />}
         <main>
           <UaeDirectoryHero locale="ar" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
+          {seo?.context?.length>0 && <section className="mx-auto max-w-6xl px-3 pt-6 sm:px-4" aria-label="إرشادات خاصة بالمشاريع في الإمارة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">ما الذي يلزم قبل طلب هذه الخدمات في {emirate.nameAr}؟</h2>{seo.context.map((paragraph,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={emirate.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} service={service} rehab={rehab} />}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr} pagePath={'/uae/'+emirateSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={emirate.nameAr}/>}
@@ -177,11 +178,11 @@ export async function getStaticProps({ params }) {
   const baniyasReadingHtml=area?.slug==='baniyas' && emirate.slug==='abu-dhabi'
     ? (await import('../../../data/baniyasConstructionReading')).baniyasConstructionReadingHtml('ar')
     : null;
-  const geoSector=['abu-dhabi','dubai'].includes(emirate.slug) && service && !area && ABU_DHABI_SECTOR_SEO[service.slug];
+  const geoSector=['abu-dhabi','dubai','sharjah','ajman'].includes(emirate.slug) && service && !area && ABU_DHABI_SECTOR_SEO[service.slug];
   const geographicCards = geoSector ? await getGeographicPublishedServiceCards('ar', {emirate:emirate.slug,sector: service.slug}).catch(error => { console.error('Unable to load geographic services:', error?.message); return null; }) : null;
   const geographicOffers = geoSector ? await getGeographicPublishedServiceCards('ar', {emirate:emirate.slug,sector:service.slug,cardType:'offer'}).catch(error=>{console.error('Unable to load geographic offers:',error?.message);return null;}) : null;
   const sectorTaxonomy=geoSector?await getSectorTaxonomy(service.slug,'ar',geographicCards||[]).catch(()=>null):null;
-  const sectorGuides=geoSector&&emirate.slug==='abu-dhabi'?getAbuDhabiSectorContent(service.slug):null;
+  const sectorGuides=geoSector&&['abu-dhabi','sharjah','ajman'].includes(emirate.slug)?getGeographicSectorContent(service.slug,emirate.slug):null;
   const rehab = service?.slug === 'cleaning-services' && !area && !['abu-dhabi','dubai'].includes(emirate.slug) ? await getRehabSiteData().catch(() => null) : null;
 
   return {

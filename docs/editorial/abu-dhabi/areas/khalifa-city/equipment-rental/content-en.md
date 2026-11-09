@@ -100,31 +100,31 @@ Repeated project orders require version control as well as production capacity. 
 
 ### 22. Stone cutting
 
-Set stone type, thickness, piece sizes, vein direction and cutting waste. Compare cutting, polishing and handling protection; inspect measured pieces and edges.
+Stone cutting starts with the intended installation, not just slab dimensions. Specify natural or engineered stone, thickness, finish, vein orientation and the destination of each piece. Give the workshop a numbered cutting schedule with final dimensions, joint allowances, openings and exposed-edge treatments. For adjacent pieces, request a photographed slab layout before cutting so the vein sequence and waste can be reviewed; changes to that layout should be agreed rather than assumed. Compare quotations for raw slab allowance, waste, appropriate saw or waterjet work, edge finishing, packaging, transport and responsibility for recutting incorrect pieces. At receipt, measure sample pieces, inspect square corners and straight edges, check for hairline cracks and match the labels to the installation drawing.
 
 ### 23. Kitchen counter fabrication
 
-Template countertops after cabinet installation and confirm sink/hob sizes. Compare seams, supports and edges; check apertures before shipping.
+A stone kitchen countertop should be templated after cabinets are installed and levelled, rather than fabricated solely from preliminary design dimensions. Confirm material and thickness, support for overhangs, sink and hob cut-outs, taps and service penetrations; clearances around appliances must follow the relevant manufacturers' requirements. Agree seam positions, vein matching and edge profiles, and distinguish fabrication from delivery, lifting, installation and sealing in the quotation. Ask for a shop drawing and a physical finish sample, including terms for remaking damaged or wrongly sized pieces. Inspect cut-outs and polished edges before dispatch. After fitting, check levels, joint alignment, secure support and the absence of unsupported voids or chipped edges.
 
 ### 24. Stair tread fabrication
 
-Provide stair count, riser heights, tread widths, landing geometry and slip finish. Compare cutting, numbering and nosing; inspect consistent dimensions and safe edges.
+Stone stair treads require an as-built stair survey showing the width, going and rise of each step and the dimensions of landings. Do not assume every existing step is identical: measure individually, and specify exposed nosings, edge profiles and a suitable slip-resistant finish. The factory needs piece numbers tied to positions, vein direction, thickness and any grooves or contrasting inserts required by the design. Compare cutting, finishing, replacement pieces, packing and whether installation is included. At delivery, match each label to its position and inspect dimensions, corners, colour variation and damaged edges. After installation, check consistent finished levels and secure seating; stone fabrication alone does not establish the structural or dimensional safety of the staircase.
 
 ### 25. Façade stone preparation
 
-Measure façade openings, slab weight, vein layout and engineered fixings. Compare anchor preparation, drilling and packing; inspect compatible pieces.
+Façade stone preparation depends on a separately engineered fixing design, not merely decorative slab cutting. Supply current elevation drawings, panel IDs, openings, levels and vein layout together with the attachment details, movement joints and loads established by the responsible designer. Hole and slot positions, anchors and brackets must be resolved before machining; improvised on-site changes can compromise the stone. Compare factories on thickness tolerances, edge finishing, traceability, sample checks and packaging suitable for lifting. Request an initial stone-and-fixing sample, then inspect delivered panel IDs, drilling locations, edges and cracks. Delivery of fabricated panels is not approval of the structural fixing design or site installation.
 
 ### 26. Stone carving and engraving
 
-Provide motif drawings, carving depth, minimum feature and stone type. Compare carved samples and chipping risk; inspect consistent depth and crack-free edges.
+For carved or engraved stone, provide a scaled drawing or production file defining overall dimensions, carving depth, corner radii and the smallest detail to be reproduced. Raised relief, recessed engraving and through-cut patterns have different limitations, particularly on brittle stone. Request a trial sample in the actual material before approving the batch. Identify whether the feature is for an interior wall or an exposed location, and specify any surface treatment or concealed mounting points. Compare design preparation, machine programming, hand finishing, waste and replacement terms. On receipt, compare the approved sample with the finished pieces and inspect depth consistency, crisp edges, cracks and unwanted tool marks.
 
 ### 27. Stone polishing and repair
 
-Identify scratches, stains and erosion, plus stone material and finish. Compare filling, grinding and polishing suitability; inspect uniform sheen and retained geometry.
+Before polishing or repairing marble, establish whether the problem is a surface scratch, a penetrating stain, dullness or a crack; the remedy differs, and restoration of the original appearance cannot always be guaranteed. Photograph the condition under consistent lighting and identify the stone, existing finish and previously used cleaners. Ask for a discreet test patch to assess stain removers, fillers and grinding or polishing stages. Significant material removal should not proceed without considering levels and edge profiles. Compare quotations for protection of adjacent finishes, dust and wastewater management and each treatment stage, not area alone. Inspect the result in natural light, including joints, residual marks and any uneven edges, and record defects that cannot be corrected.
 
 ### 28. Contractor stone orders
 
-Issue piece codes, materials, thickness, shop drawings and project batch dates. Compare pallet packing, batch traceability and quantity; receive a site-matching manifest.
+Contractor stone orders need a controlled link between fabrication, delivery and site installation. Issue a piece schedule with unique IDs, installation locations, approved drawing revisions, material, thickness, finish, quantities and required delivery dates. Agree a first-piece sample and a revision procedure when openings change, so batches are not made to obsolete dimensions. Check the factory's approach to vein matching, pallet numbering, packing manifests and replacement of damaged or missing pieces. Compare quotations for waste, cutting, finishing, packaging, transport, payment milestones and rejection criteria. On each delivery, reconcile piece IDs and quantities against the purchase order and inspect samples from the batch before releasing them for installation.
 
 ## Tools and equipment retail
 

@@ -241,12 +241,12 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "133/434 independently rewritten AR/EN: contracting 56, engineering 49, maintenance 1–28. Verified 105 sequential headings in each maintenance language. Next service 29 تركيب السيراميك; 301 remain. in_progress; no publication approval.",
+      "review_note": "Independent bilingual rewrite verified through general-maintenance service 35; 140/434 independently rewritten, 294 remaining. All 105 numbered headings present in each maintenance language file; next service 36 (electrical and lighting). In progress, not approved for publication.",
       "editorial_rewritten_service_entries": 133,
       "editorial_remaining_service_entries": 301,
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الأرضيات والكسوات",
+        "specialty": "الكهرباء والإنارة",
         "rewritten_service_numbers": [
           1,
           2,
@@ -275,14 +275,21 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 77,
+        "next_service_number": 36,
+        "remaining_in_sector": 70,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 133,
-        "remaining_area_services_for_originality_review": 301,
+        "area_independently_rewritten": 140,
+        "remaining_area_services_for_originality_review": 294,
         "area_editorially_approved": false,
         "editorial_draft_completed": false
       }

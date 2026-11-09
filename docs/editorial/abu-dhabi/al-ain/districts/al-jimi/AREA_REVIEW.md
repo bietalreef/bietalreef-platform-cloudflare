@@ -457,3 +457,9 @@
 - الحالة `in_progress`؛ تمت مراجعة [المظلات والأعمال الخارجية](./general-contracting/shade-outdoor-works/review.md): 7 خدمات بالعربية و7 بالإنجليزية مطابقة لترتيب شجرة الشركات؛ التصنيف غير قابل للاختيار.
 - أُزيلت فقرات الاتفاق المتطابقة من الملفين اللغويين واستُبدلت ببنود مخصصة لكل خدمة. [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md).
 - **أول نطاق تالٍ:** `interior-design/architectural-plans/content-ar.md` ثم `content-en.md` و`review.md`، يليها بقية تخصصات الاستشارات الهندسية، ثم القطاعات التالية حتى تدقيق 50 تخصصًا و434 خدمة في كل لغة. لا تبدأ المويجعي قبل اكتمال المراجعة الشاملة.
+
+## تحقق التصميم المعماري والمخططات — 2026-11-09
+
+- تمت قراءة الملفات الثلاثة كاملة من الفرع: [العربية](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [المراجعة](./interior-design/architectural-plans/review.md).
+- طابقت عناوين الخدمات العربية الأربع عشرة ترتيبًا ولفظًا مع شجرة الشركات والمنشآت؛ الإنجليزية تضم 14 عنوانًا مقابلاً مع الأسماء العربية، ومحتوى نطاق/استثناءات/معاينة/مقارنة/استلام. لم يُجر تعديل على نصوصها.
+- **أول نطاق تالٍ:** `interior-design/structural-design/content-ar.md` ثم `content-en.md` و`review.md` (تحقق من اسم المسار)، وبعده الإشراف والاستشارات الهندسية والتصميم الداخلي والمواد، ثم بقية القطاعات. تبقى الجيمي `in_progress` إلى حين جرد 50 تخصصًا و434 خدمة في كل لغة وفحص الجودة والسلامة والقيود؛ لا تبدأ المويجعي.

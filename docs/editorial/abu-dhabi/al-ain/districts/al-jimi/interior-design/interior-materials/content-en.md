@@ -28,7 +28,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 3. Bedroom design
 
-**When it is useful:** when wardrobe doors or bedside routes are obstructed, or lighting disrupts rest. Record mattress size, existing furniture, number of occupants and blackout or storage requirements.
+**When it is useful:** When a bedroom layout needs better storage and clear access to wardrobes. Record bed size, window and AC locations, door swings and furniture to retain.
 
 **Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC.
 
@@ -88,7 +88,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 8. Office design
 
-**When it is useful:** organising teams, meetings and acoustic privacy. Describe merchandise, customer flow, checkout, storage and delivery access.
+**When it is useful:** When arranging staff workstations, meeting rooms and visitor reception. Record team sizes, storage needs, acoustic privacy and network connections.
 
 **Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes.
 
@@ -100,7 +100,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 9. Retail store design
 
-**When it is useful:** guiding customers to displays and checkout without blocking stock access. State seating capacity, kitchen type, preparation equipment, extraction and staff and waste routes.
+**When it is useful:** When improving product display, customer circulation, stock access and checkout. Describe merchandise, store and stockroom areas, delivery access and customer flow.
 
 **Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances.
 
@@ -112,7 +112,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 10. Restaurant and café design
 
-**When it is useful:** separating seating, service, preparation and cleaning flows. Confirm station and basin counts, waiting capacity and service connections.
+**When it is useful:** When coordinating dining, preparation, service and cleaning in a restaurant or café. State seating capacity, kitchen type, equipment, ventilation and staff and waste routes.
 
 **Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation.
 
@@ -124,7 +124,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 11. Salon design
 
-**When it is useful:** organising service stations, waiting and privacy. Identify the licensed clinical activity, equipment, examination privacy and patient circulation.
+**When it is useful:** When arranging salon service chairs, wash basins and waiting areas. Specify station count, service types, privacy and water and electrical requirements.
 
 **Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos.
 
@@ -136,7 +136,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 12. Clinic design
 
-**When it is useful:** aligning patient movement with examination-room privacy. Record exhibit sizes, weights, power needs, lighting and visitor circulation.
+**When it is useful:** When planning patient reception, examination privacy and support spaces. Record the licensed activity, clinical equipment, hygiene requirements and patient circulation for appropriate review.
 
 **Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation.
 
@@ -148,7 +148,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 13. Exhibition design
 
-**When it is useful:** displaying objects safely with flexible arrangements. Specify visitor handling, screen privacy, counter height and accessible circulation.
+**When it is useful:** When displaying exhibits while maintaining safe visitor circulation. Record exhibit sizes, weights, fixing needs, lighting and access routes.
 
 **Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes.
 
@@ -160,7 +160,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 14. Reception area design
 
-**When it is useful:** welcoming visitors while protecting their information. Record each room's use, water and slip exposure and the condition of the existing substrate.
+**When it is useful:** When welcoming visitors without exposing private information. Record expected visitor numbers, waiting areas, counter positions and staff access.
 
 **Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access.
 
@@ -172,7 +172,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 15. Flooring selection
 
-**When it is useful:** matching finishes to water, slip and wear exposure. Record daylight changes and desired sheen before selecting paint codes.
+**When it is useful:** When choosing floor finishes for wear, moisture and slip exposure. Record each room's use, substrate condition and transitions between floor levels.
 
 **Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds.
 
@@ -184,7 +184,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 16. Paint colour selection
 
-**When it is useful:** testing colours in daylight and artificial light. Agree tile dimensions, vein direction, joints, openings and slip-performance needs.
+**When it is useful:** When comparing paint colours in daylight and artificial light. Record daylight direction, desired sheen, existing finishes and sample locations before approving paint codes.
 
 **Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish.
 
@@ -196,7 +196,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 17. Stone and tile selection
 
-**When it is useful:** matching tile sizes, veining and joints to the space. State daily use, exact dimensions, budget limits and items to retain.
+**When it is useful:** When matching stone or tile dimensions, veining and joints to the room. Identify wet areas, openings, drains and expected cutting patterns.
 
 **Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains.
 
@@ -208,7 +208,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 18. Furniture selection
 
-**When it is useful:** evaluating comfort, durability and actual product size. Identify lighting tasks, ceiling height, glare-sensitive zones and control circuits.
+**When it is useful:** When choosing furniture for comfort, durability and fit. Record actual dimensions, daily use, material preferences, budget constraints and items to retain.
 
 **Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
 

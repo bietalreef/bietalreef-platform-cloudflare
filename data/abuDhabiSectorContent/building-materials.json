@@ -1,0 +1,325 @@
+{
+  "sector": "building-materials",
+  "source": "Existing bilingual editorial draft for all services, adapted to Abu Dhabi, with service availability always determined by existing taxonomy.",
+  "specialties": [
+    {
+      "slug": "basic-building-materials",
+      "services": [
+        {
+          "nameAr": "توريد الأسمنت",
+          "nameEn": "Cement supply",
+          "bodyAr": "في طلب أسمنت لموقع بأبوظبي، ابدأ من بند الاستخدام في جدول الكميات: خرسانة، مونة أو لياسة؛ فليس كل أسمنت بديلًا مقبولًا للآخر. أرفق المواصفة المطلوبة من المهندس، وعدد الأكياس أو الوزن، وطريقة حماية المخزون من الرطوبة، وتاريخ الصب أو الاستخدام. اطلب عرضًا يوضح الشركة والمنتج والدفعة والتسليم والتنزيل، وافحص الأكياس المغلقة وتاريخها وعدم وجود تكتلات عند الاستلام.",
+          "bodyEn": "For a cement order in Abu Dhabi, start with its intended use in the bill of quantities—concrete, mortar or plaster—rather than assuming all cement products are interchangeable. Attach the engineer's specified grade, required bag count or weight, moisture-protected storage arrangements and planned use date. Request the brand, product designation, batch details, delivery and unloading terms. On arrival, check sealed bags, dates and signs of hardening before accepting the load."
+        },
+        {
+          "nameAr": "توريد الرمل",
+          "nameEn": "Sand supply",
+          "bodyAr": "قبل طلب الرمل، ميّز بين رمل الردم ورمل اللياسة والرمل الداخل في الخلطات؛ اختلاف الاستعمال يغيّر متطلبات التدرج والنظافة. أرسل الحجم بالمتر المكعب أو الوزن المتفق عليه، وصورة مكان التفريغ والمسافة إلى نقطة الاستخدام. قارن تكلفة الحمولة الفعلية والنقل وطريقة قياس الكمية، وراجع وجود شوائب أو مخلفات عضوية وعدم اختلاط الشحنة بتربة الموقع.",
+          "bodyEn": "Before ordering sand, distinguish fill sand from plastering sand and aggregate for mixes; the intended application determines cleanliness and grading requirements. State whether the order is measured by cubic metre or weight and show the unloading point and carrying distance in photographs. Compare the actual delivered quantity, freight and measurement method, and check for organic matter, debris or contamination from the site."
+        },
+        {
+          "nameAr": "توريد الحصى",
+          "nameEn": "Aggregate supply",
+          "bodyAr": "توريد الحصى يبدأ من مقاس الركام المحدد في تصميم الخلطة، وليس من وصف «حصى عادي». اطلب بيان المقاس والتدرج والمصدر والكمية وسند الوزن إن كان البيع بالطن. إذا كانت مساحة التفريغ ضيقة، حددها بالصور قبل إرسال الشاحنة. عند الوصول، افحص التجانس والمواد الناعمة الزائدة والتلوث الناتج عن أرضية التفريغ، ووثق أي اختلاف قبل استخدام الركام.",
+          "bodyEn": "Coarse aggregate should be ordered to the particle size and grading required by the mix design, not simply as 'gravel'. Request the nominal size, source, quantity and weighbridge evidence if sold by weight. Photograph restricted unloading access before dispatch. At receipt, check consistency, excessive fines and contamination from the tipping surface, recording discrepancies before the material is used."
+        },
+        {
+          "nameAr": "توريد الطابوق والبلوك",
+          "nameEn": "Concrete block supply",
+          "bodyAr": "في طلب البلوك أو الطابوق، أرفق مخطط الجدران موضحًا السماكات والفتحات والعدد التقريبي ونوع البلوك المعتمد. تأكد من احتساب القطع الخاصة والهالك ومكان رص الطبالي دون إعاقة الحركة. قارن العروض على أساس القطعة المطابقة للمقاس والمواصفة، مع أجرة النقل والتنزيل، وافحص الكسر والتشوه والأبعاد في عينة من كل دفعة.",
+          "bodyEn": "For blocks or bricks, provide the wall drawings, thicknesses, openings, estimated piece counts and approved unit type. Allow for special units, breakage and a safe pallet stacking area. Compare offers per compliant piece, including delivery and offloading, rather than by pallet price alone. Inspect dimensions, visible damage and uniformity in a sample from each delivery."
+        },
+        {
+          "nameAr": "توريد الحديد",
+          "nameEn": "Reinforcing steel supply",
+          "bodyAr": "لا يكفي طلب «حديد تسليح» بالطن؛ أرسل جدول الحصر من المخططات الإنشائية مع الأقطار والأطوال والدرجات وأشكال الثني إن كانت مطلوبة. افصل تكلفة القص والثني والنقل عن سعر الخام، واطلب شهادات المصنع وبيانات الدفعة عند الاقتضاء. استلم الحزم بعلاماتها، وطابق الأقطار والعدد والوزن والمقاسات قبل نقلها إلى موقع التركيب، وأبلغ المهندس عن أي بديل مقترح.",
+          "bodyEn": "An order for reinforcing steel needs the structural bar schedule, diameters, lengths, grades and any required bending shapes—not merely a tonnage. Separate cutting, bending and transport charges from the base steel price; request mill and batch records where appropriate. Check bundle labels, diameters, quantities and measured lengths before releasing steel for fixing, and refer proposed substitutions to the project engineer."
+        },
+        {
+          "nameAr": "توريد الخرسانة الجاهزة",
+          "nameEn": "Ready-mix concrete supply",
+          "bodyAr": "توريد الخرسانة الجاهزة مرتبط ببرنامج الصب الفعلي: حدد العنصر الإنشائي وحجم الخرسانة ودرجة الخلطة وموقع المضخة ومسار دخول الشاحنات. نسّق عدد الشاحنات وفواصل وصولها مع قدرة فريق الصب، واسأل صراحة عن رسوم الانتظار والإلغاء. يجب أن يتضمن الاتفاق متطلبات فحوص الموقع والعينات وفق مواصفة المشروع؛ عند التسليم راجع تذكرة كل خلاطة ووقت التحميل والكمية قبل التفريغ.",
+          "bodyEn": "Ready-mix concrete supply must follow the actual pour plan. State the structural element, volume, specified mix, pump position and truck access route. Coordinate truck spacing with the crew's placement capacity and agree waiting or cancellation charges in advance. Specify site tests and sampling under the project's requirements. At delivery, inspect each truck ticket, batching time and quantity before discharge."
+        },
+        {
+          "nameAr": "توريد مواد البناء للمشاريع",
+          "nameEn": "Project building-material packages",
+          "bodyAr": "إذا كان المشروع يحتاج مواد متعددة، فحوّل طلب «توريد مواد البناء» إلى جدول شراء مجزأ حسب مراحل التنفيذ، يضم الكود والوحدة والكمية والموعد الحرج لكل صنف. اذكر موقع تخزين المواد الحساسة ومواعيد السماح بدخول المركبات. قارن عرض المورد الشامل بعروض الأصناف المفردة بعد إضافة النقل والتنزيل والمرتجعات، ولا تعتمد استبدال منتج محدد في المخطط دون موافقة الجهة الفنية. طابق كل فاتورة وسند استلام مع رقم البند في الجدول.",
+          "bodyEn": "For a multi-material project order, replace the vague phrase 'building supplies' with a staged purchasing schedule showing product codes, units, quantities and critical delivery dates. Describe storage for moisture-sensitive goods and permitted vehicle access times. Compare a bundled quotation with separate suppliers only after including freight, offloading and returns. Do not approve a substitute for a specified product without technical sign-off; reconcile each receipt and invoice to its schedule line."
+        },
+        {
+          "nameAr": "توريد الجبس",
+          "nameEn": "Gypsum materials supply",
+          "bodyAr": "عند توريد الجبس، افصل في الطلب بين ألواح الأسقف والقواطع ومسحوق الجبس وملحقات المعالجة؛ فكل منها يُقاس ويُخزَّن بطريقة مختلفة. أرسل مخطط الأسقف أو الجدران ومساحة كل نوع وسماكته ومتطلبات مقاومة الرطوبة أو الحريق المحددة في التصميم، مع أطوال القطاعات المعدنية وعدد الزوايا والفتحات. اطلب كشفًا يميز الألواح عن المسامير والأشرطة والمعجون والنقل والرفع إلى الطابق. عند الاستلام طابق النوع والسماكة وعدد الألواح وافحص الحواف والتقوس وآثار البلل، ولا تعتمد وصف «جبس مقاوم» دون مستند المنتج.",
+          "bodyEn": "For gypsum procurement, distinguish ceiling and partition boards from plaster powder and finishing accessories; they have different measurement and storage requirements. Supply ceiling or wall drawings, area by board type, thickness, any specified moisture or fire performance, framing lengths, corners and openings. Ask for separate prices for boards, screws, joint tape, compound, transport and lifting to the work floor. On receipt, match board type, thickness and count and inspect edges, warping and water marks. Do not accept an unqualified 'resistant gypsum' description without product documentation."
+        },
+        {
+          "nameAr": "توريد مواد الدهانات",
+          "nameEn": "Paint materials supply",
+          "bodyAr": "توريد مواد الدهانات يبدأ بتحديد حالة السطح: لياسة جديدة أو دهان قديم أو خشب أو معدن؛ ثم حساب المساحة الصافية وعدد الأوجه ونظام التأسيس والمعجون والطبقة النهائية. أرفق أكواد الألوان ودرجة اللمعان وعينة معتمدة، واطلب من المورد بيان معدل التغطية النظري وشروط التطبيق بدل احتساب عدد العبوات من مساحة الجدران وحدها. قارن العروض على أساس نظام متكامل متوافق من برايمر ودهان ومواد إصلاح، وراجع عند الاستلام أرقام التشغيلات والألوان والأختام وتاريخ الصلاحية، خصوصًا عند استكمال غرفة سبق دهانها.",
+          "bodyEn": "Paint procurement starts with the substrate: fresh plaster, an existing coating, timber or metal. Calculate the net area and specify preparation, filler, primer and finishing coats. Provide approved colour codes, sheen and a physical sample; ask the supplier for product coverage and application conditions rather than calculating tins from wall area alone. Compare complete compatible systems, including repair materials, not just the price of the finish coat. Check batch and colour codes, seals and shelf life on delivery, especially when matching an already painted room."
+        },
+        {
+          "nameAr": "توريد مواد العزل",
+          "nameEn": "Waterproofing materials supply",
+          "bodyAr": "لا تطلب «مواد عزل» دون بيان مصدر الماء ونوع السطح: حمام تحت البلاط، سطح مكشوف، خزان أو فاصل إنشائي. يحتاج المورد إلى المساحة ومحيط الزوايا والفتحات وارتفاعات الرفع على الجدران وحالة القاعدة، مع تفاصيل المصارف والفواصل. قارن نظامًا كاملًا يشمل البرايمر وطبقات العزل وشرائط الزوايا والحماية، لا سعر العبوة فقط، واطلب بيانات التوافق وأزمنة المعالجة من المصنع. افحص سلامة العبوات واللفائف وأرقام التشغيلات قبل التخزين، واترك اختبار العزل والتنفيذ للمقاول وفق مواصفة المشروع.",
+          "bodyEn": "A request for 'waterproofing materials' is incomplete without identifying the water exposure and substrate: a tiled bathroom, exposed roof, tank or construction joint. Give the area, corner lengths, penetrations, upstand heights, drains and substrate condition. Compare a complete system of primer, membranes or coating, corner reinforcement and protection rather than the container price. Obtain the manufacturer's compatibility and curing guidance. Check packaging, rolls and batch identification on delivery; application and water-tightness testing remain separate installation responsibilities under the project specification."
+        },
+        {
+          "nameAr": "توريد الأرضيات",
+          "nameEn": "Floor finishes supply",
+          "bodyAr": "في توريد الأرضيات، افصل كل غرفة أو مساحة خارجية في جدول مستقل يوضح الطول والعرض ونوع الاستخدام والمناسيب النهائية. حدّد هل المطلوب سيراميك أو بورسلان أو خشب أو فينيل، ومقاس القطعة ودرجة مقاومة الانزلاق المطلوبة وطريقة التركيب وكمية الهالك المرتبطة بنمط القص. اطلب عينة فعلية ورقم تشغيل موحدًا للقطع الظاهرة، مع بيان لواصق التركيب والفواصل والوزرات إن كانت ضمن التوريد. عند التسليم راجع عدد الصناديق والمساحة المكتوبة عليها والكسور واختلاف الدرجات، ولا تخلط تشغيلات متفاوتة دون موافقة.",
+          "bodyEn": "For flooring supply, list each room or outdoor area separately with dimensions, use and finished floor levels. State whether the finish is ceramic, porcelain, timber or vinyl, together with tile or plank size, required slip performance, laying pattern and a realistic cutting allowance. Request a physical sample and consistent production batch for visible surfaces, and clarify whether adhesives, joints and skirting are included. At receipt, reconcile box counts with stated coverage and inspect breakage and shade variations before mixing batches."
+        },
+        {
+          "nameAr": "توريد الأدوات الصحية",
+          "nameEn": "Sanitary fixtures supply",
+          "bodyAr": "لتوريد الأدوات الصحية، أنشئ جدولًا لكل حمام يتضمن حوض الغسيل والمرحاض والخلاطات والدش والمصارف والملحقات، مع صورة أو رمز كل موديل. أرسل أبعاد الفراغ ومواقع مخارج المياه والصرف ونوع التركيب، خاصة للقطع المعلقة أو الخلاطات المخفية التي تحتاج أجزاء تأسيس متوافقة. قارن السعر شاملًا القطع المخفية والسيفونات والصمامات وأطقم التثبيت والضمان وتوفر قطع الغيار، لا الواجهة المرئية فقط. افحص الخزف والزجاج والتشطيبات عند الاستلام، واحتفظ بأرقام الموديلات قبل إغلاق الجدران.",
+          "bodyEn": "Prepare a fixture schedule for each bathroom covering basins, toilets, mixers, showers, drains and accessories, with photographs or exact model references. Supply room dimensions, water and waste outlet positions and mounting type. Concealed mixers and wall-hung fixtures require compatible in-wall components. Compare quotations including concealed bodies, traps, valves, fixings, warranty and spare-part support, not only visible fittings. Inspect ceramics, glass and finishes upon delivery and retain model records before walls are closed."
+        },
+        {
+          "nameAr": "توريد مستلزمات الكهرباء",
+          "nameEn": "Electrical installation supplies",
+          "bodyAr": "توريد مستلزمات الكهرباء يجب أن يستند إلى جدول كميات أو مخطط صادر عن المختص يحدد مقاطع الموصلات وأنواع العزل وأقطار المواسير وصناديق التوصيل والقواطع والملحقات. أرسل عدد النقاط والأطوال التقريبية وبيئة التركيب الداخلية أو الخارجية، ولا تسمح للمورد باستبدال سعة قاطع أو مقطع كابل استنادًا إلى السعر. قارن العروض بندًا ببند حسب المصنع والطراز والتصنيف والملحقات وشهادات المنتج المطلوبة بالمشروع. عند الاستلام طابق علامات البكرات والعبوات وأرقام القواطع والعدد، ثم أحل أي اختلاف إلى المهندس الكهربائي قبل التركيب.",
+          "bodyEn": "Electrical supply orders should follow a qualified designer's drawings or schedule specifying conductor cross-sections, insulation, conduit sizes, boxes, protective devices and accessories. State point counts, estimated runs and whether installation is indoors or exposed; a supplier must not substitute breaker ratings or cable sizes merely to reduce price. Compare exact manufacturer models, ratings, accessories and any project-required product records. Check cable reel labels, packaging, breaker references and quantities on receipt, referring discrepancies to the electrical engineer before installation."
+        },
+        {
+          "nameAr": "توريد مستلزمات السباكة",
+          "nameEn": "Plumbing installation supplies",
+          "bodyAr": "في توريد مستلزمات السباكة، ميّز بين شبكة مياه الشرب والصرف والري؛ لأن خامات الأنابيب والوصلات والضغوط وطرق الربط تختلف. قدم مخطط المسارات أو جدول الأقطار والأطوال وعدد الأكواع والمحابس والوصلات الانتقالية، مع مواقع العزل والوصول للصيانة. اطلب تحديد الشركة والنظام المتوافق ومواد اللحام أو اللصق والحشوات والعزل ضمن العرض، وقارن تكلفة الملحقات التي قد تتجاوز فرق سعر المواسير. عند الاستلام افحص الأقطار والوسوم وعدم تلف الأطراف، ولا تخلط أنظمة ربط غير متوافقة؛ اختبار الضغط والتسرب جزء من التنفيذ وليس إثباتًا بمجرد توريد القطع.",
+          "bodyEn": "For plumbing supplies, separate potable water, drainage and irrigation systems because pipe materials, jointing methods and pressure requirements differ. Provide routing drawings or a schedule of diameters, lengths, elbows, valves, transitions, insulation and maintenance access. Ask suppliers to specify a compatible pipe-and-fitting system, including jointing consumables, seals and insulation. Compare all accessories, which can outweigh differences in pipe unit prices. Inspect markings, diameters and damaged ends at delivery, and do not mix incompatible joining systems; pressure and leak tests belong to installation, not to supply alone."
+        },
+        {
+          "nameAr": "بيع مواد البناء",
+          "nameEn": "Building-material retail",
+          "bodyAr": "في شراء مواد البناء من متجر أو مستودع، ابدأ بكشف منفصل للأصناف التي يحتاجها المقاول الآن، لا بقائمة مفتوحة قد تتغير أثناء التحميل. سجّل لكل صنف وحدة البيع: كيس أو طن أو متر مكعب أو قطعة، ودرجة المادة وأبعادها والكمية المطلوبة وتاريخ الاستخدام. إذا كانت المشتريات لمراحل متعددة، افصل المواد الحساسة للرطوبة عن المواد التي يمكن تخزينها خارجيًا، واسأل عن الحد الأدنى للطلب وإمكانية تجزئة التسليم. قارن سعر الوحدة بعد إضافة النقل والتحميل والمرتجعات، واشترط موافقة مكتوبة على أي بديل في الدرجة أو العلامة. عند الاستلام طابق الفاتورة مع العدّ الفعلي والوسوم وحالة التغليف، وصوّر أي نقص أو تلف قبل توقيع الاستلام النهائي.",
+          "bodyEn": "For building-material purchases from a shop or yard, prepare a separate list of what the contractor needs for the current phase rather than an open-ended loading order. Record the selling unit for each item—bag, tonne, cubic metre or piece—along with grade, dimensions, quantity and intended use date. Separate moisture-sensitive products from materials suitable for outdoor storage, and ask whether deliveries can be split. Compare the effective unit price after transport, loading and returns; require written approval for any brand or grade substitution. On arrival, count items against the invoice, inspect markings and packaging, and photograph shortages or damage before signing an unconditional receipt."
+        },
+        {
+          "nameAr": "بيع الأدوات الصحية",
+          "nameEn": "Sanitary ware retail",
+          "bodyAr": "شراء الأدوات الصحية للحمام أو المطبخ لا يبدأ باختيار الشكل وحده؛ أحضر مخططًا بسيطًا يوضح أبعاد الحوض أو المرحاض وموقع الصرف ومداخل الماء والمسافة المتاحة لفتح الأبواب والخزائن. للمرحاض المعلق أو الخلاط المخفي، تحقق من إطار التثبيت وجسم الخلاط وقطع الصيانة المتوافقة، ولا تفترض أنها مشمولة في السعر المعروض. اطلب أرقام الموديلات وصور الألوان والتشطيبات وقائمة القطع داخل كل صندوق. قارن الضمان وإمكانية توفير قطع الغيار ورسوم التوصيل وسياسة إعادة القطع المفتوحة. قبل الاستلام افحص الخزف من الشرخ والتشطيب من الخدش، وعدّ الجوانات والمسامير؛ واترك اختبار التسرب للتنفيذ بعد التركيب.",
+          "bodyEn": "Buying bathroom or kitchen fixtures requires more than selecting a finish. Bring a simple sketch showing basin or toilet dimensions, drain positions, water connections and clearance for doors and cabinets. For wall-hung toilets or concealed mixers, confirm that the support frame, in-wall body and service parts are compatible and included where necessary. Request model numbers, finish references and a packing list for each box. Compare warranty terms, spare-part availability, delivery fees and returns for opened packages. Inspect ceramic surfaces for cracks and plated finishes for scratches, and count seals and fasteners at receipt. Leak testing belongs to the installation stage, not the shop counter."
+        },
+        {
+          "nameAr": "بيع الأدوات الكهربائية",
+          "nameEn": "Electrical supplies retail",
+          "bodyAr": "عند شراء أدوات كهربائية مثل المقابس والمفاتيح والقواطع والإنارة، اعتمد قائمة يراجعها الكهربائي المختص تتضمن جهد التشغيل والتصنيف ومقاطع الكابلات ونوع التثبيت وبيئة الاستخدام. صورة القاطع القديم قد تساعد على التعرف إلى الطراز، لكنها لا تكفي لاختيار سعة بديلة أو إثبات توافقها مع اللوحة. اسأل عن رقم الموديل والبيانات الفنية وشروط ضمان المنتج، وقارن بين العرض الذي يشمل الإطارات والعلب والملحقات وآخر يبيع القطعة الرئيسية فقط. افحص عند الاستلام العلامات المطبوعة وأرقام القطع وسلامة العزل والعبوات، واعزل أي صنف مخالف عن مواد التركيب حتى يراجعه الفني؛ لا تجرّب تشغيله لمجرد التأكد من البيع.",
+          "bodyEn": "When buying outlets, switches, breakers or luminaires, use a schedule checked by a qualified electrician showing operating voltage, ratings, cable sizes, mounting arrangements and indoor or outdoor conditions. A photo of an old breaker can identify a model but does not establish a safe replacement rating or compatibility with a distribution board. Ask for exact part numbers, technical sheets and warranty terms. Compare quotations that include frames, boxes and accessories against those covering the main component alone. Check printed ratings, insulation condition and packaging on delivery, and set aside any mismatch for technical review rather than energising it as a sales check."
+        },
+        {
+          "nameAr": "بيع مواد السباكة",
+          "nameEn": "Plumbing supplies retail",
+          "bodyAr": "إذا كنت تشتري وصلات ومحابس وأنابيب لإصلاح تسرب أو تمديد جديد، صوّر الجزء الموجود وضع مسطرة بجانبه وأحضر قياس القطر الخارجي ونوع المادة، لأن القياس الاسمي قد يختلف عن القياس الفعلي. ميّز بين مستلزمات مياه الشرب والصرف والري، واطلب نظام وصلات متوافقًا مع طريقة الربط المعتمدة للمواسير. في مقارنة المتاجر، أضف ثمن الحشوات والمحولات والصمامات ومواد الربط وأدوات التركيب بدل مقارنة سعر الأنبوب وحده. قبل المغادرة تحقق من تطابق المقاسات والسنون وحالة الجوانات، واحتفظ بقطعة عينة إن أمكن. لا يعتبر توافق القطع في المتجر بديلًا عن اختبار الضغط أو التسرب بعد التركيب.",
+          "bodyEn": "For pipes, valves and fittings needed for a repair or new connection, photograph the existing component beside a ruler and record the actual outside diameter and material: nominal pipe sizes can be misleading. Distinguish drinking-water, drainage and irrigation components and request fittings compatible with the specified joining method. Compare the full assembly cost, including seals, adaptors, valves, joining consumables and tools, rather than the pipe price alone. Before leaving the store, check threads, dimensions and gasket condition; retain a sample fitting when practical. A dry trial fit does not replace pressure or leak testing after installation."
+        },
+        {
+          "nameAr": "بيع الدهانات",
+          "nameEn": "Paint retail",
+          "bodyAr": "شراء الدهانات يبدأ بمعرفة هل السطح لياسة جديدة أو طلاء قديم أو معدن أو خشب، وهل الاستخدام داخلي أم خارجي. احسب مساحة الجدران والأسقف بعد استبعاد الفتحات الكبيرة، وحدد عدد الأوجه المطلوب وألوانها وأكوادها ودرجة اللمعان، مع مراجعة معدل التغطية الفعلي حسب امتصاص السطح. لا تقارن عبوتين بسعرهما فقط؛ اطلب نظام البرايمر والمعجون والطبقة النهائية المتوافق من بيانات المصنع، واسأل عن زمن الجفاف وإعادة الطلاء. عند الشراء افحص تاريخ الصلاحية ورقم التشغيلة وأكواد خلط اللون والأختام، واحتفظ بعينة صغيرة وبيانات العبوة لإصلاحات المستقبل. اختلاف اللون بعد الجفاف لا يُحسم بصورة الهاتف وحدها.",
+          "bodyEn": "Before buying paint, establish whether the substrate is new plaster, previously coated masonry, timber or metal, and whether it is indoors or outdoors. Measure wall and ceiling areas, deduct substantial openings, and record coats, colour codes and sheen. Review the manufacturer's coverage guidance against the substrate's absorbency. Compare a complete compatible primer, filler and finish system rather than tin prices alone, including drying and recoat intervals. Check expiry dates, batch numbers, tinting codes and seals when collecting the paint; retain a labelled sample for future repairs. A phone photograph alone cannot establish an exact dried colour match."
+        },
+        {
+          "nameAr": "بيع مواد العزل",
+          "nameEn": "Waterproofing products retail",
+          "bodyAr": "عند شراء مواد العزل، حدد أولًا مكان استخدامها: حمام تحت البلاط أو سطح معرض للشمس أو خزان أو فاصل حول فتحة. يجب أن يعرف المورد نوع القاعدة ومساحتها وحالة الرطوبة ووجود مياه راكدة أو ضغط مائي، لأن اللفائف والدهانات الأسمنتية والمواد السائلة ليست بدائل تلقائية لبعضها. اطلب بيان النظام كاملًا بما فيه البرايمر وأشرطة الزوايا وطبقة الحماية والتوافق مع البلاط أو التشطيب النهائي، مع أزمنة المعالجة وتعليمات التخزين. قارن تكلفة تغطية المساحة المطلوبة لا ثمن العبوة وحدها، وافحص سلامة العبوات وتاريخها عند الاستلام. يبقى اختبار الغمر أو الإحكام مسؤولية التنفيذ وفق طبيعة العمل، وليس ضمانًا يقدمه المتجر بمجرد البيع.",
+          "bodyEn": "Waterproofing products must be selected for their actual location: beneath bathroom tiles, on an exposed roof, inside a tank or around a construction joint. Tell the supplier the substrate type, area, moisture condition and whether standing water or hydrostatic pressure is involved. Liquid coatings, cementitious systems and sheet membranes are not automatically interchangeable. Request the complete system specification, including primer, corner reinforcement, protection layer, finish compatibility, curing times and storage instructions. Compare the installed-area material requirement rather than container price alone, and inspect sealed packs and dates. Flood or watertightness tests remain part of the appropriate installation process, not proof supplied by a retail sale."
+        },
+        {
+          "nameAr": "توصيل المواد إلى المشروع",
+          "nameEn": "Site materials delivery",
+          "bodyAr": "خدمة توصيل المواد إلى المشروع تختلف عن بيعها: قبل حجز الشاحنة أرسل قائمة الأصناف وأوزانها وأبعاد القطع الطويلة وعدد الطبالي، وحدد عنوان الموقع ومدخل الشاحنات ونقطة التنزيل والطابق المطلوب. وضّح من يوفر الرافعة أو العمال وهل يسمح الموقع بالتفريغ في الموعد المقترح، مع الانتباه إلى حماية المواد من المطر والحرارة أثناء الانتظار. قارن عروض النقل على أساس الحمولة وعدد الرحلات ووقت الانتظار ورسوم الرفع والإرجاع، وحدد المسؤولية عن الكسر أو النقص قبل التحميل. عند الوصول عدّ الطبالي والطرود وصوّر الأضرار الظاهرة وسجّل التحفظات في سند التسليم؛ ولا توقّع استلامًا نظيفًا قبل مطابقة الكمية.",
+          "bodyEn": "Site delivery is a separate service from selling the materials. Before booking a vehicle, provide item dimensions, weights, long-piece lengths and pallet counts, plus the site address, truck entrance, unloading point and required floor. Establish who supplies labour or lifting equipment, whether the proposed delivery window is permitted and how weather-sensitive goods will be protected while waiting. Compare haulage quotations by load, trips, waiting time, lifting charges and returns; agree responsibility for breakage and shortages before dispatch. Count pallets and packages on arrival, photograph visible damage and note discrepancies on the delivery document before signing."
+        }
+      ]
+    },
+    {
+      "slug": "wood-boards",
+      "services": [
+        {
+          "nameAr": "توريد خشب MDF",
+          "nameEn": "MDF board supply",
+          "bodyAr": "عند طلب ألواح MDF لخزائن أو أبواب داخلية، أرسل رسومات التفصيل التي تبين السماكة والأبعاد النهائية وعدد القطع ومواقع الحفر والحواف المكشوفة. ميّز بين اللوح الخام والمكسو، وحدد درجة مقاومة الرطوبة المطلوبة وفق مكان الاستخدام؛ وصف «مقاوم للماء» وحده غير كافٍ، ولا يغني عن حماية الحواف. اطلب بيانات المصنع عن الكثافة والانبعاثات والتفاوت في السماكة، وقارن تكلفة اللوح مع القص وتلبيس الحواف والنقل والهالك. عند الاستلام افحص استواء الألواح، وسلامة الزوايا وعدم الانتفاخ، وطابق رموز التشغيل قبل دخولها الورشة.",
+          "bodyEn": "For MDF boards intended for cabinets or internal doors, send fabrication drawings showing finished thickness, dimensions, piece counts, drilling positions and exposed edges. Distinguish raw from faced board and specify the moisture-resistance grade appropriate to the installation; a vague 'waterproof' label does not replace edge protection. Request manufacturer data for density, emissions and thickness tolerance. Compare board price alongside cutting, edge-banding, transport and waste. On delivery, check flatness, corners, swelling and batch identification before releasing boards to the workshop."
+        },
+        {
+          "nameAr": "توريد الخشب الطبيعي",
+          "nameEn": "Natural timber supply",
+          "bodyAr": "توريد الخشب الطبيعي لأبواب أو إطارات أو رفوف يحتاج تحديد النوع التجاري والاسم العلمي عند احتمال التباس الأسماء، ودرجة الفرز ومقطع كل قطعة وطولها، وما إذا كانت للاستخدام الداخلي أو الخارجي. قدّم مخطط الأجزاء مع اتجاه الألياف المطلوب للقطع الظاهرة. اسأل عن التجفيف ومحتوى الرطوبة المقاس وطريقة التخزين والمعالجة المناسبة، وقارن السعر على حجم الخشب الصافي القابل للاستخدام لا حجم الشحنة فقط. افحص القطع من الاعوجاج والتشققات والعقد المؤثرة ومطابقة المقاطع، ولا تعتمد استبدال نوع الخشب دون موافقة المصمم أو صاحب الطلب.",
+          "bodyEn": "Natural timber for doors, frames or shelves should be ordered by species, grade, cross-section and length, with the intended indoor or outdoor exposure stated. Provide a parts drawing and grain direction for visible components. Ask how the timber was dried, its measured moisture content, storage conditions and any treatment relevant to the job. Compare usable finished volume rather than the nominal load alone. Inspect for bowing, splits, problematic knots and incorrect sections; proposed species substitutions need design or client approval before cutting."
+        },
+        {
+          "nameAr": "توريد الأبلكاش",
+          "nameEn": "Plywood supply",
+          "bodyAr": "في طلب الأبلكاش، حدّد الاستخدام أولًا: ظهر خزانة، قاعدة أثاث، قوالب مؤقتة أو مساحة معرضة للرطوبة؛ فعدد الطبقات ودرجة الوجه ونظام اللصق لا تؤدي الغرض نفسه. أرسل سماكة اللوح وأبعاده وكميته واتجاه الوجه المرئي، واطلب بيانات درجة اللوح وتصنيف الربط من المورد بدل الاكتفاء بعبارة «بحري». قارن بين العروض مع حساب القص والتسليم وكمية الفاقد. عند الاستلام افحص الحواف بحثًا عن الفراغات والانفصال، وقس سماكات عينات متفرقة وراجع عدم التواء الألواح أو تلف أطرافها.",
+          "bodyEn": "Start a plywood order with its purpose: cabinet backing, furniture carcasses, temporary formwork or a moisture-exposed application require different face grades and bonding systems. Specify sheet thickness, dimensions, quantity and visible-face orientation. Request the supplier's documented grade and bond classification rather than relying on the label 'marine'. Compare cutting, delivery and expected offcuts as well as sheet price. Inspect edges for core voids or separation, sample thickness across the batch and reject sheets showing warping or damaged corners."
+        },
+        {
+          "nameAr": "توريد ألواح الميلامين",
+          "nameEn": "Melamine board supply",
+          "bodyAr": "ألواح الميلامين المستخدمة في الخزائن والمكاتب تُطلب وفق مخطط قص يحدد مادة القلب وسماكة اللوح ولون الوجهين واتجاه النقشة وأرقام القطع. أرفق عينة معتمدة أو رمز الديكور، ووضح هل يلزم شريط حافة مطابق في اللون والسماكة ودرجة اللمعان. قارن العروض على أساس اللوح والقص وتلبيس الحواف معًا، لا سعر المتر المربع وحده؛ واسأل عن توافر دفعة واحدة للأجزاء المتجاورة. قبل الاستلام افحص تجانس اللون والخدوش والكسور وتطابق الوجهين، ثم راجع قياسات القطع قبل تثبيت المفصلات.",
+          "bodyEn": "For melamine-faced boards in wardrobes or offices, provide a cutting schedule stating core material, board thickness, both face finishes, décor code, grain direction and part numbers. Supply an approved physical sample and specify matching edge-band colour, thickness and sheen. Compare quotations for boards, cutting and edge-banding together, rather than per-square-metre board cost alone; check whether adjacent parts can come from a consistent batch. At receipt, inspect face colour, scratches and chipped edges, and verify finished cut sizes before hinge drilling."
+        },
+        {
+          "nameAr": "توريد ألواح HPL",
+          "nameEn": "HPL sheet supply",
+          "bodyAr": "توريد HPL لتكسية سطح عمل أو باب أو جدار يحتاج تحديد ما إذا كانت المادة صفائح رقيقة تُلصق على قاعدة أم ألواحًا مدمجة ذات سماكة إنشائية مختلفة. أرسل أبعاد الأسطح والفتحات والحواف ونصف قطر الانحناء إن وجد، مع كود اللون والملمس ومتطلبات التنظيف والتعرض للرطوبة. اطلب بيانات السماكة ونوع اللاصق والقاعدة المتوافقة، وقارن تكلفة النظام بما يشمل تشطيب الحواف والقص والفاقد. افحص الصفائح تحت إضاءة جيدة للتأكد من عدم وجود خدوش أو تشققات، وطابق أرقام الألوان والدفعات قبل التصنيع.",
+          "bodyEn": "An HPL order for a worktop, door or wall must distinguish thin laminate bonded to a substrate from compact laminate panels of a different structural thickness. Provide surface dimensions, cut-outs, edge details and any required bending radius, plus finish code, cleaning needs and moisture exposure. Request thickness, adhesive and compatible substrate information from the manufacturer. Compare the full installed-material package, including edge finishing, cutting and waste. Inspect sheets under even lighting for cracks or scratches and match décor and batch codes before fabrication."
+        },
+        {
+          "nameAr": "توريد إكسسوارات النجارة",
+          "nameEn": "Joinery fittings supply",
+          "bodyAr": "في توريد إكسسوارات النجارة، أرسل رسومات الأبواب والأدراج موضحًا أبعاد الضلف ووزنها التقريبي وزاوية الفتح ومسافة السحب والخلوص المتاح. فرّق بين مفصلات الأبواب وسحّابات الأدراج ومقابضها وأنظمة الرفع، وحدد متطلبات الإغلاق الهادئ أو مقاومة التآكل حسب الاستخدام. قارن العروض بحسب رقم الطراز وسعة التحميل وعدد دورات التشغيل المعلن وملحقات التثبيت والضمان، لا بحسب الاسم العام «مفصلة ألماني». افحص القطع والبراغي والقواعد والاتجاهات عند الاستلام، واختبر نموذجًا على قطعة تجريبية قبل اعتماد كمية المشروع.",
+          "bodyEn": "Supply a joinery fittings schedule with door and drawer dimensions, approximate leaf weights, opening angles, drawer travel and available clearances. Separate door hinges, drawer runners, handles and lift mechanisms, and identify any soft-close or corrosion-resistance requirement. Compare exact part numbers, rated loads, published cycle performance, mounting accessories and warranty terms—not a generic description such as 'premium hinge'. Count bases, screws and handed components on delivery, and trial-fit a sample assembly before approving the full order."
+        },
+        {
+          "nameAr": "قص وتجهيز الألواح",
+          "nameEn": "Board cutting and preparation",
+          "bodyAr": "قص وتجهيز ألواح الخشب ليس مجرد توريد لوح خام: قدم جدول قص مرقمًا يتضمن طول وعرض كل قطعة وسماكتها ونوع اللوح واتجاه النقشة وحواف التلبيس والثقوب المطلوبة. حدّد هل المقاسات نهائية بعد تلبيس الحواف، وما حدود التفاوت المقبولة ومكان تسليم الأجزاء. اطلب من الورشة مخطط توزيع القص على الألواح وتوضيح التعامل مع البواقي، وقارن تكلفة القص والحفر والتغليف والنقل منفصلة عن ثمن الخامة. عند الاستلام طابق ملصقات القطع مع الجدول، وقس عينات من القطع الطويلة والقصيرة وتحقق من استقامة الحواف وعدم تقشر السطح.",
+          "bodyEn": "Board cutting and preparation requires more than supplying raw sheets. Submit a numbered cutting list with each part's length, width, thickness, board type, grain direction, edge-banding and drilling positions. Specify whether dimensions are final after edging, acceptable tolerances and the delivery point. Ask the workshop for its cutting layout and policy for usable offcuts; compare cutting, drilling, packaging and transport separately from raw board cost. At collection, match part labels to the list, measure representative long and short pieces, and check edge straightness and surface chipping."
+        }
+      ]
+    },
+    {
+      "slug": "natural-marble-granite",
+      "services": [
+        {
+          "nameAr": "توريد الرخام الطبيعي",
+          "nameEn": "Natural marble supply",
+          "bodyAr": "اطلب الرخام الطبيعي بناءً على مخطط يحدد مواقع الاستخدام وأبعاد الألواح والسماكات المطلوبة، لا اعتمادًا على صورة لون فقط؛ فالعروق والتفاوت بين الألواح جزء من طبيعة الحجر. للدرج أو الأرضيات أو كسوة الجدران تختلف متطلبات التشطيب ومقاومة الانزلاق والتثبيت. اطلب صور الألواح الفعلية وأرقام دفعاتها، ومخطط توزيع العروق والقص، ونسبة الهالك المتوقعة، وبيان معالجة الحواف والنقل. قارن السعر بالمتر المربع الصافي وبالألواح الكاملة مع القص والهالك والتوصيل، وافحص عند التسليم التشققات والزوايا والسماكة ومطابقة الألواح المعتمدة قبل التركيب.",
+          "bodyEn": "Specify natural marble against a layout showing each application, slab dimensions and required thickness rather than selecting from a colour photograph. Veining and variation between slabs are inherent, while stair treads, floors and wall cladding call for different finishes, slip characteristics and fixing methods. Ask for photographs and batch references of the actual slabs, a vein-matching and cutting layout, expected waste, edge finishing and delivery arrangements. Compare net-area pricing against whole-slab purchasing including offcuts and transport. Before installation, inspect cracks, corners, thickness and correspondence with the approved slabs."
+        },
+        {
+          "nameAr": "توريد الجرانيت",
+          "nameEn": "Granite supply",
+          "bodyAr": "الجرانيت ليس بديلًا تلقائيًا عن الرخام؛ اختيار النوع يرتبط بالاحتكاك والبقع والتعرض للماء والحرارة ومكان الاستخدام. أرسل أبعاد الأسطح أو الأرضيات ومواضع الفتحات والحواف ونوع التشطيب المطلوب، واطلب عينة فعلية تبين اللون والحبيبات والسماكة. يجب أن يفصل عرض التوريد بين المادة والقص والتشطيب والرفع إلى الطابق والنقل، مع بيان اختلاف الألواح والدفعات. عند الاستلام طابق أكواد الألواح والمقاسات والسطح المصقول أو المحبب، وافحص الكسور الدقيقة خصوصًا حول الحواف.",
+          "bodyEn": "Granite should not automatically be substituted for marble: surface wear, staining, moisture, heat exposure and intended use matter. Supply dimensions for floors or counters, cut-out positions, edge profiles and finish, and request a physical sample showing grain, colour and thickness. Quotations should distinguish raw material, cutting, finishing, transport and lifting to the installation floor, and explain natural variation between batches. At delivery, check slab identification, dimensions, the specified polished or textured finish, and hairline damage near edges."
+        },
+        {
+          "nameAr": "قص الرخام حسب المقاس",
+          "nameEn": "Custom-size marble cutting",
+          "bodyAr": "قص الرخام حسب المقاس يبدأ برسم تنفيذي بالأبعاد النهائية بعد التحقق من الموقع، لا بمقاسات تقريبية مأخوذة قبل التشطيب. حدّد عدد القطع واتجاه العروق، وسماكة اللوح، وعرض شفرة القطع المسموح به، ومواقع الفتحات والزوايا ونوع حافة كل قطعة. اطلب من الورشة اعتماد مخطط القص قبل التشغيل وتوضيح من يتحمل كسر اللوح أو إعادة التصنيع إذا اختلف القياس. استلم القطع مرقمة، وقِس الأبعاد والأقطار عند الزوايا وافحص استقامة القطع والحواف قبل نقلها إلى الموقع.",
+          "bodyEn": "Custom marble cutting requires a dimensioned shop drawing checked against finished site conditions, not rough measurements taken before adjacent finishes are complete. List pieces, grain direction, slab thickness, saw-kerf allowance, openings, corners and edge profiles. Have the workshop approve a cutting diagram before production and agree who pays for breakage or recutting caused by measurement discrepancies. Receive numbered pieces, measure lengths and diagonals where relevant, and inspect straightness and finished edges before dispatch to site."
+        },
+        {
+          "nameAr": "جلي وتلميع الرخام",
+          "nameEn": "Marble polishing",
+          "bodyAr": "جلي الرخام وتلميعه مناسب للخدوش السطحية وفقدان اللمعان، لكنه لا يعالج تلقائيًا الشروخ العميقة أو الهبوط أو الرطوبة أسفل الأرضية. أرسل صورًا في إضاءة جانبية ومساحة الأرضية بالمتر المربع، واذكر وجود بقع أو فواصل مفتوحة أو معالجة سابقة. اطلب تجربة صغيرة متفقًا عليها لتحديد درجة الصنفرة وملاءمة مادة التلميع للحجر، مع حماية الأبواب والجدران وإدارة مياه الجلي والغبار. قارن مراحل المعالجة وإصلاح الفواصل والتشطيب النهائي، واستلم بعد جفاف السطح وفحص تجانس اللمعة وعدم ترك آثار دوائر أو انزلاق غير مقبول.",
+          "bodyEn": "Grinding and polishing can address superficial scratches and dullness, but cannot by itself correct deep fractures, subsidence or moisture beneath a floor. Provide side-lit photographs, floor area, details of staining, open joints and earlier treatments. Agree a small trial area to establish abrasion stages and stone-compatible polishing products, together with protection of doors and walls and control of slurry and dust. Compare joint repairs, polishing stages and final protection in each quotation. Inspect the dry floor for consistent sheen, swirl marks and unsuitable slipperiness."
+        },
+        {
+          "nameAr": "تركيب الأرضيات الرخامية",
+          "nameEn": "Marble floor laying",
+          "bodyAr": "تركيب أرضية رخامية يتطلب فحص استواء القاعدة ومناسيب الأبواب والتصريف قبل احتساب عدد الألواح. قدّم مخطط المساحة واتجاه العروق وشكل توزيع القطع ومواقع الفواصل والانتقالات، وحدّد السماكة وطريقة التثبيت المناسبة وفق تصميم المشروع. اطلب فصل تكلفة تجهيز القاعدة والعزل عند الحاجة والقص والتركيب والترويب والحماية اللاحقة؛ لا تقارن سعر التركيب المجرد بعرض يشمل هذه الأعمال. عند الاستلام افحص المناسيب والفواصل وتماسك القطع والتطابق البصري مع مخطط الفرش، ولا تقبل معالجة الفروق الكبيرة بالتلميع وحده.",
+          "bodyEn": "Before laying marble flooring, survey substrate flatness, door thresholds and drainage levels as well as the net floor area. Provide a layout identifying grain direction, cut-piece distribution, joints and transitions; specify slab thickness and an installation system suitable for the project design. Separate substrate preparation, any required waterproofing, cutting, laying, grouting and post-installation protection in the quotation. At handover, check levels, joint alignment, bond and visual consistency with the approved setting-out plan; significant unevenness should not be concealed by polishing alone."
+        },
+        {
+          "nameAr": "تركيب رخام الجدران والواجهات",
+          "nameEn": "Wall and façade marble installation",
+          "bodyAr": "كسوة الجدران والواجهات بالرخام تحتاج إلى تحديد ارتفاع الكسوة ومقاس اللوح ووزنه ونوع الجدار وطريقة التثبيت قبل التسعير. أرفق صور الواجهة أو الجدار ورسومات الفتحات والزوايا والتقاء الكسوة بالنوافذ، واطلب تفصيلًا معتمدًا لنظام التثبيت والمرابط والفواصل والحركة ومعالجة المياه بحسب موقع العمل. يجب أن يوضح العرض مسؤولية التصميم والتوريد والرفع والسقالات أو وسائل الوصول والتركيب. لا تعتمد على اللاصق وحده للألواح الثقيلة دون تصميم مناسب؛ استلم محاذاة الفواصل وثبات القطع وحماية الحواف وتفاصيل تصريف المياه.",
+          "bodyEn": "Marble wall or façade cladding must be priced against cladding height, slab size and weight, supporting wall construction and the proposed fixing system. Attach elevations, opening and corner details and junctions with windows. Request an approved fixing design addressing anchors, movement joints and water management appropriate to the location. The quotation should allocate responsibility for design, supply, lifting, access equipment and installation. Heavy slabs must not rely on an unsuitable adhesive-only arrangement. Inspect joint alignment, secure fixing, protected edges and water-shedding details at handover."
+        },
+        {
+          "nameAr": "صيانة ومعالجة الرخام",
+          "nameEn": "Marble restoration",
+          "bodyAr": "تبدأ صيانة الرخام بتحديد العيب: بقعة نافذة أو حفر كيميائي أو كسر حافة أو شرخ أو تفكك قطعة؛ لكل حالة معالجة مختلفة. صوّر موضع الضرر مع مسطرة قياس، واذكر نوع المنظف المستخدم ومصدر الرطوبة إن وجد، ثم اطلب فحصًا يحدد ما إذا كانت القطعة قابلة للإصلاح أم يلزم استبدالها. قارن عروض الحقن أو الملء أو الصنفرة أو الاستبدال من حيث حدود النتيجة واحتمال اختلاف اللون، وتأكد من عدم استخدام أحماض أو مواد غير ملائمة للحجر. الاستلام يكون بعد اختبار تماسك الإصلاح وفحص ملمس السطح ومظهره في ضوء طبيعي.",
+          "bodyEn": "Marble restoration begins with diagnosis: penetrating stain, chemical etching, chipped edge, crack or loose slab each needs a different remedy. Photograph the damage beside a scale and disclose cleaners used and any suspected moisture source. Request an inspection that establishes whether repair is feasible or replacement is necessary. Compare resin filling, consolidation, grinding and replacement in terms of achievable appearance and colour variation; avoid acidic or stone-incompatible treatments. Accept the repair after checking bond, surface feel and appearance in natural light."
+        }
+      ]
+    },
+    {
+      "slug": "kitchen-countertops-sinks",
+      "services": [
+        {
+          "nameAr": "تصنيع أسطح المطابخ",
+          "nameEn": "Fabricate kitchen worktops",
+          "bodyAr": "تصنيع أسطح المطابخ يبدأ بعد اعتماد خامة السطح ونوع الخزائن ومخطط الأجهزة، لا بمجرد قياس طول الجدار. اطلب رفع مقاسات ميدانية بعد تثبيت وحدات المطبخ وضبط استوائها، مع رسم يوضح الأعماق والبروزات ومواقع الحوض والموقد والفواصل واتجاه عروق الحجر إن وجدت. ينبغي تحديد سماكة المادة الفعلية وشكل الحافة، والدعامات اللازمة للبروزات، وطريقة معالجة الزوايا والوصلات. قارن عروض الورش على أساس القالب والقص والتشطيب والتدعيم والنقل ومخاطر الكسر، مع توضيح من يتحمل إعادة التصنيع عند خطأ القياس. قبل الشحن طابق القطع المرقمة مع الرسم، وافحص الفتحات والحواف وتجانس الألوان.",
+          "bodyEn": "Kitchen worktop fabrication should begin with an approved surface material, cabinet layout and appliance schedule, not a wall-length estimate. Take final site templates after the cabinets are installed and levelled. Show depths, overhangs, sink and hob openings, seams and any natural-stone vein direction on a numbered fabrication drawing. Specify actual material thickness, edge profiles and supports for projections and corners. Compare workshop quotations for templating, cutting, finishing, reinforcement, transport and breakage liability; establish who pays for remaking pieces after a measurement error. Before dispatch, match numbered parts to the drawing and inspect openings, edges and colour consistency."
+        },
+        {
+          "nameAr": "تركيب أسطح المطابخ",
+          "nameEn": "Install kitchen worktops",
+          "bodyAr": "تركيب سطح مطبخ جاهز يختلف عن تصنيعه؛ فقد تكون القطع صحيحة لكن قواعد الخزائن غير مستوية أو الجدران غير قائمة. اطلب معاينة المناسيب والدعامات ومسار إدخال الألواح، وحدد إن كان فك الحوض أو الأجهزة القديمة ضمن العمل. يجب أن يذكر العرض وسائل الرفع والتثبيت ونوع المواد المانعة للتسرب، ومعالجة التقاء السطح بالحائط، ومن يعيد توصيل السباكة والأجهزة بواسطة المختص المناسب. بعد التركيب افحص الثبات وعدم وجود تحميل مركز على الزوايا أو بروز غير مدعوم، واختبر إحكام منطقة الحوض بالماء دون إغراق الخزائن، وسجّل أي خدش أو فرق في ارتفاع الوصلات.",
+          "bodyEn": "Installing a prefabricated kitchen worktop is distinct from making it: accurate pieces can still fail on uneven cabinets or out-of-square walls. Survey support levels and the route for carrying slabs into the room, and agree whether removal of existing sinks or appliances is included. The quotation should identify lifting, fixing, compatible sealants, wall junction treatment and who will reconnect plumbing and appliances through appropriately qualified trades. At handover, check stability, unsupported overhangs and concentrated loads near corners. Carefully test the sink perimeter for leakage without flooding the cabinets, and record scratches or raised seams."
+        },
+        {
+          "nameAr": "تصنيع مغاسل الرخام",
+          "nameEn": "Fabricate marble vanities",
+          "bodyAr": "تصنيع مغاسل الرخام يحتاج رسمًا يحدد عرض وحدة المغسلة وعمقها وارتفاع الاستخدام، ونوع الحوض: فوق السطح أو تحته أو مدمجًا، مع أبعاد الخلاط والسيفون ومخارج التغذية. أرسل طراز الحوض الفعلي وقالب القطع ومواقع الأدراج والأبواب حتى لا تتعارض المواسير مع الخزانة. اطلب توضيح سماكة الرخام والحواف الظاهرة وطريقة تدعيم الحوض ومعالجة سطح الحجر ضد البقع وفق توصية المورد. قارن التصنيع منفصلًا عن التركيب والسباكة والمرآة والخزانة. عند الاستلام افحص التماثل والحواف والفتحات وثبات الحوض، ثم اختبر التصريف والتسرب وإمكانية الوصول إلى الوصلات للصيانة.",
+          "bodyEn": "Fabricating a marble vanity requires a dimensioned drawing showing unit width, depth, finished height and whether the basin sits above, below or within the top. Provide the actual basin model and cutting template, tap position, trap and supply outlets, and drawer clearances so plumbing does not collide with the cabinetry. Specify stone thickness, visible edge treatment, basin support and stain-care guidance appropriate to the selected stone. Compare fabrication separately from installation, plumbing, mirror and cabinet work. Inspect symmetry, openings, polished edges and basin fixing; then test drainage, leaks and access for future maintenance."
+        },
+        {
+          "nameAr": "تفصيل فتحات الأحواض والأجهزة",
+          "nameEn": "Cut sink and appliance apertures",
+          "bodyAr": "تفصيل فتحات الأحواض والأجهزة عمل دقيق قد يؤدي الخطأ فيه إلى إتلاف اللوح بالكامل. لا تعتمد قياسات مأخوذة من صورة إعلان؛ قدّم رقم طراز الحوض أو الموقد وقالب المصنع وتعليمات التهوية والخلوص والتثبيت. أظهر في مخطط الورشة المسافة بين الفتحة والحافة الخارجية، ومواقع الوصلات والدعامات أسفلها، واتجاه العروق في الحجر الطبيعي. اطلب بيان طريقة القص المناسبة للمادة وتشطيب الزوايا الداخلية لتقليل تركّز الإجهاد، ومن يتحمل إعادة القص إذا تغيّر الجهاز. قبل التركيب جرّب وضع الجهاز دون تثبيت نهائي وتأكد من خلوص المشابك والأنابيب وعدم وجود تشققات حول الزوايا.",
+          "bodyEn": "Cutting sink and appliance apertures can ruin an entire slab if dimensions are wrong. Use the manufacturer's template, exact model number and ventilation, clearance and fixing instructions rather than dimensions inferred from an advert. The workshop drawing should show distance to slab edges, nearby seams, underside supports and natural-stone veining. Ask which cutting process suits the material, how internal corners are finished to reduce stress concentrations and who bears the cost if an appliance changes. Dry-fit the unit before permanent fixing and inspect clips, pipe clearance and the surrounding slab for hairline cracks."
+        },
+        {
+          "nameAr": "تركيب الكوارتز",
+          "nameEn": "Quartz surface installation",
+          "bodyAr": "تركيب الكوارتز لأسطح المطابخ والمغاسل يحتاج تحديد نوع المنتج المركب وبيانات الشركة المصنعة، لا الاكتفاء باسم اللون. ارفع مخطط الأبعاد والفتحات والبروزات وحدد سماكة اللوح، وموضع الوصلات المقترح بعيدًا قدر الإمكان عن مناطق الإجهاد، ومتطلبات الدعم أسفل الأجهزة. تختلف تعليمات مقاومة الحرارة والمنظفات بين المنتجات؛ اطلب تعليمات المصنع المكتوبة للعناية والتثبيت. قارن عرض القص والحواف واللصق والرفع والدعامات والضمان، ولا تقارن سعر اللوح وحده. افحص استقامة الفواصل وتقارب اللون وسلامة الزوايا، وتأكد من ثبات السطح وعدم استخدام مواد تنظيف أو تلميع غير موصى بها.",
+          "bodyEn": "Quartz worktop installation requires the actual engineered-stone product and manufacturer information, not merely a colour name. Supply a drawing of runs, cut-outs, overhangs, slab thickness and proposed seams, taking care with seams near stressed openings and with support beneath appliances. Heat resistance, cleaners and installation requirements vary by product, so request written manufacturer guidance. Compare cutting, edge finishing, bonding, lifting, support and warranty as a complete package rather than the slab price alone. Check seam flatness, colour continuity, intact corners and stable support, and avoid polishing or cleaning methods the manufacturer does not approve."
+        },
+        {
+          "nameAr": "تركيب البورسلان السطحي",
+          "nameEn": "Porcelain slab worktop installation",
+          "bodyAr": "ألواح البورسلان الكبيرة المستخدمة كأسطح عمل تتطلب تخطيطًا خاصًا للنقل والقص بسبب هشاشة الحواف والفتحات قبل التركيب. قدّم رسمًا نهائيًا للخزائن والموقد والحوض مع سماكة اللوح وتفاصيل الحافة، وحدد مسار حمل القطع داخل المبنى ومساحة المناورة عند الأبواب. اسأل الورشة عن معدات المناولة وطريقة دعم اللوح أثناء القص، ونظام القاعدة والدعامات المعتمد للمنتج، وكيفية تنفيذ الزوايا والوصلات. يجب أن يوضح العرض مسؤولية الكسر والتبديل، والقص والتثبيت والحماية أثناء بقية الأعمال. افحص السطح بإضاءة جانبية والحواف والفتحات بحثًا عن شروخ دقيقة، واختبر استواء القطع وثباتها قبل التسليم.",
+          "bodyEn": "Large-format porcelain worktop slabs need careful handling and cutting plans because edges and apertures can be vulnerable before installation. Provide a final drawing of cabinets, hob and sink, slab thickness and edge profiles; survey doorways and turning space along the carrying route. Ask the fabricator about lifting frames, support during cutting, the approved substrate and support system, and methods for forming seams and mitred edges. Quotations should assign responsibility for breakage, replacement, cutting, fixing and protection from later trades. Inspect the surface under angled light, especially around openings and edges, for fine cracks or chips, and confirm level, secure seating before handover."
+        },
+        {
+          "nameAr": "صيانة وإعادة تلميع الأسطح",
+          "nameEn": "Worktop repair and polishing",
+          "bodyAr": "صيانة سطح المطبخ تبدأ بتحديد المادة: رخام طبيعي أو جرانيت أو كوارتز مركب أو بورسلان؛ فطريقة إزالة الخدش أو البقعة ليست واحدة. أرسل صورًا قريبة وعامة للضرر مع قياس طوله، وحدد مكانه قرب الحوض أو الحرارة، والمنظفات المستخدمة، وهل المشكلة خدش سطحي أم شرخ أو انفصال وصلة. اطلب تجربة معالجة في موضع غير ظاهر إن أمكن، مع بيان حدود تطابق اللمعان واللون، ومتى يكون استبدال الجزء أكثر أمانًا من ملء الشرخ. قارن الإصلاح الموضعي وإعادة إحكام الفواصل والاستبدال من حيث المدة والمواد والضمان. استلم السطح جافًا ونظيفًا وافحص تماسك الوصلات وعدم بقاء حواف حادة؛ لا تسمح بجلي كاشط على مادة لا تقبله.",
+          "bodyEn": "Worktop repair starts by identifying the material—natural marble, granite, engineered quartz or porcelain—because stain and scratch treatments are not interchangeable. Send overall and close-up photographs with a scale, note proximity to water or heat, cleaners previously used and whether the defect is a scratch, crack or failed seam. Request a discreet test where feasible, and a realistic statement of colour and gloss matching and when replacement is safer than filling. Compare spot repair, resealing seams and partial replacement for material compatibility, time and warranty. Inspect the cleaned, dry surface, seam adhesion and sharp edges; do not permit abrasive resurfacing on a product that cannot tolerate it."
+        }
+      ]
+    },
+    {
+      "slug": "ceramic-porcelain",
+      "services": [
+        {
+          "nameAr": "توريد السيراميك",
+          "nameEn": "Ceramic tile supply",
+          "bodyAr": "عند شراء السيراميك لحمام أو مطبخ أو أرضية، ابدأ بمخطط يميز مساحة الجدران عن الأرضيات ويحدد أماكن الأبواب والفتحات والصرف؛ فالمتر المربع الصافي لا يكفي لحساب القص والقطع الاحتياطية. اطلب كود المنتج والمقاس الفعلي ودرجة الفرز ونوع السطح ولون الحواف، وتحقق من ملاءمة البلاط لمكان الاستخدام ومن توصيات المصنع للاصق والفواصل. قارن عروض الموردين على أساس عدد الصناديق وتغطية الصندوق ونسبة الهالك ومصاريف التوصيل والتنزيل وسياسة استبدال العبوات المغلقة. عند الاستلام طابق رمز اللون ورقم الدفعة على الصناديق، وافتح عينات من أكثر من صندوق لفحص التشققات والالتواء واختلاف اللون قبل بدء التركيب.",
+          "bodyEn": "For a bathroom, kitchen or floor order, start with a drawing that separates wall from floor areas and marks doorways, pipe penetrations and drains. Net floor area alone will not cover cuts and spare tiles. Specify the product code, actual dimensions, grade, finish and edge colour, and obtain the manufacturer's guidance on suitable applications, adhesives and joints. Compare suppliers by box coverage, number of cartons, cutting allowance, delivery, unloading and the policy for returning unopened cartons. On arrival, match shade and production batch references across boxes and inspect samples from several cartons for cracks, warping and colour variation before installation starts."
+        },
+        {
+          "nameAr": "توريد البورسلان",
+          "nameEn": "Porcelain tile supply",
+          "bodyAr": "البورسلان كبير المقاس قد يحتاج وسيلة نقل وحمل مختلفة عن البلاط التقليدي، لذلك أرسل المقاسات والسماكة وعدد القطع المطلوبة ومسار دخولها إلى المبنى، مع تحديد الاستخدام أرضيةً أو جدارًا أو مساحة مبللة. اطلب بيانات المصنع عن امتصاص الماء والتشطيب وملاءمة مقاومة الانزلاق للاستخدام المقصود، ولا تفترض أن كل بورسلان مناسب للخارج. ينبغي أن يفصل العرض ثمن الألواح عن تكلفة التغليف والرفع والتوصيل والهالك المتوقع عند القص. افحص عند التسليم زوايا الألواح واستقامتها وأرقام التشغيل والعبوات المكسورة، واتفق على توثيق التلف قبل توقيع سند الاستلام.",
+          "bodyEn": "Large porcelain formats can require different transport and handling from ordinary tiles. Supply the slab dimensions, thickness, quantities, access route and intended location, including whether the area is wet or outdoors. Request the manufacturer's product data for water absorption, finish and slip suitability rather than assuming all porcelain works outside. Ask for separate prices for material, protective packaging, lifting, delivery and anticipated cutting waste. At handover inspect corners, flatness, batch markings and damaged cartons, and record any transit damage before signing the delivery note."
+        },
+        {
+          "nameAr": "توريد البلاط الخارجي",
+          "nameEn": "Outdoor paving tile supply",
+          "bodyAr": "اختيار بلاط الممرات أو الساحات يبدأ بتحديد ما إذا كان الاستخدام للمشاة فقط أم قد تمر عليه مركبات، وحالة القاعدة القائمة ومواضع تصريف المياه. أرفق مخططًا بالأبعاد والميول والمداخل، واطلب عينة فعلية بملمس مناسب عند البلل ومواصفات التحمل وطريقة التركيب التي يوصي بها المورد. لا تخلط بين بلاط حديقة خفيف ومنتج مصمم لتحمل أحمال السيارات؛ وقارن كذلك سماكة البلاطة والتفاوت في الأبعاد وتكلفة القص والبردورات والنقل. عند التسليم افحص عينة من كل دفعة، وراجع تطابق الملمس واللون وسلامة الحواف قبل رص المواد في مكان يحميها من الكسر.",
+          "bodyEn": "Begin by establishing whether the paving will carry pedestrians only or occasional vehicles, what substrate exists and where rainwater drains. Provide an area drawing with levels, entrances and falls. Ask for a physical sample with a suitable wet-surface texture, relevant load suitability and the supplier's installation recommendations. A lightweight garden tile is not automatically suitable for a driveway. Compare thickness, dimensional tolerances, edging pieces, cuts and delivery as well as the base price. Inspect a sample from each batch and confirm consistent texture, colour and intact edges before stacking the delivery safely."
+        },
+        {
+          "nameAr": "قص وتجهيز البلاط",
+          "nameEn": "Tile cutting and preparation",
+          "bodyAr": "خدمة قص البلاط مستقلة عن توريده وتركيبه، وتفيد عندما توجد فتحات مواسير أو زوايا أو قطع ضيقة عند الأبواب والأعمدة. قدّم مخطط فرش مرقمًا يوضح طول وعرض كل قطعة، واتجاه النقشة، وأماكن الفتحات وأقطارها، ونوع البلاط وسماكته؛ فقص البورسلان الكبير يختلف عن السيراميك المعتاد. اطلب تحديد أسلوب القص وتشطيب الحواف الظاهرة وحدود التفاوت ومن يتحمل تلف القطع التي يقدمها العميل. قارن سعر القطعة أو المتر الطولي مع تكلفة النقل والتغليف وإعادة القص، واستلم القطع مرقمة مع تجربة وضعها جافة في المواقع الحرجة قبل تثبيتها.",
+          "bodyEn": "Tile cutting is a separate scope from supply and laying, particularly for pipe holes, corners and narrow pieces around doorways and columns. Submit a numbered laying plan with the length and width of each piece, pattern direction, hole centres and diameters, material and thickness. Cutting a large porcelain slab requires different handling from ordinary ceramic tile. Agree on the cutting method, exposed-edge finish, tolerances and who pays for breakage of customer-supplied material. Compare per-cut or linear-edge charges together with transport, packing and recutting. Receive numbered pieces and dry-fit critical shapes before bonding."
+        },
+        {
+          "nameAr": "تركيب السيراميك",
+          "nameEn": "Ceramic tile installation",
+          "bodyAr": "قبل تركيب السيراميك افحص صلابة القاعدة واستواءها وجفافها، وتحقق من اكتمال أعمال العزل والسباكة في الحمامات وعدم إخفاء تسرب قائم خلف البلاط. أرسل مساحة الجدران والأرضيات ومخطط الفرش ومقاس البلاط ومواقع الصرف والعتبات، وحدد هل إزالة البلاط القديم وتجهيز السطح والوزرات ضمن النطاق. قارن العروض بحسب نوع اللاصق المتوافق مع القاعدة والبلاط، وعرض الفواصل، والترويب، والحماية بعد التركيب، ومعالجة فواصل الحركة. عند الاستلام افحص انتظام الصفوف وثبات البلاطات وعدم وجود فراغات مؤثرة، واختبر اتجاه الميول نحو المصارف في المناطق المبللة قبل اعتماد العمل.",
+          "bodyEn": "Before tiling, check that the substrate is sound, sufficiently level and dry, and that bathroom waterproofing and plumbing tests have been completed; new tiles should not conceal an unresolved leak. Provide wall and floor measurements, the laying pattern, tile size, drains and thresholds. State whether removal of old finishes, substrate repairs and skirting are included. Compare quotations for the adhesive system appropriate to the tile and base, joint widths, grouting, protection and movement joints. At handover check alignment, adhesion and absence of significant voids, and test drainage falls in wet areas before accepting the work."
+        },
+        {
+          "nameAr": "تركيب البورسلان",
+          "nameEn": "Porcelain tile installation",
+          "bodyAr": "يتطلب تركيب البورسلان، ولا سيما الألواح الكبيرة، تخطيطًا دقيقًا لمناسيب الأرضية ومواضع الفواصل وطريقة حمل القطع وتوزيع اللاصق. اطلب من المنفذ معاينة استواء القاعدة وتحديد نظام اللاصق وطريقة فرده والتغطية المطلوبة وفق تعليمات المنتج، مع معدات الرفع والتسوية المناسبة. يجب أن يوضح العرض تكلفة قص الفتحات والزوايا ونسبة الهالك، وما إذا كان تجهيز القاعدة وفواصل الحركة والترويب مشمولًا. افحص حواف البلاط تحت إضاءة جانبية للتأكد من عدم وجود فروق ارتفاع مزعجة أو كسور، وتحقق من ثبات القطع ونظافة الفواصل قبل السماح باستخدام الأرضية.",
+          "bodyEn": "Porcelain installation, especially in large formats, requires careful substrate levelling, planned joints, suitable lifting equipment and controlled adhesive coverage. Ask the installer to survey the base and specify the adhesive and bedding method according to the product instructions, including the handling and levelling tools. Quotations should distinguish cut-outs, corner work, breakage allowance, substrate preparation, movement joints and grouting. Inspect edges under raking light for objectionable lippage or chips, confirm stable bedding and clean joints, and respect the stated curing time before using the floor."
+        },
+        {
+          "nameAr": "توريد وتركيب الوزرات",
+          "nameEn": "Skirting supply and installation",
+          "bodyAr": "الوزرات تحمي التقاء الجدار بالأرضية وتغطي حافة التشطيب، لكن نجاحها يعتمد على قياس الأطوال الصافية بعد تثبيت الأرضية وتحديد ارتفاع موحد ونقاط النهاية عند الأبواب والخزائن. أرسل مخطط المحيط مع صور الزوايا الداخلية والخارجية، واختر بين وزرات جاهزة وقطع مقصوصة من البلاط نفسه مع توضيح تشطيب الحافة العليا. قارن سعر المادة والقص والزوايا واللاصق وملء الفاصل العلوي منفصلة، ولا تهمل تأثير استواء الجدار على شكل الوزرة. عند الاستلام راجع استقامة الخط العلوي وثبات القطع وتناسق الفواصل وعدم وجود أطراف حادة أو فجوات مفتوحة.",
+          "bodyEn": "Skirting protects the floor-to-wall junction, but it should be measured after the finished floor is in place. Supply perimeter lengths, the agreed height, door and cabinet termination points, and photographs of internal and external corners. Choose between factory-made skirting and strips cut from matching tiles, including the exposed top-edge finish. Compare material, cutting, corners, adhesive and top-joint sealing as separate items; uneven walls can affect the result. At handover check a consistent top line, secure fixing, aligned joints and the absence of sharp ends or open gaps."
+        }
+      ]
+    }
+  ]
+}

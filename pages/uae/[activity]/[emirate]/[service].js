@@ -87,7 +87,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
           )}
           {!geoSector && <FAQ items={faqItems} title={`أسئلة شائعة حول ${title}`} />}
           <UaeSmartFooter locale="ar" pageType="service" emirate={emirate} area={area} service={service} />
-          {regionArea&&geoSector&&<DirectorySectorQuoteForm locale="ar" place={area.nameAr+', '+emirate.nameAr} groups={sectorTaxonomy||[]} requestedService={requestedService} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug}/>}
+          {regionArea&&geoSector&&<DirectorySectorQuoteForm locale="ar" place={area.nameAr+', '+emirate.nameAr} groups={sectorTaxonomy?.length?sectorTaxonomy:[{slug:service.slug,name:service.nameAr,services:[{slug:service.slug,name:service.nameAr}]}]} requestedService={requestedService} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug}/>}
         </main>
         <Footer showRequestCTA={false} />
       </div>

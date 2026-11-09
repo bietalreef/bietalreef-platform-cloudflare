@@ -32,7 +32,7 @@ assert.match(quote, /971564456337/);
 assert.match(quote, /requestedService/);
 assert.match(explorer, /setRequestedServices/);
 assert.match(quote, /buildServiceQuoteWhatsappUrl/);
-assert.match(quote, /name,\s*customerPhone: phone,\s*location: place/s);
+assert.match(quote, /customerName: name\.trim\(\),\s*customerPhone: phone\.trim\(\),\s*location: place/s);
 assert.match(whatsapp, /detailLine\('رقم التواصل', customerPhone\)/);
 assert.match(whatsapp, /detailLine\('Contact number', customerPhone\)/);
 assert.match(metadata, /شركات مقاولات في أبوظبي/);

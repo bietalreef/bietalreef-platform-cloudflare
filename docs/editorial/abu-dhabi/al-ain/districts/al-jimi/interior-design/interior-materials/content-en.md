@@ -6,7 +6,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** guest entrance, seating orientation and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations.
 
 **Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -18,7 +18,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when screen viewing, children's play and everyday circulation compete for the same space. Specify household use, screen viewing habits, storage needs and furniture that must remain.
 
-**Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation.
 
 **Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -30,7 +30,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when wardrobe doors or bedside routes are obstructed, or lighting disrupts rest. Record mattress size, existing furniture, number of occupants and blackout or storage requirements.
 
-**Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC.
 
 **Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -42,7 +42,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when cooking, washing and food preparation routes conflict or cabinetry cannot fit existing appliances. Provide actual appliance dimensions, kitchen users and whether plumbing and electrical points may move.
 
-**Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos.
 
 **Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -54,7 +54,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when renovating a compact bathroom or relocating a basin, shower or toilet. Identify current drainage points and door swing, and state whether pipework changes and waterproofing are in scope.
 
-**Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway.
 
 **Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -66,7 +66,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when furniture blocks door openings or circulation. Supply measurements for retained pieces, a shortlist of new items and priorities for seating, storage and clear routes.
 
-**Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items.
 
 **Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -78,7 +78,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when the client needs to compare visual options before purchasing finishes. Define rooms, viewpoints, level of detail and whether the supplied drawings are approved or preliminary.
 
-**Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views.
 
 **Scope and exclusions:** The principal deliverable is a renders with agreed views and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -90,7 +90,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** organising teams, meetings and acoustic privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes.
 
 **Scope and exclusions:** The principal deliverable is a workstation and meeting layout coordinated with power and data. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -102,7 +102,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** guiding customers to displays and checkout without blocking stock access. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances.
 
 **Scope and exclusions:** The principal deliverable is a display, shelving, checkout and circulation plan. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -114,7 +114,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** separating seating, service, preparation and cleaning flows. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation.
 
 **Scope and exclusions:** The principal deliverable is a zoned preparation and seating plan with cleanable finishes. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -126,7 +126,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** organising service stations, waiting and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos.
 
 **Scope and exclusions:** The principal deliverable is a station, mirror, lighting, waiting and storage layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -138,7 +138,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** aligning patient movement with examination-room privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation.
 
 **Scope and exclusions:** The principal deliverable is a reception, examination and support layout for relevant review. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -150,7 +150,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** displaying objects safely with flexible arrangements. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes.
 
 **Scope and exclusions:** The principal deliverable is a display plinth, lighting and circulation plan with preliminary fixing details. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -162,7 +162,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** welcoming visitors while protecting their information. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access.
 
 **Scope and exclusions:** The principal deliverable is a counter, waiting, wayfinding and lighting layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -174,7 +174,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** matching finishes to water, slip and wear exposure. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds.
 
 **Scope and exclusions:** The principal deliverable is a schedule of materials, sizes, finishes, edges and transitions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -186,7 +186,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** testing colours in daylight and artificial light. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish.
 
 **Scope and exclusions:** The principal deliverable is a palette with paint codes, sheen and application locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -198,7 +198,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** matching tile sizes, veining and joints to the space. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains.
 
 **Scope and exclusions:** The principal deliverable is a setting-out, vein orientation, batch and edge detail. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -210,7 +210,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** evaluating comfort, durability and actual product size. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
 
 **Scope and exclusions:** The principal deliverable is a item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -222,7 +222,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** placing light by task without unwanted glare. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight.
 
 **Scope and exclusions:** The principal deliverable is a fixture schedule with colour temperature, controls and positions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -234,7 +234,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** combining compatible physical finishes rather than screen images. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known.
 
 **Scope and exclusions:** The principal deliverable is a numbered physical sample board with alternatives and locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
@@ -246,7 +246,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** preventing specification conflicts between drawings and purchases. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
 
-**Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples. Request a measured drawing and identify any materials or equipment that affect the decision.
+**Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples.
 
 **Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 

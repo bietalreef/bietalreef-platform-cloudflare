@@ -52,5 +52,5 @@ const sitemap=read('pages/sitemap.xml.js');
 for(const slug of names)assert.ok(sitemap.includes("'"+slug+"'"),slug+' not in sitemap');
 assert.ok(sitemap.includes('for (const area of emirate.areas)'));
 assert.ok(sitemap.includes('for (const sector of UAE_MAIN_SECTORS)'));
-assert.ok(sitemap.includes('addPair(sectorPath'));
+assert.ok(sitemap.includes("addPair(path,'/en'+path") || sitemap.includes('addPair(sectorPath'));
 console.log('Northern emirates: bilingual locality, images, sector topics, metadata, real taxonomy and WhatsApp form contracts: PASS.');

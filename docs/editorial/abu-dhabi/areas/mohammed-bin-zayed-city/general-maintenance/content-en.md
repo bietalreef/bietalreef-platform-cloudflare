@@ -7,59 +7,59 @@
 
 ### 1. Periodic villa maintenance
 
-Inventory relevant finishes, doors, services and equipment and agree visit intervals. Supply fault photographs and prior records. Compare preventive checks with excluded repairs and parts; receive dated checklists, work logs and recommendations.
+Before agreeing a villa maintenance plan, inventory AC units, pumps, heaters, doors and previous leak locations. Require a visit schedule with specific checks for each asset, separating spare parts and emergency callouts from the base fee. Accept photographs, test readings and corrective-action dates rather than a generic 'serviced' note.
 
 ### 2. Periodic building maintenance
 
-Define unit count, shared areas, plant rooms and access responsibilities. Request system-specific visit plans, fault logs and response arrangements. Compare inspection coverage and consumables; receive reports separating recurring defects from completed work.
+For a multi-unit building, maintain an asset register for shared pumps, lighting, corridors and roofs and a clear tenant reporting route. Ask how service interruptions are prioritised and who arranges access to private units. Compare contracts by response times, inspections, reporting and exclusions. Review the closed-work-order log at each reporting period.
 
 ### 3. Interior damage repairs
 
-Photograph damage, location, likely cause and affected area. Require the source to be addressed before repainting or recladding. Compare removal, substrate preparation and colour matching; inspect the dry finish and before-and-after evidence.
+Photograph wall, ceiling or skirting damage with a scale and establish whether impact, moisture or movement caused it. Require the underlying cause to be addressed before specifying removal, surface preparation and reinstatement. Compare the repair area, colour and texture matching and furniture protection. Inspect after curing and record whether the original symptom has returned.
 
 ### 4. Door and window repairs
 
-Record frame material, dimensions and closing or leakage faults; photograph hinges and seals. Compare alignment and hardware replacement with full-unit replacement. Test smooth opening, locking and sealing at handover.
+Identify whether a door or window is binding, has worn hinges, or leaks air or water around its frame. Record opening dimensions, frame material and photographs of locks, tracks and seals. Ask for adjustment and replacement parts as separate quote items. Test smooth operation, locking, weather seals and drainage at handover.
 
 ### 5. Dampness treatment
 
-Document stain locations, onset and nearby water sources; do not order sealing paint before diagnosis. Compare investigation, moisture checks, source repair and drying. Receive photographs and moisture findings stating what was treated and what remains unverified.
+Do not repaint a damp patch before investigating its source. Record where and when it appears and whether rain, plumbing or condensation may be involved. Require appropriate diagnosis and a drying plan where finishes must be removed. Compare investigation, leak or waterproofing repair and reinstatement as distinct tasks. Keep test results and concealed-work photographs.
 
 ### 6. Crack treatment
 
-Measure and photograph crack length, direction and width with a scale. Distinguish superficial cracking from possible structural movement and seek specialist assessment where warning signs exist. Compare preparation, filling and monitoring; do not accept concealment of an active cause.
+Distinguish hairline plaster cracks from cracking that may involve load-bearing elements. Photograph each crack beside a ruler and date the record; monitor movement if advised. Require diagnosis before filling, and qualified structural assessment where warning signs exist. Compare preparation and repair materials, then inspect after curing and retain the measurement record.
 
 ### 7. Pre-handover property preparation
 
-Create a room-by-room snag list covering paint, doors, lighting, sanitary fixtures and cleaning. Separate repairs from final cleaning and record replacements. Compare bids by snag count and return visits; receive a signed inspection record with closure photographs.
+Prepare a room-by-room pre-handover checklist covering doors, switches, drainage, sealants, paint and installed equipment. Number and photograph defects and specify functional testing and rectification, not merely cleaning. Compare quotations by return visits, retesting and responsibility for materials. Accept a signed list of closed and outstanding items.
 
 ### 8. Minor home maintenance
 
-Bundle small tasks into a photographed list with measurements and access notes. Identify jobs needing qualified electrical or plumbing work. Compare call-out charges and excluded materials; test each repair and record replaced parts.
+Group minor household jobs in one photographed list with locations and measurements, such as a loose handle, fitting or worn seal. Identify any electrical or plumbing work requiring a qualified trade rather than bundling hazardous tasks into general handyman work. Compare visit charges, materials and time, and test each repair before the technician leaves.
 
 ### 9. Curtain installation
 
-Measure opening width, mounting height, substrate and curtain weight and track type. Compare fixings, load capacity and stack-back clearance; test movement and bracket stability without obstructing windows or AC.
+Specify curtain type, weight and track length, and whether fixing is into concrete or plasterboard. Measure window width and finished installation height. Check for concealed services before drilling and require suitable brackets and fixing spacing. Test the full travel and check for sagging or rubbing at handover.
 
 ### 10. Shelf installation
 
-Specify shelf length, depth, expected load, wall construction and concealed services. Compare board, brackets and fixings; check before drilling. Accept level, stable shelving with a stated recommended load.
+State the intended shelf load, wall construction and potential concealed services. Measure the mounting height and clearance from doors and circulation routes, and require anchors suited to concrete, block or plasterboard as applicable. Check level and stability under the agreed safe load, not just appearance.
 
 ### 11. TV mounting
 
-Record screen size, weight, mounting pattern, wall type and viewing height. Compare fixed and articulated brackets and safe cable routing; test fixing stability, movement and connector access.
+Provide screen size, weight, mounting pattern and a photograph of the wall and power/data points. Set the viewing height, required tilt or swivel and verify wall and bracket suitability. Compare quotes for fixings and cable management. At handover, test movement, security and access to ports.
 
 ### 12. Accessory installation
 
-List items, dimensions and positions on tile, plasterboard or timber, with photographs of drilling zones. Compare suitable anchors and sealants where needed; inspect alignment, secure fixing and undamaged finishes.
+Bathroom accessories, mirrors and hooks have different loads and fixing requirements. Photograph the tiled or painted surface and measure positions relative to doors and sanitary fittings. Consider hidden plumbing and waterproofing before drilling. Agree appropriate anchors or adhesive and inspect alignment, strength and surface damage.
 
 ### 13. Furniture assembly
 
-Supply model details, parts photographs, assembly manual, work area and access dimensions. Compare unit count, wall anchoring and packaging removal. Check door and drawer alignment, tight joints and a documented list of missing parts.
+Check all cartons, components, hinges and room clearances before assembly. Follow the manufacturer's instructions without improvising holes or cutting panels, and anchor tall units against tipping where appropriate. Test doors, drawers, level and stability, record missing parts and retain care instructions.
 
 ### 14. Minor fault repairs
 
-Describe the fault, frequency and conditions with photographs or a short video, and flag safety concerns. Require diagnosis before part replacement and compare inspection and repair costs. Receive an operating test, cause explanation and warranty scope.
+Describe the actual fault—dead socket, dripping tap or sticking lock—with photographs and when it occurs. Require diagnosis before replacing components, and route hazardous electrical or serious leak work to qualified specialists. Compare diagnostic and repair charges separately. Test operation afterwards and document unresolved symptoms.
 
 ## Requesting a quotation
 

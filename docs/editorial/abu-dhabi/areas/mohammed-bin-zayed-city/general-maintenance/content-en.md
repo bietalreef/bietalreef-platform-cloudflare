@@ -159,31 +159,31 @@ Do not select replacement tiles before investigating why flooring cracked, lifte
 
 ### 36. Building electrical installation
 
-Map rooms, appliance loads, meter position and the main board before chasing walls; drawings should distinguish circuits and wet-area supplies. Request continuity and protection tests, labelled circuits and an as-built diagram.
+Building electrical installation should start with a room-by-room plan identifying fixed appliances, air conditioning, lighting and power outlets—not simply a socket count. Supply architectural drawings, room dimensions and expected equipment ratings. Ask the electrical designer or contractor to set out circuits, containment routes and isolation points while coordinating with plumbing and HVAC. The quotation should distinguish concealed works, cable and conduit specifications, protective devices, chasing and making good, and any professional approvals required for the particular project. Photograph routes before walls are closed, then obtain updated circuit drawings and appropriate insulation, continuity and protection test records.
 
 ### 37. Cable and wiring runs
 
-Record route lengths, conductor sizes, insulation grade and containment method; a quotation without measured runs is difficult to compare. Check fixings, protected terminations and insulation test records before covering finishes.
+For cable and wiring runs, establish the origin, destination, installation route and loads served rather than estimating length from a room photograph. Cable cross-section, insulation type, installation conditions and circuit protection must be selected together; incompatible circuits should not be grouped without assessment. Compare quotations that separately identify cable pulling, conduit or trunking, access openings, reinstatement and end labelling. Before energising, a qualified electrician should document the circuits and carry out suitable continuity, insulation-resistance and termination checks. Request an accurate record of the installed routes for future maintenance.
 
 ### 38. Distribution board installation
 
-Provide existing-board photographs, load schedule and proposed spare capacity; qualified personnel must coordinate protection and earthing. Compare panel layout, labels and test results, and retain a legible circuit schedule.
+A new or replacement distribution board requires an inventory of existing circuits, supply characteristics, connected loads and spare capacity. Provide a safe external photograph of the old board and its label; do not expose live components. Quotations should identify enclosure capacity, isolation and protective devices, circuit labelling, cable arrangement, maintenance access and any planned supply outage. Breaker selection must follow the circuit design rather than the cheapest available rating. At handover, obtain a circuit schedule fixed to the board, appropriate inspection and test results, and confirmation that covers are secured with no exposed openings.
 
 ### 39. Socket and switch fitting
 
-Mark outlet quantities, heights, damp zones, wall finishes and connected appliance ratings; separate accessories from circuit extensions. Test polarity, earthing, switch operation and secure faceplates without heating or looseness.
+Before fitting sockets and switches, mark the quantity, heights and positions relative to doors, furniture and appliances. Distinguish replacement of a damaged accessory from adding a new point, which may require additional wiring. Send photographs of existing faceplates and box dimensions without dismantling electrical connections yourself. Ask for the accessory type, rating and suitability for the environment, especially in damp locations, plus whether cutting and making good are included. Inspect alignment, secure fixing and correct operation, and have the relevant protection checks completed by a competent electrician; concealed improvised joints are not acceptable.
 
 ### 40. Power supply for extensions
 
-For an annex, list rooms, AC equipment, kitchen loads, distance from the supply board and any outdoor cable route. Compare dedicated-circuit needs, weather protection and voltage drop; commission the installation under its planned loads.
+Power to an extension building is not simply a cable taken from the nearest villa socket. Provide the distance between buildings, an extension plan, expected appliances and the proposed connection route, identifying buried or protected surface installation. Existing supply capacity, isolation, earthing, circuit protection and exposure to water or damage need assessment against the approved project design and applicable requirements. Compare excavation, reinstatement, containment, cables, sub-board and testing as separate items rather than relying on a per-metre price. Keep photographs of buried routes before backfilling and obtain route drawings and commissioning records.
 
 ### 41. Electrical network rehabilitation
 
-Document nuisance trips, deteriorated wiring, overheated connections and installation age before deciding on full renewal. Price investigation, rewiring and reinstatement separately; accept measured test results and a new circuit register.
+Electrical network rehabilitation begins with evidence of the fault: repeated outages, overheating, deteriorated insulation or circuits no longer suited to current use. Collect an incident log, safe external board photographs and details of previous alterations. Request a competent assessment separating components that require replacement from those that can remain. The work may involve circuit redistribution, rewiring or revised protection, with an agreed isolation plan, occupant safety measures and making good. Compare the before-and-after circuit schedules and test reports at handover, and verify that the underlying fault has been addressed rather than merely concealed.
 
 ### 42. Electrical load assessment
 
-Count AC units, heaters, equipment ratings, supply capacity and circuit distribution; breaker size alone is not an assessment. Obtain a documented qualified load assessment highlighting imbalance and likely future demand rather than simply upsizing breakers.
+An electrical load assessment is useful before installing major equipment, after repeated breaker trips or when planning increased occupancy or use. Provide an equipment list with ratings and operating patterns, plus safely accessible board information; connected nameplate totals are not necessarily simultaneous demand. A competent specialist should examine circuit and supply loading, possible voltage drop and protection coordination, deciding whether operating measurements or design changes are needed. Compare quotations by the measurement scope, written findings and recommendations, not just a site-visit fee. Obtain a report stating assumptions, results and required actions before expansion.
 
 ### 43. Interior lighting installation
 

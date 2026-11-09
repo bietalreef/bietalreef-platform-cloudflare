@@ -39,7 +39,8 @@ assert.doesNotMatch(quote, /quote-' \+ specialty\.slug/);
 assert.doesNotMatch(editorial, /return \[lead,prompt/);
 assert.match(editorial, /if \(lead\) return lead/);
 for (const route of routes) {
-  assert.equal((route.match(/<DirectorySectorQuoteForm\b/g) || []).length, 1, 'one form at page bottom per locale');
+  assert.equal((route.match(/<DirectorySectorQuoteForm\b/g) || []).length, 2, 'one form in each mutually exclusive rendered page mode: sector or area');
+  assert.match(route, /regionArea&&<DirectorySectorQuoteForm locale=/);
   assert.match(route, /quotePlacement="external"/);
   assert.match(route, /onServiceRequest=\{setRequestedService\}/);
   assert.match(route, /requestedService=\{requestedService\}/);

@@ -32,6 +32,9 @@ import SectorVisualGuide from '../../../../components/SectorVisualGuide';
 import SectorTaxonomyExplorer from '../../../../components/SectorTaxonomyExplorer';
 import DirectorySectorQuoteForm from '../../../../components/DirectorySectorQuoteForm';
 import { getGeographicSectorContent } from '../../../../lib/geographicSectorContent';
+import {isNorthernEmirate} from '../../../../data/northernDirectoryContent';
+import {northernDirectorySeo} from '../../../../lib/northernDirectorySeo';
+import {northernSectorGuides} from '../../../../lib/northernSectorGuides';
 import { areaSectorEditorial } from '../../../../data/sharjahAjmanAreaEditorial';
 import {getSectorTaxonomy} from '../../../../lib/sectorTaxonomyExplorer';
 import {geographicAreaCompanyProps} from '../../../../lib/geographicCompanyContext';
@@ -49,12 +52,14 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
   if (model) return <LocalServicesPage model={model} />;
   const [requestedService,setRequestedService]=useState('');
   const regionArea=['sharjah','ajman'].includes(emirate.slug);
+  const northern=isNorthernEmirate(emirate.slug);
   const areaSeo=regionArea?areaSectorEditorial(emirate,area,service,'ar'):null;
-  const seo=areaSeo||directorySectorSeo(service.slug,'ar',area);
-  const geoSector=(['abu-dhabi','dubai'].includes(emirate.slug)&&!!seo)||(regionArea&&!!areaSeo);
+  const seo=northern?northernDirectorySeo(service.slug,'ar',emirate,area):areaSeo||directorySectorSeo(service.slug,'ar',area);
+  const geoSector=(['abu-dhabi','dubai'].includes(emirate.slug)&&!!seo)||(regionArea&&!!areaSeo)||(northern&&!!seo);
   const title = seo?.heading || `${service.nameAr} في ${area.nameAr}`;
   const description = seo?.description || `استعرض خدمات ${service.nameAr} في ${area.nameAr}، ${emirate.nameAr}، واطلب عرض سعر يناسب احتياجك.`;
-  const localNote = emirate.slug==='abu-dhabi' ? areaContexts.contexts[area.slug]?.[service.slug]?.['ar'] : null;
+  const localNote = northern?seo?.localNote:emirate.slug==='abu-dhabi'?areaContexts.contexts[area.slug]?.[service.slug]?.['ar']:null;
+  const servicePlace=northern?area.nameAr+'، '+emirate.nameAr:area.nameAr;
   const sectorImage = seo ? UAE_SECTOR_ASSETS[service.slug]?.desktop : undefined;
   const showAlHootPath = false;
   const faqItems = [
@@ -74,7 +79,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
           {regionArea&&areaSeo?.context?.length>0&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="معلومات المشروع في المنطقة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">ما الذي تراجعه قبل بدء مشروعك في {area.nameAr}؟</h2>{areaSeo.context.map((paragraph,index)=><p key={index} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {!geoSector && <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`عن خدمة ${service.nameAr} في ${area.nameAr}`} description={`${service.descAr} تعرض الصفحة هذا التخصص ضمن موقعه الصحيح، مع مسار واضح للعودة إلى المنطقة والإمارة أو الانتقال إلى الطلب.`} />}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={area.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={area.nameAr} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement={regionArea?'external':'inline'} onServiceRequest={regionArea?setRequestedService:undefined}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={servicePlace} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement={regionArea||northern?'external':'inline'} onServiceRequest={regionArea||northern?setRequestedService:undefined}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={area.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" excludeSpecialties={sectorTaxonomy}/>}
           <UaeDirectoryWeyaakCard locale="ar" title={`اسأل وياك عن ${service.nameAr} في ${area.nameAr}`} description="أرسل تفاصيل الخدمة والمقاسات أو الصور المتاحة، وسيساعدك وياك في ترتيب الطلب وتوجيهه حسب المكان والتخصص." />
@@ -87,7 +92,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
           )}
           {!geoSector && <FAQ items={faqItems} title={`أسئلة شائعة حول ${title}`} />}
           <UaeSmartFooter locale="ar" pageType="service" emirate={emirate} area={area} service={service} />
-          {regionArea&&geoSector&&<DirectorySectorQuoteForm locale="ar" place={area.nameAr+', '+emirate.nameAr} groups={sectorTaxonomy?.length?sectorTaxonomy:[{slug:service.slug,name:service.nameAr,services:[{slug:service.slug,name:service.nameAr}]}]} requestedService={requestedService} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug}/>}
+          {(regionArea||northern)&&geoSector&&<DirectorySectorQuoteForm locale="ar" place={servicePlace} groups={sectorTaxonomy?.length?sectorTaxonomy:[{slug:service.slug,name:service.nameAr,services:[{slug:service.slug,name:service.nameAr}]}]} requestedService={requestedService} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug}/>}
         </main>
         <Footer showRequestCTA={false} />
       </div>
@@ -120,11 +125,12 @@ export async function getStaticProps({ params }) {
   const service = getServiceCategory(serviceSlug);
   if (!emirate || !area || !service) return { notFound: true };
   const regionArea=['sharjah','ajman'].includes(emirate.slug)&&UAE_MAIN_SECTORS.some(item=>item.slug===service.slug);
-  const geoSector=(['abu-dhabi','dubai'].includes(emirate.slug)&&directorySectorSeo(service.slug, 'ar', area))||regionArea;
+  const northernArea=isNorthernEmirate(emirate.slug)&&UAE_MAIN_SECTORS.some(item=>item.slug===service.slug);
+  const geoSector=(['abu-dhabi','dubai'].includes(emirate.slug)&&directorySectorSeo(service.slug, 'ar', area))||regionArea||northernArea;
   const geographicCards = geoSector ? await getGeographicPublishedServiceCards('ar', {emirate:emirate.slug,sector:service.slug,area:area.slug}).catch(error=>{console.error('Unable to load area services:',error?.message);return null;}) : null;
   const geographicOffers = geoSector ? await getGeographicPublishedServiceCards('ar', {emirate:emirate.slug,sector:service.slug,area:area.slug,cardType:'offer'}).catch(error=>{console.error('Unable to load area offers:',error?.message);return null;}) : null;
   const sectorTaxonomy=geoSector?await getSectorTaxonomy(service.slug,'ar',geographicCards||[]).catch(()=>null):null;
-  const sectorGuides=regionArea&&geoSector?getGeographicSectorContent(service.slug,emirate.slug,area):null;
+  const sectorGuides=northernArea&&geoSector?northernSectorGuides(service.slug,'ar',area.nameAr,sectorTaxonomy):regionArea&&geoSector?getGeographicSectorContent(service.slug,emirate.slug,area):null;
   const rehab = service.slug === 'cleaning-services' && !['abu-dhabi','dubai'].includes(emirate.slug) ? await getRehabSiteData().catch(() => null) : null;
   return { props: { emirate, area, service, emirateSlug, areaSlug, rehab, geographicCards, geographicOffers, sectorTaxonomy, sectorGuides }, revalidate: 3600 };
 }

@@ -48,11 +48,14 @@ test('schema contains a collection of entity references, never fictitious busine
   assert.equal(model.schema.mainEntity.itemListElement[0].item['@id'], 'https://bietalreef.ae/providers/alrehab-home-clean#provider');
   assert.doesNotMatch(JSON.stringify(model.schema), /PostalAddress|geo|aggregateRating|CleaningService/);
 });
-test('sitemap excludes all unreviewed permutations and empty city pages', () => {
-  const entries = localSitemap(providers); assert.equal(entries.length, 4);
-  assert.equal(new Set(entries.map(x => x.loc)).size, 4);
-  assert.equal(localSitemap([]).length, 0);
-  for (const entry of entries) { assert.equal(entry.lastmod, '2026-10-05'); assert.doesNotMatch(entry.loc, /\?|al-jimi/); }
+test('sitemap includes original bilingual district hubs, excluding unreviewed service permutations', () => {
+  const entries = localSitemap(providers); assert.equal(entries.length, 40);
+  assert.equal(new Set(entries.map(x => x.loc)).size, entries.length);
+  assert.equal(localSitemap([]).length, 36);
+  for (const entry of entries) { assert.doesNotMatch(entry.loc, /\?|\/al-jimi\/cleaning-services/); }
+  const district = entries.filter(x => /\/al-ain\/(?:al-|zakher|asharej|sanaiya|remah|sweihan|mazid|nahil|falaj-hazza)/.test(x.loc));
+  assert.equal(district.length, 36);
+  assert.ok(district.every(x => x.lastmod === '2026-11-09'));
 });
 test('missing provider/service/area and invalid category fail safely', () => {
   assert.equal(pageModel({ area: 'missing' }), null);
@@ -60,6 +63,8 @@ test('missing provider/service/area and invalid category fail safely', () => {
   assert.equal(pageModel({ category: 'unknown' }), null);
   assert.equal(pageModel({ area: 'al-jimi', category: CATEGORY.slug, service: 'not-published', providers }), null);
   assert.equal(pageModel({ providers: [] }).indexable, false);
+  assert.equal(pageModel({ area: 'al-hili', providers: [] }).indexable, true);
+  assert.equal(pageModel({ locale:'en', area: 'al-jimi', providers: [] }).indexable, true);
 });
 
 test('commercial placements require entitlement, scope, expiry and clear labels', () => {

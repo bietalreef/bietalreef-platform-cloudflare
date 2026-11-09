@@ -102,7 +102,18 @@ export const UAE_EMIRATES = [
       { slug: 'al-rams', nameAr: 'الرمس', nameEn: 'Al Rams' },
       { slug: 'al-dhafeen', nameAr: 'الدفن', nameEn: 'Al Dhafeen' },
       { slug: 'shaam', nameAr: 'شعم', nameEn: 'Shaam' },
-      { slug: 'ghalilah', nameAr: 'غليلة', nameEn: 'Ghalilah' }
+      { slug: 'ghalilah', nameAr: 'غليلة', nameEn: 'Ghalilah' },
+      { slug: 'khuzam', nameAr: 'خزام', nameEn: 'Khuzam' },
+      { slug: 'al-dhait-north', nameAr: 'الظيت الشمالي', nameEn: 'Al Dhait North' },
+      { slug: 'al-dhait-south', nameAr: 'الظيت الجنوبي', nameEn: 'Al Dhait South' },
+      { slug: 'al-nakheel', nameAr: 'النخيل', nameEn: 'Al Nakheel' },
+      { slug: 'al-mamourah', nameAr: 'المعمورة', nameEn: 'Al Mamourah' },
+      { slug: 'al-mairid', nameAr: 'المعيريض', nameEn: 'Al Mairid' },
+      { slug: 'al-refaah', nameAr: 'الرفاعة', nameEn: 'Al Refaa' },
+      { slug: 'al-marjan-island', nameAr: 'جزيرة المرجان', nameEn: 'Al Marjan Island' },
+      { slug: 'khor-khwair', nameAr: 'خور خوير', nameEn: 'Khor Khwair' },
+      { slug: 'shamal', nameAr: 'شمل', nameEn: 'Shamal' },
+      { slug: 'al-ghail', nameAr: 'الغيل', nameEn: 'Al Ghail' }
     ]
   },
   {
@@ -116,7 +127,16 @@ export const UAE_EMIRATES = [
       { slug: 'masafi', nameAr: 'مسافي', nameEn: 'Masafi' },
       { slug: 'qadfa', nameAr: 'قدفع', nameEn: 'Qidfa' },
       { slug: 'al-bidya', nameAr: 'البدية', nameEn: 'Al Bidya' },
-      { slug: 'murbah', nameAr: 'مربح', nameEn: 'Murbah' }
+      { slug: 'murbah', nameAr: 'مربح', nameEn: 'Murbah' },
+      { slug: 'al-aqqa', nameAr: 'العقة', nameEn: 'Al Aqah' },
+      { slug: 'dadna', nameAr: 'ضدنا', nameEn: 'Dadna' },
+      { slug: 'al-bithnah', nameAr: 'البثنة', nameEn: 'Al Bithnah' },
+      { slug: 'al-hayl', nameAr: 'الحيل', nameEn: 'Al Hayl' },
+      { slug: 'al-siji', nameAr: 'السجي', nameEn: 'Al Siji' },
+      { slug: 'al-faseel', nameAr: 'الفصيل', nameEn: 'Al Faseel' },
+      { slug: 'sakamkam', nameAr: 'سكمكم', nameEn: 'Sakamkam' },
+      { slug: 'al-tawyeen', nameAr: 'الطويين', nameEn: 'Al Tawyeen' },
+      { slug: 'sharam', nameAr: 'شرم', nameEn: 'Sharam' }
     ]
   },
   {

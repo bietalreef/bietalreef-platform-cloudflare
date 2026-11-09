@@ -5,9 +5,6 @@ import Link from 'next/link';
 import {Layers3} from 'lucide-react';
 import visualData from '../data/sectorGuideVisuals.json';
 import constructionGuides from '../data/abuDhabiConstructionServiceGuides.json';
-import hiliGuides from '../data/alAinReviewedServiceGuidesHili.json';
-import jimiGuides from '../data/alAinReviewedServiceGuidesJimi.json';
-import muwaijiGuides from '../data/alAinReviewedServiceGuidesMuwaiji.json';
 import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
 
 // Visual associations only: names and service membership remain in Taxonomy.
@@ -20,18 +17,14 @@ const images={
   'homes-buildings-cleaning':'uae-villa-deep-cleaning','steam-upholstery-cleaning':'uae-majlis-upholstery-cleaning','facades-sites-cleaning':'uae-building-facade-cleaning','water-tank-pool-cleaning':'uae-pool-cleaning-service','pest-rodent-control':'uae-pest-control-inspection','sanitisation-disinfection':'uae-office-surface-disinfection','building-operations-maintenance':'uae-building-facilities-inspection','labor-operations':'uae-service-team-briefing',
 };
 export function sectorSpecialtyImageName(slug){return images[slug]||null;}
-const districtEditorial={'al-hili':hiliGuides,'al-jimi':jimiGuides,'al-muwaiji':muwaijiGuides};
 
 function normalizeServiceName(value) {
   return String(value || '').normalize('NFKD').replace(/[\u064B-\u065F\u0670]/g, '').replace(/[أإآ]/g, 'ا').replace(/ى/g, 'ي').replace(/[.،؟!?]/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
 }
 
-export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath=''}) {
+export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath='',reviewedServiceGuides={}}) {
   const en=locale==='en',normalized={'aluminium-wood-glass':'aluminium-glass','factories-suppliers':'equipment-rental'}[sector]||sector;
   const assets=visualData[normalized]?.items||[];
-  const alAinParts=pagePath.split('/').filter(Boolean);
-  const districtSlug=alAinParts[alAinParts.indexOf('al-ain')+1];
-  const reviewedDistrict=alAinParts.includes('al-ain')?districtEditorial[districtSlug]:null;
   const [requestedServices, setRequestedServices] = useState({});
   if(items===undefined)return null;
   const serviceList=(items||[]).flatMap(group=>group.services.map(service=>({name:directoryServiceTitle(normalized,service.name,place,locale),url:'https://bietalreef.ae'+pagePath+'#service-'+group.slug+'-'+service.slug})));
@@ -51,7 +44,7 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
               <ol className="mt-3 space-y-4" aria-label={en ? 'Services in '+place : 'الخدمات في '+place}>
                 {item.services.map((service,index)=>{
                   const guide=editorial?.services.find(entry=>normalizeServiceName(entry[en?'nameEn':'nameAr'])===normalizeServiceName(service.name));
-                  const localGuide=reviewedDistrict?.services?.[normalized]?.[locale]?.[normalizeServiceName(service.name)];
+                  const localGuide=reviewedServiceGuides[normalizeServiceName(service.name)];
                   const serviceTitle=directoryServiceTitle(normalized,service.name,place,locale);
                   return <li key={service.id||service.slug} id={'service-'+item.slug+'-'+service.slug} className="scroll-mt-32 rounded-xl border border-slate-100 bg-slate-50 p-3 sm:p-4">
                     <h2 className="text-sm font-extrabold leading-7 text-[#193b53] sm:text-base">{serviceTitle}</h2>

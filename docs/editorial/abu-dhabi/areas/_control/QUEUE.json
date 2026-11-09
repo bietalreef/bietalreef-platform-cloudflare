@@ -104,8 +104,17 @@
       "name_ar": "مدينة خليفة",
       "name_en": "Khalifa City",
       "kind": "district",
-      "status": "in_progress",
-      "completed_sectors": [],
+      "status": "completed",
+      "completed_sectors": [
+        "general-contracting",
+        "interior-design",
+        "general-maintenance",
+        "building-materials",
+        "aluminium-glass",
+        "furniture-decor",
+        "equipment-rental",
+        "cleaning-services"
+      ],
       "files": [
         "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/khalifa-city/general-contracting/content-en.md",
@@ -134,10 +143,10 @@
         "docs/editorial/abu-dhabi/areas/khalifa-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "420/434 independently rewritten AR/EN; cleaning-services 1–28 verified. Remaining cleaning-services 29–42 (14). Not approved for publication.",
+      "review_note": "Editorial draft complete: 8 sectors, 50 company specialties, 434/434 AR and 434/434 EN numbered service explanations. Re-fetched all 16 content files from GitHub; Arabic service names/order match TAXONOMY_SOURCE_AR.md exactly (0 mismatches). Cleaning 29–42 verified. Human technical/regulatory/language review still required before publication; no live changes.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "تشغيل وصيانة المباني",
+        "specialty": "خدمات العمالة والتشغيل",
         "rewritten_service_numbers": [
           1,
           2,
@@ -166,16 +175,32 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 14,
+        "next_service_number": null,
+        "remaining_in_sector": 0,
         "sector_total": 42,
         "area_total": 434,
-        "area_independently_rewritten": 420,
-        "remaining_area_services_for_originality_review": 14,
-        "area_editorially_approved": false
-      }
+        "area_independently_rewritten": 434,
+        "remaining_area_services_for_originality_review": 0,
+        "area_editorially_approved": false,
+        "editorial_draft_completed": true
+      },
+      "completed_at": "2026-11-09"
     },
     {
       "sequence": 3,

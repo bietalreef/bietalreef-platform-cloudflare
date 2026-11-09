@@ -105,9 +105,9 @@ export async function getServerSideProps({ res }) {
   };
 
   // Existing emirate-sector pages and geographic paths backed by published services.
-  for (const emirate of ['abu-dhabi','dubai']) for (const sector of UAE_MAIN_SECTORS) {
+  for (const emirate of ['abu-dhabi','dubai','sharjah','ajman']) for (const sector of UAE_MAIN_SECTORS) {
     const path = `/uae/${emirate}/${sector.slug}`;
-    addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop);
+    addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-09'} : {});
   }
   try {
     const locations = [{emirate:'abu-dhabi',city:''},{emirate:'abu-dhabi',city:'al-ain'},{emirate:'dubai',city:''}];

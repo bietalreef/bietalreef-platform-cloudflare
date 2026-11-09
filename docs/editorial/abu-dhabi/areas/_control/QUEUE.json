@@ -238,12 +238,12 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "49/434 independently rewritten in both languages, including irrigation 43–49 verified on GitHub. Next: shades and external works service 50; 385 remain. Restricted specialties remain unselectable. Not approved for publication.",
+      "review_note": "56/434 services independently rewritten in AR/EN; general-contracting all 6 specialties and 56 services verified on GitHub. Next interior-design 49 services; 378 remain. Restricted categories unchanged. Not approved for publication.",
       "editorial_rewritten_service_entries": 28,
       "editorial_remaining_service_entries": 406,
       "editorial_progress": {
-        "sector": "general-contracting",
-        "specialty": "المظلات والأعمال الخارجية",
+        "sector": "interior-design",
+        "specialty": "أول تخصص في الاستشارات الهندسية",
         "rewritten_service_numbers": [
           1,
           2,
@@ -293,14 +293,21 @@
           46,
           47,
           48,
-          49
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
         ],
-        "next_service_number": 50,
-        "remaining_in_sector": 7,
+        "next_service_number": null,
+        "remaining_in_sector": 0,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 49,
-        "remaining_area_services_for_originality_review": 385,
+        "area_independently_rewritten": 56,
+        "remaining_area_services_for_originality_review": 378,
         "area_editorially_approved": false
       }
     },

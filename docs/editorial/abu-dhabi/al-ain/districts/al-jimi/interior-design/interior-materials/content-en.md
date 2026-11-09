@@ -16,7 +16,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 2. Living room design
 
-**When it is useful:** daily viewing, play and family seating. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when screen viewing, children's play and everyday circulation compete for the same space. Specify household use, screen viewing habits, storage needs and furniture that must remain.
 
 **Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation. Request a measured drawing and identify any materials or equipment that affect the decision.
 
@@ -28,7 +28,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 3. Bedroom design
 
-**When it is useful:** rest, storage and wardrobe access. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when wardrobe doors or bedside routes are obstructed, or lighting disrupts rest. Record mattress size, existing furniture, number of occupants and blackout or storage requirements.
 
 **Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC. Request a measured drawing and identify any materials or equipment that affect the decision.
 
@@ -40,7 +40,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 4. Kitchen design
 
-**When it is useful:** preparation, cooking and washing without conflicts. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when cooking, washing and food preparation routes conflict or cabinetry cannot fit existing appliances. Provide actual appliance dimensions, kitchen users and whether plumbing and electrical points may move.
 
 **Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos. Request a measured drawing and identify any materials or equipment that affect the decision.
 
@@ -52,7 +52,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 5. Bathroom design
 
-**When it is useful:** avoiding fixture and door conflicts in wet areas. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when renovating a compact bathroom or relocating a basin, shower or toilet. Identify current drainage points and door swing, and state whether pipework changes and waterproofing are in scope.
 
 **Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway. Request a measured drawing and identify any materials or equipment that affect the decision.
 
@@ -64,7 +64,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 6. Furniture layout
 
-**When it is useful:** choosing usable sizes rather than overcrowding rooms. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when furniture blocks door openings or circulation. Supply measurements for retained pieces, a shortlist of new items and priorities for seating, storage and clear routes.
 
 **Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items. Request a measured drawing and identify any materials or equipment that affect the decision.
 
@@ -76,7 +76,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 7. 3D visualisation
 
-**When it is useful:** understanding appearance before committing to finishes. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when the client needs to compare visual options before purchasing finishes. Define rooms, viewpoints, level of detail and whether the supplied drawings are approved or preliminary.
 
 **Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views. Request a measured drawing and identify any materials or equipment that affect the decision.
 

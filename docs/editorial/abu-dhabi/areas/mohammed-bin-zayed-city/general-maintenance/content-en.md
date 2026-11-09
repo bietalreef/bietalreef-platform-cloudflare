@@ -187,31 +187,31 @@ An electrical load assessment is useful before installing major equipment, after
 
 ### 43. Interior lighting installation
 
-Identify room use, ceiling levels, task areas, colour temperature and control points. Compare distribution, fitting types, maintenance access and power draw; inspect the actual lighting for glare and uneven coverage.
+Start with a room and furniture plan and actual ceiling heights: a dining pendant, kitchen task lights and reading lights serve different purposes. Record dimensions, AC diffusers and detector positions, and photograph existing power and switching points before agreeing on downlights or tracks. Request a layout stating fitting quantities, wattage, colour temperature, beam angles and any dimming, with wiring, making-good and painting priced explicitly. Compare samples in the actual room. At handover, test circuits, dimming, glare and evenness of illumination, and record driver locations for future access.
 
 ### 44. Exterior lighting installation
 
-Map façades, paths, car entrances, cable routes and locations exposed to rain or dust. Compare outdoor-rated fittings, mountings and beam direction; test after dark and inspect sealed enclosures and safe wiring.
+Exterior lighting should be planned around paths, vehicle entrances, steps and shaded areas, not just façade appearance. Mark mounting heights and supply points on site photographs, and identify exposure to water, dust and heat. Specify suitable luminaires, junction boxes, fixings and protected cable routes, including whether photocells or timers are included. Compare beam patterns and fixing details as well as fixture counts. Inspect after dark from normal walking and driving positions, check for glare towards neighbours and drivers, and have a qualified electrician verify enclosure integrity and electrical protection.
 
 ### 45. Chandelier installation
 
-Supply the chandelier weight, ceiling height and substrate, supply point and manufacturer mounting details, especially beneath gypsum. Use suitable structural anchorage rather than relying on plasterboard; inspect balance, security and electrical connections.
+Before pricing a chandelier, provide its model, weight, dimensions, ceiling construction and intended hanging height, together with any accessible photographs above a suspended ceiling. A heavy fitting cannot simply be supported by decorative plasterboard; suitable structural anchorage must be established by a competent specialist. Ask the installer to specify the bracket, anchors, lifting method, labour and floor protection, and price any relocation of the electrical point separately. Confirm head clearance and door movement. At handover check security, level, all lamp groups and switching.
 
 ### 46. Concealed lighting installation
 
-Measure LED runs, feed points, driver locations and ventilation within coves. Compare driver quantities, maintenance access and colour samples; inspect for uninterrupted light with no flicker or dark patches.
+For cove or concealed lighting, supply a dimensioned section showing recess depth and width, LED run lengths and feed points. Decide whether the objective is a continuous visible line or indirect reflected light. Compare LED strips, aluminium profiles, diffusers and drivers against the actual run length and heat dissipation needs. Require accessible driver positions and compatible dimming, and test the wiring before closing gypsum work. At handover inspect long-duration operation, continuity, colour consistency and unwanted dots, flicker or shadows.
 
 ### 47. Garden lighting installation
 
-Plot trees, paths, sprinklers and irrigation trenches before burying lighting cables; identify operating voltage and protection. Request underground route drawings and wet-condition safety checks; inspect beam aim to avoid nuisance glare.
+Provide a garden sketch locating trees, paths, planting beds, irrigation pipes and sprinklers; lighting positions must account for plant growth and water exposure. Share day and night photographs and indicate whether each fitting lights steps, guides a path or highlights planting. Ask for separate prices for fixtures, trenching, cables, controls and reinstatement, plus a record of buried cable routes and moisture protection. Compare beam adjustability as well as power and mounting. Inspect after dark for safe path coverage and unwanted light into neighbouring windows.
 
 ### 48. Motion sensor installation
 
-Define detection zones, occupancy patterns, delay requirements and likely pet movement. Compare detector coverage, ingress protection and settings; test switching delay, cut-off and false activations.
+Specify whether the detector serves a corridor, staircase, outdoor entrance or store, and show doors, travel directions and daylight sources on a simple sketch. Request detection angle and range, mounting height, supported electrical load and compatibility with the proposed lamps. Agree on off-delay, sensitivity and daylight threshold. Presence sensing may suit rooms where occupants remain relatively still better than basic motion detection. Compare wiring and commissioning as separate scope items; test approaches from different directions, occupancy without movement and false triggering by vehicles or foliage.
 
 ### 49. Lighting unit maintenance
 
-Record failed lights and establish whether the lamp, driver, switch or supply is at fault before replacing assemblies. Compare replacement components, access costs and availability; verify firm fittings, correct switching and stable output.
+List failed fittings by room and model, photograph flickering, colour changes or heat marks, and explain whether faults coincide with another circuit being switched on. A failed lamp, driver, switch and supply connection need different repairs; electrical diagnosis and isolation belong to a qualified person. Request a quotation separating fault-finding, compatible replacement parts, high-level access and making good, with warranty details. At handover run the fittings long enough to check stable output, secure mounting and correct switching, and retain the replaced-part references.
 
 
 ## Plumbing, drainage and leak detection

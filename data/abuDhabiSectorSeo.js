@@ -1,6 +1,6 @@
 // Search snippets describe each real sector and its local customer intent.
 export const ABU_DHABI_SECTOR_SEO = {
-  'general-contracting': { ar: ['شركات المقاولات والبناء في أبوظبي', 'قارن خدمات المقاولات العامة وبناء الفلل والمباني والترميم في أبوظبي، واستعرض خدمات الشركات المنشورة واطلب عرض سعر يناسب مشروعك.'], en: ['Construction and contracting companies in Abu Dhabi', 'Explore published construction, villa building and renovation services in Abu Dhabi, compare providers and request a project quotation.'] },
+  'general-contracting': { ar: ['شركات مقاولات وبناء فلل ومبانٍ في أبوظبي', 'ابحث عن شركة مقاولات أو مقاول بناء في أبوظبي لخدمات إنشاء الفلل والمباني السكنية والتجارية، والترميم والخرسانة والملاحق. استعرض تخصصات الشركات وخدماتها بالتفصيل وجهّز طلب عرض سعر عبر خدمة عملاء بيت الريف حتى قبل ظهور شركات منشورة.'], en: ['Construction contractors and villa building companies in Abu Dhabi', 'Find construction contractors in Abu Dhabi for villa construction, residential buildings, commercial projects, concrete works, extensions and renovations. Explore each service, prepare your project details and request a quotation through Biet Al Reef customer service, whether or not a company is listed.'] },
   'interior-design': { ar: ['الاستشارات الهندسية والتصميم والديكور في أبوظبي', 'اكتشف خدمات الاستشارات الهندسية والتصميم الداخلي والخارجي والديكور في أبوظبي، وتواصل مع الشركات المنشورة لمناقشة مشروعك.'], en: ['Engineering consultancy and interior design in Abu Dhabi', 'Discover engineering consultancy, interior and exterior design services in Abu Dhabi and contact published providers about your project.'] },
   'general-maintenance': { ar: ['شركات الصيانة والتشطيبات في أبوظبي', 'استعرض خدمات صيانة المنازل والتكييف والكهرباء والسباكة والدهانات والتشطيبات في أبوظبي، وقارن أعمال الشركات المنشورة.'], en: ['Maintenance and finishing services in Abu Dhabi', 'Browse published home maintenance, air conditioning, electrical, plumbing, painting and finishing services in Abu Dhabi.'] },
   'building-materials': { ar: ['مواد البناء والتوريد في أبوظبي', 'ابحث عن خدمات توريد مواد البناء واحتياجات المشاريع في أبوظبي، وقارن المواصفات والكميات واطلب عرضًا من الجهات المنشورة.'], en: ['Building materials and suppliers in Abu Dhabi', 'Find building materials and project supplies in Abu Dhabi, compare specifications and quantities, and request a quotation.'] },
@@ -17,7 +17,11 @@ export function directorySectorSeo(slug, locale, emirate) {
   const from = locale === 'en' ? 'Abu Dhabi' : 'أبوظبي';
   const place = locale === 'en' ? emirate.nameEn : emirate.nameAr;
   const [heading, description] = entry.map(value => value.replaceAll(from, place));
-  const title = slug === 'cleaning-services' && locale === 'ar'
+  const title = slug === 'general-contracting' && emirate.slug === 'abu-dhabi'
+    ? (locale === 'ar'
+      ? 'شركات مقاولات في أبوظبي | إنشاء الفلل والمباني والترميم – بيت الريف'
+      : 'Construction Companies in Abu Dhabi | Villas, Buildings & Renovation – Biet Al Reef')
+    : slug === 'cleaning-services' && locale === 'ar'
     ? `شركات تنظيف في ${place} | تنظيف منازل وفلل وتعقيم – بيت الريف`
     : `${heading} | ${locale === 'en' ? 'Biet Al Reef' : 'بيت الريف'}`;
   return { heading, description, title };

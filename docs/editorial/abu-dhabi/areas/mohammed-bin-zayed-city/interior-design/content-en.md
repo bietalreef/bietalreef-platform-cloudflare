@@ -97,31 +97,38 @@ A structural report might record cracks before refurbishment, assess a proposed 
 
 ### 22. Construction supervision
 
-Define the supervisor’s inspection authority, visit frequency and hold points before concealed works, such as reinforcement or service runs, are covered. Supply the current drawings, contractor programme and site contacts. Request visit records, photographs, nonconformance notes and follow-up actions. Compare proposals by actual attendance, reporting and coordination, distinguishing periodic supervision from daily site management. At handover, verify closure of critical observations and the exact work inspected; a report cannot certify unseen work.
+Agree the supervision visit frequency and inspection hold points before work starts, especially reinforcement, plumbing runs and waterproofing that will later be concealed. Provide the latest contract drawings, programme and site contacts. Require dated visit records with photographs, actionable defects and evidence of closure. Compare supervision offers by site presence, authority to raise instructions and escalation procedure, not just visit count. At handover, reconcile outstanding observations and distinguish the supervisor's checking duties from the contractor's responsibility for execution.
+
 
 ### 23. Project management
 
-This service is useful when multiple contractors and suppliers must follow one schedule and a controlled decision process. Provide the baseline budget, contracts, drawings and completion targets. Request a phased programme, responsibility matrix, decision log and risk register. Compare proposals by site presence, variation approval and claims management rather than fee percentage alone. Receive periodic progress, cost forecasts, change records and decisions, while keeping the manager’s role distinct from designer and builder.
+Managing a villa refurbishment or new build starts with naming who approves changes, procurement and payment certificates. Ask for a linked programme that sequences interdependent work—for example, air-conditioning services before ceiling closure—and identifies long-lead purchases and decision deadlines. Compare project managers by cost forecasting, risk tracking and change control rather than a promised shorter completion date. Receive a current programme, decision log, variation register and forecast final cost, with a clear boundary between management fees and the designer's and contractor's obligations.
+
 
 ### 24. Work quality review
 
-Commission a defined inspection of completed plaster, tiling, waterproofing or building services. Supply contract specifications, approved samples and photographs from earlier stages. The inspector should distinguish visual checks from tests requiring laboratory work or local opening-up, and state acceptance criteria. Compare sample coverage, test methods and reporting. Receive a location-specific defect schedule with evidence and priorities, then arrange reinspection after rectification rather than accepting verbal assurances.
+A quality review is not necessarily day-to-day supervision: it may investigate repeated paint defects, uneven tiling or a failed waterproofing test. Define the work packages, acceptance samples, applicable specifications and whether opening-up or independent testing is included. Require room- or element-referenced checklists, photographs and defect priorities. Compare offers by sampling method and provision for reinspection after correction. The final report should distinguish demonstrated nonconformities from aesthetic observations and items that could not be inspected.
+
 
 ### 25. Project stage acceptance
 
-Inspect a stage before later work conceals it, such as waterproofing before tiling or pipework before walls are closed. Agree the stage, drawings, specifications and necessary tests with the contractor in advance. Compare proposals by inspection visits, reinspection provision and nonconformance recording. Obtain a dated stage record distinguishing accepted, pending and rejected items and identifying work that must remain accessible until corrected.
+Stage acceptance should not be a signature against a percentage complete. Before a slab pour, inspect drawings, reinforcement, openings and embedded services; before closing a bathroom, check waterproofing and the agreed test record. Supply the inspection party with the contract scope, checklists and earlier stage records, and identify who may require corrective action. Compare charges for return visits and retesting. Keep a signed record of accepted, rejected and outstanding items with closure dates; this does not replace any separately required authority approval.
+
 
 ### 26. Progress report preparation
 
-A useful report measures actual progress against the approved programme instead of presenting photographs alone. Supply the baseline schedule, contract work items, approved quantities and meeting minutes. Request verifiable progress by work package, causes of delay, late materials, decisions required and upcoming risks. Compare providers by visit frequency and supporting evidence. Receive a dated report separating verified work from planned progress and unapproved payment claims.
+A useful progress report compares physical work and measured quantities with the baseline programme rather than merely presenting site photographs. Require progress by work package at a stated cut-off date, repeatable photo viewpoints and reasons for material, labour or decision delays. For an occupied home, include planned service interruptions and disruptive activities. Compare reporting providers by how they verify percentages, flag risks and track corrective actions. Receive planned-versus-actual progress, next week's critical activities and a clear distinction between verified facts and contractor estimates.
+
 
 ### 27. Quantity surveying
 
-A quantity take-off needs a fixed drawing revision and agreed measurement rules; structural concrete, paint and joinery use different units and allowances. Provide drawings and specifications and specify whether the output is a preliminary estimate or pricing bill. Compare proposals by item detail, waste assumptions, supply-versus-installation boundaries and treatment of omissions. Accept an auditable schedule linking quantities to drawing references, dimensions, units and stated assumptions.
+Quantity surveying requires drawings with known revision numbers and agreed measurement rules: net paint area, pipe lengths, concrete volume or door counts. Specify units, exclusions and provisional items that cannot yet be measured reliably. In an existing property, record site-measured dimensions and concealed elements that require assumptions. Reconcile the survey with contractor bill items one by one; do not combine incompatible units into a single total. Receive an editable schedule with drawing references, calculations and a register of assumptions.
+
 
 ### 28. Contractor bid review
 
-Make the scope, drawings, specifications, programme and requested payment terms consistent before comparing bids. Ask the reviewer to identify omissions, differing quantities, material substitutions, warranty provisions and exclusions rather than rank headline totals. Compare review services by analysis depth, bidder clarification process and risk assessment. Receive a comparison table with scope-normalised prices and unresolved questions; the lowest initial price is not automatically the strongest offer.
+Give bidders the same drawings, bill of quantities and deadline for clarifications. Separate base prices, alternatives, exclusions and provisional sums, then compare brands, material thicknesses, warranties and payment milestones. The lowest total is not comparable if it omits waterproofing, reinstatement or waste removal. Request a technical and commercial comparison matrix showing differences and risk exposure, plus a shared clarification log. Record the recommendation and its limitations before appointing a contractor.
+
 
 ## Interior design and material selection
 

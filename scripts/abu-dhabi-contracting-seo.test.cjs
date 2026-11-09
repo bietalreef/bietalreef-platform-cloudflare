@@ -128,3 +128,20 @@ assert.match(read('components/AlAinAreaSectorPage.js'),/alternatePath=\{'\/en\/u
 assert.ok(!read('components/AlAinAreaSectorPage.js').includes("alternatePath={(en?'':'/en')"));
 assert.ok(read('lib/districtCleaning.js').includes("getAlAinSectorContent('cleaning-services'"));
 console.log('Al Ain/Abu Dhabi: bilingual 434 editorial source descriptions, one quote form, eight taxonomy-bound sectors: PASS.');
+
+const cityHero=read('components/AlAinHubPage.js');
+const districtHero=read('components/AlAinAreaSectorPage.js');
+const cleaningHero=read('components/AlAinDistrictCleaningPage.js');
+const maintenanceHero=read('components/AlAinMaintenanceAreaPage.js');
+for(const [name,html] of [
+  ['city',cityHero],
+  ['district',districtHero],
+  ['cleaning',cleaningHero],
+  ['maintenance',maintenanceHero]
+]) {
+  assert.match(html, /<UaeDirectoryHero/,name+' must use the Abu Dhabi sector hero');
+}
+assert.match(cityHero, /sector&&!hourly\?<UaeDirectoryHero/);
+assert.match(cleaningHero, /!service\?<UaeDirectoryHero/);
+assert.match(maintenanceHero, /!selectedService\?<UaeDirectoryHero/);
+console.log('Al Ain city and district heroes reuse the Abu Dhabi construction component: PASS.');

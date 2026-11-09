@@ -10,7 +10,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare guest circulation, privacy and hospitality layouts; agree on the final scaled seating plan, power-point coordination and one measured revision.
 
 **Acceptance and quotation enquiry:** check guest circulation and door swings against furniture. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -22,7 +22,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare screen glare, seating distances and storage arrangements; require a dimensioned furniture plan and device connection locations.
 
 **Acceptance and quotation enquiry:** check screen glare and cleaning access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -34,7 +34,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Request bed and wardrobe alternatives showing door and drawer clearances; agree on final dimensions and bedside switching positions.
 
 **Acceptance and quotation enquiry:** verify drawer operation and bedside switch access. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -46,7 +46,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare cabinet sections, worktop details and appliance clearances; allocate responsibility for checking appliance dimensions and coordinating plumbing and power.
 
 **Acceptance and quotation enquiry:** verify appliance openings, work clearance, extraction and surface suitability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -58,7 +58,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Require sanitary-fixture layout, floor falls and wet-area details; clarify who coordinates waterproofing and drainage changes.
 
 **Acceptance and quotation enquiry:** check maintenance access, drainage direction and joints. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -70,7 +70,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare alternative furniture arrangements and clear circulation widths; identify retained pieces and who checks product sizes before ordering.
 
 **Acceptance and quotation enquiry:** compare actual product dimensions with plan before purchase. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -82,7 +82,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a renders with agreed views and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Specify render viewpoints, resolution, revision rounds and source-file inclusion; check drawing fidelity rather than comparing image fees alone.
 
 **Acceptance and quotation enquiry:** match proportions and openings to plans; renders are not shop drawings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -94,7 +94,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a workstation and meeting layout coordinated with power and data. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare workstation capacity, meeting spaces, acoustic privacy and data routes; agree on a departmental needs schedule and service points.
 
 **Acceptance and quotation enquiry:** check accessibility, noisy zones and sightlines. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -106,7 +106,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a display, shelving, checkout and circulation plan. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Require shelf, checkout, storage and delivery-route plans; compare sightlines and accessibility and define signage coordination.
 
 **Acceptance and quotation enquiry:** check merchandise visibility, stock access and exits. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -118,7 +118,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a zoned preparation and seating plan with cleanable finishes. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare separation of food preparation, seating, waste and ventilation; identify who checks relevant authority requirements before implementation.
 
 **Acceptance and quotation enquiry:** review food/waste route conflicts and relevant authority requirements. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -130,7 +130,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a station, mirror, lighting, waiting and storage layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Specify stations, basins and waiting capacity; compare cleaning access and coordinate power and water-point responsibilities.
 
 **Acceptance and quotation enquiry:** check floor cleaning and staff/customer movement. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -142,7 +142,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a reception, examination and support layout for relevant review. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Require examination-room privacy, waiting and hygiene flows; make design review against the licensed clinical activity an explicit deliverable.
 
 **Acceptance and quotation enquiry:** check patient privacy and cleanable finishes; no approval implied. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -154,7 +154,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a display plinth, lighting and circulation plan with preliminary fixing details. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare exhibit loads, plinth stability, lighting and visitor paths; distinguish concept sketches from engineered fixing approvals.
 
 **Acceptance and quotation enquiry:** check display stability, visibility and exit circulation. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -166,7 +166,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a counter, waiting, wayfinding and lighting layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare counter height, screen privacy and waiting space; agree on options and responsibility for appropriate access review.
 
 **Acceptance and quotation enquiry:** check receptionist sightlines and screen privacy. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -178,7 +178,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a schedule of materials, sizes, finishes, edges and transitions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Request physical samples, slip and wet-use suitability and transition details; compare performance in each room, not appearance alone.
 
 **Acceptance and quotation enquiry:** review sample, slip suitability, joints and level changes. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -190,7 +190,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a palette with paint codes, sheen and application locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Specify paint codes, sheen and on-wall sample locations; compare colours under different lighting and define sample approval before purchase.
 
 **Acceptance and quotation enquiry:** approve a large on-wall sample before full ordering. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -202,7 +202,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a setting-out, vein orientation, batch and edge detail. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare tile sizes, vein direction, joints and expected cutting waste; require a setting-out drawing and batch/sample approval.
 
 **Acceptance and quotation enquiry:** inspect physical samples, batch consistency and cuts around openings. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -214,7 +214,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare furniture sizes, frame durability, fabrics, warranty and delivery; record approved substitutes if selected items are unavailable.
 
 **Acceptance and quotation enquiry:** test comfort, upholstery and sample match before accepting delivery. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -226,7 +226,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a fixture schedule with colour temperature, controls and positions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Require fixture schedules, colour temperature, controls and locations; compare glare, task lighting and electrical circuit coordination.
 
 **Acceptance and quotation enquiry:** review operating scenes, glare and light uniformity. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -238,7 +238,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a numbered physical sample board with alternatives and locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Agree on physical sample count, supplier references, alternatives and intended locations; require a numbered sample board, not only digital images.
 
 **Acceptance and quotation enquiry:** review samples under site lighting and their cleanability. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.
 
@@ -250,6 +250,6 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
-**Comparing quotes and agreeing terms:** Specify drawing and sample quantities, revision rounds, file formats, programme and payment stages. Compare coordination responsibilities and detail levels rather than headline fees alone.
+**Comparing quotes and agreeing terms:** Compare room references, drawing links and sample codes in the finishes schedule; allocate responsibility for updating it when specifications change.
 
 **Acceptance and quotation enquiry:** cross-check references, quantities and locations against drawings before pricing. Send photographs, dimensions and a usage brief to Biet Al Reef customer service to help prepare comparable enquiries. Company availability, prices and dates are not guaranteed.

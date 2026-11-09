@@ -75,7 +75,7 @@ export default function EnglishLocalServicePage({ model, geographicServiceCollec
           {localNote && <section className="mx-auto max-w-6xl px-4 py-6"><h2 className="text-xl font-bold text-[#193b53]">{`Planning the work in ${area.nameEn}`}</h2><p className="mt-3 leading-8 text-slate-700">{localNote}</p></section>}
           {!geoSector && <FAQ items={faqItems} title={`Frequently asked questions about ${title}`} />}
           <UaeSmartFooter locale="en" pageType="service" emirate={emirate} area={area} service={service} />
-          {regionArea&&geoSector&&<DirectorySectorQuoteForm locale="en" place={area.nameEn+', '+emirate.nameEn} groups={sectorTaxonomy||[]} requestedService={requestedService} pagePath={'/en/uae/'+emirate.slug+'/'+area.slug+'/'+service.slug}/>}
+          {regionArea&&geoSector&&<DirectorySectorQuoteForm locale="en" place={area.nameEn+', '+emirate.nameEn} groups={sectorTaxonomy?.length?sectorTaxonomy:[{slug:service.slug,name:service.nameEn,services:[{slug:service.slug,name:service.nameEn}]}]} requestedService={requestedService} pagePath={'/en/uae/'+emirate.slug+'/'+area.slug+'/'+service.slug}/>}
         </main>
       </EnglishLayout>
     </>

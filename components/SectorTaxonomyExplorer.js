@@ -48,7 +48,7 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
           <div className="p-3 sm:p-4"><p className="text-sm font-bold leading-6 text-[#193b53] sm:text-lg">{item.name}</p><p className="mt-2 line-clamp-3 text-xs leading-6 text-slate-600 sm:line-clamp-none sm:text-sm sm:leading-7">{intro}</p>
             <details className="mt-3">
               <summary className="cursor-pointer text-xs font-bold text-[#185b87] sm:text-sm">{en?`View ${item.services.length} services`:`عرض الخدمات (${item.services.length})`}</summary>
-              {<ol className="mt-3 space-y-4" aria-label={en ? 'Services in '+place : 'الخدمات في '+place}>
+              <ol className="mt-3 space-y-4" aria-label={en ? 'Services in '+place : 'الخدمات في '+place}>
                 {item.services.map((service,index)=>{
                   const guide=editorial?.services.find(entry=>normalizeServiceName(entry[en?'nameEn':'nameAr'])===normalizeServiceName(service.name));
                   const localGuide=reviewedDistrict?.services?.[normalized]?.[locale]?.[normalizeServiceName(service.name)];
@@ -60,9 +60,9 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
                     <a href={'#quote-'+item.slug} onClick={()=>setRequestedServices(previous=>({...previous,[item.slug]:service.name}))} className="mt-2 inline-block text-xs font-bold text-[#185b87] underline underline-offset-2">{en?'Request a quotation for '+service.name:'اطلب عرض سعر لخدمة '+service.name}</a>
                   </li>;
                 })}
-              </ol> : <ul className="mt-3 space-y-2 text-sm leading-6 text-slate-700">{item.services.map(service=><li key={service.id}>{service.href?<Link className="font-semibold text-[#185b87] underline underline-offset-2" href={service.href}>{service.name}</Link>:service.name}{service.description?<p className="text-xs text-slate-500">{service.description}</p>:null}</li>)}</ul>}
+              </ol>
             </details>
-            {<DirectorySectorQuoteForm locale={locale} place={place} specialty={item} services={item.services} requestedService={requestedServices[item.slug]} pagePath={pagePath}/>:null}
+            <DirectorySectorQuoteForm locale={locale} place={place} specialty={item} services={item.services} requestedService={requestedServices[item.slug]} pagePath={pagePath}/>
           </div>
         </article>})}
     </div>}

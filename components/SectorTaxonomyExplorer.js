@@ -22,7 +22,7 @@ function normalizeServiceName(value) {
   return String(value || '').normalize('NFKD').replace(/[\u064B-\u065F\u0670]/g, '').replace(/[أإآ]/g, 'ا').replace(/ى/g, 'ي').replace(/[.،؟!?]/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
 }
 
-export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath='',reviewedServiceGuides={}}) {
+export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath='',reviewedServiceGuides={},serviceGuides=null}) {
   const en=locale==='en',normalized={'aluminium-wood-glass':'aluminium-glass','factories-suppliers':'equipment-rental'}[sector]||sector;
   const assets=visualData[normalized]?.items||[];
   const [requestedServices, setRequestedServices] = useState({});
@@ -31,10 +31,12 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
   const serviceSchema=pagePath && serviceList.length ? {'@context':'https://schema.org','@type':'ItemList',itemListElement:serviceList.map((service,index)=>({'@type':'ListItem',position:index+1,...service}))}:null;
   return <><Head>{serviceSchema&&<script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(serviceSchema).replace(/</g,'\\u003c')}}/>}</Head><section id="sector-specialties" className="mx-auto w-full max-w-6xl scroll-mt-40 px-3 py-8 md:px-4 md:py-10" aria-labelledby="sector-specialties-title">
     <h2 id="sector-specialties-title" className="text-xl font-extrabold text-[#193b53] md:text-3xl">{en?`Specialties and services in ${place}`:`التخصصات والخدمات في ${place}`}</h2>
-    <p className="mb-5 mt-2 text-sm leading-7 text-slate-600">{en?'Explore the directory’s specialties and their services. Availability and coverage are confirmed with each listed business. Images are illustrative.':'تعرّف على تخصصات القطاع وخدماتها في الدليل، وتأكد من التوفر وتغطية منطقتك مع الشركة المنشورة. الصور توضيحية.'}</p>
+    <p className="mb-5 mt-2 text-sm leading-7 text-slate-600">{en?'Review each service scope and prepare a quotation enquiry with Biet Al Reef customer support, even where no company is listed. Images are illustrative.':'تعرّف على نطاق كل خدمة وتفاصيلها، وجهّز طلب عرض سعر لخدمة عملاء بيت الريف حتى إن لم تُنشر شركة في المنطقة. الصور توضيحية.'}</p>
     {items===null?<p role="status">{en?'The specialty list is temporarily unavailable.':'تعذر تحميل التخصصات مؤقتًا.'}</p>:!items.length?<p>{en?'No selectable specialties are available for this sector yet.':'لا توجد تخصصات متاحة للاختيار في هذا القطاع حاليًا.'}</p>:<div className="grid grid-cols-2 gap-2 sm:gap-4">
       {items.map(item=>{const image=assets.find(asset=>asset.desktop.endsWith('/'+images[item.slug]+'.webp'));
-        const editorial=normalized==='general-contracting'?constructionGuides.specialties.find(group=>group.slug===item.slug):null;
+        const editorial=serviceGuides?.sector===normalized && (place==='أبوظبي'||place==='Abu Dhabi')
+          ? serviceGuides.specialties.find(group=>group.slug===item.slug)
+          : normalized==='general-contracting'?constructionGuides.specialties.find(group=>group.slug===item.slug):null;
         const intro=item.description|| (en?`Services include ${item.services.slice(0,3).map(service=>service.name).join(', ')}.`:`من خدمات هذا التخصص: ${item.services.slice(0,3).map(service=>service.name).join('، ')}.`);
         return <article key={item.id} className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
           {image?<picture className="block aspect-[2/1] overflow-hidden bg-slate-100">{image.mobile&&<source media="(max-width:700px)" srcSet={image.mobile}/>}<img src={image.desktop} alt={image.alt[locale]+' — '+item.name+(en?' in ':' في ')+place} loading="lazy" decoding="async" width="1200" height="600" className="h-full w-full object-cover"/></picture>:<div className="flex h-16 items-center bg-slate-50 px-4 text-[#193b53]"><Layers3 aria-hidden="true"/></div>}

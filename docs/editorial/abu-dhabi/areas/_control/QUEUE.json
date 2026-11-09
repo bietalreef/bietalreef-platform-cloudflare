@@ -237,8 +237,10 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
-      "last_attempt": "2026-11-07",
-      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
+      "last_attempt": "2026-11-09",
+      "review_note": "Originality rewrite in progress: 14/434 independently rewritten in both languages (general-contracting, building and villa construction). Remaining 420: general-contracting 42, other seven sectors 378. Structural coverage 434/434 each language is not editorial completion. Next: restoration and renovation, service ترميم المباني القديمة. GitHub re-fetch verified 56 headings in each language for general-contracting; no publication approval.",
+      "editorial_rewritten_service_entries": 14,
+      "editorial_remaining_service_entries": 420
     },
     {
       "sequence": 4,

@@ -3,6 +3,7 @@ import { KAWKAB_HERO, KAWKAB_GALLERY, KAWKAB_IMAGES, KAWKAB_SECTIONS, KAWKAB_SPE
 import { fetchTaxonomyTable } from '../lib/platformDirectoryCards';
 import {getGeographicPublishedServiceCards} from '../lib/platformPublishedServiceCards';
 import {UAE_MAIN_SECTORS} from '../data/directoryDiscovery';
+import {UAE_EMIRATES} from '../data/siteTaxonomy';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
@@ -105,9 +106,20 @@ export async function getServerSideProps({ res }) {
   };
 
   // Existing emirate-sector pages and geographic paths backed by published services.
-  for (const emirate of ['abu-dhabi','dubai']) for (const sector of UAE_MAIN_SECTORS) {
+  for (const emirate of ['abu-dhabi','dubai','ras-al-khaimah','fujairah']) for (const sector of UAE_MAIN_SECTORS) {
     const path = `/uae/${emirate}/${sector.slug}`;
     addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop);
+  }
+  // Northern districts have useful approved HTML and customer-support requests even when no company is published.
+  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah'].includes(item.slug))) {
+    for (const area of emirate.areas) {
+      const areaPath = `/uae/${emirate.slug}/${area.slug}`;
+      addPair(areaPath, `/en${areaPath}`, null, { priority: 0.65, lastmod: '2026-11-09' });
+      for (const sector of UAE_MAIN_SECTORS) {
+        const sectorPath = `${areaPath}/${sector.slug}`;
+        addPair(sectorPath, `/en${sectorPath}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, { priority: 0.64, lastmod: '2026-11-09' });
+      }
+    }
   }
   try {
     const locations = [{emirate:'abu-dhabi',city:''},{emirate:'abu-dhabi',city:'al-ain'},{emirate:'dubai',city:''}];

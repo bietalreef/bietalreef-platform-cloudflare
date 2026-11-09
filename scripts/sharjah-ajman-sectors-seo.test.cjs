@@ -34,7 +34,8 @@ for(const page of [ar,en]){
  assert.match(page,/serviceGuides=\{sectorGuides\}/);
  assert.match(page,/quotePlacement="external"/);
  assert.match(page,/onServiceRequest=\{setRequestedService\}/);
- assert.equal((page.match(/<DirectorySectorQuoteForm locale=/g)||[]).length,1);
+ assert.equal((page.match(/<DirectorySectorQuoteForm locale=/g)||[]).length,2,'separate sector and area page render branches');
+ assert.match(page,/regionArea&&<DirectorySectorQuoteForm locale=/);
  assert.match(page,/seo\?\.context\?\.length>0/);
 }
 const seo=read('data/abuDhabiSectorSeo.js');

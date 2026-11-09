@@ -11,3 +11,7 @@ Seven source-aligned company service headings in each language, original sequenc
 5. معالجة التشققات الإنشائية — Structural crack remediation
 6. تجديد الواجهات — Façade refurbishment
 7. تجهيز المبنى لإعادة الاستخدام — Preparing a building for reuse
+
+## تدقيق تخصيص الفقرات — 2026-11-09
+
+تم استبدال 28 جملة عامة متكررة في كل لغة (النطاق، بيانات المعاينة، الاتفاق، الاستلام) بتوجيهات مختلفة للخدمات السبع، مع إبقاء عناوين الشجرة وترتيبها دون تغيير. يلزم تدقيق المنطقة ككل قبل الاعتماد.

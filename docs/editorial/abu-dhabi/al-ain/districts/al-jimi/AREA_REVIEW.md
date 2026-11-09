@@ -435,3 +435,12 @@
 - الحالة العامة: `in_progress`؛ لا انتقال إلى المويجعي قبل اكتمال فحص الجيمي.
 - تم تخصيص 28 فقرة مكررة في كل لغة عبر الخدمات السبع في [الترميم والتجديد بالعربية](./general-contracting/restoration-renovation/content-ar.md) و[الإنجليزية](./general-contracting/restoration-renovation/content-en.md) وتحديث [مراجعة التخصص](./general-contracting/restoration-renovation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتأكد تطابقها.
 - أول ملفات الجرد التالية: `general-contracting/demolition-concrete/content-ar.md` ثم `content-en.md` و`review.md` (يُتحقق من المسار الفعلي في الشجرة)، وبعده بقية التخصصات وفق المصدر. تبقى مطابقة 434 خدمة بالعربية والإنجليزية وفحص الجودة والسلامة والتصنيفات المقيدة والمقترحة في جميع التخصصات الخمسين.
+
+
+## تحقق مباشر للهدم وتنسيق الحدائق — 2026-11-09
+
+- الحالة `in_progress`؛ هذه مراجعة تخصصين وليست اعتمادًا نهائيًا للمنطقة.
+- تمت قراءة ملفات `content-ar.md` و`content-en.md` و`review.md` كاملة من الفرع لكل من `general-contracting/demolition-concrete` و`general-contracting/landscaping`؛ عدد العناوين 7+14 في كل لغة، وأسماؤها العربية وترتيبها متطابقان مع شجرة الشركات والمنشآت الأصلية. المحتوى يفصل المعاينة والمقاسات ونطاق العمل والاستثناءات ومقارنة العروض والاستلام؛ لم تظهر حاجة إلى تعديل النصين في هذين التخصصين.
+- [الهدم: العربية](./general-contracting/demolition-concrete/content-ar.md) · [English](./general-contracting/demolition-concrete/content-en.md) · [review](./general-contracting/demolition-concrete/review.md).
+- [الحدائق: العربية](./general-contracting/landscaping/content-ar.md) · [English](./general-contracting/landscaping/content-en.md) · [review](./general-contracting/landscaping/review.md). تصنيف الحدائق غير قابل للاختيار حاليًا، والمحتوى تحضيري فقط.
+- **أول نطاق لم يُفحص في هذا التسلسل:** `general-contracting/irrigation-networks/content-ar.md` ثم `content-en.md` و`review.md` (التحقق أولًا من اسم المجلد الفعلي)، ثم المظلات والأعمال الخارجية، ثم جميع تخصصات القطاعات التالية. ما زالت مطابقة 434 خدمة لكل لغة والتدقيق الشامل للتكرار والسلامة والتصنيفات غير مكتملة. لا تبدأ المويجعي قبل اعتماد الجيمي.

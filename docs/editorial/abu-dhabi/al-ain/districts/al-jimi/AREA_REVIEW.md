@@ -422,3 +422,9 @@
 - **الحالة: `in_progress`**؛ لا تُعتمد الجيمي مكتملة.
 - جرى فحص [مواد البناء والتشطيب](./building-materials/building-finishing-materials/review.md): 21 عنوان خدمة عربيًا و21 إنجليزيًا؛ عُدلت 42 عبارة متكررة في ملفي المحتوى لصالح فحوص مواصفات متمايزة للخدمات. أُعيدت قراءة الملفين من GitHub وتأكد تطابقهما.
 - **النواقص الدقيقة:** جرد جميع التخصصات الخمسين وملفات `content-ar.md` و`content-en.md` و`review.md` لكل تخصص، مطابقة أسماء الخدمات الـ434 حرفيًا مع الشجرة وعدد الإنجليزية وترتيبها، تدقيق الفقرات المشتركة في المواد والتخصصات الأخرى، سلامة المواصفات والتصنيفات المقيدة/المقترحة، ثم تحديث تقارير المراجعة قبل اعتماد الجيمي. أول ملف في الجرد الشامل: `general-contracting/building-villas/content-ar.md` ثم الإنجليزية والمراجعة؛ يُتابع ترتيب التخصصات المثبت في سجل المنطقة دون تخطي ملفات.
+
+## فحص عينات التغطية عبر القطاعات الثمانية — 2026-11-09
+
+- تمت قراءة `content-ar.md` و`content-en.md` لثمانية تخصصات ممثلة للقطاعات الثمانية: `general-contracting/building-villas` (14)، `interior-design/architectural-plans` (14)، `general-maintenance/general-maintenance` (14)، `building-materials/building-finishing-materials` (21)، `aluminium-glass/wood-kitchens-cabinets-doors` (14)، `furniture-decor/furniture-manufacturing` (7)، `equipment-rental/construction-lifting-equipment` (7)، `cleaning-services/homes-buildings-cleaning` (7). إجمالي **98 عنوان خدمة في كل لغة**؛ تساوى عدد العناوين الرقمية في العربية والإنجليزية مع الشجرة لهذه التخصصات، ولا يشكل ذلك تدقيقًا نهائيًا لبقية الـ336 خدمة.
+- ملاحظة تحريرية: لا يزال قالب المقارنة والتعاقد متكررًا في `building-materials/building-finishing-materials` رغم تخصيص فحوص المواصفات، ويلزم تحسينه دون الإضرار بوضوح الشروط العامة.
+- **أول نقص للتحقق الشامل:** `general-contracting/restoration-renovation/content-ar.md` و`content-en.md` و`review.md`، ثم بقية تخصصات المقاولات بالتسلسل؛ استمر حتى اكتمال الجرد الكامل للـ50 تخصصًا.

@@ -1,0 +1,298 @@
+{
+  "sector": "cleaning-services",
+  "source": "Existing bilingual editorial draft for all services, adapted to Abu Dhabi, with service availability always determined by existing taxonomy.",
+  "specialties": [
+    {
+      "slug": "homes-buildings-cleaning",
+      "services": [
+        {
+          "nameAr": "تنظيف الفلل",
+          "nameEn": "Villa cleaning",
+          "bodyAr": "عند طلب تنظيف فيلا بأبوظبي، اذكر عدد الطوابق والغرف والحمامات ومساحات المطابخ والمجالس، وحدد هل تشمل الخدمة النوافذ من الداخل والشرفات والمداخل والمناطق الخارجية. تختلف أعمال التنظيف المعتاد عن إزالة دهون المطبخ أو آثار البناء، لذلك أرسل صورًا للمناطق الأكثر اتساخًا وحدد الأسطح الحساسة كالخشب والرخام. قارن العروض على عدد أفراد الفريق وساعات العمل والمعدات والمنظفات والتجفيف، لا على مساحة الفيلا وحدها. عند الاستلام افحص الزوايا وحواف الأبواب وتحت الأثاث والأرضيات بعد الجفاف، وسجّل الملاحظات قبل مغادرة الفريق.",
+          "bodyEn": "For villa cleaning in Abu Dhabi, state the number of floors, rooms and bathrooms, plus kitchens, majlis areas and any balconies, entrances or outdoor spaces to be included. Routine cleaning differs from removing heavy kitchen grease or construction residue, so provide photographs of problem areas and identify delicate marble or timber. Compare crew size, hours, equipment, detergents and drying arrangements rather than floor area alone. At handover inspect corners, door edges, under furniture and floors after drying, recording omissions before the team leaves."
+        },
+        {
+          "nameAr": "تنظيف الشقق",
+          "nameEn": "Apartment cleaning",
+          "bodyAr": "تنظيف الشقة يحتاج وصفًا واضحًا لمساحتها وعدد الغرف وحالة الإشغال، مع تحديد ما إذا كانت الخزائن والأجهزة تُنظف من الداخل أو من الخارج فقط. صوّر بقع الأرضيات أو الدهون أو آثار الرطوبة إن وجدت، ولا تطلب معالجة العفن دون تحديد مصدره أولًا. قارن العروض على إزالة الغبار والغسل المناسب للأسطح والزجاج والحمامات، واذكر قيود مواعيد المبنى والمصعد. عند الاستلام افحص مقابض الأبواب والمطبخ وحواف السيراميك والزجاج وتأكد من عدم ترك مياه راكدة أو روائح منظفات قوية.",
+          "bodyEn": "An apartment cleaning enquiry should include floor area, room count and occupancy, with a clear distinction between cleaning cupboards and appliances internally or externally. Photograph floor stains, grease or damp marks; persistent mould needs its moisture source investigated rather than merely wiped away. Compare dust removal, surface-compatible washing, windows and bathrooms, and provide building access and lift restrictions. At handover inspect handles, kitchen edges, tile joints and glass, and check that no standing water or strong chemical odours remain."
+        },
+        {
+          "nameAr": "تنظيف المكاتب",
+          "nameEn": "Office cleaning",
+          "bodyAr": "تنظيف المكاتب يجب أن يراعي استمرار العمل وحماية الأجهزة والملفات. حدّد عدد محطات العمل وقاعات الاجتماعات والحمامات والمطابخ ومساحات الأرضيات، ومتى يمكن دخول فريق التنظيف. اطلب فصل أعمال مسح الأسطح عن تنظيف الشاشات والأجهزة التي تتطلب تعليمات خاصة، ولا تسمح بالتعامل مع المستندات السرية دون ترتيب مسبق. قارن العروض على جدول التكرار وإدارة النفايات والمستهلكات والمناطق المشتركة. عند الاستلام راجع الأرضيات والزجاج ونقاط اللمس وسجل الزيارات والملاحظات.",
+          "bodyEn": "Office cleaning must protect equipment, records and business continuity. Count workstations, meeting rooms, toilets, kitchenettes and floor areas, and specify access windows. Separate routine surface wiping from screen or equipment cleaning that requires special instructions; confidential documents should not be handled without an agreed procedure. Compare visit frequency, waste handling, consumables and shared-area duties. Inspect floors, glass and frequently touched points, and maintain a visit and defect log."
+        },
+        {
+          "nameAr": "تنظيف المباني",
+          "nameEn": "Building cleaning",
+          "bodyAr": "تنظيف المبنى قد يشمل المداخل والسلالم والممرات والمصاعد والأماكن المشتركة، وليس الشقق أو المكاتب الخاصة تلقائيًا. قدّم عدد الطوابق ومساحات الردهة ونوع الأرضيات ومواعيد الذروة وأماكن تخزين أدوات النظافة. اطلب خطة تحدد التكرار وإشارات الأرضيات المبللة وطريقة جمع النفايات، مع فصل أعمال الواجهات المرتفعة التي تحتاج ترتيبات مستقلة. قارن العروض على عدد الزيارات والإشراف والمستهلكات والتعامل مع الشكاوى. عند التحقق افحص زوايا السلالم والمصاعد ونظافة نقاط الدخول، وراجع سجل الأعمال.",
+          "bodyEn": "Building cleaning can cover lobbies, stairwells, corridors, lifts and common areas without automatically including private units. Provide floor counts, lobby area, floor finishes, busy periods and a secure place for cleaning supplies. Request a schedule for visit frequency, wet-floor warnings and waste collection; high-level façade work needs a separate access and safety plan. Compare supervision, consumables, visits and complaint handling. Check stair corners, lift surfaces and entrances and reconcile completed work against the log."
+        },
+        {
+          "nameAr": "التنظيف بعد التشطيب",
+          "nameEn": "Post-construction cleaning",
+          "bodyAr": "التنظيف بعد التشطيب يختلف عن تنظيف المنزل المعتاد؛ فقد توجد أتربة جبس ناعمة وبقايا لاصق ودهان ومواد تغليف. قبل التسعير، أرسل صورًا للأرضيات والزجاج والخزائن ومخارج التكييف، وحدد هل أُزيلت المخلفات الكبيرة وانتهت أعمال المقاولين. يجب اختبار إزالة البقع على جزء غير ظاهر قبل استخدام كاشطات أو مواد قد تخدش الرخام والزجاج. قارن العروض على مراحل إزالة الغبار والتنظيف الرطب وحماية التشطيبات وإعادة المرور بعد الجفاف. عند الاستلام افحص حواف الإطارات والرفوف والوزرات والسطوح العلوية، ولا تعتبر إصلاح عيوب التشطيب جزءًا من التنظيف.",
+          "bodyEn": "Post-construction cleaning differs from routine housekeeping because fine gypsum dust, adhesive, paint spots and packaging residue may remain. Send photographs of floors, glazing, cabinets and ventilation outlets and confirm whether builders have finished and removed bulk debris. Test stain removal on an inconspicuous area before using scrapers or chemicals that could scratch stone or glass. Compare staged dust removal, damp cleaning, finish protection and a final inspection after drying. Check frames, shelves, skirtings and high surfaces; rectifying defective finishes is not automatically a cleaning task."
+        },
+        {
+          "nameAr": "التنظيف قبل الانتقال",
+          "nameEn": "Pre-move cleaning",
+          "bodyAr": "قبل الانتقال إلى منزل جديد أو مستأجر، حدد ما إذا كان المكان فارغًا بالفعل وتاريخ استلام المفاتيح وموعد دخول الأثاث. اطلب تنظيف الخزائن والأدراج من الداخل إذا كانت ضمن النطاق، والحمامات والمطبخ والنوافذ والأرضيات مع مراعاة زمن الجفاف والتهوية. صوّر البقع القديمة أو التلف القائم حتى لا يختلط بعمل التنظيف. قارن العروض على المواد والأجهزة والمدة وإعادة التنظيف عند وجود ملاحظات. عند الاستلام افتح الخزائن وتحقق من الأرفف والمصارف والزوايا، وسجّل الحالة قبل إدخال الأثاث.",
+          "bodyEn": "Before a pre-move clean, confirm that the property will be empty, when keys are available and when furniture arrives. Include internal cupboard and drawer cleaning explicitly if required, together with bathrooms, kitchen, glazing and floors; allow for drying and ventilation. Photograph pre-existing stains and damage to avoid confusion over responsibility. Compare supplies, equipment, duration and a process for correcting missed areas. Open cabinets and check shelves, drains and corners before accepting the job and moving belongings in."
+        },
+        {
+          "nameAr": "عقود التنظيف الدورية",
+          "nameEn": "Recurring cleaning contracts",
+          "bodyAr": "عقد التنظيف الدوري يحتاج جدول مهام قابلًا للقياس، لا عبارة «تنظيف شامل» فقط. حدد المواقع والمساحات وعدد الزيارات الأسبوعية أو الشهرية والمهام اليومية والدورية، مثل تنظيف الزجاج المرتفع أو الغسيل العميق المنفصل. اتفق على عدد العاملين والإشراف والمستهلكات ومواعيد الدخول وآلية التعامل مع الغياب والشكاوى. قارن العروض على مستوى الخدمة وتقارير الزيارات والاستثناءات وفترات الإشعار والتجديد، دون افتراض توافر طاقم ثابت. قيّم التنفيذ بسجل ملاحظات وصور قبل/بعد عند الحاجة، ومراجعة شهرية للأعمال غير المنجزة.",
+          "bodyEn": "A recurring cleaning contract needs measurable tasks, not just a promise of 'complete cleaning'. Identify premises, areas, weekly or monthly visit frequency and daily versus periodic tasks such as high-level glazing or deep washing. Agree staffing, supervision, consumables, access times, absence cover and complaint handling. Compare service standards, visit records, exclusions, notice periods and renewal conditions without assuming a fixed team is guaranteed. Monitor performance through defect logs and photographs where appropriate, with monthly review of outstanding tasks."
+        }
+      ]
+    },
+    {
+      "slug": "steam-upholstery-cleaning",
+      "services": [
+        {
+          "nameAr": "تنظيف الكنب بالبخار",
+          "nameEn": "Steam sofa cleaning",
+          "bodyAr": "قبل تنظيف الكنب بالبخار، صوّر بطاقة العناية ومواضع البقع، وحدد عدد المقاعد وهل الوسائد قابلة للفك. كلمة «بخار» لا تكفي لتحديد الطريقة؛ بعض الأقمشة لا تتحمل الحرارة أو البلل، وقد تتطلب تنظيفًا منخفض الرطوبة. اطلب اختبار ثبات اللون في موضع مخفي وتحديد ما إذا كان السعر يشمل الأذرع والظهر والوسائد ومعالجة الروائح. عند المقارنة اسأل عن الشفط ووقت الجفاف لا عن مدة الرش فقط. افحص القماش بعد جفافه الكامل للتأكد من عدم ظهور هالات أو انتقال لون أو رائحة رطوبة.",
+          "bodyEn": "Before arranging steam upholstery cleaning, photograph the care label and stains, count the seats and identify removable cushions. “Steam” is not a sufficient method specification: some fabrics cannot tolerate heat or excess moisture and need low-moisture treatment. Ask for a hidden colourfastness test and clarify whether arms, backs, cushions and odour treatment are included. Compare extraction and drying arrangements, not merely spraying time. Inspect the sofa once fully dry for rings, dye transfer and lingering damp odours."
+        },
+        {
+          "nameAr": "تنظيف السجاد",
+          "nameEn": "Carpet cleaning",
+          "bodyAr": "للسجاد المنفصل، أرسل طول وعرض كل قطعة وصور الوجه والظهر والحواف والبطاقة إن وجدت؛ فالسجاد اليدوي والصوف والحرير لا يعامل مثل الألياف الصناعية. وضّح إن كانت هناك بقع سوائل أو آثار حيوانات أليفة، وهل المطلوب الاستلام والتوصيل أم التنظيف في المكان. قارن طريقة اختبار الألوان والغسل والشطف والتجفيف الأفقي أو المعلق، ومسؤولية التلف أثناء النقل. عند الاستلام طابق عدد القطع وتحقق من ثبات المقاسات والحواف والألوان والجفاف حتى الطبقات الداخلية.",
+          "bodyEn": "For loose rugs, supply the length and width of each piece plus photographs of its face, backing, edges and any care label. Handmade wool or silk rugs require a different assessment from synthetic rugs. Describe spills, pet contamination and whether collection and delivery are required. Compare dye testing, washing, rinsing, drying method and liability during transport. At return, count the rugs and check dimensions, edges, colour stability and dryness through the backing."
+        },
+        {
+          "nameAr": "تنظيف الموكيت",
+          "nameEn": "Fitted carpet cleaning",
+          "bodyAr": "الموكيت المثبت يحتاج حساب المساحة بالمتر المربع وتحديد نوع الوبر ومواضع الأثاث الثقيل والبقع ومسارات الحركة. اسأل هل تشمل الخدمة تحريك المكاتب أو الأسرة وإعادتها، وهل يمكن عزل الغرفة حتى تجف. قبل استخدام جهاز الاستخلاص، يجب اختبار مادة التنظيف ومراجعة حالة اللصق أو الطبقة السفلية، خصوصًا إذا كان الموكيت قد تعرض للماء سابقًا. قارن السعر على المساحة الفعلية والمعالجة الموضعية والشفط ووسائل التهوية. عند التسليم افحص الزوايا ومناطق الوصل ولا تسمح بإعادة الأثاث فوق أرضية رطبة.",
+          "bodyEn": "For fitted carpet, measure the floor area and describe pile type, heavy furniture, stains and high-traffic routes. Clarify whether moving and replacing desks or beds is included and when the room can remain unused for drying. Before extraction, the cleaner should test the solution and assess the backing or adhesive, particularly after previous water damage. Compare quotes on actual area, spot treatment, extraction and ventilation. Inspect seams and corners, and do not put furniture back onto damp carpet."
+        },
+        {
+          "nameAr": "تنظيف المجالس العربية",
+          "nameEn": "Arabic majlis cleaning",
+          "bodyAr": "عند تنظيف مجلس عربي، احصر أطوال الجلسات وعدد المساند والوسائد المنفصلة والفرش الأرضي، وحدد إن كانت الأغطية قابلة للفك. قد تحتاج الأقمشة المطرزة أو المخملية إلى طريقة مختلفة عن الأقمشة الصناعية؛ اطلب اختبارًا مخفيًا ومراجعة تعليمات المصنع. ميّز في عرض السعر بين تنظيف الجلسات، وغسيل السجاد، والستائر، ومعالجة البقع القديمة؛ فلا تعتبرها حزمة واحدة تلقائيًا. احمِ الأرضيات والخشب من رذاذ الماء، وعند الاستلام افحص تجانس المظهر بين الوسائد والظهر وانتظر الجفاف قبل إعادة الاستخدام.",
+          "bodyEn": "For an Arabic majlis, measure seating runs and count backrests, bolsters, loose cushions and floor coverings; note removable covers. Embroidered or velvet fabrics may need a different process from synthetic upholstery, so request a discreet test and check care instructions. Price seating, rugs, curtains and old-stain treatment separately unless expressly bundled. Protect timber and flooring from overspray. Inspect the uniformity of seats, backs and cushions after drying before using the majlis again."
+        },
+        {
+          "nameAr": "تنظيف المراتب",
+          "nameEn": "Mattress cleaning",
+          "bodyAr": "لتنظيف مرتبة، قدّم المقاس والسماكة ونوع السطح وصور البقع وحدد ما إذا كانت المرتبة ذات وجه واحد أو وجهين. بقع البول القديمة أو العفن أو تسرب المياه قد تستلزم تقييمًا مختلفًا، وقد لا يصلح التنظيف الرطب إذا تشبعت الطبقات الداخلية. قارن العروض على الشفط والتركيز على مواضع الاتساخ وكمية الرطوبة ومدة التهوية، ولا تقبل ضمان إزالة كل الميكروبات أو مسببات الحساسية بلا اختبار موثق. افحص المرتبة بعد جفافها تمامًا قبل وضع الملاءة أو غطاء الحماية.",
+          "bodyEn": "A mattress-cleaning request should state size, thickness, surface material, stain photographs and whether one or both sides can be used. Old urine marks, mould or water penetration may require a different assessment; wet cleaning may be unsuitable if the inner layers are saturated. Compare vacuuming, targeted treatment, moisture control and ventilation time. Do not accept unsupported promises to remove every allergen or microorganism. Allow the mattress to dry completely before fitting sheets or a protector."
+        },
+        {
+          "nameAr": "تنظيف الستائر",
+          "nameEn": "Curtain cleaning",
+          "bodyAr": "قبل تنظيف الستائر، اذكر عدد القطع وارتفاعها وعرضها ونوع القماش والبطانة وطريقة تعليقها، وصوّر الملصق إن وجد. حدد إن كانت الخدمة تشمل الفك وإعادة التركيب أو التنظيف وهي معلقة؛ فالستائر الثقيلة والمبطنة قد تنكمش أو تتلف بالغسل غير المناسب. قارن عرض التنظيف في الموقع مقابل النقل إلى المغسلة، مع مسؤولية حفظ الإكسسوارات وكيّ الطيات ومعالجة البقع. عند التسليم اختبر حركة السكة وسلامة الحلقات وتطابق طول الستائر وعدم ظهور اختلاف لون أو انكماش.",
+          "bodyEn": "Before curtain cleaning, record the number of panels, drop, width, fabric, lining and hanging system; photograph care labels where available. Specify whether removal and rehanging or in-place cleaning is required. Heavy or lined curtains may shrink or suffer damage under unsuitable washing. Compare on-site cleaning with off-site laundering, including responsibility for hardware, pleats and stain treatment. On return, check track movement, hooks, matching drops, colour and shrinkage."
+        },
+        {
+          "nameAr": "تعقيم المفروشات",
+          "nameEn": "Upholstery disinfection",
+          "bodyAr": "«تعقيم المفروشات» ليس مرادفًا لتنظيفها أو تعطيرها. قبل طلب الخدمة حدّد سبب التطهير ونوع القماش وما إذا كان هناك تلوث معروف، واطلب اسم المنتج وتعليمات استخدامه للأسطح المسامية وزمن التلامس والتهوية. لا يجوز افتراض أن الرش أو البخار يحقق مستوى تعقيم طبيًا؛ وقد يكون غسل الغطاء وفق بطاقة العناية أكثر ملاءمة. قارن العروض على التنظيف السابق للتطهير وتوافق المواد وسلامة الأطفال والحيوانات الأليفة. استلم سجل المواد والأسطح المعالجة، دون قبول وعد بالقضاء على جميع مسببات المرض.",
+          "bodyEn": "“Upholstery sanitisation” is not synonymous with cleaning or perfuming. State the reason for disinfection, fabric type and any known contamination, then request the product name, suitability for porous materials, required contact time and ventilation instructions. Neither spraying nor steam automatically proves medical-grade sterilisation; laundering removable covers according to their labels may be more suitable. Compare pre-cleaning, material compatibility and safety for children and pets. Obtain a treatment record rather than a blanket germ-elimination guarantee."
+        }
+      ]
+    },
+    {
+      "slug": "facades-sites-cleaning",
+      "services": [
+        {
+          "nameAr": "تنظيف الواجهات الزجاجية",
+          "nameEn": "Glass facade cleaning",
+          "bodyAr": "في تنظيف الواجهات الزجاجية، زوّد مقدم العرض بالارتفاع التقريبي وعدد الألواح والمساحة ونوع الزجاج وإمكانية الوصول من السطح أو الأرض. تنظيف زجاج الدور الأرضي يختلف عن العمل بالحبال أو منصات الرفع؛ يجب أن يوضح العرض وسيلة الوصول وإجراءات منع السقوط وعزل مسار المارة. اطلب اختبار مادة التنظيف على الزجاج والطلاءات الحساسة والجوانات، وحدد هل تشمل الخدمة الإطارات والحواف. عند الاستلام افحص الزجاج من زوايا إضاءة مختلفة لرصد الخطوط والبقع، وتحقق من عدم تضرر الأختام.",
+          "bodyEn": "For glass façade cleaning, provide approximate height, panel count, area, glass type and possible access from the ground or roof. Ground-floor glass differs from rope-access or platform work; quotations must explain access arrangements, fall protection and pedestrian segregation. Ask for a compatibility test on coated glass, seals and gaskets and state whether frames are included. Inspect from several lighting angles for streaks and residue and confirm that seals have not been damaged."
+        },
+        {
+          "nameAr": "تنظيف واجهات المباني",
+          "nameEn": "Building facade cleaning",
+          "bodyAr": "واجهات الحجر والدهان والألمنيوم تختلف في تحمل الضغط والمواد الكيميائية. أرسل صورًا قريبة للبقع والتشققات والفواصل، وحدد مساحة الواجهة وارتفاعها ومواقع تمديدات الكهرباء والنوافذ. قبل الغسيل، اطلب تجربة موضع محدود وتوثيق طريقة التحكم في المياه حتى لا تدخل من الفواصل أو تتلف الكسوة. قارن العروض على معدات الوصول والحماية والمعالجة المناسبة لكل مادة، مع فصل إصلاح الواجهة عن تنظيفها. عند الاستلام افحص تغير اللون والتقشر والفواصل بعد الجفاف، وليس مظهر الواجهة المبللة فقط.",
+          "bodyEn": "Stone, painted and aluminium façades tolerate pressure and chemicals differently. Provide close photographs of stains, cracks and joints together with façade area, height and nearby electrical fittings. Require a small-area trial and a water-control plan to prevent ingress through joints or damage to cladding. Compare access equipment, protection and material-specific treatment; distinguish cleaning from façade repairs. Inspect colour change, peeling and joints after drying rather than judging only a wet façade."
+        },
+        {
+          "nameAr": "تنظيف المواقف",
+          "nameEn": "Car park cleaning",
+          "bodyAr": "لتنظيف موقف سيارات، حدد المساحة وعدد الطوابق ونوع الأرضية ومواضع بقع الزيت وآثار الإطارات ومصارف المياه. اشرح إن كان الموقف سيبقى مفتوحًا جزئيًا، وأرفق مخططًا بسيطًا لممرات الدخول والخروج. قارن كنس الغبار وإزالة الزيوت ومعالجة البقع والغسيل والشفط وجمع المياه، مع خطة تحذير المركبات والمشاة. لا تفترض السماح بتصريف المياه الملوثة إلى أي مصرف. عند الاستلام تحقق من جفاف مناطق السير وعدم بقاء مواد زلقة أو مخلفات تسد فتحات الصرف.",
+          "bodyEn": "For car-park cleaning, specify floor area, levels, surface type, oil spots, tyre marks and drainage locations. Explain whether some parking bays must stay operational and mark entry and exit routes on a simple plan. Compare sweeping, degreasing, washing, water recovery and pedestrian or vehicle warnings. Do not assume contaminated wash water can enter any drain. At handover check walking areas are dry, non-slip and free of waste obstructing outlets."
+        },
+        {
+          "nameAr": "تنظيف المواقع الصناعية",
+          "nameEn": "Industrial site cleaning",
+          "bodyAr": "تنظيف موقع صناعي يبدأ بتحديد نشاط المنشأة والآلات ومناطق التشغيل والمواد الموجودة، وليس باختيار منظف قوي. أرسل خريطة للمناطق المراد تنظيفها وحدد نقاط العزل الكهربائي ومواعيد التوقف ومخاطر الانزلاق أو المواد الخطرة. ينبغي الاتفاق على حدود تدخل فريق التنظيف ومن يتولى التعامل مع المخلفات الخاصة؛ ولا تشمل الخدمة تلقائيًا إزالة مواد كيميائية مجهولة. قارن العروض على خطة العمل والمعدات الوقائية والإشراف والتخلص من المخلفات وفق المتطلبات المنطبقة. استلم قائمة مناطق منجزة وسجلًا بالملاحظات غير المعالجة.",
+          "bodyEn": "Industrial-site cleaning begins with the facility's activities, machinery, operating zones and materials present, not a choice of aggressive detergent. Provide a zone map, electrical isolation points, shutdown windows and known slip or hazardous-substance risks. Agree the cleaning team's boundaries and who handles specialist waste; unknown chemicals are not automatically included. Compare safe work plans, protective equipment, supervision and appropriate waste arrangements. Receive a completed-zone log and a separate list of unresolved hazards."
+        }
+      ]
+    },
+    {
+      "slug": "water-tank-pool-cleaning",
+      "services": [
+        {
+          "nameAr": "تنظيف خزانات المياه",
+          "nameEn": "Water tank cleaning",
+          "bodyAr": "قبل تنظيف خزان مياه، حدد السعة التقريبية ونوع الخزان وموقعه وفتحات الدخول وحالة الرواسب وآخر تنظيف معروف، وبيّن إن كان الماء للاستخدام المنزلي. اتفق على موعد وقف الإمداد وكيفية تصريف المياه وحماية المضخات والوصلات، ولا تفترض دخول العامل إلى خزان مغلق دون تقييم مخاطر الأماكن المحصورة. قارن العروض على إزالة الرواسب والفرك والشطف وإجراءات النظافة والتوثيق بالصور. عند الاستلام راجع سلامة الغطاء والفتحات والوصلات، وافصل بين نظافة الخزان والتحقق المختبري من جودة المياه.",
+          "bodyEn": "Before water-tank cleaning, provide approximate capacity, tank material, location, access openings, sediment condition and the last known cleaning date; specify whether water serves household use. Agree on water shutdown, drainage and protection of pumps and connections. Entry into an enclosed tank requires appropriate confined-space risk assessment, not an assumption that staff can enter. Compare sediment removal, scrubbing, rinsing and photographic records. Check covers, openings and connections at handover; tank cleanliness is distinct from laboratory verification of water quality."
+        },
+        {
+          "nameAr": "تعقيم الخزانات",
+          "nameEn": "Tank disinfection",
+          "bodyAr": "تعقيم خزان المياه يأتي بعد تنظيفه، وليس بديلًا عن إزالة الرواسب. اذكر حجم الخزان ونوع استخدام المياه واطلب من الجهة المؤهلة تحديد المطهر الملائم وتركيزه وزمن التلامس وطريقة الشطف وفق تعليمات المنتج والمتطلبات المنطبقة. يجب توضيح موعد إعادة تشغيل الشبكة ومن يتحمل الاختبارات إن كانت مطلوبة، بدل الاكتفاء بعبارة «معقم بالكامل». قارن العروض على خطوات المعالجة وسجل المواد والجرعات والتوثيق. عند الاستلام اطلب تقريرًا بما نُفذ، ولا تعتبر الماء صالحًا للشرب اعتمادًا على المظهر أو الرائحة وحدهما.",
+          "bodyEn": "Tank disinfection follows cleaning; it does not replace sediment removal. State tank capacity and water use and ask a competent provider to specify an appropriate disinfectant, concentration, contact time and rinsing procedure in accordance with product instructions and applicable requirements. Clarify when the supply can restart and who arranges any required testing. Compare treatment stages, chemical and dose records and documentation. Obtain a work report, and never infer potable-water safety from appearance or smell alone."
+        },
+        {
+          "nameAr": "تنظيف المسابح",
+          "nameEn": "Swimming pool cleaning",
+          "bodyAr": "تنظيف المسبح يحتاج أبعاده وعمقه التقريبي ونوع التكسية وحالة المياه والفلتر والمضخة ومواعيد الاستخدام. وضح هل المطلوب إزالة أوراق وأتربة من القاع أم معالجة طحالب أم تفريغ وتنظيف شامل؛ فهذه نطاقات مختلفة. قارن عروض التنظيف على تنظيف الجدران والقاع والمصاف والسلال، وفحص دوران المياه وقياس مؤشرات التوازن عند تضمين معالجة المياه. يجب تحديد مسؤولية المواد الكيميائية وفترة منع السباحة بعد المعالجة. عند الاستلام افحص الأسطح والمعدات وسجل القراءات، ولا تعتمد صفاء الماء وحده مؤشرًا كافيًا للسلامة.",
+          "bodyEn": "Pool cleaning requires approximate length, width and depth, finish type, water condition, filter and pump status and usage times. Distinguish leaf and floor debris removal from algae treatment or a full drain-and-clean service. Compare wall, floor, skimmer and basket cleaning, circulation checks and water-balance measurements where water treatment is included. Agree responsibility for chemicals and any no-swimming interval after treatment. Inspect finishes and equipment and review recorded readings; clear water alone does not establish safety."
+        }
+      ]
+    },
+    {
+      "slug": "pest-rodent-control",
+      "services": [
+        {
+          "nameAr": "مكافحة الصراصير",
+          "nameEn": "Cockroach control",
+          "bodyAr": "قبل مكافحة الصراصير، وثّق مكان ظهورها ووقته وحجمها التقريبي وصوّر الحشرة إن أمكن. افحص التسربات والمصارف وخلف الأجهزة وخزائن الطعام؛ فالعلاج في مطبخ مأهول يختلف عن مستودع فارغ. اطلب من شركة مؤهلة خطة تحدد المعاينة وسد الفتحات والطُعم أو المعالجة المناسبة وإجراءات حماية الطعام والأطفال والحيوانات الأليفة. قارن عروض الأسعار على عدد الزيارات ومواعيد المتابعة والتعليمات بعد التطبيق، وليس كمية المبيد. عند الاستلام اطلب سجل المواقع المعالجة وكيفية الإبلاغ عن استمرار النشاط.",
+          "bodyEn": "Before cockroach treatment, record where and when insects appear, approximate size and a photograph if possible. Check leaks, drains, behind appliances and food cupboards; an occupied kitchen needs different precautions from an empty store. Ask a competent pest-control provider for an inspection, exclusion and bait or treatment plan, including food, child and pet protection. Compare visit count, follow-up dates and post-treatment instructions rather than pesticide quantity. Obtain a record of treated locations and how to report continued activity."
+        },
+        {
+          "nameAr": "مكافحة النمل",
+          "nameEn": "Ant control",
+          "bodyAr": "عند ظهور النمل، تتبع مساراته وصوّر نقاط دخوله وحول النوافذ والمطبخ والحديقة، وحدد إن كان النشاط موسميًا أو متكررًا. التنظيف وحده قد يزيل الأثر الظاهر ولا يعالج المستعمرة، بينما الرش العشوائي قد يشتت بعض الأنواع. اطلب تشخيصًا أوليًا وخطة للطُعم وإغلاق منافذ الدخول ومعالجة الرطوبة عند الحاجة. قارن العروض على زيارة متابعة وتعليمات منع التلوث وحماية الأطفال، واطلب توضيح الحالات التي تتطلب إعادة تقييم النوع. استلم خريطة نقاط المعالجة ومؤشرات انخفاض النشاط بدل ضمان اختفاء فوري.",
+          "bodyEn": "For ants, photograph trails and entry points around windows, kitchens and gardens and note whether activity is seasonal or recurring. Surface cleaning may remove visible trails without addressing a colony, while indiscriminate spraying can scatter some species. Request an initial assessment and a plan for baiting, sealing entry points and addressing moisture where relevant. Compare follow-up visits, contamination precautions and child safety; ask when identification needs reconsideration. Obtain a treatment-point map and monitoring criteria rather than a promise of immediate disappearance."
+        },
+        {
+          "nameAr": "مكافحة القوارض",
+          "nameEn": "Rodent control",
+          "bodyAr": "بلاغ القوارض يحتاج صور آثار القرض والفضلات دون لمسها، وتحديد مواقع الغذاء والمخازن والأسقف المستعارة والفتحات حول المواسير. ينبغي تقييم حجم الإصابة وإغلاق نقاط الدخول بالتنسيق مع الصيانة، مع اختيار محطات مراقبة أو طُعم محمية لا تصل إليها الحيوانات أو الأطفال. اطلب خطة تشرح التفقد وإزالة الجثث والتعامل الآمن مع الفضلات دون كنس جاف يثير الغبار الملوث. قارن العقود على المتابعة وتوثيق المحطات والاستجابة للبلاغات. عند الاستلام راجع قائمة الفتحات المغلقة ونتائج الرصد اللاحقة.",
+          "bodyEn": "For rodents, photograph gnawing and droppings without touching them and identify food stores, ceiling voids and openings around pipes. The provider should assess activity and coordinate entry-point sealing with maintenance, using protected monitoring or bait stations inaccessible to children and pets. Request a plan for inspections, carcass removal and safe droppings management rather than dry sweeping contaminated dust. Compare monitoring, station records and response times. Check the list of sealed openings and subsequent activity reports."
+        },
+        {
+          "nameAr": "مكافحة بق الفراش",
+          "nameEn": "Bedbug control",
+          "bodyAr": "بق الفراش لا يُشخّص من اللدغات وحدها. صوّر أي حشرة أو آثار على حواف المرتبة وإطار السرير والمفروشات، وحدد الغرف المصابة والتنقل الأخير للأثاث. اطلب فحصًا يحدد مدى الانتشار وخطة معالجة تتناسب مع الأسطح، مع تعليمات تجهيز الملابس والمفروشات وتجنب نقلها بين الغرف. قد تتطلب المكافحة زيارات متكررة؛ لذلك قارن عروض الأسعار على الفحص الأول والمتابعة وحدود الضمان وتوقيت العودة للاستخدام. عند الاستلام احصل على تقرير المواقع المعالجة وتعليمات المراقبة دون وعود القضاء النهائي من زيارة واحدة.",
+          "bodyEn": "Bed bugs cannot be diagnosed from bites alone. Photograph insects or evidence around mattress seams, bed frames and furnishings and list affected rooms and recent furniture movements. Request an inspection that establishes the extent of activity and a surface-appropriate treatment plan, with instructions for preparing textiles without spreading infestation between rooms. Multiple visits may be necessary; compare initial inspection, follow-up, warranty limits and re-entry instructions. Obtain a treatment-location record and monitoring guidance, not a one-visit eradication promise."
+        },
+        {
+          "nameAr": "عقود المكافحة الدورية",
+          "nameEn": "Recurring pest control contracts",
+          "bodyAr": "عقد مكافحة دوري لمنزل أو منشأة يحتاج خريطة للموقع ونوع الاستخدام ومناطق الطعام والنفايات والمصارف وسجل البلاغات السابق. لا يكفي الاتفاق على عدد «الرشات»؛ اطلب برنامج تفتيش وقائي ورصد ونقاط معالجة موثقة مع آلية تصعيد عند ظهور إصابة. قارن عروض الشركات المؤهلة على وتيرة الزيارات والتقارير والمواد المستخدمة وخدمة الطوارئ والاستثناءات، مع مراعاة سلامة المقيمين والعاملين. راجع عند كل زيارة سجل الآفات والملاحظات التصحيحية وتواريخ إغلاقها، ولا تعتبر غياب المشاهدة يوم الزيارة دليلًا قاطعًا على خلو الموقع.",
+          "bodyEn": "A recurring pest-control contract needs a site plan, use type, food and waste areas, drains and previous incident records. Counting spraying visits alone is inadequate: ask for preventive inspections, monitoring points, documented interventions and an escalation process. Compare competent providers on visit frequency, reports, products, urgent callouts and exclusions while protecting occupants and staff. Review pest findings, corrective actions and closure dates after each visit. A quiet inspection day does not conclusively prove a pest-free property."
+        }
+      ]
+    },
+    {
+      "slug": "sanitisation-disinfection",
+      "services": [
+        {
+          "nameAr": "رش وتعقيم المنازل",
+          "nameEn": "Home sanitisation and disinfection",
+          "bodyAr": "في طلب تطهير منزل، حدد سبب الخدمة والغرف والأسطح كثيرة اللمس وحالة وجود أشخاص حساسين أو حيوانات أليفة. التنظيف لإزالة الأوساخ يسبق استخدام مطهر مناسب عند الحاجة؛ ولا يعني رش الضباب أن الهواء أو كل الأسطح أصبحت معقمة. اطلب اسم المادة وتعليمات استخدامها للأسطح المحددة ووقت التلامس والتهوية واحتياطات الإخلاء إن نصت عليها. قارن العروض على قائمة الأسطح المنفذة والمواد والسلامة بدل ادعاءات الحماية المطلقة. استلم سجل المعالجة ولا تعتمد الخدمة بديلًا عن إصلاح مصدر تلوث مستمر.",
+          "bodyEn": "For home disinfection, specify why the service is requested, which rooms and frequently touched surfaces are involved and whether vulnerable occupants or pets are present. Cleaning to remove dirt precedes suitable disinfection when warranted; fogging does not automatically sterilise indoor air or every surface. Ask for the product, approved surface use, contact time, ventilation and any re-entry precautions in its instructions. Compare defined surfaces and safety controls rather than absolute protection claims. Receive a treatment log and do not treat disinfection as a substitute for fixing ongoing contamination."
+        },
+        {
+          "nameAr": "تعقيم المكاتب والمنشآت",
+          "nameEn": "Office and facility disinfection",
+          "bodyAr": "تعقيم المكاتب والمنشآت يحتاج حصر المكاتب وقاعات الاجتماعات والمقابض والأسطح المشتركة، مع تحديد الأجهزة الإلكترونية والمواد التي لا تتحمل الرطوبة. نسق توقيت الخدمة بحيث لا تتعرض الملفات أو المعدات أو العاملون لرذاذ غير مناسب. اطلب خطة تنظيف مسبق ثم تطهير للأسطح المحددة باستخدام منتج ملائم ووفق زمن التلامس والتعليمات، مع توضيح ما هو مستثنى. قارن العروض على تغطية المناطق والإشراف وسجلات المواد والتهوية. عند الاستلام راجع قائمة الغرف المنفذة وأي تلف أو مناطق لم يمكن الوصول إليها، دون ضمان منع العدوى.",
+          "bodyEn": "Office disinfection requires a room and touchpoint inventory, including meeting rooms, handles and shared surfaces, plus identification of electronics and moisture-sensitive materials. Schedule work to protect records, equipment and employees from inappropriate spraying. Request pre-cleaning followed by surface-specific disinfection using a suitable product and its contact-time instructions, with exclusions stated. Compare area coverage, supervision, chemical records and ventilation. Check completed-room logs and any inaccessible or damaged areas at handover, without claiming infection prevention is guaranteed."
+        }
+      ]
+    },
+    {
+      "slug": "building-operations-maintenance",
+      "services": [
+        {
+          "nameAr": "إدارة أعمال الصيانة",
+          "nameEn": "Maintenance management",
+          "bodyAr": "إدارة الصيانة لمجموعة مبانٍ ليست تنفيذ إصلاح واحد. قدّم سجل الأصول والمواقع وأنواع الأنظمة والبلاغات المفتوحة، وحدد من يوافق على المصروفات ومن يستقبل شكاوى السكان. اطلب آلية لترتيب الأعطال حسب خطورتها، وإسناد الأعمال إلى فنيين مناسبين، ومراقبة قطع الغيار والضمانات. قارن العروض على زمن الاستجابة ونظام التذاكر والتقارير والتكاليف الإدارية مقابل تكلفة الإصلاح الفعلية. عند الاستلام راجع عينة بلاغات من فتح الطلب حتى إغلاقه وإثبات رضا المستفيد.",
+          "bodyEn": "Maintenance management across buildings is not a single repair job. Provide asset registers, sites, system types and open tickets, and identify who approves expenditure and receives occupant complaints. Require risk-based prioritisation, assignment to competent technicians, parts tracking and warranty oversight. Compare response times, ticketing, reports and management fees separately from repair costs. Audit sample requests from opening through closure and confirmation by the requester."
+        },
+        {
+          "nameAr": "تشغيل المرافق",
+          "nameEn": "Facility operation",
+          "bodyAr": "تشغيل المرافق يشمل التنسيق اليومي بين الأنظمة والخدمات لا مجرد تنظيف المكان. احصر غرف المضخات والمصاعد والمداخل والإضاءة والمناطق المشتركة وساعات الاستخدام، مع تحديد الأنظمة التي تديرها أطراف أخرى. اطلب خطة ورديات ومراقبة واستهلاك وبلاغات طوارئ ومسؤوليات واضحة عند تعطل الخدمة. قارن العروض على التغطية والإشراف وسجلات التشغيل والاستثناءات. استلم تقارير يومية ومؤشرات الأعطال واختبر مسار تصعيد بلاغ تجريبي.",
+          "bodyEn": "Facilities operation coordinates everyday services and systems rather than merely cleaning premises. List pump rooms, lifts, entrances, lighting, shared areas and operating hours, identifying systems managed by third parties. Require shift coverage, monitoring, consumption logs, emergency escalation and clear accountability during outages. Compare supervision, records and exclusions. Review daily reports and fault indicators and test how a sample incident would be escalated."
+        },
+        {
+          "nameAr": "الصيانة الوقائية",
+          "nameEn": "Preventive maintenance",
+          "bodyAr": "الصيانة الوقائية تبدأ بقائمة المعدات وأرقامها ومواقعها وتواريخ آخر خدمة وتعليمات المصنّع، لا بجدول زيارات موحد. اطلب فصل مهام التكييف والمضخات واللوحات والأبواب والمعدات بحسب المخاطر وتواتر الاستخدام، مع تسجيل القياسات وقطع الاستهلاك. قارن العقود على المهام المحددة وزمن التوقف والإصلاحات المستثناة وآلية معالجة الملاحظات. عند الاستلام افحص سجلات الأجهزة ونتائج الفحص، ولا تعتبر زيارة دون تقرير إنجازًا مثبتًا.",
+          "bodyEn": "Preventive maintenance starts with equipment IDs, locations, last-service dates and manufacturer instructions, not a universal visit schedule. Separate air-conditioning, pumps, electrical panels, doors and other equipment by risk and use, recording readings and consumables. Compare defined tasks, downtime, excluded repairs and defect follow-up. Check equipment-level service records and findings; a visit without documented work is not proof of completion."
+        },
+        {
+          "nameAr": "متابعة الأنظمة الكهربائية",
+          "nameEn": "Electrical system monitoring",
+          "bodyAr": "متابعة الكهرباء تتطلب مخططات اللوحات إن وجدت، قائمة الأحمال الحرجة وسجل الانقطاعات وأوقات الوصول المسموح. يجب أن ينفذ الفحص والعمل داخل اللوحات أشخاص مؤهلون مع إجراءات عزل مناسبة، ولا يشمل عقد المتابعة إصلاح جميع الأعطال تلقائيًا. قارن العروض على فحص التوصيلات والتحميل والحرارة والتوثيق وحدود القياسات. استلم قراءات مؤرخة وقائمة مخاطر ذات أولوية وتوصيات إصلاح منفصلة عن الأعمال المنفذة.",
+          "bodyEn": "Electrical monitoring needs available panel schedules, critical-load lists, outage history and authorised access times. Only competent personnel should inspect or work inside panels using appropriate isolation procedures; routine monitoring does not automatically include every repair. Compare connection and load checks, temperature assessment, measurements and reporting limits. Obtain dated readings, prioritised hazards and repair recommendations distinct from completed work."
+        },
+        {
+          "nameAr": "متابعة أنظمة التكييف",
+          "nameEn": "AC system monitoring",
+          "bodyAr": "لمتابعة التكييف، أحصِ الوحدات ونوعها ومواقعها وساعات تشغيلها والغرف التي تشكو ضعف التبريد أو تسرب الماء. اطلب تسجيل درجات الحرارة والمرشحات والتصريف وأداء الهواء قبل اقتراح استبدال أجزاء مكلفة. قارن العروض على عدد الزيارات وتنظيف المرشحات والفحوص الدورية وقطع الغيار المستثناة وآلية البلاغات. عند الاستلام راجع القراءات لكل وحدة وتأكد من توثيق الأعطال التي تحتاج إصلاحًا لاحقًا.",
+          "bodyEn": "For HVAC monitoring, list units, types, locations, operating hours and rooms affected by poor cooling or water leaks. Require temperature, filter, condensate drainage and airflow records before expensive replacement recommendations. Compare visits, filter care, periodic tests, excluded parts and fault reporting. Review readings by unit and confirm unresolved defects are recorded for follow-up."
+        },
+        {
+          "nameAr": "متابعة السباكة والصرف",
+          "nameEn": "Plumbing and drainage monitoring",
+          "bodyAr": "متابعة السباكة والصرف تحتاج خريطة تقريبية للخزانات والمضخات والصمامات والمصارف ومواقع تسرب أو انسداد سابق. اتفق على تفقد الوصلات والضغط الظاهر وأصوات المضخات وروائح الصرف، مع فصل أعمال الكشف المتخصص والتكسير والإصلاح عن جولات الفحص. قارن العقود على تكرار الزيارات وسجلات الاستهلاك والإبلاغ المبكر ومهلة التعامل مع التسرب. استلم صورًا وقراءات ومواقع ملاحظات محددة، لا عبارة «السباكة سليمة» دون فحص موثق.",
+          "bodyEn": "Plumbing and drainage monitoring needs an approximate map of tanks, pumps, valves, drains and prior leak or blockage locations. Agree checks of connections, observable pressure, pump noise and drain odours; specialist detection, breaking finishes and repairs should be separate from inspection rounds. Compare visit frequency, consumption logs, early alerts and leak-response windows. Obtain photographs, readings and precise defect locations rather than an unsupported all-clear."
+        },
+        {
+          "nameAr": "إعداد تقارير حالة المبنى",
+          "nameEn": "Building condition reports",
+          "bodyAr": "تقرير حالة المبنى يحتاج غرضًا واضحًا: قرار شراء، خطة صيانة، أو تقييم عيوب ظاهرة. قدم عمر المبنى والمخططات المتاحة وسجل الإصلاحات وصور المشكلات، وحدد هل يشمل التقرير الأسطح والواجهات والمعدات والفراغات الداخلية. اطلب بيان حدود الفحص البصري وما يستلزم اختبارًا متخصصًا أو رأي مهندس مختص. قارن العروض على نطاق المعاينة والتصوير وتصنيف الخطورة والتوصيات. عند الاستلام تحقق من موقع كل ملاحظة وأولويتها وحدود الاستنتاج، ولا تعامل التقرير البصري شهادة سلامة إنشائية.",
+          "bodyEn": "A building condition report needs a defined purpose: acquisition, maintenance planning or assessment of visible defects. Provide building age, available plans, repair history and issue photographs; specify roofs, façades, plant and interiors in scope. Ask the assessor to distinguish visual limitations from specialist testing or structural engineering review. Compare inspection coverage, photographs, risk grading and recommendations. Check each finding's location and priority; a visual report is not a structural safety certificate."
+        }
+      ]
+    },
+    {
+      "slug": "labor-operations",
+      "services": [
+        {
+          "nameAr": "توفير عمال النظافة",
+          "nameEn": "Cleaning worker provision",
+          "bodyAr": "عند طلب عمال نظافة، حدد عدد المواقع والمساحات والمهام اليومية والورديات وأيام الراحة، ومن يوفر الأدوات والمواد والزي والانتقال. فرّق بين توفير الأفراد وبين عقد تنظيف بنتيجة محددة، واطلب مشرفًا وآلية لتغطية الغياب وتبديل العامل. قارن العروض على الساعات والإشراف والتأهيل والمسؤوليات والتكاليف الإضافية. استلم كشوف حضور وقوائم مهام وملاحظات أداء، دون افتراض أن توفير عامل يشمل خدمات متخصصة أو تشغيل معدات خطرة.",
+          "bodyEn": "For cleaning staff provision, specify sites, areas, daily tasks, shifts, rest days and who supplies tools, chemicals, uniforms and transport. Distinguish labour supply from a results-based cleaning contract and agree supervision and absence cover. Compare working hours, competence, responsibilities and additional costs. Check attendance and task logs; supplying staff does not automatically cover specialist cleaning or hazardous equipment."
+        },
+        {
+          "nameAr": "توفير عمال التحميل",
+          "nameEn": "Loading worker provision",
+          "bodyAr": "توفير عمال تحميل يحتاج قائمة المواد وأوزانها وأبعادها وطابق التحميل ومسار النقل ومواعيد دخول المركبات. وضح هل تشمل المهمة التغليف أو الفك أو استخدام رافعة، ولا تطلب من العمال حمل عناصر تتجاوز حدود المناولة الآمنة. قارن العروض على عدد الأفراد والمعدات والمدة والتأمين على التلف وحدود المسؤولية. عند التسليم طابق القطع المنقولة مع القائمة وافحص الأضرار والممرات ونظافة منطقة التحميل.",
+          "bodyEn": "Loading labour requests need material lists, weights, dimensions, loading floors, travel routes and vehicle access windows. Clarify packing, dismantling and lifting equipment and do not require unsafe manual handling. Compare crew numbers, handling aids, duration, damage responsibility and exclusions. Reconcile moved items against the inventory and inspect damage, access routes and the loading area."
+        },
+        {
+          "nameAr": "توفير فنيي الصيانة",
+          "nameEn": "Maintenance technician provision",
+          "bodyAr": "قبل طلب فنيي صيانة، حدد التخصص المطلوب والأعطال والمعدات والموقع وساعات السماح بالعمل، وأرفق صور لوحة البيانات أو العطل دون تعريض أحد للخطر. قد تحتاج أعمال الكهرباء أو التكييف أو الأنظمة الحرجة إلى مؤهلات وإجراءات عزل أو تصريح مناسب. قارن العروض على عدد الفنيين وخبرتهم وأدوات الفحص والمواد والاختبارات والتقارير، مع الفصل بين العمالة والتوريد. استلم أوامر عمل موثقة بنتائج الاختبار والأعمال غير المنجزة.",
+          "bodyEn": "Before requesting maintenance technicians, identify trade, faults, equipment, location and permitted work windows, with safe photographs of labels or symptoms. Electrical, HVAC and critical-system tasks may require particular competence, isolation or applicable permissions. Compare headcount, experience, diagnostic tools, materials, tests and reporting, separating labour from supply. Obtain signed work orders, test outcomes and a list of outstanding work."
+        },
+        {
+          "nameAr": "توفير مشرفي المواقع",
+          "nameEn": "Site supervisor provision",
+          "bodyAr": "مشرف الموقع ليس بديلًا عن المصمم أو المقاول المسؤول. حدد عدد العمال والوردية وطبيعة الأعمال والمقاولين الفرعيين والجهة التي يتبعها المشرف وصلاحيات إيقاف العمل. اطلب وصفًا لمتابعة الحضور والسلامة والجودة والتوريد والتقارير اليومية، مع تحديد من يعتمد التغييرات الفنية. قارن العروض على الخبرة والتغطية الفعلية وساعات التواجد وطريقة تصعيد المخاطر. استلم سجلات الزيارات والملاحظات والإجراءات التصحيحية.",
+          "bodyEn": "A site supervisor does not replace the responsible designer or contractor. State crew size, shifts, work type, subcontractors, reporting line and stop-work authority. Require a description of attendance, safety, quality, deliveries and daily reporting, including who approves technical changes. Compare experience, actual coverage, presence hours and hazard escalation. Review visit logs, defects and corrective actions."
+        },
+        {
+          "nameAr": "تشغيل المجمعات السكنية",
+          "nameEn": "Residential complex operations",
+          "bodyAr": "تشغيل مجمع سكني يحتاج حصر المباني والوحدات والمناطق المشتركة والمرافق والأنظمة والعقود الحالية، مع تحديد قنوات بلاغات السكان وحدود مسؤولية المالك والمستأجر. اطلب خطة للتنظيف والصيانة والاستجابة للطوارئ وتنسيق الموردين وإدارة المفاتيح وفق الضوابط المناسبة. قارن العروض على التغطية والتقارير ومستويات الخدمة والاستثناءات. عند الاستلام راجع سجلات البلاغات واستهلاك المواد وحالة الأصول بدل الاكتفاء بتقرير عام.",
+          "bodyEn": "Residential compound operations require an inventory of buildings, units, shared spaces, amenities, systems and existing contracts, with resident reporting channels and owner-versus-tenant responsibilities. Request cleaning, maintenance, emergency response, vendor coordination and controlled key management. Compare coverage, service levels, reports and exclusions. Review ticket histories, consumables and asset condition rather than a generic summary."
+        },
+        {
+          "nameAr": "تشغيل المرافق التجارية",
+          "nameEn": "Commercial facility operations",
+          "bodyAr": "تشغيل مرافق تجارية يتطلب معرفة أوقات عمل المحلات وحركة الزوار ومناطق التحميل وغرف الخدمات والعقود مع الأمن والتنظيف والصيانة. يجب تنظيم الأعمال المزعجة خارج أوقات الذروة عند الإمكان، مع خطة لتصعيد الأعطال التي تؤثر في المستأجرين. قارن العروض على إدارة الموردين والتوثيق والتعامل مع الشكاوى وحوادث السلامة واستمرارية الخدمات. استلم سجل أحداث ومهام مؤرخًا مع مسؤول عن كل إجراء.",
+          "bodyEn": "Commercial facilities operation depends on tenant opening hours, visitor flows, loading zones, plant rooms and existing security, cleaning and maintenance contracts. Plan disruptive works outside peak hours where possible and escalate faults affecting tenants. Compare supplier coordination, incident reporting, complaint management and service continuity. Receive dated event and task logs with an accountable owner for each action."
+        },
+        {
+          "nameAr": "خدمات الدعم للمشاريع",
+          "nameEn": "Project support services",
+          "bodyAr": "خدمات دعم المشاريع عنوان واسع؛ حدد هل المطلوب تجهيز موقع أو نقل مواد أو تنظيف أو دعم لوجستي أو عمالة، وأعد قائمة مهام وكميات ونقاط تسليم لكل بند. اطلب توضيح المعدات والمواد ومسؤولية التصاريح والتخلص من المخلفات والتنسيق مع المقاول الرئيسي. قارن العروض على البنود المنفصلة والمدة والموارد والاستثناءات لا على عبارة «دعم شامل». عند الاستلام تحقق من قائمة الإنجاز وصور الموقع والكميات المتسلمة وأي أعمال إضافية معتمدة.",
+          "bodyEn": "Project support services are broad: specify whether site setup, material movement, cleaning, logistics or labour is needed and list tasks, quantities and handover points. Clarify equipment, materials, applicable permissions, waste responsibility and coordination with the main contractor. Compare separately priced items, duration, resources and exclusions rather than a vague “complete support” offer. At handover verify task lists, site photographs, received quantities and approved variations."
+        }
+      ]
+    }
+  ]
+}

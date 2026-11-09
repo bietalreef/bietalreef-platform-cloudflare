@@ -241,12 +241,12 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "119/434 independently rewritten AR/EN: contracting 56, engineering 49, maintenance 1–14. Re-fetched maintenance content and checked 105 sequential headings each language. 315 remain; next maintenance service 15. in_progress, no publication approval.",
-      "editorial_rewritten_service_entries": 119,
-      "editorial_remaining_service_entries": 315,
+      "review_note": "126/434 independently rewritten AR/EN: contracting 56, engineering 49, maintenance 1–21. Re-fetched maintenance content; 105 sequential service headings in each language. 308 remain; next maintenance service 22 (تركيب أسقف الجبس). in_progress; no publication approval.",
+      "editorial_rewritten_service_entries": 126,
+      "editorial_remaining_service_entries": 308,
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "التشطيبات المتكاملة",
+        "specialty": "الجبس والديكور",
         "rewritten_service_numbers": [
           1,
           2,
@@ -261,14 +261,21 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ],
-        "next_service_number": 15,
-        "remaining_in_sector": 91,
+        "next_service_number": 22,
+        "remaining_in_sector": 84,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 119,
-        "remaining_area_services_for_originality_review": 315,
+        "area_independently_rewritten": 126,
+        "remaining_area_services_for_originality_review": 308,
         "area_editorially_approved": false,
         "editorial_draft_completed": false
       }

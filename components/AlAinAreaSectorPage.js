@@ -16,7 +16,9 @@ export default function AlAinAreaSectorPage({model}){
  const root=`${prefix}/uae/abu-dhabi/al-ain/${area.slug}`;
  const path=`${root}/${sectorSlug}`;
  const image=UAE_SECTOR_ASSETS[sector.slug]?.desktop;
- return <><SEOHead title={seo.title} description={seo.description} canonicalPath={path} noIndex={!localText && !sectorTaxonomy?.length} noIndexFollow ogImage={image?`https://bietalreef.ae${image}`:undefined}/>
+ const crumbs=[{name:en?'UAE directory':'دليل الإمارات',href:`${prefix}/uae`},{name:en?'Abu Dhabi':'أبوظبي',href:`${prefix}/uae/abu-dhabi`},{name:en?'Al Ain':'العين',href:`${prefix}/uae/abu-dhabi/al-ain`},{name:place,href:root},{name:sector.name[locale],href:path}];
+ const schema={'@context':'https://schema.org','@type':'CollectionPage',name:seo.heading,url:'https://bietalreef.ae'+path,description:seo.description,inLanguage:en?'en-AE':'ar-AE'};
+ return <><SEOHead title={seo.title} description={seo.description} canonicalPath={path} alternatePath={(en?'':'/en')+'/uae/abu-dhabi/al-ain/'+area.slug+'/'+sectorSlug} noIndex={!localText && !sectorTaxonomy?.length} noIndexFollow ogImage={image?`https://bietalreef.ae${image}`:undefined} structuredData={schema} breadcrumbs={crumbs}/>
   <div lang={locale} dir={en?'ltr':'rtl'} className="min-h-screen bg-[#fdfbf7]"><Navbar locale={locale}/><main>
    <nav className="mx-auto max-w-6xl px-4 py-3 text-sm text-slate-600" aria-label={en?'Breadcrumb':'مسار التصفح'}><Link href={`${prefix}/uae`}>{en?'UAE directory':'دليل الإمارات'}</Link>{' / '}<Link href={`${prefix}/uae/abu-dhabi/al-ain`}>{en?'Al Ain':'العين'}</Link>{' / '}<Link href={root}>{place}</Link>{' / '}<span>{sector.name[locale]}</span></nav>
    <UaeDirectoryHero locale={locale} title={seo.heading} description={seo.description} image={image} emirate={getEmirate('abu-dhabi')} area={area} service={getServiceCategory(sector.slug)} cleanNavigation/>

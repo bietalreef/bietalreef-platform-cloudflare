@@ -129,31 +129,31 @@ When a gypsum joint cracks or a ceiling swells near an AC unit, photograph the d
 
 ### 29. Ceramic tile installation
 
-Measure floor and wall areas, tile size, cutting allowance, joint widths and drain positions. Check substrate flatness and wet-area waterproofing before laying; specify adhesive, grout and cuts at corners. Compare substrate preparation and skirting separately, and inspect drainage falls, straight courses, sound bedding and safe edges.
+Before ordering ceramic tiling, distinguish a dry floor from a bathroom or kitchen and supply each surface's dimensions, wall-tile height, drains and door positions. A square-metre figure alone is insufficient: agree a layout showing tile direction, cuts, skirting and movement joints, and price old-tile removal and substrate levelling separately. In bathrooms, review the waterproofing test before it is covered and demonstrate falls towards the drain on site. Compare quotations by tile and adhesive specification, grout, preparation, wastage and protection. At handover, check for potentially hollow-sounding tiles, consistent joints, lippage, door clearance and water draining without ponding.
 
 ### 30. Porcelain tile installation
 
-Provide tile dimensions, thickness and a laying plan, especially for large-format slabs requiring careful handling and levelling. Compare adhesive coverage, levelling equipment and movement-joint treatment. Check lippage, pattern alignment and secure bedding before accepting the work.
+Porcelain differs from ceramic particularly in large formats: slab weight, handling, cutting and substrate flatness can govern installation. Provide room measurements, tile dimensions and thickness, a photograph of the product label and a layout showing vein direction where applicable. Ask for a dry layout before fixing to avoid narrow strips at doorways, and specify adhesive contact, movement joints and transitions to adjacent floors. Quotes should itemise lifting and levelling equipment, column cuts, consumables and responsibility for breakage during handling. Inspect lippage in raking light, vein alignment and secure bedding before signing off.
 
 ### 31. Parquet flooring installation
 
-Identify solid or engineered flooring, laying direction, room areas and possible substrate moisture. Specify underlay or vapour control, perimeter expansion gaps and door clearances; compare supply, fitting and skirting separately. Inspect stability, squeaks and swelling and obtain product-specific cleaning guidance.
+First establish whether the proposed parquet is solid timber, engineered wood or another flooring marketed as parquet; moisture sensitivity and refinishing options differ. Supply room areas, door clearances, skirting dimensions and substrate photographs, and request substrate moisture testing to the product manufacturer's requirements. Compare glued and floating installation only where the chosen system permits them, including underlay, thresholds and expansion allowances around walls and columns. Quotations should state timber grade, finish, warranty and water-exposure limitations. Walk the joints to check movement and squeaking, and compare board alignment and colour variation against the approved sample.
 
 ### 32. Vinyl flooring installation
 
-Distinguish glued, click-lock and sheet vinyl and describe room dimensions, traffic and wet exposure. The base must be smooth because defects can telegraph through vinyl; specify welded or sealed seams where required. Compare wear-layer thickness and slip properties, and inspect joints, adhesion and bubbles.
+For vinyl flooring, describe the use: a bedroom, an office with wheeled chairs or a space cleaned frequently. This informs the choice between LVT planks, sheet goods and click systems. Provide a dimensioned plan, fixed furniture and any drains; ask for substrate moisture and flatness checks because imperfections can telegraph through the finish. Quotes should identify product and wear-layer thickness, adhesive or locking method, floor preparation, thresholds and edge details, and seam welding for sheet goods where required. Do not assume all vinyl products suit wet rooms. Inspect bubbles, lifting edges, pattern continuity and stability under the expected traffic.
 
 ### 33. Interlocking paving installation
 
-Define the path or parking area, pedestrian or vehicle loads, levels and stormwater drainage. Compare excavation, sub-base depth, compaction, paver thickness and edge restraints rather than the visible square-metre price alone. Check falls, joint filling and stability after compaction.
+For interlocking paving, identify whether the area is a footpath, driveway or vehicle parking space: loading affects paver thickness and the base design. Supply dimensions, existing levels, stormwater direction and locations of utility covers and trees. Require excavation, removal of unsuitable material, base and bedding layers, compaction and edge restraints to be itemised, rather than accepting a paver-only square-metre rate. Approve a colour and laying-pattern sample and confirm finished levels at gates and kerbs. Test drainage with water and check for unstable blocks or settling edges under intended use.
 
 ### 34. Wall cladding installation
 
-Identify stone, panels or tiles, wall height, substrate and electrical openings. Request samples and details of fixing, loading and junctions at doors and ceilings, accounting for moisture exposure. Compare base preparation, cutting and edge trims; inspect secure attachment, joint alignment and service access.
+Wall cladding can mean natural stone, porcelain, timber or composite panels, each with different weights and fixing needs. Supply wall type, height and width, sockets, lighting and concealed services, plus photographs of corners and door junctions. Ask for a physical sample and fixing details suited to the material and substrate; relevant moisture or fire performance must be assessed against the approved project design rather than assumed. Compare preparation, support framing, cuts, joints, corner trims and removable access panels. Inspect security and alignment and ensure ventilation openings and maintenance points remain accessible.
 
 ### 35. Flooring repairs
 
-Photograph cracks, loose tiles or swelling, noting the affected area and possible leaks or substrate settlement. Investigate the cause before replacing finishes and confirm whether matching materials are available. Compare local repairs with reinstatement of the affected section; inspect levelness, bonding and joint matching afterwards.
+Do not select replacement tiles before investigating why flooring cracked, lifted, sounds hollow or changed colour. Supply close-up and wide photographs with a ruler, the date the defect appeared and any evidence of leakage, settlement or movement joints. Ask for substrate and moisture assessment and a defined removal boundary before pricing; a local patch may be sufficient, or the cause may require wider reinstatement. Compare matching-material sourcing, waterproofing or levelling repairs, waste removal and skirting replacement, with concealed works photographed before closing. At handover check bond, level, walking stability and joint alignment, retaining before-and-after records.
 
 ## Electrical installations and lighting
 

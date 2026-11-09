@@ -1,10 +1,10 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { MessageCircle } from 'lucide-react';
 import { buildServiceQuoteWhatsappUrl } from '../lib/providerWhatsapp';
 
 // Reuses the existing WhatsApp quotation formatter and the approved customer-service number.
 // This is a pre-filled customer-support enquiry, never a claim that a contractor is available.
-export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أبوظبي', specialty, services = [] }) {
+export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أبوظبي', specialty, services = [], requestedService = '' }) {
   const en = locale === 'en';
   const [selected, setSelected] = useState(services[0]?.name || '');
   const [name, setName] = useState('');
@@ -12,6 +12,7 @@ export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أب�
   const [details, setDetails] = useState('');
   const [status, setStatus] = useState('');
   const formId = 'quote-' + specialty.slug;
+  useEffect(() => { if (requestedService && services.some(item=>item.name===requestedService)) setSelected(requestedService); }, [requestedService, services]);
   function submit(event) {
     event.preventDefault();
     if (!selected || !name.trim() || !phone.trim() || details.trim().length < 5) {

@@ -45,8 +45,10 @@ for (const route of [ar,en]){
   assert.match(route,/getSectorTaxonomy\(service.slug/);
 }
 for(const sector of Object.keys(inventory))assert.ok(helper.includes("'"+sector+"'"), 'missing server-only content import '+sector);
-assert.match(explorer, /<details className="mt-3" open=\{expanded\}/);
-assert.match(explorer, /<h2 className="text-sm font-extrabold/);
+assert.match(explorer, /aria-expanded=\{expanded\}/);
+assert.match(explorer, /hidden=\{!expanded\}/);
+assert.match(explorer, /specialtyRows\.map/);
+assert.match(explorer, /<h2 className="text-base font-extrabold/);
 assert.match(explorer, /serviceGuides\.specialties\.find/);
 assert.match(explorer, /<DirectorySectorQuoteForm locale=\{locale\}/);
 assert.match(explorer, /normalizeServiceName/);

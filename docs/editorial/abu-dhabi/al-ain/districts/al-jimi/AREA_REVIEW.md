@@ -444,3 +444,10 @@
 - [الهدم: العربية](./general-contracting/demolition-concrete/content-ar.md) · [English](./general-contracting/demolition-concrete/content-en.md) · [review](./general-contracting/demolition-concrete/review.md).
 - [الحدائق: العربية](./general-contracting/landscaping/content-ar.md) · [English](./general-contracting/landscaping/content-en.md) · [review](./general-contracting/landscaping/review.md). تصنيف الحدائق غير قابل للاختيار حاليًا، والمحتوى تحضيري فقط.
 - **أول نطاق لم يُفحص في هذا التسلسل:** `general-contracting/irrigation-networks/content-ar.md` ثم `content-en.md` و`review.md` (التحقق أولًا من اسم المجلد الفعلي)، ثم المظلات والأعمال الخارجية، ثم جميع تخصصات القطاعات التالية. ما زالت مطابقة 434 خدمة لكل لغة والتدقيق الشامل للتكرار والسلامة والتصنيفات غير مكتملة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## تحقق شبكات الري — 2026-11-09
+
+- قُرئت الملفات الثلاثة كاملة من الفرع: [العربية](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [review](./general-contracting/irrigation-networks/review.md). تطابق 7 عناوين عربية حرفيًا مع شجرة الشركات والمنشآت و7 مقابلات إنجليزية بالترتيب، مع اختلاف عملي بين نطاقات الخدمات واشتراطاتها وفحوصها.
+- التصنيف غير قابل للاختيار حاليًا؛ لم تُرصد ادعاءات بتفعيله أو ضمان مورد أو سعر أو موعد. لم يستدعِ الفحص تعديل نص الخدمة.
+- **أول تخصص تالٍ لم يُفحص:** `general-contracting/shades-outdoor-works` (تحقق من الاسم الفعلي للمجلد)، ثم تخصصات الاستشارات الهندسية والتصميم والديكور وبقية القطاعات؛ تبقى مراجعة التخصصات الخمسين والخدمات الـ434 في كل لغة `in_progress`.

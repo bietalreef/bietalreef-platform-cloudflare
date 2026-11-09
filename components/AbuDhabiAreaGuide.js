@@ -8,6 +8,9 @@ import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import regionEditorial from '../data/abuDhabiAreaEditorial.json';
 import {getArea} from '../data/siteTaxonomy';
 import {isNorthernEmirate,northernAreaEditorial,northernAreaSectorNote} from '../data/northernDirectoryContent';
+import chapterIndex from '../data/abuDhabiChapterIndex.json';
+import {EMIRATE_TOPIC_ANSWERS} from '../data/emirateTopicAnswers';
+import {emirateTopicTitle} from '../lib/emirateTopicTitle';
 import localContexts from '../data/abuDhabiAreaSectorContexts.json';
 
 import styles from './AbuDhabiAreaGuide.module.css';
@@ -20,6 +23,14 @@ function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate=nul
  if(areaSlug==='baniyas' && sector.slug==='general-contracting' && baniyasReadingHtml) return baniyasReadingHtml;
  const note=sectorGuidance[sector.slug]?.[locale];
  const localNote=isNorthernEmirate(emirate?.slug)?northernAreaSectorNote(emirate,area,sector.slug,locale):(localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'');
+ const localTopics=isNorthernEmirate(emirate?.slug)?(chapterIndex.items[sector.slug]||[]):[];
+ const localAnswers=EMIRATE_TOPIC_ANSWERS[sector.slug]||[];
+ const topicHtml=localTopics.map((topic,index)=>{
+  const name=emirateTopicTitle(locale==='en'?topic.enTitle:topic.arTitle,emirate.slug,locale)
+   .replace(/[0-9\u0660-\u0669]+/g,'').replace(/\s+/g,' ').trim();
+  const answer=localAnswers[index]?.[locale==='en'?1:0]||'';
+  return '<h4>'+safeText(name)+'</h4><p>'+safeText(answer)+'</p>';
+ }).join('');
  const opening=locale==='en'
    ?`<p>In ${safeText(entry.title.replace(/ 2026$/,''))}, choosing ${safeText(sector.name.en.toLowerCase())} starts with a clear description of the work and its location.</p>`
    :`<p>إذا كنت تبحث عن ${safeText(sector.name.ar)} في هذه المنطقة، فابدأ بوصف العمل المطلوب وموقعه وحالته والمعلومات المتاحة قبل طلب السعر.</p>`;
@@ -27,6 +38,7 @@ function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate=nul
   `<h3>${locale==='en'?'What to check before requesting a quote':'ما الذي تراجعه قبل طلب عرض السعر؟'}</h3><p>${safeText(note)}</p>`+
   `<h3>${locale==='en'?'Considerations in this particular area':'ما الذي يميز هذا العمل في المنطقة؟'}</h3><p>${safeText(localNote)}</p>`+
   `<p>${safeText(entry.focus)}</p>`+
+  (topicHtml?`<h3>${locale==='en'?'Detailed questions for this specialty':'محاور تفصيلية لاختيار الخدمة'}</h3>`+topicHtml:'')+
   `<p>${locale==='en'?'Confirm the business actually covers your site and read the quotation inclusions and exclusions before placing an order.':'تحقق من نطاق تغطية الشركة لموقعك الفعلي، وراجع البنود المشمولة والمستثناة قبل اعتماد العرض.'}</p>`;
 }
 export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],baniyasReadingHtml=null,emirate=null}){

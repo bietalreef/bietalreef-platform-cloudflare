@@ -45,7 +45,7 @@ assert.match(resolver,/getAbuDhabiSectorContent\(sectorSlug\)/);
 assert.match(resolver,/bodyAr: adaptServiceText/);
 assert.match(resolver,/bodyEn: adaptServiceText/);
 const meta=read('components/UaeDirectorySeo.js');
-assert.match(meta,/const hasSectorPath = !!emirate\?\.slug && !!service/);
+assert.match(meta,/const hasSectorPath = !!emirate\?\.slug && \(!!service \|\| !!area\)/);
 assert.match(meta,/\+ emirate\.slug/);
 assert.match(meta,/hrefLang="ar-AE"/);
 assert.match(meta,/hrefLang="en-AE"/);

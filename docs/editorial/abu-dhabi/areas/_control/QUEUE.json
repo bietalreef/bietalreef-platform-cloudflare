@@ -238,9 +238,9 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-09",
-      "review_note": "Originality rewrite in progress: 21/434 services independently rewritten in AR and EN (14 building/villa construction, 7 restoration/refurbishment). Remaining 413: general-contracting 35, other seven sectors 378. Re-fetched both GitHub content files and verified 56 headings each, 7 restoration headings and new body text. Next: general-contracting demolition and concrete works, first service تنفيذ أعمال الهدم. Structural coverage is not publication approval.",
-      "editorial_rewritten_service_entries": 21,
-      "editorial_remaining_service_entries": 413
+      "review_note": "Independently rewritten 28/434 AR and EN: 14 building/villa, 7 restoration, 7 demolition/concrete. Re-fetched both sector files; 56 headings in each and revised demolition paragraphs verified. Next: general-contracting garden landscaping, first service تصميم الحدائق المنزلية. Remaining 28 general-contracting and 378 other sectors; no publication approval.",
+      "editorial_rewritten_service_entries": 28,
+      "editorial_remaining_service_entries": 406
     },
     {
       "sequence": 4,

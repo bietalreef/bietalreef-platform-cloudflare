@@ -80,7 +80,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views.
 
-**Scope and exclusions:** The principal deliverable is a renders with agreed views and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+**Scope and exclusions:** The principal deliverable is a set of rendered views with the agreed camera angles, image resolution and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
 **Comparing quotes and agreeing terms:** Specify render viewpoints, resolution, revision rounds and source-file inclusion; check drawing fidelity rather than comparing image fees alone.
 

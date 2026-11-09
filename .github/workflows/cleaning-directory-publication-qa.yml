@@ -24,6 +24,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - name: Provider mobile landing and directory SEO regression
         run: node --test scripts/provider-mobile-landing.test.cjs
+      - name: Kawkab shared company contact regression
+        run: node --test scripts/kawkab-presence.test.cjs
       - name: Publication contract
         run: node --test scripts/cleaning-directory-publication.test.cjs
       - name: Consent and Google tag regression

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import {directoryServiceTitle,directoryServiceCopy} from '../lib/directoryServiceEditorial';
 import Link from 'next/link';
@@ -27,6 +27,14 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
   const assets=visualData[normalized]?.items||[];
   const [requestedServices, setRequestedServices] = useState('');
   const [expandedSpecialty, setExpandedSpecialty] = useState(null);
+  // Move the viewport to the full-width reading panel once it has opened.
+  useEffect(()=>{
+    if(!expandedSpecialty)return;
+    const frame=requestAnimationFrame(()=>{
+      document.getElementById('specialty-services-'+expandedSpecialty)?.scrollIntoView({behavior:'smooth',block:'start'});
+    });
+    return ()=>cancelAnimationFrame(frame);
+  },[expandedSpecialty]);
   if(items===undefined)return null;
   const serviceList=(items||[]).flatMap(group=>group.services.map(service=>({name:directoryServiceTitle(normalized,service.name,place,locale),url:'https://bietalreef.ae'+pagePath+'#service-'+group.slug+'-'+service.slug})));
   const serviceSchema=pagePath && serviceList.length ? {'@context':'https://schema.org','@type':'ItemList',itemListElement:serviceList.map((service,index)=>({'@type':'ListItem',position:index+1,...service}))}:null;

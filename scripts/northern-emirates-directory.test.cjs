@@ -31,7 +31,7 @@ assert.ok(emirateCard.includes('hideNumbers'));
 assert.ok(emirateCard.includes("hideNumbers?'list-none space-y-4'"));
 const head=read('components/UaeDirectorySeo.js');
 assert.ok(head.includes('emirate.slug'));
-assert.ok(head.includes("hasSectorPath = Boolean(emirate && service)"));
+assert.ok(head.includes('hasSectorPath = !!emirate?.slug && (!!service || !!area)'));
 const routeFiles=[
  ['pages/uae/[activity]/[emirate].js','emirate','ar'],
  ['pages/en/uae/[emirate]/[area].js','emirate','en'],
@@ -46,7 +46,7 @@ for(const [p,scope,locale] of routeFiles){
  assert.ok(code.includes('getSectorTaxonomy('),p+' missing approved taxonomy');
  assert.ok(code.includes('<SectorTaxonomyExplorer'),p+' missing service list');
  assert.ok(code.includes('<DirectorySectorQuoteForm'),p+' missing WhatsApp request form');
- if(scope==='district')assert.ok(code.includes("quotePlacement={northern?'external':'inline'}"),p+' missing one location-aware quote form');
+ if(scope==='district')assert.ok(code.includes("quotePlacement={regionArea||northern?'external':'inline'}"),p+' missing one location-aware quote form');
 }
 const sitemap=read('pages/sitemap.xml.js');
 for(const slug of names)assert.ok(sitemap.includes("'"+slug+"'"),slug+' not in sitemap');

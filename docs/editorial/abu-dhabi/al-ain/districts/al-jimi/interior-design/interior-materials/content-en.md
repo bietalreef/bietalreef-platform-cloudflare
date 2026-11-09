@@ -4,7 +4,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 1. Majlis design
 
-**When it is useful:** guest entrance, seating orientation and privacy. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when the majlis layout obstructs guest movement, leaves seating exposed to the entrance or cannot accommodate the usual gathering. State the expected guest count, hospitality arrangements, privacy needs and furniture to retain.
 
 **Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations.
 
@@ -212,7 +212,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
 
-**Scope and exclusions:** The principal deliverable is a item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
+**Scope and exclusions:** The principal deliverable is an item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted.
 
 **Comparing quotes and agreeing terms:** Compare furniture sizes, frame durability, fabrics, warranty and delivery; record approved substitutes if selected items are unavailable.
 
@@ -220,7 +220,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 19. Lighting selection
 
-**When it is useful:** placing light by task without unwanted glare. Specify physical samples, intended locations and acceptable alternative references.
+**When it is useful:** when worktops, seating and circulation need different lighting levels, or fittings cause glare on screens and reflective finishes. Specify physical samples, intended locations and acceptable alternative references.
 
 **Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight.
 
@@ -232,7 +232,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 20. Materials mood board
 
-**When it is useful:** combining compatible physical finishes rather than screen images. Identify rooms, drawing references and responsibility for approving and revising finish codes.
+**When it is useful:** when timber, stone, fabric and paint samples look compatible on screen but may clash under the room's actual lighting. Identify where each finish will be used, collect physical samples and name the person responsible for approving alternatives.
 
 **Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known.
 
@@ -244,7 +244,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 21. Finishes schedule
 
-**When it is useful:** preventing specification conflicts between drawings and purchases. Clarify whether the commission concerns a new layout or alterations, and identify elements to retain.
+**When it is useful:** when finish codes, samples and drawings disagree, causing incorrect purchasing or installation. Gather the latest approved drawings, identify each room and agree who will revise the schedule after any material substitution.
 
 **Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples.
 

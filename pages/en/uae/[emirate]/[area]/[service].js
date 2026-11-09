@@ -55,7 +55,7 @@ export default function EnglishLocalServicePage({ model, geographicServiceCollec
   const title = seo?.heading || `${service.nameEn} in ${area.nameEn}`;
   const description = seo?.description || `Explore ${service.nameEn.toLowerCase()} services in ${area.nameEn}, ${emirate.nameEn}.`;
   const localNote = northern?seo?.localNote:emirate.slug==='abu-dhabi'?areaContexts.contexts[area.slug]?.[service.slug]?.['en']:null;
-  const servicePlace=northern?area.nameEn+' , '+emirate.nameEn:area.nameEn;
+  const servicePlace=northern?area.nameEn+', '+emirate.nameEn:area.nameEn;
   const sectorImage = seo ? UAE_SECTOR_ASSETS[service.slug]?.desktop : undefined;
   const faqItems = [
     [`How do I find ${service.nameEn} in ${area.nameEn}?`, 'Choose the location and service, then send the project details so the request can be routed correctly.'],

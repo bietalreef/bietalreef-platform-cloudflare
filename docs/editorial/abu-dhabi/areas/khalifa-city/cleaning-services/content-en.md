@@ -40,63 +40,63 @@ A recurring cleaning contract needs measurable tasks, not just a promise of 'com
 
 ### 8. Steam sofa cleaning
 
-Identify upholstery fibre, seat count, stains, odours and cleaning-care labels. Compare spot testing, extraction and drying, not a guarantee of stain removal; inspect when dry.
+Before arranging steam upholstery cleaning, photograph the care label and stains, count the seats and identify removable cushions. “Steam” is not a sufficient method specification: some fabrics cannot tolerate heat or excess moisture and need low-moisture treatment. Ask for a hidden colourfastness test and clarify whether arms, backs, cushions and odour treatment are included. Compare extraction and drying arrangements, not merely spraying time. Inspect the sofa once fully dry for rings, dye transfer and lingering damp odours.
 
 ### 9. Rug cleaning
 
-Measure each rug, identify fibre/dyes and document frayed edges or prior spills. Compare wet versus dry processes, collection and drying; check pile, colour and dimensions.
+For loose rugs, supply the length and width of each piece plus photographs of its face, backing, edges and any care label. Handmade wool or silk rugs require a different assessment from synthetic rugs. Describe spills, pet contamination and whether collection and delivery are required. Compare dye testing, washing, rinsing, drying method and liability during transport. At return, count the rugs and check dimensions, edges, colour stability and dryness through the backing.
 
 ### 10. Fitted carpet cleaning
 
-Measure fitted carpet, movable furniture and high-traffic lanes. Compare pre-vacuuming, spot treatment, extraction and drying plan; inspect residual dampness and odours.
+For fitted carpet, measure the floor area and describe pile type, heavy furniture, stains and high-traffic routes. Clarify whether moving and replacing desks or beds is included and when the room can remain unused for drying. Before extraction, the cleaner should test the solution and assess the backing or adhesive, particularly after previous water damage. Compare quotes on actual area, spot treatment, extraction and ventilation. Inspect seams and corners, and do not put furniture back onto damp carpet.
 
 ### 11. Arabic majlis cleaning
 
-Record majlis seating lengths, foam thickness, fabric types and nearby curtains. Compare spot work with full extraction and floor protection; inspect fully dried cushions and finish.
+For an Arabic majlis, measure seating runs and count backrests, bolsters, loose cushions and floor coverings; note removable covers. Embroidered or velvet fabrics may need a different process from synthetic upholstery, so request a discreet test and check care instructions. Price seating, rugs, curtains and old-stain treatment separately unless expressly bundled. Protect timber and flooring from overspray. Inspect the uniformity of seats, backs and cushions after drying before using the majlis again.
 
 ### 12. Mattress cleaning
 
-Specify mattress dimensions, surfaces, fabric and historic moisture or stains. Compare vacuuming, targeted spotting, restrained moisture and drying; avoid promises to eliminate all allergens.
+A mattress-cleaning request should state size, thickness, surface material, stain photographs and whether one or both sides can be used. Old urine marks, mould or water penetration may require a different assessment; wet cleaning may be unsuitable if the inner layers are saturated. Compare vacuuming, targeted treatment, moisture control and ventilation time. Do not accept unsupported promises to remove every allergen or microorganism. Allow the mattress to dry completely before fitting sheets or a protector.
 
 ### 13. Curtain cleaning
 
-Measure curtain drop, lining and weight and check care labels and removability. Compare on-site and off-site cleaning against fabric requirements; inspect pleats, colours and tracks.
+Before curtain cleaning, record the number of panels, drop, width, fabric, lining and hanging system; photograph care labels where available. Specify whether removal and rehanging or in-place cleaning is required. Heavy or lined curtains may shrink or suffer damage under unsuitable washing. Compare on-site cleaning with off-site laundering, including responsibility for hardware, pleats and stain treatment. On return, check track movement, hooks, matching drops, colour and shrinkage.
 
 ### 14. Upholstery disinfection
 
-Before claiming disinfection, define target organisms, textile type and label-approved product. Compare pre-cleaning, contact time and fabric compatibility; avoid unsupported complete-sterilisation claims.
+“Upholstery sanitisation” is not synonymous with cleaning or perfuming. State the reason for disinfection, fabric type and any known contamination, then request the product name, suitability for porous materials, required contact time and ventilation instructions. Neither spraying nor steam automatically proves medical-grade sterilisation; laundering removable covers according to their labels may be more suitable. Compare pre-cleaning, material compatibility and safety for children and pets. Obtain a treatment record rather than a blanket germ-elimination guarantee.
 
 ## Façade and site cleaning
 
 ### 15. Glass façade cleaning
 
-Measure glazing area, height, access and direct sunlight exposure. Compare purified-water methods, high-level access and fall protection; inspect streaks and gaskets.
+For glass façade cleaning, provide approximate height, panel count, area, glass type and possible access from the ground or roof. Ground-floor glass differs from rope-access or platform work; quotations must explain access arrangements, fall protection and pedestrian segregation. Ask for a compatibility test on coated glass, seals and gaskets and state whether frames are included. Inspect from several lighting angles for streaks and residue and confirm that seals have not been damaged.
 
 ### 16. Building exterior cleaning
 
-Identify painted, stone or aluminium façade and stains, joints and leak points. Compare trial patches, water pressure and chemicals; inspect for flaking or water ingress.
+Stone, painted and aluminium façades tolerate pressure and chemicals differently. Provide close photographs of stains, cracks and joints together with façade area, height and nearby electrical fittings. Require a small-area trial and a water-control plan to prevent ingress through joints or damage to cladding. Compare access equipment, protection and material-specific treatment; distinguish cleaning from façade repairs. Inspect colour change, peeling and joints after drying rather than judging only a wet façade.
 
 ### 17. Car park cleaning
 
-Record parking area, oil marks, tyre residue, drains and vehicle flow. Compare degreasing, sweeping and planned closure windows; inspect dry floors and clear drains.
+For car-park cleaning, specify floor area, levels, surface type, oil spots, tyre marks and drainage locations. Explain whether some parking bays must stay operational and mark entry and exit routes on a simple plan. Compare sweeping, degreasing, washing, water recovery and pedestrian or vehicle warnings. Do not assume contaminated wash water can enter any drain. At handover check walking areas are dry, non-slip and free of waste obstructing outlets.
 
 ### 18. Industrial site cleaning
 
-Classify industrial soil, equipment and areas off-limits due to electrical or hazardous materials. Compare controlled cleaning and specialist waste handling; document cleaned zones without claiming unknown hazards were removed.
+Industrial-site cleaning begins with the facility's activities, machinery, operating zones and materials present, not a choice of aggressive detergent. Provide a zone map, electrical isolation points, shutdown windows and known slip or hazardous-substance risks. Agree the cleaning team's boundaries and who handles specialist waste; unknown chemicals are not automatically included. Compare safe work plans, protective equipment, supervision and appropriate waste arrangements. Receive a completed-zone log and a separate list of unresolved hazards.
 
 ## Water tank and pool cleaning
 
 ### 19. Water tank cleaning
 
-Specify tank type, capacity, location, water shutdown and sediment condition. Compare drainage, sludge removal, scrubbing, rinsing and safe entry; inspect photographs and closure.
+Before water-tank cleaning, provide approximate capacity, tank material, location, access openings, sediment condition and the last known cleaning date; specify whether water serves household use. Agree on water shutdown, drainage and protection of pumps and connections. Entry into an enclosed tank requires appropriate confined-space risk assessment, not an assumption that staff can enter. Compare sediment removal, scrubbing, rinsing and photographic records. Check covers, openings and connections at handover; tank cleanliness is distinct from laboratory verification of water quality.
 
 ### 20. Water tank disinfection
 
-Confirm potable or other water use, product, dose and labelled contact time. Compare pre-cleaning, rinsing, refill and suitable testing; do not assert water safety without evidence.
+Tank disinfection follows cleaning; it does not replace sediment removal. State tank capacity and water use and ask a competent provider to specify an appropriate disinfectant, concentration, contact time and rinsing procedure in accordance with product instructions and applicable requirements. Clarify when the supply can restart and who arranges any required testing. Compare treatment stages, chemical and dose records and documentation. Obtain a work report, and never infer potable-water safety from appearance or smell alone.
 
 ### 21. Swimming pool cleaning
 
-Record pool dimensions, lining, filters, circulation equipment and water clarity. Compare floor/wall cleaning, skimmers and water balance as separate tasks; inspect clarity and recorded readings.
+Pool cleaning requires approximate length, width and depth, finish type, water condition, filter and pump status and usage times. Distinguish leaf and floor debris removal from algae treatment or a full drain-and-clean service. Compare wall, floor, skimmer and basket cleaning, circulation checks and water-balance measurements where water treatment is included. Agree responsibility for chemicals and any no-swimming interval after treatment. Inspect finishes and equipment and review recorded readings; clear water alone does not establish safety.
 
 ## Pest management
 

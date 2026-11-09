@@ -1,3 +1,4 @@
+import {useState} from 'react';
 import DirectoryContextCompany from '../../../../components/provider/DirectoryContextCompany';
 import { getCompanyStaticContextProps } from '../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../components/provider/RehabPresencePage';
@@ -30,6 +31,7 @@ import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeDirectorySeo from '../../../../components/UaeDirectorySeo';
 import SectorVisualGuide from '../../../../components/SectorVisualGuide';
 import SectorTaxonomyExplorer from '../../../../components/SectorTaxonomyExplorer';
+import DirectorySectorQuoteForm from '../../../../components/DirectorySectorQuoteForm';
 import {getSectorTaxonomy} from '../../../../lib/sectorTaxonomyExplorer';
 import {getAbuDhabiSectorContent} from '../../../../lib/abuDhabiSectorContent';
 import AbuDhabiAreaGuide, {isAbuDhabiDirectoryArea} from '../../../../components/AbuDhabiAreaGuide';
@@ -39,6 +41,7 @@ import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCatego
 import { getEnglishUaeDirectoryCards } from '../../../../lib/platformDirectoryCards';
 
 function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, geographicOffers, sectorTaxonomy, sectorGuides }) {
+  const [requestedService,setRequestedService]=useState('');
   const seo = directorySectorSeo(service.slug, 'en', emirate);
   const geoSector = ['abu-dhabi','dubai'].includes(emirate.slug) && !!seo;
   const title = seo?.heading || `${service.nameEn} in ${emirate.nameEn}`;
@@ -59,7 +62,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, ge
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={emirate.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug} serviceGuides={sectorGuides}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={emirate.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" showEditorial excludeSpecialties={sectorTaxonomy}/>}
           {emirate.slug==='abu-dhabi' && sectorEditorial['en']?.[service.slug] && <section className="mx-auto max-w-6xl px-4 py-6"><details className="rounded-2xl border border-slate-200 bg-white p-5 text-slate-700"><summary className="cursor-pointer text-lg font-bold text-[#193b53]">{sectorEditorial['en'][service.slug].title}</summary><div className="mt-4 space-y-4 leading-8"><EditorialBody html={sectorEditorial['en'][service.slug].html}/></div></details></section>}
@@ -74,6 +77,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, ge
           </SeoContent>}
           {!seo && <FAQ items={faqItems} title={`Frequently asked questions about ${title}`} />}
           <UaeSmartFooter locale="en" pageType="emirateService" emirate={emirate} service={service} />
+          {geoSector && <DirectorySectorQuoteForm locale="en" place={emirate.nameEn} groups={sectorTaxonomy||[]} requestedService={requestedService} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug}/>}
         </main>
       </EnglishLayout>
     </>

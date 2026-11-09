@@ -218,31 +218,31 @@ List failed fittings by room and model, photograph flickering, colour changes or
 
 ### 50. Water supply network installation
 
-Count kitchens, bathrooms, tanks and appliances; map supply routes, target pressure and hot/cold lines. Compare pipe material, diameters, fittings and pressure testing; inspect a flushed, leak-free system before concealment.
+For a new villa or apartment water supply, begin with a marked plan of heaters, tanks, kitchens, bathrooms, isolation valves and service access. Photograph pipe routes before closing walls, and size lines for the intended demand rather than guessing. Ask which pipe system and jointing method will be used, how hot-water lines will be insulated, and how penetrations will be protected. Compare quotes that include valves, supports, flushing, pressure testing and reinstatement. Obtain test records, concealed-work photographs and an as-built route drawing before handover.
 
 ### 51. Drainage network installation
 
-Provide drainage plans, levels, inspection chambers, fixtures and vent positions; pipe length alone omits critical falls. Compare clean-outs, expansion details and tests; witness flow without back-up or foul odour.
+A new drainage system needs finished-floor levels, fixture positions, inspection chambers and existing connection points. A per-metre quote is inadequate unless it specifies falls, clean-outs and ventilation. Request a route drawing with pipe sizes and slab-penetration details, checking clashes with structural and electrical work. Compare excavation, backfilling, waterproofing and floor reinstatement as explicit items. Inspect joints and witness discharge from the most distant fixture, recording standing water or backflow before accepting the work.
 
 ### 52. Sanitary fixture installation
 
-Identify basin, WC and mixer models, dimensions, fixing points and heights before wall tiling closes. Compare connection kits, seals and drilling; test flow, drainage, watertight joints and secure mounting.
+Before fitting a basin, wall-hung WC or shower mixer, send the exact model and dimension sheet plus a photograph of the installation location, especially where pipe outlets are already concealed. A wall-hung WC requires different support from a vanity basin, and a model change can force tile cutting or outlet relocation. Compare quotations covering connection kits, isolation valves, gaskets, sealant and alignment, not labour alone. Operate each fitting repeatedly at handover and inspect beneath it and around fixings for leaks.
 
 ### 53. Water tank installation
 
-Specify tank capacity, material, location, base loads, wash-out access, vent, overflow and drain. Compare sun protection, access and fixing arrangements; test filling, float controls, overflow and leakage.
+Select a water tank by actual demand, installation position, water use and access for opening and cleaning, not nominal capacity alone. Photograph and measure the base, and record inlet, outlet and overflow elevations; elevated supports may require specialist load assessment. Compare tank material, product suitability, float assemblies, ventilation and exposure protection. At handover check stability and lid access, then observe a complete fill cycle, overflow function and watertight connections.
 
 ### 54. Water pump installation
 
-Report storey count, outlet pressures, peak demand and supply tank details. Request a pump curve, dry-run protection and vibration/noise controls; commission stable delivery without leaks.
+If upper-floor pressure is weak, measure performance during use and count simultaneous outlets before ordering a larger pump: a clogged strainer or undersized line may be responsible. Provide approximate lift, tank capacity and connection photographs. Ask for selection against the required flow and head, supported by a pump performance curve. Compare dry-run protection, vibration isolation, electrical safeguards and service access. Commission the system at multiple outlets, recording pressure stability, leaks and noise.
 
 ### 55. Pipework rehabilitation
 
-Photograph corrosion, leaks and low pressure, identifying retained sections and access routes. Compare selective replacement, waste removal and reinstatement; pressure-test the connected system rather than only new pipe sections.
+Rehabilitating old pipework does not automatically mean replacing every line. Map leaks, corrosion and recurring pressure loss, and check compatibility where new pipework meets retained sections. Request photographs of proposed openings and a drawing identifying what remains, with tile and plaster reinstatement priced separately. Compare temporary water arrangements and protection of occupied spaces. Pressure-test the whole connected network, including old-to-new joints, before concealment and retain route photographs.
 
 ### 56. Drainage maintenance
 
-Map repeat blockages, drain smells, cleaning history and chamber locations. Compare mechanical clearing and camera inspection where needed instead of indiscriminate chemicals; verify flow and document the obstruction.
+For recurring drain blockages, record which fixtures are affected and whether water backs up through another outlet. Photograph accessible inspection chambers; grease accumulation, trapped objects and inadequate falls need different remedies. Require diagnosis before aggressive chemical treatment, and clarify whether the quote covers mechanical clearing, camera inspection or repair of damaged pipework. Compare attendance, waste removal and retesting. At handover run several fixtures together, check for backflow and document the obstruction found.
 
 ### 57. Water leak investigation
 

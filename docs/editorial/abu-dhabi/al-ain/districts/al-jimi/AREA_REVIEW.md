@@ -495,3 +495,8 @@
 
 - الحالة `in_progress`؛ تم تصحيح **14 وصف حاجة عربيًا و12 إنجليزيًا** في [التصميم الداخلي والمواد بالعربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md) بعد اكتشاف انتقال مدخلات خدمات مختلفة بين الفقرات؛ راجع [تقرير التخصص](./interior-design/interior-materials/review.md). أُعيدت قراءة ملفي المحتوى من GitHub والتحقق من حفظهما.
 - **أول نقص دقيق:** تدقيق `interior-design/interior-materials/content-ar.md` و`content-en.md` من فقرة «النطاق والاستثناءات» للخدمة الأولى حتى الخدمة 21، وتصحيح الإنجليزية في مخرجات الخدمات؛ ثم فحص `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، وجرد ومطابقة 50 تخصصًا و434 خدمة بكل لغة، وفحص التصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+## متابعة تدقيق موضعي — 2026-11-09
+
+- **الحالة: `in_progress`**. صُححت فقرتا دواعي الحاجة بالعربية وأربع فقرات بالإنجليزية وخطأ نحوي إنجليزي في تخصص [التصميم الداخلي والمواد](./interior-design/interior-materials/review.md)، خصوصًا لوحة المواد وجدول التشطيبات والمجلس والإضاءة. حُفظ [العربي](./interior-design/interior-materials/content-ar.md) و[الإنجليزي](./interior-design/interior-materials/content-en.md) وسجل التخصص، وأُعيدت قراءة الملفات الثلاثة من GitHub للتحقق.
+- **النواقص الدقيقة التالية:** مراجعة النطاق والاستثناءات والاستلام وطلب السعر للخدمات 1–21 في `interior-design/interior-materials`؛ ثم فحص التخصصات المتبقية في `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، والتأكد من مطابقة 50 تخصصًا و434 خدمة بكل لغة مع الشجرة وحالات التصنيف. لا يُعد أي تخصص أو منطقة معتمدًا لمجرد اكتمال العناوين.

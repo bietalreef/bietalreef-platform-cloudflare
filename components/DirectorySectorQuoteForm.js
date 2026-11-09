@@ -4,7 +4,7 @@ import { buildServiceQuoteWhatsappUrl } from '../lib/providerWhatsapp';
 
 // Reuses the existing WhatsApp quotation formatter and the approved customer-service number.
 // This is a pre-filled customer-support enquiry, never a claim that a contractor is available.
-export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أبوظبي', specialty, services = [], requestedService = '' }) {
+export default function DirectorySectorQuoteForm({ sector = 'general-contracting', locale = 'ar', place = 'أبوظبي', specialty, services = [], requestedService = '' }) {
   const en = locale === 'en';
   const [selected, setSelected] = useState(services[0]?.name || '');
   const [name, setName] = useState('');
@@ -24,7 +24,7 @@ export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أب�
       locale,
       providerName: en ? 'Biet Al Reef customer service' : 'خدمة عملاء بيت الريف',
       serviceName: selected,
-      pagePath: (en ? '/en' : '') + '/uae/abu-dhabi/general-contracting',
+      pagePath: (en ? '/en' : '') + '/uae/abu-dhabi/' + sector,
       customerName: name,
       customerPhone: phone,
       location: place,
@@ -40,7 +40,7 @@ export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أب�
   const field = 'mt-1 block w-full rounded-xl border border-slate-300 bg-white px-3 py-2.5 text-sm text-slate-900 outline-none focus:border-sky-600 focus:ring-2 focus:ring-sky-100';
   return <div id={formId} className="mt-5 scroll-mt-28 border-t border-slate-200 pt-4">
     <h4 className="text-base font-extrabold text-[#193b53]">{en ? 'Request a quotation through Biet Al Reef' : 'اطلب عرض سعر عبر خدمة عملاء بيت الريف'}</h4>
-    <p className="mt-1 text-xs leading-6 text-slate-600">{en ? 'Choose the exact service. Your details will open in customer-service WhatsApp; sending remains your choice. Provider availability is not guaranteed.' : 'اختر الخدمة وحدّد تفاصيل مشروعك. تُجهّز رسالة إلى واتساب خدمة العملاء، ولا يُفترض وجود مقاول متاح أو سعر محدد.'}</p>
+    <p className="mt-1 text-xs leading-6 text-slate-600">{en ? 'Choose the exact service. Your details will open in customer-service WhatsApp; sending remains your choice. Provider availability is not guaranteed.' : 'اختر الخدمة وحدّد تفاصيل مشروعك. تُجهّز رسالة إلى واتساب خدمة العملاء، ولا يُفترض توفر شركة أو مزود خدمة أو سعر محدد.'}</p>
     <form onSubmit={submit} className="mt-3 grid gap-3" aria-label={en ? 'Customer-service quotation request' : 'نموذج طلب عرض سعر لخدمة العملاء'}>
       <label className="text-xs font-bold text-slate-800">{en ? 'Service' : 'الخدمة'}
         <select className={field} value={selected} onChange={e=>setSelected(e.target.value)} required>

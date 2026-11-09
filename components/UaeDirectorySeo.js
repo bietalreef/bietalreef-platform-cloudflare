@@ -4,7 +4,7 @@ import { getSectorCardImage } from '../lib/sectorCards';
 
 const imageByEmirate = Object.fromEntries(UAE_ATLAS_IMAGES.emirates.map((item) => [item.slug, item.image]));
 
-export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, description, path, alternatePath, emirate, service, image }) {
+export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, description, path, alternatePath, emirate, area = null, service, image }) {
   const isEn = locale === 'en';
   const canonical = `https://bietalreef.ae${path}`;
   const alternate = `https://bietalreef.ae${alternatePath}`;
@@ -13,14 +13,15 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
   const imageWidth = image ? 1440 : service ? 1536 : 1600;
   const imageHeight = image ? 810 : service ? 864 : 1000;
   const fullTitle = seoTitle || `${title} | ${isEn ? 'Biet Al Reef' : 'بيت الريف'}`;
-  const isAbuDhabiContracting = emirate?.slug === 'abu-dhabi' && service?.slug === 'general-contracting';
-  const breadcrumbData = isAbuDhabiContracting ? {
+  const hasSectorPath = emirate?.slug === 'abu-dhabi' && !!service;
+  const breadcrumbData = hasSectorPath ? {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: isEn ? 'UAE directory' : 'دليل الإمارات', item: 'https://bietalreef.ae' + (isEn ? '/en/uae' : '/uae') },
       { '@type': 'ListItem', position: 2, name: isEn ? 'Abu Dhabi' : 'أبوظبي', item: 'https://bietalreef.ae' + (isEn ? '/en/uae/abu-dhabi' : '/uae/abu-dhabi') },
-      { '@type': 'ListItem', position: 3, name: title, item: canonical },
+      ...(area ? [{ '@type': 'ListItem', position: 3, name: isEn ? area.nameEn : area.nameAr, item: 'https://bietalreef.ae' + (isEn ? '/en' : '') + '/uae/abu-dhabi/' + area.slug }] : []),
+      { '@type': 'ListItem', position: area ? 4 : 3, name: title, item: canonical },
     ],
   } : null;
 
@@ -33,6 +34,7 @@ export default function UaeDirectorySeo({ locale = 'ar', title, seoTitle, descri
       <link rel="canonical" href={canonical} />
       <link rel="alternate" hrefLang="ar-AE" href={isEn ? alternate : canonical} />
       <link rel="alternate" hrefLang="en-AE" href={isEn ? canonical : alternate} />
+      <link rel="alternate" hrefLang="x-default" href={isEn ? alternate : canonical} />
       <meta property="og:title" content={fullTitle} />
       <meta property="og:description" content={description} />
       <meta property="og:type" content="website" />

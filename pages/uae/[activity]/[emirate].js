@@ -68,7 +68,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCar
         <main>
           <UaeDirectoryHero locale="ar" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={emirate.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr} pagePath={'/uae/'+emirateSlug+'/'+service.slug}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={emirate.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" showEditorial excludeSpecialties={sectorTaxonomy}/>}
           {emirate.slug==='dubai' && <DubaiDecisionGuide sector={service.slug}/>}

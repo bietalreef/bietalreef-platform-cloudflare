@@ -58,7 +58,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, ge
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={emirate.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={emirate.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" showEditorial excludeSpecialties={sectorTaxonomy}/>}
           {emirate.slug==='abu-dhabi' && sectorEditorial['en']?.[service.slug] && <section className="mx-auto max-w-6xl px-4 py-6"><details className="rounded-2xl border border-slate-200 bg-white p-5 text-slate-700"><summary className="cursor-pointer text-lg font-bold text-[#193b53]">{sectorEditorial['en'][service.slug].title}</summary><div className="mt-4 space-y-4 leading-8"><EditorialBody html={sectorEditorial['en'][service.slug].html}/></div></details></section>}

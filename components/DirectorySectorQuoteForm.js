@@ -4,7 +4,7 @@ import { buildServiceQuoteWhatsappUrl } from '../lib/providerWhatsapp';
 
 // Reuses the existing WhatsApp quotation formatter and the approved customer-service number.
 // This is a pre-filled customer-support enquiry, never a claim that a contractor is available.
-export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أبوظبي', specialty, services = [], requestedService = '' }) {
+export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أبوظبي', specialty, services = [], requestedService = '', pagePath = '' }) {
   const en = locale === 'en';
   const [selected, setSelected] = useState(services[0]?.name || '');
   const [name, setName] = useState('');
@@ -24,7 +24,7 @@ export default function DirectorySectorQuoteForm({ locale = 'ar', place = 'أب�
       locale,
       providerName: en ? 'Biet Al Reef customer service' : 'خدمة عملاء بيت الريف',
       serviceName: selected,
-      pagePath: (en ? '/en' : '') + '/uae/abu-dhabi/general-contracting',
+      pagePath: pagePath || window.location.pathname,
       customerName: name,
       customerPhone: phone,
       location: place,

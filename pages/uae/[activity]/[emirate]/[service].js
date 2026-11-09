@@ -58,7 +58,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
 
   return (
     <>
-      <UaeDirectorySeo locale="ar" title={title} seoTitle={seo?.title} description={description} image={sectorImage} path={`/uae/${emirateSlug}/${areaSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}/${service.slug}`} emirate={emirate} service={service} />
+      <UaeDirectorySeo locale="ar" title={title} seoTitle={seo?.title} description={description} image={sectorImage} path={`/uae/${emirateSlug}/${areaSlug}/${service.slug}`} alternatePath={`/en/uae/${emirateSlug}/${areaSlug}/${service.slug}`} emirate={emirate} area={area} service={service} />
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900 font-sans">
         <Navbar pageTitle={title} />
         {!geoSector && emirate.slug !== 'abu-dhabi' && <SecondaryHeader backUrl={`/uae/${emirateSlug}/${areaSlug}`} backLabel={`العودة إلى ${area.nameAr}`} />}
@@ -66,7 +66,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
           <UaeDirectoryHero locale="ar" title={title} description={description} image={sectorImage} emirate={emirate} area={area} service={service} cleanNavigation />
           {!geoSector && <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`عن خدمة ${service.nameAr} في ${area.nameAr}`} description={`${service.descAr} تعرض الصفحة هذا التخصص ضمن موقعه الصحيح، مع مسار واضح للعودة إلى المنطقة والإمارة أو الانتقال إلى الطلب.`} />}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={area.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} rehab={rehab} />}
-          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={area.nameAr}/>}
+          {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={area.nameAr} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={area.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" excludeSpecialties={sectorTaxonomy}/>}
           <UaeDirectoryWeyaakCard locale="ar" title={`اسأل وياك عن ${service.nameAr} في ${area.nameAr}`} description="أرسل تفاصيل الخدمة والمقاسات أو الصور المتاحة، وسيساعدك وياك في ترتيب الطلب وتوجيهه حسب المكان والتخصص." />

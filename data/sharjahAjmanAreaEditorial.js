@@ -214,7 +214,7 @@ export function areaSectorEditorial(emirate,area,sector,locale='ar'){
   const emirateName=en?emirate.nameEn:emirate.nameAr;
   const sectorName=en?sector.nameEn:sector.nameAr;
   const heading=en?sectorName+' in '+name+', '+emirateName:sectorName+' في '+name+'، '+emirateName;
-  const description=areaText[0].slice(0,en?146:145).replace(/\\s+\\S*$/,'')+'…';
+  const description=areaText[0].slice(0,en?146:145).replace(/\s+\S*$/,'')+'…';
   return {
     heading,title:heading+(en?' | Biet Al Reef':' | بيت الريف'),description,
     context:[areaText[0],...sectorText.context.slice(0,1),areaText[1]],

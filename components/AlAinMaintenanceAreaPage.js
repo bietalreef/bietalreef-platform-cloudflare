@@ -1,6 +1,8 @@
+import {useState} from 'react';
 import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import GeographicServiceCards from './GeographicServiceCards';
 import SectorTaxonomyExplorer from './SectorTaxonomyExplorer';
+import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
 import DirectoryCustomerSupportCard from './DirectoryCustomerSupportCard';
 import Head from 'next/head';
 import Link from 'next/link';
@@ -14,6 +16,8 @@ import {KAWKAB_AL_AIN_AREAS,kawkabAreaServicePath,kawkabAreaPath,KAWKAB_SPECIALT
 
 export default function AlAinMaintenanceAreaPage({model}) {
  const {locale,area,providers,service:selectedSlug}=model,en=locale==='en',name=en?area.en:area.ar,pre=en?'/en':'';
+ const [requestedService,setRequestedService]=useState('');
+ const servicePlace=en?name+', Al Ain':name+'، العين';
  const selectedService=selectedSlug?KAWKAB_SPECIALTIES.find(item=>item.id===selectedSlug):null;
  const technical=selectedSlug?KAWKAB_SERVICE_DETAILS[selectedSlug]?.[locale]:null;
  const basePath=`${pre}/uae/abu-dhabi/al-ain/${area.slug}/general-maintenance`,path=selectedService?`${basePath}/${selectedService.id}`:basePath;
@@ -39,7 +43,7 @@ export default function AlAinMaintenanceAreaPage({model}) {
  <p className="mt-2 text-sm leading-6 md:hidden">{en?'Describe the work and confirm local availability.':'حدّد العمل وتأكد من توفر الخدمة في موقعك.'}</p>
  <p className="mt-4 hidden max-w-4xl text-base leading-8 text-[#665d50] md:block">{description} {en?'Confirm the exact scope, materials, district and timing with the chosen provider before agreeing.':'احرص على تحديد المساحة وحالة الموقع ونوع الخدمة والخامات والموعد، ثم اطلب من الشركة عرضًا يوضح نطاق العمل والتفاصيل قبل البدء.'}</p>
  <div className="mt-4 flex flex-wrap gap-2"><Link href={pre+'/providers'} className="rounded-xl border px-4 py-3 text-sm font-semibold">{en?'Companies directory':'دليل الشركات'}</Link><Link href={pre+'/uae/abu-dhabi/al-ain/general-maintenance'} className="rounded-xl bg-[#302b25] px-4 py-3 text-sm font-semibold text-white">{en?'All Al Ain maintenance':'صيانة العين'}</Link></div></div><figure className="relative min-h-48 bg-slate-100"><img src={heroImage} alt={heroAlt} width="1000" height="650" className="h-56 w-full object-cover md:absolute md:inset-0 md:h-full"/><figcaption className="absolute bottom-0 inset-x-0 bg-slate-900/70 px-3 py-2 text-xs text-white">{realImage?(en?'Photo supplied by Kawkab Al Saeed':'صورة مقدمة من كوكب الصعيد'):(en?'Illustrative image':'صورة توضيحية')}</figcaption></figure></section>
- {!selectedService&&<SectorTaxonomyExplorer sector="general-maintenance" items={model.sectorTaxonomy} locale={locale} place={name} pagePath={basePath} reviewedServiceGuides={model.reviewedServiceGuides}/>}
+ {!selectedService&&<SectorTaxonomyExplorer sector="general-maintenance" items={model.sectorTaxonomy} locale={locale} place={servicePlace} pagePath={basePath} reviewedServiceGuides={model.reviewedServiceGuides} serviceGuides={model.sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
  {technical&&<section className="mt-6 rounded-xl border border-[#e9dfd1] bg-white p-4 md:p-6"><h2 className="text-lg font-bold md:text-2xl">{en?'Understand the work before requesting a quote':'افهم العمل قبل طلب عرض السعر'}</h2><div className="mt-3 text-sm leading-7 text-[#665d50]"><CleaningReadMore text={technical.summary} en={en}/></div><details className="mt-3"><summary className="cursor-pointer text-sm font-bold text-[#806333]">{en?'What to check and send':'ما الذي تفحصه وتجهزه؟'}</summary><ul className="mt-3 list-inside list-disc space-y-2 text-sm leading-7">{technical.steps.map(step=><li key={step}>{step}</li>)}</ul><p className="mt-3 text-sm leading-7">{technical.answer}</p></details><Link href={pre+'/request-quote'} className="mt-4 inline-flex rounded-lg border border-[#d8c8aa] px-4 py-2 text-sm font-bold">{en?'Prepare a quotation request':'جهّز طلب عرض سعر'}</Link></section>}
  {selectedService?<section id="companies" className="mt-6"><h2 className="mb-3 text-lg font-bold md:text-2xl">{en?'Companies serving Al Ain':'شركات تخدم مدينة العين'}</h2>
  {providers.length?<><p className="mb-3 text-sm leading-7 text-slate-600">{en?`Confirm availability in ${name} with the company before booking.`:`أكد توفر الخدمة في ${name} مع الشركة قبل الحجز.`}</p><div className="grid grid-cols-1 gap-3 md:grid-cols-2 md:gap-5">{providers.map(p=><DirectoryCompanyCard key={p.id} locale={locale} item={{href:`${path}/${p.slug}`,name:p.name[locale],logoImage:p.image,coverImage:p.cover,city:en?'Al Ain':'العين',summary:en?'Confirm availability for your location.':'تأكد من توفر الخدمة في موقعك.',verified:p.verified,phone:p.phone,whatsapp:p.whatsapp}}/>)}</div></>:<DirectoryCustomerSupportCard locale={locale}/>}</section>:<GeographicServiceCards id="companies" items={model.geographicCards ?? null} locale={locale} place={name}/>}
@@ -53,5 +57,6 @@ export default function AlAinMaintenanceAreaPage({model}) {
   ].map(([q,a])=><details key={q} className="mb-2 rounded-lg border border-[#e9dfd1] p-3" open={false}><summary className="cursor-pointer text-sm font-semibold">{q}</summary><p className="mt-2 text-sm leading-7 text-[#665d50]">{a}</p></details>)}
   </section>}
  <section className="mt-7"><h2 className="mb-3 text-lg font-bold">{en?'Other Al Ain districts':'مناطق أخرى في العين'}</h2><div className="grid grid-cols-3 gap-2 md:grid-cols-5">{KAWKAB_AL_AIN_AREAS.filter(a=>a.slug!==area.slug).map(a=><Link key={a.slug} href={selectedService?kawkabAreaServicePath(locale,a.slug,selectedService.id):`${pre}/uae/abu-dhabi/al-ain/${a.slug}/general-maintenance`} className="rounded-lg border bg-white px-2 py-2 text-center text-xs md:text-sm">{a[locale]}</Link>)}</div></section>
+ {!selectedService&&<DirectorySectorQuoteForm locale={locale} place={servicePlace} groups={model.sectorTaxonomy||[]} requestedService={requestedService} pagePath={basePath}/>}
  </main><Footer locale={locale} hideEmirateContext/>{selectedService&&hasKawkab?<KawkabMobileContactBar locale={locale} service={`${selectedService[locale]} - ${name}`}/>:null}</div>;
 }

@@ -3,6 +3,7 @@ import GeographicServiceCards from './GeographicServiceCards';
 import GeographicOfferCards from './GeographicOfferCards';
 import SectorVisualGuide from './SectorVisualGuide';
 import SectorTaxonomyExplorer from './SectorTaxonomyExplorer';
+import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
 import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import ScrollToSection from './ScrollToSection';
 import { useEffect, useId, useRef, useState } from 'react';
@@ -38,6 +39,7 @@ export default function AlAinCleaningPage({model}) {
   const en=locale==='en', t=value=>value[locale], prefix=en?'/en':'';
   const Next=en?ArrowUpRight:ArrowUpLeft, Trail=en?ChevronRight:ChevronLeft;
   const [district,setDistrict]=useState('');
+  const [requestedService,setRequestedService]=useState('');
   const [chosenService,setChosenService]=useState(service||'');
   const hub=localPath({locale,category:'cleaning-services'});
   const detailsHref=slug=>localPath({locale,category:'cleaning-services',service:slug});
@@ -70,7 +72,7 @@ export default function AlAinCleaningPage({model}) {
           {viewProviders.length?<div className="grid gap-3 md:grid-cols-2">{viewProviders.map(p=><DirectoryCompanyCard key={p.id} locale={locale} onAction={action=>track(action,p)} item={{href:model.geographicServiceCards?.find(card=>card.providerSlug===p.slug&&card.serviceSlug===service)?.href||`${localPath({locale})}/${p.slug}`,name:t(p.name),logoImage:p.image,coverImage:p.cover,city:en?'Al Ain':'العين',verified:p.verified,phone:p.phone,whatsapp:p.whatsapp}}/>)}</div>:<div className={styles.emptyState}><span><ShieldCheck aria-hidden="true"/></span><div><h3>{en?'Need help choosing a company?':'تحتاج مساعدة في اختيار الشركة؟'}</h3><p>{en?'Tell us your service and district. Biet Alreef customer service can help you find an option suited to your home.':'حدّد الخدمة ومنطقتك، وإذا لم تجد ما يناسب احتياجك فخدمة عملاء بيت الريف دائمًا معك لمساعدتك في الاختيار.'}</p></div><a href="https://wa.me/971564456337" className={styles.textLink}>{en?'Contact customer service':'تواصل مع خدمة العملاء'}<Next aria-hidden="true"/></a></div>}
         </section>:<GeographicServiceCards id="companies" items={model.geographicServiceCards ?? null} locale={locale} place={en?'Al Ain':'العين'}/>}
         {!service&&<GeographicOfferCards items={model.geographicOffers} locale={locale} place={en?'Al Ain':'العين'}/>}
-        {!service&&<SectorTaxonomyExplorer sector="cleaning-services" items={model.sectorTaxonomy} locale={locale} place={en?'Al Ain':'العين'}/>}
+        {!service&&<SectorTaxonomyExplorer sector="cleaning-services" items={model.sectorTaxonomy} locale={locale} place={en?'Al Ain':'العين'} pagePath={hub} serviceGuides={model.sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
         {!service?<section id="cleaning-services" className={styles.section} aria-labelledby="services-heading">
           <div className={styles.sectionHead}><div><span className={styles.kicker}>{en?'START WITH WHAT YOU NEED':'ابدأ من احتياجك'}</span><h2 id="services-heading">{en?'What needs a little care?':'ما الذي يحتاج إلى عناية؟'}</h2></div><span className={styles.sectionNote}>{en?'Explore the scope first':'تعرّف على التفاصيل أولًا'}</span></div>
           <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">{CLEANING_SERVICES.map(item=><DiscoveryEntityCard key={item.slug} locale={locale} type="service" item={{href:detailsHref(item.slug),name:t(item.title),description:t(item.intro),image:item.image}}/>)}<DiscoveryEntityCard locale={locale} type="service" item={{href:`${prefix}/uae/abu-dhabi/al-ain/hourly-cleaning`,name:en?'Home cleaning by the hour':'تنظيف المنازل بالساعة',description:en?'Set your hours and priorities, then confirm the tasks and materials with the company.':'حدّد الساعات والمهام المطلوبة، وتأكد من المواد والتفاصيل مع الشركة.',image:'/images/sector-cards/cleaning-equipment-rental-card.webp'}}/></div>
@@ -89,6 +91,7 @@ export default function AlAinCleaningPage({model}) {
         {service&&<section className={styles.section}><div className={styles.sectionHead}><h2>{en?'Explore more cleaning services':'خدمات أخرى لبيتك'}</h2><Link href={hub} className={styles.textLink}>{en?'All services':'كل الخدمات'}<Next aria-hidden="true"/></Link></div><div className={styles.related}>{CLEANING_SERVICES.filter(s=>s.slug!==service).map(s=><Link key={s.slug} href={linkMore(s.slug)}><Image src={s.image} width={64} height={48} alt=""/><span>{t(s.title)}</span><Next aria-hidden="true"/></Link>)}</div>
         </section>}
         <p className={styles.editorialNote}>{en?'Your home, your priorities. Biet Alreef customer service is here to help you choose.':'بيتك وأولوياتك. وخدمة عملاء بيت الريف دائمًا معك لمساعدتك في الاختيار.'}</p>
+        {!service&&<DirectorySectorQuoteForm locale={locale} place={en?'Al Ain':'العين'} groups={model.sectorTaxonomy||[]} requestedService={requestedService} pagePath={hub}/>}
       </main>
       <Footer locale={locale} showRequestCTA={false}/>
     </div>

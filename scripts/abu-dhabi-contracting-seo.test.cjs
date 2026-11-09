@@ -25,6 +25,8 @@ assert.match(explorer, /<h4 className="text-sm font-extrabold/);
 assert.match(explorer, /<DirectorySectorQuoteForm/);
 assert.match(explorer, /abuDhabiContracting/);
 assert.match(quote, /971564456337/);
+assert.match(quote, /requestedService/);
+assert.match(explorer, /setRequestedServices/);
 assert.match(quote, /buildServiceQuoteWhatsappUrl/);
 assert.match(quote, /name,\s*customerPhone: phone,\s*location: place/s);
 assert.match(whatsapp, /detailLine\('رقم التواصل', customerPhone\)/);

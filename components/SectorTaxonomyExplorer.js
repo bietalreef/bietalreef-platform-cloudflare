@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import Link from 'next/link';
 import {Layers3} from 'lucide-react';
 import visualData from '../data/sectorGuideVisuals.json';
@@ -23,6 +24,7 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
   const en=locale==='en',normalized={'aluminium-wood-glass':'aluminium-glass','factories-suppliers':'equipment-rental'}[sector]||sector;
   const assets=visualData[normalized]?.items||[];
   const abuDhabiContracting=normalized==='general-contracting' && (place==='أبوظبي' || place==='Abu Dhabi');
+  const [requestedServices, setRequestedServices] = useState({});
   if(items===undefined)return null;
   return <section id="sector-specialties" className="mx-auto w-full max-w-6xl scroll-mt-40 px-3 py-8 md:px-4 md:py-10" aria-labelledby="sector-specialties-title">
     <h2 id="sector-specialties-title" className="text-xl font-extrabold text-[#193b53] md:text-3xl">{en?`Specialties and services in ${place}`:`التخصصات والخدمات في ${place}`}</h2>
@@ -44,12 +46,12 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
                     <h4 className="text-sm font-extrabold leading-7 text-[#193b53] sm:text-base">{serviceTitle}</h4>
                     <p className="mt-2 text-xs leading-6 text-slate-700 sm:text-sm sm:leading-7">{(en?guide?.bodyEn:guide?.bodyAr)||service.description||(en?'Describe the scope, dimensions and materials to compare quotations.':'حدد نطاق العمل والمقاسات والخامات المطلوبة قبل مقارنة عروض الأسعار.')}</p>
                     {service.href?<p className="mt-2"><Link className="text-xs font-semibold text-[#185b87] underline underline-offset-2" href={service.href}>{en?'View published companies for this service':'استعرض الشركات المنشورة لهذه الخدمة'}</Link></p>:null}
-                    <a href={'#quote-'+item.slug} className="mt-2 inline-block text-xs font-bold text-[#185b87] underline underline-offset-2">{en?'Request a quotation for '+service.name:'اطلب عرض سعر لخدمة '+service.name}</a>
+                    <a href={'#quote-'+item.slug} onClick={()=>setRequestedServices(previous=>({...previous,[item.slug]:service.name}))} className="mt-2 inline-block text-xs font-bold text-[#185b87] underline underline-offset-2">{en?'Request a quotation for '+service.name:'اطلب عرض سعر لخدمة '+service.name}</a>
                   </li>;
                 })}
               </ol> : <ul className="mt-3 space-y-2 text-sm leading-6 text-slate-700">{item.services.map(service=><li key={service.id}>{service.href?<Link className="font-semibold text-[#185b87] underline underline-offset-2" href={service.href}>{service.name}</Link>:service.name}{service.description?<p className="text-xs text-slate-500">{service.description}</p>:null}</li>)}</ul>}
             </details>
-            {abuDhabiContracting?<DirectorySectorQuoteForm locale={locale} place={place} specialty={item} services={item.services}/>:null}
+            {abuDhabiContracting?<DirectorySectorQuoteForm locale={locale} place={place} specialty={item} services={item.services} requestedService={requestedServices[item.slug]}/>:null}
           </div>
         </article>})}
     </div>}

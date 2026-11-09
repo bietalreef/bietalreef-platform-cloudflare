@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Head from 'next/head';
 import {directoryServiceTitle,directoryServiceCopy} from '../lib/directoryServiceEditorial';
 import Link from 'next/link';
-import {Layers3} from 'lucide-react';
+import {Layers3,ChevronDown} from 'lucide-react';
 import visualData from '../data/sectorGuideVisuals.json';
 import constructionGuides from '../data/abuDhabiConstructionServiceGuides.json';
 import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
@@ -22,29 +22,31 @@ function normalizeServiceName(value) {
   return String(value || '').normalize('NFKD').replace(/[\u064B-\u065F\u0670]/g, '').replace(/[أإآ]/g, 'ا').replace(/ى/g, 'ي').replace(/[.،؟!?]/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
 }
 
-export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath='',reviewedServiceGuides={},serviceGuides=null}) {
+export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='',pagePath='',reviewedServiceGuides={},serviceGuides=null,quotePlacement='inline',onServiceRequest=null}) {
   const en=locale==='en',normalized={'aluminium-wood-glass':'aluminium-glass','factories-suppliers':'equipment-rental'}[sector]||sector;
   const assets=visualData[normalized]?.items||[];
-  const [requestedServices, setRequestedServices] = useState({});
+  const [requestedServices, setRequestedServices] = useState('');
+  const [expandedSpecialty, setExpandedSpecialty] = useState(null);
   if(items===undefined)return null;
   const serviceList=(items||[]).flatMap(group=>group.services.map(service=>({name:directoryServiceTitle(normalized,service.name,place,locale),url:'https://bietalreef.ae'+pagePath+'#service-'+group.slug+'-'+service.slug})));
   const serviceSchema=pagePath && serviceList.length ? {'@context':'https://schema.org','@type':'ItemList',itemListElement:serviceList.map((service,index)=>({'@type':'ListItem',position:index+1,...service}))}:null;
   return <><Head>{serviceSchema&&<script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(serviceSchema).replace(/</g,'\\u003c')}}/>}</Head><section id="sector-specialties" className="mx-auto w-full max-w-6xl scroll-mt-40 px-3 py-8 md:px-4 md:py-10" aria-labelledby="sector-specialties-title">
     <h2 id="sector-specialties-title" className="text-xl font-extrabold text-[#193b53] md:text-3xl">{en?`Specialties and services in ${place}`:`التخصصات والخدمات في ${place}`}</h2>
     <p className="mb-5 mt-2 text-sm leading-7 text-slate-600">{en?'Review each service scope and prepare a quotation enquiry with Biet Al Reef customer support, even where no company is listed. Images are illustrative.':'تعرّف على نطاق كل خدمة وتفاصيلها، وجهّز طلب عرض سعر لخدمة عملاء بيت الريف حتى إن لم تُنشر شركة في المنطقة. الصور توضيحية.'}</p>
-    {items===null?<p role="status">{en?'The specialty list is temporarily unavailable.':'تعذر تحميل التخصصات مؤقتًا.'}</p>:!items.length?<p>{en?'No selectable specialties are available for this sector yet.':'لا توجد تخصصات متاحة للاختيار في هذا القطاع حاليًا.'}</p>:<div className="grid grid-cols-2 gap-2 sm:gap-4">
+    {items===null?<p role="status">{en?'The specialty list is temporarily unavailable.':'تعذر تحميل التخصصات مؤقتًا.'}</p>:!items.length?<p>{en?'No selectable specialties are available for this sector yet.':'لا توجد تخصصات متاحة للاختيار في هذا القطاع حاليًا.'}</p>:<div className="grid grid-cols-2 items-start gap-3 sm:gap-4">
       {items.map(item=>{const image=assets.find(asset=>asset.desktop.endsWith('/'+images[item.slug]+'.webp'));
         const editorial=serviceGuides?.sector===normalized && (place==='أبوظبي'||place==='Abu Dhabi')
           ? serviceGuides.specialties.find(group=>group.slug===item.slug)
           : normalized==='general-contracting'?constructionGuides.specialties.find(group=>group.slug===item.slug):null;
-        const intro=item.description|| (en?`Services include ${item.services.slice(0,3).map(service=>service.name).join(', ')}.`:`من خدمات هذا التخصص: ${item.services.slice(0,3).map(service=>service.name).join('، ')}.`);
-        return <article key={item.id} className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
-          {image?<picture className="block aspect-[2/1] overflow-hidden bg-slate-100">{image.mobile&&<source media="(max-width:700px)" srcSet={image.mobile}/>}<img src={image.desktop} alt={image.alt[locale]+' — '+item.name+(en?' in ':' في ')+place} loading="lazy" decoding="async" width="1200" height="600" className="h-full w-full object-cover"/></picture>:<div className="flex h-16 items-center bg-slate-50 px-4 text-[#193b53]"><Layers3 aria-hidden="true"/></div>}
-          <div className="p-3 sm:p-4"><p className="text-sm font-bold leading-6 text-[#193b53] sm:text-lg">{item.name}</p><p className="mt-2 line-clamp-3 text-xs leading-6 text-slate-600 sm:line-clamp-none sm:text-sm sm:leading-7">{intro}</p>
-            <details className="mt-3">
-              <summary className="cursor-pointer text-xs font-bold text-[#185b87] sm:text-sm">{en?`View ${item.services.length} services`:`عرض الخدمات (${item.services.length})`}</summary>
-              <ol className="mt-3 space-y-4" aria-label={en ? 'Services in '+place : 'الخدمات في '+place}>
-                {item.services.map((service,index)=>{
+        const intro=(item.description||'').trim();
+        const expanded=expandedSpecialty===item.slug;
+        return <article key={item.id} className={`min-w-0 self-start overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm ${expanded?'col-span-2':''}`}>
+          {image?<picture className={`block overflow-hidden bg-slate-100 ${expanded?'aspect-[16/7]':'aspect-[3/2]'} sm:aspect-[2/1]`}>{image.mobile&&<source media="(max-width:700px)" srcSet={image.mobile}/>}<img src={image.desktop} alt={image.alt[locale]+' — '+item.name+(en?' in ':' في ')+place} loading="lazy" decoding="async" width="1200" height="600" className="h-full w-full object-cover"/></picture>:<div className="flex h-16 items-center bg-slate-50 px-4 text-[#193b53]"><Layers3 aria-hidden="true"/></div>}
+          <div className="min-w-0 p-3 sm:p-4"><h3 className="text-sm font-extrabold leading-6 text-[#193b53] sm:text-lg">{item.name}</h3>{intro?<p className="mt-1.5 line-clamp-2 text-xs leading-6 text-slate-600 sm:text-sm">{intro}</p>:null}
+            <details className="mt-3" open={expanded}>
+              <summary onClick={event=>{event.preventDefault();setExpandedSpecialty(current=>current===item.slug?null:item.slug);}} className="flex min-h-10 cursor-pointer list-none items-center justify-between gap-1 rounded-lg border border-[#d8e4ed] bg-[#f6fafd] px-2 py-1.5 text-xs font-bold text-[#185b87] focus-visible:outline focus-visible:outline-2 focus-visible:outline-sky-500 sm:text-sm"><span>{en?'Explore services':'استعرض الخدمات'}</span><ChevronDown className={`h-4 w-4 shrink-0 transition-transform ${expanded?'rotate-180':''}`} aria-hidden="true"/></summary>
+              <ol className="mt-3 grid gap-3" aria-label={en ? 'Services in '+place : 'الخدمات في '+place}>
+                {item.services.map(service=>{
                   const guide=editorial?.services.find(entry=>normalizeServiceName(entry[en?'nameEn':'nameAr'])===normalizeServiceName(service.name));
                   const localGuide=reviewedServiceGuides[normalizeServiceName(service.name)];
                   const serviceTitle=directoryServiceTitle(normalized,service.name,place,locale);
@@ -52,14 +54,14 @@ export default function SectorTaxonomyExplorer({sector,items,locale='ar',place='
                     <h2 className="text-sm font-extrabold leading-7 text-[#193b53] sm:text-base">{serviceTitle}</h2>
                     <p className="mt-2 text-xs leading-6 text-slate-700 sm:text-sm sm:leading-7">{directoryServiceCopy({sector:normalized,name:service.name,place,locale,guide:localGuide||(en?guide?.bodyEn:guide?.bodyAr),description:service.description})}</p>
                     {service.href?<p className="mt-2"><Link className="text-xs font-semibold text-[#185b87] underline underline-offset-2" href={service.href}>{en?'View published companies for this service':'استعرض الشركات المنشورة لهذه الخدمة'}</Link></p>:null}
-                    <a href={'#quote-'+item.slug} onClick={()=>setRequestedServices(previous=>({...previous,[item.slug]:service.name}))} className="mt-2 inline-block text-xs font-bold text-[#185b87] underline underline-offset-2">{en?'Request a quotation for '+service.name:'اطلب عرض سعر لخدمة '+service.name}</a>
+                    <a href="#directory-quote" onClick={()=>{const key=item.slug+':'+(service.slug||service.id||service.name);setRequestedServices(key);onServiceRequest?.(key);}} className="mt-2 inline-flex min-h-9 items-center text-xs font-bold text-[#185b87] underline underline-offset-2">{en?'Request a quotation for '+service.name:'اطلب عرض سعر لخدمة '+service.name}</a>
                   </li>;
                 })}
               </ol>
             </details>
-            <DirectorySectorQuoteForm locale={locale} place={place} specialty={item} services={item.services} requestedService={requestedServices[item.slug]} pagePath={pagePath}/>
           </div>
         </article>})}
     </div>}
+    {quotePlacement!=='external' && items?.length ? <DirectorySectorQuoteForm locale={locale} place={place} groups={items} requestedService={requestedServices} pagePath={pagePath}/> : null}
   </section></>;
 }

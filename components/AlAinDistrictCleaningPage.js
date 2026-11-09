@@ -9,6 +9,8 @@ import DirectoryCompanyCard from './provider/DirectoryCompanyCard';
 import GeographicServiceCards from './GeographicServiceCards';
 import SectorVisualGuide from './SectorVisualGuide';
 import SectorTaxonomyExplorer from './SectorTaxonomyExplorer';
+import UaeDirectoryHero from './UaeDirectoryHero';
+import {getEmirate,getServiceCategory} from '../data/siteTaxonomy';
 import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
 import { cleaningContent } from '../lib/cleaningLandingContent';
 import { rehabServiceImage } from '../lib/rehabServiceImages';
@@ -32,8 +34,8 @@ export default function AlAinDistrictCleaningPage({model}) {
   const image=service?rehabServiceImage(service.slug):null;
   return <><SEOHead title={`${heading} | ${en?'Biet Al Reef':'بيت الريف'}`} description={description} canonicalPath={currentPath} alternatePath={localPath({locale:'en',area:area.slug,category:'cleaning-services',...(service?{service:service.slug}:{})})} noIndex={!(model.sectorTaxonomy?.length || (service && cleaningContent(service.slug,locale)))} noIndexFollow breadcrumbs={crumbs}/>
     <div className={styles.page} dir={en?'ltr':'rtl'} lang={locale}><Navbar locale={locale}/><main className={styles.main}>
-      <nav className={styles.crumb} aria-label={en?'Breadcrumbs':'مسار التصفح'}>{crumbs.map((c,i)=><span key={c.href}><Link href={c.href}>{c.name}</Link>{i<crumbs.length-1?' / ':''}</span>)}</nav>
-      <section className="rounded-2xl border border-[#E9DFCE] bg-white p-5 sm:p-8"><p className="text-xs font-bold text-[#806333]">{en?'AL AIN · ABU DHABI':'العين · أبوظبي'}</p><h1 className="mt-3 text-2xl font-extrabold leading-relaxed text-[#24354B] md:text-4xl">{heading}</h1><div className="mt-3 max-w-4xl"><CleaningReadMore text={description} en={en}/></div><p className="mt-3 text-sm leading-7 text-slate-600">{en?'Share the exact location and confirm the scope, availability and quotation with the company.':'شارك الموقع الدقيق وأكد نطاق العمل وتوفر الشركة وعرض السعر قبل الاتفاق.'}</p></section>
+      {service&&<nav className={styles.crumb} aria-label={en?'Breadcrumbs':'مسار التصفح'}>{crumbs.map((c,i)=><span key={c.href}><Link href={c.href}>{c.name}</Link>{i<crumbs.length-1?' / ':''}</span>)}</nav>}
+      {!service?<UaeDirectoryHero locale={locale} title={heading} description={description} emirate={getEmirate('abu-dhabi')} area={area} service={getServiceCategory('cleaning-services')} cleanNavigation/>:<section className="rounded-2xl border border-[#E9DFCE] bg-white p-5 sm:p-8"><p className="text-xs font-bold text-[#806333]">{en?'AL AIN · ABU DHABI':'العين · أبوظبي'}</p><h1 className="mt-3 text-2xl font-extrabold leading-relaxed text-[#24354B] md:text-4xl">{heading}</h1><div className="mt-3 max-w-4xl"><CleaningReadMore text={description} en={en}/></div><p className="mt-3 text-sm leading-7 text-slate-600">{en?'Share the exact location and confirm the scope, availability and quotation with the company.':'شارك الموقع الدقيق وأكد نطاق العمل وتوفر الشركة وعرض السعر قبل الاتفاق.'}</p></section>}
       {!service&&<GeographicServiceCards items={model.geographicCards ?? null} locale={locale} place={name}/>}
       {!service&&<SectorTaxonomyExplorer sector="cleaning-services" items={model.sectorTaxonomy} locale={locale} place={servicePlace} pagePath={categoryPath} reviewedServiceGuides={model.reviewedServiceGuides} serviceGuides={model.sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
       {!service&&<SectorVisualGuide sector="cleaning-services" locale={locale} excludeSpecialties={model.sectorTaxonomy}/>}

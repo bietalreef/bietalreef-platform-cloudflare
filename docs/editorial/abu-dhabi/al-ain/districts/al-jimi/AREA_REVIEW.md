@@ -615,3 +615,8 @@
 
 - الحالة العامة: `in_progress`؛ أُعيدت كتابة الخدمات السبع بالعربية والإنجليزية بمحتوى مستقل يتناول الصور والقياسات والنطاق والاستثناءات والمقارنة والاتفاق والاستلام وطلب السعر. [العربية](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [المراجعة](./building-materials/ceramic-porcelain/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub بعد حفظها وتطابقت.
 - **النواقص التالية الدقيقة:** `building-materials/kitchen-countertops/content-ar.md` ثم `content-en.md` و`review.md`، يليها `building-materials/marble-granite` و`building-materials/timber-panels` بعد التحقق من المسارات الفعلية؛ ثم جرد 50 تخصصًا و434 خدمة لكل لغة، ومراجعة التفرد والسلامة والتصنيفات المقيدة والمقترحة في القطاعات الثمانية. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة أسطح المطابخ والمغاسل — 2026-11-10
+
+- الحالة `in_progress`؛ خُصصت سبع فقرات نطاق وعروض في كل لغة، وتمت إعادة قراءة ملفي [العربية](./building-materials/kitchen-countertops/content-ar.md) و[الإنجليزية](./building-materials/kitchen-countertops/content-en.md) بعد الرفع والتحقق من التطابق؛ [مراجعة التخصص](./building-materials/kitchen-countertops/review.md).
+- **أول نقص تالٍ:** `building-materials/marble-granite/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `building-materials/timber-panels`، ثم بقية القطاعات وجرد التخصصات الخمسين والخدمات الـ434 في كل لغة، وتدقيق التفرد والسلامة وحالات المقيد والمقترح. لا تبدأ المويجعي قبل الاعتماد الكامل.

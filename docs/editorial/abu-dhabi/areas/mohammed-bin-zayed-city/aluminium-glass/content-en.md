@@ -9,59 +9,59 @@ Fabrication requests start with actual site measurements, photographs, material 
 
 ### 1. Wooden kitchen design
 
-Start with dimensioned kitchen plans, appliance envelopes and actual water and power points, checking opening clearances. Compare board thickness, façade material and cabinet schedule; sign off drawings and corner sections before manufacture.
+Before selecting a kitchen layout, provide wall-to-wall dimensions, ceiling height, window and door locations, and actual water, drainage and electrical points. Request a dimensioned layout showing the real appliance sizes, door and drawer clearances and work zones. Compare design quotations by construction drawings and included revisions, not renders alone. Check the final drawings against site measurements and approve finishes separately.
 
 ### 2. Kitchen cabinetry fabrication
 
-Specify each cabinet, board type, edging, hinges, runners and appliance openings. Compare sheet cutting, hardware and assembly stages; inspect a sample unit and labelled pieces.
+Kitchen fabrication needs a cutting schedule for each carcass and door, specifying board thickness, moisture protection, edging and the exact hinge and runner models. Ask for samples of edge joints and front finishes; compare hardware, cutting, assembly and delivery as distinct quotation items. Before dispatch, inspect square carcasses, labelled units and appliance cut-outs against the approved drawings.
 
 ### 3. Kitchen installation
 
-Confirm floor levels, finished cabinet components and service positions before installation. Compare anchoring, seals and on-site adaptation; inspect door alignment, smooth drawers and appliance clearances.
+Check floor and wall levels and the intended worktop height before installers arrive; record conflicts with drainage pipes or sockets. The quote should allocate wall fixings, leg adjustment, joint sealing, sink-edge protection and responsibility for discrepancies from the approved drawings. At handover test every drawer and door at full travel, cabinet stability and access to service valves.
 
 ### 4. Wardrobe design
 
-Measure room walls, height, door swing and socket positions, plus hanging and folded-storage needs. Compare internal storage, rails, drawers and lighting instead of frontage alone; approve sections.
+For a wardrobe, measure the finished wall width, height and usable depth without blocking room circulation. Count long garments, folded items, shoes and bags to determine the internal layout. Compare hinged and sliding doors for clearance and future maintenance, approve sectional drawings, and test drawer and door movement without rubbing at handover.
 
 ### 5. Wardrobe fabrication
 
-Schedule wardrobe units, shelf spans, board thickness and expected drawer/door loads. Compare edge finishing, cutting precision and hinge models; test shelves for deflection within planned use.
+Freeze the approved wardrobe schedule before production: unit dimensions, any ventilation openings, shelf arrangement and wall fixing positions. Compare quotations using board grade and thickness, edge treatment, hinges and runners, with lighting and accessories priced separately. At delivery inspect door alignment and shelf support; document and approve any dimensional deviation before acceptance.
 
 ### 6. Walk-in closet fit-out
 
-Measure closet circulation, mirror locations, sockets and ventilation before fitting units. Compare hanging heights, drawer depths and lighting; inspect door clearances and floor access.
+Measure the clear walking aisle with drawers and doors open, and mark mirror, seating, lighting and power positions. Request a layout that allows access to high shelves, floor cleaning and suitable cabinet ventilation. Compare cleanable finishes and replaceable hardware. At handover test the lighting, drawer operation and the built dimensions against the plan.
 
 ### 7. Kitchen and wardrobe refurbishment
 
-Photograph sagging doors, swollen boards and damaged edges and assess which carcasses can be reused. Compare replacing doors and hinges against rebuilding failed cabinets; test matching finishes and movement.
+For an existing kitchen or wardrobe, photograph water-swollen panels, loose hinges and peeling edges; assess whether the cabinet carcasses can safely be retained. Request separate prices for doors, runners, shelves and moisture repairs versus full replacement. Check colour matching, even gaps, hinge security and drawer movement before accepting the refurbishment.
 
 ### 8. Wooden door fabrication
 
-Specify rough opening, swing, core construction, finish and moisture exposure. Compare core, lippings and hinges; inspect straight leaves and correctly positioned lock mortises.
+Specify whether the wooden door is for an internal room, entrance or moisture-exposed location; provide rough opening dimensions, wall thickness and swing direction. Request the core construction, face finish, edge treatment, hinges and lock specification rather than a generic premium-timber label. Inspect leaf straightness, hardware mortises and finish before installation.
 
 ### 9. Door installation
 
-Measure the opening after plaster and flooring; check swing and under-door clearance. Compare frame anchoring, hinge reinforcement and sealant; test latching and smooth closing.
+Measure the door opening after flooring and relevant finishes are complete, including threshold height and swing clearance. Compare offers that explicitly include the frame, hinges, lock and making good around the opening; assign responsibility for uneven openings. At handover cycle the door repeatedly and check latch engagement, even clearances and no floor contact.
 
 ### 10. Fire-rated door fabrication
 
-Fire-door requirements come from the approved project schedule and location, not from a marketing label. Request evidence for the complete rated assembly—leaf, frame, seals, hardware and qualified installation—and check matching components.
+A fire-rated door must be specified from the approved project schedule and opening requirements, not its appearance or timber thickness. Ask a competent supplier for evidence covering the complete rated assembly: leaf, frame, seals, hinges, closer and permitted installation details. At handover match labels to documents and test self-closing; avoid unapproved site modifications.
 
 ### 11. Doorframe construction
 
-Measure wall thickness, rough opening, frame section and threshold before fabrication. Compare treated timber and anchors; inspect plumb frames that let the door operate without twist.
+Before manufacturing a doorframe, measure finished wall thickness, threshold level and the opening at several points to identify out-of-square conditions. Specify frame material, section, anchorage, hinge positions and moisture exposure. Compare quotes including trims and wall-edge repairs. Check plumb, straightness and secure fixing before hanging the door.
 
 ### 12. Wooden partition fabrication
 
-Define whether the partition is decorative, privacy screening or load-bearing for shelves, with spans and fixing points. Compare timber section, slat spacing and concealed anchors; inspect stability and safe edges.
+Define whether the timber divider provides visual screening or supports shelves or a screen; supply height, width, slat spacing and anchorage locations. Distinguish solid timber from faced boards in quotations and document edges, joints and access to concealed services. At handover check fixing rigidity, consistent slat spacing and the absence of sharp edges.
 
 ### 13. Door repairs
 
-Photograph loose hinges, failed locks, swelling and floor rubbing. Compare adjustment and hardware replacement with joinery repair before full replacement; test operation and security.
+Identify the fault first: floor rubbing, lock failure, loose frame or moisture-swollen leaf. Supply photos of edges, hinges and both sides of the opening, and ask for separate adjustment, replacement-hardware and timber-repair prices. Assess repair before ordering a new door. After work, test closing, latch engagement and hinge security.
 
 ### 14. Timber refinishing
 
-Identify existing coating, timber type and whether scratches, colour or full stripping drive refinishing. Compare sanding, primers and coat schedule; inspect even finish without paint in hinges.
+Identify the existing coating, peeling and scratched areas, and whether the goal is colour change or restoration. Request a discreet sample to confirm adhesion and colour, plus documented cleaning, sanding, filling, coat sequence and drying time. Inspect the finish in adequate light and check that paint has not clogged locks or impeded door movement.
 
 ## Custom furniture and decorative joinery
 

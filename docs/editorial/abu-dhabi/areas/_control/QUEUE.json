@@ -242,7 +242,7 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-10",
-      "review_note": "245/434 independently rewritten AR/EN: contracting 56, design 49, maintenance 105, building materials 35. Next service 36 (أسطح المطابخ والمغاسل); 189 remain. Existing later headings are unreviewed drafts; no publication approval.",
+      "review_note": "Independent bilingual rewriting verified through building-materials service 42/49; 252/434 across MBZ City. Next service 43 (ceramic supply). Area remains in_progress; no publication approval.",
       "editorial_rewritten_service_entries": 238,
       "editorial_remaining_service_entries": 196,
       "editorial_progress": {
@@ -283,14 +283,21 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 36,
-        "remaining_in_sector": 14,
+        "next_service_number": 43,
+        "remaining_in_sector": 7,
         "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 245,
-        "remaining_area_services_for_originality_review": 189,
+        "area_independently_rewritten": 252,
+        "remaining_area_services_for_originality_review": 182,
         "area_editorially_approved": false,
         "editorial_draft_completed": false
       }

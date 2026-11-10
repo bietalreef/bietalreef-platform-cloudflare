@@ -11,7 +11,8 @@ const card=read('components/provider/AlNaeemDirectoryCard.js');
 assert.ok(card.includes("alNaeemPath(locale,{kind:'service-areas',slug:coverageSlug})"),'card must open contextual area profile');
 assert.ok(card.includes("alNaeemPath(locale,{kind:'services',slug:service.slug,areaSlug:coverageSlug})"),'service links must resolve inside area profile');
 const placement=read('components/provider/AlNaeemLocalDiscovery.js');
-assert.ok(placement.includes('coverageSlug={coverageSlug}'),'area card must be passed validated coverage slug');
+assert.ok(placement.includes('coverageSlug={profileOnly?null:coverageSlug}'),'profile placement must not assume location-specific company path');
+assert.ok(placement.includes('contextHref={profileOnly?null:contextHref}'),'profile card must retain canonical provider href');
 assert.ok(placement.includes('location={cityName}'),'local place label retained');
 const company=read('components/provider/AlNaeemPresencePage.js');
 assert.ok(company.includes('items.map(x=><Link href={alNaeemPath(locale,{kind,slug:x.slug})}'),'area links stay inside the company profile');
@@ -49,7 +50,7 @@ for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[
  assert.match(src,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
  assert.match(src,/cardOnly/);
 }
-assert.match(placement,/if\(cardOnly\)return showServices\?/);
+assert.match(placement,/if\(cardOnly\)return showServices&&contextHref\?publishedServices:profileCard/);
 for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
  const page=read(file);
  assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);

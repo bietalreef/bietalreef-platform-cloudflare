@@ -10,6 +10,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare joinery strength, panel thickness, finish, delivery and installation; approve size changes before cutting and inspect stability and aligned doors.
 
+**Quotation details:** Price each item separately, including delivery, installation and hinge warranty; attach entrance widths and assembly locations.
+
 ## 2. TV unit fabrication
 
 **Before requesting a quote:** Photograph the screen, sockets and cable routes; record device weights, wall width and viewing height.
@@ -17,6 +19,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Specify ventilation gaps, serviceable cable routes and rated supports for floating or floor units; electrical connections are excluded unless agreed.
 
 **Comparison, agreement and acceptance:** Compare load support, drawer access and ventilation; verify anchoring and that devices can be disconnected without dismantling cabinetry.
+
+**Quotation details:** Give screen dimensions, equipment weights and socket locations; request separate prices for wall anchoring and cabinet fabrication.
 
 ## 3. Storage unit fabrication
 
@@ -26,6 +30,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare load capacity and adjustable layouts; test drawers, shelves and secure anchorage of tall units.
 
+**Quotation details:** Attach an inventory and estimated shelf loads; ask for separate costs for locks and anti-tip anchorage.
+
 ## 4. Timber wall cladding
 
 **Before requesting a quote:** Photograph the whole wall, visible dampness, sockets and air grilles; measure net area and corners.
@@ -33,6 +39,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Specify battens, expansion gaps, applicable fire-performance requirements and access panels; active leaks must be resolved first.
 
 **Comparison, agreement and acceptance:** Compare substrate, fixing and corner finish; inspect panel alignment and access to concealed services.
+
+**Quotation details:** Attach damp and service-point photos; separate subframe, access panels and corner finishing in the quotation.
 
 ## 5. CNC decorative cutting
 
@@ -42,6 +50,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare edge quality, waste allowance and pattern continuity; check repeat alignment and absence of chipped corners.
 
+**Quotation details:** Send the drawing file, sheet dimensions and repeat quantity; request a priced test cut before full production.
+
 ## 6. Counter fabrication
 
 **Before requesting a quote:** State whether the counter serves reception, retail or service; photograph staff circulation and equipment, and measure working height.
@@ -49,6 +59,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Specify worktop zones, storage, staff clearances, device cutouts and edge protection; plumbing and wiring need separate scope.
 
 **Comparison, agreement and acceptance:** Compare surface durability, cleanability and base construction; test worktop stability, drawers and safe edges.
+
+**Quotation details:** State counter use, equipment count and cutouts; separate durable worktop, carcass and service connections.
 
 ## 7. Retail and office furniture fabrication
 
@@ -58,6 +70,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare reconfiguration and maintenance options; check circulation, cable ports and delivered item counts.
 
+**Quotation details:** Attach workstation layout and item quantities; ask for phased delivery and installation costs to reduce disruption.
+
 ## 8. Interior space design
 
 **Before requesting a quote:** Describe daily activities, retained furniture and indicative budget; provide plans and door/window dimensions.
@@ -65,6 +79,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Agree layout options and deliverables—plans, material board, renders or quantities—and revision limits; design is not installation.
 
 **Comparison, agreement and acceptance:** Compare buildability and service coordination; accept dimensioned files, material schedules and recorded revisions.
+
+**Quotation details:** Specify the number of plans, renders, revision rounds and final file formats; separate design fees from construction.
 
 ## 9. Timber fabrication and installation
 
@@ -74,6 +90,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare who takes final site measurements and fabrication milestones; inspect joints, clearances, anchors and removal of cutting waste.
 
+**Quotation details:** Attach a location-by-location joinery schedule and substrate details; price workshop fabrication, final measurement, installation and protection separately.
+
 ## 10. Majlis fit-out
 
 **Before requesting a quote:** Specify seating count, hospitality functions, TV position and entries; measure walls and window heights.
@@ -81,6 +99,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Agree seating layout, joinery, cladding and color samples, separating curtains, lighting and HVAC unless contracted.
 
 **Comparison, agreement and acceptance:** Compare circulation, cleanability and matching finishes; check seating sightlines, door operation and finish under room lighting.
+
+**Quotation details:** State seating count, hospitality layout and cladding; price joinery separately from upholstery, curtains and lighting.
 
 ## 11. Bedroom fit-out
 
@@ -90,6 +110,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare wardrobe hinges, drawer capacity and low-level finishes; test clearances, edges and bed stability.
 
+**Quotation details:** Attach mattress dimensions and bed and wardrobe plans; itemise drawers, hinges, delivery and secure fixing.
+
 ## 12. Office and retail fit-out
 
 **Before requesting a quote:** Provide the operational plan, permitted working hours, exits, storage and point-of-sale locations.
@@ -98,6 +120,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 
 **Comparison, agreement and acceptance:** Compare phased installation and business disruption; inspect clear exits, secure fixings and the defects list before handover.
 
+**Quotation details:** Provide permitted work hours and exit plans; request a phased programme and costs for protection, cleanup and contractor coordination.
+
 ## 13. Decorative timber works
 
 **Before requesting a quote:** Identify slat or trim locations and photograph junctions with ceiling, floor and lights.
@@ -105,6 +129,8 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 **Scope and exclusions:** Require finish samples and a setting-out plan for grain direction, joints and concealed fixings; damp repair and lighting moves are separate.
 
 **Comparison, agreement and acceptance:** Compare color consistency, grain continuity and replaceability; inspect joint lines and edges in daylight.
+
+**Quotation details:** Specify grain direction, finish sample and slat lengths; price a mock-up and treatment of joints and corners.
 
 ## 14. Interior finishing and handover
 
@@ -117,3 +143,6 @@ This guide helps prepare enquiries to companies and establishments; it does not 
 ## Request a quotation
 
 Send site photos, measurements, drawings and preferred samples; state delivery, installation and warranty expectations. Biet Al Reef customer service can help prepare an enquiry without guaranteeing a business, price or date.
+
+**Quotation details:** Attach a photographed defect list and inspection dates; request line-item rectification pricing, sign-off records and repair warranty.
+

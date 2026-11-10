@@ -584,3 +584,8 @@
 
 - الحالة: `in_progress`؛ خُصصت تعليمات الصور والمقاسات في [دهانات الجيمي بالعربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md) للخدمات السبع بدل النص المتكرر.
 - أول نقص تالٍ: تدقيق فقرات النطاق والخامات والمعدات والاستلام في `general-maintenance/painting/content-ar.md` و`content-en.md`، ثم الجرد الشامل لملفات التخصصات الخمسين ومطابقة أسماء الخدمات الـ434 العربية حرفيًا مع الشجرة وعدد الإنجليزية، وتوثيق نواقص الجودة والسلامة والتصنيفات المقيدة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة تدقيق استلام الدهانات — 2026-11-10
+
+- الحالة `in_progress`؛ خُصصت سبعة اختبارات استلام في كل لغة في [العربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md)، مع [مراجعة التخصص](./general-maintenance/painting/review.md).
+- **أول نقص تالٍ:** تدقيق تكرار عبارة المعدات والحماية في `general-maintenance/painting` ثم فحص تفرد ومطابقة كل خدمة في تخصصات `general-contracting` و`interior-design` و`general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومطابقة 434 خدمة عربية وإنجليزية وحالات التصنيف؛ لا تبدأ المويجعي.

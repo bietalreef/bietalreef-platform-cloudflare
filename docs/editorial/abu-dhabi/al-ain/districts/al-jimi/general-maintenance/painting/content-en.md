@@ -6,7 +6,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** refreshing several rooms or preparing a villa for occupancy at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record wall/ceiling areas, stairwell heights and room counts, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record wall/ceiling areas, stairwell heights and room counts, add an overall view of each room and close-ups of cracks or holes; assign the proposed colour to each room.
 
 **Scope, materials and equipment:** Ask for room-by-room colour schedule, protection, filler, primer and specified coats, including product names, coat counts, access equipment and protection. **Exclusions:** leak repairs or gypsum replacement unless priced.
 
@@ -20,7 +20,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** repainting an occupied or rental apartment at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record room sizes, wall condition, furniture positions and access hours, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record room sizes, wall condition, furniture positions and access hours, include photos of furniture, outlets and ceiling junctions, and identify the intended colour for each room.
 
 **Scope, materials and equipment:** Ask for surface protection, fixing anchor holes and agreed repainting, including product names, coat counts, access equipment and protection. **Exclusions:** moving heavy furniture or wallpaper stripping without agreement.
 
@@ -34,7 +34,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** faded or peeling facades exposed to sun and moisture at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record facade area, heights, crack photos and exposure, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record facade area, heights, crack photos and exposure, include full-elevation views and close-ups of peeling around openings and movement joints.
 
 **Scope, materials and equipment:** Ask for washing, sound-surface preparation, primer and suitable exterior coating, including product names, coat counts, access equipment and protection. **Exclusions:** structural crack repair or roof leak remediation.
 
@@ -48,7 +48,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** scratched doors, faded timber or refinishing at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record leaf count, substrate/veneer type, hinges and previous finish, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record leaf count, substrate/veneer type, hinges and previous finish, photograph both faces, edges, frame and existing finish; specify the required colour and sheen.
 
 **Scope, materials and equipment:** Ask for sanding, spot repairs, compatible primer and paint or varnish, including product names, coat counts, access equipment and protection. **Exclusions:** warped door repair or veneer replacement.
 
@@ -62,7 +62,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** creating textured, metallic or concrete-effect feature walls at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record feature-wall area, lighting, reference image and flatness, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record feature-wall area, lighting, reference image and flatness, photograph the wall under daylight and artificial lighting and provide a clear texture and colour reference.
 
 **Scope, materials and equipment:** Ask for approved sample, finish layers, application tools and agreed sealer, including product names, coat counts, access equipment and protection. **Exclusions:** major wall levelling or new lighting design.
 
@@ -76,7 +76,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** recurring flaking or blistering before repainting at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record defect photos, any moisture readings and substrate type, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record defect photos, any moisture readings and substrate type, include a wide image of the affected area and close-ups of loose coating edges; avoid disturbing unidentified coatings before assessment.
 
 **Scope, materials and equipment:** Ask for removal of loose coatings, dust containment, substrate repair and priming, including product names, coat counts, access equipment and protection. **Exclusions:** fixing moisture sources or hazardous materials without specialist assessment.
 
@@ -90,7 +90,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **When needed:** local scratches or colour mismatch after service work at an Al Jimi property.
 
-**Photos, measurements and specifications:** Record defect photos, colour code, affected area and previous paint age, close-up defect images and a wider view; identify substrate and intended colour.
+**Photos, measurements and specifications:** Record defect photos, colour code, affected area and previous paint age, include close-up and normal-viewing-distance photographs of each patch to assess colour visibility.
 
 **Scope, materials and equipment:** Ask for spot preparation, feathered edges and agreed repainting extent, including product names, coat counts, access equipment and protection. **Exclusions:** guaranteed invisible patch against aged paint.
 

@@ -33,6 +33,6 @@ for(const lang of ['ar','en']){
 assert.ok(profile.includes("alNaeemPath('ar',{kind:'home'})+'#company'"),'stable brand identity absent');
 assert.ok(profile.includes('geoCrumbs'),'geographic breadcrumb schema missing');
 assert.ok(profile.includes('contextEmirateSlug'),'emirate context not in breadcrumbs');
-assert.ok(discovery.includes('if(cardOnly)return listingMode==='services'&&contextHref?publishedServices:profileCard'),'cleaning should not duplicate profile');
+assert.ok(discovery.includes("if(cardOnly)return listingMode===\'services\'?publishedServices:profileCard"),'cleaning should not duplicate profile');
 assert.ok(discovery.includes('href:contextHref+\'/services/\'+service.slug'),'service href must preserve hierarchy');
 console.log('Sharjah, Ras Al Khaimah, Fujairah, UAQ: profile in directory; real services in cleaning; nested bilingual route and schema PASS');

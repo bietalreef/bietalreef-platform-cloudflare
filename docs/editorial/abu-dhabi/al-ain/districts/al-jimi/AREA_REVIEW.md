@@ -574,3 +574,8 @@
 
 - الحالة `in_progress`؛ إضافة 14 فقرة مخصصة لطلب عروض الأسعار لخدمات العزل السبع باللغتين: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [المراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md).
 - **أول نقص تالٍ:** تدقيق التكرار في `general-maintenance/painting` ثم جرد جودة الخدمات ومطابقتها للشجرة في `general-contracting` و`interior-design` و`general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، والتحقق من 50 تخصصًا و434 خدمة لكل لغة وحالات المقيد والمقترح. لا انتقال للمويجعي قبل اعتماد الجيمي.
+
+## متابعة الدهانات — 2026-11-10
+
+- الحالة: `in_progress`. خُصصت 14 فقرة اتفاق في [الدهانات بالعربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md)، مع توثيق [المراجعة](./general-maintenance/painting/review.md). أعيدت قراءة الملفات الثلاثة بعد الكتابة والتحقق من تطابقها.
+- **النواقص التالية بالترتيب:** تدقيق التكرار في صور ومقاسات ونطاق واستلام `general-maintenance/painting`؛ ثم الجرد الكامل لجميع التخصصات الـ50 ومطابقة 434 اسم خدمة عربية حرفيًا مع الشجرة، و434 عنوانًا إنجليزيًا بالترتيب، وتدقيق التفرد والسلامة والتصنيفات المقيدة والمقترحة عبر القطاعات الثمانية. لا تبدأ المويجعي قبل الاعتماد النهائي للجيمي.

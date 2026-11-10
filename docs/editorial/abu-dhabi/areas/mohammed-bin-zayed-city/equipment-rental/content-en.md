@@ -217,21 +217,19 @@ Hand-loading light cartons is not the same job as unloading glass panels or heav
 
 ### 50. Ready-mix concrete manufacturing
 
-Specify concrete grade, pour volume, travel time, pumping and acceptance tests from design. Compare batch tickets, mix and late-load rules; collect delivery records and samples.
+For foundations, columns or slabs in Mohammed Bin Zayed City, an order for a certain number of cubic metres is not a sufficient specification. Supply the approved structural drawings and pour schedule showing the designer's strength class, workability, exposure requirements and any project-specific mix conditions. Establish the volume from element dimensions, openings and professionally assessed allowances, and document truck access, pump position, hose route and construction joints. Ask the producer for mix documentation, constituent material information, quality-control arrangements and a delivery sequence matched to the placing and compaction crew. Do not authorise a mix substitution or water addition on site without documented technical approval. Compare concrete supply separately from pumping, waiting, rejected loads and testing; identify who takes samples and arranges slump and strength testing under the project specification. Record dispatch, arrival and discharge times for each truck and reconcile batch tickets, test results and rejected loads with the supervising engineer. Acceptance of structural concrete is an engineering decision based on specifications and evidence, not surface appearance alone.
 
 ### 51. Block and brick manufacturing
 
-Set unit size, type, density or strength and pallet count. Compare dimensional control, breakage, storage and handling; count usable blocks.
+Before ordering masonry units, distinguish non-loadbearing partitions from walls requiring particular structural, thermal or acoustic performance. Send the wall schedule with lengths, heights, thicknesses, door openings and other penetrations. State unit dimensions, type, density or strength class as specified for the project; similar-looking blocks are not necessarily interchangeable. Request product data, manufacturing and curing information and relevant test records, then coordinate deliveries with stable, protected storage capacity on site. Compare offers by usable unit count, dimensional tolerances, delivery, pallets, acceptable breakage and replacement terms. On receipt, sample each batch for size, edge damage, cracks and consistency and match product labels and quantities to the purchase order. Any use in loadbearing construction must be checked by the responsible designer or supervisor.
 
 ### 52. Precast cement product manufacturing
 
-Specify kerbs, paving units or precast pieces with dimensions and lifting points. Compare moulds, curing and tolerances; check cast-in fittings, surfaces and sizes.
+Manufactured cement products may include paving units, kerbs, barriers and precast components, each with distinct geometry, handling and installation demands. Provide plans, sections, finished levels, quantities and intended loads or use. Specify finish colour and texture, edge profiles, joints, lifting points and embedded fittings where applicable. Before production, request a sample or mock-up showing mould quality, exposed finish and fixing locations. Have the relevant professional review the mix, curing, tolerances and testing requirements for that particular product rather than treating all cement products as equivalent. Compare mould charges, finish, transport protection, lifting and unloading, and spare-piece allowance. At delivery, match piece marks to drawings and inspect cracks, spalling, corners, joint dimensions and cast-in fittings. Precast units must not be lifted from unapproved points.
 
-### 53. Cement product supply to projects
+### 53. Cement product supply to projects.
 
-Send quantities, work programme, storage and delivery sequences. Compare units, minimum orders, returns and delivery; reconcile labels and invoices.
-
-
+Supplying concrete, blocks, paving units or precast pieces across project phases calls for a delivery plan linked to construction progress, not a single unsequenced quantity. Provide a bill of quantities with item codes, units and intended locations, plus dates for each batch, storage space, truck access and unloading equipment. Define separately the manufacturer's product-conformity responsibility, the carrier's transport responsibility and the site's unloading and storage duties. Ask for a documented process for shortages, damage, late deliveries and nonconforming batches. Compare quotations on consistent units, minimum order sizes, haulage, crane charges, returnable pallets, notice periods and split deliveries; a per-piece price cannot be compared with a per-square-metre price without quantity conversion. On every arrival, reconcile delivery notes and batch references with the order, record accepted and rejected quantities with photographs, and close the delivery only when both paperwork and physical condition have been checked.
 
 ## Equipment hire and transport request
 

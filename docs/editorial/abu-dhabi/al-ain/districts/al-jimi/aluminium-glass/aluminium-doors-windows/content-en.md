@@ -12,7 +12,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test sash travel, closure and drainage. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating aluminium windows:** Describe the Al Jimi site and the intended fabricating aluminium windows work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 2. Installing aluminium windows
 
@@ -24,7 +24,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check alignment, operation and visible gaps. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing aluminium windows:** Describe the Al Jimi site and the intended installing aluminium windows work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 3. Fabricating aluminium doors
 
@@ -36,7 +36,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test leaf fit, locking and floor clearance. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating aluminium doors:** Describe the Al Jimi site and the intended fabricating aluminium doors work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 4. Installing aluminium doors
 
@@ -48,7 +48,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test opening, closing and frame stability. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing aluminium doors:** Describe the Al Jimi site and the intended installing aluminium doors work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 5. Installing insect screens
 
@@ -60,7 +60,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check tension, easy removal and insect gaps. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing insect screens:** Describe the Al Jimi site and the intended installing insect screens work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 6. Maintaining doors and windows
 
@@ -72,7 +72,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test operation and record replaced parts. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Maintaining doors and windows:** Describe the Al Jimi site and the intended maintaining doors and windows work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 7. Replacing hardware and glazing
 
@@ -84,7 +84,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check glass retention, lock function and edge condition. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Replacing hardware and glazing:** Describe the Al Jimi site and the intended replacing hardware and glazing work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 8. Fabricating aluminium kitchens
 
@@ -96,7 +96,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check dimensions, appliance openings and edge finishing. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating aluminium kitchens:** Describe the Al Jimi site and the intended fabricating aluminium kitchens work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 9. Installing aluminium kitchens
 
@@ -108,7 +108,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check levels, door clearance and sink perimeter sealing. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing aluminium kitchens:** Describe the Al Jimi site and the intended installing aluminium kitchens work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 10. Fabricating aluminium wardrobes
 
@@ -120,7 +120,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test drawers, doors and shelf support. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating aluminium wardrobes:** Describe the Al Jimi site and the intended fabricating aluminium wardrobes work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 11. Fabricating bathroom cabinets
 
@@ -132,7 +132,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check valve access and avoid contact with standing water. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating bathroom cabinets:** Describe the Al Jimi site and the intended fabricating bathroom cabinets work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 12. Fabricating outdoor storage units
 
@@ -144,7 +144,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check stability, closure and water pooling. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Fabricating outdoor storage units:** Describe the Al Jimi site and the intended fabricating outdoor storage units work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 13. Refurbishing aluminium kitchens
 
@@ -156,7 +156,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Compare finish and final operation with the approved sample. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Refurbishing aluminium kitchens:** Describe the Al Jimi site and the intended refurbishing aluminium kitchens work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 14. Maintaining kitchen hinges and hardware
 
@@ -168,4 +168,4 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test every door and drawer after adjustment. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Maintaining kitchen hinges and hardware:** Describe the Al Jimi site and the intended maintaining kitchen hinges and hardware work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.

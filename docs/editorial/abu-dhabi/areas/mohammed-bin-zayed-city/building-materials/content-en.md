@@ -123,32 +123,31 @@ For panel cutting and preparation, issue a numbered cutting file stating each pa
 
 ### 29. Natural marble supply
 
-Specify stone type, colour variation, slab size and thickness. Compare actual slab photographs, source and vein layout; inspect transport cracks before fabrication.
+For natural marble supply, specify net installed area, thickness, finish and layout-based cutting waste. Request numbered photographs of the actual slabs and vein direction rather than a generic catalogue picture; natural colour variation affects the final arrangement. Compare usable yield, packing, transport, unloading and replacement terms for damaged slabs. On receipt, inspect rear cracks and edges and reconcile slab identifiers with approved samples before cutting.
 
 ### 30. Granite supply
 
-State whether granite is for worktops, floors or steps and its slip and weather exposure. Compare staining, finish and thickness; approve an actual stone sample.
+For granite supply, identify whether it will serve as a kitchen worktop, floor or outdoor step, since finish, slip and staining requirements differ. Provide dimensions, thickness, piece count and exposed edges, and request a physical sample and surface-treatment specification. Compare quotations including cutting, polishing, transport and responsibility for handling damage. Check colour, finish, corners and cracks at delivery; do not assume all granite performs identically against stains.
 
 ### 31. Custom-size marble cutting
 
-Issue dimensioned templates showing edges, openings and vein direction before cutting. Compare mitres, edge work, fabrication and packing; measure completed pieces against drawings.
+Before custom marble cutting, take final site dimensions after adjacent components are installed. Give the workshop a numbered millimetre cutting schedule showing apertures, edges, joints, vein direction and stone thickness. Agree who pays for remaking incorrect pieces and how corners will be protected in transit. Compare cutting, edge finishing, apertures and waste; measure sample delivered pieces against the approved schedule before dispatch.
 
 ### 32. Marble polishing
 
-Identify scratch depth, prior sealers and stone type. Compare polishing grits, material removal and dust control; inspect uniform sheen without hazing.
+Marble polishing starts with identifying scratches, dull areas, possible acid etching, stone type and previous treatments. Request a small trial before selecting abrasive stages; excessive grinding may alter levels and appearance. Compare labour, materials, dust and slurry control and protection of adjacent finishes. At handover inspect sheen under raking light for waviness and visible scratches rather than relying on a single photograph.
 
 ### 33. Marble floor laying
 
-Record floor area, stone thickness, substrate condition, joints and thresholds. Compare levelling, bedding and post-installation finishing; inspect lippage and vein direction.
+For marble floor laying, inspect substrate flatness, door thresholds, drains and floor area. Approve a laying plan showing piece dimensions, vein direction, joints and transitions to other finishes. Compare stone-compatible fixing, cuts around columns and protection during subsequent work. Accept the installation only after checking firm bedding, edge lippage, joint regularity, levels and drainage falls in wet areas.
 
 ### 34. Wall and façade marble installation
 
-Measure wall height, fixing points, openings and stone weight. Compare engineered mechanical fixing or appropriate bonding and check safe anchorage and edge details.
+Marble wall and façade installation depends on panel weight, height, substrate and exposure. Provide elevations, openings and concealed service locations, and request specialist fixing, support and joint details where needed; adhesive choice alone is insufficient. Compare fixing systems, access equipment, special cuts and water management rather than unit price alone. Inspect alignment, vein matching, edges and the specified installation records.
 
 ### 35. Marble restoration
 
-Photograph cracks, staining, wear and acid damage before specifying restoration. Compare specialist cleaning, filling, local replacement and polishing; inspect colour and edge consistency.
-
+Before marble restoration, photograph stains, cracks, scratches and loose pieces, noting affected area, stone type and location. Ask for a stone-compatible cleaning trial and a reasoned choice between filling, polishing, replacement and rebedding. Compare treatment scope, colour matching, protection of unaffected finishes and any stated warranty, without promising complete stain removal. At handover check secure pieces, joints and surface appearance under varied lighting.
 ## Kitchen surfaces and basins
 
 ### 36. Fabricate kitchen worktops

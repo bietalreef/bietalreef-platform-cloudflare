@@ -16,7 +16,6 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   const whatsappMessage = en
     ? `Hello Al Naeem, I would like a cleaning quotation in ${cityName}.\nService needed: \nProperty / parking area: \nSize / measurements: \nPreferred date: \nPhotos: \nListing: https://bietalreef.ae${servicePath}`
     : `مرحبًا شركة النعيم، أريد عرض سعر للتنظيف في ${cityName}.\nالخدمة المطلوبة: \nنوع العقار أو الموقف: \nالمساحة والمقاسات: \nالموعد المناسب: \nالصور: \nرابط الدليل: https://bietalreef.ae${servicePath}`;
-  if (cardOnly) return <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} whatsappMessage={whatsappMessage} coverageSlug={coverageSlug} location={cityName} />;
   const crumbs = [
     { href: `${prefix}/uae`, label: en ? 'UAE directory' : 'المنصة' },
     { href: `${prefix}/uae/${emirate.slug}`, label: en ? emirate.nameEn : emirate.nameAr },
@@ -24,6 +23,9 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
     { href: servicePath, label: en ? 'Cleaning services' : 'خدمات التنظيف' },
     { href: companyPath, label: en ? 'Al Naeem' : 'شركة النعيم' },
   ];
+
+  // Same compact DirectoryCompanyCard used for Al Rehab on location pages.
+  if(cardOnly)return <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} coverageSlug={coverageSlug} location={cityName} whatsappMessage={whatsappMessage}/>;
 
   return <div dir={en ? 'ltr' : 'rtl'} className="min-w-0 rounded-2xl border border-[#d9c9ac] bg-[#fbfaf6] p-4 sm:p-5">
     <nav aria-label={en ? 'Company discovery path' : 'مسار الوصول إلى الشركة'} className="mb-4 flex flex-wrap items-center gap-1.5 text-xs leading-6 text-[#546778]">

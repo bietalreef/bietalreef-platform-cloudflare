@@ -65,31 +65,31 @@ Split plumbing supplies by cold water, hot water, drainage and irrigation where 
 
 ### 15. Building-material retail
 
-Bring a measurable shopping list with unit, brand or grade, size and reference code. Compare returns, delivery charges and collection terms; approve substitutions in writing.
+For counter purchases of building materials, split the shopping list into structural products, finishes and consumables, and state each actual sales unit: bag, piece, linear metre, square metre or cubic metre. Provide product codes, sizes, grades and sample photographs, and clarify whether collection or delivery to a Mohammed Bin Zayed City site is needed. Compare the full invoice including handling, transport and return terms, not only unit prices. Approve substitutions before purchase and reconcile quantities, batch identifiers and damaged packaging against the invoice before leaving the collection point.
 
 ### 16. Sanitary ware retail
 
-Take bathroom dimensions, drainage centres and water-connection measurements when buying fixtures. Compare fit, colours and mounting kits; inspect packaged small parts at receipt.
+Buying a basin, toilet or mixer requires installation dimensions before choosing a finish. Measure available width, mounting height, water and waste connection centres, and clearances from walls and doors. Supply site photographs and the intended model reference; ask whether traps, isolation valves, hoses, fixing kits and warranty are included. Compare access to spare parts and maintenance as well as appearance. Where possible, open cartons with the seller and inspect ceramic surfaces, tap plating, accessories and model numbers before installation.
 
 ### 17. Electrical supplies retail
 
-Bring product numbers, appliance ratings and photographs of the existing breaker or outlet. Compare genuine electrical ratings and suitability; verify legible markings before installation.
+Before buying a breaker, switch or socket, identify its purpose, existing model and distribution-board nameplate; visual similarity does not establish electrical compatibility. A qualified electrician should confirm voltage, current, breaking capacity, protective characteristics and mounting compatibility against the circuit design, particularly for circuit breakers. Request manufacturer data, technical specifications and warranty, and reject downgraded substitutions. At receipt verify printed ratings, terminal condition and packaging. Leave commissioning and protection tests to the competent installer.
 
 ### 18. Plumbing supplies retail
 
-Choose plumbing fittings by diameter, pipe material and service conditions rather than appearance. Compare seals, joining compounds and installation needs; trial-fit components before service.
+For pipes or fittings used in leak repairs or new runs, photograph the old component and establish the relevant outside or inside diameter, connection type, operating pressure and temperature. Do not mix incompatible pipe systems or jointing compounds simply because nominal sizes look similar. Ask the supplier for a complete list of elbows, couplings, valves, seals and suitable joining tools; compare warranties and suitability for potable-water applications where relevant. Inspect codes, cracks and distortion on receipt, then require a leak or pressure test before the installer closes the wall.
 
 ### 19. Paint retail
 
-Identify interior/exterior use, exposure, coating system and sheen. Compare pack size, spreading rate and batch matching; retain a colour reference for later touch-ups.
+For a room touch-up or façade repaint, measure the substrate area, identify its material and condition, and record colour codes and sheen; photograph peeling or staining. Request a compatible surface-preparation, primer, filler and finish-coat system rather than a colour tin alone. Compare cost per coated area using declared spreading rates, recommended coats and waste allowance, checking whether the product is intended for interior or exterior exposure. Verify sealed packs, batch codes and shelf life on delivery, retain an approved sample, and resolve moisture sources before painting.
 
 ### 20. Waterproofing products retail
 
-Choose by leak location, substrate moisture and water pressure direction. Compare primer, membrane protection and curing period; do not rely on a generic 'waterproof' label.
+Before purchasing waterproofing products for a bathroom or roof, distinguish where water enters from where staining appears. Photograph drains, corners and movement joints, and measure the area, upstand heights, substrate condition and falls. Request the complete application system, including primer, corner reinforcement, protective layers, curing periods and manufacturer data sheets. Compare suitability for ponding, sunlight exposure or tank-water contact as applicable; do not substitute a product without technical review. Check batch numbers and intact seals on receipt and arrange the specified waterproofing test before covering the system.
 
 ### 21. Site materials delivery
 
-Specify each load, weight, unloading point, access permission and site hours. Compare crane versus manual unloading and freight responsibilities; count pallets and inspect packaging on the receipt.
+Site delivery is a logistics service distinct from material sales. Prepare a load schedule listing products, weights, dimensions and pallet counts, with photographs of site access, gate clearance and the approved unloading point. Specify whether a forklift, crane or unloading crew is required and who bears waiting, failed-delivery and transit-damage costs. Compare offers on legal vehicle capacity, any available insurance, handling charges and delivery windows rather than trip price alone. On arrival count items, inspect seals and breakage, photograph discrepancies and annotate the delivery note before final sign-off.
 
 ## Timber and sheet goods
 

@@ -215,7 +215,8 @@
         "general-maintenance",
         "building-materials",
         "aluminium-glass",
-        "furniture-decor"
+        "furniture-decor",
+        "equipment-rental"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/general-contracting/content-ar.md",
@@ -245,19 +246,19 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Editorial independent rewrites verified 388/434 bilingual services; equipment-rental 49/53 and cleaning-services 0/42; resume equipment-rental #50. Not approved for publication.",
-      "editorial_rewritten_service_entries": 374,
-      "editorial_remaining_service_entries": 60,
+      "review_note": "Independent bilingual editorial rewrites 392/434; equipment-rental 53/53 verified, cleaning-services 0/42 pending independent rewrite. Resume cleaning-services #1; not approved for publication.",
+      "editorial_rewritten_service_entries": 392,
+      "editorial_remaining_service_entries": 42,
       "editorial_progress": {
-        "sector": "equipment-rental",
-        "specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
-        "next_service_number": 50,
-        "sector_total": 53,
-        "sector_independently_rewritten": 49,
-        "remaining_in_sector": 4,
+        "sector": "cleaning-services",
+        "specialty": "",
+        "next_service_number": 1,
+        "sector_total": 42,
+        "sector_independently_rewritten": 0,
+        "remaining_in_sector": 42,
         "area_total": 434,
-        "area_independently_rewritten": 388,
-        "remaining_area_services_for_originality_review": 46,
+        "area_independently_rewritten": 392,
+        "remaining_area_services_for_originality_review": 42,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
           1,

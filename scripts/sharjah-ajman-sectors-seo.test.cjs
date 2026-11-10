@@ -53,7 +53,7 @@ assert.match(meta,/rel="canonical"/);
 assert.match(meta,/name="robots" content="index, follow"/);
 const sitemap=read('pages/sitemap.xml.js');
 assert.match(sitemap,/\['abu-dhabi','dubai','sharjah','ajman'\]/);
-assert.match(sitemap,/\{lastmod:'2026-11-09'\}/);
+assert.match(sitemap,/\{lastmod:'2026-11-10'\}/);
 const explorer=read('components/SectorTaxonomyExplorer.js');
 assert.match(explorer, /aria-expanded=\{expanded\}/);
 assert.match(explorer, /specialtyRows\.map/);

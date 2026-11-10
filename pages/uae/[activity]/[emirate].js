@@ -29,7 +29,6 @@ import { AL_NAEEM_EDITORIAL_DATA } from '../../../lib/alNaeemPresence';
 import { alNaeemCoverageFor } from '../../../lib/alNaeemLocalSeo';
 import { getRehabSiteData } from '../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../components/UaeDirectorySectorCards';
-import MainSectorCards from '../../../components/MainSectorCards';
 import {UAE_MAIN_SECTORS} from '../../../data/directoryDiscovery';
 import {areaEditorialFor} from '../../../data/sharjahAjmanAreaEditorial';
 import UaeDirectoryWeyaakCard from '../../../components/UaeDirectoryWeyaakCard';
@@ -80,7 +79,7 @@ function EmirateServiceHub({ emirate, service, emirateSlug, rehab, geographicCar
           <UaeDirectoryHero locale="ar" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {seo?.context?.length>0 && <section className="mx-auto max-w-6xl px-3 pt-6 sm:px-4" aria-label="إرشادات خاصة بالمشاريع في الإمارة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">ما الذي يلزم قبل طلب هذه الخدمات في {emirate.nameAr}؟</h2>{seo.context.map((paragraph,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={emirate.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug))&&<section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة النعيم لخدمات التنظيف في الإمارة"><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} locale="ar" cardOnly/></div></section>}
+          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,null))&&!geographicCards?.some(row=>row.providerSlug==='al-naeem-cleaning-services')&&<section className="mx-auto max-w-6xl px-4 pb-8" aria-label="شركة تنظيف تستقبل طلبات هذه المنطقة"><h2 className="mb-3 text-lg font-extrabold text-[#193b53]">شركة النعيم لخدمات التنظيف في {emirate.nameAr}</h2><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} locale="ar" cardOnly /></div></section>}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={emirate.nameAr} pagePath={'/uae/'+emirateSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={emirate.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" showEditorial excludeSpecialties={sectorTaxonomy}/>}
@@ -146,20 +145,20 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
 
       <div dir="rtl" className="min-h-screen bg-[#FDFBF7] text-gray-900 font-sans">
         <Navbar pageTitle={area.nameAr} />
-        {emirate.slug !== 'abu-dhabi' && <SecondaryHeader backUrl={`/uae/${emirateSlug}`} backLabel={`العودة إلى ${emirate.nameAr}`} />}
+        {emirate.slug !== 'abu-dhabi' && !regionArea && <SecondaryHeader backUrl={`/uae/${emirateSlug}`} backLabel={`العودة إلى ${emirate.nameAr}`} />}
 
         <main>
           <UaeDirectoryHero locale="ar" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
-          {regionText&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="معلومات عن أعمال المنطقة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">تجهيز طلب مشروع في {area.nameAr}</h2>{regionText.map((p,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{p}</p>)}</div></section>}
+          
 
           {!abuLocal&&!regionArea&&!northernLocal&&<UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`الخدمات والتخصصات المتاحة في ${area.nameAr}`} description={`تعرض هذه الصفحة جميع تخصصات المنصة داخل ${area.nameAr}. اختر التخصص المطلوب للانتقال إلى صفحته واستعراض الشركات المرتبطين بالمكان والتخصص.`} />}
 
           <UaeDirectoryWeyaakCard locale="ar" title={`وياك في ${area.nameAr}`} description={`أخبر وياك بما يحتاجه مشروعك في ${area.nameAr}، وسيساعدك في تحديد التخصص والوصول إلى الشركة أو مسار الطلب المناسب.`} />
 
-          {abuLocal||northernLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} emirate={northernLocal?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:regionArea? <section className="mx-auto max-w-6xl px-3 py-7 sm:px-4" aria-labelledby="area-service-head"><h2 id="area-service-head" className="text-xl font-extrabold text-[#193b53] sm:text-2xl">اختر تخصص مشروعك في {area.nameAr}</h2><div className="mt-4"><MainSectorCards locale="ar" locationRoot={'/uae/'+emirate.slug+'/'+area.slug} locationMode="emirate-area" sectionKey="providers"/></div></section>:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
+          {abuLocal||northernLocal||regionArea?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} emirate={northernLocal||regionArea?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
-            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" cardOnly/></div>
+            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" cardOnly /></div>
           </section>}
 
           {!abuLocal&&!regionArea&&!northernLocal&&<SeoContent title={`${area.nameAr} في دليل بيت الريف`}>

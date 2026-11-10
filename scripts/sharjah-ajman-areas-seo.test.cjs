@@ -42,12 +42,13 @@ assert.match(main,/locationRoot\+'\/'\+sector.slug/);
 for(const [locale,file] of [['ar','pages/uae/[activity]/[emirate].js'],['en','pages/en/uae/[emirate]/[area].js']]){
  const page=read(file);
  assert.match(page,/areaEditorialFor\(emirate.slug,area.slug,/);
- assert.match(page,/locationMode="emirate-area"/);
- assert.match(page,/MainSectorCards locale=/);
+ assert.match(page,/abuLocal\|\|northernLocal\|\|regionArea\?<AbuDhabiAreaGuide/);
+ assert.match(page,/emirate=\{northernLocal\|\|regionArea\?emirate:null\}/);
+ assert.doesNotMatch(page,/<MainSectorCards locale=/);
  assert.match(page,/regionArea&&<DirectorySectorQuoteForm locale=/);
  assert.match(page,/UaeDirectorySeo locale=/);
  assert.match(page,/area=\{regionArea\|\|northernLocal\?area:undefined\}/);
- assert.match(page,/area-service-head/);
+ assert.match(page,/baniyasReadingHtml=\{baniyasReadingHtml\}/);
 }
 for(const [locale,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
  const page=read(file);
@@ -71,10 +72,19 @@ assert.match(sitemap,/areaEditorialFor\(emirate.slug,area.slug,'ar'\)/);
 assert.match(sitemap,/for \(const sector of UAE_MAIN_SECTORS\)/);
 assert.match(sitemap,/addPair\(hub,'\/en'\+hub/);
 assert.match(sitemap,/addPair\(path,'\/en'\+path/);
-assert.match(sitemap,/lastmod:'2026-11-09'/);
+assert.match(sitemap,/lastmod:'2026-11-10'/);
 const explorer=read('components/SectorTaxonomyExplorer.js');
 assert.match(explorer,/hidden=\{!expanded\}/);
 assert.match(explorer,/serviceGuides\?\.sector===normalized/);
 assert.match(explorer,/id=\{'service-'/);
 assert.match(explorer,/aria-expanded=\{expanded\}/);
 console.log('Sharjah and Ajman areas: PASS — original bilingual copy for all 19 areas, eight sector pages per area, server-rendered service guides, canonical, sitemap, one customer RFQ.');
+
+const guide=read('components/AbuDhabiAreaGuide.js');
+assert.match(guide,/areaEditorialFor\(emirate.slug,areaSlug,locale\)/);
+assert.match(guide,/emirateSectorEditorial\(emirate.slug,sector.slug,locale\)/);
+assert.match(guide,/UAE_MAIN_SECTORS.map\(sector/);
+assert.match(guide,/DirectoryResponsiveImage asset=\{UAE_SECTOR_ASSETS\[sector.slug\]\}/);
+assert.match(guide,/DirectoryReadModal title=/);
+assert.match(guide,/href=\{href\}/);
+assert.match(guide,/regional\?<p className=\{styles.lede\}>/);

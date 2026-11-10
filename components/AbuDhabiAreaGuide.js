@@ -12,6 +12,8 @@ import chapterIndex from '../data/abuDhabiChapterIndex.json';
 import {EMIRATE_TOPIC_ANSWERS} from '../data/emirateTopicAnswers';
 import {emirateTopicTitle} from '../lib/emirateTopicTitle';
 import localContexts from '../data/abuDhabiAreaSectorContexts.json';
+import {areaEditorialFor} from '../data/sharjahAjmanAreaEditorial';
+import {emirateSectorEditorial} from '../data/sharjahAjmanSectorEditorial';
 
 import styles from './AbuDhabiAreaGuide.module.css';
 
@@ -22,7 +24,9 @@ const safeText=(str)=>String(str||'').replaceAll('&','&amp;').replaceAll('<','&l
 function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate=null,area=null){
  if(areaSlug==='baniyas' && sector.slug==='general-contracting' && baniyasReadingHtml) return baniyasReadingHtml;
  const note=sectorGuidance[sector.slug]?.[locale];
- const localNote=isNorthernEmirate(emirate?.slug)?northernAreaSectorNote(emirate,area,sector.slug,locale):(localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'');
+ const regional=['sharjah','ajman'].includes(emirate?.slug);
+ const regionGuide=regional?emirateSectorEditorial(emirate.slug,sector.slug,locale):null;
+ const localNote=regional?(regionGuide?.context?.[0]||''):isNorthernEmirate(emirate?.slug)?northernAreaSectorNote(emirate,area,sector.slug,locale):(localContexts.contexts[areaSlug]?.[sector.slug]?.[locale]||'');
  const localTopics=isNorthernEmirate(emirate?.slug)?(chapterIndex.items[sector.slug]||[]):[];
  const localAnswers=EMIRATE_TOPIC_ANSWERS[sector.slug]||[];
  const topicHtml=localTopics.map((topic,index)=>{
@@ -37,27 +41,41 @@ function readingHtml(entry,sector,locale,areaSlug,baniyasReadingHtml,emirate=nul
  return opening+
   `<h3>${locale==='en'?'What to check before requesting a quote':'ما الذي تراجعه قبل طلب عرض السعر؟'}</h3><p>${safeText(note)}</p>`+
   `<h3>${locale==='en'?'Considerations in this particular area':'ما الذي يميز هذا العمل في المنطقة؟'}</h3><p>${safeText(localNote)}</p>`+
-  `<p>${safeText(entry.focus)}</p>`+
+  (regional?'':`<p>${safeText(entry.focus)}</p>`)+
   (topicHtml?`<h3>${locale==='en'?'Detailed questions for this specialty':'محاور تفصيلية لاختيار الخدمة'}</h3>`+topicHtml:'')+
   `<p>${locale==='en'?'Confirm the business actually covers your site and read the quotation inclusions and exclusions before placing an order.':'تحقق من نطاق تغطية الشركة لموقعك الفعلي، وراجع البنود المشمولة والمستثناة قبل اعتماد العرض.'}</p>`;
 }
 export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],baniyasReadingHtml=null,emirate=null}){
- const northern=isNorthernEmirate(emirate?.slug),area=northern?getArea(emirate.slug,areaSlug):null;
- const en=locale==='en',entry=northern?northernAreaEditorial(emirate,area,locale):regionEditorial.areas[areaSlug]?.[locale];
+ const northern=isNorthernEmirate(emirate?.slug);
+ const regional=['sharjah','ajman'].includes(emirate?.slug);
+ const area=(northern||regional)?getArea(emirate.slug,areaSlug):null;
+ const en=locale==='en';
+ const regionText=regional?areaEditorialFor(emirate.slug,areaSlug,locale):null;
+ const regionName=area?(en?area.nameEn:area.nameAr):'';
+ const emirateName=emirate?(en?emirate.nameEn:emirate.nameAr):'';
+ const entry=regional&&regionText?{
+   title:regionName+'، '+emirateName,
+   intro:regionText[0],focus:regionText[1],
+   services:en?'Explore each project specialty with its local description and verified destination link.':'استعرض تخصص مشروعك مع شرحه ورابط صفحته المحلية المعتمدة.',
+   faq:[
+     [en?'What project information should I share for '+regionName+'?':'ما المعلومات المطلوبة لطلب خدمة في '+regionName+'؟',regionText[0]],
+     [en?'How should I compare proposals for work here?':'كيف أقارن عروض الخدمات في '+regionName+'؟',regionText[1]],
+   ],
+ }:northern?northernAreaEditorial(emirate,area,locale):regionEditorial.areas[areaSlug]?.[locale];
  if(!entry)return null;
  const prefix=en?'/en':'';
  const crumbs={ '@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[
    {'@type':'ListItem',position:1,name:en?'United Arab Emirates':'الإمارات العربية المتحدة',item:'https://bietalreef.ae'+prefix+'/uae'},
-   {'@type':'ListItem',position:2,name:northern?(en?emirate.nameEn:emirate.nameAr):(en?'Abu Dhabi Emirate':'إمارة أبوظبي'),item:'https://bietalreef.ae'+prefix+'/uae/'+(northern?emirate.slug:'abu-dhabi')},
+   {'@type':'ListItem',position:2,name:(northern||regional)?emirateName:(en?'Abu Dhabi Emirate':'إمارة أبوظبي'),item:'https://bietalreef.ae'+prefix+'/uae/'+((northern||regional)?emirate.slug:'abu-dhabi')},
    {'@type':'ListItem',position:3,name:entry.title,item:'https://bietalreef.ae'+prefix+'/uae/'+(northern?emirate.slug:'abu-dhabi')+'/'+areaSlug},
  ]};
- const root=`${prefix}/uae/${northern?emirate.slug:'abu-dhabi'}`;
+ const root=`${prefix}/uae/${northern||regional?emirate.slug:'abu-dhabi'}`;
  return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className={styles.wrapper}>
-   <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(crumbs)}} />
+   {!regional&&<script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(crumbs)}} />}
    <nav aria-label={en?'Breadcrumb':'مسار التصفح'} className={styles.breadcrumb}>
      <Link href={`${prefix}/uae`}>{en?'United Arab Emirates':'الإمارات العربية المتحدة'}</Link>
      <span aria-hidden="true">/</span>
-     <Link href={root}>{northern?(en?emirate.nameEn:emirate.nameAr):(en?'Abu Dhabi Emirate':'إمارة أبوظبي')}</Link>
+     <Link href={root}>{(northern||regional)?emirateName:(en?'Abu Dhabi Emirate':'إمارة أبوظبي')}</Link>
      <span aria-hidden="true">/</span>
      <span aria-current="page">{entry.title.replace(/ 2026$/,'')}</span>
    </nav>
@@ -95,7 +113,7 @@ export default function AbuDhabiAreaGuide({locale='ar',areaSlug,providers=[],ban
    <section className={styles.section} aria-labelledby="area-companies">
      <h2 id="area-companies">{en?'Published businesses by service area':'الشركات المنشورة حسب نطاق الخدمة'}</h2>
      {providers.length > 0 && <p className={styles.lede}>{en ? 'Ask each business to confirm service availability for your exact location and date.' : 'تواصل مع الشركة لتأكيد توفر الخدمة في موقعك والموعد المناسب.'}</p>}
-     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : <DirectoryCustomerSupportCard locale={locale} place={northern?(en?area.nameEn+', '+emirate.nameEn:area.nameAr+'، '+emirate.nameAr):''}/>}</div>
+     <div className={styles.businesses}>{providers.length ? providers.map(item=><DirectoryCompanyCard key={item.id} locale={locale} item={item}/>) : regional?<p className={styles.lede}>{en?'No published company yet. Select a specialty and use the single quotation form at the end of the page.':'لا توجد شركة منشورة هنا حاليًا. اختر التخصص ثم استخدم نموذج طلب عرض السعر الموحد في نهاية الصفحة.'}</p> : <DirectoryCustomerSupportCard locale={locale} place={northern?(en?area.nameEn+', '+emirate.nameEn:area.nameAr+'، '+emirate.nameAr):''}/>}</div>
    </section>
    <section className={styles.section} aria-labelledby="area-questions">
      <h2 id="area-questions">{en?'Questions people ask about services here':'أسئلة تساعدك قبل الاتفاق'}</h2>

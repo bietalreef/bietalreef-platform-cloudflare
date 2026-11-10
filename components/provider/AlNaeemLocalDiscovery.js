@@ -3,7 +3,7 @@ import AlNaeemDirectoryCard from './AlNaeemDirectoryCard';
 import { AL_NAEEM_EDITORIAL_DATA } from '../../lib/alNaeemPresence';
 import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
-export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false }) {
+export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false }) {
   const coverageSlug = alNaeemCoverageFor(emirate?.slug, area?.slug || null);
   const place = AL_NAEEM_EDITORIAL_DATA.coverageAreas.find(item => item.slug === coverageSlug);
   if (!place) return null;
@@ -24,6 +24,8 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
     { href: servicePath, label: en ? 'Cleaning services' : 'خدمات التنظيف' },
     { href: companyPath, label: en ? 'Al Naeem' : 'شركة النعيم' },
   ];
+
+  if(cardOnly)return <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} contextHref={companyPath} whatsappMessage={whatsappMessage}/>;
 
   return <div dir={en ? 'ltr' : 'rtl'} className="min-w-0 rounded-2xl border border-[#d9c9ac] bg-[#fbfaf6] p-4 sm:p-5">
     <nav aria-label={en ? 'Company discovery path' : 'مسار الوصول إلى الشركة'} className="mb-4 flex flex-wrap items-center gap-1.5 text-xs leading-6 text-[#546778]">

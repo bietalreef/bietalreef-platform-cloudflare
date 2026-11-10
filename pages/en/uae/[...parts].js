@@ -9,6 +9,7 @@ import {abuDhabiAreaCompanyProps} from '../../../lib/abuDhabiAreaCompanyContext'
 import {geographicAreaCompanyProps} from '../../../lib/geographicCompanyContext';
 import {UAE_MAIN_SECTORS} from '../../../data/directoryDiscovery';
 import { geographicRouteProps } from '../../../lib/geographicRouteProps';
+import {alNaeemDirectoryRedirect} from '../../../lib/alNaeemLocalSeo';
 
 export default function ContextualDirectoryCompany(props) {
   if (props.geographicService) return <GeographicServicePage item={props.item} />;
@@ -18,6 +19,8 @@ export default function ContextualDirectoryCompany(props) {
 
 export async function getServerSideProps(context) {
   const parts = context.params?.parts || [];
+  const naeemDestination=alNaeemDirectoryRedirect(parts,'en');
+  if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};
   if (['abu-dhabi','dubai'].includes(parts[0])) {
     const sectorSet = new Set(UAE_MAIN_SECTORS.map(item => item.slug));
     let args = null;

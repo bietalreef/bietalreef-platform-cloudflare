@@ -12,6 +12,8 @@ A layout review helps when storage is insufficient or the sink, cooker and fridg
 
 **Quotation comparison and agreement:** Compare drawing deliverables, revision rounds and material schedules; approve drawings before cutting.
 
+**Quotation request:** Request a separate price for the measured layout, elevations, revision rounds and buildable drawings, identifying the site-survey fee.
+
 **Handover checks:** Check appliance clearances, door swings and the plan against site measurements.
 
 ## 2. Kitchen fabrication
@@ -23,6 +25,8 @@ Approved drawings must become accurately cut and protected units, not just a ren
 **Scope and exclusions:** Specify board type, thickness, edge sealing, backs, hardware and workshop assembly; worktops, appliances and fitting are not assumed included.
 
 **Quotation comparison and agreement:** Compare cut lists, hardware brands, sample approval and protection during delivery.
+
+**Quotation request:** Provide the unit schedule, board grade and thickness, edging and hardware schedule; request separate fabrication, transport and fitting prices.
 
 **Handover checks:** Inspect dimensions, finish consistency and any swelling or chipped edges before dispatch.
 
@@ -36,6 +40,8 @@ Installation follows finished floors and a survey of wall alignment and connecti
 
 **Quotation comparison and agreement:** Compare fixing materials, protection, waste removal and installation responsibility.
 
+**Quotation request:** State the number of units, wall construction, finish readiness and access dates; ask for fixing, alignment and wet-joint sealing as priced items.
+
 **Handover checks:** Operate every drawer and door; inspect levels, exposed gaps and wet-edge sealing.
 
 ## 4. Wardrobe design
@@ -47,6 +53,8 @@ A tailored wardrobe can solve blocked door swings and poor storage access.
 **Scope and exclusions:** Specify internal compartments, shelves, drawers, ventilation and hinged or sliding doors; lighting and manufacture are separate unless listed.
 
 **Quotation comparison and agreement:** Compare access, storage capacity and hardware specifications.
+
+**Quotation request:** Supply wall dimensions, door clearance and required hanging and drawer capacity; ask for two comparable layout options.
 
 **Handover checks:** Check reach to shelves and that doors do not strike other furniture.
 
@@ -60,6 +68,8 @@ Once storage layout is agreed, parts must be produced consistently for site asse
 
 **Quotation comparison and agreement:** Compare rail quality, shelf support and edge protection.
 
+**Quotation request:** Request a per-unit breakdown for carcasses, shelves, fronts and runners, with delivery and assembly identified separately.
+
 **Handover checks:** Count all parts and inspect drawer assembly and edge finish.
 
 ## 6. Walk-in closet fit-out
@@ -71,6 +81,8 @@ Walk-in rooms require circulation and lighting decisions before cabinetry fills 
 **Scope and exclusions:** Specify hanging sections, shelves and mirrors; electrical works and centre islands must be separately identified if not included.
 
 **Quotation comparison and agreement:** Compare cleaning access, lighting details and tall-unit anchoring.
+
+**Quotation request:** Share aisle dimensions, lighting and AC positions and storage heights; price mirrors, islands and electrical lighting separately.
 
 **Handover checks:** Open drawers while checking that a person can still pass through the aisle.
 
@@ -84,6 +96,8 @@ Swollen boards or sagging doors may warrant local repair rather than total repla
 
 **Quotation comparison and agreement:** Compare repair cost with replacement and check remaining carcass condition.
 
+**Quotation request:** Send defect photos and the moisture source; request two priced alternatives: repair of affected parts or replacement of damaged units.
+
 **Handover checks:** Confirm the moisture cause is addressed and test repaired moving parts.
 
 ## 8. Wood door fabrication
@@ -95,6 +109,8 @@ A new leaf may be required for a changed room layout or irreparable damage.
 **Scope and exclusions:** Define core construction, veneer or paint, leaf thickness, edging, frame and ironmongery. Moisture or acoustic performance needs specific evidence.
 
 **Quotation comparison and agreement:** Compare physical samples, leaf straightness and included fittings.
+
+**Quotation request:** List each opening, swing direction, core, veneer, frame and hardware specification; request an approved sample and itemised price.
 
 **Handover checks:** Inspect dimensions, flatness and finish before shipment.
 
@@ -108,6 +124,8 @@ An accurately made door can still drag if the frame or hinges are misaligned.
 
 **Quotation comparison and agreement:** Compare fixing methods, gap treatment and damage liability.
 
+**Quotation request:** Describe finished floor levels and opening condition for every door; separate fitting, frame trim, making good and debris removal.
+
 **Handover checks:** Cycle the door and test latch and lock without forcing the leaf.
 
 ## 10. Fire-rated door fabrication
@@ -119,6 +137,8 @@ Fire-rated assemblies are safety systems, not ordinary timber doors with thicker
 **Scope and exclusions:** Specify a documented compliant door set including leaf, frame, seals, hinges, closer and lock for the required application. Substituting components may invalidate conformity.
 
 **Quotation comparison and agreement:** Compare valid test and conformity evidence and qualified installation, not price alone.
+
+**Quotation request:** Attach the required rating, approved drawings and locations; request a complete documented compliant doorset including fitting and evidence.
 
 **Handover checks:** Check labels, documentation, self-closing action and specified gaps; competent authority acceptance remains necessary.
 
@@ -132,6 +152,8 @@ A loose frame or changed wall finish can require a replacement frame.
 
 **Quotation comparison and agreement:** Compare anchoring method and compatibility with hinges and lock.
 
+**Quotation request:** Provide wall thickness, opening sizes and leaf and hinge details; request separate frame, architrave, fixing and making-good costs.
+
 **Handover checks:** Check plumb, square corners and frame rigidity during operation.
 
 ## 12. Timber partition construction
@@ -143,6 +165,8 @@ A partition can screen an entrance or divide a room without acting as a structur
 **Scope and exclusions:** Define slat or panel material, spacing, anchors and finish. Acoustic or fire performance must not be claimed without documented design.
 
 **Quotation comparison and agreement:** Compare stability, cleanability and edge safety.
+
+**Quotation request:** State partition length, height, slat spacing and fixing substrates; request anchoring, edge treatment and finishing details.
 
 **Handover checks:** Inspect parallel slats, secure joints and smooth edges.
 
@@ -156,6 +180,8 @@ Squeaking hinges, rubbing leaves and faulty latches require diagnosis before rep
 
 **Quotation comparison and agreement:** Compare replacement parts, call-out charges and repair warranty.
 
+**Quotation request:** Share an operating video, door count and lock types; separate diagnostic visit, replacement parts and labour in the quotation.
+
 **Handover checks:** Open and close repeatedly and check screws and locking action.
 
 ## 14. Wood painting and refinishing
@@ -167,6 +193,8 @@ Faded or scratched joinery needs an assessment of the existing coating before re
 **Scope and exclusions:** Include compatibility testing, preparation, sanding, filling, protection and ventilation. Replacing rotten panels is excluded.
 
 **Quotation comparison and agreement:** Compare test samples, coat system, application method and curing time.
+
+**Quotation request:** State coating type, surface area and desired sheen; request a trial sample, preparation schedule, coat system and curing period.
 
 **Handover checks:** Inspect even colour and absence of runs or bubbles after curing.
 

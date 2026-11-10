@@ -95,33 +95,31 @@ Site delivery is a logistics service distinct from material sales. Prepare a loa
 
 ### 22. MDF board supply
 
-Specify MDF thickness, moisture grade, surface finish, board size and cut plan. Compare density, edge integrity, cutting charges and waste; reject swollen sheets.
+MDF supply for a kitchen or wardrobe starts with the use case: dry cabinet interiors and panels close to sinks or steam may need different product grades. Provide cabinet drawings, sheet dimensions, required thickness in millimetres, the face finish and a cutting schedule. Ask for the manufacturer, board grade and documented moisture suitability rather than accepting an unsupported 'waterproof' label; moisture-resistant board is not necessarily suitable for immersion. Compare full-sheet pricing with cutting, edge banding, waste allowance and delivery to Mohammed Bin Zayed City. On receipt, check flatness, corners and edge swelling, then reconcile thickness, quantities and product codes before fabrication.
 
 ### 23. Natural timber supply
 
-State timber species, section, lengths and moisture level for indoor or outdoor use. Compare straightness, knots and treatment; reject warped pieces before cutting.
+For solid timber used in doors, stairs or furniture, specify acceptable timber species, finished or rough section sizes, lengths, surface finish and indoor or outdoor exposure. Request photographs of both faces and end grain, together with drying or treatment information where relevant, and agree allowable knots and splits instead of relying on the species name alone. Compare usable net lengths or volume, grading, machining and transport rather than an unqualified price per piece. At the Mohammed Bin Zayed City delivery point, inspect straightness, bowing, end checks and section dimensions, and confirm any moisture measurement required by the joinery workshop before cutting.
 
 ### 24. Plywood supply
 
-Identify plywood grade, bonding type, ply count and expected exposure. Compare edge voids, bonding and moisture suitability; sample thickness and delamination resistance.
+Plywood suitable for a cabinet back may be unsuitable for concrete formwork or a damp location. Specify the intended application, sheet dimensions, nominal thickness, face grades and bonding or moisture-exposure requirements from the project specification. Request a sample or edge photograph to assess ply consistency, and clarify the core construction and any coating. Compare usable yield after cutting, face quality, replacement terms for defective sheets and delivery or unloading charges. At receipt, look for delamination, visible core gaps, warping and water damage; record discrepancies in thickness or product grade before accepting the batch.
 
 ### 25. Melamine board supply
 
-Set board thickness, melamine colour, texture, units and grain direction. Compare face finish, edge banding and matching batches; check scratches before cutting.
+For melamine-faced boards used in wardrobes or display units, prepare a cut list showing panel thickness, decor code, colour on each face and grain direction where relevant. Do not approve a colour from a phone image alone: request a physical panel and matching edge-band sample under lighting similar to the installation. Distinguish full-sheet supply from pre-cut, drilled and edge-banded components when comparing quotations. Confirm batch consistency if deliveries are split, and protective wrapping for transport to Mohammed Bin Zayed City. At receipt, inspect faces for scratches and edges for small chips, and match codes, dimensions and quantities to the cut list.
 
 ### 26. HPL sheet supply
 
-Specify whether HPL serves countertops, doors or wall surfaces and its thickness and bonding system. Compare scratch/moisture performance and substrate suitability; match colours across sheets.
+Before ordering HPL, distinguish thin high-pressure laminate intended for bonding to a substrate from compact self-supporting panels; they are not automatically interchangeable. Specify the application, thickness, texture, decor code and edge or corner details. Request product data covering fixing, cleaning and suitability for moisture or heat exposure. The quote must state whether substrate, adhesive, pressing, cutting and finishing are included or whether it covers sheets only. Compare physical samples, seam planning and availability for later batches. On delivery, check batch identifiers, shade consistency, cracks and distortion before fabrication.
 
 ### 27. Joinery fittings supply
 
-List hinges, runners, handles, sizes and drawer loads. Compare load ratings, motion and warranty; check actual part models against drawings.
+Joinery hardware should be ordered against a schedule linking each hinge, drawer runner or handle to a numbered cabinet on the drawings. Record door count and swing, door thickness, drawer dimensions and expected operating loads, plus existing hole positions for replacements. Ask for exact model numbers, fitting dimensions, published load ratings, closing action and all mounting parts; 'soft close' alone does not define the specification. Compare the price of complete sets including plates, screws and warranty rather than incomplete individual parts. Count delivered items, check model labels and trial-fit a sample before approving the whole order.
 
 ### 28. Board cutting and preparation
 
-Supply labelled cut plans specifying dimensions, board type, grain direction and edge banding. Compare cutting tolerance, yield and transport; measure samples and check labels at collection.
-
-## Natural stone and granite
+For panel cutting and preparation, issue a numbered cutting file stating each part's length, width, thickness, grain direction, visible face, edge-banding sides and drilling positions. Confirm final dimensions after site measurement and hardware clearance checks; do not confuse finished cabinet dimensions with net component sizes. Ask the workshop for a cutting layout showing waste, part identification, packing method and responsibility for remaking incorrect pieces. Compare dimensional accuracy, edge-banding quality, drilling and transport, not cutting price alone. At collection or delivery, measure sample pieces in millimetres and inspect squareness, bonded edges and labels against the assembly list.
 
 ### 29. Natural marble supply
 

@@ -4,7 +4,7 @@ import DirectoryContextCompany from '../../../../../components/provider/Director
 import { getCompanyStaticContextProps } from '../../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../../components/provider/RehabPresencePage';
 import AlNaeemPresencePage from '../../../../../components/provider/AlNaeemPresencePage';
-import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../../../../lib/alNaeemPresence';
+
 import { getRehabStaticContextProps } from '../../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../../data/alAinHub';
 import { CONTENT } from '../../../../../data/alAinContent';
@@ -21,7 +21,7 @@ import UaeContextInfoCard from '../../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../../components/UaeActivityProviders';
 import AlNaeemLocalDiscovery from '../../../../../components/provider/AlNaeemLocalDiscovery';
 import {AL_NAEEM_EDITORIAL_DATA} from '../../../../../lib/alNaeemPresence';
-import {alNaeemCoverageFor,alNaeemDirectoryRedirect} from '../../../../../lib/alNaeemLocalSeo';
+import {alNaeemCoverageFor,alNaeemDirectoryRedirect,getAlNaeemDirectoryContextProps} from '../../../../../lib/alNaeemLocalSeo';
 import GeographicServiceCards from '../../../../../components/GeographicServiceCards';
 import GeographicOfferCards from '../../../../../components/GeographicOfferCards';
 import {getGeographicPublishedServiceCards} from '../../../../../lib/platformPublishedServiceCards';
@@ -78,8 +78,8 @@ export default function EnglishLocalServicePage({ alNaeemContext = false, model,
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} area={area} service={service} cleanNavigation />
           {regionArea&&areaSeo?.context?.length>0&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="Area-specific project guidance"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">Before requesting this service in {area.nameEn}</h2>{areaSeo.context.map((paragraph,index)=><p key={index} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {!geoSector && <UaeContextInfoCard locale="en" locationLabel={`${area.nameEn}, ${emirate.nameEn}`} title={`About ${service.nameEn} in ${area.nameEn}`} description={`This page places ${service.nameEn.toLowerCase()} in its correct location context and provides a clear path back to the area and emirate or forward to a project request.`} />}
-          {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={area.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} rehab={rehab} />}
-          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,area.slug))&&!geographicCards?.some(row=>row.providerSlug==='al-naeem-cleaning-services')&&<section className="mx-auto max-w-6xl px-4 pb-8" aria-label="Company offering cleaning enquiries in this location"><h2 className="mb-3 text-lg font-extrabold text-[#193b53]">Al Naeem cleaning enquiries in {area.nameEn}</h2><div className={emirate.slug==='umm-al-quwain'?'w-full':'max-w-[620px]'}><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly showServices={emirate.slug==='umm-al-quwain'}/></div></section>}
+          {geoSector ? <GeographicServiceCards items={service.slug==='cleaning-services'?geographicCards?.filter(row=>row.providerSlug!=='al-naeem-cleaning-services'):geographicCards} locale="en" place={area.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} rehab={rehab} />}
+          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,area.slug))&&<section className="mx-auto max-w-6xl px-4 pb-8" aria-label="Company offering cleaning enquiries in this location"><h2 className="mb-3 text-lg font-extrabold text-[#193b53]">Al Naeem cleaning enquiries in {area.nameEn}</h2><div className="w-full"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly showServices/></div></section>}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={servicePlace} pagePath={'/en/uae/'+emirate.slug+'/'+area.slug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement={regionArea||northern?'external':'inline'} onServiceRequest={regionArea||northern?setRequestedService:undefined}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={area.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" excludeSpecialties={sectorTaxonomy}/>}
@@ -95,9 +95,9 @@ export default function EnglishLocalServicePage({ alNaeemContext = false, model,
 }
 
 export async function getStaticProps({ params }) {
-  // UAQ contextual company URL resolves before generic legacy redirects.
-  if(params.emirate==='umm-al-quwain'&&params.area==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
-    return {...await getUaqNaeemContextProps('en'),revalidate:3600};
+  // Reuse one company, service and canonical route resolver for all approved regions.
+  const naeemContext=getAlNaeemDirectoryContextProps([params.emirate,params.area,params.service],'en');
+  if(naeemContext)return {...naeemContext,revalidate:3600};
   // Specific three-segment Next.js route takes precedence over the catch-all.
   const naeemDestination=alNaeemDirectoryRedirect([params.emirate,params.area,params.service],'en');
   if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};

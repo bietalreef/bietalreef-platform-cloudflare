@@ -1,61 +1,65 @@
-const assert=require('node:assert/strict');
-const fs=require('node:fs'),path=require('node:path');
-const read=p=>fs.readFileSync(path.join(__dirname,'..',p),'utf8');
-const source=read('lib/alNaeemPresence.js');
-for(const slug of ['fujairah','kalba','khorfakkan','ras-al-khaimah','dubai','sharjah','umm-al-quwain','al-ain']) {
-  assert.ok(source.includes("slug:'"+slug+"'"),'missing approved coverage '+slug);
-}
-assert.ok(source.includes("route.kind==='service-areas'?(data.coverageAreas||data.areas):null"),'area route must validate entire published coverage');
-assert.ok(source.includes("data.coverageAreas||data.areas).some(x=>x.slug===route.areaSlug)"),'nested service route must respect approved coverage');
-const card=read('components/provider/AlNaeemDirectoryCard.js');
-assert.ok(card.includes("alNaeemPath(locale,{kind:'service-areas',slug:coverageSlug})"),'card must open contextual area profile');
-assert.ok(card.includes("alNaeemPath(locale,{kind:'services',slug:service.slug,areaSlug:coverageSlug})"),'service links must resolve inside area profile');
-const placement=read('components/provider/AlNaeemLocalDiscovery.js');
-assert.ok(placement.includes('coverageSlug={profileOnly?null:coverageSlug}'),'profile placement must not assume location-specific company path');
-assert.ok(placement.includes('contextHref={profileOnly?null:contextHref}'),'profile card must retain canonical provider href');
-assert.ok(placement.includes('location={cityName}'),'local place label retained');
-const company=read('components/provider/AlNaeemPresencePage.js');
-assert.ok(company.includes('items.map(x=><Link href={alNaeemPath(locale,{kind,slug:x.slug})}'),'area links stay inside the company profile');
-const directory=read('components/DirectoryLandingPage.js');
-assert.ok(directory.includes('alNaeemCoverageFor(mode)'),'emirate company display must use shared coverage resolver');
-assert.ok(directory.includes('AL_NAEEM_EDITORIAL_DATA.coverageAreas.some'),'no company card for unlisted emirates');
-for(const lang of ['ar','en']){
- const prefix=lang==='en'?'/en':'';
- const root=prefix+'/providers/al-naeem-cleaning-services';
- for(const slug of ['fujairah','kalba','khorfakkan','ras-al-khaimah']){
-  const area=root+'/service-areas/'+slug;
-  const nested=area+'/services/home-villa-cleaning';
-  assert.ok(area.startsWith(root+'/service-areas/'));
-  assert.ok(nested.startsWith(area+'/services/'));
- }
-}
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const read = file => fs.readFileSync(path.join(__dirname,'..',file),'utf8');
 
-const resolver=read('lib/alNaeemLocalSeo.js');
-assert.doesNotMatch(resolver,/areaSlug && areaSlug !== 'fujairah-city'/);
+const presence = read('lib/alNaeemPresence.js');
+const geo = read('lib/alNaeemLocalSeo.js');
+const card = read('components/provider/AlNaeemDirectoryCard.js');
+const discovery = read('components/provider/AlNaeemLocalDiscovery.js');
+const landing = read('components/DirectoryLandingPage.js');
+const profile = read('components/provider/AlNaeemPresencePage.js');
+const fallback = read('components/UaeActivityProviders.js');
+const covered=['dubai','sharjah','umm-al-quwain','ras-al-khaimah','fujairah','kalba','khorfakkan','al-ain'];
 
-assert.match(resolver,/export function alNaeemDirectoryRedirect\(parts,locale='ar'\)/);
-assert.match(resolver,/AL_NAEEM_EDITORIAL_DATA.coverageAreas.some/);
-assert.match(resolver,/parts\[2\]==='cleaning-services'/);
-assert.match(resolver,/alNaeemCoverageFor\(emirate,area\)/);
-for(const [lang,p] of [['ar','pages/uae/[...parts].js'],['en','pages/en/uae/[...parts].js']]){
- const route=read(p);
- assert.match(route,/alNaeemDirectoryRedirect\(parts,'(?:ar|en)'\)/);
- assert.match(route,/destination:naeemDestination,permanent:true/);
-}
-for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js',
- 'pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
- const src=read(page);
- assert.match(src,/service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some/);
- assert.match(src,/!geographicCards\?\.some\(row=>row.providerSlug==='al-naeem-cleaning-services'\)/);
- assert.match(src,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
- assert.match(src,/cardOnly/);
-}
-assert.match(placement,/if\(cardOnly\)return showServices&&contextHref\?publishedServices:profileCard/);
-for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
- const page=read(file);
- assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);
- assert.match(page,/if\(naeemDestination\)return \{redirect:\{destination:naeemDestination,permanent:true\}\}/);
-}
+for(const c of covered) assert.ok(presence.includes("slug:'"+c+"'"),'approved coverage missing: '+c);
+assert.match(geo,/export function alNaeemContextBase/);
+assert.match(geo,/export function alNaeemContextPath/);
+assert.match(geo,/export function getAlNaeemDirectoryContextProps/);
+assert.match(geo,/getArea\(emirateSlug, areaSlug\)/);
+assert.match(geo,/AL_NAEEM_EDITORIAL_DATA\.coverageAreas\.some/);
+assert.match(geo,/resolveAlNaeemRoute\(parts\.slice\(companyIndex \+ 1\)\)/);
+assert.match(geo,/collection\?\.some\(item => item.slug === route.slug\)/);
+assert.match(geo,/contextBase,/);
+assert.match(geo,/contextPlaceAr:/);
+assert.match(geo,/contextPlaceEn:/);
+assert.match(geo,/return \{notFound:true\}/);
+assert.match(geo,/return '\/uae\/' \+ emirateSlug/);
 
+assert.match(discovery,/alNaeemContextPath\(locale,emirate.slug,area\?\.slug\|\|null\)/);
+assert.match(discovery,/if\(cardOnly\)return showServices\?publishedServices:profileCard/);
+assert.match(discovery,/AL_NAEEM_EDITORIAL_DATA\.services\.map\(service/);
+assert.match(discovery,/href:contextHref\+'\/services\/'\+service.slug/);
+assert.match(discovery,/providerHref:companyPath/);
+assert.doesNotMatch(discovery,/uaqNaeemBase\(/);
+assert.match(card,/item.href=contextHref\|\|alNaeemPath/);
+assert.match(card,/contextHref\+'\/services\/'\+service.slug/);
+assert.match(landing,/AlNaeemLocalDiscovery emirate=\{currentEmirate\} locale=\{locale\} cardOnly/);
+assert.doesNotMatch(landing,/cardOnly showServices/);
 
-console.log('Al Naeem location-aware directory card, full approved coverage and nested service links: PASS');
+const sectorPages=[
+ 'pages/uae/[activity]/[emirate].js',
+ 'pages/en/uae/[emirate]/[area].js',
+ 'pages/uae/[activity]/[emirate]/[service].js',
+ 'pages/en/uae/[emirate]/[area]/[service].js',
+];
+for(const file of sectorPages){
+ const s=read(file);
+ assert.match(s,/service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA\.coverageAreas\.some/);
+ assert.match(s,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
+ assert.match(s,/cardOnly showServices\/>/);
+ assert.doesNotMatch(s,/showServices=\{emirate.slug==='umm-al-quwain'\}/);
+ assert.match(s,/geographicCards\?\.filter\(row=>row.providerSlug!=='al-naeem-cleaning-services'\)/);
+}
+for(const file of sectorPages.slice(0,2)){
+ const s=read(file);
+ assert.match(s,/AlNaeemLocalDiscovery emirate=\{emirate\} area=\{area\} locale=/);
+ assert.match(s,/cardOnly\s*\/>/);
+}
+assert.match(fallback,/cardOnly showServices/);
+assert.match(profile,/contextualNav\('services'\)/);
+assert.match(profile,/contextBase=\{route.contextBase\}/);
+assert.doesNotMatch(profile,/contextBase&&kind==='services'/);
+assert.match(profile,/aspect-\[16\/10\] w-full/);
+assert.match(profile,/href=\{contextualNav\('service-areas',area.slug\)\}/);
+console.log('Al Naeem: profile on location homes, service cards on every covered cleaning sector, and contextual service links: PASS');

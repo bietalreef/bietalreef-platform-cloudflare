@@ -4,7 +4,7 @@ import DirectoryContextCompany from '../../../../../components/provider/Director
 import { getCompanyStaticContextProps } from '../../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../../components/provider/RehabPresencePage';
 import AlNaeemPresencePage from '../../../../../components/provider/AlNaeemPresencePage';
-import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../../../../lib/alNaeemPresence';
+import {AL_NAEEM_SLUG,NAEEM_DIRECTORY_EMIRATES,getGeographicNaeemContextProps} from '../../../../../lib/alNaeemPresence';
 import { getRehabStaticContextProps } from '../../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../../data/alAinHub';
 import { CONTENT } from '../../../../../data/alAinContent';
@@ -96,8 +96,8 @@ export default function EnglishLocalServicePage({ alNaeemContext = false, model,
 
 export async function getStaticProps({ params }) {
   // UAQ contextual company URL resolves before generic legacy redirects.
-  if(params.emirate==='umm-al-quwain'&&params.area==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
-    return {...await getUaqNaeemContextProps('en'),revalidate:3600};
+  if(NAEEM_DIRECTORY_EMIRATES.includes(params.emirate)&&params.area==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
+    return {...await getGeographicNaeemContextProps('en',{emirateSlug:params.emirate}),revalidate:3600};
   // Specific three-segment Next.js route takes precedence over the catch-all.
   const naeemDestination=alNaeemDirectoryRedirect([params.emirate,params.area,params.service],'en');
   if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};

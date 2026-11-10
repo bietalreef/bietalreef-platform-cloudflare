@@ -1,6 +1,9 @@
 import DirectoryContextCompany from '../../../components/provider/DirectoryContextCompany';
 import { getCompanyContextProps } from '../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../components/provider/RehabPresencePage';
+import AlNaeemPresencePage from '../../../components/provider/AlNaeemPresencePage';
+import {getAlNaeemProps,AL_NAEEM_SLUG} from '../../../lib/alNaeemPresence';
+import {getEmirate} from '../../../data/siteTaxonomy';
 import { getRehabContextProps, REHAB_SLUG } from '../../../lib/rehabPresence';
 import GeographicServicePage from '../../../components/GeographicServicePage';
 import GeographicServiceDirectoryPage from '../../../components/GeographicServiceDirectoryPage';
@@ -13,11 +16,21 @@ import { geographicRouteProps } from '../../../lib/geographicRouteProps';
 export default function ContextualDirectoryCompany(props) {
   if (props.geographicService) return <GeographicServicePage item={props.item} />;
   if (props.geographicServiceCollection) return <GeographicServiceDirectoryPage model={props.model} />;
+  if(props.alNaeem)return <AlNaeemPresencePage {...props}/>;
   return props.companyContext ? <DirectoryContextCompany {...props} /> : <RehabPresencePage {...props} />;
 }
 
 export async function getServerSideProps(context) {
   const parts = context.params?.parts || [];
+  // The same Al Naeem profile resolves from an emirate or an area directory.
+  // Context is validated by getAlNaeemProps before rendering any company page.
+  const naeemIndex=parts.indexOf(AL_NAEEM_SLUG);
+  if((naeemIndex===2||naeemIndex===3)&&parts[naeemIndex-1]==='cleaning-services'
+    &&getEmirate(parts[0])&&(naeemIndex===2||getArea(parts[0],parts[1]))) {
+    const contextBase='/uae/'+parts.slice(0,naeemIndex).join('/');
+    const result=await getAlNaeemProps(context,'en',parts.slice(naeemIndex+1),contextBase);
+    return result.props?{...result,props:{...result.props,alNaeem:true}}:result;
+  }
   if (['abu-dhabi','dubai'].includes(parts[0])) {
     const sectorSet = new Set(UAE_MAIN_SECTORS.map(item => item.slug));
     let args = null;

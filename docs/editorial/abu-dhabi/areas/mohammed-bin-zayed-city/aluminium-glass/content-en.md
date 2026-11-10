@@ -67,61 +67,59 @@ Identify the existing coating, peeling and scratched areas, and whether the goal
 
 ### 15. Bespoke furniture fabrication
 
-Schedule each item, intended use, dimensions, circulation and expected loading. Compare materials, joints and fittings; approve finish samples and joinery details.
+For bespoke furniture, prepare an item-by-item schedule recording purpose, location, finished dimensions and anticipated use; a dining table has different demands from a heavily loaded filing cabinet. Provide site photos and delivery access dimensions, then select board or timber type, upholstery where relevant, and finish. Compare quotations that separately identify shop drawings, samples, hardware, transport and installation. Approve dimensions before fabrication; inspect stability, joints and safe edges at handover.
 
 ### 16. TV console fabrication
 
-Provide screen width, bracket, sockets, data points, device depth and ventilation. Compare fixing and cable management; test stability and service access.
+A TV console must be designed around viewing height, screen size, media-device depth, ventilation and accessible power and data outlets. Specify whether it stands on the floor or hangs from a wall, and establish that the fixing substrate can support the proposed assembly. Compare board construction, mounting system, surface finish and cable-management provision. Before acceptance check stability, drawer movement and service access without trapping equipment.
 
 ### 17. Storage unit fabrication
 
-Inventory stored items, shelf loads, door sizes and proximity to moisture. Compare board thickness, anchoring and runners; inspect shelves under agreed loads.
+For a storage unit, list the actual contents—documents, shoes, tools or heavy objects—and the expected load on each shelf. Photograph the installation position and measure available depth, door clearance, nearby switches and possible moisture exposure. Ask for board thickness, shelf supports, hinge and runner specifications and appropriate wall anchorage. Do not compare a decorative shelf with a load-bearing storage solution; inspect stability and operation under an agreed representative load.
 
 ### 18. Timber wall cladding
 
-Measure wall, outlets, height, moisture and required grain direction. Compare panel finish, fixing and expansion details; inspect straight alignment and removable access panels.
+Timber wall cladding may be decorative or conceal services, so define its purpose before choosing a pattern. Record wall flatness, damp areas, sockets and maintenance access, and show grain direction and joint spacing on an elevation drawing. Compare solid timber with faced boards, fixing methods, edge protection and allowance for movement. At handover check straight lines and ensure ventilation openings and access panels remain usable.
 
 ### 19. CNC decorative joinery
 
-Supply vector artwork or dimensioned pattern, board thickness and minimum cut detail. Compare CNC precision, edge quality and sanding; approve a sample before full production.
+For CNC decorative work, supply a scaled vector drawing or dimensioned pattern specifying panel thickness, corner radii and the smallest cut-out. MDF, solid timber and composite boards behave differently, while sanding and coating alter fine details. Request a sample cut from the proposed material before releasing the whole batch. Compare cutting, finishing, wastage and installation costs; inspect repeat accuracy and smooth, splinter-free edges.
 
 ### 20. Custom counters
 
-Set counter height, length, staff clearance, POS and data/power positions. Compare durability, surface finish and corner protection; inspect working clearances and connections.
+A reception or sales counter must support the daily workflow as well as the intended appearance. Measure the customer-facing length and height, worktop depth, staff circulation and locations for payment terminals, monitors, printers and cable routes. Specify surfaces exposed to impact or spills. Separate carcass, cladding, worktop, drawers and lighting in the quotation. At handover verify stability, cleanable joints and access to equipment connections.
 
 ### 21. Retail and office furniture fabrication
 
-Schedule desks, storage and displays, power interfaces, loads and opening dates. Compare modular repeatability, production and labelled delivery; inspect stability and drawing compliance.
+For shop or office furniture, supply a layout showing desks, cabinets, display shelving, aisle widths and anticipated loads rather than only a reference photograph. Distinguish repeatable modular units from site-specific pieces, and mark electrical and data interfaces. Compare workshop offers by samples, material thickness, assembly methods, item labelling, delivery and installation. Check each item against its schedule for stability, door operation and circulation clearance.
 
 ### 22. Interior space design
 
-Map space function, circulation, lighting, freestanding and fixed furniture. Compare design deliverables with optional execution; approve materials before fabrication.
+Interior space design within a joinery package should establish workable furniture, cladding and fixed-unit layouts; it does not automatically include engineering drawings or permit services. Provide measured room plans, door and window positions, lighting, air-conditioning and intended occupancy. Define deliverables such as layout, elevations, visuals, material board and fabrication drawings, pricing execution separately. Approve circulation, maintenance access and buildable dimensions before fabrication.
 
 ### 23. Joinery fabrication and installation
 
-Record all dimensions, site walls, lifting access, doors and lifts. Compare workshop trial assembly, transport and installation; inspect safe fixings and unobtrusive joints.
+Distinguish preliminary estimating measurements from final site measurements taken after flooring and ceiling works. Request shop drawings for each joinery unit, showing edges, joints, hinges and anchor positions, and verify that large pieces can pass through doors or lifts. Compare whether trial assembly, protected transport, installation and making good are included. At handover check dimensions, clean joints, secure fixings and movement of all operable parts.
 
 ### 24. Majlis fit-out
 
-Define seating capacity, majlis dimensions, television, AC, curtains and upholstery. Compare fitted joinery separately from movable furniture; inspect circulation and lighting in use.
+Majlis fit-out starts with actual seating capacity, seating configuration and circulation around doors, not only decorative wall panels. Provide a room plan showing air-conditioning outlets, screens, curtains and lighting. Separate fixed joinery from sofas, upholstery and electrical work in the quotation. Compare practical layouts and cleanable material samples, with exclusions stated. At handover test seating use, door access and lighting in operation.
 
 ### 25. Bedroom fit-out
 
-Measure beds, wardrobes, door swings, ceiling offsets and power points. Compare unit layouts, safe edges and anchorage; inspect window and door access after fitting.
+For a bedroom fit-out, measure the bed footprint, side passages, wardrobe and drawer opening clearance, power outlets, switches and windows. Check soffit heights and potential clashes with air-conditioning or curtain tracks before fabrication. Ask for separate pricing for cabinet carcasses, fronts, fittings and mattresses if included. Inspect bed alignment, wardrobe anchorage, movement around the room and continued window access at handover.
 
 ### 26. Office and retail fit-out
 
-Record retail stock or office use, storage, counters, circulation and existing service points. Compare joinery, electrical interfaces and finishes within a defined scope; hand over zone-by-zone snags.
+Office and retail fit-out often combines counters, fixed furniture and wall finishes, with electrical and lighting interfaces that need clearly assigned responsibility. Provide a plan for workstations or merchandise, storage, existing services and entry and exit routes. Compare shop drawings, quantities and staged delivery dates without assuming that engineering or regulatory approvals are included. Accept completed work zone by zone against a documented snag list.
 
 ### 27. Timber decorative features
 
-Document motif, finish, panel position and heights on drawings. Compare mock-ups, edge treatment and cleanability; inspect consistent repeats and secure installation.
+Timber decorative features may comprise slatted walls, trims or ceiling details. Identify each position, dimension, cleaning method and exposure to moisture or heat. Approve a physical sample for colour, texture, edge profile and concealed fixing; a digital image alone cannot establish the final finish. Compare material, machining, coating, installation and replacement options. Inspect repeated patterns, alignment and fixing security.
 
 ### 28. Interior fit-out handover
 
-Use a handover checklist for doors, drawers, surfaces, lights, joints and site variations. Compare against approved drawings and materials; provide keys, maintenance notes and replaceable-part records.
-
-## Aluminium windows, doors and fittings
+Interior fit-out handover is a structured inspection, not simply a site clean. Prepare a schedule of cabinets, doors, drawers, cladding and lighting within the joinery contract, with approved drawings, samples and variations. Operate every door and drawer, check scratches, joints, anchors and maintenance access, and record defects, responsibility and reinspection dates. Obtain keys, agreed care instructions, warranty records and a signed list of outstanding items.
 
 ### 29. Aluminium window fabrication
 

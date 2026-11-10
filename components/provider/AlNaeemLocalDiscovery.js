@@ -3,7 +3,7 @@ import AlNaeemDirectoryCard from './AlNaeemDirectoryCard';
 import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath } from '../../lib/alNaeemPresence';
 import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
-export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false }) {
+export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false }) {
   const coverageSlug = alNaeemCoverageFor(emirate?.slug, area?.slug || null);
   const place = AL_NAEEM_EDITORIAL_DATA.coverageAreas.find(item => item.slug === coverageSlug);
   if (!place) return null;
@@ -16,6 +16,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   const whatsappMessage = en
     ? `Hello Al Naeem, I would like a cleaning quotation in ${cityName}.\nService needed: \nProperty / parking area: \nSize / measurements: \nPreferred date: \nPhotos: \nListing: https://bietalreef.ae${servicePath}`
     : `مرحبًا شركة النعيم، أريد عرض سعر للتنظيف في ${cityName}.\nالخدمة المطلوبة: \nنوع العقار أو الموقف: \nالمساحة والمقاسات: \nالموعد المناسب: \nالصور: \nرابط الدليل: https://bietalreef.ae${servicePath}`;
+  if (cardOnly) return <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} whatsappMessage={whatsappMessage} coverageSlug={coverageSlug} location={cityName} />;
   const crumbs = [
     { href: `${prefix}/uae`, label: en ? 'UAE directory' : 'المنصة' },
     { href: `${prefix}/uae/${emirate.slug}`, label: en ? emirate.nameEn : emirate.nameAr },

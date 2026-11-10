@@ -3,6 +3,8 @@ import { alAinCompanyProps } from '../../../../../lib/alAinCompanyContext';
 import DirectoryContextCompany from '../../../../../components/provider/DirectoryContextCompany';
 import { getCompanyStaticContextProps } from '../../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../../components/provider/RehabPresencePage';
+import AlNaeemPresencePage from '../../../../../components/provider/AlNaeemPresencePage';
+import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../../../../lib/alNaeemPresence';
 import { getRehabStaticContextProps } from '../../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../../data/alAinHub';
 import { CONTENT } from '../../../../../data/alAinContent';
@@ -44,7 +46,8 @@ import {geographicRouteProps} from '../../../../../lib/geographicRouteProps';
 import {UAE_MAIN_SECTORS} from '../../../../../data/directoryDiscovery';
 import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCategory } from '../../../../../data/siteTaxonomy';
 
-export default function EnglishLocalServicePage({ model, geographicServiceCollection = false, geographicCards = null, geographicOffers = null, sectorTaxonomy = undefined, sectorGuides = null, emirate, area, service, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', portfolioProjects = [], unavailable = false }) {
+export default function EnglishLocalServicePage({ alNaeemContext = false, model, geographicServiceCollection = false, geographicCards = null, geographicOffers = null, sectorTaxonomy = undefined, sectorGuides = null, emirate, area, service, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', portfolioProjects = [], unavailable = false }) {
+  if (alNaeemContext) return <AlNaeemPresencePage data={data} locale="en" route={route}/>;
   if (geographicServiceCollection) return <GeographicServiceDirectoryPage model={model}/>;
   if (rehabContext) return <RehabPresencePage data={data} locale="en" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="en" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} portfolioProjects={portfolioProjects} unavailable={unavailable} />;
@@ -76,7 +79,7 @@ export default function EnglishLocalServicePage({ model, geographicServiceCollec
           {regionArea&&areaSeo?.context?.length>0&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="Area-specific project guidance"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">Before requesting this service in {area.nameEn}</h2>{areaSeo.context.map((paragraph,index)=><p key={index} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {!geoSector && <UaeContextInfoCard locale="en" locationLabel={`${area.nameEn}, ${emirate.nameEn}`} title={`About ${service.nameEn} in ${area.nameEn}`} description={`This page places ${service.nameEn.toLowerCase()} in its correct location context and provides a clear path back to the area and emirate or forward to a project request.`} />}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={area.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} area={area} service={service} rehab={rehab} />}
-          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,area.slug))&&<section className="mx-auto max-w-6xl px-4 py-8" aria-label="Al Naeem cleaning in this district"><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly/></div></section>}
+          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,area.slug))&&<section className="mx-auto max-w-6xl px-4 py-8" aria-label="Al Naeem cleaning in this district"><div className={emirate.slug==='umm-al-quwain'?'w-full':'max-w-[620px]'}><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly showServices={emirate.slug==='umm-al-quwain'}/></div></section>}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={servicePlace} pagePath={'/en/uae/'+emirate.slug+'/'+area.slug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement={regionArea||northern?'external':'inline'} onServiceRequest={regionArea||northern?setRequestedService:undefined}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={area.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" excludeSpecialties={sectorTaxonomy}/>}
@@ -92,6 +95,8 @@ export default function EnglishLocalServicePage({ model, geographicServiceCollec
 }
 
 export async function getStaticProps({ params }) {
+  if(params.emirate==='umm-al-quwain'&&params.area==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
+    return {...await getUaqNaeemContextProps('en'),revalidate:3600};
   if (params.emirate === 'abu-dhabi' && params.area === 'alrehab-home-clean') return getRehabStaticContextProps('en', '/uae/abu-dhabi', [params.service]);
   if (params.emirate === 'abu-dhabi' && params.area === 'cleaning-services' && params.service === 'alrehab-home-clean') return getRehabStaticContextProps('en', '/uae/abu-dhabi/cleaning-services', []);
   if (['abu-dhabi','dubai'].includes(params.emirate) && UAE_MAIN_SECTORS.some(row => row.slug === params.area)) return geographicRouteProps('en', {emirate:params.emirate,sector:params.area,service:params.service});

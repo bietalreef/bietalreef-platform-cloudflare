@@ -28,6 +28,7 @@ export default function SEOHead({
   breadcrumbs = null,
   canonicalPath,
   alternatePath,
+  arabicPath,
 }) {
   const router = useRouter();
   const cleanPath = String(canonicalPath || router.asPath).replace(SITE_DOMAIN, '').split(/[?#]/)[0] || '/';
@@ -39,7 +40,8 @@ export default function SEOHead({
   const extension = shareImage.toLowerCase().split(/[?#]/)[0];
   const paths = resolveLanguagePaths(cleanPath);
   const enPath = alternatePath || paths.englishPath;
-  const arabicUrl = paths.arabicPath === '/' ? SITE_DOMAIN : `${SITE_DOMAIN}${paths.arabicPath}`;
+  const localArabicPath = arabicPath || paths.arabicPath;
+  const arabicUrl = localArabicPath === '/' ? SITE_DOMAIN : `${SITE_DOMAIN}${localArabicPath}`;
   const englishUrl = enPath ? `${SITE_DOMAIN}${enPath}` : null;
   const pageLanguage = paths.isEnglish ? 'en-AE' : 'ar-AE';
 

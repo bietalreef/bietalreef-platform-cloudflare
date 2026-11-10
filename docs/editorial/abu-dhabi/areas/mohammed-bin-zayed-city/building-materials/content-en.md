@@ -152,31 +152,31 @@ Before marble restoration, photograph stains, cracks, scratches and loose pieces
 
 ### 36. Fabricate kitchen worktops
 
-Choose surface material, cabinet depths, run lengths, edges and joint positions. Compare slab thickness, mitred corners and hidden support; template only after cabinets are installed.
+Fabricating a new kitchen countertop should begin with a final survey after the cabinets are fixed and level, rather than relying on preliminary drawings. Record each run, depth, overhang, sink and hob opening, joint location and any out-of-square walls. Agree the slab material, thickness, edge profile and supports for projecting sections, and request an approved cutting layout before work starts. Compare quotations for slab yield, machining, cut-outs, polishing, transport, installation and responsibility for breakage or remakes. At handover, check finished dimensions, pattern alignment and edge integrity against the approved drawing before fitting.
 
 ### 37. Install kitchen worktops
 
-Measure worktop runs, walls, appliances, drainage and taps. Compare lifting, fixing, sealant and supports; inspect firm seating and sealed joints.
+Fitting a countertop is a separate scope from manufacturing it: finished pieces may arrive before the supporting cabinetry or walls are ready. Check cabinet level and anchorage, sink and appliance positions, plumbing access and the route for moving large sections into the kitchen. Specify support points, suitable jointing and wall-sealing materials, and who disconnects and reconnects appliances and services. Compare quotes for handling, fixing, sealing, adjustments and cleanup rather than labour alone. Inspect stability, levels, cut-out edges and water run-off around the sink; have the relevant specialist test reconnected services.
 
 ### 38. Fabricate marble vanities
 
-Set vanity dimensions, basin and mixer models, marble edges and service access. Compare basin fixing, drainage and future access; inspect polished edges and falls away from standing water.
+For a made-to-measure marble vanity, establish whether the basin is integrated, undermounted or set on top; this determines cutting, support and waterproofing details. Supply the available width, intended counter height, tap type and waste location, plus photographs of existing pipework and nearby drawers or doors. Request a shop drawing showing drainage falls, splash protection, basin support and maintenance access. Compare stone grade, thickness, machining, edge finishing, treatment, delivery and installation. At handover, inspect edge quality, secure fixing and access to the trap, then test drainage and sealed joints before closing the unit.
 
 ### 39. Cut sink and appliance apertures
 
-Do not cut sink or hob openings from screen dimensions; use appliance templates or verified manufacturer measurements. Compare edge clearance and reinforcement; dry-fit appliances before final sealing.
+Sink and hob cut-outs require the actual appliance model's manufacturer dimensions or template, not an estimate from a product photograph. Record model numbers, specified clearances from slab edges, joints and heat sources, and verify the manufacturer's installation instructions. Agree corner radii, protection of exposed cut edges and reinforcement where required, especially with brittle slabs. Compare machining quotations by material, number of openings, tolerances and responsibility for errors. Trial-fit the appliances before permanent adhesive or sealant is applied; uncontrolled enlargement can weaken the worktop.
 
 ### 40. Quartz surface installation
 
-Specify quartz type, thickness, slab colour and sink surrounds. Compare seam location, supports, fabrication and fixing; inspect smooth joints and supported overhangs.
+Before fitting engineered quartz, review the selected slab's dimensions, thickness and manufacturer guidance on heat, loads and support. Measure completed cabinetry, mark openings, joints and any seating overhang, and approve a cutting plan that avoids unnecessary stress at joints. Compare fabricators on machining quality, batch colour consistency, bonding methods and safe handling of heavy sections. At handover, inspect levels, joint alignment and intact edges, and obtain cleaning and care instructions. Engineered quartz should not be assumed safe for direct contact with very hot cookware.
 
 ### 41. Porcelain slab worktop installation
 
-Lay out large-format porcelain worktop slabs and appliance cut-outs before fabrication. Compare handling breakage, edge profiles and supports; inspect for chips and cracks.
+Large-format porcelain worktop slabs need different handling, cutting and support from ordinary floor tiles. Specify slab thickness, piece dimensions, sink and hob openings and unsupported projections, with photographs of the delivery route, stairs or lift. Ask how the fabricator will cut and protect opening corners, support the slab and finish edges and joints in line with product guidance. Compare offers including handling, replacement responsibility if a slab breaks, installation and any special lifting. Inspect cut-out corners, edges and surfaces in raking light and verify stable support without significant voids.
 
 ### 42. Worktop repair and polishing
 
-Identify staining, scratches, open seams or cracks and confirm the actual surface material. Compare cleaning, compatible polishing, patching and replacement; avoid abrasion unsuitable for the product.
+Before requesting refinishing, identify the surface material: marble, granite, engineered quartz and porcelain do not respond to the same polishing or repair methods. Photograph scratches, stains, failed joints and chips with an object for scale, and note exposure to heat or water. Ask for a small compatibility trial and a clear distinction between repairable damage and pieces needing replacement; abrasive grinding can permanently harm some manufactured surfaces. Compare joint resealing, spot repair, polishing and replacement, including kitchen downtime and appliance protection. Check texture, colour consistency, edge stability and water sealing at handover.
 
 ## Ceramic and porcelain tiles
 

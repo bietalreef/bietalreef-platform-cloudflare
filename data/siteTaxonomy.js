@@ -148,7 +148,20 @@ export const UAE_EMIRATES = [
       { slug: 'umm-al-quwain-city', nameAr: 'مدينة أم القيوين', nameEn: 'Umm Al Quwain City' },
       { slug: 'al-salamah', nameAr: 'السلمة', nameEn: 'Al Salamah' },
       { slug: 'falaj-al-mualla', nameAr: 'فلج المعلا', nameEn: 'Falaj Al Mualla' },
-      { slug: 'al-mallah', nameAr: 'الملاحة', nameEn: 'Al Mallah' }
+      { slug: 'al-mallah', nameAr: 'الملاحة', nameEn: 'Al Mallah' },
+      { slug: 'al-raas', nameAr: 'الرأس', nameEn: 'Al Raas' },
+      { slug: 'al-maidan', nameAr: 'الميدان', nameEn: 'Al Maidan' },
+      { slug: 'al-khor', nameAr: 'الخور', nameEn: 'Al Khor' },
+      { slug: 'al-ramlah', nameAr: 'الرملة', nameEn: 'Al Ramlah' },
+      { slug: 'al-dar-al-baida', nameAr: 'الدار البيضاء', nameEn: 'Al Dar Al Baida' },
+      { slug: 'al-humrah', nameAr: 'الحمرة', nameEn: 'Al Humrah' },
+      { slug: 'al-hawiyah', nameAr: 'الحوية', nameEn: 'Al Hawiyah' },
+      { slug: 'al-raudah', nameAr: 'الروضة', nameEn: 'Al Raudah' },
+      { slug: 'al-riqqah', nameAr: 'الرقة', nameEn: 'Al Riqqah' },
+      { slug: 'industrial-area', nameAr: 'المنطقة الصناعية', nameEn: 'Industrial Area' },
+      { slug: 'umm-al-thuoob', nameAr: 'أم الثعوب', nameEn: 'Umm Al Thuoob' },
+      { slug: 'old-town', nameAr: 'المدينة القديمة', nameEn: 'Old Town' },
+      { slug: 'umm-al-quwain-marina', nameAr: 'مارينا أم القيوين', nameEn: 'Umm Al Quwain Marina' }
     ]
   }
 ];

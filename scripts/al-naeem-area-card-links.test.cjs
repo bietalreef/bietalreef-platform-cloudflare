@@ -28,4 +28,15 @@ for(const lang of ['ar','en']){
   assert.ok(nested.startsWith(area+'/services/'));
  }
 }
+const coverage=read('lib/alNaeemLocalSeo.js');
+assert.ok(!coverage.includes("areaSlug && areaSlug !== 'fujairah-city'"),'all valid Fujairah districts can ask for a quotation');
+const discovery=read('components/provider/AlNaeemLocalDiscovery.js');
+assert.ok(discovery.includes('if(cardOnly)return <AlNaeemDirectoryCard'),'same compact card format as Al Rehab');
+for(const file of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js',
+ 'pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
+ const page=read(file);
+ assert.ok(page.includes("geoSector&&service.slug==='cleaning-services'"),'visible card on local cleaning sector '+file);
+ assert.ok(page.includes('AlNaeemLocalDiscovery emirate={emirate}'),'company card uses existing presence '+file);
+ assert.ok(page.includes('cardOnly'),'compact card required '+file);
+}
 console.log('Al Naeem location-aware directory card, full approved coverage and nested service links: PASS');

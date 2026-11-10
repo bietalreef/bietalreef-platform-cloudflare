@@ -159,33 +159,31 @@ If a machine stops or loses performance, describe symptoms, operating conditions
 
 ### 36. Household moving
 
-Inventory room contents, oversized pieces, floors, lifts and truck parking. Compare packing, dismantling, labour, protection and damage terms; reconcile numbered items by room.
+For a household move, prepare a room-by-room inventory of large furniture, wardrobes, beds, appliances and fragile belongings. Photograph entrances, lifts, stairs and truck parking at both addresses; furniture volume alone does not establish the crew or vehicle needed. Request separate prices for packing, dismantling, loading, transport, delivery to each floor and reassembly, with clear damage liability and exclusions. On delivery reconcile numbered items with the inventory and inspect glass, corners and appliances before signing the handover record.
 
 ### 37. Office moving
 
-Count workstations, cabinets, devices, sensitive records and downtime window. Compare device disconnection, labelling and data security; test workspace readiness to layout.
+An office relocation needs a transition plan, not just transport. Count desks, chairs, records and devices, and specify floors, circulation routes and the acceptable business downtime. Assign computer disconnection, backups, server handling and reconnection separately from furniture transport; sensitive media require controlled custody. Compare quotations for workstation numbering, monitor packing, lift protection, out-of-hours labour and liability exclusions. At handover reconcile the new desk layout and item labels, record damage, and leave network and systems testing to qualified IT personnel.
 
 ### 38. Furniture dismantling and reassembly
 
-Photograph joints and record fittings for every bed and wardrobe before disassembly. Compare packing, labels and reinstatement; inspect stable furniture and complete hardware.
+Before dismantling a bed, fitted wardrobe or assembled desk, photograph hinges, shelves, joints and connections; measure the destination if the furniture must fit a different space. Require panel numbering and labelled bags for screws and fittings, together with protection for finished faces and exposed edges. Distinguish routine reassembly from patching old fixing holes, modifying panels or installing new wall anchors, and price those separately. At completion check alignment, stability, drawer and door operation and that no components remain unaccounted for.
 
 ### 39. Furniture wrapping
 
-Identify glass, lacquered wood, textiles and vulnerable edges and sizes. Compare wrapping layers, covers and vehicle restraints; inspect packing before loading.
+Packing methods depend on the material and the next stage of the move. Glass needs rigid edge protection; lacquered timber needs non-adhering surface protection; fabrics need clean coverings suited to the expected storage period. Provide photographs and dimensions of delicate pieces and state whether items will be stored after transport. Compare the specification for cartons, cushioning, blankets, appliance boxes and restraint within the truck, including items the provider cannot safely pack. Inspect protected corners and labels before loading, and document damage before discarding wrapping at delivery.
 
 ### 40. Loading labour supply
 
-List pieces, approximate weights, stairs, carry distances and time. Compare crew size, handling aids, protection and liability; observe safe loading routes.
+To request loading labour, identify the item count, approximate weights, heaviest single object, carrying distance, stairs, lift availability and truck position. Crew size cannot be selected safely without handling equipment; a heavy object may require a trolley or specialist lift rather than manual carrying. Compare crew numbers, hourly minimums, waiting charges, supervision, floor protection and liability. During work keep the carrying route clear, prevent unstable stacking and check that walls, floors and door frames are not damaged.
 
 ### 41. Temporary storage
 
-Inventory items, storage duration and ventilation or moisture needs. Compare access control, insurance and partial retrieval; obtain a condition and item receipt.
+Before arranging temporary storage, photograph and inventory furniture and cartons, noting large dimensions, storage duration and whether partial retrieval may be needed. Ask about the actual storage environment, ventilation, moisture management, pest control and access procedures: paper, timber and textiles have different vulnerabilities. Compare intake and release fees, minimum periods, packing, insurance exclusions and claims procedures rather than assuming comprehensive cover. Obtain a numbered condition receipt and verify seals, item counts and condition when collecting belongings.
 
 ### 42. Inter-emirate removals
 
-List origin and destination emirates, load volume, access and requested date. Compare routing, truck type, packaging and disclosed transport charges; count items at delivery.
-
-## Construction logistics and haulage
+For a move between emirates, document both addresses, floors, shipment volume, large items and any building access or truck restrictions. Ask whether the vehicle is dedicated or shared, who handles packing and assembly, and precisely when carrier responsibility begins and ends. Compare quotes after accounting for road charges, waiting, extra trips, insurance and exclusions; do not assume a fixed route or arrival time. At delivery reconcile the numbered inventory, photograph any loss or damage and record discrepancies before closing the job.
 
 ### 43. Construction material haulage
 

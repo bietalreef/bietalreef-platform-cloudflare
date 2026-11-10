@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import AlNaeemDirectoryCard from './AlNaeemDirectoryCard';
 import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
-import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath, uaqNaeemBase } from '../../lib/alNaeemPresence';
-import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
+import { AL_NAEEM_EDITORIAL_DATA } from '../../lib/alNaeemPresence';
+import { alNaeemCoverageFor, alNaeemContextPath, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
 export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false, showServices = false }) {
   const coverageSlug = alNaeemCoverageFor(emirate?.slug, area?.slug || null);
@@ -12,8 +12,9 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   const en = locale === 'en', prefix = en ? '/en' : '';
   const cityName = area ? (en ? area.nameEn : area.nameAr) : (en ? emirate.nameEn : emirate.nameAr);
   const cityDetails = AL_NAEEM_EAST_COAST_DETAILS[coverageSlug]?.[locale];
-  const contextHref=emirate.slug==='umm-al-quwain'?uaqNaeemBase(locale,area?.slug):null;
-  const companyPath=contextHref||alNaeemPath(locale,{kind:'service-areas',slug:coverageSlug});
+  const contextHref=alNaeemContextPath(locale,emirate.slug,area?.slug||null);
+  if(!contextHref)return null;
+  const companyPath=contextHref;
   const servicePath = `${prefix}/uae/${emirate.slug}${area ? `/${area.slug}` : ''}/cleaning-services`;
   const whatsappMessage = en
     ? `Hello Al Naeem, I would like a cleaning quotation in ${cityName}.\nService needed: \nProperty / parking area: \nSize / measurements: \nPreferred date: \nPhotos: \nListing: https://bietalreef.ae${servicePath}`
@@ -28,7 +29,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
 
   // Same compact DirectoryCompanyCard used for Al Rehab on location pages.
   const profileCard=<AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} coverageSlug={coverageSlug} location={cityName} whatsappMessage={whatsappMessage} contextHref={contextHref}/>;
-  const publishedServices=showServices&&contextHref?<section aria-label={en?'Al Naeem cleaning services':'خدمات شركة النعيم للتنظيف'} className="space-y-3">
+  const publishedServices=showServices?<section aria-label={en?'Al Naeem cleaning services':'خدمات شركة النعيم للتنظيف'} className="space-y-3">
     <h3 className="text-xl font-extrabold text-[#193b53]">{en?'Al Naeem cleaning services in '+cityName:'خدمات شركة النعيم للتنظيف في '+cityName}</h3>
     <p className="text-sm leading-7 text-slate-600">{en?'Review service details for your area, then confirm coverage and appointment availability.':'استعرض تفاصيل الخدمات في منطقتك، ثم تأكد من نطاق التغطية وتوفر الموعد قبل الحجز.'}</p>
     <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
@@ -40,7 +41,9 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
       }}/>)}
     </div>
   </section>:null;
-  if(cardOnly)return showServices?<div className="space-y-5">{profileCard}{publishedServices}</div>:profileCard;
+  // Directory homepages feature one company profile; cleaning sector pages
+  // feature the company's actual service cards, never a second profile card.
+  if(cardOnly)return showServices?publishedServices:profileCard;
 
   return <div dir={en ? 'ltr' : 'rtl'} className="min-w-0 rounded-2xl border border-[#d9c9ac] bg-[#fbfaf6] p-4 sm:p-5">
     <nav aria-label={en ? 'Company discovery path' : 'مسار الوصول إلى الشركة'} className="mb-4 flex flex-wrap items-center gap-1.5 text-xs leading-6 text-[#546778]">
@@ -67,7 +70,6 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
       </ul>
       <p className="mt-3 text-sm leading-7 text-[#536777]">{cityDetails?.quote || (en ? 'Share the property location, size and photos. Confirm availability, scope and price with the company.' : 'أرسل الموقع والمساحة والصور، ثم تأكد من توافر الخدمة ونطاق التنفيذ والسعر مع الشركة.')}</p>
     </div>}
-    {profileCard}
-    {publishedServices}
+    {showServices?publishedServices:profileCard}
   </div>;
 }

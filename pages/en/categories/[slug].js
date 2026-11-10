@@ -10,6 +10,11 @@ import ServicesSmartFooter from '../../../components/ServicesSmartFooter';
 import SectionBackBar from '../../../components/SectionBackBar';
 import SectionCategoryHero from '../../../components/SectionCategoryHero';
 import PublishedEntityGrid from '../../../components/PublishedEntityGrid';
+import NationalServiceSectorPage from '../../../components/NationalServiceSectorPage';
+import {UAE_MAIN_SECTORS} from '../../../data/directoryDiscovery';
+import {getSectorTaxonomy} from '../../../lib/sectorTaxonomyExplorer';
+import {getNationalSectorContent} from '../../../lib/nationalSectorContent';
+import {getPlatformChannelOfferCards} from '../../../lib/platformPublishedServiceCards';
 import DirectoryCustomerSupportCard from '../../../components/DirectoryCustomerSupportCard';
 import {
   getPublishedSectionEntities,
@@ -31,7 +36,12 @@ export default function EnglishCategoryPage({
   service,
   directoryCards = [],
   publishedServices = [],
+  sectorTaxonomy = null,
+  serviceGuides = null,
+  publishedOffers = [],
 }) {
+  const mainSector=UAE_MAIN_SECTORS.find(row=>row.slug===service.slug);
+  if(mainSector)return <NationalServiceSectorPage sector={mainSector} locale="en" sectorTaxonomy={sectorTaxonomy} serviceGuides={serviceGuides} publishedServices={publishedServices} publishedOffers={publishedOffers} directoryCards={directoryCards}/>;
   const canonical = `https://bietalreef.ae/en/categories/${service.slug}`;
   return (
     <>
@@ -113,14 +123,18 @@ export default function EnglishCategoryPage({
 export async function getStaticProps({ params }) {
   const service = customServices[params.slug] || getServiceCategory(params.slug);
   if (!service) return { notFound: true };
+  const mainSector=UAE_MAIN_SECTORS.find(row=>row.slug===service.slug);
   const activitySlug = getSectionActivitySlug('services_offers', service.slug);
-  const [directoryCards, legacyServices, platformServices] = await Promise.all([
+  const [directoryCards, legacyServices, platformServices, sectorTaxonomy, publishedOffers] = await Promise.all([
     getUaeFooterCards('en'),
     getPublishedSectionEntities('en', 'services_offers', activitySlug),
     getPlatformChannelServiceCards('en',service.slug),
+    mainSector ? getSectorTaxonomy(service.slug,'en').catch(()=>null) : Promise.resolve(null),
+    mainSector ? getPlatformChannelOfferCards('en',service.slug) : Promise.resolve([]),
   ]);
   const publishedServices=[...legacyServices,...platformServices.filter(x=>!legacyServices.some(y=>y.id===x.id))];
-  return { props: { service, directoryCards, publishedServices }, revalidate: 300 };
+  const serviceGuides=mainSector?getNationalSectorContent(service.slug):null;
+  return { props: { service, directoryCards, publishedServices, sectorTaxonomy, serviceGuides, publishedOffers }, revalidate: 3600 };
 }
 
 export async function getStaticPaths() {

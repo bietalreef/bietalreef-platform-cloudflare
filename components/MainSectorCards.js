@@ -86,6 +86,8 @@ function SectorCard({sector,sectionKey,locale,locationRoot,locationMode}) {
   const choices=sectorChoices(sector,sectionKey,locale,locationRoot,locationMode);
   const primary=choices[0];
   const note=guidance[sector.slug]?.[locale];
+  const richSectorMore=sectionKey==='services_offers'&&!locationRoot;
+  const richHref=(en?'/en/categories/':'/services/')+sector.slug;
   return <article id={'sector-'+sector.slug} className="min-w-0 self-start scroll-mt-24 overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
     <div className="relative aspect-[16/10] overflow-hidden bg-slate-100">
       {sector.image?<Image src={sector.image} alt={(en?'Illustration of ':'صورة توضيحية عن ')+sector.name[locale]} fill sizes="(max-width: 640px) 50vw, (max-width: 1024px) 50vw, 25vw" className="object-cover"/>:<span className="flex h-full items-center justify-center text-slate-500"><Factory size={32} aria-hidden="true"/></span>}
@@ -93,7 +95,9 @@ function SectorCard({sector,sectionKey,locale,locationRoot,locationMode}) {
     <div className="min-w-0 p-3 sm:p-4">
       <h3 className="text-sm font-extrabold leading-6 text-[#193b53] sm:text-lg">{sector.name[locale]}</h3>
       <p className="mt-1 line-clamp-2 text-xs leading-6 text-slate-600 sm:text-sm">{sector.description[locale]}</p>
-      <details className="group/more mt-2" aria-label={(en?'More about ':'المزيد عن ')+sector.name[locale]}>
+      {richSectorMore?<Link href={richHref} aria-label={(en?'Read the full service guide: ':'افتح دليل الخدمات الكامل: ')+sector.name[locale]} className="mt-2 inline-flex min-h-10 items-center gap-1 text-xs font-bold text-[#185b87] underline-offset-2 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-sky-600 sm:text-sm">
+        {en?'More':'المزيد'} <ArrowUpLeft size={15} aria-hidden="true" className={'shrink-0 '+(en?'rotate-180':'')}/>
+      </Link>:<details className="group/more mt-2" aria-label={(en?'More about ':'المزيد عن ')+sector.name[locale]}>
         <summary className="inline-flex min-h-10 cursor-pointer list-none items-center gap-1 text-xs font-bold text-[#185b87] marker:content-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-sky-600 sm:text-sm">
           {en?'More':'المزيد'} <ChevronDown size={15} aria-hidden="true" className="transition group-open/more:rotate-180"/>
         </summary>
@@ -101,7 +105,7 @@ function SectorCard({sector,sectionKey,locale,locationRoot,locationMode}) {
         {choices.length>1&&<nav aria-label={en?'Related specialties':'التخصصات المرتبطة'} className="grid gap-1 pb-2">
           {choices.slice(1).map(choice=><Link key={choice.slug} href={choice.href} className="text-xs font-semibold leading-6 text-[#185b87] underline underline-offset-2">{choice.name}</Link>)}
         </nav>}
-      </details>
+      </details>}
       {primary?<Link href={primary.href} aria-label={(en?'Explore ':'استكشف ')+sector.name[locale]} className="mt-2 inline-flex min-h-11 w-full items-center justify-center gap-1 rounded-xl bg-[#185b87] px-2 py-2 text-center text-xs font-bold leading-5 text-white hover:bg-[#12486b] sm:text-sm">
         {en?'Explore':'استكشف'}<ArrowUpLeft size={16} className={'shrink-0 '+(en?'rotate-180':'')} aria-hidden="true"/>
       </Link>:<a href="https://wa.me/971564456337" target="_blank" rel="noopener noreferrer" className="mt-2 inline-flex min-h-11 w-full items-center justify-center rounded-xl border border-[#185b87] px-2 text-center text-xs font-bold text-[#185b87]">{en?'Contact customer service':'تواصل مع خدمة العملاء'}</a>}

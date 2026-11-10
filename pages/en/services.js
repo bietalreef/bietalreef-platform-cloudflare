@@ -85,8 +85,8 @@ export default function ServicesEnglishPage({ directoryCards, publishedServices 
           <DiscoveryDirectoryHero type="services" locale="en" />
 
 
-          <section id="services-list" className="max-w-6xl mx-auto px-4 py-14 md:py-20">
-            <div className="mb-8 text-center md:text-left"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">Service sectors</span><h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">Choose the service type</h2><p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">Mobile-first cards: clear image, focused content and a direct path to open each service.</p></div>
+          <section id="services-list" className="mx-auto max-w-6xl px-3 py-8 sm:px-4 md:py-12">
+            <div className="mb-5 text-center md:text-left"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">Service sectors</span><h2 className="mt-3 text-2xl font-black text-[#193b53] md:text-3xl">Choose the service type</h2><p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">Select More for the complete service guide with technical details, images and UAE location links. Use Explore to open the existing specialty route.</p></div>
             <MainSectorCards sectionKey="services_offers" locale="en" />
           </section>
 

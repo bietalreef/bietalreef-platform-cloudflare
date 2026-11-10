@@ -63,8 +63,8 @@ export default function Services({ directoryCards, publishedServices = [], publi
           <DiscoveryDirectoryHero type="services" locale="ar" />
 
 
-          <section id="services-list" className="max-w-6xl mx-auto px-4 py-14 md:py-20">
-            <div className="mb-8 text-center md:text-right"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">قطاعات الخدمات</span><h2 className="mt-4 text-3xl font-black text-[#0F3F1A] md:text-4xl">اختر نوع الخدمة</h2><p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">اختر بطاقة الخدمة المناسبة، ثم أضف تفاصيل المشروع للانتقال إلى طلب واضح قابل للتوجيه والتسعير.</p></div>
+          <section id="services-list" className="mx-auto max-w-6xl px-3 py-8 sm:px-4 md:py-12">
+            <div className="mb-5 text-center md:text-right"><span className="inline-flex rounded-full border border-[#B8922B]/30 bg-white px-4 py-1.5 text-xs font-black text-[#8A6A00] shadow-sm">قطاعات الخدمات</span><h2 className="mt-3 text-2xl font-black text-[#193b53] md:text-3xl">اختر نوع الخدمة</h2><p className="mx-auto mt-3 max-w-3xl text-sm font-semibold leading-8 text-gray-600 md:mx-0 md:text-base">اضغط «المزيد» لفتح دليل كامل لكل قطاع، يشمل تفاصيل الخدمات والصور ونصائح تجهيز الطلب وروابط الإمارات. واستخدم «استكشف» للوصول مباشرة إلى مسار التخصص.</p></div>
             <MainSectorCards sectionKey="services_offers" locale="ar" />
           </section>
 

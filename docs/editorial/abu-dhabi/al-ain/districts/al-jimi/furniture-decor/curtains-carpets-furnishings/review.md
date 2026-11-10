@@ -12,3 +12,5 @@
   4. توريد السجاد والموكيت — Rugs and fitted carpet supply
   5. توريد المراتب — Mattress supply
 - Editorial note: final regional audit must still check all other specialties and the 434-service taxonomy before marking Al Jimi complete.
+
+- 2026-11-11: Replaced five identical Arabic quotation-request paragraphs with service-specific input and cost-comparison prompts; verified by reading the saved GitHub file. Regional audit remains `in_progress`.

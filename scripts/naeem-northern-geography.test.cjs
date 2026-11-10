@@ -27,12 +27,12 @@ for(const lang of ['ar','en']){
  assert.ok(deep.includes("getGeographicNaeemContextProps('"+lang+"'"),'nested geo context missing');
  for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js','pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
   const code=read(page);
-  assert.ok(code.includes("showServices={['umm-al-quwain','sharjah','ras-al-khaimah','fujairah'].includes(emirate.slug)}"),page+' requires service-only listings');
+  assert.ok(code.includes("cardOnly mode=\"services\""),page+' requires service-only listings');
  }
 }
 assert.ok(profile.includes("alNaeemPath('ar',{kind:'home'})+'#company'"),'stable brand identity absent');
 assert.ok(profile.includes('geoCrumbs'),'geographic breadcrumb schema missing');
 assert.ok(profile.includes('contextEmirateSlug'),'emirate context not in breadcrumbs');
-assert.ok(discovery.includes('if(cardOnly)return showServices&&contextHref?publishedServices:profileCard'),'cleaning should not duplicate profile');
+assert.ok(discovery.includes("if(cardOnly)return listingMode===\'services\'?publishedServices:profileCard"),'cleaning should not duplicate profile');
 assert.ok(discovery.includes('href:contextHref+\'/services/\'+service.slug'),'service href must preserve hierarchy');
 console.log('Sharjah, Ras Al Khaimah, Fujairah, UAQ: profile in directory; real services in cleaning; nested bilingual route and schema PASS');

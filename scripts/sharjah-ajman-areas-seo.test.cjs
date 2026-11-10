@@ -72,7 +72,7 @@ assert.match(sitemap,/areaEditorialFor\(emirate.slug,area.slug,'ar'\)/);
 assert.match(sitemap,/for \(const sector of UAE_MAIN_SECTORS\)/);
 assert.match(sitemap,/addPair\(hub,'\/en'\+hub/);
 assert.match(sitemap,/addPair\(path,'\/en'\+path/);
-assert.match(sitemap,/lastmod:'2026-11-09'/);
+assert.match(sitemap,/lastmod:'2026-11-10'/);
 const explorer=read('components/SectorTaxonomyExplorer.js');
 assert.match(explorer,/hidden=\{!expanded\}/);
 assert.match(explorer,/serviceGuides\?\.sector===normalized/);

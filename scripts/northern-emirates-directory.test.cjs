@@ -49,6 +49,9 @@ for(const [p,scope,locale] of routeFiles){
  if(scope==='district')assert.ok(code.includes("quotePlacement={regionArea||northern?'external':'inline'}"),p+' missing one location-aware quote form');
 }
 const sitemap=read('pages/sitemap.xml.js');
+const topSectorRow=sitemap.match(/for \(const emirate of \[([^\]]+)\]\) for \(const sector of UAE_MAIN_SECTORS\)/)?.[1]||'';
+for (const emirate of ['ras-al-khaimah','fujairah']) assert.ok(topSectorRow.includes("'"+emirate+"'"),emirate+' missing sector top-level sitemap entries');
+
 for(const slug of names)assert.ok(sitemap.includes("'"+slug+"'"),slug+' not in sitemap');
 assert.ok(sitemap.includes('for (const area of emirate.areas)'));
 assert.ok(sitemap.includes('for (const sector of UAE_MAIN_SECTORS)'));

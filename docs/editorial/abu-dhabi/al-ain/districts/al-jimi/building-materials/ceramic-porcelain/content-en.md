@@ -1,73 +1,117 @@
-# Ceramic and porcelain in Al Jimi — supply and installation
+# Ceramic and porcelain in Al Jimi — company services guide
 
-Floor area alone is insufficient: allow for cuts, layout and levels. This is preparatory company guidance without confirming a provider or price.
+Preparatory guidance for quote requests; it does not establish category activation, provider availability, price or appointment.
 
 ## 1. Ceramic tile supply
 
-**Preparation:** Supply tile size, room area, wall or floor use and batch shade, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Ceramic tiles may suit walls or floors, but wall-rated products should not automatically be specified for floors, particularly wet rooms.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Provide net room areas, tile size and thickness, finish and shade code, daylight photos and threshold details. Estimate cutting allowance from the room layout.
 
-**Acceptance:** Check matching shade, calibre and undamaged tiles, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** Supply covers agreed cartons from an identified batch and delivery point; installation, old-tile removal and upper-floor lifting are excluded unless stated.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare the effective area per carton, grade, shade batch, breakage replacement policy, and return terms for unopened surplus.
+
+**Agreement terms:** Record the exact product code, grade, batch, delivery window, unloading responsibility and shortage procedure.
+
+**Acceptance checks:** Check carton codes and samples for chips, flatness and shade under site lighting before accepting delivery; drainage falls are not a supply-stage test.
+
+**Request a quotation:** Send room areas, sample code and access photos; request separate supply and delivery lines.
 
 ## 2. Porcelain tile supply
 
-**Preparation:** Supply tile thickness, size, slip resistance and intended location, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Large-format or heavy-use porcelain requires planning for handling routes as well as appearance.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Specify intended use, tile format, thickness, finish and slip-resistance requirement; photograph lift doors, stairs and the route into the rooms.
 
-**Acceptance:** Check size consistency, flatness and sound edges, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** The quotation covers the specified tiles; suction lifters, adhesive and fitting are not automatically included.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare declared grade, dimensional tolerances, slip properties, carton coverage, large-slab handling and transit damage terms.
+
+**Agreement terms:** Confirm the batch, packing method, handling instructions and who bears transport damage.
+
+**Acceptance checks:** Inspect corners, fine cracks and codes on a sample of large tiles before signing delivery.
+
+**Request a quotation:** Attach sample photos, maximum tile dimensions and access restrictions; ask for handling charges.
 
 ## 3. Outdoor paving tile supply
 
-**Preparation:** Supply traffic type, tile size, texture and drainage slope, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Paths and driveways need products suited to sunlight, rainwater and the actual pedestrian or vehicle load.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Map the paving area, existing drains and slopes, gate thresholds and whether vehicles will cross it.
 
-**Acceptance:** Check surface texture and suitability for specified use, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** Supply is separate from base construction, drainage correction and installation unless the offer includes them.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare thickness, texture, documented intended load and slip performance, batch consistency and pallet delivery.
+
+**Agreement terms:** Specify the outdoor-use product and replacement conditions for broken or unsuitable pieces.
+
+**Acceptance checks:** Inspect texture and dimensions, chips and packaging; installed drainage falls can only be checked after laying.
+
+**Request a quotation:** Send path area, traffic type and drain photos; request distinct supply, base and installation prices.
 
 ## 4. Tile cutting and preparation
 
-**Preparation:** Supply tile layout, cut dimensions, openings and corner details, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Cutting is needed around pipes, stairs and tight corners where replacement tiles may be scarce.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Provide numbered cutting drawings, each opening dimension, corner photographs, the visible finished edge and a physical sample.
 
-**Acceptance:** Check clean edges, no cracked pieces and accurate dimensions, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** The scope is agreed cuts, holes or edge finishing; installation and damage to uninspected client-supplied tiles are not assumed.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare straight and mitred cuts, drilled openings, polished edges, waterjet needs and permitted wastage per piece.
+
+**Agreement terms:** Agree measurement tolerance, spare quantities, responsibility for breakage and piece numbering.
+
+**Acceptance checks:** Trial-fit critical pieces, measure them and check edge chips, cracks and pattern orientation.
+
+**Request a quotation:** Share a cutting schedule and spare allowance; request separate cutting and transport costs.
 
 ## 5. Ceramic tile installation
 
-**Preparation:** Supply substrate condition, levels and joint layout, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Installing over an uneven or damp substrate can lead to failures even when the tiles themselves are sound.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Photograph substrate cracks, moisture marks, drains and thresholds; provide finished levels and a proposed tile layout.
 
-**Acceptance:** Check levelness, consistent joints and no loose tiles, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** The work includes agreed adhesive fixing and grouting; demolition, waterproofing, leak repair and major levelling are separate unless specified.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare adhesive, grout, skirting, cutting, protection, waste allowance and curing downtime on a consistent area basis.
+
+**Agreement terms:** Approve a layout sample, movement joints and wet-area falls before work; assign responsibility for waterproofing tests before covering.
+
+**Acceptance checks:** Check alignment and joint widths, agreed bond checks and water drainage in wet areas after curing.
+
+**Request a quotation:** Send substrate photos, areas, drain locations and whether tiles are already purchased.
 
 ## 6. Porcelain tile installation
 
-**Preparation:** Supply large tile format, substrate flatness and approved adhesive, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Large-format porcelain highlights substrate unevenness and needs suitable lifting and bedding methods.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Provide tile size, thickness, setting-out plan, measured substrate flatness and access photographs.
 
-**Acceptance:** Check edge alignment, adhesive coverage and designed joints, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** Installation uses a compatible adhesive system; slab lifting, major substrate repair and waterproofing are additional unless contracted.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare adhesive coverage method, back-buttering where required, suction handling, levelling aids, cutting and movement joints.
+
+**Agreement terms:** Approve a sample bay and manufacturer-compatible adhesive; assign tile-breakage liability and curing restrictions.
+
+**Acceptance checks:** Inspect lippage, edge alignment and adhesion after curing; ensure movement joints are not rigidly grouted.
+
+**Request a quotation:** Send large-tile dimensions, room areas and access photos; ask for handling equipment as a separate line.
 
 ## 7. Skirting supply and installation
 
-**Preparation:** Supply wall lengths, skirting height, door corners and desired finish, photos of doorways, drains and corners, and a shade sample. Clarify supply-only versus installation, and whether removal or substrate levelling is needed.
+**When it is needed:** Skirting protects wall bases and finishes floor-to-wall edges, with extra detailing around door frames.
 
-**Scope and agreement:** Compare consistent per-square-metre, linear-metre or piece prices, including waste, adhesive, grout, skirting, delivery and lifting. Agree layout, tile orientation, movement joints, shade and batch. Explicitly state whether removal, waterproofing and base correction are excluded.
+**Photos, measurements and specifications:** Measure net wall runs excluding openings, choose height and thickness, and photograph external corners and door returns.
 
-**Acceptance:** Check straight runs, tight corners and neat edges, drainage falls in wet areas, breakage and visible shade differences. Record defects before final acceptance.
+**Scope and exclusions:** The scope includes skirting pieces, fixing and agreed joints; extensive wall repair or repainting is excluded unless stated.
 
-**Quote request:** Share plans, areas and photos with Biet Al Reef customer service for comparable requests; provider, price and date are not guaranteed.
+**Comparing quotations:** Compare linear-metre rates, mitred corners, end caps, adhesive, grout, wastage and shade matching.
+
+**Agreement terms:** Approve sample inside/outside corners, finished height and termination at door architraves.
+
+**Acceptance checks:** Check straight top lines, sound fixing, neat joins and absence of damage to adjacent paint and flooring.
+
+**Request a quotation:** Provide wall lengths and corner photos; request a linear-metre quotation rather than a floor-area rate.
+
+Biet Al Reef customer service can help prepare a request even when no provider is listed; availability, pricing and timing are not guaranteed.

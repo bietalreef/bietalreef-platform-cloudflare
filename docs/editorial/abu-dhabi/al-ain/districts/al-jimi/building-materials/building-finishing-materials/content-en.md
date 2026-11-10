@@ -8,7 +8,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare price per bag against weight, grade, manufacturing date and pallet unloading; avoid treating different bag weights as equivalent and require dry storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check grade and batch match, sealed dry bags without lumps. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Agree cement batch references, delivery window and dry storage location before signing receipt. Check the delivered items and check grade and batch match, sealed dry bags without lumps. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -18,7 +18,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare net cubic-metre volume, sand type, washing and grading, plus tipper waiting charges; agree how delivered volume will be checked. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Specify sand type, unloading point and how delivered volume will be verified on arrival. Check the delivered items and check no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -28,7 +28,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare nominal size, grading, source and truck volume; specify whether washing and testing are included. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record aggregate grading and source, and keep the load separate from previously stored aggregate. Check the delivered items and check grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -38,7 +38,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare unit prices by dimensions, thickness and strength, with pallet counts, allowable breakage and replacement of damaged blocks. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check unbroken edges, correct dimensions and piece count. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record block dimensions, permitted breakage and replacement terms for damaged pallets. Check the delivered items and check unbroken edges, correct dimensions and piece count. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -48,7 +48,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare tonne price by diameter, grade, actual weight and certificates; allocate crane, unloading and bar sorting responsibilities. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check identification, certificates, quantities and absence of damaging defects. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Approve the bar bending schedule and allocate lifting and sorting duties before dispatch. Check the delivered items and check identification, certificates, quantities and absence of damaging defects. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -58,7 +58,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare cubic-metre price by strength, workability and haul distance; itemise pump, waiting, tests and short-load charges and confirm the pour window. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Confirm pour slot, mixer arrival window, pump responsibility and sampling with the supervising engineer. Check the delivered items and check batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -68,7 +68,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare the bill of quantities line by line, not unlike-for-like substitutes; tie deliveries to construction stages and available storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check each shipment matches its purchase order and site readiness. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Link each shipment to a bill-of-quantities line, construction stage and available storage area. Check the delivered items and check each shipment matches its purchase order and site readiness. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -78,7 +78,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare board price by size, thickness and rating rather than piece count alone; cover damaged edges and dry storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check flat dry boards, intact edges and correct product labels. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Specify gypsum board type and dimensions and protect board edges against transit moisture. Check the delivered items and check flat dry boards, intact edges and correct product labels. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -88,7 +88,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare primer, filler and coating by litre, coverage and required coats; check compatibility of the full system rather than isolated unit prices. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check colour and batch codes, shelf life and sealed containers. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Approve paint colour codes and batch numbers and check cans against the agreed sample. Check the delivered items and check colour and batch codes, shelf life and sealed containers. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -98,7 +98,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare the complete primer, membrane and accessory system by thickness, coverage, shelf life and compatibility; do not mix incompatible products. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check compatible components, production and storage condition and required compliance records. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Specify the complete waterproofing system including primer, membrane or coating and shelf life. Check the delivered items and check compatible components, production and storage condition and required compliance records. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -108,7 +108,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare net square-metre price, cutting waste, shade batch and required slip rating; separate adhesives and installation. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check shade and batch consistency, straight pieces and no breakage. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Approve flooring dimensions, shade and batch number and record agreed cutting wastage. Check the delivered items and check shade and batch consistency, straight pieces and no breakage. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -118,7 +118,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare model, finish, warranty, accessories and connection positions; separately price traps, mixers and any missing fittings. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check correct models, finishes and accessories without cracks or scratches. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** List sanitaryware models and fittings and protect fragile units during handling. Check the delivered items and check correct models, finishes and accessories without cracks or scratches. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -128,7 +128,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare cable sizes and breaker ratings against approved schedules and certificates; check reel lengths and delivery costs. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check ratings, markings and required approvals without unapproved substitutions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Match cable, breaker and accessory ratings against the approved electrical schedule. Check the delivered items and check ratings, markings and required approvals without unapproved substitutions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -138,7 +138,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare pipe material, diameter, pressure class and compatible fittings and valves; require approval before material substitutions. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check matching diameters and ratings, no cracked or missing fittings. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Match pipe diameters, working pressures and joint types against the plumbing schedule. Check the delivered items and check matching diameters and ratings, no cracked or missing fittings. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -148,7 +148,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare per-retail-unit pricing, pack sizes, return terms and alternatives; distinguish small-order delivery charges. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check invoice, unit counts, quantities and returns terms before collection. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** List individual retail items and agree count checks and return rules before payment. Check the delivered items and check invoice, unit counts, quantities and returns terms before collection. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -158,7 +158,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare dimensions, waste outlets, genuine accessories, warranty and replacement rules for scratched units before fitting. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check complete sets, connection compatibility and documented warranty. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Check that taps, valves and associated fittings are complete in each package. Check the delivered items and check complete sets, connection compatibility and documented warranty. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -168,7 +168,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare tool model, power rating, accessories, warranty and service; distinguish purchase from hire and include consumables. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check correct specified item and safety rating, with no unsuitable substitution. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Verify accessory ratings and ingress protection against intended electrical use. Check the delivered items and check correct specified item and safety rating, with no unsuitable substitution. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -178,7 +178,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare fixing type, diameter, length, rated load and suitable substrate; request certification for structural applications. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check thread, dimensions and seals fit before installation. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Separate plumbing fittings, valves and connectors by size and material on the retail invoice. Check the delivered items and check thread, dimensions and seals fit before installation. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -188,7 +188,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare pack unit, expiry, consumption rate and storage conditions; separate perishable products from durable stock. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check mixed colour matches code, batch and future repeatability. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Approve paint shade, sheen and pack size and retain the batch reference. Check the delivered items and check mixed colour matches code, batch and future repeatability. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -198,7 +198,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare manufacturing or import lead time, approved samples, minimum order and cancellation terms for custom items. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check compatible system components, accessories and application instructions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Confirm waterproofing material compatibility with substrate and required preparation products. Check the delivered items and check compatible system components, accessories and application instructions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
 
@@ -208,6 +208,6 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare trip count, vehicle capacity, unloading point, lifting equipment and waiting fees; assign responsibility for transit protection. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
 
-**Agreement and acceptance:** Record the required date, drop-off point and rules for batch changes, then check package count, condition, proof of delivery and damage noted before signing. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Agree loading order, vehicle access, unloading location and responsibility for handling damage. Check the delivered items and check package count, condition, proof of delivery and damage noted before signing. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
 **Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.

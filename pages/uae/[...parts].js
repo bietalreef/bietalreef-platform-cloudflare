@@ -1,6 +1,8 @@
 import DirectoryContextCompany from '../../components/provider/DirectoryContextCompany';
 import { getCompanyContextProps } from '../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../components/provider/RehabPresencePage';
+import AlNaeemPresencePage from '../../components/provider/AlNaeemPresencePage';
+import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../lib/alNaeemPresence';
 import { getRehabContextProps, REHAB_SLUG } from '../../lib/rehabPresence';
 import GeographicServicePage from '../../components/GeographicServicePage';
 import GeographicServiceDirectoryPage from '../../components/GeographicServiceDirectoryPage';
@@ -11,6 +13,7 @@ import {UAE_MAIN_SECTORS} from '../../data/directoryDiscovery';
 import { geographicRouteProps } from '../../lib/geographicRouteProps';
 
 export default function ContextualDirectoryCompany(props) {
+  if(props.alNaeemContext)return <AlNaeemPresencePage data={props.data} locale="ar" route={props.route}/>;
   if (props.geographicService) return <GeographicServicePage item={props.item} />;
   if (props.geographicServiceCollection) return <GeographicServiceDirectoryPage model={props.model} />;
   return props.companyContext ? <DirectoryContextCompany {...props} /> : <RehabPresencePage {...props} />;
@@ -18,6 +21,22 @@ export default function ContextualDirectoryCompany(props) {
 
 export async function getServerSideProps(context) {
   const parts = context.params?.parts || [];
+  // Reuse the original company page for sector/company and district/sector/company URLs.
+  // Preserve every original provider route; no duplicate account or route family.
+  if(parts[0]==='umm-al-quwain'){
+    const companyIndex=parts[1]==='cleaning-services'&&parts[2]===AL_NAEEM_SLUG?2:
+      getArea('umm-al-quwain',parts[1])&&parts[2]==='cleaning-services'&&parts[3]===AL_NAEEM_SLUG?3:-1;
+    if(companyIndex!==-1){
+      const tail=parts.slice(companyIndex+1);
+      if(tail.length>2 || (tail.length>0&&!['services','offers','service-areas'].includes(tail[0])))
+        return {notFound:true};
+      const kind=tail[0]||'home';
+      const slug=tail[1]||null;
+      const areaSlug=companyIndex===3?parts[1]:null;
+      context.res.setHeader('Cache-Control','public, s-maxage=300, stale-while-revalidate=600');
+      return getUaqNaeemContextProps('ar',{areaSlug,kind,slug});
+    }
+  }
   if (['abu-dhabi','dubai'].includes(parts[0])) {
     const sectorSet = new Set(UAE_MAIN_SECTORS.map(item => item.slug));
     let args = null;

@@ -671,3 +671,7 @@
 ## متابعة تدقيق متاجر الأثاث والمفروشات — 2026-11-11
 - الحالة: `in_progress`؛ خُصصت سبع فقرات طلب عرض سعر لكل لغة في [متاجر الأثاث والمفروشات](./furniture-decor/furniture-shops/review.md)، وتأكد تطابق ملفي المحتوى بإعادة القراءة من GitHub.
 - أول نقص تالٍ: `furniture-decor/majlis-upholstery/content-ar.md` ثم `content-en.md` و`review.md`، يليه `furniture-decor/curtains-carpets-furnishings`، ثم إعادة تدقيق تخصصات `equipment-rental` و`cleaning-services` ومطابقة 50 تخصصًا و434 خدمة بكل لغة مع الشجرة وفحص التكرار والسلامة والتصنيفات. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة تنجيد المجالس والكنب — 2026-11-11
+- الحالة `in_progress`؛ خُصصت خمس فقرات طلب سعر بالعربية وخمس بالإنجليزية في [تنجيد المجالس والكنب](./furniture-decor/majlis-upholstery/review.md)، وتم التحقق من ملفي المحتوى بعد الرفع.
+- **أول نقص دقيق تالٍ:** `furniture-decor/curtains-carpets-furnishings/content-ar.md` ثم `content-en.md` و`review.md`؛ وبعدها مراجعة `equipment-rental` و`cleaning-services` ثم الجرد الشامل لجميع 50 تخصصًا و434 خدمة بكل لغة، مع التحقق من الأسماء والتكرار والسلامة وحالات التصنيف. لا يبدأ المويجعي.

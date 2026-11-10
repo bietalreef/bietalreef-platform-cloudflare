@@ -14,6 +14,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Acceptance check:** Check floor levels, joints and wet-area falls, operate lights and water fixtures, and log defects room by room.
 
+**Quotation request details:** Attach floor-by-floor areas and the condition of electrical and plumbing rough-ins. State who supplies materials and request itemised trade prices and inspection hold points before concealed work is closed.
+
 ## 2. Apartment finishing
 
 **When needed:** Occupied apartments and shared buildings require lift booking, noise control and common-area protection.
@@ -25,6 +27,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Comparing quotes and contract:** Compare protection and disposal costs, material specifications, duration and kitchen or bathroom downtime rather than lump sums.
 
 **Acceptance check:** Inspect common-area damage, floor edges, sealant, sanitary operation and final cleaning.
+
+**Quotation request details:** Attach building management rules, permitted work hours and occupancy status. Request separate allowances for lift and corridor protection, strip-out and new finishes.
 
 ## 3. Retail shop finishing
 
@@ -38,6 +42,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Acceptance check:** Walk the customer route, test door clearance and power points, assess merchandise lighting and display stability.
 
+**Quotation request details:** Send customer circulation drawings, storefront dimensions and display loads. Request separate prices for counters, cladding, lighting and signage, identifying who handles approvals.
+
 ## 4. Office finishing
 
 **When needed:** Office layouts depend on workstations, meeting rooms, acoustic privacy and network routes.
@@ -49,6 +55,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Comparing quotes and contract:** Compare partition acoustic performance, floor durability, service access and downtime; agree a coordinated trade drawing.
 
 **Acceptance check:** Check door swings, task lighting, data outlets, access panels and finishes around services.
+
+**Quotation request details:** Provide workstation counts, network layouts and meeting-room needs. Request acoustic partition specifications, service-routing responsibilities and the planned office downtime.
 
 ## 5. Interior refurbishment
 
@@ -62,6 +70,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Acceptance check:** Inspect the dry repaired substrate, colour, levels and edges; document the cause before concealing it.
 
+**Quotation request details:** Identify the affected area, any known cause and elements to retain. Ask for priced local-repair and full-refurbishment options and a process for unforeseen concealed defects.
+
 ## 6. Decorative fit-out works
 
 **When needed:** Decorative work may combine wall cladding, light coves and fixed joinery; clarify boundaries between finisher, carpenter and electrician.
@@ -74,6 +84,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Acceptance check:** Inspect line alignment, colour consistency, secure fixing and maintenance access without breaking the feature.
 
+**Quotation request details:** Provide wall elevations, joint details, finish samples and lighting-driver positions. Ask for a corner mock-up and separate joinery, cladding and electrical allowances.
+
 ## 7. Integrated finishing handover
 
 **When needed:** Handover is more than cleaning: each item must be evidenced and outstanding defects closed before acceptance.
@@ -85,6 +97,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Comparing quotes and contract:** Compare document schedules, defect rectification periods and final payment retention; list exclusions expressly.
 
 **Acceptance check:** Walk each room, operate lights, switches, drains and doors, check falls, and sign a dated outstanding-items record.
+
+**Quotation request details:** Attach the snag list, contracts, available as-built drawings and warranties. Request a test and document handover schedule and named responsibility for closing each defect.
 
 ## Request a quotation
 

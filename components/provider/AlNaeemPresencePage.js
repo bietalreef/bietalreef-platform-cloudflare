@@ -92,9 +92,9 @@ function QuoteActions({phone,wa,locale,subject,large=false}) {
     {waLink&&<a href={waLink} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-[46px] items-center justify-center gap-2 rounded-xl border border-[#d4bb89] bg-white px-5 py-3 text-[15px] font-bold text-[#173b56]"><MessageCircle size={18}/>{large?t.book:t.whatsapp}</a>}
   </div>;
 }
-function ServiceCard({item,locale,kind='services',areaSlug}) {
+function ServiceCard({item,locale,kind='services',areaSlug,contextBase=null}) {
   const t=texts[locale];const isOffer=kind==='offers';
-  const href=item.isInquiry?alNaeemPath(locale)+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{})});
+  const href=item.isInquiry?alNaeemPath(locale,{kind:'home',...(contextBase?{contextBase}:{})})+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{}),...(contextBase&&kind==='services'?{contextBase}:{})});
   return <article className="group overflow-hidden rounded-[22px] border border-[#e4e5e5] bg-white shadow-[0_8px_26px_rgba(19,48,70,.055)] transition hover:-translate-y-0.5 hover:shadow-lg">
     <Link href={href} className="flex h-full sm:block focus-visible:outline-offset-4">
       <div className="relative min-h-[160px] w-2/5 shrink-0 overflow-hidden bg-[#edf0ec] sm:aspect-[16/10] sm:min-h-0 sm:w-full">
@@ -109,7 +109,7 @@ function ServiceCard({item,locale,kind='services',areaSlug}) {
     </Link>
   </article>;
 }
-function CardGrid({items,kind,locale,areaSlug}) {
+function CardGrid({items,kind,locale,areaSlug,contextBase=null}) {
   const t=texts[locale];
   if(!items?.length)return <p className="rounded-2xl border border-dashed p-5">{kind==='offers'?t.noOffers:t.noService}</p>;
   if(kind==='service-areas')return <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
@@ -117,9 +117,9 @@ function CardGrid({items,kind,locale,areaSlug}) {
       <MapPin size={23} className="text-[#c59b4f]"/><span className="text-[16px] font-bold text-[#163b56]">{pick(x,locale)}</span><span className="text-[12px] text-[#6c7e8d]">{t.view}</span>
     </Link>)}
   </div>;
-  return <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:gap-5">{items.map(item=><ServiceCard key={item.id} item={item} locale={locale} kind={kind} areaSlug={areaSlug}/>)}</div>;
+  return <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:gap-5">{items.map(item=><ServiceCard key={item.id} item={item} locale={locale} kind={kind} areaSlug={areaSlug} contextBase={contextBase}/>)}</div>;
 }
-function Segment({kind,locale,items,title,lead,showAll=true,areaSlug}) {
+function Segment({kind,locale,items,title,lead,showAll=true,areaSlug,contextBase=null}) {
   const t=texts[locale];return <section id={kind} className="mx-auto w-full max-w-[1180px] scroll-mt-28 px-4 py-8 sm:px-6 sm:py-12">
     <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
       <div className="max-w-[760px]"><span className="mb-2 block text-[12px] font-bold tracking-wide text-[#ab803b]">{t.brand} / {t[kind]}</span>
@@ -128,7 +128,7 @@ function Segment({kind,locale,items,title,lead,showAll=true,areaSlug}) {
       </div>
       {showAll&&items.length>0&&<Link href={alNaeemPath(locale,{kind})} className="rounded-full border border-[#d6c49e] px-4 py-2 text-[13px] font-bold text-[#163951]">{t.all}</Link>}
     </div>
-    <CardGrid items={items} kind={kind} locale={locale} areaSlug={areaSlug}/>
+    <CardGrid items={items} kind={kind} locale={locale} areaSlug={areaSlug} contextBase={contextBase}/>
   </section>;
 }
 function FAQ({locale,subject,phone,wa}) {
@@ -181,17 +181,19 @@ function BrandMediaGallery({gallery,locale}) {
 export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'},unavailable=false}) {
   const en=locale==='en',t=texts[locale];
   if(unavailable||!data)return <><Navbar locale={locale}/><main className="p-8" role="status">{en?'The company page is temporarily unavailable.':'صفحة الشركة غير متاحة مؤقتًا.'}</main><Footer locale={locale}/></>;
-  const root=alNaeemPath(locale), path=alNaeemPath(locale,route);
+  const root=alNaeemPath(locale,{kind:'home',...(route.contextBase?{contextBase:route.contextBase}:{})}), path=alNaeemPath(locale,route);
+   const locationName=route.contextBase?(en?route.contextPlaceEn:route.contextPlaceAr):null;
+   const contextualNav=(kind,slug=null)=>alNaeemPath(locale,{kind,slug,...(route.contextBase?{contextBase:route.contextBase}:{})});
   const alt=alNaeemPath(en?'ar':'en',route);
   const serviceChoices=[...data.services,...(data.additionalRequests||[]).map(request=>({...request,isInquiry:true}))];
   const cols={services:serviceChoices,offers:data.offers,'service-areas':data.coverageAreas||data.areas};
   const item=route.slug?cols[route.kind]?.find(x=>x.slug===route.slug):null;
   const area=route.areaSlug?(data.coverageAreas||data.areas).find(x=>x.slug===route.areaSlug):null;
-  const name=pick(data.profile,locale), title=route.kind==='home'?name:item?(area?(en?`${pick(item,locale)} in ${pick(area,locale)}`:`${pick(item,locale)} في ${pick(area,locale)}`):pick(item,locale)):t[route.kind];
+  const name=pick(data.profile,locale), title=route.kind==='home'?(locationName?(en?`${name} in ${locationName}`:`${name} في ${locationName}`):name):item?(area?(en?`${pick(item,locale)} in ${pick(area,locale)}`:`${pick(item,locale)} في ${pick(area,locale)}`):locationName?(en?`${pick(item,locale)} in ${locationName}`:`${pick(item,locale)} في ${locationName}`):pick(item,locale)):t[route.kind];
   const subject=cleaningRequestMessage({locale,company:t.brand,title,path});
   const serviceContent = item && route.kind === 'services' ? cleaningContent(item.slug,locale) : null;
   const relatedOffers = item && route.kind === 'services' ? data.offers.filter(offer=>offer.service_slug===item.slug) : [];
-  const summary=item ? `${title} — ${t.brand}. ${pick(item,locale,'description')}` : route.kind==='home'?t.lead:`${t[route.kind]} — ${t.brand}. ${route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead}`;
+  const summary=item ? `${title} — ${t.brand}. ${pick(item,locale,'description')}` : route.kind==='home'?(locationName?`${t.lead} ${en?'Confirm cleaning availability and final scope in':'تأكد من توفر خدمة التنظيف ونطاق العمل في'} ${locationName}.`:t.lead):`${t[route.kind]} — ${t.brand}. ${route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead}`;
   const metaTitle=title+' | '+(route.kind==='home'?t.sector:t.brand)+' | '+(en?'Biet Al Reef':'بيت الريف');
   const photo=data.profile.cover_image_url;
   const phone=data.profile.phone,wa=data.profile.whatsapp;
@@ -216,7 +218,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(structured).replace(/</g,'\\u003c')}}/>
     </Head>
     <Navbar locale={locale}/>
-    <CompanyPageNav locale={locale} homeHref={root} active={route.kind} hrefs={{home:root,services:alNaeemPath(locale,{kind:"services"}),offers:alNaeemPath(locale,{kind:"offers"}),"service-areas":alNaeemPath(locale,{kind:"service-areas"})}}/>
+    <CompanyPageNav locale={locale} homeHref={root} active={route.kind} hrefs={{home:root,services:contextualNav("services"),offers:contextualNav("offers"),"service-areas":contextualNav("service-areas")}}/>
     <main>
       <div className="mx-auto max-w-[1180px] px-4 pt-4 sm:px-6">
         <nav aria-label={en?'Breadcrumb':'مسار التنقل'} className="mb-4 flex flex-wrap items-center gap-2 text-[12px] text-[#67798b]">
@@ -235,7 +237,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <div className="flex flex-col justify-center p-5 sm:p-9 md:order-1 md:p-10">
               <span className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-[#eadbc0] bg-[#fff9ed] px-3 py-2 text-[12px] font-bold text-[#8b6c37]"><Sparkles size={14}/>{t.badge}</span>
               {route.kind==='home'&&<p className="mb-2 text-[15px] font-bold text-[#aa8648]">{name}</p>}
-              <h1 className="text-[27px] font-extrabold leading-[1.35] tracking-[-.025em] text-[#142f48] sm:text-[40px] lg:text-[47px]">{route.kind==='home'?t.hero:route.kind==='service-areas'&&item?(en?`${t.brand} cleaning in ${title}`:`خدمات ${t.brand} في ${title}`):title}</h1>
+              <h1 className="text-[27px] font-extrabold leading-[1.35] tracking-[-.025em] text-[#142f48] sm:text-[40px] lg:text-[47px]">{route.kind==='home'?(locationName?(en?`${t.brand} cleaning in ${locationName}`:`خدمات ${t.brand} في ${locationName}`):t.hero):route.kind==='service-areas'&&item?(en?`${t.brand} cleaning in ${title}`:`خدمات ${t.brand} في ${title}`):title}</h1>
               <p className="mt-4 text-[15px] leading-[1.85] text-[#536b7c] sm:text-[17px]">{route.kind==='home'?t.lead:(item?pick(item,locale,'description'):t.lead)}</p>
               <QuoteActions phone={phone} wa={wa} locale={locale} subject={subject} large/>
               <div className="mt-5 flex flex-wrap items-center gap-2 text-[13px] text-[#566f7e]"><MapPin size={16} className="text-[#b28c4a]"/>{t.address}</div>
@@ -264,7 +266,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <a href={mapUrl} target="_blank" rel="noopener noreferrer" className="rounded-xl border border-[#d3bea0] px-4 py-2.5 text-[14px] font-bold text-[#173b53]">{t.map}</a></div>
          </div>
       </section>
-        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={serviceChoices}/>
+        <Segment kind="services" locale={locale} title={t.serviceTitle} lead={t.serviceLead} items={serviceChoices} contextBase={route.contextBase}/>
         <div className="border-y border-[#e9e6df] bg-[#f2f1eb]"><Segment kind="offers" locale={locale} title={t.offerTitle} lead={t.offerLead} items={data.offers}/></div>
         <Segment kind="service-areas" locale={locale} title={t.areaTitle} lead={t.areaLead} items={data.coverageAreas||data.areas}/>
         <BrandMediaGallery gallery={data.gallery} locale={locale}/>
@@ -293,7 +295,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
           </div>
         </section>
         {relatedOffers.length>0&&<Segment kind="offers" locale={locale} items={relatedOffers} title={en?'Offers for this service':'عروض هذه الخدمة'} showAll={false}/>}
-        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll areaSlug={route.slug}/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related} areaSlug={route.areaSlug}/>:null}
+        {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll areaSlug={route.slug} contextBase={route.contextBase}/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related} areaSlug={route.areaSlug} contextBase={route.contextBase}/>:null}
       </>:<Segment kind={route.kind} locale={locale} items={cols[route.kind]||[]} title={route.kind==='services'?t.serviceTitle:route.kind==='offers'?t.offerTitle:t.areaTitle} lead={route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead} showAll={false}/>}
       {(route.kind==='home'||route.kind==='service-areas')&&<AdditionalCleaningRequests data={data} locale={locale} wa={wa}/>}
       {!serviceContent&&<FAQ locale={locale} subject={subject} phone={phone} wa={wa}/>}

@@ -14,7 +14,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** inspect daylight colour, corners and behind doors. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Provide a room-by-room schedule of approximate wall and ceiling areas, stairwell heights and occupancy. Request separate allowances for furniture protection, defect preparation, coats and colour changes, with an on-site check of high-access areas before quantities are finalised.
 
 ## 2. Apartment painting
 
@@ -28,7 +28,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** check ceiling edges, skirting and clean outlets/floors. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Share a floor plan or room count, approximate wall areas, hole photographs, furniture layout and permitted working hours. Ask for separate costs for light-item moving and protection, patching, painting and cleanup, plus a realistic room re-entry period after curing.
 
 ## 3. Exterior building painting
 
@@ -42,7 +42,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** inspect uniform finish, adhesion, edges and window cleanliness. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Send views of each elevation where possible, heights, existing coating type and locations of peeling or cracks. Separate substrate preparation, exterior coating system, access equipment, public/window protection and any required permits; do not include structural crack remediation without assessment.
 
 ## 4. Door and timber painting
 
@@ -56,7 +56,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** check free opening, even sheen and unpainted hardware. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** State the number and dimensions of door leaves and whether both faces, edges and frames are included. Provide photos of veneer and old finish. Ask for an approved colour/sheen sample and separate preparation, primer and topcoat or varnish costs, including work location and no-use period.
 
 ## 5. Decorative paint finishes
 
@@ -70,7 +70,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** compare finished texture to the approved sample under site lighting. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Provide a reference image, feature-wall dimensions, lighting conditions and photos showing substrate flatness. Request a sample panel or on-site trial, define the coated area, sealer and cleaning method, and clarify whether sample costs are credited to the final work.
 
 ## 6. Stripping and preparing old paint
 
@@ -78,13 +78,13 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Photos, measurements and specifications:** Record defect photos, any moisture readings and substrate type, close-up defect images and a wider view; identify substrate and intended colour.
 
-**Scope, materials and equipment:** Ask for remove loose coatings, contain dust, repair substrate and prime, including product names, coat counts, access equipment and protection. **Exclusions:** fixing moisture sources or hazardous materials without specialist assessment.
+**Scope, materials and equipment:** Ask for removal of loose coatings, dust containment, substrate repair and priming, including product names, coat counts, access equipment and protection. **Exclusions:** fixing moisture sources or hazardous materials without specialist assessment.
 
 **Compare quotations and agree terms:** compare stripping limits, dust containment and disposal. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
 
 **Acceptance inspection:** confirm dry, stable substrate before recoating. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Photograph peeling boundaries, blistering and any suspected water source; include moisture readings if available. Request a cause assessment and itemised removal, dust containment, disposal and substrate preparation, keeping leak repairs and suspected hazardous material assessment separate.
 
 ## 7. Paint touch-up and recoating
 
@@ -98,7 +98,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** check colour from several angles and smoothness. Record defects after appropriate drying and before sign-off.
 
-**Request a quotation:** Supply dimensions, photos, substrate condition and colour code where available; request an inspection if photos cannot establish the cause.
+**Request a quotation:** Share close and wide photos of each patch, the colour code if known, approximate age of the coating and the full wall area. Ask for two prices—local touch-up and full-wall repainting—and agree in advance how visible colour differences will be assessed.
 ## Biet Al Reef support
 
 Customer service can help prepare a comparable request and seek a company; availability, price and timing are not guaranteed.

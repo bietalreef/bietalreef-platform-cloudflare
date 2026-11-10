@@ -39,31 +39,31 @@ For recurring cleaning of a villa, office or building, establish a room-by-room 
 
 ### 8. Steam sofa cleaning
 
-Identify upholstery fibre, seat count, stains, odours and cleaning-care labels. Compare spot testing, extraction and drying, not a guarantee of stain removal; inspect when dry.
+Before requesting steam upholstery cleaning, photograph each sofa and its stains, record the seat count and fabric-care label, and flag foam padding or timber components vulnerable to moisture. Not every textile tolerates hot-water extraction or heat: ask for a concealed colourfastness test and identify oily, dye-based or old liquid marks. Agree whether seats, backs, arms and seams are included, how extraction is performed, and how floors and padding are protected from overwetting. Compare quotes by pieces, stain treatment, chemicals and drying time rather than the word 'steam' alone. At handover, check for dye transfer, new tide marks and trapped moisture; do not use the sofa until dry.
 
 ### 9. Rug cleaning
 
-Measure each rug, identify fibre/dyes and document frayed edges or prior spills. Compare wet versus dry processes, collection and drying; check pile, colour and dimensions.
+For loose rugs, supply the number and dimensions of pieces, fibre, pile and backing, and photographs of care labels, stains and worn edges. Hand-knotted wool or silk rugs may need a different approach from synthetics; immersion or aggressive brushing should not be assumed safe without checking dyes and bindings. Decide whether cleaning takes place on site or off site, with item identification and protected transport. Request a sequence for vacuuming, spot treatment, washing, rinsing and controlled drying. Compare per-piece quotes, exclusions and realistic limits on old stains. On return, check dimensions, flatness, colour stability, odour and dryness on both sides before laying rugs down.
 
 ### 10. Fitted carpet cleaning
 
-Measure fitted carpet, movable furniture and high-traffic lanes. Compare pre-vacuuming, spot treatment, extraction and drying plan; inspect residual dampness and odours.
+Fitted carpet cannot be handled like a removable rug. Provide the measured square metres of each room, photographs of seams and heavy-traffic areas, and details of furniture and underfloor services. Ask for an assessment of backing and existing moisture before choosing low-moisture cleaning or suitable extraction that will not loosen adhesive or trap water below the carpet. Compare quotes by actual area, furniture movement, stain treatment, extraction and time until the room can reopen. Require a small trial patch where appropriate. At acceptance, inspect for ripples, lifted edges and water rings, and confirm the carpet is dry before replacing furniture or allowing foot traffic.
 
 ### 11. Arabic majlis cleaning
 
-Record majlis seating lengths, foam thickness, fabric types and nearby curtains. Compare spot work with full extraction and floor protection; inspect fully dried cushions and finish.
+For a traditional majlis, measure the linear metres of seating and count cushions, bolsters, rugs and curtains included in the request. Photograph textiles, trims and decorative edges sensitive to moisture. Distinguish removable covers from fixed upholstery and note whether seating is floor-level or raised. Request colour testing, targeted stain treatment and protection for timber, ornamentation and flooring. Schedule enough space to dry cushions on both sides without stacking them damp. Compare quotations by measured seating and individual items, not an undefined 'complete majlis'. At handover, inspect seams, corners, odours, residual moisture and the correct placement of cushions.
 
 ### 12. Mattress cleaning
 
-Specify mattress dimensions, surfaces, fabric and historic moisture or stains. Compare vacuuming, targeted spotting, restrained moisture and drying; avoid promises to eliminate all allergens.
+For mattress cleaning, give each mattress's size, thickness, cover material and whether it contains latex or memory foam. Photograph stains and describe their approximate age and origin. Surface vacuuming does not prove removal of deep contamination or medical-grade disinfection; request the proposed method, likely moisture penetration and compatibility with manufacturer care instructions. Do not accept promises that every odour or allergen will disappear. Compare quotes by mattress count, sides treated, spot work, ventilation, drying and exclusions. At acceptance, ensure the core has not been saturated, detergent residue or musty smells remain absent, and bedding is not replaced until fully dry.
 
 ### 13. Curtain cleaning
 
-Measure curtain drop, lining and weight and check care labels and removability. Compare on-site and off-site cleaning against fabric requirements; inspect pleats, colours and tracks.
+For curtain cleaning, photograph each panel's width, drop, lining, fabric and decorative details, and identify whether it should be treated while hanging or removed for laundering. Some textiles shrink or lose pleats under water or steam, so review the care label and agree on a limited test before choosing a method. Specify responsibility for taking down tracks and hooks, labelling panels and reinstalling them, with protection for nearby walls, flooring and equipment. Compare quotes by metres, layers, linings, working height, transport and refitting. At handover, check length, colour, pleat alignment, intact fittings and smooth operation.
 
 ### 14. Upholstery disinfection
 
-Before claiming disinfection, define target organisms, textile type and label-approved product. Compare pre-cleaning, contact time and fabric compatibility; avoid unsupported complete-sterilisation claims.
+Disinfecting upholstery is a different claim from removing dirt or odour. First define the fabric and intended outcome, and whether there is a justified need for disinfection rather than routine cleaning. Request the product or validated process, textile compatibility instructions, required contact time, ventilation and precautions for people and pets. Fragrance sprays or steam alone do not establish pathogen reduction. Some disinfectants can damage fabric or padding, so compatibility testing and the product's labelled intended use matter. Compare quotes by preliminary cleaning, documented application, limitations and safe re-entry time. At handover, request an application record and reject promises of permanent or universal sterilisation.
 
 ## Façade and site cleaning
 

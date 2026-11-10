@@ -19,6 +19,9 @@ import UaeDirectoryHero from '../../../../components/UaeDirectoryHero';
 import UaeDirectoryWeyaakCard from '../../../../components/UaeDirectoryWeyaakCard';
 import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
+import AlNaeemLocalDiscovery from '../../../../components/provider/AlNaeemLocalDiscovery';
+import {AL_NAEEM_EDITORIAL_DATA} from '../../../../lib/alNaeemPresence';
+import {alNaeemCoverageFor} from '../../../../lib/alNaeemLocalSeo';
 import GeographicServiceCards from '../../../../components/GeographicServiceCards';
 import GeographicOfferCards from '../../../../components/GeographicOfferCards';
 import {getGeographicPublishedServiceCards} from '../../../../lib/platformPublishedServiceCards';
@@ -79,6 +82,7 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
           {regionArea&&areaSeo?.context?.length>0&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="معلومات المشروع في المنطقة"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">ما الذي تراجعه قبل بدء مشروعك في {area.nameAr}؟</h2>{areaSeo.context.map((paragraph,index)=><p key={index} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {!geoSector && <UaeContextInfoCard locale="ar" locationLabel={`${area.nameAr}، ${emirate.nameAr}`} title={`عن خدمة ${service.nameAr} في ${area.nameAr}`} description={`${service.descAr} تعرض الصفحة هذا التخصص ضمن موقعه الصحيح، مع مسار واضح للعودة إلى المنطقة والإمارة أو الانتقال إلى الطلب.`} />}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="ar" place={area.nameAr}/> : <UaeActivityProviders locale="ar" emirate={emirate} area={area} service={service} rehab={rehab} />}
+          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,area.slug))&&!geographicCards?.some(row=>row.providerSlug==='al-naeem-cleaning-services')&&<section className="mx-auto max-w-6xl px-4 pb-8" aria-label="شركة تنظيف تستقبل طلبات هذه المنطقة"><h2 className="mb-3 text-lg font-extrabold text-[#193b53]">شركة النعيم لخدمات التنظيف في {area.nameAr}</h2><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" cardOnly /></div></section>}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="ar" place={servicePlace} pagePath={'/uae/'+emirateSlug+'/'+areaSlug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement={regionArea||northern?'external':'inline'} onServiceRequest={regionArea||northern?setRequestedService:undefined}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="ar" place={area.nameAr}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="ar" excludeSpecialties={sectorTaxonomy}/>}

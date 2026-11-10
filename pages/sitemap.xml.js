@@ -10,7 +10,7 @@ import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
-import { getAlNaeemData, alNaeemPath } from '../lib/alNaeemPresence';
+import { getAlNaeemData, alNaeemPath, AL_NAEEM_EDITORIAL_DATA, uaqNaeemBase } from '../lib/alNaeemPresence';
 import { CLEANING_CONTENT_UPDATED_AT } from '../lib/cleaningLandingContent';
 import { latestContentDate } from '../lib/contentDates.cjs';
 import {
@@ -107,7 +107,7 @@ export async function getServerSideProps({ res }) {
   };
 
   // Existing emirate-sector pages and geographic paths backed by published services.
-  for (const emirate of ['abu-dhabi','dubai','sharjah','ajman']) for (const sector of UAE_MAIN_SECTORS) {
+  for (const emirate of ['abu-dhabi','dubai','sharjah','ajman','umm-al-quwain']) for (const sector of UAE_MAIN_SECTORS) {
     const path = `/uae/${emirate}/${sector.slug}`;
     addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-10'} : {});
   }
@@ -127,7 +127,7 @@ export async function getServerSideProps({ res }) {
   }
 
   // Northern place guides are genuine bilingual editorial pages, not fabricated company listings.
-  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah'].includes(item.slug))) {
+  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah','umm-al-quwain'].includes(item.slug))) {
     for (const area of emirate.areas) {
       const hub = '/uae/'+emirate.slug+'/'+area.slug;
       addPair(hub,'/en'+hub,undefined,{priority:0.65,lastmod:'2026-11-10'});
@@ -135,6 +135,19 @@ export async function getServerSideProps({ res }) {
         const path = hub+'/'+sector.slug;
         addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{priority:0.64,lastmod:'2026-11-10'});
       }
+    }
+  }
+
+
+  // Existing Al Naeem company profile, reused in UAQ cleaning service and district routes.
+  // Published service slugs come from the same company data used by the visible cards.
+  const uaqAreas=UAE_EMIRATES.find(item=>item.slug==='umm-al-quwain')?.areas||[];
+  for(const slug of [null,...uaqAreas.map(area=>area.slug)]){
+    const root=uaqNaeemBase('ar',slug);
+    addPair(root,'/en'+root,AL_NAEEM_EDITORIAL_DATA.profile.cover_image_url,{priority:0.7,lastmod:'2026-11-10'});
+    for(const service of AL_NAEEM_EDITORIAL_DATA.services){
+      const servicePath=root+'/services/'+service.slug;
+      addPair(servicePath,'/en'+servicePath,service.image,{priority:0.65,lastmod:'2026-11-10'});
     }
   }
 

@@ -243,12 +243,12 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-10",
-      "review_note": "Re-fetched bilingual aluminium-glass content after independent rewrite of services 15-28; both files have sequential 1-56 headings. 28/56 independently rewritten in this sector, 287/434 area-wide. Next service 29. Area in_progress; no publication approval.",
+      "review_note": "Re-fetched bilingual aluminium-glass files after independent rewrite of services 29-42; both files have sequential 1-56 headings. 42/56 independently rewritten in sector; 301/434 area-wide. Next service 43, glass facades. Area in_progress; no publication approval.",
       "editorial_rewritten_service_entries": 273,
       "editorial_remaining_service_entries": 161,
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
+        "specialty": "الواجهات والأعمال الزجاجية",
         "rewritten_service_numbers": [
           1,
           2,
@@ -277,14 +277,28 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
-        "next_service_number": 29,
-        "remaining_in_sector": 28,
+        "next_service_number": 43,
+        "remaining_in_sector": 14,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 287,
-        "remaining_area_services_for_originality_review": 147,
+        "area_independently_rewritten": 301,
+        "remaining_area_services_for_originality_review": 133,
         "area_editorially_approved": false,
         "editorial_draft_completed": false
       }

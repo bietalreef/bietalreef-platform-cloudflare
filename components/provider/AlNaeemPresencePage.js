@@ -94,7 +94,7 @@ function QuoteActions({phone,wa,locale,subject,large=false}) {
 }
 function ServiceCard({item,locale,kind='services',areaSlug,contextBase=null}) {
   const t=texts[locale];const isOffer=kind==='offers';
-  const href=item.isInquiry?alNaeemPath(locale,{kind:'home',...(contextBase?{contextBase}:{})})+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{}),...(contextBase&&kind==='services'?{contextBase}:{})});
+  const href=item.isInquiry?alNaeemPath(locale,{kind:'home',...(contextBase?{contextBase}:{})})+'#request-'+item.slug:alNaeemPath(locale,{kind,slug:item.slug,...(kind==='services'&&areaSlug?{areaSlug}:{}),...(contextBase?{contextBase}:{})});
   return <article className="group overflow-hidden rounded-[22px] border border-[#e4e5e5] bg-white shadow-[0_8px_26px_rgba(19,48,70,.055)] transition hover:-translate-y-0.5 hover:shadow-lg">
     <Link href={href} className="flex h-full sm:block focus-visible:outline-offset-4">
       <div className="relative min-h-[160px] w-2/5 shrink-0 overflow-hidden bg-[#edf0ec] sm:aspect-[16/10] sm:min-h-0 sm:w-full">
@@ -126,7 +126,7 @@ function Segment({kind,locale,items,title,lead,showAll=true,areaSlug,contextBase
         <h2 className="text-[25px] font-extrabold leading-tight text-[#17334a] sm:text-[32px]">{title||t[kind]}</h2>
         {lead&&<p className="mt-2 text-[15px] leading-7 text-[#647384]">{lead}</p>}
       </div>
-      {showAll&&items.length>0&&<Link href={alNaeemPath(locale,{kind})} className="rounded-full border border-[#d6c49e] px-4 py-2 text-[13px] font-bold text-[#163951]">{t.all}</Link>}
+      {showAll&&items.length>0&&<Link href={alNaeemPath(locale,{kind,...(contextBase?{contextBase}:{})})} className="rounded-full border border-[#d6c49e] px-4 py-2 text-[13px] font-bold text-[#163951]">{t.all}</Link>}
     </div>
     <CardGrid items={items} kind={kind} locale={locale} areaSlug={areaSlug} contextBase={contextBase}/>
   </section>;
@@ -288,8 +288,8 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <h2 className="mt-2 text-[24px] font-extrabold text-[#153b55]">{route.kind==='services'?(en?'Service details':'تفاصيل الخدمة'):title}</h2>
             <p className="mt-4 max-w-4xl text-[16px] leading-9 text-[#526b7b]">{pick(item,locale,'details')||pick(item,locale,'description')||t.coverageNote}</p>
             {serviceContent&&<CleaningServiceDetails content={serviceContent} locale={locale}/>}
-            {area&&<p className="mt-4"><Link href={alNaeemPath(locale,{kind:'service-areas',slug:area.slug})} className="text-[14px] font-bold text-[#174059] underline underline-offset-4">{en?`All Al Naeem services in ${pick(area,locale)}`:`جميع خدمات النعيم في ${pick(area,locale)}`}</Link></p>}
-            {route.kind==='offers'&&item.service_slug&&<Link href={alNaeemPath(locale,{kind:'services',slug:item.service_slug})} className="mt-4 inline-flex items-center gap-2 rounded-xl border border-[#d7c49d] px-4 py-2.5 text-[14px] font-bold text-[#174059]">{en?'Explore included service':'تفاصيل الخدمة المرتبطة'}<ArrowLeft size={16} className={en?'rotate-180':''}/></Link>}
+            {area&&<p className="mt-4"><Link href={route.contextBase?root:alNaeemPath(locale,{kind:'service-areas',slug:area.slug})} className="text-[14px] font-bold text-[#174059] underline underline-offset-4">{en?`All Al Naeem services in ${pick(area,locale)}`:`جميع خدمات النعيم في ${pick(area,locale)}`}</Link></p>}
+            {route.kind==='offers'&&item.service_slug&&<Link href={alNaeemPath(locale,{kind:'services',slug:item.service_slug,...(route.contextBase?{contextBase:route.contextBase}:{})})} className="mt-4 inline-flex items-center gap-2 rounded-xl border border-[#d7c49d] px-4 py-2.5 text-[14px] font-bold text-[#174059]">{en?'Explore included service':'تفاصيل الخدمة المرتبطة'}<ArrowLeft size={16} className={en?'rotate-180':''}/></Link>}
             {route.kind==='service-areas'&&<>
               {Array.isArray(item[en?'highlights_en':'highlights_ar'])&&<div className="mt-6 border-t border-[#e9e8e1] pt-5">
                 <h3 className="text-[19px] font-extrabold text-[#153b55]">{t.localScope}</h3>
@@ -303,7 +303,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
             <QuoteActions phone={phone} wa={wa} locale={locale} subject={subject}/>
           </div>
         </section>
-        {relatedOffers.length>0&&<Segment kind="offers" locale={locale} items={relatedOffers} title={en?'Offers for this service':'عروض هذه الخدمة'} showAll={false}/>}
+        {relatedOffers.length>0&&<Segment kind="offers" locale={locale} items={relatedOffers} title={en?'Offers for this service':'عروض هذه الخدمة'} showAll={false} contextBase={route.contextBase}/>}
         {route.kind==='service-areas'?<Segment kind="services" locale={locale} items={serviceChoices} title={t.related} showAll areaSlug={route.slug} contextBase={route.contextBase}/>:related.length>0?<Segment kind="services" locale={locale} items={related} title={t.related} areaSlug={route.areaSlug} contextBase={route.contextBase}/>:null}
       </>:<Segment kind={route.kind} locale={locale} items={cols[route.kind]||[]} title={route.kind==='services'?t.serviceTitle:route.kind==='offers'?t.offerTitle:t.areaTitle} lead={route.kind==='services'?t.serviceLead:route.kind==='offers'?t.offerLead:t.areaLead} showAll={false} contextBase={route.contextBase}/>}
       {(route.kind==='home'||route.kind==='service-areas')&&<AdditionalCleaningRequests data={data} locale={locale} wa={wa}/>}

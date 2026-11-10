@@ -5,7 +5,7 @@ const placesSrc=read('data/northernDirectoryContent.js');
 const areas=JSON.parse(placesSrc.match(/^export const NORTHERN_LOCALITIES=(.+);$/m)?.[1]||'{}');
 const sectorNotes=JSON.parse(placesSrc.match(/^export const NORTHERN_SECTOR_NOTES=(.+);$/m)?.[1]||'{}');
 const taxonomy=read('data/siteTaxonomy.js');
-const names=['ras-al-khaimah','fujairah'];
+const names=['ras-al-khaimah','fujairah','umm-al-quwain'];
 const expectedImages=['UAE_SECTOR_ASSETS[sector.slug]','DirectoryResponsiveImage'];
 for(const slug of names){
  assert.ok(areas[slug]?.length>=10,slug+' district content missing');

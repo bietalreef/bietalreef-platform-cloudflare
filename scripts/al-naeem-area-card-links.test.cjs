@@ -31,7 +31,7 @@ for(const lang of ['ar','en']){
 const coverage=read('lib/alNaeemLocalSeo.js');
 assert.ok(!coverage.includes("areaSlug && areaSlug !== 'fujairah-city'"),'all valid Fujairah districts can ask for a quotation');
 const discovery=read('components/provider/AlNaeemLocalDiscovery.js');
-assert.ok(discovery.includes('if(cardOnly)return <AlNaeemDirectoryCard'),'same compact card format as Al Rehab');
+assert.ok(discovery.includes('if(cardOnly)return showServices?'),'same compact card is preserved with optional service details');
 for(const file of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js',
  'pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
  const page=read(file);

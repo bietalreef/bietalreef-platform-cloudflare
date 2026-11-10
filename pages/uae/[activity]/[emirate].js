@@ -158,7 +158,7 @@ export default function AreaOrServicePage({ model, mode, emirate, area, service,
           {abuLocal||northernLocal||regionArea?<AbuDhabiAreaGuide areaSlug={area.slug} locale="ar" providers={publishedCompanies} emirate={northernLocal||regionArea?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="ar" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="شركة تنظيف تقدم خدماتها في هذه المنطقة">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">شركة تنظيف تقدم خدماتها في هذه المنطقة</h2>
-            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" cardOnly /></div>
+            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="ar" cardOnly profileOnly={emirate.slug==='umm-al-quwain'}/></div>
           </section>}
 
           {!abuLocal&&!regionArea&&!northernLocal&&<SeoContent title={`${area.nameAr} في دليل بيت الريف`}>

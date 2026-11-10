@@ -137,7 +137,7 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
           {abuLocal||northernLocal||regionArea?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} emirate={northernLocal||regionArea?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="Cleaning company serving this area">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">Cleaning company serving this area</h2>
-            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly /></div>
+            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly profileOnly={emirate.slug==='umm-al-quwain'}/></div>
           </section>}
 
           {!abuLocal&&!regionArea&&!northernLocal&&<SeoContent title={`${area.nameEn} inside Biet Al Reef UAE Directory`}>

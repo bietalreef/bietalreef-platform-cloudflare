@@ -4,7 +4,7 @@ import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
 import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath, uaqNaeemBase } from '../../lib/alNaeemPresence';
 import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
-export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false, showServices = false }) {
+export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false, showServices = false, profileOnly = false }) {
   const coverageSlug = alNaeemCoverageFor(emirate?.slug, area?.slug || null);
   const place = AL_NAEEM_EDITORIAL_DATA.coverageAreas.find(item => item.slug === coverageSlug);
   if (!place) return null;
@@ -27,7 +27,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   ];
 
   // Same compact DirectoryCompanyCard used for Al Rehab on location pages.
-  const profileCard=<AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} coverageSlug={coverageSlug} location={cityName} whatsappMessage={whatsappMessage} contextHref={contextHref}/>;
+  const profileCard=<AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} coverageSlug={profileOnly?null:coverageSlug} location={cityName} whatsappMessage={whatsappMessage} contextHref={profileOnly?null:contextHref}/>;
   const publishedServices=showServices&&contextHref?<section aria-label={en?'Al Naeem cleaning services':'خدمات شركة النعيم للتنظيف'} className="space-y-3">
     <h3 className="text-xl font-extrabold text-[#193b53]">{en?'Al Naeem cleaning services in '+cityName:'خدمات شركة النعيم للتنظيف في '+cityName}</h3>
     <p className="text-sm leading-7 text-slate-600">{en?'Review service details for your area, then confirm coverage and appointment availability.':'استعرض تفاصيل الخدمات في منطقتك، ثم تأكد من نطاق التغطية وتوفر الموعد قبل الحجز.'}</p>
@@ -40,7 +40,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
       }}/>)}
     </div>
   </section>:null;
-  if(cardOnly)return showServices?<div className="space-y-5">{profileCard}{publishedServices}</div>:profileCard;
+  if(cardOnly)return showServices&&contextHref?publishedServices:profileCard;
 
   return <div dir={en ? 'ltr' : 'rtl'} className="min-w-0 rounded-2xl border border-[#d9c9ac] bg-[#fbfaf6] p-4 sm:p-5">
     <nav aria-label={en ? 'Company discovery path' : 'مسار الوصول إلى الشركة'} className="mb-4 flex flex-wrap items-center gap-1.5 text-xs leading-6 text-[#546778]">

@@ -245,19 +245,19 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-10",
-      "review_note": "Equipment hire services 1–7 independently rewritten in both languages and verified on GitHub (53 sequential headings per language). Area 346/434; 46 equipment and 42 cleaning remain. Not approved for publication.",
-      "editorial_rewritten_service_entries": 346,
-      "editorial_remaining_service_entries": 88,
+      "review_note": "Equipment services 8–14 independently rewritten in both languages and re-fetched from GitHub; 53 sequential headings per language. Area 353/434; 39 equipment and 42 cleaning remain. Not approved for publication.",
+      "editorial_rewritten_service_entries": 353,
+      "editorial_remaining_service_entries": 81,
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "تأجير الأدوات والمعدات الخفيفة",
-        "next_service_number": 8,
+        "specialty": "مصانع الألمنيوم والزجاج",
+        "next_service_number": 15,
         "sector_total": 53,
-        "sector_independently_rewritten": 7,
-        "remaining_in_sector": 46,
+        "sector_independently_rewritten": 14,
+        "remaining_in_sector": 39,
         "area_total": 434,
-        "area_independently_rewritten": 346,
-        "remaining_area_services_for_originality_review": 88,
+        "area_independently_rewritten": 353,
+        "remaining_area_services_for_originality_review": 81,
         "area_editorially_approved": false
       }
     },

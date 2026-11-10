@@ -10,7 +10,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for room-by-room colour schedule, protection, filler, primer and specified coats, including product names, coat counts, access equipment and protection. **Exclusions:** leak repairs or gypsum replacement unless priced.
 
-**Compare quotations and agree terms:** compare paint grade, washability, coats and preparation. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare paint grade, washability, coats and preparation. Agree a room-by-room colour sample, whether ceilings and doors are included in measured quantities, and a phased room handover so the entire villa need not be closed.
 
 **Acceptance inspection:** inspect daylight colour, corners and behind doors. Record defects after appropriate drying and before sign-off.
 
@@ -24,7 +24,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for surface protection, fixing anchor holes and agreed repainting, including product names, coat counts, access equipment and protection. **Exclusions:** moving heavy furniture or wallpaper stripping without agreement.
 
-**Compare quotations and agree terms:** compare drying time, odour, protection and cleanup. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare drying time, odour, protection and cleanup. Set permitted access hours, who clears rooms and moves light furniture, and when protective coverings can be removed and the apartment safely reoccupied.
 
 **Acceptance inspection:** check ceiling edges, skirting and clean outlets/floors. Record defects after appropriate drying and before sign-off.
 
@@ -38,7 +38,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for washing, sound-surface preparation, primer and suitable exterior coating, including product names, coat counts, access equipment and protection. **Exclusions:** structural crack repair or roof leak remediation.
 
-**Compare quotations and agree terms:** compare coating system, UV resistance, access equipment and permits. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare coating system, UV resistance, access equipment and permits. Require a safe access plan for each elevation, protection of vehicles, pedestrians and glazing, and clear responsibility for permits and scaffold-related damage.
 
 **Acceptance inspection:** inspect uniform finish, adhesion, edges and window cleanliness. Record defects after appropriate drying and before sign-off.
 
@@ -52,7 +52,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for sanding, spot repairs, compatible primer and paint or varnish, including product names, coat counts, access equipment and protection. **Exclusions:** warped door repair or veneer replacement.
 
-**Compare quotations and agree terms:** compare application method, odour, sheen and colour sample. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare application method, odour, sheen and colour sample. Specify whether leaves are removed or finished in place, how hinges and locks are protected, and approval of a sheen sample before all doors are coated.
 
 **Acceptance inspection:** check free opening, even sheen and unpainted hardware. Record defects after appropriate drying and before sign-off.
 
@@ -66,7 +66,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for approved sample, finish layers, application tools and agreed sealer, including product names, coat counts, access equipment and protection. **Exclusions:** major wall levelling or new lighting design.
 
-**Compare quotations and agree terms:** compare sample size, method, cleanability and upkeep. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare sample size, method, cleanability and upkeep. Approve a test panel under the actual lighting, acceptable texture variation, and treatment of corners, ceiling junctions and transitions.
 
 **Acceptance inspection:** compare finished texture to the approved sample under site lighting. Record defects after appropriate drying and before sign-off.
 
@@ -80,7 +80,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for removal of loose coatings, dust containment, substrate repair and priming, including product names, coat counts, access equipment and protection. **Exclusions:** fixing moisture sources or hazardous materials without specialist assessment.
 
-**Compare quotations and agree terms:** compare stripping limits, dust containment and disposal. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare stripping limits, dust containment and disposal. Make acceptance of a dry, sound substrate a separate hold point before repainting; assign responsibility for moisture diagnosis and stopping work if suspect hazardous coatings are found.
 
 **Acceptance inspection:** confirm dry, stable substrate before recoating. Record defects after appropriate drying and before sign-off.
 
@@ -94,7 +94,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Scope, materials and equipment:** Ask for spot preparation, feathered edges and agreed repainting extent, including product names, coat counts, access equipment and protection. **Exclusions:** guaranteed invisible patch against aged paint.
 
-**Compare quotations and agree terms:** compare patch versus whole-wall repainting for consistency. Separate surface preparation, materials, labour, protection, cleanup and warranty; approve variations in writing.
+**Compare quotations and agree terms:** compare patch versus whole-wall repainting for consistency. Mark repair boundaries on photos and agree whether a slight colour difference is acceptable or a full wall must be recoated, including how scope increases are priced.
 
 **Acceptance inspection:** check colour from several angles and smoothness. Record defects after appropriate drying and before sign-off.
 

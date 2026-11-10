@@ -529,3 +529,9 @@
 
 - الحالة `in_progress`؛ تمت إضافة مدخلات طلب سعر مخصصة إلى الخدمات الأربع عشرة في [الصيانة العامة العربية](./general-maintenance/general-maintenance/content-ar.md) و[الإنجليزية](./general-maintenance/general-maintenance/content-en.md)، وتحديث [مراجعة التخصص](./general-maintenance/general-maintenance/review.md)، والتحقق بإعادة القراءة.
 - النواقص التالية: تدقيق `general-maintenance/integrated-finishing` ثم بقية تخصصات `general-maintenance`، ثم `building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`؛ مطابقة الخدمات الـ434 في كل لغة وتفردها والتحقق من القيود. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+## متابعة تحرير التشطيبات والجبس — 2026-11-10
+
+- **الحالة: `in_progress`**. أضيفت مدخلات طلب عرض سعر مخصصة إلى 7 خدمات من [التشطيبات المتكاملة](./general-maintenance/integrated-finishes/review.md) في العربية والإنجليزية (14 فقرة)، مع التحقق بإعادة قراءة الملفات الثلاثة.
+- أزيلت 14 جملة استلام مكررة من [الجبس والديكور](./general-maintenance/gypsum-decor/review.md) (7 في كل لغة)، مع الحفاظ على معايير الاستلام المتخصصة؛ أُعيدت قراءة الملفات الثلاثة وتطابقت.
+- **أول نقص تالٍ:** `general-maintenance/flooring-cladding/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `electrical-lighting` و`plumbing-leak-detection` و`air-conditioning-refrigeration` وبقية تخصصات الصيانة حسب الشجرة. ثم تدقيق القطاعات الأخرى ومطابقة أسماء وعدد وتفرد 434 خدمة بكل لغة في 50 تخصصًا. لا تبدأ المويجعي قبل اعتماد الجيمي كاملة.

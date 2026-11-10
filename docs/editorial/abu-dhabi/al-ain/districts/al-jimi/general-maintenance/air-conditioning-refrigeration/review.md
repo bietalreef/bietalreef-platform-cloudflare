@@ -20,3 +20,8 @@ Coverage: 14/14 Arabic service names exactly in source order, 14/14 full English
 12. صيانة وحدات التكييف المركزي — Central AC maintenance
 13. تغيير قطع الغيار — AC spare-part replacement
 14. عقود الصيانة الدورية — Scheduled AC maintenance contracts
+
+## تدقيق بنود الاتفاق — 2026-11-10
+
+- استُبدلت 14 جملة اتفاق عامة في كل لغة ببنود خاصة لكل خدمة تكييف، مع تمييز الاختبارات والاستثناءات والمعدات.
+- تدقيق بقية عناصر الجودة ومراجعة المنطقة الشاملة ما زالا `in_progress`.

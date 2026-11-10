@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import AlNaeemDirectoryCard from './AlNaeemDirectoryCard';
-import { AL_NAEEM_EDITORIAL_DATA } from '../../lib/alNaeemPresence';
+import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath } from '../../lib/alNaeemPresence';
 import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
 export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false }) {
@@ -11,7 +11,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   const en = locale === 'en', prefix = en ? '/en' : '';
   const cityName = area ? (en ? area.nameEn : area.nameAr) : (en ? emirate.nameEn : emirate.nameAr);
   const cityDetails = AL_NAEEM_EAST_COAST_DETAILS[coverageSlug]?.[locale];
-  const companyPath = `${prefix}/providers/al-naeem-cleaning-services`;
+  const companyPath = alNaeemPath(locale,{kind:'service-areas',slug:coverageSlug});
   const servicePath = `${prefix}/uae/${emirate.slug}${area ? `/${area.slug}` : ''}/cleaning-services`;
   const whatsappMessage = en
     ? `Hello Al Naeem, I would like a cleaning quotation in ${cityName}.\nService needed: \nProperty / parking area: \nSize / measurements: \nPreferred date: \nPhotos: \nListing: https://bietalreef.ae${servicePath}`
@@ -49,6 +49,6 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
       </ul>
       <p className="mt-3 text-sm leading-7 text-[#536777]">{cityDetails?.quote || (en ? 'Share the property location, size and photos. Confirm availability, scope and price with the company.' : 'أرسل الموقع والمساحة والصور، ثم تأكد من توافر الخدمة ونطاق التنفيذ والسعر مع الشركة.')}</p>
     </div>}
-    <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} whatsappMessage={whatsappMessage} />
+    <AlNaeemDirectoryCard data={AL_NAEEM_EDITORIAL_DATA} locale={locale} whatsappMessage={whatsappMessage} coverageSlug={coverageSlug} location={cityName} />
   </div>;
 }

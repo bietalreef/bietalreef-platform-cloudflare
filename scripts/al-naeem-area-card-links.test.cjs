@@ -51,7 +51,7 @@ for(const file of sectorPages){
  assert.doesNotMatch(s,/showServices=\{emirate.slug==='umm-al-quwain'\}/);
  assert.match(s,/geographicCards\?\.filter\(row=>row.providerSlug!=='al-naeem-cleaning-services'\)/);
 }
-for(const file of sectorPages.slice(2)){
+for(const file of sectorPages.slice(0,2)){
  const s=read(file);
  assert.match(s,/AlNaeemLocalDiscovery emirate=\{emirate\} area=\{area\} locale=/);
  assert.match(s,/cardOnly\s*\/>/);

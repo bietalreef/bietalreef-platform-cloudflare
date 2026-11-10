@@ -48,5 +48,11 @@ for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[
  assert.match(src,/cardOnly/);
 }
 assert.match(placement,/if \(cardOnly\) return <AlNaeemDirectoryCard/);
+for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
+ const page=read(file);
+ assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);
+ assert.match(page,/if\(naeemDestination\)return \{redirect:\{destination:naeemDestination,permanent:true\}\}/);
+}
+
 
 console.log('Al Naeem location-aware directory card, full approved coverage and nested service links: PASS');

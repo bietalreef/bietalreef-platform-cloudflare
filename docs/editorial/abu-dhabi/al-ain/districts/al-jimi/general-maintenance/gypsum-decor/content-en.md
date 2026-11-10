@@ -12,7 +12,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Compare board thickness, framing specification, removal, painting and electrical work as separate inclusions. Record the finished ceiling level, suspension and framing system, access-hatch positions and coordination with AC and fire devices. Price demolition, painting and service relocation separately, and inspect framing alignment before boarding.
 
-**Handover check:** Check levels, wall junctions, access openings and any sagging or cracks after drying. Photograph outstanding defects before final payment.
+**Handover check:** Check levels, wall junctions, access openings and any sagging or cracks after drying.
 
 **Request a quotation:** Provide existing and proposed ceiling heights, room areas and AC/fire-device photos; request framing and access-hatch details with separate electrical and paint prices.
 
@@ -26,7 +26,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Compare fire/acoustic specifications where required and explicitly exclude structural alterations or service relocation unless priced. Attach a partition layout showing doors, reinforcement and permitted wall-mounted loads. Define board layers, acoustic infill and any required fire performance; price socket relocation and floor or ceiling repairs separately.
 
-**Handover check:** Check rigidity, alignment, door movement and finished edges around outlets. Photograph outstanding defects before final payment.
+**Handover check:** Check rigidity, alignment, door movement and finished edges around outlets.
 
 **Request a quotation:** Share room division drawings, door sizes, suspended loads and acoustic expectations; request a partition build-up, reinforcement detail and separately priced service moves.
 
@@ -40,7 +40,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Separate gypsum fabrication from strips, drivers, wiring, controls and commissioning; agree light temperature. Agree a cove section, recess dimensions and accessible driver position. Identify who supplies and tests strips, drivers and wiring, approve a working sample before closing the gypsum, and separate lighting warranties from finish defects.
 
-**Handover check:** Test at night for even illumination, visible hotspots and driver access. Photograph outstanding defects before final payment.
+**Handover check:** Test at night for even illumination, visible hotspots and driver access.
 
 **Request a quotation:** Provide room perimeter, intended cove profile and electrical feed location; request separate gypsum and lighting prices plus driver-access and maintenance details.
 
@@ -54,7 +54,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Compare linear metres, corner pieces, paint, access equipment and removal of old details. Approve a drawing or sample cornice with lengths, corners and special pieces. State who handles uneven substrates, old moulding removal and painting; sign off a trial section before repeating the pattern.
 
-**Handover check:** Inspect repeated spacing, mitred corners, cracks and joints under side lighting. Photograph outstanding defects before final payment.
+**Handover check:** Inspect repeated spacing, mitred corners, cracks and joints under side lighting.
 
 **Request a quotation:** Send a reference motif, wall lengths and corner photographs; ask for linear-metre and special-piece rates and a sample section for approval.
 
@@ -68,7 +68,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Compare brand, fixing method, joints, corners, waste and whether substrate repairs are included. Identify the panel product, colour code, installation direction, joints and edge trims. Verify fixing compatibility with the substrate and separately allocate existing damp repairs and socket reinstatement.
 
-**Handover check:** Check panel stability, straight grooves, edge finishes and access to outlets. Photograph outstanding defects before final payment.
+**Handover check:** Check panel stability, straight grooves, edge finishes and access to outlets.
 
 **Request a quotation:** Share wall dimensions, groove direction, colour sample and outlet positions; ask for product data, fixing details, edge trims and waste allowance.
 
@@ -82,7 +82,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Compare panel quantities, offcuts, joint sealant and substrate repairs; price waterproofing separately if required. Attach a panel cutting and vein layout, joint locations, adhesive specification and substrate preparation. Treat leak repairs and waterproofing as separate prerequisite work rather than implied cladding inclusions.
 
-**Handover check:** Inspect vein alignment, flatness, edges, gaps and sound attachment. Photograph outstanding defects before final payment.
+**Handover check:** Inspect vein alignment, flatness, edges, gaps and sound attachment.
 
 **Request a quotation:** Provide wall dimensions, vein-layout preference and wet/heat exposure photos; request a panel schedule, adhesive details and separate substrate-preparation costs.
 
@@ -96,7 +96,7 @@ This guide helps customers define scope, compare quotations and inspect delivery
 
 **Quotation comparison and exclusions:** Distinguish leak remediation from cosmetic repairs, and agree patch area, colour matching and disposal. Document the cause of damage, cut-out area and moisture readings before reinstatement. Separate leak rectification from gypsum patching, and agree paint blending limits and a follow-up inspection.
 
-**Handover check:** Check dryness, firmness, flatness under side lighting and monitor for returning moisture. Photograph outstanding defects before final payment.
+**Handover check:** Check dryness, firmness, flatness under side lighting and monitor for returning moisture.
 
 **Request a quotation:** Send dated defect photographs, damaged area and leak indicators; ask for a diagnosis and separate prices for root-cause repair, gypsum reinstatement and painting.
 

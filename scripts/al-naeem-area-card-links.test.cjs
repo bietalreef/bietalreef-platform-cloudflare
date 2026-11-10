@@ -30,6 +30,8 @@ for(const lang of ['ar','en']){
 }
 
 const resolver=read('lib/alNaeemLocalSeo.js');
+assert.doesNotMatch(resolver,/areaSlug && areaSlug !== 'fujairah-city'/);
+
 assert.match(resolver,/export function alNaeemDirectoryRedirect\(parts,locale='ar'\)/);
 assert.match(resolver,/AL_NAEEM_EDITORIAL_DATA.coverageAreas.some/);
 assert.match(resolver,/parts\[2\]==='cleaning-services'/);
@@ -47,7 +49,7 @@ for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[
  assert.match(src,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
  assert.match(src,/cardOnly/);
 }
-assert.match(placement,/if \(cardOnly\) return <AlNaeemDirectoryCard/);
+assert.match(placement,/if\s*\(cardOnly\)\s*return\s*<AlNaeemDirectoryCard/);
 for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
  const page=read(file);
  assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);

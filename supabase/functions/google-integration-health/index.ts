@@ -5,7 +5,7 @@ const baseHeaders = {
 };
 
 const MARKETPLACE_ROOT = "https://app.bietalreef.ae/";
-const MARKETPLACE_SITEMAP = "https://app.bietalreef.ae/sitemap-index.xml";
+const MARKETPLACE_SITEMAP = "https://app.bietalreef.ae/sitemap.xml";
 const PLATFORM_ROOT = "https://bietalreef.ae/";
 const PLATFORM_SITEMAP = "https://bietalreef.ae/sitemap.xml";
 

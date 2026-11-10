@@ -12,7 +12,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Cycle the door and lock; inspect clearances, weld edges, hinge fixings and complete paint coverage.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Steel door fabrication:** Send Biet Al Reef site photos, measurements and the intended steel door fabrication use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 2. Metal balustrade fabrication
 
@@ -24,7 +24,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Inspect rigidity, alignment, safe edges and any required inspection or compliance evidence.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Metal balustrade fabrication:** Send Biet Al Reef site photos, measurements and the intended metal balustrade fabrication use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 3. Metal canopy fabrication
 
@@ -36,7 +36,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Check column anchorage, roof falls, water discharge and coating at welded connections.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Metal canopy fabrication:** Send Biet Al Reef site photos, measurements and the intended metal canopy fabrication use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 4. Steel structural frame execution
 
@@ -48,7 +48,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Check grid lines, levels and connections against drawings and obtain inspection records and staged handover evidence.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Steel structural frame execution:** Send Biet Al Reef site photos, measurements and the intended steel structural frame execution use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 5. Stainless-steel works
 
@@ -60,7 +60,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Inspect surface flatness, polished joints, safe edges and absence of welding discoloration.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Stainless-steel works:** Send Biet Al Reef site photos, measurements and the intended stainless-steel works use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 6. Welding works
 
@@ -72,7 +72,7 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Inspect continuity, distortion, cleanup and reinstated corrosion protection; obtain specified inspection reports.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Welding works:** Send Biet Al Reef site photos, measurements and the intended welding works use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
 
 ## 7. Metalwork maintenance
 
@@ -84,4 +84,4 @@ This is preparatory information for business and workshop quotations, not a clai
 
 **Handover checks:** Verify repaired stability, fasteners, safe edges and coating coverage; retain before-and-after photographs.
 
-**Requesting a quotation:** Send the intended use, photos and measurements through Biet Al Reef and request an itemized scope with exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.
+**Quotation request — Metalwork maintenance:** Send Biet Al Reef site photos, measurements and the intended metalwork maintenance use and request itemized materials, fabrication, installation, protection and exclusions. Customer service may help even if no business is listed; availability, price and timing are not guaranteed.

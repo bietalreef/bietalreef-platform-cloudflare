@@ -82,7 +82,7 @@ for(const slug of slugs){
  assert.ok(arReading.includes('"'+slug+'"')||arReading.includes("'"+slug+"'"),'Arabic directory guide: '+slug);
  assert.ok(enReading.includes("'"+slug+"'")||enReading.includes('"'+slug+'"'),'English directory guide: '+slug);
 }
-assert.ok(national.indexOf('<NationalDirectoryReading') < national.indexOf('sectorTaxonomy?.length'),'directory guide must precede technical service detail');
+assert.ok(national.indexOf('<NationalDirectoryReading') < national.indexOf('<SectorTaxonomyExplorer sector='),'directory guide must precede technical service detail');
 
 assert.match(national,/<TechnicalGuidesFallback/);
 assert.match(national,/<details key=\{group.slug\}/);

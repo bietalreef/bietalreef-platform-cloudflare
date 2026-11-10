@@ -610,3 +610,8 @@
 
 - **الحالة: `in_progress`**؛ خُصصت فقرات طلب عرض السعر للخدمات الـ21 بالعربية والإنجليزية في [مواد البناء والتشطيب](./building-materials/building-finishing-materials/review.md)، وتم التحقق بإعادة قراءة ملفي المحتوى بعد الكتابة.
 - **أول نقص تالٍ:** تدقيق `building-materials/ceramic-porcelain/content-ar.md` ثم `content-en.md` و`review.md`، يليها `kitchen-countertops` و`marble-granite` و`timber-panels` بعد التحقق من المسارات، ثم جرد 50 تخصصًا و434 خدمة لكل لغة عبر القطاعات الثمانية وفحص التفرد والسلامة وحالات التصنيف. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+## مراجعة السيراميك والبورسلان — 2026-11-10
+
+- الحالة العامة: `in_progress`؛ أُعيدت كتابة الخدمات السبع بالعربية والإنجليزية بمحتوى مستقل يتناول الصور والقياسات والنطاق والاستثناءات والمقارنة والاتفاق والاستلام وطلب السعر. [العربية](./building-materials/ceramic-porcelain/content-ar.md) · [English](./building-materials/ceramic-porcelain/content-en.md) · [المراجعة](./building-materials/ceramic-porcelain/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub بعد حفظها وتطابقت.
+- **النواقص التالية الدقيقة:** `building-materials/kitchen-countertops/content-ar.md` ثم `content-en.md` و`review.md`، يليها `building-materials/marble-granite` و`building-materials/timber-panels` بعد التحقق من المسارات الفعلية؛ ثم جرد 50 تخصصًا و434 خدمة لكل لغة، ومراجعة التفرد والسلامة والتصنيفات المقيدة والمقترحة في القطاعات الثمانية. لا تبدأ المويجعي قبل اعتماد الجيمي.

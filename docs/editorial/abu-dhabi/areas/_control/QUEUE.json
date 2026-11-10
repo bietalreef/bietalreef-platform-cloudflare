@@ -244,20 +244,20 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
-      "last_attempt": "2026-11-10",
-      "review_note": "Independent editorial rewrite 374/434 bilingual service entries; equipment-rental 35/53, cleaning-services 0/42. Next equipment-rental service 36. Pending review; no live changes.",
+      "last_attempt": "2026-11-11",
+      "review_note": "Independent bilingual rewrite 381/434; equipment-rental 42/53, cleaning-services 0/42. Next service 43. No live changes.",
       "editorial_rewritten_service_entries": 374,
       "editorial_remaining_service_entries": 60,
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "نقل الأثاث والممتلكات",
-        "next_service_number": 36,
+        "specialty": "نقل مواد ومعدات المشاريع",
+        "next_service_number": 43,
         "sector_total": 53,
-        "sector_independently_rewritten": 35,
-        "remaining_in_sector": 18,
+        "sector_independently_rewritten": 42,
+        "remaining_in_sector": 11,
         "area_total": 434,
-        "area_independently_rewritten": 374,
-        "remaining_area_services_for_originality_review": 60,
+        "area_independently_rewritten": 381,
+        "remaining_area_services_for_originality_review": 53,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
           1,
@@ -294,7 +294,14 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ],
         "editorial_draft_completed": false
       }

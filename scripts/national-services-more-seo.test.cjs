@@ -55,7 +55,9 @@ for(const page of [ar,en]){
  assert.match(page,/getNationalSectorContent\(service.slug\)/);
  assert.match(page,/sectorTaxonomy, serviceGuides/);
 }
-assert.match(legacy,/redirect:\{destination:'\/services\/'\+service.slug,permanent:true\}/);
+const config=read('next.config.js');
+assert.match(config,/NATIONAL_GUIDE_PATHS\.map\(slug => \(\{source:'\/categories\/'\+slug,destination:'\/services\/'\+slug,permanent:true\}\)\)/);
+assert.doesNotMatch(legacy,/return \{ redirect:/);
 assert.match(seo,/const localArabicPath = arabicPath \|\| paths.arabicPath/);
 assert.match(national,/structuredData=\{schema\}/);
 assert.match(national,/'@type':'CollectionPage'/);

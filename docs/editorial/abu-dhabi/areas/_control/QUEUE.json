@@ -214,7 +214,8 @@
         "interior-design",
         "general-maintenance",
         "building-materials",
-        "aluminium-glass"
+        "aluminium-glass",
+        "furniture-decor"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/general-contracting/content-ar.md",
@@ -244,15 +245,15 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-10",
-      "review_note": "Verified workshop editorial 56/56 AR and EN. Area 315/434 independently rewritten; remaining furniture-decor 24, equipment-rental 53, cleaning-services 42. No publication approval.",
-      "editorial_rewritten_service_entries": 273,
-      "editorial_remaining_service_entries": 161,
+      "review_note": "Furniture 24/24 AR and EN independently expanded and re-fetched. Area 339/434; remaining equipment-rental 53 and cleaning-services 42. No publication approval.",
+      "editorial_rewritten_service_entries": 339,
+      "editorial_remaining_service_entries": 95,
       "editorial_progress": {
-        "sector": "furniture-decor",
+        "sector": "equipment-rental",
         "next_service_number": 1,
         "area_total": 434,
-        "area_independently_rewritten": 315,
-        "remaining_area_services_for_originality_review": 119,
+        "area_independently_rewritten": 339,
+        "remaining_area_services_for_originality_review": 95,
         "area_editorially_approved": false
       }
     },

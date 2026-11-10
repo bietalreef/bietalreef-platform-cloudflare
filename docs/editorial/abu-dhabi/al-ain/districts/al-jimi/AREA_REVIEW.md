@@ -569,3 +569,8 @@
 
 - **الحالة `in_progress`**؛ تخصيص 14 فقرة طلب سعر لخدمات الدهانات السبع باللغتين، وتصحيح صياغة إنجليزية: [العربية](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [المراجعة](./general-maintenance/painting/review.md).
 - **أول نقص تالٍ:** `general-maintenance/waterproofing-thermal-insulation/content-ar.md` ثم `content-en.md` و`review.md`، وبعده تدقيق التكرار المتبقي في `general-maintenance/painting` ثم جرد وتدقيق جميع التخصصات الخمسين والخدمات الـ434 في كل لغة عبر القطاعات الثمانية ومطابقة حالة التصنيفات مع الشجرة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة العزل المائي والحراري — 2026-11-10
+
+- الحالة `in_progress`؛ إضافة 14 فقرة مخصصة لطلب عروض الأسعار لخدمات العزل السبع باللغتين: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [المراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md).
+- **أول نقص تالٍ:** تدقيق التكرار في `general-maintenance/painting` ثم جرد جودة الخدمات ومطابقتها للشجرة في `general-contracting` و`interior-design` و`general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، والتحقق من 50 تخصصًا و434 خدمة لكل لغة وحالات المقيد والمقترح. لا انتقال للمويجعي قبل اعتماد الجيمي.

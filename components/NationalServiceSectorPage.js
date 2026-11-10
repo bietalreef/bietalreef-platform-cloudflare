@@ -8,6 +8,7 @@ import Footer from './Footer';
 import EnglishLayout from './EnglishLayout';
 import ServicesSmartFooter from './ServicesSmartFooter';
 import SectorTaxonomyExplorer from './SectorTaxonomyExplorer';
+import NationalDirectoryReading from './NationalDirectoryReading';
 import DirectorySectorQuoteForm from './DirectorySectorQuoteForm';
 import PublishedEntityGrid from './PublishedEntityGrid';
 import PublishedOfferGrid from './PublishedOfferGrid';
@@ -102,6 +103,8 @@ export default function NationalServiceSectorPage({
         </article>)}
       </div>
     </section>
+
+    <NationalDirectoryReading sector={sector} locale={locale}/>
 
     {sectorTaxonomy?.length
       ? <SectorTaxonomyExplorer sector={sector.slug} items={sectorTaxonomy} locale={locale} place={en?'the UAE':'الإمارات'} pagePath={pagePath} serviceGuides={serviceGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>

@@ -64,6 +64,26 @@ assert.match(national,/'@type':'CollectionPage'/);
 assert.doesNotMatch(national,/'@type':'Service',\s*provider/);
 assert.match(national,/sectorTaxonomy\?\.length/);
 assert.match(national,/SectorTaxonomyExplorer/);
+assert.match(national,/import NationalDirectoryReading from '\.\/NationalDirectoryReading'/);
+assert.match(national,/<NationalDirectoryReading sector=\{sector\} locale=\{locale\}\/>/);
+const directoryReading=read('components/NationalDirectoryReading.js');
+assert.match(directoryReading,/UAE_SECTOR_GUIDES_AR/);
+assert.match(directoryReading,/UAE_SECTOR_GUIDES_EN/);
+assert.match(directoryReading,/id="directory-reading"/);
+assert.match(directoryReading,/id=\{headingIds\.get\(i\)\}/);
+assert.match(directoryReading,/block\.type==='heading'/);
+assert.match(directoryReading,/block\.type==='subheading'/);
+assert.match(directoryReading,/block\.type==='link'/);
+assert.match(directoryReading,/href=\{'#'\+topic\.id\}/);
+assert.doesNotMatch(directoryReading,/useEffect|fetch\(|axios\(/);
+const arReading=read('data/uaeSectorGuidesAr.js');
+const enReading=read('data/uaeSectorGuidesEn.js');
+for(const slug of slugs){
+ assert.ok(arReading.includes('"'+slug+'"')||arReading.includes("'"+slug+"'"),'Arabic directory guide: '+slug);
+ assert.ok(enReading.includes("'"+slug+"'")||enReading.includes('"'+slug+'"'),'English directory guide: '+slug);
+}
+assert.ok(national.indexOf('<NationalDirectoryReading') < national.indexOf('<SectorTaxonomyExplorer sector='),'directory guide must precede technical service detail');
+
 assert.match(national,/<TechnicalGuidesFallback/);
 assert.match(national,/<details key=\{group.slug\}/);
 assert.equal((national.match(/<DirectorySectorQuoteForm\b/g)||[]).length,1);

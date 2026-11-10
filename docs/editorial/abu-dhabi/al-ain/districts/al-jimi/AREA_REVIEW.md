@@ -557,3 +557,10 @@
 
 - الحالة `in_progress`؛ خُصصت بنود الاتفاق لـ14 خدمة عربية و14 إنجليزية في [التكييف والتبريد](./general-maintenance/air-conditioning-refrigeration/review.md)، بعد تدقيق [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[الإنجليزية](./general-maintenance/air-conditioning-refrigeration/content-en.md).
 - **أول نقص تالٍ:** `general-maintenance/smart-systems-surveillance/` ثم الدهانات والعزل، ثم `building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، مع تدقيق جميع الخدمات الـ434 في كل لغة. لا تبدأ المويجعي.
+
+
+## متابعة الأنظمة الذكية والمراقبة — 2026-11-10
+
+- **الحالة: `in_progress`**؛ خُصصت 28 فقرة طلب عرض سعر (14 عربية و14 إنجليزية) لخدمات [الأنظمة الذكية والمراقبة](./general-maintenance/smart-systems-surveillance/review.md)، مع مدخلات مستقلة للإنارة والتكييف والأقفال والستائر والربط والسيناريوهات والصيانة والكاميرات والتسجيل والإنذار والدخول والإنتركم والمراقبة عن بعد.
+- الملفات المتحقق منها بعد الرفع: [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [مراجعة التخصص](./general-maintenance/smart-systems-surveillance/review.md).
+- **أول نقص تالٍ:** `general-maintenance/painting/content-ar.md` ثم `content-en.md` و`review.md` لتدقيق التكرار ومدخلات التسعير؛ يلي ذلك `general-maintenance/waterproofing-thermal-insulation`، ثم جرد التخصصات المتبقية في القطاعات الأخرى وفحص المطابقة الدقيقة لأسماء 434 خدمة في كل لغة وحالات التصنيف وجودة الفقرات. لا تبدأ المويجعي قبل اكتمال اعتماد الجيمي.

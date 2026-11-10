@@ -651,3 +651,8 @@
 - **الحالة `in_progress`**؛ فُحصت تخصصات قطاع `aluminium-glass` الخمسة من حيث وجود ملفات العربية والإنجليزية والمراجعة، وعناوين الخدمات. جرى تخصيص فقرات طلب عروض الأسعار في `aluminium-doors-windows` (14 خدمة)، و`glass-facades-works` (7 خدمات)، و`metal-fabrication` (7 خدمات)، باللغتين: **56 فقرة**. أُعيدت قراءة ملفات المحتوى الستة وتقارير المراجعة الثلاثة من GitHub بعد الكتابة وتطابقت.
 - [أبواب ونوافذ الألمنيوم](./aluminium-glass/aluminium-doors-windows/review.md) · [واجهات الزجاج](./aluminium-glass/glass-facades-works/review.md) · [الأعمال المعدنية](./aluminium-glass/metal-fabrication/review.md).
 - **أول نقص تالٍ:** تدقيق النصوص الداخلية لكل خدمة في `aluminium-glass/wood-furniture-decor` و`aluminium-glass/wood-kitchens-cabinets-doors`، ثم مراجعة قطاع `furniture-decor` وبعده `equipment-rental` و`cleaning-services`، ثم مطابقة جميع تخصصات القطاعات الثمانية والخدمات الـ434 في كل لغة مع المصدر، وفحص التكرار والسلامة والقيود قبل اعتماد الجيمي. وجود ملفات 50 تخصصًا لا يعني اكتمال مراجعتها. لا تبدأ المويجعي.
+
+## متابعة عروض الأثاث والديكور الخشبي — 2026-11-10
+
+- الحالة `in_progress`؛ أضيفت متطلبات طلب عرض سعر مستقلة إلى الخدمات الأربع عشرة بالعربية والإنجليزية في [الأثاث والديكور الخشبي](./aluminium-glass/wood-furniture-decor/review.md)، وتحققت مطابقة ملفي المحتوى بعد إعادة القراءة من الفرع.
+- **أول نقص تالٍ:** تدقيق `aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md` و`content-en.md` و`review.md`، ثم تدقيق `furniture-decor` و`equipment-rental` و`cleaning-services`، ثم مطابقة جميع أسماء خدمات الشركات الـ434 حرفيًا مع المصدر، وتغطية الإنجليزية وجودة النص والسلامة والقيود. لا يبدأ المويجعي قبل الاعتماد النهائي.

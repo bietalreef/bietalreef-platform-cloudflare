@@ -10,7 +10,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Agree cement batch references, delivery window and dry storage location before signing receipt. Check the delivered items and check grade and batch match, sealed dry bags without lumps. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Provide the approved cement grade, bag count and weight, and dry-storage location; request brand, production date, pallet unloading cost and damaged-bag replacement terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 2. Sand supply
 
@@ -20,7 +20,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Specify sand type, unloading point and how delivered volume will be verified on arrival. Check the delivered items and check no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** State whether sand is for plaster, concrete or fill, the load volume and unloading point; request grading, washing, measurement basis, waiting charges and quantity verification. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 3. Aggregate supply
 
@@ -30,7 +30,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Record aggregate grading and source, and keep the load separate from previously stored aggregate. Check the delivered items and check grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Specify aggregate size, grading, intended use and volume; request source details, required test evidence, truck capacity and washing and unloading charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 4. Block and brick supply
 
@@ -40,7 +40,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Record block dimensions, permitted breakage and replacement terms for damaged pallets. Check the delivered items and check unbroken edges, correct dimensions and piece count. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Provide the block schedule with dimensions, type, strength and piece count; request unit and pallet prices, breakage allowance and replacement terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 5. Reinforcing steel supply
 
@@ -50,7 +50,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Approve the bar bending schedule and allocate lifting and sorting duties before dispatch. Check the delivered items and check identification, certificates, quantities and absence of damaging defects. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Attach the approved reinforcement schedule showing bar sizes, grades, lengths and weights; request tonne pricing, certificates, crane charges, sorting and unloading. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 6. Ready-mix concrete supply
 
@@ -60,7 +60,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Confirm pour slot, mixer arrival window, pump responsibility and sampling with the supervising engineer. Check the delivered items and check batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** State the specified concrete strength, pour volume, pump location and pour window; request separate rates for concrete, pumping, waiting, tests and part-load charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 7. Project-wide construction material supply
 
@@ -70,7 +70,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Link each shipment to a bill-of-quantities line, construction stage and available storage area. Check the delivered items and check each shipment matches its purchase order and site readiness. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Send the approved bill of materials split by item, quantity and delivery stage; request permitted substitutions, batch approval steps and itemised invoicing. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 8. Gypsum material supply
 
@@ -80,7 +80,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Specify gypsum board type and dimensions and protect board edges against transit moisture. Check the delivered items and check flat dry boards, intact edges and correct product labels. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Specify board type, thickness, dimensions and required gypsum accessories; request moisture- or fire-rated variants where applicable and dry transit protection. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 9. Paint material supply
 
@@ -90,7 +90,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Approve paint colour codes and batch numbers and check cans against the agreed sample. Check the delivered items and check colour and batch codes, shelf life and sealed containers. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Provide paintable area, substrate, primer and finish system, and colour codes; request pack quantities, coverage, matching batch and storage requirements. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 10. Waterproofing material supply
 
@@ -100,7 +100,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Specify the complete waterproofing system including primer, membrane or coating and shelf life. Check the delivered items and check compatible components, production and storage condition and required compliance records. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Identify the waterproofing location, approved system, layer thickness and area; request product datasheets, joint accessories and clear installation and testing exclusions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 11. Flooring material supply
 
@@ -110,7 +110,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Approve flooring dimensions, shade and batch number and record agreed cutting wastage. Check the delivered items and check shade and batch consistency, straight pieces and no breakage. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Attach the floor finish schedule with areas, dimensions, thickness and colours; request unit rates, wastage, skirtings, adhesives, packaging protection and batch consistency. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 12. Sanitary fixture supply
 
@@ -120,7 +120,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** List sanitaryware models and fittings and protect fragile units during handling. Check the delivered items and check correct models, finishes and accessories without cracks or scratches. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** List sanitary fixture models, dimensions and outlet positions; request separate prices for mixers, basins, toilets, fittings and warranties. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 13. Electrical installation material supply
 
@@ -130,7 +130,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Match cable, breaker and accessory ratings against the approved electrical schedule. Check the delivered items and check ratings, markings and required approvals without unapproved substitutions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** List cable sizes, breaker ratings, switches and quantities; request conformity information, product brands and supply-only exclusions without electrical testing claims. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 14. Plumbing installation material supply
 
@@ -140,7 +140,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Match pipe diameters, working pressures and joint types against the plumbing schedule. Check the delivered items and check matching diameters and ratings, no cracked or missing fittings. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Specify pipe diameters, materials, operating pressures and fittings; request rates by length and fitting, conformity evidence and transport charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 15. Construction material retail
 
@@ -150,7 +150,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** List individual retail items and agree count checks and return rules before payment. Check the delivered items and check invoice, unit counts, quantities and returns terms before collection. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Send an itemised shopping list with units and specifications; request confirmed stock, acceptable alternatives, return terms and delivery fees for each item. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 16. Sanitaryware retail
 
@@ -160,7 +160,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Check that taps, valves and associated fittings are complete in each package. Check the delivered items and check complete sets, connection compatibility and documented warranty. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Supply sanitaryware photos or model numbers, dimensions and connection sizes; request matching accessories, warranty coverage and replacement conditions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 17. Electrical accessories retail
 
@@ -170,7 +170,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Verify accessory ratings and ingress protection against intended electrical use. Check the delivered items and check correct specified item and safety rating, with no unsuitable substitution. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Provide model numbers and ratings for switches, sockets and lighting; request conformity and compatibility details, quantities and warranty without implying installation. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 18. Plumbing material retail
 
@@ -180,7 +180,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Separate plumbing fittings, valves and connectors by size and material on the retail invoice. Check the delivered items and check thread, dimensions and seals fit before installation. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Attach fitting sizes, thread or joint types and photos of existing plumbing parts; request compatibility confirmation and unused-part return conditions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 19. Paint retail
 
@@ -190,7 +190,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Approve paint shade, sheen and pack size and retain the batch reference. Check the delivered items and check mixed colour matches code, batch and future repeatability. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Specify colour codes, paint type, sheen and pack sizes; request batch identification, manufacturing date, stated coverage and exchange terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 20. Waterproofing retail
 
@@ -200,7 +200,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Confirm waterproofing material compatibility with substrate and required preparation products. Check the delivered items and check compatible system components, accessories and application instructions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** State the insulation or waterproofing product type, intended use, area and approved thickness; request datasheets, shelf life, primers and compatible accessories. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 21. Material delivery to site
 
@@ -210,4 +210,4 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Agree loading order, vehicle access, unloading location and responsibility for handling damage. Check the delivered items and check package count, condition, proof of delivery and damage noted before signing. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
-**Requesting quotes:** Send quantities, specifications and photos to Biet Al Reef customer service to prepare comparable requests. Assistance does not guarantee a supplier, price or date.
+**Requesting quotes:** Provide the site address, entrance and clearance photos, load dimensions and unloading point; request trip count, vehicle and lifting equipment, waiting charges and transit damage liability. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.

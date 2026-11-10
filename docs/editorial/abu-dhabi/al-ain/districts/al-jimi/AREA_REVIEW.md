@@ -644,3 +644,10 @@
 - **الحالة: `in_progress`**؛ لا تبدأ المويجعي قبل اعتماد الجيمي.
 - خُصصت سبع فقرات فحص استلام بالعربية وسبع بالإنجليزية في [الأخشاب والألواح](./building-materials/timber-panels/review.md)، وأعيدت قراءة [العربية](./building-materials/timber-panels/content-ar.md) و[الإنجليزية](./building-materials/timber-panels/content-en.md) من GitHub بعد الرفع وتأكد التطابق.
 - **أول نقص تالٍ:** الجرد التفصيلي للتخصصات الخمسين: وجود ملفات `content-ar.md` و`content-en.md` و`review.md`، مطابقة أسماء الخدمات العربية الـ434 حرفيًا مع شجرة الشركات، وعدد وترتيب الإنجليزية، وتحديد الخدمات التي ما زالت تحتوي على صياغات متكررة أو نواقص سلامة/قيود، وتحديث مراجعة كل تخصص متغير. ابدأ بفحص `aluminium-glass` ثم `furniture-decor` ثم `equipment-rental` ثم `cleaning-services`، مع مراجعة شاملة للقطاعات السابقة؛ لا تعلن الاكتمال قبل فحص الجميع.
+
+
+## تدقيق قطاع الورش — 2026-11-10
+
+- **الحالة `in_progress`**؛ فُحصت تخصصات قطاع `aluminium-glass` الخمسة من حيث وجود ملفات العربية والإنجليزية والمراجعة، وعناوين الخدمات. جرى تخصيص فقرات طلب عروض الأسعار في `aluminium-doors-windows` (14 خدمة)، و`glass-facades-works` (7 خدمات)، و`metal-fabrication` (7 خدمات)، باللغتين: **56 فقرة**. أُعيدت قراءة ملفات المحتوى الستة وتقارير المراجعة الثلاثة من GitHub بعد الكتابة وتطابقت.
+- [أبواب ونوافذ الألمنيوم](./aluminium-glass/aluminium-doors-windows/review.md) · [واجهات الزجاج](./aluminium-glass/glass-facades-works/review.md) · [الأعمال المعدنية](./aluminium-glass/metal-fabrication/review.md).
+- **أول نقص تالٍ:** تدقيق النصوص الداخلية لكل خدمة في `aluminium-glass/wood-furniture-decor` و`aluminium-glass/wood-kitchens-cabinets-doors`، ثم مراجعة قطاع `furniture-decor` وبعده `equipment-rental` و`cleaning-services`، ثم مطابقة جميع تخصصات القطاعات الثمانية والخدمات الـ434 في كل لغة مع المصدر، وفحص التكرار والسلامة والقيود قبل اعتماد الجيمي. وجود ملفات 50 تخصصًا لا يعني اكتمال مراجعتها. لا تبدأ المويجعي.

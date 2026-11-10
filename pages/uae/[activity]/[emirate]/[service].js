@@ -4,7 +4,7 @@ import DirectoryContextCompany from '../../../../components/provider/DirectoryCo
 import { getCompanyStaticContextProps } from '../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../components/provider/RehabPresencePage';
 import AlNaeemPresencePage from '../../../../components/provider/AlNaeemPresencePage';
-import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../../../lib/alNaeemPresence';
+
 import { getRehabStaticContextProps } from '../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../data/alAinHub';
 import { CONTENT } from '../../../../data/alAinContent';
@@ -23,7 +23,7 @@ import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
 import AlNaeemLocalDiscovery from '../../../../components/provider/AlNaeemLocalDiscovery';
 import {AL_NAEEM_EDITORIAL_DATA} from '../../../../lib/alNaeemPresence';
-import {alNaeemCoverageFor,alNaeemDirectoryRedirect} from '../../../../lib/alNaeemLocalSeo';
+import {alNaeemCoverageFor,alNaeemDirectoryRedirect,getAlNaeemDirectoryContextProps} from '../../../../lib/alNaeemLocalSeo';
 import GeographicServiceCards from '../../../../components/GeographicServiceCards';
 import GeographicOfferCards from '../../../../components/GeographicOfferCards';
 import {getGeographicPublishedServiceCards} from '../../../../lib/platformPublishedServiceCards';
@@ -108,9 +108,9 @@ export default function AreaServicePage({ alNaeemContext = false, model, geograp
 }
 
 export async function getStaticProps({ params }) {
-  // UAQ contextual company URL resolves before generic legacy redirects.
-  if(params.activity==='umm-al-quwain'&&params.emirate==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
-    return {...await getUaqNaeemContextProps('ar'),revalidate:3600};
+  // Reuse one company, service and canonical route resolver for all approved regions.
+  const naeemContext=getAlNaeemDirectoryContextProps([params.activity,params.emirate,params.service],'ar');
+  if(naeemContext)return {...naeemContext,revalidate:3600};
   // Specific three-segment Next.js route takes precedence over the catch-all.
   const naeemDestination=alNaeemDirectoryRedirect([params.activity,params.emirate,params.service],'ar');
   if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};

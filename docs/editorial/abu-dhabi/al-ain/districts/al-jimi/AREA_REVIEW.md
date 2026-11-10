@@ -535,3 +535,8 @@
 - **الحالة: `in_progress`**. أضيفت مدخلات طلب عرض سعر مخصصة إلى 7 خدمات من [التشطيبات المتكاملة](./general-maintenance/integrated-finishes/review.md) في العربية والإنجليزية (14 فقرة)، مع التحقق بإعادة قراءة الملفات الثلاثة.
 - أزيلت 14 جملة استلام مكررة من [الجبس والديكور](./general-maintenance/gypsum-decor/review.md) (7 في كل لغة)، مع الحفاظ على معايير الاستلام المتخصصة؛ أُعيدت قراءة الملفات الثلاثة وتطابقت.
 - **أول نقص تالٍ:** `general-maintenance/flooring-cladding/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `electrical-lighting` و`plumbing-leak-detection` و`air-conditioning-refrigeration` وبقية تخصصات الصيانة حسب الشجرة. ثم تدقيق القطاعات الأخرى ومطابقة أسماء وعدد وتفرد 434 خدمة بكل لغة في 50 تخصصًا. لا تبدأ المويجعي قبل اعتماد الجيمي كاملة.
+
+## متابعة تدقيق الأرضيات والكسوات — 2026-11-10
+
+- **الحالة: `in_progress`**؛ جرى تخصيص 14 فقرة اتفاق (7 عربية و7 إنجليزية) في [الأرضيات والكسوات بالعربية](./general-maintenance/flooring-cladding/content-ar.md) و[بالإنجليزية](./general-maintenance/flooring-cladding/content-en.md)، وتوثيقها في [مراجعة التخصص](./general-maintenance/flooring-cladding/review.md). أُعيدت قراءة ملفي المحتوى بعد الرفع وتطابقا.
+- **أول نطاق تالٍ:** `general-maintenance/electrical-lighting/content-ar.md` ثم `content-en.md` و`review.md` بعد التحقق من المسار؛ يلي ذلك السباكة والتكييف والأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات وفق الشجرة. لا تعتمد الجيمي مكتملة قبل مطابقة 50 تخصصًا و434 خدمة بكل لغة وتدقيق التكرار والسلامة وحالات التصنيف. لا تبدأ المويجعي.

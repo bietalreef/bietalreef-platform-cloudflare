@@ -620,3 +620,9 @@
 
 - الحالة `in_progress`؛ خُصصت سبع فقرات نطاق وعروض في كل لغة، وتمت إعادة قراءة ملفي [العربية](./building-materials/kitchen-countertops/content-ar.md) و[الإنجليزية](./building-materials/kitchen-countertops/content-en.md) بعد الرفع والتحقق من التطابق؛ [مراجعة التخصص](./building-materials/kitchen-countertops/review.md).
 - **أول نقص تالٍ:** `building-materials/marble-granite/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `building-materials/timber-panels`، ثم بقية القطاعات وجرد التخصصات الخمسين والخدمات الـ434 في كل لغة، وتدقيق التفرد والسلامة وحالات المقيد والمقترح. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+
+## تدقيق الرخام والجرانيت والأخشاب والألواح — 2026-11-10
+
+- الحالة: `in_progress`؛ تم تخصيص مقارنة عروض الأسعار في سبع خدمات لكل لغة لتخصص [الرخام والجرانيت](./building-materials/marble-granite/review.md)، وسبع خدمات لكل لغة لتخصص [الأخشاب والألواح](./building-materials/timber-panels/review.md). تم التحقق من ملفات المحتوى والمراجعة الستة بإعادة قراءتها بعد الرفع.
+- **أول نقص دقيق:** مراجعة الفقرات المتكررة عن المعاينة والاستلام وطلب الأسعار في `building-materials/marble-granite/content-ar.md` و`content-en.md`، ثم `building-materials/timber-panels/content-ar.md` و`content-en.md`. بعد ذلك جرد ملفات التخصصات الخمسين ومطابقة أسماء الخدمات الـ434 بالعربية وتغطية الإنجليزية، ثم تدقيق الجودة والسلامة والتصنيفات المقيدة والمقترحة في القطاعات الثمانية. لا يبدأ المويجعي قبل اكتمال الجيمي.

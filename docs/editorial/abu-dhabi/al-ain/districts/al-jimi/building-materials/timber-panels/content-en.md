@@ -10,7 +10,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Specify MDF grade, density, thickness and stated moisture-resistance classification with a product reference or approved sample; visually similar boards can have different cores. Compare full-sheet dimensions and rates, separating cutting, edging and delivery. Agree rejection criteria for swollen or bowed sheets and dry storage on arrival.
 
-**Acceptance check:** Inspect flat sheets, sound edges and no swelling; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Measure actual thickness on a sample from each bundle and check sheet flatness, edge swelling and water marks before signing. Reconcile sheet counts, dimensions and MDF grade with the purchase order; photograph damage and segregate rejected boards.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -22,7 +22,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Identify timber species, grade, cross-section, length and drying condition, since knots, splits and straightness affect value. Compare volume or linear-metre rates against the stated section, with machining, sanding, finishing and transport separately priced. Record allowable waste and rejection criteria for warping or unacceptable moisture.
 
-**Acceptance check:** Inspect warping, splits and knots against the agreed grade; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Check each section for straightness, length, knots and splits against the agreed timber grade. Where moisture content is contractual, request a documented sample measurement; record rejected pieces and reasons before final unloading.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -34,7 +34,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Compare plywood by ply count, face grade, bonding classification and stated service conditions; do not accept a vague 'waterproof' label without a specification. Inspect a sample cut edge for voids and layers, and price cutting, packaging and delivery separately. Agree remedies for delamination or distortion and edge protection in transit.
 
-**Acceptance check:** Inspect delamination, visible voids and size consistency; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Inspect exposed cut edges for voids or delamination, then verify thickness, flatness and face quality against the sample. Record transit swelling or damage, and confirm the specified bonding grade rather than relying on a generic moisture-resistant label.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -46,7 +46,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Approve melamine colour code, texture, grain direction, core thickness and finish on both faces using a sample from the proposed batch. Compare usable sheets and grain-matching waste, with edge tape, cutting and drilling separate. Allocate responsibility for batch mismatch, scratches and chipped corners.
 
-**Acceptance check:** Inspect consistent finish, no face scratches or chipped corners; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Compare finish codes, texture and grain direction across sheets, particularly when batches are mixed. Inspect both faces for scratches and corners for chips, and separate mismatched boards before cutting or edge banding.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -58,7 +58,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Distinguish raw HPL laminate sheets from pre-laminated boards; their pricing and fabrication differ. Request laminate thickness, finish code, substrate and intended adhesive, separating pressing or bonding labour from supply. Approve a sample and agree remedies for bubbles, delamination or shade mismatch.
 
-**Acceptance check:** Inspect scratch-free faces, batch consistency and compatibility with adhesive system; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Confirm whether the delivery contains raw HPL sheets or pre-faced boards, then check thickness, finish code and quantities. Inspect faces and edges; where bonding to a substrate is included, test an agreed sample for adhesion and bubbles before accepting the batch.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -70,7 +70,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Provide a hardware schedule with hinge counts, opening angles, runner lengths, drawer load ratings, handle dimensions and board thickness. Compare complete set prices including mounting plates, screws and written warranty rather than isolated components. Test a compatible sample before ordering the full quantity.
 
-**Acceptance check:** Inspect complete screws and fittings and smooth operation of a sample; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Match hinge, runner and handle models to the hardware schedule, counting plates, screws and other fittings. Test a mounted sample for smooth operation under an appropriate load before accepting the full order, recording shortages and board-thickness incompatibilities.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
 
@@ -82,6 +82,6 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Compare bids against a numbered millimetre cut list specifying board type, grain direction, edge-banding sides and drill locations. Separate sheet cost from cutting, edging, boring and packing, and agree dimensional tolerances and responsibility for recutting incorrect parts. Require labelled parts matching the assembly drawing.
 
-**Acceptance check:** Inspect post-cut dimensions, square edges and matching part labels; match dimensions, counts and the approved sample before cutting or fitting. Photograph transit damage on the delivery note and require approval for substitutions.
+**Acceptance check:** Receive parts by numbered cut-list item, not only total count. Sample-check length, width, squareness, grain direction, drilling positions and edge banding; segregate incorrect pieces and agree recutting or compensation before assembly.
 
 **Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.

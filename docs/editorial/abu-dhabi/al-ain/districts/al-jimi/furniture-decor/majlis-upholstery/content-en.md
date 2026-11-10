@@ -14,7 +14,7 @@ This guide helps prepare specific enquiries for majlis and sofa tailoring in Al 
 
 **Acceptance checks:** Check seating alignment, firm corners, matching cushions and fabric tension when seated.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Share measured wall runs, corners, cushion counts and fabric and filling samples; ask Biet Al Reef support for separate frame, upholstery, delivery and fitting costs. Supplier, price and dates are unconfirmed.
 
 ## 2. Bespoke sofa tailoring
 
@@ -26,7 +26,7 @@ This guide helps prepare specific enquiries for majlis and sofa tailoring in Al 
 
 **Acceptance checks:** Sit on every seat; check leg stability and actual fit through access routes.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Provide proposed seat dimensions, lift and doorway clearances and a sectional layout; request frame, spring, leg and post-approval alteration terms via Biet Al Reef support, without any supplier or timing guarantee.
 
 ## 3. Furniture upholstery
 
@@ -38,7 +38,7 @@ This guide helps prepare specific enquiries for majlis and sofa tailoring in Al 
 
 **Acceptance checks:** Check corner tension, concealed staples and absence of creaking in use.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Attach underside and rear frame photos, spring condition and fabric code; ask Biet Al Reef support to price structural repairs, filling, upholstery labour and transport separately. Availability, price and dates are not assured.
 
 ## 4. Sofa fabric replacement
 
@@ -50,7 +50,7 @@ This guide helps prepare specific enquiries for majlis and sofa tailoring in Al 
 
 **Acceptance checks:** Match pattern direction, dye lots, zip operation and smooth corners.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Supply cushion and unit counts, seam photos, a fabric swatch and pattern direction; request separate material, zipper, removal and fitting costs through Biet Al Reef support. No supplier, price or date is guaranteed.
 
 ## 5. Foam and filling replacement
 
@@ -62,4 +62,4 @@ This guide helps prepare specific enquiries for majlis and sofa tailoring in Al 
 
 **Acceptance checks:** Check equal seat height, resilience and no voids under covers.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Send filling dimensions, thicknesses, sagging photos and desired firmness; ask Biet Al Reef support to specify foam density, covers and whether spring repair is excluded. Supplier, price and schedule remain unconfirmed.

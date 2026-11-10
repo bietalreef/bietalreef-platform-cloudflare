@@ -540,3 +540,10 @@
 
 - **الحالة: `in_progress`**؛ جرى تخصيص 14 فقرة اتفاق (7 عربية و7 إنجليزية) في [الأرضيات والكسوات بالعربية](./general-maintenance/flooring-cladding/content-ar.md) و[بالإنجليزية](./general-maintenance/flooring-cladding/content-en.md)، وتوثيقها في [مراجعة التخصص](./general-maintenance/flooring-cladding/review.md). أُعيدت قراءة ملفي المحتوى بعد الرفع وتطابقا.
 - **أول نطاق تالٍ:** `general-maintenance/electrical-lighting/content-ar.md` ثم `content-en.md` و`review.md` بعد التحقق من المسار؛ يلي ذلك السباكة والتكييف والأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات وفق الشجرة. لا تعتمد الجيمي مكتملة قبل مطابقة 50 تخصصًا و434 خدمة بكل لغة وتدقيق التكرار والسلامة وحالات التصنيف. لا تبدأ المويجعي.
+
+
+## تدقيق الكهرباء والإنارة — 2026-11-10
+
+- الحالة: `in_progress`؛ 14 خدمة عربية و14 إنجليزية في `general-maintenance/electrical-lighting`، مع تخصيص 28 فقرة مقارنة عروض، وتحديث مراجعة التخصص.
+- [المحتوى العربي](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [المراجعة](./general-maintenance/electrical-lighting/review.md).
+- **أول نقص تالٍ:** `general-maintenance/plumbing-leak-detection/content-ar.md` ثم `content-en.md` و`review.md` لمراجعة تكرار المقارنة والاتفاق، وبعده `general-maintenance/air-conditioning-refrigeration/` (يُتحقق من اسم المجلد)، ثم بقية التخصصات. تبقى مطابقة 50 تخصصًا و434 خدمة بكل لغة والجودة النهائية غير مكتملة؛ لا تبدأ المويجعي.

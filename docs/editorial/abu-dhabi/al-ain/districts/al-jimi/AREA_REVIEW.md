@@ -594,3 +594,8 @@
 
 - الحالة: `in_progress`؛ عُدلت سبع فقرات نطاق فني في كل لغة في [الدهانات العربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md)، ووُثقت في [مراجعة التخصص](./general-maintenance/painting/review.md).
 - **أول نقص تالٍ:** جرد 50 مجلد تخصصًا في القطاعات الثمانية، وفحص وجود الملفات الثلاثة ومطابقة أسماء 434 خدمة عربية حرفيًا مع الشجرة، ومقابلها الإنجليزي بالعدد والترتيب، ثم تدقيق التكرار والسلامة وحالات التصنيفات المقيدة والمقترحة، وتسجيل كل نقص محدد قبل اعتماد الجيمي. لا تبدأ المويجعي.
+
+## تدقيق توريد مواد البناء والتشطيب — 2026-11-10
+
+- الحالة `in_progress`؛ خُصصت **42 فقرة مقارنة عروض أسعار** لخدمات `building-materials/building-finishing-materials` (21 عربية و21 إنجليزية)، مع إعادة قراءة ملفات [العربية](./building-materials/building-finishing-materials/content-ar.md) و[الإنجليزية](./building-materials/building-finishing-materials/content-en.md) و[المراجعة](./building-materials/building-finishing-materials/review.md) والتحقق من التطابق بعد الرفع.
+- **أول نقص تالٍ:** `building-materials/building-finishing-materials/content-ar.md` و`content-en.md` — تدقيق التكرار في بنود الاتفاق وطلب السعر؛ ثم `building-materials/ceramic-porcelain` و`kitchen-countertops` و`marble-granite` و`timber-panels`، ثم بقية قطاعات الجيمي. ما زالت مطابقة 50 تخصصًا و434 خدمة في كل لغة، والتفرد والسلامة والقيود، غير معتمدة. لا تبدأ المويجعي.

@@ -49,7 +49,7 @@ for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[
  assert.match(src,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
  assert.match(src,/cardOnly/);
 }
-assert.match(placement,/if\s*\(cardOnly\)\s*return\s*<AlNaeemDirectoryCard/);
+assert.match(placement,/if\(cardOnly\)return showServices\?/);
 for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
  const page=read(file);
  assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);

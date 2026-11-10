@@ -44,5 +44,5 @@ for(const f of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[are
 }
 const sitemap=read('pages/sitemap.xml.js');
 assert.ok(sitemap.includes("'umm-al-quwain'].includes(item.slug)"),'area URLs absent from sitemap');
-assert.ok(sitemap.includes("const company=root+'/cleaning-services/'+naeem"),'regional company URLs absent from sitemap');
+assert.ok(sitemap.includes("const root=uaqNaeemBase('ar',slug)"),'regional company URLs absent from sitemap');
 console.log('Umm Al Quwain districts, bilateral provider context, live provider cards and service links: PASS');

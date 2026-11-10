@@ -8,7 +8,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Photograph both proposed unit locations, measure the copper route, identify the drain and electrical panel, and show safe outdoor access.
 
-**Scope and quote comparison:** Compare the exact unit model, brackets, pipe insulation, drainage or pump, penetrations and making good; exclude civil works and supply upgrades unless priced. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare the exact unit model, brackets, pipe insulation, drainage or pump, penetrations and making good; exclude civil works and supply upgrades unless priced. Agree the split unit model and capacity, copper run, condensate drainage, wall penetrations, commissioning tests and finish repairs.
 
 **Acceptance check:** Request manufacturer-compliant leak and evacuation checks, then verify cooling, condensate flow, vibration and noise.
 
@@ -20,7 +20,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Provide floor plans, ceiling levels, supply/return routes, plant room details, power capacity and maintenance access.
 
-**Scope and quote comparison:** Compare design duty, duct and insulation quantities, diffusers, controls and balancing; allocate ceiling reinstatement and any necessary approvals. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare design duty, duct and insulation quantities, diffusers, controls and balancing; allocate ceiling reinstatement and any necessary approvals. Record design loads, duct and diffuser layout, controls, balancing, commissioning records and suspended-ceiling responsibilities.
 
 **Acceptance check:** Require commissioning records, airflow and temperature readings, condensate checks and accessible filters.
 
@@ -32,7 +32,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Show ceiling clearances, access hatch, return grille, diffusers and drain route.
 
-**Scope and quote comparison:** Specify unit dimensions, access panels, plenum insulation and acoustic criteria; separate gypsum and painting costs. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Specify unit dimensions, access panels, plenum insulation and acoustic criteria; separate gypsum and painting costs. Specify ceiling clearance, service hatch, return-air and drain routes, and whether gypsum and painting are included.
 
 **Acceptance check:** Check that filters and drain pan can be serviced without demolition; test airflow distribution and drainage.
 
@@ -44,7 +44,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Record unit model, each run length, elevation difference and penetration locations; photograph before concealment.
 
-**Scope and quote comparison:** Compare copper specification, insulation, joints and UV protection; electrical work and condensate piping are separate unless included. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare copper specification, insulation, joints and UV protection; electrical work and condensate piping are separate unless included. Fix copper sizes and route lengths, insulation, joint limits and tightness tests before concealing the installation.
 
 **Acceptance check:** Use manufacturer-appropriate tightness testing and retain route photographs and test records before closing surfaces.
 
@@ -56,7 +56,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Share reflected ceiling plan, corridor dimensions, obstructions, diffusers and access points.
 
-**Scope and quote comparison:** Compare sheet gauge, joints, supports, insulation, dampers and cleanup; assign fire-stopping and ceiling making good. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare sheet gauge, joints, supports, insulation, dampers and cleanup; assign fire-stopping and ceiling making good. Specify duct cross-sections, insulation, supports, access panels and inspection requirements before ceiling closure.
 
 **Acceptance check:** Inspect duct support, leakage at joints, balanced flow and absence of rattling or whistling.
 
@@ -68,7 +68,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Photograph old nameplate, outdoor mount, refrigerant lines, drainage and power supply.
 
-**Scope and quote comparison:** Clarify removal, compliant refrigerant recovery, disposal, line or bracket modifications; do not assume old piping can be reused. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Clarify removal, compliant refrigerant recovery, disposal, line or bracket modifications; do not assume old piping can be reused. Identify old and replacement units, removal and disposal, mounting compatibility, connections and refrigerant handling.
 
 **Acceptance check:** Confirm new model and warranty documentation, operating checks and free condensate drainage.
 
@@ -80,7 +80,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Provide system drawings, equipment IDs, installation records, prior faults and available test points.
 
-**Scope and quote comparison:** Agree a checklist for electrical safety, cooling, drainage, controls and air balance; identify who rectifies defects. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Agree a checklist for electrical safety, cooling, drainage, controls and air balance; identify who rectifies defects. Agree commissioning readings, test duration, setting adjustments and the fault report to be handed over.
 
 **Acceptance check:** Obtain a dated readings report, pass/defect findings and retesting after correction.
 
@@ -92,7 +92,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Photograph filters, coil, drain tray and leak points; list unit count and access height.
 
-**Scope and quote comparison:** Compare filter removal, coil and tray cleaning, drain flushing and furniture protection; refrigerant leak repair is separate. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare filter removal, coil and tray cleaning, drain flushing and furniture protection; refrigerant leak repair is separate. Define coil, filter and drain-pan cleaning and surface protection; repairs and replacement parts require separate approval.
 
 **Acceptance check:** Check visible cleanliness, drainage and restored airflow without cleaning chemical residue in occupied rooms.
 
@@ -104,7 +104,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Record refrigerant type from nameplate, symptoms, measured conditions and previous charging history.
 
-**Scope and quote comparison:** Separate diagnosis, leak repair, tightness testing, evacuation and weighed charge; no refrigerant mixing or deliberate venting. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Separate diagnosis, leak repair, tightness testing, evacuation and weighed charge; no refrigerant mixing or deliberate venting. Require diagnosis of refrigerant loss, correct refrigerant type, charge quantity and leak testing before recharge.
 
 **Acceptance check:** Request a qualified technician's record of refrigerant type, quantity, leak cause and post-repair operating readings.
 
@@ -116,7 +116,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Provide fault video, error code, model, timing and whether the circuit breaker trips.
 
-**Scope and quote comparison:** Ask for diagnostic fees followed by a repair quote naming cause, parts, labour and warranty; require evidence before compressor replacement. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Ask for diagnostic fees followed by a repair quote naming cause, parts, labour and warranty; require evidence before compressor replacement. Define diagnostic steps, prior approval for replacement parts, callout fees and post-repair performance tests.
 
 **Acceptance check:** Reproduce the original fault conditions, verify no leakage or repeat breaker trip, and retain a short service report.
 
@@ -128,7 +128,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Photograph supply/return grilles, access points and visible deposits; identify zones and system type.
 
-**Scope and quote comparison:** Compare access method, containment, suitable filtered extraction and plenum/grille cleaning; chemical spraying needs justification and consent. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare access method, containment, suitable filtered extraction and plenum/grille cleaning; chemical spraying needs justification and consent. Specify duct sections covered, dust capture, protection of occupied rooms and before-and-after outlet evidence.
 
 **Acceptance check:** Request matched before/after internal photos and verify clean outlets with no debris left inside.
 
@@ -140,7 +140,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Gather equipment schedule, run hours, fault history, roof access and filter/belt condition.
 
-**Scope and quote comparison:** Compare motor, vibration, drain, sensor and cleaning checks; identify consumables and crane access excluded from base price. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare motor, vibration, drain, sensor and cleaning checks; identify consumables and crane access excluded from base price. List central units, permitted downtime, filters, operating measurements and safe access responsibilities.
 
 **Acceptance check:** Receive unit-by-unit readings, photos, critical defects and an approved remedial plan before extra parts are changed.
 
@@ -152,7 +152,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Photograph model label, failed part number, connectors and visible damage; retain diagnostic result.
 
-**Scope and quote comparison:** Specify genuine or approved equivalent part, part number, warranty, installation cost and return of old component where feasible. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Specify genuine or approved equivalent part, part number, warranty, installation cost and return of old component where feasible. Record exact part number, model compatibility, part warranty, installation charge and return of the old part.
 
 **Acceptance check:** Test the affected operating mode and retain part identifier and warranty invoice.
 
@@ -164,7 +164,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Site evidence and measurements:** Prepare asset register, locations, operating hours, fault history and site access windows.
 
-**Scope and quote comparison:** Compare visit frequency, checklist, filter service, call-out response, emergency hours, excluded parts/refrigerant and variation approvals. Record equipment make, specification, quantities, timeline, warranty, site protection and written approval of variations in the agreement.
+**Scope and quote comparison:** Compare visit frequency, checklist, filter service, call-out response, emergency hours, excluded parts/refrigerant and variation approvals. Agree annual visit frequency, fault response terms, inspection checklist, consumables and excluded spare parts.
 
 **Acceptance check:** Review visit reports, fault log and open actions; a maintenance contract is not a guarantee against breakdowns.
 

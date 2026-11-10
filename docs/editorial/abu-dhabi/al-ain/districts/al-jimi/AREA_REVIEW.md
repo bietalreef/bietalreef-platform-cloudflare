@@ -589,3 +589,8 @@
 
 - الحالة `in_progress`؛ خُصصت سبعة اختبارات استلام في كل لغة في [العربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md)، مع [مراجعة التخصص](./general-maintenance/painting/review.md).
 - **أول نقص تالٍ:** تدقيق تكرار عبارة المعدات والحماية في `general-maintenance/painting` ثم فحص تفرد ومطابقة كل خدمة في تخصصات `general-contracting` و`interior-design` و`general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومطابقة 434 خدمة عربية وإنجليزية وحالات التصنيف؛ لا تبدأ المويجعي.
+
+## تدقيق خامات ومعدات الدهانات — 2026-11-10
+
+- الحالة: `in_progress`؛ عُدلت سبع فقرات نطاق فني في كل لغة في [الدهانات العربية](./general-maintenance/painting/content-ar.md) و[الإنجليزية](./general-maintenance/painting/content-en.md)، ووُثقت في [مراجعة التخصص](./general-maintenance/painting/review.md).
+- **أول نقص تالٍ:** جرد 50 مجلد تخصصًا في القطاعات الثمانية، وفحص وجود الملفات الثلاثة ومطابقة أسماء 434 خدمة عربية حرفيًا مع الشجرة، ومقابلها الإنجليزي بالعدد والترتيب، ثم تدقيق التكرار والسلامة وحالات التصنيفات المقيدة والمقترحة، وتسجيل كل نقص محدد قبل اعتماد الجيمي. لا تبدأ المويجعي.

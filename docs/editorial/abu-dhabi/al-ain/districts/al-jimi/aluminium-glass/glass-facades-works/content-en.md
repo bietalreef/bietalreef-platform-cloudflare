@@ -12,7 +12,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Review material documents, movement joints, fixings and professional inspection. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Constructing glass façades:** Describe the Al Jimi site and the intended constructing glass façades work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 2. Installing tempered safety glass
 
@@ -24,7 +24,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Inspect edges and ensure glass is isolated from direct metal contact. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing tempered safety glass:** Describe the Al Jimi site and the intended installing tempered safety glass work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 3. Installing shopfronts
 
@@ -36,7 +36,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test entrance operation, edge safety and closure. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing shopfronts:** Describe the Al Jimi site and the intended installing shopfronts work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 4. Installing glass doors
 
@@ -48,7 +48,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Test safe closing speed and alignment without impact. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing glass doors:** Describe the Al Jimi site and the intended installing glass doors work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 5. Installing glass partitions
 
@@ -60,7 +60,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Check alignment, stability, edges and joints. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing glass partitions:** Describe the Al Jimi site and the intended installing glass partitions work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 6. Installing glass balustrades
 
@@ -72,7 +72,7 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Do not accept before fixing and height checks against requirements. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Installing glass balustrades:** Describe the Al Jimi site and the intended installing glass balustrades work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
 
 ## 7. Maintaining glass façades
 
@@ -84,4 +84,4 @@ Practical preparation for company and establishment services, not an individual 
 
 **Acceptance:** Inspect repaired areas after cleaning and appropriate water testing. Record defects before final sign-off and request maintenance instructions.
 
-**Request a quotation:** State the Al Jimi location, usage, dimensions and photos, and ask suppliers to list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.
+**Quotation request — Maintaining glass façades:** Describe the Al Jimi site and the intended maintaining glass façades work, with site photos, dimensions and expected use, and ask suppliers to separate fabrication, installation, transport and hardware, and list exclusions. A quotation request can be prepared through Biet Al Reef even where no company is listed; company availability, price and timing are not guaranteed. Work requiring design, approval or permits must be handled by appropriately qualified parties under applicable requirements.

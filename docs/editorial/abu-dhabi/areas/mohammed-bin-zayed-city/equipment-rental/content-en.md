@@ -9,32 +9,25 @@ Compare hire, fabrication and haulage based on duties, quantities, access, dates
 
 ### 1. Scaffolding hire
 
-Specify working height, façade length, ground bearing and safe ladder access. Compare hire days, erection, inspection, guardrails and dismantling; require pre-use checks.
-
+For façade or roof-level work that cannot be reached safely from ladders, send façade photographs and a sketch showing the run length, required platform height, doors and access points. Ask the hirer to specify the scaffold system, bay dimensions, loading platforms, ground support, and who designs, erects, inspects and alters it during hire. Compare transport, erection, dismantling, extensions and delay charges alongside the daily rate. Before use, obtain a competent inspection record and check platforms, edge protection and safe access; changed scaffolding must be reassessed rather than assumed safe.\n
 ### 2. Crane hire
 
-Record load weight, dimensions, lifting radius, boom route, ground and obstructions. Compare crane capacity, operator, lifting plan and waiting terms; request inspection records.
-
+A crane for a chiller, tank or structural element cannot be selected by load weight alone. Supply dimensions, centre of gravity, landing point, lift radius, height and an obstruction sketch. For a Mohammed Bin Zayed City enquiry, state entrance width and possible standing position without assuming the road or ground can support the crane. Compare rated capacity at the actual radius, rigging, operator, lifting plan, exclusion arrangements and standby charges. Check equipment and lifting-gear inspection records before work, and ensure no one is exposed beneath the suspended load.\n
 ### 3. Excavator hire
 
-Calculate excavation volume, depth, soil, machine access and buried utilities. Compare excavator size, attachments, mobilization, fuel and operator; inspect agreed levels and site condition.
-
+Excavating a utility trench differs from digging foundations or a pool. Describe purpose, footprint, depth, required levels, spoil stockpile position and machine access, with site photographs. Existing utility drawings and a suitable method of locating buried services must be reviewed; a clear-looking surface is not evidence that no services exist. Compare excavator size, attachments, operator, fuel, mobilization, downtime and spoil removal, and agree who provides excavation support. On completion, measure levels and dimensions and record any damage to paving or boundaries before demobilization.\n
 ### 4. Compaction plant hire
 
-Define filled area, lift thickness, target compaction and roller or plate access. Compare machine type, test provisions and transport; confirm compacted layers against project criteria.
-
+For backfill beneath paving, around foundations or beside buried pipes, equipment size is only one selection factor. Provide the fill area, soil type, proposed layer thickness, access width and compaction criteria specified for the project. A small plate compactor may reach edges but cannot necessarily deliver the output needed for an open site; compare productivity, vibration effects, fuel, operator and transport. Quote density testing separately where required. Do not accept a layer merely because it looks flat: use the agreed inspection and test evidence.\n
 ### 5. Concrete mixer hire
 
-Identify small pour volumes, frequency, power or fuel and mixing location. Compare drum capacity, output rate, cleaning and loading; check guards and operation on delivery.
-
+A mixer may suit small concrete or mortar batches where ready-mix delivery is not practical, but the choice depends on volume, specification and working time. State the quantity per batch, water and power sources, mixing area, storage and material movement. Distinguish drum capacity from usable batch output. Compare delivery, cleaning, minimum hire and breakdown support; specify who controls mix proportions and quality, because hiring a mixer does not certify concrete strength. Test rotation, emergency stop and guards on handover and photograph the equipment condition.\n
 ### 6. Concrete cutting equipment hire
 
-State hole diameters or cut length, concrete thickness and concealed steel/services. Compare cutter capacity, water cooling, slurry collection and noise; obtain structural review for load-bearing elements.
-
+Before hiring a concrete saw or core drill, distinguish a circular service penetration from a linear cut. Provide diameter or cut length, slab or wall thickness, work position and arrangements for cooling water, slurry and debris. Photograph both faces where possible and identify potential reinforcement and concealed services. Cutting a load-bearing element requires assessment and appropriate approval by the responsible technical professional first. Compare blade or core consumables, operator, dust and noise control, waste removal and access. Check final dimensions, edges and unintended damage at handover.\n
 ### 7. Project equipment hire
 
-Create a plant list by task, hire duration, power or fuel and storage. Compare rental, operator, transport, insurance and breakdown terms; record serial numbers and condition.
-
+For a project using several machines at different stages, prepare a schedule linking each task to the plant type, output, attachments and expected delivery and return dates. Separate dry hire from operated hire and clarify fuel, transport, insurance, breakdown response and after-hours charges. For residential access, record gate width, storage space and internal movement routes rather than assuming larger machines can enter. Use a signed handover and return record for each machine, with serial number, meter hours, accessories, visible damage and a clear fault-reporting contact.\n
 ## Small equipment and tool hire
 
 ### 8. Generator hire

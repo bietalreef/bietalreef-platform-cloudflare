@@ -109,7 +109,7 @@ export async function getServerSideProps({ res }) {
   // Existing emirate-sector pages and geographic paths backed by published services.
   for (const emirate of ['abu-dhabi','dubai','sharjah','ajman']) for (const sector of UAE_MAIN_SECTORS) {
     const path = `/uae/${emirate}/${sector.slug}`;
-    addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-09'} : {});
+    addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-10'} : {});
   }
 
   // Approved, original bilingual regional area hubs and sector guides.
@@ -118,10 +118,10 @@ export async function getServerSideProps({ res }) {
     for (const area of emirate.areas) {
       if (!areaEditorialFor(emirate.slug,area.slug,'ar') || !areaEditorialFor(emirate.slug,area.slug,'en')) continue;
       const hub='/uae/'+emirate.slug+'/'+area.slug;
-      addPair(hub,'/en'+hub,undefined,{lastmod:'2026-11-09'});
+      addPair(hub,'/en'+hub,undefined,{lastmod:'2026-11-10'});
       for (const sector of UAE_MAIN_SECTORS) {
         const path=hub+'/'+sector.slug;
-        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{lastmod:'2026-11-09'});
+        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{lastmod:'2026-11-10'});
       }
     }
   }
@@ -130,10 +130,10 @@ export async function getServerSideProps({ res }) {
   for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah'].includes(item.slug))) {
     for (const area of emirate.areas) {
       const hub = '/uae/'+emirate.slug+'/'+area.slug;
-      addPair(hub,'/en'+hub,undefined,{priority:0.65,lastmod:'2026-11-09'});
+      addPair(hub,'/en'+hub,undefined,{priority:0.65,lastmod:'2026-11-10'});
       for(const sector of UAE_MAIN_SECTORS) {
         const path = hub+'/'+sector.slug;
-        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{priority:0.64,lastmod:'2026-11-09'});
+        addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{priority:0.64,lastmod:'2026-11-10'});
       }
     }
   }

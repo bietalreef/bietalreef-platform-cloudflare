@@ -21,7 +21,7 @@ import UaeContextInfoCard from '../../../../components/UaeContextInfoCard';
 import UaeActivityProviders from '../../../../components/UaeActivityProviders';
 import AlNaeemLocalDiscovery from '../../../../components/provider/AlNaeemLocalDiscovery';
 import {AL_NAEEM_EDITORIAL_DATA} from '../../../../lib/alNaeemPresence';
-import {alNaeemCoverageFor} from '../../../../lib/alNaeemLocalSeo';
+import {alNaeemCoverageFor,alNaeemDirectoryRedirect} from '../../../../lib/alNaeemLocalSeo';
 import GeographicServiceCards from '../../../../components/GeographicServiceCards';
 import GeographicOfferCards from '../../../../components/GeographicOfferCards';
 import {getGeographicPublishedServiceCards} from '../../../../lib/platformPublishedServiceCards';
@@ -105,6 +105,9 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
 }
 
 export async function getStaticProps({ params }) {
+  // Specific three-segment Next.js route takes precedence over the catch-all.
+  const naeemDestination=alNaeemDirectoryRedirect([params.activity,params.emirate,params.service],'ar');
+  if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};
   if (params.activity === 'abu-dhabi' && params.emirate === 'alrehab-home-clean') return getRehabStaticContextProps('ar', '/uae/abu-dhabi', [params.service]);
   if (params.activity === 'abu-dhabi' && params.emirate === 'cleaning-services' && params.service === 'alrehab-home-clean') return getRehabStaticContextProps('ar', '/uae/abu-dhabi/cleaning-services', []);
   if (['abu-dhabi','dubai'].includes(params.activity) && UAE_MAIN_SECTORS.some(row => row.slug === params.emirate)) return geographicRouteProps('ar', {emirate:params.activity,sector:params.emirate,service:params.service});

@@ -25,7 +25,6 @@ import { AL_NAEEM_EDITORIAL_DATA } from '../../../../lib/alNaeemPresence';
 import { alNaeemCoverageFor } from '../../../../lib/alNaeemLocalSeo';
 import { getRehabSiteData } from '../../../../lib/rehabPresence';
 import UaeDirectorySectorCards from '../../../../components/UaeDirectorySectorCards';
-import MainSectorCards from '../../../../components/MainSectorCards';
 import {UAE_MAIN_SECTORS} from '../../../../data/directoryDiscovery';
 import {areaEditorialFor} from '../../../../data/sharjahAjmanAreaEditorial';
 import SecondaryHeader from '../../../../components/SecondaryHeader';
@@ -70,7 +69,7 @@ function EnglishEmirateServiceHub({ emirate, service, rehab, geographicCards, ge
           <UaeDirectoryHero locale="en" title={title} description={description} image={sectorImage} emirate={emirate} service={service} cleanNavigation />
           {seo?.context?.length>0 && <section className="mx-auto max-w-6xl px-3 pt-6 sm:px-4" aria-label="Local project preparation guidance"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">Planning these services in {emirate.nameEn}</h2>{seo.context.map((paragraph,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{paragraph}</p>)}</div></section>}
           {geoSector ? <GeographicServiceCards items={geographicCards} locale="en" place={emirate.nameEn}/> : <UaeActivityProviders locale="en" emirate={emirate} service={service} rehab={rehab} />}
-          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug))&&<section className="mx-auto max-w-6xl px-4 py-8" aria-label="Al Naeem cleaning in this emirate"><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} locale="en" cardOnly/></div></section>}
+          {geoSector&&service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(row=>row.slug===alNaeemCoverageFor(emirate.slug,null))&&!geographicCards?.some(row=>row.providerSlug==='al-naeem-cleaning-services')&&<section className="mx-auto max-w-6xl px-4 pb-8" aria-label="Company offering cleaning enquiries in this location"><h2 className="mb-3 text-lg font-extrabold text-[#193b53]">Al Naeem cleaning enquiries in {emirate.nameEn}</h2><div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} locale="en" cardOnly /></div></section>}
           {geoSector && <SectorTaxonomyExplorer sector={service.slug} items={sectorTaxonomy} locale="en" place={emirate.nameEn} pagePath={'/en/uae/'+emirate.slug+'/'+service.slug} serviceGuides={sectorGuides} quotePlacement="external" onServiceRequest={setRequestedService}/>}
           {geoSector && <GeographicOfferCards items={geographicOffers} locale="en" place={emirate.nameEn}/>}
           {geoSector && <SectorVisualGuide sector={service.slug} locale="en" showEditorial excludeSpecialties={sectorTaxonomy}/>}
@@ -126,19 +125,19 @@ export default function EnglishAreaOrServicePage({ model, mode, emirate, area, s
     <>
       <UaeDirectorySeo locale="en" title={pageData.h1} description={pageData.desc} path={`/en/uae/${emirate.slug}/${area.slug}`} alternatePath={`/uae/${emirate.slug}/${area.slug}`} emirate={emirate} area={regionArea||northernLocal?area:undefined} />
       <EnglishLayout>
-        {emirate.slug !== 'abu-dhabi' && <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />}
+        {emirate.slug !== 'abu-dhabi' && !regionArea && <SecondaryHeader locale="en" backUrl={`/en/uae/${emirate.slug}`} backLabel={`Back to ${emirate.nameEn}`} />}
         <main dir="ltr" className="bg-[#FDFBF7] text-left">
           <UaeDirectoryHero locale="en" title={pageData.h1} description={pageData.desc} emirate={emirate} area={area} cleanNavigation />
-          {regionText&&<section className="mx-auto max-w-6xl px-3 py-6 sm:px-4" aria-label="Local project preparation"><div className="rounded-2xl border border-slate-200 bg-white p-4 sm:p-6"><h2 className="text-lg font-extrabold text-[#193b53]">Planning work in {area.nameEn}</h2>{regionText.map((p,i)=><p key={i} className="mt-3 text-sm leading-8 text-slate-700">{p}</p>)}</div></section>}
+          
 
           {!abuLocal&&!regionArea&&!northernLocal&&<UaeContextInfoCard locale="en" locationLabel={`${area.nameEn}, ${emirate.nameEn}`} title={`Services and specialties available in ${area.nameEn}`} description={`This page shows every Biet Al Reef specialty in ${area.nameEn}. Choose a specialty to open its page and browse provider profiles connected to the location and specialty.`} />}
 
           <UaeDirectoryWeyaakCard locale="en" title={`Weyaak in ${area.nameEn}`} description={`Tell Weyaak what your project needs in ${area.nameEn}, and it will help you choose the specialty and reach the right provider or request path.`} />
 
-          {abuLocal||northernLocal?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} emirate={northernLocal?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:regionArea? <section className="mx-auto max-w-6xl px-3 py-7 sm:px-4" aria-labelledby="area-service-head"><h2 id="area-service-head" className="text-xl font-extrabold text-[#193b53] sm:text-2xl">Choose your project specialty in {area.nameEn}</h2><div className="mt-4"><MainSectorCards locale="en" locationRoot={'/en/uae/'+emirate.slug+'/'+area.slug} locationMode="emirate-area" sectionKey="providers"/></div></section>:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
+          {abuLocal||northernLocal||regionArea?<AbuDhabiAreaGuide areaSlug={area.slug} locale="en" providers={publishedCompanies} emirate={northernLocal||regionArea?emirate:null} baniyasReadingHtml={baniyasReadingHtml} />:<UaeDirectorySectorCards emirate={emirate} area={area} locale="en" directoryCards={directoryCards} />}
           {showAlNaeemArea && <section className="mx-auto max-w-6xl px-4 py-8" aria-label="Cleaning company serving this area">
             <h2 className="mb-4 text-2xl font-extrabold text-[#193b54]">Cleaning company serving this area</h2>
-            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly/></div>
+            <div className="max-w-[620px]"><AlNaeemLocalDiscovery emirate={emirate} area={area} locale="en" cardOnly /></div>
           </section>}
 
           {!abuLocal&&!regionArea&&!northernLocal&&<SeoContent title={`${area.nameEn} inside Biet Al Reef UAE Directory`}>

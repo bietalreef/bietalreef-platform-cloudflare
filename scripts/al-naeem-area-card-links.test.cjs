@@ -28,15 +28,33 @@ for(const lang of ['ar','en']){
   assert.ok(nested.startsWith(area+'/services/'));
  }
 }
-const coverage=read('lib/alNaeemLocalSeo.js');
-assert.ok(!coverage.includes("areaSlug && areaSlug !== 'fujairah-city'"),'all valid Fujairah districts can ask for a quotation');
-const discovery=read('components/provider/AlNaeemLocalDiscovery.js');
-assert.ok(discovery.includes('if(cardOnly)return <AlNaeemDirectoryCard'),'same compact card format as Al Rehab');
-for(const file of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js',
- 'pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
- const page=read(file);
- assert.ok(page.includes("geoSector&&service.slug==='cleaning-services'"),'visible card on local cleaning sector '+file);
- assert.ok(page.includes('AlNaeemLocalDiscovery emirate={emirate}'),'company card uses existing presence '+file);
- assert.ok(page.includes('cardOnly'),'compact card required '+file);
+
+const resolver=read('lib/alNaeemLocalSeo.js');
+assert.doesNotMatch(resolver,/areaSlug && areaSlug !== 'fujairah-city'/);
+
+assert.match(resolver,/export function alNaeemDirectoryRedirect\(parts,locale='ar'\)/);
+assert.match(resolver,/AL_NAEEM_EDITORIAL_DATA.coverageAreas.some/);
+assert.match(resolver,/parts\[2\]==='cleaning-services'/);
+assert.match(resolver,/alNaeemCoverageFor\(emirate,area\)/);
+for(const [lang,p] of [['ar','pages/uae/[...parts].js'],['en','pages/en/uae/[...parts].js']]){
+ const route=read(p);
+ assert.match(route,/alNaeemDirectoryRedirect\(parts,'(?:ar|en)'\)/);
+ assert.match(route,/destination:naeemDestination,permanent:true/);
 }
+for(const page of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js',
+ 'pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
+ const src=read(page);
+ assert.match(src,/service.slug==='cleaning-services'&&AL_NAEEM_EDITORIAL_DATA.coverageAreas.some/);
+ assert.match(src,/!geographicCards\?\.some\(row=>row.providerSlug==='al-naeem-cleaning-services'\)/);
+ assert.match(src,/<AlNaeemLocalDiscovery emirate=\{emirate\}/);
+ assert.match(src,/cardOnly/);
+}
+assert.match(placement,/if\s*\(cardOnly\)\s*return\s*<AlNaeemDirectoryCard/);
+for(const [lang,file] of [['ar','pages/uae/[activity]/[emirate]/[service].js'],['en','pages/en/uae/[emirate]/[area]/[service].js']]){
+ const page=read(file);
+ assert.match(page,/const naeemDestination=alNaeemDirectoryRedirect\(/);
+ assert.match(page,/if\(naeemDestination\)return \{redirect:\{destination:naeemDestination,permanent:true\}\}/);
+}
+
+
 console.log('Al Naeem location-aware directory card, full approved coverage and nested service links: PASS');

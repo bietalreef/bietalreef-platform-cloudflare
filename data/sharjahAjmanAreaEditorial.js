@@ -212,11 +212,15 @@ export function areaSectorEditorial(emirate,area,sector,locale='ar'){
   const en=locale==='en';
   const name=en?area.nameEn:area.nameAr;
   const emirateName=en?emirate.nameEn:emirate.nameAr;
-  const sectorName=en?sector.nameEn:sector.nameAr;
-  const heading=en?sectorName+' in '+name+', '+emirateName:sectorName+' في '+name+'، '+emirateName;
-  const description=areaText[0].slice(0,en?146:145).replace(/\s+\S*$/,'')+'…';
+  // Preserve search intent of the approved sector title, while specifying the
+  // real area. Do not repeat the same generic area meta across eight services.
+  const phrase=en?'in '+emirateName:'في '+emirateName;
+  const localPhrase=en?'in '+name+', '+emirateName:'في '+name+'، '+emirateName;
+  const locate=text=>String(text||'').replace(phrase,localPhrase);
+  const heading=locate(sectorText.heading);
+  const description=locate(sectorText.description).slice(0,en?175:174).replace(/\s+\S*$/,'')+'…';
   return {
     heading,title:heading+(en?' | Biet Al Reef':' | بيت الريف'),description,
-    context:[areaText[0],...sectorText.context.slice(0,1),areaText[1]],
+    context:[locate(sectorText.context[0]),areaText[0],locate(sectorText.context[1]),areaText[1]],
   };
 }

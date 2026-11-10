@@ -552,3 +552,8 @@
 
 - الحالة `in_progress`. خُصصت فقرات طلب عروض الأسعار للخدمات الأربع عشرة في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md)، مع توثيق التدقيق في [مراجعة التخصص](./general-maintenance/plumbing-leak-detection/review.md).
 - **أول نقص تالٍ:** `general-maintenance/air-conditioning-refrigeration/content-ar.md` و`content-en.md` و`review.md`، ثم الأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات ومطابقة 50 تخصصًا و434 خدمة في كل لغة. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+## متابعة التكييف والتبريد — 2026-11-10
+
+- الحالة `in_progress`؛ خُصصت بنود الاتفاق لـ14 خدمة عربية و14 إنجليزية في [التكييف والتبريد](./general-maintenance/air-conditioning-refrigeration/review.md)، بعد تدقيق [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[الإنجليزية](./general-maintenance/air-conditioning-refrigeration/content-en.md).
+- **أول نقص تالٍ:** `general-maintenance/smart-systems-surveillance/` ثم الدهانات والعزل، ثم `building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، مع تدقيق جميع الخدمات الـ434 في كل لغة. لا تبدأ المويجعي.

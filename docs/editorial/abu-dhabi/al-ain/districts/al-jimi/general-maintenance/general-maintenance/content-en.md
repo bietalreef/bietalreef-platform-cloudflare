@@ -12,6 +12,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Verify test results and outstanding faults before closing each job.
 
+**Quotation request details:** Send the fault log, equipment count and desired visit frequency; request separate labour, consumables and emergency allowances.
+
+
 ## 2. Routine building maintenance
 
 **When needed and what to send:** Collect common-area defect logs, access hours and building equipment inventory.
@@ -21,6 +24,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare attendance coverage, safe isolation arrangements, reporting and spares allowances.
 
 **Handover checks:** Inspect closure logs and verify common facilities work after servicing.
+
+**Quotation request details:** Provide shared-facility inventory, access hours and complaint logs; ask for staffing coverage and responsibility boundaries.
+
 
 ## 3. Repairing interior damage
 
@@ -32,6 +38,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Check adhesion and visible patch edges in daylight and raking light.
 
+**Quotation request details:** Attach damage photographs, affected area and finish type; ask for separate preparation, patch, sample and waste-removal items.
+
+
 ## 4. Door and window repairs
 
 **When needed and what to send:** Record leaf size, swing direction and hardware; photograph hinges, locks and rubbing points.
@@ -41,6 +50,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare replacement hardware, dismantling, adjustment and closure warranty.
 
 **Handover checks:** Cycle opening, latching and locking repeatedly; check seals and clearances.
+
+**Quotation request details:** Provide hinge and lock photos and door-leaf dimensions; request a parts list and clarify whether frame adjustment is included.
+
 
 ## 5. Dampness remediation
 
@@ -52,6 +64,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Review before/after readings and inspect following an appropriate controlled test.
 
+**Quotation request details:** Supply dated stain photographs and known pipe locations; request staged pricing for investigation, source repair, drying and refinishing.
+
+
 ## 6. Crack repairs
 
 **When needed and what to send:** Photograph cracks with a scale and note dates, location and recurrence.
@@ -61,6 +76,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare diagnostic criteria, joint preparation, filler and observation period.
 
 **Handover checks:** Inspect adhesion and finish; retain monitoring records where movement is possible.
+
+**Quotation request details:** Provide dated crack photographs with a scale; ask when structural assessment is required before cosmetic repairs.
+
 
 ## 7. Pre-handover building preparation
 
@@ -72,6 +90,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Walk the site jointly, close each snag with evidence and record deferred items.
 
+**Quotation request details:** Send the numbered snag list and photographs; request itemised prices and the number of return inspections.
+
+
 ## 8. Minor home maintenance
 
 **When needed and what to send:** Bundle small tasks with photos and locations for each tap, handle or fitting.
@@ -81,6 +102,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare minimum call-out, labour hours, travel and unresolved-fault policy.
 
 **Handover checks:** Test each completed item and record unfinished tasks.
+
+**Quotation request details:** Send an itemised task list with locations; confirm minimum labour hours, call-out charge and parts policy.
+
 
 ## 9. Curtain installation
 
@@ -92,6 +116,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Operate curtains end to end; verify level rail and secure fixings.
 
+**Quotation request details:** Supply opening width, fixing height, wall type and curtain/rail photos; separate supply from installation.
+
+
 ## 10. Shelf installation
 
 **When needed and what to send:** Provide shelf dimensions, quantity, intended loads and wall photos; flag concealed services.
@@ -101,6 +128,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare board thickness, brackets, rated loads and hole finishing.
 
 **Handover checks:** Check level and stability with an agreed safe test load.
+
+**Quotation request details:** Provide shelf lengths, expected loads and wall construction; request bracket, anchor and rated-load specifications.
+
 
 ## 11. TV wall mounting
 
@@ -112,6 +142,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Verify bracket security, articulation, cable slack and screen operation.
 
+**Quotation request details:** Supply screen weight, VESA pattern, wall type and outlet photo; specify bracket and cable-routing responsibility.
+
+
 ## 12. Accessory installation
 
 **When needed and what to send:** List accessories and fixing positions; photograph tiles, gypsum and possible waterproofing zones.
@@ -121,6 +154,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare corrosion-resistant fixings, drilling method and sealing.
 
 **Handover checks:** Check alignment and firmness without cracked tile or unsealed penetrations.
+
+**Quotation request details:** List each accessory with fixing-location photos; clarify tile/waterproofing protection and who supplies fittings.
+
 
 ## 13. Furniture assembly
 
@@ -132,6 +168,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Handover checks:** Test doors, drawers and stability; check unused hardware and anchoring instructions.
 
+**Quotation request details:** Supply furniture model numbers, carton counts and assembly instructions; clarify moving, anchoring and packaging disposal.
+
+
 ## 14. Minor fault repairs
 
 **When needed and what to send:** Describe symptoms, timing, sounds, smells or leaks; stop use if unsafe.
@@ -141,6 +180,9 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **Comparing quotations and agreement:** Compare diagnostic fees, parts approval and escalation rules.
 
 **Handover checks:** Test under normal operation and request written fault and remedy details.
+
+**Quotation request details:** Describe symptoms and provide safe photographs if available; agree a diagnostic fee cap and approval before replacing parts.
+
 
 ## Request a quotation
 

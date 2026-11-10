@@ -3,6 +3,8 @@ import { alAinCompanyProps } from '../../../../lib/alAinCompanyContext';
 import DirectoryContextCompany from '../../../../components/provider/DirectoryContextCompany';
 import { getCompanyStaticContextProps } from '../../../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../../../components/provider/RehabPresencePage';
+import AlNaeemPresencePage from '../../../../components/provider/AlNaeemPresencePage';
+import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../../../lib/alNaeemPresence';
 import { getRehabStaticContextProps } from '../../../../lib/rehabPresence';
 import { findAlAinSector } from '../../../../data/alAinHub';
 import { CONTENT } from '../../../../data/alAinContent';
@@ -45,7 +47,8 @@ import { UAE_EMIRATES, SERVICE_CATEGORIES, getEmirate, getArea, getServiceCatego
 
 const AL_HOOT_SERVICE_SLUGS = ['marble-ceramic', 'building-materials', 'finishing-works'];
 
-export default function AreaServicePage({ model, geographicServiceCollection = false, geographicCards = null, geographicOffers = null, sectorTaxonomy = undefined, sectorGuides = null, emirate, area, service, emirateSlug, areaSlug, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', portfolioProjects = [], unavailable = false }) {
+export default function AreaServicePage({ alNaeemContext = false, model, geographicServiceCollection = false, geographicCards = null, geographicOffers = null, sectorTaxonomy = undefined, sectorGuides = null, emirate, area, service, emirateSlug, areaSlug, rehab = null, rehabContext = false, companyContext = false, data = null, route = null, kawkabContext = null, section = null, serviceId = null, contextBase = '', portfolioProjects = [], unavailable = false }) {
+  if (alNaeemContext) return <AlNaeemPresencePage data={data} locale="ar" route={route}/>;
   if (geographicServiceCollection) return <GeographicServiceDirectoryPage model={model}/>;
   if (rehabContext) return <RehabPresencePage data={data} locale="ar" route={route} />;
   if (companyContext) return <DirectoryContextCompany data={data} locale="ar" route={route} kawkabContext={kawkabContext} section={section} serviceId={serviceId} contextBase={contextBase} portfolioProjects={portfolioProjects} unavailable={unavailable} />;
@@ -101,6 +104,9 @@ export default function AreaServicePage({ model, geographicServiceCollection = f
 }
 
 export async function getStaticProps({ params }) {
+  // The approved UAQ cleaning sector exposes the existing Al Naeem company in its geographic path.
+  if(params.activity==='umm-al-quwain'&&params.emirate==='cleaning-services'&&params.service===AL_NAEEM_SLUG)
+    return {...await getUaqNaeemContextProps('ar'),revalidate:3600};
   if (params.activity === 'abu-dhabi' && params.emirate === 'alrehab-home-clean') return getRehabStaticContextProps('ar', '/uae/abu-dhabi', [params.service]);
   if (params.activity === 'abu-dhabi' && params.emirate === 'cleaning-services' && params.service === 'alrehab-home-clean') return getRehabStaticContextProps('ar', '/uae/abu-dhabi/cleaning-services', []);
   if (['abu-dhabi','dubai'].includes(params.activity) && UAE_MAIN_SECTORS.some(row => row.slug === params.emirate)) return geographicRouteProps('ar', {emirate:params.activity,sector:params.emirate,service:params.service});

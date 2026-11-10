@@ -656,3 +656,8 @@
 
 - الحالة `in_progress`؛ أضيفت متطلبات طلب عرض سعر مستقلة إلى الخدمات الأربع عشرة بالعربية والإنجليزية في [الأثاث والديكور الخشبي](./aluminium-glass/wood-furniture-decor/review.md)، وتحققت مطابقة ملفي المحتوى بعد إعادة القراءة من الفرع.
 - **أول نقص تالٍ:** تدقيق `aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md` و`content-en.md` و`review.md`، ثم تدقيق `furniture-decor` و`equipment-rental` و`cleaning-services`، ثم مطابقة جميع أسماء خدمات الشركات الـ434 حرفيًا مع المصدر، وتغطية الإنجليزية وجودة النص والسلامة والقيود. لا يبدأ المويجعي قبل الاعتماد النهائي.
+
+## متابعة تدقيق المطابخ والخزائن والأبواب الخشبية — 2026-11-11
+
+- الحالة: `in_progress`؛ أُضيفت **28 فقرة طلب عرض سعر مستقلة** إلى الخدمات الأربع عشرة بالعربية والإنجليزية في [المحتوى العربي](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) و[المحتوى الإنجليزي](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md)، مع [مراجعة التخصص](./aluminium-glass/wood-kitchens-cabinets-doors/review.md). أُعيدت قراءة الملفات الثلاثة بعد الرفع وتطابقت.
+- **أول نقص تالٍ:** فحص `furniture-decor/furniture-manufacturing` ثم `furniture-shops` و`majlis-upholstery` و`curtains-carpets-furnishings`، ثم جميع تخصصات `equipment-rental` و`cleaning-services`؛ بعد ذلك جرد 50 تخصصًا و434 خدمة في كل لغة ومطابقة العناوين العربية مع المصدر وتدقيق التفرد والسلامة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import AlNaeemDirectoryCard from './AlNaeemDirectoryCard';
 import DiscoveryEntityCard from '../cards/DiscoveryEntityCard';
-import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath, uaqNaeemBase } from '../../lib/alNaeemPresence';
+import { AL_NAEEM_EDITORIAL_DATA, alNaeemPath, naeemGeographicBase, NAEEM_DIRECTORY_EMIRATES } from '../../lib/alNaeemPresence';
 import { alNaeemCoverageFor, AL_NAEEM_EAST_COAST_DETAILS } from '../../lib/alNaeemLocalSeo';
 
 export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = 'ar', detailed = false, cardOnly = false, showServices = false, profileOnly = false }) {
@@ -12,7 +12,7 @@ export default function AlNaeemLocalDiscovery({ emirate, area = null, locale = '
   const en = locale === 'en', prefix = en ? '/en' : '';
   const cityName = area ? (en ? area.nameEn : area.nameAr) : (en ? emirate.nameEn : emirate.nameAr);
   const cityDetails = AL_NAEEM_EAST_COAST_DETAILS[coverageSlug]?.[locale];
-  const contextHref=emirate.slug==='umm-al-quwain'?uaqNaeemBase(locale,area?.slug):null;
+  const contextHref=NAEEM_DIRECTORY_EMIRATES.includes(emirate.slug)?naeemGeographicBase(locale,emirate.slug,area?.slug):null;
   const companyPath=contextHref||alNaeemPath(locale,{kind:'service-areas',slug:coverageSlug});
   const servicePath = `${prefix}/uae/${emirate.slug}${area ? `/${area.slug}` : ''}/cleaning-services`;
   const whatsappMessage = en

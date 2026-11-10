@@ -10,7 +10,8 @@ import { localSitemap } from '../lib/localServices';
 import { getLocalProviders } from '../lib/localProviderData';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
-import { getAlNaeemData, alNaeemPath, AL_NAEEM_EDITORIAL_DATA, uaqNaeemBase } from '../lib/alNaeemPresence';
+import { getAlNaeemData, alNaeemPath, AL_NAEEM_EDITORIAL_DATA, naeemGeographicBase, NAEEM_DIRECTORY_EMIRATES } from '../lib/alNaeemPresence';
+import {alNaeemCoverageFor} from '../lib/alNaeemLocalSeo';
 import { CLEANING_CONTENT_UPDATED_AT } from '../lib/cleaningLandingContent';
 import { latestContentDate } from '../lib/contentDates.cjs';
 import {
@@ -139,15 +140,18 @@ export async function getServerSideProps({ res }) {
   }
 
 
-  // Existing Al Naeem company profile, reused in UAQ cleaning service and district routes.
-  // Published service slugs come from the same company data used by the visible cards.
-  const uaqAreas=UAE_EMIRATES.find(item=>item.slug==='umm-al-quwain')?.areas||[];
-  for(const slug of [null,...uaqAreas.map(area=>area.slug)]){
-    const root=uaqNaeemBase('ar',slug);
-    addPair(root,'/en'+root,AL_NAEEM_EDITORIAL_DATA.profile.cover_image_url,{priority:0.7,lastmod:'2026-11-10'});
-    for(const service of AL_NAEEM_EDITORIAL_DATA.services){
-      const servicePath=root+'/services/'+service.slug;
-      addPair(servicePath,'/en'+servicePath,service.image,{priority:0.65,lastmod:'2026-11-10'});
+  // All approved geographic Al Naeem service pages share the original provider data and artwork.
+  // Keep bilingual alternates aligned, including Kalba/Khorfakkan under Sharjah.
+  for(const emirate of UAE_EMIRATES.filter(row=>NAEEM_DIRECTORY_EMIRATES.includes(row.slug))){
+    for(const areaSlug of [null,...emirate.areas.map(area=>area.slug)]){
+      const coverageSlug=alNaeemCoverageFor(emirate.slug,areaSlug);
+      if(!AL_NAEEM_EDITORIAL_DATA.coverageAreas.some(place=>place.slug===coverageSlug))continue;
+      const root=naeemGeographicBase('ar',emirate.slug,areaSlug);
+      addPair(root,'/en'+root,AL_NAEEM_EDITORIAL_DATA.profile.cover_image_url,{priority:0.7,lastmod:'2026-11-10'});
+      for(const service of AL_NAEEM_EDITORIAL_DATA.services){
+        const servicePath=root+'/services/'+service.slug;
+        addPair(servicePath,'/en'+servicePath,service.image,{priority:0.65,lastmod:'2026-11-10'});
+      }
     }
   }
 

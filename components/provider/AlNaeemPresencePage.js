@@ -198,9 +198,18 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
   const photo=data.profile.cover_image_url;
   const phone=data.profile.phone,wa=data.profile.whatsapp;
   const related=item?data.services.filter(x=>x.slug!==item.slug).slice(0,2):[];
-  const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+root+'#company',name,url:AL_NAEEM_ORIGIN+root,telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:(data.coverageAreas||data.areas).map(a=>({'@type':'Place',name:pick(a,locale)}))};
-  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:area?[{'@type':'Place',name:pick(area,locale)}]:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
-  const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:[{name:t.official,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/providers'},{name:t.brand,item:AL_NAEEM_ORIGIN+root},...(route.kind==='home'?[]:area?[{name:t['service-areas'],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas'})},{name:pick(area,locale),item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}]:[{name:t[route.kind],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:route.kind})}]),...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])].map((entry,index)=>({'@type':'ListItem',position:index+1,...entry}))};
+  const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+alNaeemPath('ar',{kind:'home'})+'#company',name,url:AL_NAEEM_ORIGIN+alNaeemPath('ar',{kind:'home'}),telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:(data.coverageAreas||data.areas).map(a=>({'@type':'Place',name:pick(a,locale)}))};
+  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:route.contextBase?[{'@type':'Place',name:en?route.contextPlaceEn:route.contextPlaceAr}]:area?[{'@type':'Place',name:pick(area,locale)}]:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
+  const geoCrumbs=route.contextEmirateSlug?[
+    {name:en?'UAE directory':'دليل الإمارات',item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/uae'},
+    {name:en?route.contextEmirateEn:route.contextEmirateAr,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/uae/'+route.contextEmirateSlug},
+    ...(route.contextAreaSlug?[{name:en?route.contextAreaEn:route.contextAreaAr,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/uae/'+route.contextEmirateSlug+'/'+route.contextAreaSlug}]:[]),
+    {name:t.sector,item:AL_NAEEM_ORIGIN+(en?'/en':'')+route.contextBase},
+    {name:t.brand,item:AL_NAEEM_ORIGIN+root},
+    ...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])
+  ]:null;
+  const providerCrumbs=[{name:t.official,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/providers'},{name:t.brand,item:AL_NAEEM_ORIGIN+root},...(route.kind==='home'?[]:area?[{name:t['service-areas'],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas'})},{name:pick(area,locale),item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}]:[{name:t[route.kind],item:AL_NAEEM_ORIGIN+alNaeemPath(locale,{kind:route.kind})}]),...(item?[{name:title,item:AL_NAEEM_ORIGIN+path}]:[])];
+  const breadcrumbSchema={'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:(geoCrumbs||providerCrumbs).map((entry,index)=>({'@type':'ListItem',position:index+1,...entry}))};
   const structured=[companySchema,pageSchema,breadcrumbSchema];
   return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className="min-h-screen bg-[#faf9f6] font-sans text-[#1a3143]">
     <Head>

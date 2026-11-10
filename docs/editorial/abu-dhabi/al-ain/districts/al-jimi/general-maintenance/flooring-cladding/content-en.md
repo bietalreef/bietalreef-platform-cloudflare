@@ -10,7 +10,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Price substrate levelling, suitable adhesive, grout, skirting and drain cuts; state separately whether removal, waterproofing and disposal are included.
 
-**Comparing quotations and agreeing terms:** Compare measured area, cutting allowance, adhesive specification and curing period; reject quotations that conceal substrate repairs. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare measured area, cutting allowance, adhesive specification and curing period; reject quotations that conceal substrate repairs. Record the approved grout and skirting sample, tile and adhesive supply responsibility, bathroom closure during curing, drain protection and debris removal.
 
 **Handover checks:** Check joint alignment, edges and drainage with a controlled water test, and inspect for loose or hollow-sounding tiles after curing.
 
@@ -22,7 +22,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Specify adhesive coverage, levelling clips and cut-edge treatment; exclude structural crack repair unless separately surveyed and priced.
 
-**Comparing quotations and agreeing terms:** Compare porcelain-compatible adhesive, wastage, joint layout and handling labour. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare porcelain-compatible adhesive, wastage, joint layout and handling labour. Attach a large-format slab layout and delivery route; allocate breakage risk during handling and cutting, and approve a sample edge before full installation.
 
 **Handover checks:** Inspect layout alignment, sharp lippage, chipped edges and firm adhesion.
 
@@ -34,7 +34,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Require moisture checks, substrate preparation, appropriate underlay and expansion gaps; old-floor removal and door trimming are separate items.
 
-**Comparing quotations and agreeing terms:** Compare wear-layer thickness, product grade, edge profile, warranty and manufacturer moisture limits. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare wear-layer thickness, product grade, edge profile, warranty and manufacturer moisture limits. Record the timber type and batch, on-site acclimatisation and manufacturer moisture limits, and responsibility for door trimming or skirting changes.
 
 **Handover checks:** Walk the floor for squeaks or movement; check perimeter expansion and door operation.
 
@@ -46,7 +46,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Specify glue-down or click-lock, wear-layer rating, smoothing and trims; leak remediation is not automatically included.
 
-**Comparing quotations and agreeing terms:** Compare slip suitability, adhesive and moisture specifications, and preparation costs rather than roll price alone. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare slip suitability, adhesive and moisture specifications, and preparation costs rather than roll price alone. Approve the vinyl product, fixing method and seam locations; itemise substrate levelling and moisture testing and the permitted return-to-use time.
 
 **Handover checks:** Inspect bubbles, threshold gaps, edge adhesion and movement under normal furniture use.
 
@@ -58,7 +58,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Require excavation, base thickness and compaction, bedding, edge restraints and drainage falls; show spoil removal separately.
 
-**Comparing quotations and agreeing terms:** Compare duty-appropriate thickness, any necessary compaction checks and protection of buried services. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare duty-appropriate thickness, any necessary compaction checks and protection of buried services. Document base-course thickness, required compaction evidence, drainage falls and edge restraints, plus buried-service protection and spoil removal.
 
 **Handover checks:** Check for ponding after light wetting, stable edges and no settlement under intended traffic.
 
@@ -70,7 +70,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Specify subframe or adhesive, relevant moisture/fire suitability and edge trims; socket relocation and leak repair require separate agreement.
 
-**Comparing quotations and agreeing terms:** Compare panel thickness, fixings, joint access, opening deductions and wastage. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare panel thickness, fixings, joint access, opening deductions and wastage. Approve a cladding sample, corner and opening details, fixing method and maintenance access; document material suitability for the intended location.
 
 **Handover checks:** Check plumb, secure fixings, neat joints and access to agreed service points.
 
@@ -82,7 +82,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Scope and exclusions:** Agree on diagnosis, lifting damaged sections, inspecting the base and reinstatement; leak or structural repairs need separate scope.
 
-**Comparing quotations and agreeing terms:** Compare root-cause method, matching batch availability, base repair costs and warranty on the patched area. Record who supplies materials, site protection, start date, payment milestones and final cleaning in writing.
+**Comparing quotations and agreeing terms:** Compare root-cause method, matching batch availability, base repair costs and warranty on the patched area. Photograph and agree repair boundaries and suspected causes, set a variation process for concealed defects, and approve any colour mismatch before ordering.
 
 **Handover checks:** Check stability, level, colour match and repair boundaries; retain photos of the exposed base before closing.
 

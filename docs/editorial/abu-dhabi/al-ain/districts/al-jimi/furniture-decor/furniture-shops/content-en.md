@@ -14,7 +14,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Check table stability, drawer and door alignment, finish and model before signing.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Send the room layout, doorway dimensions and a model-and-finish schedule; ask Biet Al Reef support for itemised delivery and assembly quotations. Supplier availability, price and dates are not guaranteed.
 
 ## 2. Office furniture retail
 
@@ -26,7 +26,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Test chair adjustments, desk stability and storage access without blocking aisles.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Provide workstation and chair counts, aisle clearances and a power-point plan; request separate desk, chair, storage and assembly prices through Biet Al Reef support, without any availability, price or timing guarantee.
 
 ## 3. Lighting retail
 
@@ -38,7 +38,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Match models and colour temperature; inspect glass and accessories, and test only after safe installation.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Attach supply-point photos, ceiling height and a fixture schedule specifying colour temperature and dimming; ask Biet Al Reef support to separate supply from electrical fitting. No supplier, price or date is guaranteed.
 
 ## 4. Curtain retail
 
@@ -50,7 +50,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Check panel drop, matching dye lots, hems and window clearance.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Share each window width, hanging drop, blackout requirement and fabric sample; request separate lining, track, hemming and fitting costs through Biet Al Reef support. Availability, prices and dates are unconfirmed.
 
 ## 5. Carpet retail
 
@@ -62,7 +62,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Verify size, edge alignment and absence of stains, ripples or slipping.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Provide the floor dimensions, door clearances and fibre, pile and underlay preferences; request binding, cutting and delivery costs via Biet Al Reef support. No supplier, price or schedule is assured.
 
 ## 6. Home accessory retail
 
@@ -74,7 +74,7 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Check quantities, finish, cracks and secure mounting without overloading.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Send a numbered accessory list, mirror or shelf dimensions, estimated loads and mounting-surface photos; ask Biet Al Reef support to price fixings, drilling and installation separately, with no availability or timing promise.
 
 ## 7. Project furniture supply
 
@@ -86,4 +86,4 @@ This guide helps prepare specific enquiries for furniture and furnishing stores 
 
 **Acceptance checks:** Receive against numbered location schedules and record defects before final payment.
 
-**Request a quotation:** Send the listed measurements, photos, quantity and Al Jimi delivery location to Biet Al Reef customer support for possible quotations. Supplier availability, price and timing are not guaranteed.
+**Request a quotation:** Supply a site-by-site quantity schedule, access drawings, approved sample and delivery phases; request unit, storage, installation and damage-replacement terms through Biet Al Reef support. Supplier, price and timing remain unconfirmed.

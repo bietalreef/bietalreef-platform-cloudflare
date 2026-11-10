@@ -107,7 +107,7 @@ export async function getServerSideProps({ res }) {
   };
 
   // Existing emirate-sector pages and geographic paths backed by published services.
-  for (const emirate of ['abu-dhabi','dubai','sharjah','ajman']) for (const sector of UAE_MAIN_SECTORS) {
+  for (const emirate of ['abu-dhabi','dubai','sharjah','ajman','umm-al-quwain']) for (const sector of UAE_MAIN_SECTORS) {
     const path = `/uae/${emirate}/${sector.slug}`;
     addPair(path, `/en${path}`, UAE_SECTOR_ASSETS[sector.slug]?.desktop, ['sharjah','ajman'].includes(emirate) ? {lastmod:'2026-11-09'} : {});
   }
@@ -127,7 +127,7 @@ export async function getServerSideProps({ res }) {
   }
 
   // Northern place guides are genuine bilingual editorial pages, not fabricated company listings.
-  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah'].includes(item.slug))) {
+  for (const emirate of UAE_EMIRATES.filter(item => ['ras-al-khaimah','fujairah','umm-al-quwain'].includes(item.slug))) {
     for (const area of emirate.areas) {
       const hub = '/uae/'+emirate.slug+'/'+area.slug;
       addPair(hub,'/en'+hub,undefined,{priority:0.65,lastmod:'2026-11-09'});
@@ -135,6 +135,20 @@ export async function getServerSideProps({ res }) {
         const path = hub+'/'+sector.slug;
         addPair(path,'/en'+path,UAE_SECTOR_ASSETS[sector.slug]?.desktop,{priority:0.64,lastmod:'2026-11-09'});
       }
+    }
+  }
+
+  // Original Al Naeem listing connected to the UAQ cleaning sector and each approved district.
+  // These company paths reuse the same provider data; never create a second profile.
+  const uaq='/uae/umm-al-quwain';
+  const naeem='al-naeem-cleaning-services';
+  const uaqAreas=UAE_EMIRATES.find(row=>row.slug==='umm-al-quwain')?.areas||[];
+  for(const root of [uaq,...uaqAreas.map(area=>uaq+'/'+area.slug)]){
+    const company=root+'/cleaning-services/'+naeem;
+    addPair(company,'/en'+company,'/images/providers/al-naeem/home-villa-male.webp',{priority:0.7});
+    for(const service of ['home-villa-cleaning','water-tank-cleaning-sanitization','steam-carpet-sofa-cleaning','curtains-upholstery-majlis-cleaning']){
+      const path=company+'/services/'+service;
+      addPair(path,'/en'+path,undefined,{priority:0.65});
     }
   }
 

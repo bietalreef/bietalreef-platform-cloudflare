@@ -187,31 +187,31 @@ For a move between emirates, document both addresses, floors, shipment volume, l
 
 ### 43. Construction material haulage
 
-Identify material type, load weight, offloading equipment, site hours and load restrictions. Compare trips, coverage and delay terms; reconcile weight notes and receipts.
+For deliveries of steel, cement, blocks or aggregates, prepare a separate manifest showing each material, quantity, gross weight, longest dimension and packaging. Photograph site access, truck turning space and the unloading position, and confirm whether a forklift or crane is available or must be supplied by the carrier. Transport and supply are different obligations: agree who checks product specifications. Compare vehicle capacity, journey count, load protection, waiting time and unloading charges. At handover reconcile delivery notes and quantities, inspect packaging and record shortages or breakages before the driver leaves.
 
 ### 44. Timber transport
 
-Provide timber lengths, board sizes, weather sensitivity and stacking plans. Compare straps and edge guards; inspect damage and moisture on arrival.
+Transporting long timber, MDF sheets or finished wooden panels requires length, width, thickness and quantity records, plus identification of veneered or painted surfaces vulnerable to moisture and scratches. Photograph the loading arrangement and workshop or site entrance. Ask for spacers, supports against bowing and securing straps that do not crush edges. Compare usable truck-bed length, weather covering, handling equipment and unpacking responsibility. On arrival inspect edges, faces, warping and water marks, and reconcile panel dimensions and counts before signing.
 
 ### 45. Marble transport
 
-Record slab sizes, thickness, weights and upright or flat carrying requirements. Compare racks, packing, breakage liability and offloading; inspect edge cracks before sign-off.
+Large marble and stone slabs can crack during loading, turning or unloading. Supply a schedule of each slab's dimensions, thickness and estimated weight, photographs of finished edges and cut-outs, and information about crane access. Ask the carrier to identify the appropriate rack, separation pads, restraints and lifting points; slabs must not be treated as ordinary stacked parcels. Compare breakage liability, loading and unloading responsibility and handling equipment rather than journey price alone. Inspect hairline cracks, corners and slab reference numbers before accepting delivery.
 
 ### 46. Equipment transport
 
-Identify each machine's mass, dimensions, lifting points and safe transport preparation. Compare trailers, securing and access; document condition before and after the move.
+Before moving a compact excavator, generator or workshop machine, provide its model, actual weight, overall dimensions and loaded height, with photographs of lifting points, tyres or tracks. Confirm whether it can drive onto the trailer or needs winching, and who disconnects attachments and secures moving parts. Compare trailer suitability, rated capacity, restraints, access route, unloading method and damage cover. Record equipment condition, operating hours and accessories before collection; after unloading check for damage or leaks and have a competent person test operation before sign-off.
 
 ### 47. Waste transport
 
-Separate concrete, timber, metal and any special-handling wastes and specify skips. Compare loads, reception arrangements and transfer evidence; do not mix incompatible waste types.
+First identify the waste stream: concrete debris, timber, metal, paint containers or unidentified materials. Photograph piles and proposed skip position, estimate volume and weight, and check truck access. Some materials require segregation and specialist handling and must not be placed in a general construction-waste skip. Ask who sorts, loads and covers the material, where it will be received and what disposal evidence is available; do not assume a particular permit applies. Compare skip capacity, trips, waiting charges and final cleanup. Check that agreed debris and sharp fragments have been removed and retain available transfer records.
 
 ### 48. Project truck provision
 
-Specify truck count, payload, hourly or trip basis and site traffic coordinator. Compare driver, fuel, waiting and delay terms; check trip logs before invoicing.
+For recurring project haulage, prepare a weekly schedule of load types, weights, expected trips, distances and loading/unloading points rather than ordering a truck count without a productivity target. Explain access restrictions, peak periods, lifting arrangements and who directs vehicles on site. Require vehicle class and capacity, maintenance arrangements and responsibility for fuel, road charges, waiting and unexpected downtime. Compare per-trip and hourly rates against measurable output, including approval of extra trips. Reconcile gate logs, load tickets and arrival times with invoices before payment.
 
 ### 49. Loading and offloading
 
-Record package weight, placement, crane or dock access, stairs and fragility. Compare labour, handling aids and arrival slots; inspect stable stacking and site safety.
+Hand-loading light cartons is not the same job as unloading glass panels or heavy machinery. Provide an item list with weights and longest dimensions, photographs of truck-deck height, lifts, stairs and internal carrying distances. Request a labour and handling plan, including mechanical lifting where needed, and define who secures loads and who is responsible for packaging damage. Compare crew hours, supervision, waiting, minimum charges and floor protection. On completion count packages, check seals and stable stacking, and ensure access routes are clear of packaging waste.
 
 ## Concrete, blocks and cement products
 

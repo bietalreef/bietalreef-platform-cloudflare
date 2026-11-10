@@ -113,7 +113,7 @@ function CardGrid({items,kind,locale,areaSlug,contextBase=null}) {
   const t=texts[locale];
   if(!items?.length)return <p className="rounded-2xl border border-dashed p-5">{kind==='offers'?t.noOffers:t.noService}</p>;
   if(kind==='service-areas')return <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-    {items.map(x=><Link href={x.directoryPath?prefixPath(locale,x.directoryPath):alNaeemPath(locale,{kind,slug:x.slug})} key={x.slug} className="flex min-h-28 flex-col items-start justify-between rounded-[18px] border border-[#e6e8e9] bg-white p-4 shadow-sm transition hover:border-[#c9aa68]">
+    {items.map(x=><Link href={alNaeemPath(locale,{kind,slug:x.slug})} key={x.slug} className="flex min-h-28 flex-col items-start justify-between rounded-[18px] border border-[#e6e8e9] bg-white p-4 shadow-sm transition hover:border-[#c9aa68]">
       <MapPin size={23} className="text-[#c59b4f]"/><span className="text-[16px] font-bold text-[#163b56]">{pick(x,locale)}</span><span className="text-[12px] text-[#6c7e8d]">{t.view}</span>
     </Link>)}
   </div>;
@@ -225,6 +225,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       <div className="mx-auto max-w-[1180px] px-4 pt-4 sm:px-6">
         <nav aria-label={en?'Breadcrumb':'مسار التنقل'} className="mb-4 flex flex-wrap items-center gap-2 text-[12px] text-[#67798b]">
           <Link href={en?'/en/providers':'/providers'}>{t.official}</Link><span>›</span><Link href={root}>{t.brand}</Link>
+          {contextBase&&<><span>›</span><Link href={prefixPath(locale,contextBase)}>{en?`Cleaning in ${place}`:`خدمات التنظيف في ${place}`}</Link></>}
           {route.kind!=='home'&&<><span>›</span><Link href={navPath({kind:area?'service-areas':route.kind})}>{area?t['service-areas']:t[route.kind]}</Link></>}
           {area&&<><span>›</span><Link href={alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}>{pick(area,locale)}</Link></>}
           {item&&<><span>›</span><span className="font-bold text-[#183852]">{title}</span></>}

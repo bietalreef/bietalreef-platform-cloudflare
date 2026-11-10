@@ -547,3 +547,8 @@
 - الحالة: `in_progress`؛ 14 خدمة عربية و14 إنجليزية في `general-maintenance/electrical-lighting`، مع تخصيص 28 فقرة مقارنة عروض، وتحديث مراجعة التخصص.
 - [المحتوى العربي](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [المراجعة](./general-maintenance/electrical-lighting/review.md).
 - **أول نقص تالٍ:** `general-maintenance/plumbing-leak-detection/content-ar.md` ثم `content-en.md` و`review.md` لمراجعة تكرار المقارنة والاتفاق، وبعده `general-maintenance/air-conditioning-refrigeration/` (يُتحقق من اسم المجلد)، ثم بقية التخصصات. تبقى مطابقة 50 تخصصًا و434 خدمة بكل لغة والجودة النهائية غير مكتملة؛ لا تبدأ المويجعي.
+
+## متابعة السباكة وكشف التسربات — 2026-11-10
+
+- الحالة `in_progress`. خُصصت فقرات طلب عروض الأسعار للخدمات الأربع عشرة في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md)، مع توثيق التدقيق في [مراجعة التخصص](./general-maintenance/plumbing-leak-detection/review.md).
+- **أول نقص تالٍ:** `general-maintenance/air-conditioning-refrigeration/content-ar.md` و`content-en.md` و`review.md`، ثم الأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات ومطابقة 50 تخصصًا و434 خدمة في كل لغة. لا تبدأ المويجعي قبل الاعتماد الكامل.

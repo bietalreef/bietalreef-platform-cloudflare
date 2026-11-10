@@ -667,3 +667,7 @@
 
 - الحالة `in_progress`؛ تم تخصيص نطاق العمل وطلب عرض السعر للخدمات السبع بالعربية والإنجليزية في [تصنيع الأثاث](./furniture-decor/furniture-manufacturing/review.md)، مع الحفاظ على وضع التصنيف غير القابل للاختيار.
 - أول نقص تالٍ: `furniture-decor/furniture-shops/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `majlis-upholstery` و`curtains-carpets-furnishings` بعد التحقق من المسارات، ثم تخصصات `equipment-rental` و`cleaning-services` والجرد النهائي لكل خدمات المنطقة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة تدقيق متاجر الأثاث والمفروشات — 2026-11-11
+- الحالة: `in_progress`؛ خُصصت سبع فقرات طلب عرض سعر لكل لغة في [متاجر الأثاث والمفروشات](./furniture-decor/furniture-shops/review.md)، وتأكد تطابق ملفي المحتوى بإعادة القراءة من GitHub.
+- أول نقص تالٍ: `furniture-decor/majlis-upholstery/content-ar.md` ثم `content-en.md` و`review.md`، يليه `furniture-decor/curtains-carpets-furnishings`، ثم إعادة تدقيق تخصصات `equipment-rental` و`cleaning-services` ومطابقة 50 تخصصًا و434 خدمة بكل لغة مع الشجرة وفحص التكرار والسلامة والتصنيفات. لا تبدأ المويجعي قبل اعتماد الجيمي.

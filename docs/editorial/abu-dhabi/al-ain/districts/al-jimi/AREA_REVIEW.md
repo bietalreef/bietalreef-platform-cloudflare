@@ -599,3 +599,9 @@
 
 - الحالة `in_progress`؛ خُصصت **42 فقرة مقارنة عروض أسعار** لخدمات `building-materials/building-finishing-materials` (21 عربية و21 إنجليزية)، مع إعادة قراءة ملفات [العربية](./building-materials/building-finishing-materials/content-ar.md) و[الإنجليزية](./building-materials/building-finishing-materials/content-en.md) و[المراجعة](./building-materials/building-finishing-materials/review.md) والتحقق من التطابق بعد الرفع.
 - **أول نقص تالٍ:** `building-materials/building-finishing-materials/content-ar.md` و`content-en.md` — تدقيق التكرار في بنود الاتفاق وطلب السعر؛ ثم `building-materials/ceramic-porcelain` و`kitchen-countertops` و`marble-granite` و`timber-panels`، ثم بقية قطاعات الجيمي. ما زالت مطابقة 50 تخصصًا و434 خدمة في كل لغة، والتفرد والسلامة والقيود، غير معتمدة. لا تبدأ المويجعي.
+
+## متابعة تدقيق مواد البناء والتشطيب — 2026-11-10
+
+- **الحالة: `in_progress`**؛ لا تبدأ المويجعي قبل مراجعة الجيمي كاملة.
+- خُصصت 42 مقدمة اتفاق وتسليم (21 خدمة بالعربية و21 بالإنجليزية) في [مواد البناء والتشطيب](./building-materials/building-finishing-materials/review.md)، وأعيدت قراءة ملفي المحتوى بعد الحفظ وثبت تطابقهما.
+- **أول نقص دقيق تالٍ:** مراجعة التكرار في `building-materials/building-finishing-materials/content-ar.md` ثم `content-en.md` في فقرات طلب عرض السعر، ثم تدقيق `building-materials/ceramic-porcelain` بعد التحقق من المسار الفعلي، ثم بقية تخصصات القطاع؛ يليها جرد شامل لجميع التخصصات الخمسين ومطابقة 434 عنوان خدمة في كل لغة مع المصدر وتدقيق السلامة والتصنيفات قبل اعتماد المنطقة.

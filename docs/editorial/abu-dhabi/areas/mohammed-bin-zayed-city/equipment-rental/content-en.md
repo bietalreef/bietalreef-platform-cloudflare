@@ -63,31 +63,32 @@ State whether the job is mowing, hedge trimming, branch pruning or leaf collecti
 
 ### 15. Aluminium profile production
 
-Specify extrusion shape, thickness, length, finish, colour and production quantity. Compare section samples, straightness, coating and tolerances; inspect measured profiles.
+For a custom aluminium extrusion, supply a dimensioned cross-section showing nominal wall thickness, interlocking features and fixing zones, and explain whether it serves a window frame, façade or industrial assembly. Colour alone is not a specification: request the proposed alloy, surface treatment and coating or anodising requirements, along with lengths, quantities and agreed tolerances. Compare any die cost, minimum order, cutting waste, pre-production sample and lead time. Do not assume a profile has structural capacity without appropriate design. At receipt, measure section dimensions and straightness and check for twisting, scratches and colour consistency against the approved sample.
 
 ### 16. Door and window production
 
-Issue a numbered opening schedule with sizes, swing, glazing and fittings. Compare assembly drawings, sealing and factory check stages; receive labelled units.
+Start with a numbered opening schedule, site-verified width and height, swing direction, threshold level, glazing and specified hinges and locks. Require fabrication drawings showing framing, drainage, gaskets, fixing positions and how uneven surrounding construction will be accommodated. Compare the proposed system against project requirements for air, water, thermal, acoustic and wind performance where applicable, rather than frame appearance alone. Clarify responsibility for measurement, installation and perimeter sealing. Approve a sample unit before batch production; at handover reconcile labels and dimensions, test movement and locking, and verify drainage using an appropriate agreed check.
 
 ### 17. Toughened glass manufacture
 
-Fix pane geometry, holes and edge finish before tempering; cutting after tempering is not a normal modification. Compare product data and use suitability; inspect dimensions, edges and handling damage.
+For glass in doors, guards or façades, provide a drawing for each pane showing thickness, colour, edge treatment, holes, hinge cut-outs and intended use. Finalise geometry before heat treatment: toughened glass cannot ordinarily be cut or drilled afterwards. Request the manufacturer's product identification and relevant test information, and assess whether laminated glass or a retention system is required for fall-risk locations; toughening alone does not establish suitability everywhere. Compare edge samples, dimensional tolerances, packaging and transport. Before acceptance inspect sizes, visible optical distortion, scratches and edge damage, and record any rejected panes.
 
 ### 18. Glass façade preparation
 
-Tie each pane to façade drawings, framing and fixing positions. Compare numbering, packing and weather details; accept a pane schedule for safe assembly.
+Façade preparation starts with coordinated drawings connecting each glass identifier to building grids, elevations, framing dimensions, brackets and movement joints. A competent designer must establish loads, thermal movement, glazing selection and fixing design; the factory then needs a cutting schedule and safe lifting and installation sequence. Compare offers for the complete façade system, weather seals, tolerances and agreed factory checks rather than glass area alone. Before dispatch inspect pane labels, edges, finishes and protective packaging. At delivery reconcile each batch against the installation schedule and obtain inspection records without treating fabrication as regulatory approval.
 
 ### 19. Partition fabrication
 
-Specify partition type, frame lengths, glass size, openings and service points. Compare reinforcement, seals and terminations; trial-assemble before dispatch.
+For office or internal partitions, state whether the assembly is fixed or demountable, its length and height, door positions, adjacent furniture and electrical or air-conditioning interfaces. Acoustic privacy and visual screening require different specifications: request the full partition build-up, glass or panel thickness, seals and floor-to-ceiling junction details. Compare workshop drawings, wall connections, maintenance access, exposed-edge protection and whether dismantling or reinstatement is included. Inspect a representative junction and door before production, then check frame alignment, dimensions, door operation and finish quality at handover.
 
 ### 20. Glass product supply
 
-Specify pane sizes, thickness, processing and safety function. Compare packaging, labelling and shipping risk; inspect actual delivered panes.
+For glass supply without installation, issue a pane schedule specifying dimensions, thickness, colour and type—annealed, toughened, laminated or insulating glass—plus location, exposure, edge polishing and drilled holes. Glass thickness cannot be chosen by area alone: loads and safety requirements depend on the designed supporting system. Compare available product documentation, labels, batch identification, transport racks and breakage or replacement terms before delivery. Count panes on suitable supports at receipt, inspect edges and scratches, check insulating-glass seals where relevant, and record damage before signing the delivery note.
 
 ### 21. Project batch fabrication
 
-Provide repeated unit counts, location tags and project phases. Compare first-article checks, fabrication control and phased batches; sample-measure delivered units.
+Repeated project orders need a unit schedule tied to installation locations: opening number, model, dimensions, colour, glazing, hardware and required batch date. Approve a first article and workshop drawings before mass production; identify who authorises changes after site measurement and how nonconforming units will be handled. Compare factory quality controls, finish consistency, packing, traceability and spare-unit provision rather than volume discounts alone. At each delivery sample-check dimensions and operation, match labels to the opening schedule, and document missing or damaged units and agreed replacement dates before acceptance.
+
 
 ## Stone factories and cutting shops
 

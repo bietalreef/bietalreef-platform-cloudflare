@@ -151,6 +151,10 @@ export default function CategoryPage({ service, relatedProviders }) {
 export async function getStaticProps({ params }) {
   const service = getServiceCategory(params.slug);
   if (!service) return { notFound: true };
+  // A single canonical Arabic landing page for the approved national sectors.
+  // Preserve existing deep links as permanent redirects; other categories remain unchanged.
+  const mainSectors = ['general-contracting','interior-design','general-maintenance','building-materials','aluminium-glass','furniture-decor','equipment-rental','cleaning-services'];
+  if (mainSectors.includes(service.slug)) return { redirect:{destination:'/services/'+service.slug,permanent:true} };
   
   const relatedProviders = providers.filter(provider => {
     const categoryKeywords = params.slug.split('-');

@@ -661,3 +661,9 @@
 
 - الحالة: `in_progress`؛ أُضيفت **28 فقرة طلب عرض سعر مستقلة** إلى الخدمات الأربع عشرة بالعربية والإنجليزية في [المحتوى العربي](./aluminium-glass/wood-kitchens-cabinets-doors/content-ar.md) و[المحتوى الإنجليزي](./aluminium-glass/wood-kitchens-cabinets-doors/content-en.md)، مع [مراجعة التخصص](./aluminium-glass/wood-kitchens-cabinets-doors/review.md). أُعيدت قراءة الملفات الثلاثة بعد الرفع وتطابقت.
 - **أول نقص تالٍ:** فحص `furniture-decor/furniture-manufacturing` ثم `furniture-shops` و`majlis-upholstery` و`curtains-carpets-furnishings`، ثم جميع تخصصات `equipment-rental` و`cleaning-services`؛ بعد ذلك جرد 50 تخصصًا و434 خدمة في كل لغة ومطابقة العناوين العربية مع المصدر وتدقيق التفرد والسلامة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## تدقيق تصنيع الأثاث — 2026-11-11
+
+- الحالة `in_progress`؛ تم تخصيص نطاق العمل وطلب عرض السعر للخدمات السبع بالعربية والإنجليزية في [تصنيع الأثاث](./furniture-decor/furniture-manufacturing/review.md)، مع الحفاظ على وضع التصنيف غير القابل للاختيار.
+- أول نقص تالٍ: `furniture-decor/furniture-shops/content-ar.md` ثم `content-en.md` و`review.md`، وبعده `majlis-upholstery` و`curtains-carpets-furnishings` بعد التحقق من المسارات، ثم تخصصات `equipment-rental` و`cleaning-services` والجرد النهائي لكل خدمات المنطقة. لا تبدأ المويجعي قبل اعتماد الجيمي.

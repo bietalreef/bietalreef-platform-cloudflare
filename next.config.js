@@ -1,4 +1,6 @@
 const { AREAS } = require('./data/localServices');
+// Canonical national guides reuse the current UAE_MAIN_SECTORS; this is a redirect list only.
+const NATIONAL_GUIDE_PATHS = ['general-contracting','interior-design','general-maintenance','building-materials','aluminium-glass','furniture-decor','equipment-rental','cleaning-services'];
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
@@ -51,17 +53,18 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      ...NATIONAL_GUIDE_PATHS.map(slug => ({source:'/categories/'+slug,destination:'/services/'+slug,permanent:true})),
       { source: '/media', destination: '/press', permanent: true },
       { source: '/en/media', destination: '/en/press', permanent: true },
-      { source: '/cleaning-uae', destination: '/categories/cleaning-services', permanent: true },
+      { source: '/cleaning-uae', destination: '/services/cleaning-services', permanent: true },
       { source: '/en/cleaning-uae', destination: '/en/categories/cleaning-services', permanent: true },
-      { source: '/maintenance-uae', destination: '/categories/general-maintenance', permanent: true },
+      { source: '/maintenance-uae', destination: '/services/general-maintenance', permanent: true },
       { source: '/en/maintenance-uae', destination: '/en/categories/general-maintenance', permanent: true },
-      { source: '/furniture-uae', destination: '/categories/furniture-decor', permanent: true },
+      { source: '/furniture-uae', destination: '/services/furniture-decor', permanent: true },
       { source: '/en/furniture-uae', destination: '/en/categories/furniture-decor', permanent: true },
       { source: '/electrical-contractors-uae', destination: '/categories/electrical', permanent: true },
       { source: '/en/electrical-contractors-uae', destination: '/en/categories/electrical', permanent: true },
-      { source: '/equipment-rental-uae', destination: '/categories/equipment-rental', permanent: true },
+      { source: '/equipment-rental-uae', destination: '/services/equipment-rental', permanent: true },
       { source: '/en/equipment-rental-uae', destination: '/en/categories/equipment-rental', permanent: true },
       { source: '/villa-renovation-uae', destination: '/categories/finishing-works', permanent: true },
       { source: '/en/villa-renovation-uae', destination: '/en/categories/finishing-works', permanent: true },
@@ -179,7 +182,7 @@ module.exports = {
       },
       {
         source: '/services/construction-contracting',
-        destination: '/categories/general-contracting',
+        destination: '/services/general-contracting',
         permanent: true,
       },
       {
@@ -194,7 +197,7 @@ module.exports = {
       },
       {
         source: '/services/maintenance-companies',
-        destination: '/categories/general-maintenance',
+        destination: '/services/general-maintenance',
         permanent: true,
       },
       {
@@ -204,7 +207,7 @@ module.exports = {
       },
       {
         source: '/services/furniture-stores',
-        destination: '/categories/furniture-decor',
+        destination: '/services/furniture-decor',
         permanent: true,
       },
       {
@@ -214,22 +217,22 @@ module.exports = {
       },
       {
         source: '/services/construction-contracting/dubai',
-        destination: '/categories/general-contracting',
+        destination: '/services/general-contracting',
         permanent: true,
       },
       {
         source: '/services/maintenance-companies/dubai',
-        destination: '/categories/general-maintenance',
+        destination: '/services/general-maintenance',
         permanent: true,
       },
       {
         source: '/services/construction-contracting/abu-dhabi',
-        destination: '/categories/general-contracting',
+        destination: '/services/general-contracting',
         permanent: true,
       },
       {
         source: '/services/construction-contracting/al-ain',
-        destination: '/categories/general-contracting',
+        destination: '/services/general-contracting',
         permanent: true,
       },
     ];

@@ -2,7 +2,7 @@ import DirectoryContextCompany from '../../components/provider/DirectoryContextC
 import { getCompanyContextProps } from '../../lib/publishedCompanyPresence';
 import RehabPresencePage from '../../components/provider/RehabPresencePage';
 import AlNaeemPresencePage from '../../components/provider/AlNaeemPresencePage';
-import {AL_NAEEM_SLUG,getUaqNaeemContextProps} from '../../lib/alNaeemPresence';
+
 import { getRehabContextProps, REHAB_SLUG } from '../../lib/rehabPresence';
 import GeographicServicePage from '../../components/GeographicServicePage';
 import GeographicServiceDirectoryPage from '../../components/GeographicServiceDirectoryPage';
@@ -11,7 +11,7 @@ import {abuDhabiAreaCompanyProps} from '../../lib/abuDhabiAreaCompanyContext';
 import {geographicAreaCompanyProps} from '../../lib/geographicCompanyContext';
 import {UAE_MAIN_SECTORS} from '../../data/directoryDiscovery';
 import { geographicRouteProps } from '../../lib/geographicRouteProps';
-import {alNaeemDirectoryRedirect} from '../../lib/alNaeemLocalSeo';
+import {alNaeemDirectoryRedirect,getAlNaeemDirectoryContextProps} from '../../lib/alNaeemLocalSeo';
 
 export default function ContextualDirectoryCompany(props) {
   if(props.alNaeemContext)return <AlNaeemPresencePage data={props.data} locale="ar" route={props.route}/>;
@@ -22,17 +22,12 @@ export default function ContextualDirectoryCompany(props) {
 
 export async function getServerSideProps(context) {
   const parts = context.params?.parts || [];
-  // Preserve UAQ directory hierarchy; other legacy company URLs keep their existing redirects.
-  if(parts[0]==='umm-al-quwain'){
-    const providerIndex=parts[1]==='cleaning-services'&&parts[2]===AL_NAEEM_SLUG?2:
-      getArea('umm-al-quwain',parts[1])&&parts[2]==='cleaning-services'&&parts[3]===AL_NAEEM_SLUG?3:-1;
-    if(providerIndex>=0){
-      const rest=parts.slice(providerIndex+1);
-      if(rest.length>2||(rest.length>0&&!['services','offers','service-areas'].includes(rest[0])))return {notFound:true};
-      const areaSlug=providerIndex===3?parts[1]:null;
-      context.res.setHeader('Cache-Control','public, s-maxage=300, stale-while-revalidate=600');
-      return getUaqNaeemContextProps('ar',{areaSlug,kind:rest[0]||'home',slug:rest[1]||null});
-    }
+  // Resolve contextual company/service links across the approved coverage areas
+  // before older redirect and generic provider route handling.
+  const naeemContext=getAlNaeemDirectoryContextProps(parts,'ar');
+  if(naeemContext){
+    if(naeemContext.props)context.res.setHeader('Cache-Control','public, s-maxage=300, stale-while-revalidate=600');
+    return naeemContext;
   }
   const naeemDestination=alNaeemDirectoryRedirect(parts,'ar');
   if(naeemDestination)return {redirect:{destination:naeemDestination,permanent:true}};

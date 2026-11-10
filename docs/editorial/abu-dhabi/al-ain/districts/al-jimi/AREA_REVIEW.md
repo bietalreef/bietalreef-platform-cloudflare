@@ -564,3 +564,8 @@
 - **الحالة: `in_progress`**؛ خُصصت 28 فقرة طلب عرض سعر (14 عربية و14 إنجليزية) لخدمات [الأنظمة الذكية والمراقبة](./general-maintenance/smart-systems-surveillance/review.md)، مع مدخلات مستقلة للإنارة والتكييف والأقفال والستائر والربط والسيناريوهات والصيانة والكاميرات والتسجيل والإنذار والدخول والإنتركم والمراقبة عن بعد.
 - الملفات المتحقق منها بعد الرفع: [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) · [English](./general-maintenance/smart-systems-surveillance/content-en.md) · [مراجعة التخصص](./general-maintenance/smart-systems-surveillance/review.md).
 - **أول نقص تالٍ:** `general-maintenance/painting/content-ar.md` ثم `content-en.md` و`review.md` لتدقيق التكرار ومدخلات التسعير؛ يلي ذلك `general-maintenance/waterproofing-thermal-insulation`، ثم جرد التخصصات المتبقية في القطاعات الأخرى وفحص المطابقة الدقيقة لأسماء 434 خدمة في كل لغة وحالات التصنيف وجودة الفقرات. لا تبدأ المويجعي قبل اكتمال اعتماد الجيمي.
+
+## متابعة تدقيق الدهانات — 2026-11-10
+
+- **الحالة `in_progress`**؛ تخصيص 14 فقرة طلب سعر لخدمات الدهانات السبع باللغتين، وتصحيح صياغة إنجليزية: [العربية](./general-maintenance/painting/content-ar.md) · [English](./general-maintenance/painting/content-en.md) · [المراجعة](./general-maintenance/painting/review.md).
+- **أول نقص تالٍ:** `general-maintenance/waterproofing-thermal-insulation/content-ar.md` ثم `content-en.md` و`review.md`، وبعده تدقيق التكرار المتبقي في `general-maintenance/painting` ثم جرد وتدقيق جميع التخصصات الخمسين والخدمات الـ434 في كل لغة عبر القطاعات الثمانية ومطابقة حالة التصنيفات مع الشجرة. لا تبدأ المويجعي قبل اعتماد الجيمي.

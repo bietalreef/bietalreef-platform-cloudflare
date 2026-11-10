@@ -242,9 +242,9 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-10",
-      "review_note": "217/434 independently rewritten AR/EN: general-contracting 56, interior-design 49, general-maintenance 105, building-materials 7. Next building-materials service 8 (توريد الجبس); 217 remain. Existing other service headings are drafts, not independently reviewed. No publication approval.",
-      "editorial_rewritten_service_entries": 217,
-      "editorial_remaining_service_entries": 217,
+      "review_note": "224/434 independently rewritten in AR/EN: contracting 56, design 49, maintenance 105, building materials 14. Next building materials service 15 (بيع مواد البناء); 210 remain. Other existing headings are unreviewed drafts; no publication approval.",
+      "editorial_rewritten_service_entries": 224,
+      "editorial_remaining_service_entries": 210,
       "editorial_progress": {
         "sector": "building-materials",
         "specialty": "مواد البناء والتشطيب",
@@ -255,14 +255,21 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ],
-        "next_service_number": 8,
-        "remaining_in_sector": 42,
+        "next_service_number": 15,
+        "remaining_in_sector": 35,
         "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 217,
-        "remaining_area_services_for_originality_review": 217,
+        "area_independently_rewritten": 224,
+        "remaining_area_services_for_originality_review": 210,
         "area_editorially_approved": false,
         "editorial_draft_completed": false
       }

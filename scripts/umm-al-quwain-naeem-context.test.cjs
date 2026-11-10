@@ -10,7 +10,7 @@ for(const row of area)assert.ok(districts.includes("slug: '"+row[0]+"'"),'distri
 assert.ok(p.includes("UAQ_NAEEM_EMIRATE='umm-al-quwain'"));
 assert.ok(p.includes("route.contextBase?route.contextBase+'/'+AL_NAEEM_SLUG"));
 assert.ok(p.includes("return base+'/services/'+route.slug"));
-assert.ok(p.includes("getArea(UAQ_NAEEM_EMIRATE,areaSlug)"));
+assert.ok(p.includes("getArea(emirateSlug,areaSlug)"));
 assert.ok(p.includes('data.coverageAreas.some'),'must validate company coverage');
 assert.ok(p.includes("collection.some(item=>item.slug===slug)"),'must validate actual service availability');
 for(const lang of ['ar','en']){
@@ -25,24 +25,24 @@ for(const lang of ['ar','en']){
 for(const locale of ['ar','en']){
  const src=read(locale==='ar'?'pages/uae/[activity]/[emirate]/[service].js':'pages/en/uae/[emirate]/[area]/[service].js');
  const catchall=read(locale==='ar'?'pages/uae/[...parts].js':'pages/en/uae/[...parts].js');
- assert.ok(src.includes('getUaqNaeemContextProps('),'emirate/company route missing '+locale);
- assert.ok(catchall.includes('getUaqNaeemContextProps('),'district/company route missing '+locale);
- assert.ok(catchall.includes("parts[0]==='umm-al-quwain'"));
- assert.ok(catchall.includes("parts[2]==='cleaning-services'"));
- assert.ok(catchall.includes("parts[3]===AL_NAEEM_SLUG"));
+ assert.ok(src.includes('getGeographicNaeemContextProps('),'emirate/company route missing '+locale);
+ assert.ok(catchall.includes('getGeographicNaeemContextProps('),'district/company route missing '+locale);
+ assert.ok(catchall.includes("resolveGeographicNaeemParts(parts)"));
+ assert.ok(p.includes("parts[2]==='cleaning-services'"));
+ assert.ok(p.includes("parts[3]===AL_NAEEM_SLUG"));
 }
 assert.ok(card.includes("item.href=contextHref||alNaeemPath"),'company card must preserve regional route');
 assert.ok(card.includes("contextHref+'/services/'+service.slug"),'service paths must preserve regional route');
 assert.ok(discovery.includes("showServices&&contextHref?"),'service tiles missing in cleaning sector');
 assert.ok(discovery.includes('AL_NAEEM_EDITORIAL_DATA.services.map'),'actual services only');
-assert.ok(discovery.includes('uaqNaeemBase(locale,area?.slug)'));
+assert.ok(discovery.includes('naeemGeographicBase(locale,emirate.slug,area?.slug)'));
 assert.ok(page.includes('contextualNav('),'provider profile must preserve context navigation');
 assert.ok(page.includes('const root=alNaeemPath(locale,'),'same provider profile reused');
 assert.ok(page.includes('contextBase={route.contextBase}'));
 for(const f of ['pages/uae/[activity]/[emirate].js','pages/en/uae/[emirate]/[area].js','pages/uae/[activity]/[emirate]/[service].js','pages/en/uae/[emirate]/[area]/[service].js']){
- assert.ok(read(f).includes("showServices={emirate.slug==='umm-al-quwain'}"),'UAQ cleaning service listing absent '+f);
+ assert.ok(read(f).includes("showServices={['umm-al-quwain','sharjah','ras-al-khaimah','fujairah'].includes(emirate.slug)}"),'UAQ cleaning service listing absent '+f);
 }
 const sitemap=read('pages/sitemap.xml.js');
-assert.ok(sitemap.includes("'umm-al-quwain'].includes(item.slug)"),'area URLs absent from sitemap');
-assert.ok(sitemap.includes("const root=uaqNaeemBase('ar',slug)"),'regional company URLs absent from sitemap');
+assert.ok(sitemap.includes("NAEEM_DIRECTORY_EMIRATES.includes(row.slug)"),'area URLs absent from sitemap');
+assert.ok(sitemap.includes("const root=naeemGeographicBase('ar',emirate.slug,areaSlug)"),'regional company URLs absent from sitemap');
 console.log('Umm Al Quwain districts, bilateral provider context, live provider cards and service links: PASS');

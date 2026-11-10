@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "audit:site": "node scripts/audit-site-structure.js",
-    "prebuild": "node scripts/audit-site-structure.js && node scripts/abu-dhabi-contracting-seo.test.cjs && node scripts/abu-dhabi-all-sectors-seo.test.cjs && node scripts/directory-single-rfq-mobile.test.cjs && node scripts/al-ain-index-ready.test.cjs && node scripts/sharjah-ajman-sectors-seo.test.cjs && node scripts/sharjah-ajman-areas-seo.test.cjs && node scripts/northern-emirates-directory.test.cjs && node scripts/al-naeem-area-card-links.test.cjs && node scripts/umm-al-quwain-naeem-context.test.cjs && node scripts/uaq-naeem-profile-service.test.cjs",
+    "prebuild": "node scripts/audit-site-structure.js && node scripts/abu-dhabi-contracting-seo.test.cjs && node scripts/abu-dhabi-all-sectors-seo.test.cjs && node scripts/directory-single-rfq-mobile.test.cjs && node scripts/al-ain-index-ready.test.cjs && node scripts/sharjah-ajman-sectors-seo.test.cjs && node scripts/sharjah-ajman-areas-seo.test.cjs && node scripts/northern-emirates-directory.test.cjs && node scripts/al-naeem-area-card-links.test.cjs && node scripts/umm-al-quwain-naeem-context.test.cjs && node scripts/uaq-naeem-profile-service.test.cjs && node scripts/naeem-northern-geography.test.cjs",
     "build": "next build",
     "test:weyaak:live": "node scripts/weyaak-preview-smoke.mjs && node scripts/weyaak-provider-search-smoke.mjs",
     "start": "next start",

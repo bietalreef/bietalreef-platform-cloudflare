@@ -317,14 +317,14 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "All 434 service headings per language exist as coverage drafts, but originality audit identified reused material. Independently rewritten and re-fetched Shamkha contracting services 1–7 AR/EN on 2026-11-11; 427 services still need independent rewrite; no publication approval.",
+      "review_note": "14/434 independently rewritten bilingual service explanations; next general-contracting service 15 ترميم المباني القديمة. Existing remaining headings are not editorial completion; 420 services require original rewrites. No publication.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "إنشاء المباني والفلل",
-        "independently_rewritten_services": 7,
+        "specialty": "الترميم والتجديد",
+        "independently_rewritten_services": 14,
         "area_total": 434,
-        "next_service_number": 8,
-        "remaining_area_services_for_originality_review": 427,
+        "next_service_number": 15,
+        "remaining_area_services_for_originality_review": 420,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

@@ -14,6 +14,8 @@ Guidance for company and establishment services, not a claim of provider availab
 
 **Acceptance:** Match sample tickets to work orders, invoices and closure photos; inspect the unresolved queue and reasons for delays.
 
+**Service-specific quotation request:** State approximate monthly ticket volume, reporting channels, spending-approval tiers and whether software or managed staff are required.
+
 ## 2. Facility operations
 
 **When needed:** Shared entrances, common amenities and shift handovers require an operations plan for occupied buildings.
@@ -25,6 +27,8 @@ Guidance for company and establishment services, not a claim of provider availab
 **Compare quotes and agree terms:** Compare holiday cover, emergency escalation, key custody and opening/closing responsibility; specify staffed and on-call hours.
 
 **Acceptance:** Inspect shift logs, rounds and incident records, and walk through the after-hours fault-reporting procedure without assuming guaranteed response.
+
+**Service-specific quotation request:** State the number of buildings, entrances and shifts; ask whether holiday and fault cover is included or separately priced.
 
 ## 3. Preventive maintenance
 
@@ -38,6 +42,8 @@ Guidance for company and establishment services, not a claim of provider availab
 
 **Acceptance:** Review asset-by-asset logs, readings and deferred tasks, checking evidence of scheduled tests rather than visit signatures alone.
 
+**Service-specific quotation request:** Attach the asset register and proposed visit frequency by asset type; request separate pricing for visits, consumables, replacement parts and emergencies.
+
 ## 4. Electrical-system monitoring
 
 **When needed:** Repeated breaker trips, unusual heat or odours call for qualified monitoring and safe isolation.
@@ -49,6 +55,8 @@ Guidance for company and establishment services, not a claim of provider availab
 **Compare quotes and agree terms:** Compare personnel competence, isolation permits, test scope and risk reporting; name who may authorise power shutdown.
 
 **Acceptance:** Require dated panel identifiers, readings, risk levels and corrective actions; a monitoring report is not a blanket electrical safety certificate.
+
+**Service-specific quotation request:** State panel and test-point counts and permitted shutdown windows; ask for separate costs for monitoring reports and specialist testing.
 
 ## 5. HVAC-system monitoring
 
@@ -62,6 +70,8 @@ Guidance for company and establishment services, not a claim of provider availab
 
 **Acceptance:** Match unit-specific readings to complaints and recommendations, and check unresolved defects rather than accepting a simple 'operational' label.
 
+**Service-specific quotation request:** List system types, unit counts, access locations and monitoring duration; distinguish equipment operation checks from any indoor-air-quality testing.
+
 ## 6. Plumbing and drainage monitoring
 
 **When needed:** Recurring damp patches or drain odours need source tracking, not just cosmetic cleanup.
@@ -74,6 +84,8 @@ Guidance for company and establishment services, not a claim of provider availab
 
 **Acceptance:** Inspect timestamps, temporary containment and technical recommendations, and distinguish resolved causes from outstanding investigations.
 
+**Service-specific quotation request:** Count washrooms, kitchens, pump rooms and drains; separate routine rounds from instrument-based leak detection and repairs.
+
 ## 7. Building condition reporting
 
 **When needed:** Before management renewal or major repairs, a condition report helps rank observed defects and follow-up needs.
@@ -85,6 +97,8 @@ Guidance for company and establishment services, not a claim of provider availab
 **Compare quotes and agree terms:** Compare inspected areas, risk grading, access limitations and specialist referral for serious defects; agree report format and reuse rights.
 
 **Acceptance:** Check location references, photo-to-defect mapping, recommendations and inspection limitations; distinguish observations from conclusions requiring a qualified engineer.
+
+**Service-specific quotation request:** State floor counts, shared areas, report purpose and delivery deadline; request a list of excluded spaces and optional specialist tests.
 
 ## Request a quotation
 

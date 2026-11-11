@@ -12,6 +12,8 @@ Preparatory guidance for company and establishment services, not evidence of pro
 
 **Compare quotes and contract terms:** Request product identification and instructions, protection for food, electronics and toys, included rooms, furniture-moving responsibilities, duration and return-visit charges. Reject promises of eliminating every pathogen.
 
+**Quotation request checklist:** Supply room sizes, sensitive surfaces and the vacant access window. Ask for product name and dilution, application and contact time, re-entry guidance, and whether prerequisite cleaning is included.
+
 **Acceptance check:** Match treated rooms to the schedule, inspect sensitive surfaces for problematic residue or moisture, and obtain product records and re-entry guidance; appearance alone cannot establish disinfection efficacy.
 
 ## 2. Office and facility disinfection
@@ -23,6 +25,8 @@ Preparatory guidance for company and establishment services, not evidence of pro
 **Scope and exclusions:** Agree zones, prerequisite cleaning, responsibility for equipment isolation and access, touchpoint treatment and room-by-room logs. Deep carpet cleaning or HVAC treatment is excluded unless separately quoted.
 
 **Compare quotes and contract terms:** Compare out-of-hours scheduling, protection of equipment and records, product documentation and contact time, staff training, incident reporting, visit frequency and repeat-treatment charges.
+
+**Quotation request checklist:** Share floor plans, touchpoint inventories, operating hours and restricted zones. Request a visit schedule assigning room clearance, equipment protection, area-by-area records and incident escalation.
 
 **Acceptance check:** Obtain zone-by-zone timestamps and product records, check equipment and furniture condition, and confirm staff re-entry instructions; an unspecified certificate does not prove efficacy.
 

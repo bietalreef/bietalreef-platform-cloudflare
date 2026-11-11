@@ -320,18 +320,34 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "2026-11-11: Engineering services 22–28 independently rewritten in AR/EN; 49 sequential headings verified in each language. Area 84/434; 350 remain. Next service 29 (تصميم المجالس). No publication approval.",
+      "review_note": "2026-11-11: independently rewrote maintenance services 1–14 AR/EN, re-fetched and verified 105 headings per language. Cumulative 119/434; 315 remain. Next maintenance service 15 تشطيب الفلل. No publication approval.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الصيانة العامة",
-        "independently_rewritten_services": 105,
+        "specialty": "التشطيبات المتكاملة",
+        "independently_rewritten_services": 14,
         "area_total": 434,
-        "next_service_number": 1,
-        "remaining_in_sector": 105,
-        "remaining_area_services_for_originality_review": 329,
+        "area_independently_rewritten": 119,
+        "next_service_number": 15,
+        "remaining_in_sector": 91,
+        "remaining_area_services_for_originality_review": 315,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "rewritten_service_numbers": []
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
       }
     },
     {

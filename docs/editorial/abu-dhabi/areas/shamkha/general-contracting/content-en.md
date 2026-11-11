@@ -9,25 +9,25 @@ This guide describes company and establishment services in Al Shamkha; it is nei
 
 ## Building and villa construction
 ### Villa construction
-Start with approved drawings showing floor areas, storeys and plot limits. Ask for a bill of quantities separating excavation, structure, waterproofing, finishes and building services. Check inspection milestones and handover requirements; a single rate per square metre is not a complete specification.
+For a villa project in Al Shamkha, first state the intended floor area, number of levels, rooms, majlis and parking spaces, and supply plot drawings, levels and utility connection information where available. 'Turnkey villa' is not a priced specification: request a bill of quantities separating excavation, foundations, frame, blockwork, waterproofing, HVAC, electrical systems and finishes, with explicit exclusions. Compare bids against identical drawing revisions, material performance or brands, procurement lead times, testing and supervision duties. At handover check approved-drawing compliance, test records, system operation, defects and warranties.
 
 ### Residential building construction
-State the number of units, shared spaces, lifts and central services. The quotation should allocate responsibility for structural and MEP coordination, commissioning, and handover documentation for individual units.
+A multi-unit residential building cannot be estimated from gross floor area alone. Specify apartment numbers and types, circulation areas, stairs, lifts, tanks, service rooms and parking. Share floor plans, elevations and services layouts, and ask bidders to distinguish shared infrastructure from individual-unit fit-out. Compare who coordinates mechanical and electrical installations, applicable fire-system testing and utility connections. Handover should separately inspect each apartment and then commission common areas, with maintenance records and outstanding defects documented.
 
 ### Commercial building construction
-Provide the intended use, expected loads, entrances, façade requirements and service needs. Compare proposals on operational requirements, material approvals and tenant-ready interfaces rather than floor area alone.
+For a commercial building, the intended use determines the required access, electrical loads, ventilation and delivery arrangements. Describe the proposed activities and anticipated occupancy before pricing the structure and façade. Clarify whether tenant interiors are included or the contract ends at the shell, base services and connection points. Compare equipment capacity, maintenance access and flexibility of future partitions rather than façade appearance alone. Request as-built drawings, test records and a clear defect-resolution responsibility before occupation.
 
 ### Building works execution
-Identify whether the request covers blockwork, masonry, structural components or site works, and attach drawings and quantities. Ask how materials, access equipment, waste removal and measurement of completed work are included.
+'Building works' might mean block partitions, openings, stairs or external site elements rather than an entire project. Supply drawings with wall lengths, heights, thicknesses and door or window openings, together with site photographs and access constraints. The quote should specify block and mortar types, any drawing-required reinforcement, scaffolding, transport and waste removal. Inspect alignment, levels, opening dimensions and material junctions before plastering; changes to load-bearing elements require designer review.
 
 ### Concrete works
-Supply structural drawings and reinforcement schedules, with the specified concrete grade, placing, curing and testing requirements. At acceptance, check records, results, levels and dimensions; structural changes require designer review.
+Concrete works should be itemised by element—footing, column, beam, slab or stair—with dimensions, levels, reinforcement schedules and the design-specified concrete strength. Before pouring, inspect formwork, cover, service penetrations and hold points, and assign responsibility for sampling, testing and curing. Two quotations are not comparable if one excludes pumps, formwork or tests. After pouring, retain delivery and test records, document curing and inspect honeycombing, geometry and levels with the supervising engineer; structural defects cannot be signed off as cosmetic repairs.
 
 ### Structural frame construction
-Separate foundations, columns, beams, slabs and stairs, with hold points before closing formwork or pouring. Compare steel, concrete, formwork and testing inclusions, and request as-built records.
+For a villa or building structural frame, separate excavation, foundations, columns, beams, slabs and stairs, with payment milestones tied to measurable inspected work. Provide structural drawings, any available ground investigation and existing utility information. Ask who supplies temporary supports, manages lifting safety and inspects reinforcement before each pour. Compare steel and concrete quantities, curing and testing scope, not just a lump-sum frame price. Before finishes begin, check inspection reports, test results, levels, openings and as-built records.
 
 ### Turnkey project delivery
-Define precisely whether design, approvals, construction, HVAC, kitchens, external works and commissioning are included. Require explicit exclusions, milestone-linked payments and a snag list before final acceptance.
+'Turnkey' has no reliable scope unless the contract defines it. List rooms, areas and finish standards, and state whether design, permits, structure, HVAC, kitchens, cabinetry, external works, lighting and appliances are included. Require a schedule of specifications, approved samples, substitutions, exclusions and variation approval rules. Compare offers on deliverables and commissioning obligations rather than headline price alone. Handover includes operational tests, a snag list, keys, warranties, manuals and final drawings.
 
 ### New villa construction
 Review the relationship between the proposed villa, parking, access and outdoor plant locations. Before contracting, coordinate architectural, structural and MEP drawings and assign responsibility for resolving clashes.

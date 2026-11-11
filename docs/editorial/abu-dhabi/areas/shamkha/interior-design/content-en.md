@@ -192,31 +192,38 @@ Reception design must serve both first impressions and everyday operations. Defi
 
 ### 43. Floor finish selection
 
-Match each room's use, moisture, cleaning and loads to the existing substrate. Request physical samples, slip-performance data, installation method and joints. Compare material costs including substrate preparation and waste; receive a room-by-room floor schedule.
+Floor finish selection starts with use, furniture traffic, moisture and cleaning requirements rather than colour alone. Measure clear areas, door thresholds, level changes and junctions between materials. Compare physical samples for slip resistance, scratching, maintenance, installation method and substrate preparation. The finish schedule should identify product, tile or plank size, laying direction and estimated waste allowance. At handover, check sample compliance, movement joints and transition details.
+
 
 ### 44. Paint colour selection
 
-Assess daylight, window orientation, furniture and adjacent colours. Test painted wall samples under different lighting; compare sheen and washability. Receive exact colour codes, finishes and application locations.
+Paint colours should be tested on the actual wall in daylight and artificial light before quantities are ordered. Photograph the room and record floor and furniture colours, window orientation and substrate condition. Request coded samples showing sheen and washability, with primer and preparation requirements if these are part of the specification. Compare coherent colour schemes rather than generic brand descriptions. Receive a numbered palette with application locations and approve a trial area before full painting.
+
 
 ### 45. Stone and tile selection
 
-Define locations, moisture exposure, tile size and traffic. Inspect samples for veining, variation, absorption and texture. Compare cutting waste, adhesives and grout; receive setting-out drawings, starting points and reference samples.
+Marble and ceramic selection depends on location, loading, exposure to water and cleaning chemicals. Supply measured floor and wall areas and positions of drains, corners and openings. Compare tile sizes, thickness, surface finish, shade variation and laying patterns, including joints, skirting and edge details. Check physical samples, product information and cleaning guidance before ordering. At handover, match batch and pattern references to the materials board and verify junctions with doors and sanitary fittings.
+
 
 ### 46. Furniture specification
 
-Set budget, dimensions, daily use, quantities and warranty expectations. Compare frames, upholstery, filling, maintenance and quoted lead times without assuming availability. Receive an itemised furniture schedule with approved dimensions, colours and materials.
+Furniture selection needs a room-by-room budget, accurate dimensions and a workable delivery and assembly route. Identify existing pieces to retain, user numbers, storage needs and fabric cleaning requirements. Request a schedule listing dimensions, materials, colours, quantities and acceptable alternatives without assuming stock availability. Compare suppliers against identical specifications, warranties, assembly and delivery arrangements. Approve fabric and finish samples or unambiguous product references before placing orders.
+
 
 ### 47. Lighting selection
 
-Identify tasks, general and accent lighting needs. Review colour temperature, glare, controls, maintenance and ceiling compatibility. Compare performance specifications, not fixture count alone; receive a luminaire schedule and control circuit plan.
+Lighting selection begins with tasks such as reading, food preparation, merchandise display and general illumination, coordinated with daylight, ceilings and HVAC. Supply a furniture plan, ceiling heights and existing switch positions. Request luminaire positions, types, colour temperature, controls and electrical data, considering glare and maintenance access. Compare technical schedules rather than attractive product photographs alone. Receive a fixture schedule and circuit layout, and test positions where needed before ceiling openings are cut.
+
 
 ### 48. Material mood board
 
-Combine flooring, wall, fabric, metal and wood samples with supplier references. Compare colour harmony, texture, cleaning and batch variation. Receive a dated board linking each physical sample to its intended location rather than relying only on images.
+A materials board consolidates final choices so procurement does not drift away from the design. Request physical samples or precise product codes for flooring, paint, timber, metals and fabrics, photographed in suitable light with alternatives recorded. Each sample should be linked to a room, surface and finish-schedule item, with acceptable shade or texture variation stated. Compare designers' offers by sample scope and approval rounds. Receive a dated, approved board before purchasing.
+
 
 ### 49. Finish schedule preparation
 
-After material approval, map each room to wall, floor, ceiling and skirting finishes, colour codes and reference quantities. Check consistency with drawings and samples and clarify supply-versus-installation scope. Receive a revision-controlled schedule suitable for pricing and execution.
+A finishes schedule translates visual decisions into instructions that can be priced and inspected. For each room and surface, specify material code, colour, size, installation method, edges and skirting, cross-referenced to plans and elevations. Ask the designer to identify items needing site samples or supplier approval and conditions for substitutions. Compare schedule-preparation proposals by surface coverage, details and revision scope. At handover, check codes, indicative quantities and drawing revisions for consistency before procurement.
+
 
 ## Brief before hiring a designer or consultant
 

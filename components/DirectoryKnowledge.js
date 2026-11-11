@@ -87,7 +87,7 @@ const topics = [
         'تحقق من سريان الرخصة والنشاط والتصنيف لدى الجهة المختصة، واطلب نماذج أعمال مناسبة ومخرجات واضحة وجدولًا للمراجعة. ظهور الشركة في المنصة أو تقييم العملاء لا يعني وحده اعتمادًا حكوميًا.',
         'قارن نطاق الخدمة والمسؤوليات والمواعيد، وليس السعر الإجمالي فقط. تختلف متطلبات التصنيف والموافقات باختلاف الإمارة والمشروع.'
       ],
-      action: 'تصفح المكاتب الهندسية', href: '/providers/specialty/engineering-consultants',
+      action: 'تصفح المكاتب الهندسية', href: '/providers/specialty/interior-design',
       sourceLabel: 'الشركات الهندسية ذات التصنيف الساري في أبوظبي', source: 'https://pages.dmt.gov.ae/en/Engineering-Firms'
     },
     en: {
@@ -97,7 +97,7 @@ const topics = [
         'Check the licence, permitted activity and classification with the responsible authority. Request relevant examples, defined deliverables and a review timetable. A platform listing or customer rating is not itself government accreditation.',
         'Compare scope, responsibilities and dates as well as price. Classification and approval requirements vary by emirate and project.'
       ],
-      action: 'Explore engineering consultancies', href: '/en/providers/specialty/engineering-consultants',
+      action: 'Explore engineering consultancies', href: '/en/providers/specialty/interior-design',
       sourceLabel: 'Abu Dhabi: engineering firms with valid classification', source: 'https://pages.dmt.gov.ae/en/Engineering-Firms'
     }
   },

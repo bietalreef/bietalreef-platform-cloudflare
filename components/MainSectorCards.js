@@ -5,16 +5,11 @@ import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 import { SERVICE_CATEGORIES } from '../data/siteTaxonomy';
 
 // Reuse existing catalog routes; never invent a parallel sector tree.
-const CATEGORY_SLUGS = {
-  'general-contracting': ['general-contracting'],
-  'interior-design': ['engineering-consultants', 'interior-design'],
-  'general-maintenance': ['general-maintenance', 'finishing-works'],
-  'building-materials': ['building-materials'],
-  'aluminium-glass': ['aluminium-glass', 'workshops', 'carpentry'],
-  'furniture-decor': ['furniture-decor'],
-  'equipment-rental': ['equipment-rental', 'workshops'],
-  'cleaning-services': ['cleaning-services'],
-};
+// Use the single approved sector taxonomy. Legacy subcategory routes may remain
+// accessible independently, but primary sector cards must not point to them.
+const CATEGORY_SLUGS = Object.fromEntries(
+  UAE_MAIN_SECTORS.map(sector => [sector.slug, [sector.slug]])
+);
 
 const AL_AIN_CHOICES = {
   'general-contracting': [['general-contracting', 'المقاولات والبناء', 'Contracting and construction']],

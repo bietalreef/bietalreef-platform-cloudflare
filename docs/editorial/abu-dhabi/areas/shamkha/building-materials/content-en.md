@@ -10,31 +10,31 @@ A useful supply request specifies units, measurements, grades and delivery phase
 
 ### 1. Cement supply
 
-Specify cement type, bag quantity, manufacture date and dry storage. Compare certificates, quantities, waste and unloading; inspect bags for damage and caking.
+For cement delivery to an Al Shamkha project, identify whether it is intended for concrete, mortar or plaster and use the designer's specification to select the appropriate type. Provide tonnage or bag count, the planned pour or work date, and dry storage arrangements; unloading conditions can affect the delivered cost. Ask for manufacturer, cement type, bag weight, production date, freight and return terms on the quote. Match the delivery documents to the order and reject bags showing moisture damage or hard lumps.
 
 ### 2. Sand supply
 
-State whether sand is for concrete, plaster or fill and how volume or mass is measured. Compare grading, cleanliness, moisture and haulage; check delivery quantity and visible contamination.
+A request for a truckload of sand is not precise enough: fill material and sand for mortar or plaster have different grading and cleanliness requirements. Provide estimated cubic metres or a verified weight, plus photographs showing vehicle access and the unloading area. Compare source, measurement method, transport and discharge charges. Inspect the sample for debris and unwanted clumps; where sand forms part of a structural mix, the qualified designer must specify testing and acceptance criteria.
 
 ### 3. Aggregate supply
 
-Specify aggregate size, required grading, volume and vehicle access. Compare quality, contamination and weighbridge records; verify size and clean unloading.
+For concrete or site layers, give the nominal aggregate size, grading and quantity specified by the mix design or work specification. A photograph of the unloading boundary helps prevent contamination with soil or other materials. Compare quarry source, test evidence where required, net weight and haulage. At receipt, inspect apparent grading and cleanliness and reconcile the weighbridge ticket before accepting later loads.
 
 ### 4. Concrete block supply
 
-Set block dimensions, wall thickness, design strength, piece count and allowance for breakage. Compare consistency, damage, delivery batches and pallet handling; approve samples before the remaining shipment.
+State whether blocks are for an external wall or an internal partition, and attach drawings showing thickness, dimensions, quantities and openings. The quote should identify block type, size and specified performance, pieces per pallet, acceptable breakage and any lifting charges. Check samples from each batch for dimensions, edges and major fractures. Do not substitute a different block specification without the designer's approval.
 
 ### 5. Reinforcing steel supply
 
-Provide bar diameter, length, grade and tonnage schedules tied to structural drawings. Compare mill certificates, batch traceability, cutting and transport; check diameters and documented weight.
+Order reinforcement from approved structural drawings or a bar-bending schedule showing diameters, grades, lengths and quantities. Compare more than the price per tonne: require mill certificates, batch traceability, cutting and bending services, loading and delivery lead time. On arrival, reconcile bar markings, counts, weight and dispatch notes. Segregate damaged bars or those with significant flaking corrosion for assessment by the responsible engineer.
 
 ### 6. Ready-mix concrete supply
 
-Define mix grade, pour volume, pump rate, truck intervals and access. Compare mix design, additives, slump checks, sampling and waiting costs; inspect each batch ticket.
+Before booking ready-mix, provide pour volume in cubic metres, specified strength grade, pump location, truck access, start time and expected placing rate. Separate concrete, pumping, waiting time, admixtures and testing in the quotation, including sampling responsibilities. During the pour, check each truck ticket for the ordered mix and batching time, and follow the project engineer's acceptance procedure. Do not add water on site without approval.
 
 ### 7. Project building-material packages
 
-Group materials by construction stage rather than ordering an undifferentiated package. Compare like-for-like units, approved substitutions, delivery phases and storage; reconcile receipts with quantities.
+Split a combined materials request into structural works, MEP installations, finishes and consumables. Record each item's unit, quantity, grade, approved alternatives and required date, and attach storage and vehicle-access photographs. Compare suppliers against the same bill of quantities, including freight, lifting, wastage and returns. Reconcile partial receipts and batch references instead of relying on one aggregate invoice.
 
 ### 8. Gypsum materials supply
 

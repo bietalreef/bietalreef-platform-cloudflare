@@ -321,11 +321,11 @@
       "editorial_progress": {
         "sector": "interior-design",
         "specialty": "التصميم الداخلي والمواد",
-        "independently_rewritten_services": 91,
+        "independently_rewritten_services": 98,
         "area_total": 434,
-        "next_service_number": 36,
-        "remaining_in_sector": 14,
-        "remaining_area_services_for_originality_review": 343,
+        "next_service_number": 43,
+        "remaining_in_sector": 7,
+        "remaining_area_services_for_originality_review": 336,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -363,7 +363,14 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
         ]
       }
     },

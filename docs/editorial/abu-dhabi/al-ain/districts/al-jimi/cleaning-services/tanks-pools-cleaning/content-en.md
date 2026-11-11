@@ -18,7 +18,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Quotation checkpoints:** Clarify whether hatch, rim and exposed fitting cleaning are included, and how clean surfaces and outlets will be protected from recontamination.
 
-**Additional acceptance checks:** Inspect visible sediment at the floor and corners, secure closure of openings, and a separate defect list for any repairs.
+**Handover evidence:** Request post-cleaning photos of the floor and corners, the time the supply was restored, and a note of any separately required disinfection or water testing. A cleaning record is not proof of drinking-water potability.
 
 ## 2. Water tank disinfection
 
@@ -54,7 +54,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Quotation checkpoints:** Separate brushing and vacuuming from filter servicing and water-chemistry adjustment, and identify who supplies chemicals or repairs faulty pumps.
 
-**Additional acceptance checks:** Inspect the waterline and floor, review agreed test readings and confirm the pool is suitable for reopening.
+**Handover and reopening:** Request a record of basket cleaning and any contracted filter backwash, plus the agreed water-test readings. Clear-looking water alone is not sufficient evidence that swimming is safe; reopening depends on appropriate operational and water-safety checks.
 
 ## Request a quotation
 

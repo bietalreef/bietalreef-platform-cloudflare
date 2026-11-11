@@ -12,7 +12,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check safe access, wastewater handling and water outage; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
 
-**Acceptance:** Verify visible sediment, cover and valve integrity and dated evidence. Record outstanding issues with dated photos.
+**Acceptance:** Check that visible sediment has been removed from the floor and corners, inspect the cover and valves, and document defects requiring separate repair. Record outstanding issues with dated photos.
 
 **Execution and safety details:** Agree on isolating the water supply and a wastewater disposal route that will not damage the property. Tank entry requires a confined-space risk assessment, suitable equipment and supervision; external cleaning methods may be preferable where practicable.
 

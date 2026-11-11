@@ -29,7 +29,10 @@ export default function DirectoryLandingPage({locale='ar',mode='uae',rehab=null,
  const cityOptions=location?(emirate==='abu-dhabi'?location.areas.filter(a=>ABU_DHABI_DESTINATIONS.some(c=>c.slug===a.slug)||ABU_DHABI_AREAS.includes(a.slug)):location.areas):[];
  const scopedSectors=UAE_MAIN_SECTORS;
  const filtered=scopedSectors.filter(c=>matchesDirectorySector(c,query,type));
- const hrefFor=c=>(mode==='uae'&&!emirate)?null:discoveryPath({locale,emirate,city,sector:c.slug});
+ // Every sector card must be a real server-rendered link for customers and crawlers.
+ // With no emirate selected, use the existing national sector page; location-specific
+ // selections retain their existing canonical city/emirate paths.
+ const hrefFor=c=>discoveryPath({locale,emirate,city,sector:c.slug});
  const explore=emirate?(sector?hrefFor({slug:sector}):discoveryPath({locale,emirate,city})):null;
  const path=`${prefix}/uae${isEmirate?'/'+mode:''}`;
  const title=otherEmirate?(en?`${emirateName} companies, shops & suppliers directory | Biet Alreef`:`دليل شركات ومحلات وموردي ${emirateName} | بيت الريف`):abu?(en?'Abu Dhabi companies, shops & suppliers directory | Biet Alreef':'دليل شركات ومحلات وموردي أبوظبي والعين | بيت الريف'):(en?'UAE companies, shops & suppliers directory | Biet Alreef':'دليل الشركات والمحلات والموردين في الإمارات | بيت الريف');

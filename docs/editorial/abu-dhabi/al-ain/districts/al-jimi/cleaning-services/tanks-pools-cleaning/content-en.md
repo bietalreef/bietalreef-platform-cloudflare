@@ -40,9 +40,9 @@ This is preparatory information for company and establishment services, not a li
 
 ## 3. Swimming pool cleaning
 
-**When it is needed:** algae and deposits along waterline and floor.
+**When it is needed:** Algae in tile joints, dirt along the waterline or a pool being reopened after a filtration shutdown may call for cleaning. Distinguish surface deposits from cloudy water: the latter may also require a pump and filter check or water-chemistry testing before the scope is agreed.
 
-**Photos and specifications:** Provide pool length, depth, tile, filter and pump-room photos.
+**Photos and specifications:** Share pool length, width and approximate average depth, plus photos of the waterline, corners, skimmer baskets, drain covers, surface finish and pump room. Mention the last cleaning date, loose tiles or cracks, and any chemicals added recently.
 
 **Scope and exclusions:** skimming, brushing, vacuuming and basket cleaning; structural leak repair and filter replacement excluded.
 

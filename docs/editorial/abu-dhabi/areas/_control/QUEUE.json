@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "2026-11-11: independently rewrote maintenance services 1–14 AR/EN, re-fetched and verified 105 headings per language. Cumulative 119/434; 315 remain. Next maintenance service 15 تشطيب الفلل. No publication approval.",
+      "review_note": "Independently rewritten 133/434 bilingual services; maintenance 28/105; next service 29 ceramic tiling. 301 remaining; in_progress; no publication.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "التشطيبات المتكاملة",
-        "independently_rewritten_services": 14,
+        "specialty": "الأرضيات والكسوات",
+        "independently_rewritten_services": 28,
         "area_total": 434,
-        "area_independently_rewritten": 119,
-        "next_service_number": 15,
-        "remaining_in_sector": 91,
-        "remaining_area_services_for_originality_review": 315,
+        "area_independently_rewritten": 133,
+        "next_service_number": 29,
+        "remaining_in_sector": 77,
+        "remaining_area_services_for_originality_review": 301,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -346,7 +346,21 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
         ]
       }
     },

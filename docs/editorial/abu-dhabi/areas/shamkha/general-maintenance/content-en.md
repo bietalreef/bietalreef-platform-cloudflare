@@ -70,61 +70,61 @@ Provide the address, property type, clear photographs, task list, approximate di
 
 ### 15. Villa finishing
 
-Start with the condition of the structure and installed services, floor count, room schedule and wall and floor areas. Request a materials schedule identifying tile grades, paint systems, doors and sanitary fittings, plus inspections of waterproofing, plumbing and electrical work before ceilings and finishes are closed. Compare measured quantities, specifications and payment milestones; hand over each room against a snag list, photographs and functional tests.
+Before pricing a villa fit-out, survey the structure, installed services and room plans, measuring wall, ceiling and floor areas separately. Define finish standards room by room, specify products or performance characteristics, and approve samples before ordering. Compare contractors against one bill of quantities and schedule waterproofing, pressure and electrical tests before concealed work is closed. At handover check surface levels, doors, wet-area drainage and system operation, recording defects by room.
 
 ### 16. Apartment finishing
 
-Provide the apartment plan, floor area, building-management rules and permitted working hours, and identify existing finishes to retain. Separate demolition and waste removal from flooring, painting, kitchen and bathroom costs, including protection of lifts and corridors. At handover check wet-area falls, joints, doors, lighting and cleanliness of shared areas.
+Finishing an apartment in an occupied building requires protection of lifts and corridors, controlled working hours and waste arrangements. Provide a floor plan, bathroom and kitchen photographs, floor levels and a clear keep-or-remove schedule. Price protection, stripping, waterproofing, tiling, painting and sanitary fixtures separately. Inspect bathroom falls, thresholds, drainage and switches, and confirm that shared areas are restored after work.
 
 ### 17. Retail-shop finishing
 
-Specify the business use, sales and storage areas, display positions and power and data outlets, with an existing-condition plan and landlord requirements. Obtain shopfront, counter, ceiling and lighting shop drawings before pricing. Compare materials, lead times and tests, and inspect dimensions, finish quality and access to concealed services.
+Start with a plan showing the business use, customer circulation, counter, storage, power, data and air-conditioning. Survey columns, actual dimensions and frontage before approving fabrication drawings, and record landlord requirements without claiming permission has been granted. Compare partitions, flooring, shopfront, lighting, signage and exclusions. Test circuits and lights, check display-unit stability and maintenance access, and inspect the cleared site.
 
 ### 18. Office finishing
 
-Staff numbers, meeting rooms and circulation determine partitioning and service locations. Supply a furniture layout and power and network point schedule, with acoustic partition requirements where needed. Compare partitions, flooring, ceilings, lighting and data as distinct items; test outlets, lighting and doors before acceptance.
+Establish workstation counts, meeting rooms, circulation and network and power outlets before choosing partitions and ceilings. Photograph service locations, measure clear ceiling heights and door widths, and specify acoustic performance rather than accepting a vague 'soundproof' label. Compare material schedules, doors, lighting, data points and milestones. Verify labelled outlets, operation, partition alignment and door clearances at handover.
 
 ### 19. Interior-space refurbishment
 
-Photograph the current space, identify elements to retain and explain whether damage or poor layout drives the change. Quotations should separate stripping, protection, substrate repair and new finishes and describe any electrical or plumbing alterations. Approve physical colour and material samples, then inspect junctions between materials and final dimensions.
+Renovation does not always require removing every finish. Identify sound elements to retain, sources of damage and services behind cladding. Mark demolition, retention and additions on a plan with photographs, measurements and protection for occupied rooms. Compare targeted repair with full renewal, including downtime. Check transitions between old and new finishes and retest any relocated services.
 
 ### 20. Decorative fit-out work
 
-Supply a dimensioned drawing or reference board showing cladding, battens and concealed lighting. Compare thickness, fixing method, maintenance access and moisture suitability rather than appearance alone. Check straight lines, corners, joints, secure fixing and lighting performance after installation.
+Translate a visual concept into dimensioned installation drawings, levels and fixing details, especially where wood, metal or glass meets lighting. Approve samples for colour, texture and edges, and specify moisture or heat resistance where relevant. Quotations must distinguish lighting, wiring, painting, supply and installation. Inspect joint consistency, secure fixings and access to lighting components for maintenance.
 
 ### 21. Integrated finishing handover
 
-This is inspection and closure of outstanding work, not a synonym for undertaking the entire fit-out. Request a room-by-room register of completed and outstanding items, test results, warranties and material records. Verify remedial photographs and repeat tests, then record accepted items and exceptions in writing before closing the project.
+Arrange staged acceptance rather than relying on appearance alone: review concealed-work test records, then inspect each room against plans and approved material schedules. Log each defect with its location, photograph, priority, owner and retest date. Cleaning does not close a technical defect. Obtain agreed as-built records, operating manuals and warranties, and witness retests before signing off corrected items.
 
 ## Gypsum and decorative work
 
 ### 22. Gypsum ceiling installation
 
-Record existing and proposed ceiling heights, room areas, AC and light positions and maintenance openings. Compare board type, metal framing, hanger spacing and moisture suitability. Inspect levelness, fixing, edge junctions and service access before painting.
+Measure the slab level and proposed finished ceiling height, locating AC diffusers, sprinklers, lights and access panels. Request a suspension layout, appropriate fixings and board types suited to use and moisture exposure. Compare ceiling area, edge details, cut-outs and painting rather than price per square metre alone. Inspect flatness, joint cracking, opening alignment and access to overhead equipment.
 
 ### 23. Gypsum partition walls
 
-Mark partition lines, opening and door sizes and any wall-mounted loads, including acoustic privacy requirements. Bids should specify board layers, studs, internal insulation and reinforcement. Check plumbness, frame stability, outlet positions and joint finishing.
+Specify partition length and height, door positions, intended wall-mounted loads and required acoustic privacy. Check concealed services, stud sizes, board layers, insulation and moisture protection where relevant. Compare reinforcement for screens and cabinets and junction details at floors and ceilings. Verify alignment, door stability, finished joints and access to service points.
 
 ### 24. Concealed-light coves
 
-Specify cove length, depth, light setback, LED strip type and driver location. Compare edge finish, driver ventilation and replacement access, not only the visual effect. Test even illumination, glare and straightness of the opening.
+Prepare a cove section showing recess depth, LED-strip position, cable route and an accessible driver location. Test a short on-site sample for light spread, visible diode points and unwanted shadows. Separate gypsum work from strips, drivers, controls and paint in the quotation. Run a suitable functional test and inspect heat, maintenance access and straight light lines.
 
 ### 25. Decorative gypsum features
 
-Provide drawings of projections, curves and ornaments with dimensions and positions. Ask for a small sample where details are complex, and compare shaping, framing and painting costs separately. Check symmetry, sound edges and crack-free junctions.
+Dimension cornices, frames and ornaments, including corner joints, and approve a sample profile before repetition. Check the substrate, fixing method, component weight and clearance around doors or curtain tracks. Compare manufacture, installation, joint finishing and painting. Inspect matching profiles, aligned corners and joints after compounds have dried.
 
 ### 26. Wood-effect panel installation
 
-Measure the wall, slat direction, corners and outlets, and identify the substrate; approve an actual colour and texture sample. Compare moisture and scratch resistance, fixing method and end trims. Inspect consistent joints, secure panels and clear door and outlet operation.
+Measure wall areas, grain direction, joints, ends and corners, and check wall flatness and dampness before fixing. Approve a sample showing thickness, finish, cleaning method and suitability for the room. Compare panels, adhesive or mechanical fixings, trims and edge treatment. Verify pattern continuity, secure panels, tight joints and unobstructed sockets.
 
 ### 27. Marble-effect panel installation
 
-Measure walls and openings and identify heat and water exposure; not every panel suits every surface. Obtain panel composition, thickness, adhesive and substrate-preparation details, and compare joint layout and pattern direction. Check flatness, sealed edges and neat treatment around sockets and corners.
+Plan panel joints before cutting, particularly around basins and service openings. Measure wall areas, outlets and pipes, and request the product's moisture, heat and cleaning characteristics rather than treating it as natural stone. Compare supply, cutting, fixing, edge closure and suitable sealants. Check flatness, pattern matching, protected edges and resistance to water pooling at joints.
 
 ### 28. Gypsum repair and maintenance
 
-Document cracks, swelling or water marks before covering them. Investigate moisture ingress or frame movement first, then decide whether local patching or board and framing replacement is required. Inspect repair firmness, skim-coat flatness and paint matching after drying.
+Do not fill a gypsum crack before checking for movement, weak suspension or leakage above the ceiling. Photograph and measure the damage, inspect adjacent boards and services, and specify replacement boards, framing repairs and the extent of repainting. Inspect the dried surface under raking light for waves, and verify that any moisture source has been addressed.
 
 ## Flooring and wall cladding
 

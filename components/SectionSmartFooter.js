@@ -225,10 +225,17 @@ function LinkList({ items, locale }) {
 
 function getActivityLinks(directoryCards, sectionKey, locale) {
   if (sectionKey === 'providers' || sectionKey === 'services_offers') {
-    const root = sectionKey === 'providers' ? '/providers' : '/services';
+    // Expose actual HTML links to each of the eight approved canonical sector pages.
+    // Fragment links to /providers or /services do not pass a direct discovery path
+    // from the shared footer to the sector-level editorial and company directory.
+    const base = sectionKey === 'providers'
+      ? (locale === 'en' ? '/en/providers/specialty' : '/providers/specialty')
+      : (locale === 'en' ? '/en/categories' : '/services');
     return UAE_MAIN_SECTORS.map(sector => ({
-      label: sector.name[locale],
-      href: `${locale === 'en' ? '/en' : ''}${root}#sector-${sector.slug}`,
+      label: sector.slug === 'cleaning-services'
+        ? (locale === 'en' ? 'Cleaning companies and services' : 'شركات تنظيف وخدمات التنظيف')
+        : sector.name[locale],
+      href: `${base}/${sector.slug}`,
     }));
   }
   const databaseCards = directoryCards

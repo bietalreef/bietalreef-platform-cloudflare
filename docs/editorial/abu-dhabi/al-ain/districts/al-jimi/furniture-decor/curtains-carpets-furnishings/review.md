@@ -14,3 +14,5 @@
 - Editorial note: final regional audit must still check all other specialties and the 434-service taxonomy before marking Al Jimi complete.
 
 - 2026-11-11: Replaced five identical Arabic quotation-request paragraphs with service-specific input and cost-comparison prompts; verified by reading the saved GitHub file. Regional audit remains `in_progress`.
+
+- 2026-11-11: Rewrote all five English quotation requests to distinguish measurements, materials, installation exclusions and cost breakdowns for curtains, rails, upholstery fabrics, carpets and mattresses. Re-read the GitHub file and verified the saved text.

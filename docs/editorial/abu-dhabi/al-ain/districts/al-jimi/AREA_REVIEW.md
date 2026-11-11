@@ -785,3 +785,11 @@
 - أُعيدت قراءة ملفات اللغتين والمراجعة لتخصص `cleaning-services/pest-rodent-control`؛ الخدمات الخمس بالترتيب: مكافحة الصراصير، مكافحة النمل، مكافحة القوارض، مكافحة بق الفراش، عقود المكافحة الدورية. روجعت تعليمات التشخيص والطُعم والعودة الآمنة والمتابعة وسد المنافذ وتوثيق محطات الرصد، دون ادعاء القضاء الفوري على الإصابة. [العربي](./cleaning-services/pest-rodent-control/content-ar.md) · [English](./cleaning-services/pest-rodent-control/content-en.md) · [المراجعة](./cleaning-services/pest-rodent-control/review.md).
 - حصيلة هذا التدقيق: 9 عناوين خدمة عربية و9 إنجليزية، و6 ملفات مقروءة؛ هذه مراجعة تفصيلية لهذين التخصصين فقط ولا تعادل تدقيق 434 خدمة لكل لغة.
 - **أول نقص تالٍ محدد:** إجراء جرد شامل من المصدر لكل تخصصات الشركات الخمسين مقابل عناوين ملفات `content-ar.md` و`content-en.md` وتسجيل الاختلافات الدقيقة؛ إعادة تدقيق جودة فقرات تخصصات `equipment-rental` الثمانية و`cleaning-services` الثمانية، مع الأولوية لأي تكرار أو نقص في السلامة أو التصنيفات المقيدة/المقترحة؛ تحديث `review.md` لأي تخصص يظهر به خلل؛ ثم اعتماد المنطقة فقط عند اكتمال المطابقة الثنائية لجميع الخدمات الـ434.
+
+
+## مراجعة إضافية للمعدات — 2026-11-11
+
+- الحالة: `in_progress`، لا تُعتمد الجيمي مكتملة ولا يبدأ المويجعي.
+- تم تعزيز تنبيهات سلامة الرفع في [تأجير معدات البناء والرفع](./equipment-rental/construction-lifting-equipment/content-ar.md) و[الإنجليزية](./equipment-rental/construction-lifting-equipment/content-en.md) بشأن تحمل الأرض والرياح ونصف قطر الرفع؛ [المراجعة](./equipment-rental/construction-lifting-equipment/review.md).
+- أضيفت متطلبات توثيق التسليم وفحص المعدات في [تأجير الأدوات الخفيفة](./equipment-rental/light-tools-rental/content-ar.md) و[الإنجليزية](./equipment-rental/light-tools-rental/content-en.md)؛ [المراجعة](./equipment-rental/light-tools-rental/review.md). تمت إعادة قراءة الملفات الستة بعد الرفع وتطابقت.
+- **النواقص التالية المحددة:** تدقيق الخدمة بخدمة لبقية تخصصات `equipment-rental`: `aluminium-glass-factories`، `marble-stone-factories`، `tools-equipment-stores`، `property-moving`، `project-material-transport`، `concrete-block-factories`؛ ثم تدقيق جميع تخصصات `cleaning-services` الثمانية؛ وأخيرًا جرد ومطابقة 50 تخصصًا و434 خدمة في كل لغة مع الشجرة الأصلية، والتفرد والسلامة والتصنيفات المقيدة والمقترحة. لا تكفي إضافة التنبيهات لاعتماد هذه الخدمات.

@@ -1,4 +1,37 @@
 const { AREAS } = require('./data/localServices');
+// Retire pre-migration directory URL patterns from the Vercel-era taxonomy.
+// These are 301 aliases into the existing 8-sector editorial paths, not new pages.
+const LEGACY_DIRECTORY_SECTORS = {
+  'construction-contracting': 'general-contracting',
+  'engineering-design': 'interior-design',
+  'maintenance-finishing': 'general-maintenance',
+  'building-materials-supply': 'building-materials',
+  'aluminium-glass-wood': 'aluminium-glass',
+  'cleaning-operations-equipment': 'cleaning-services',
+  'factories-workshops-stores': 'equipment-rental',
+};
+const LEGACY_DIRECTORY_SECTIONS = 'providers|services-offers|products-stores';
+const AL_AIN_LEGACY_DISTRICTS = AREAS.map(area => area.slug).join('|');
+function legacyDirectoryRedirects() {
+  return ['', '/en'].flatMap(prefix => Object.entries(LEGACY_DIRECTORY_SECTORS).flatMap(([legacy, current]) => [
+    {
+      // Match reviewed Al Ain districts before the generic Abu Dhabi area route.
+      source: `${prefix}/uae/abu-dhabi/:area(${AL_AIN_LEGACY_DISTRICTS})/directory/:section(${LEGACY_DIRECTORY_SECTIONS})/${legacy}`,
+      destination: `${prefix}/uae/abu-dhabi/al-ain/:area/${current}`,
+      permanent: true,
+    },
+    {
+      source: `${prefix}/uae/:emirate/:area/directory/:section(${LEGACY_DIRECTORY_SECTIONS})/${legacy}`,
+      destination: `${prefix}/uae/:emirate/:area/${current}`,
+      permanent: true,
+    },
+    {
+      source: `${prefix}/uae/:emirate/directory/:section(${LEGACY_DIRECTORY_SECTIONS})/${legacy}`,
+      destination: `${prefix}/uae/:emirate/${current}`,
+      permanent: true,
+    },
+  ]));
+}
 // Canonical national guides reuse the current UAE_MAIN_SECTORS; this is a redirect list only.
 const NATIONAL_GUIDE_PATHS = ['general-contracting','interior-design','general-maintenance','building-materials','aluminium-glass','furniture-decor','equipment-rental','cleaning-services'];
 /** @type {import('next').NextConfig} */
@@ -53,6 +86,7 @@ module.exports = {
   ...nextConfig,
   async redirects() {
     return [
+      ...legacyDirectoryRedirects(),
       ...NATIONAL_GUIDE_PATHS.map(slug => ({source:'/categories/'+slug,destination:'/services/'+slug,permanent:true})),
       { source: '/media', destination: '/press', permanent: true },
       { source: '/en/media', destination: '/en/press', permanent: true },

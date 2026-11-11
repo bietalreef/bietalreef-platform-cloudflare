@@ -4,7 +4,7 @@ This is preparatory information for company and establishment services, not a li
 
 ## 1. Water tank cleaning
 
-**When it is needed:** sediment and internal tank condition.
+**When it is needed:** Visible sediment in a villa or building tank, or possible debris after plumbing work, may justify inspection and cleaning. Appearance alone does not establish drinking-water safety. Identify whether the tank is roof-mounted or underground and how occupants will obtain water during isolation.
 
 **Photos and specifications:** Provide access hatch, capacity, drainage and access photos.
 

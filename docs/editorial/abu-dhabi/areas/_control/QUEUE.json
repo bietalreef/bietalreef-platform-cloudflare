@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Re-fetched both general-maintenance content files from GitHub: 105 sequential service headings each; independently rewritten 50–63 AR/EN, 63/105 maintenance and 168/434 area. Next 64 Split AC installation. in_progress; independent technical/language review pending.",
+      "review_note": "HVAC services 64–77 independently rewritten in both languages; GitHub re-fetch confirmed 105 sequential headings per language in general-maintenance. Area 182/434 rewritten, 252 remaining. Next 78 smart lighting control. Human technical and language review pending.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "التكييف والتبريد",
-        "independently_rewritten_services": 63,
+        "specialty": "أنظمة المنزل الذكي",
+        "independently_rewritten_services": 77,
         "area_total": 434,
-        "area_independently_rewritten": 168,
-        "next_service_number": 64,
-        "remaining_in_sector": 42,
-        "remaining_area_services_for_originality_review": 266,
+        "area_independently_rewritten": 182,
+        "next_service_number": 78,
+        "remaining_in_sector": 28,
+        "remaining_area_services_for_originality_review": 252,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -395,7 +395,21 @@
           60,
           61,
           62,
-          63
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
         ]
       }
     },

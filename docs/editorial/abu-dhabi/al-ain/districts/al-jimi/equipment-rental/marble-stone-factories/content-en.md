@@ -56,9 +56,8 @@ Send a floor-by-floor numbered bill of quantities, approved cutting drawings, ba
 
 **Quote comparison, contract scope and acceptance:** Compare part tracking, packing, change logs and breakage replacement; reconcile batches with packing lists before acceptance.
 
+**Quotation detail:** Request a delivery register linking every piece to drawing, floor and room, with responsibility for lifting, site storage and rejection of damaged or nonconforming pieces.
+
 ## Quotation request
 
 Prepare photos, measurements, drawings, quantities and delivery location. Biet Al Reef customer service can help structure an enquiry without guaranteeing a supplier, price or date.
-
-**Quotation detail:** Request a delivery register linking every piece to drawing, floor and room, with responsibility for lifting, site storage and rejection of damaged or nonconforming pieces.
-

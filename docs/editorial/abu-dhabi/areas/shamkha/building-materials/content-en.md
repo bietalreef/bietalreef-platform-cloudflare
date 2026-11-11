@@ -124,31 +124,31 @@ Board cutting requires a fabrication drawing, not an unlabelled list of dimensio
 
 ### 29. Natural marble supply
 
-Specify stone type, colour variation, slab size and thickness. Compare actual slab photographs, source and vein layout; inspect transport cracks before fabrication.
+Before ordering natural marble for floors, stairs or cladding, identify the use, measured surface areas, openings and required thickness. Request photographs of the actual slabs rather than relying on a showroom swatch: natural veining and porosity vary, and book-matched patterns need an agreed slab layout before cutting. Compare quotations by stone identification, grade, thickness, finish, cutting allowance, packing, transport and unloading. Ask which surface treatment is suitable for the intended use instead of judging gloss alone. At delivery inspect each slab in good light for cracks, repairs and damaged edges, check dimensions against the schedule, and record rejected pieces before fabrication starts.
 
 ### 30. Granite supply
 
-State whether granite is for worktops, floors or steps and its slip and weather exposure. Compare staining, finish and thickness; approve an actual stone sample.
+For granite procurement, first establish whether the stone will serve a kitchen worktop, stair or exterior paving: finish, thickness, cleaning needs and slip suitability depend on the application. Provide area drawings, runs, openings and skirting requirements. Ask for a sample from the proposed batch and photographs of the actual slabs, acknowledging natural grain and colour variation. Compare suppliers on material origin and grade, slab dimensions, edge preparation, packing, cutting and delivery rather than price per square metre alone; stain resistance should not be assumed identical across varieties. On receipt measure sample slabs, inspect corners and cracks, and match finish and colour range to the approved sample before fabrication.
 
 ### 31. Custom-size marble cutting
 
-Issue dimensioned templates showing edges, openings and vein direction before cutting. Compare mitres, edge work, fabrication and packing; measure completed pieces against drawings.
+Custom marble cutting requires an approved fabrication schedule identifying each piece, finished length and width, thickness, edge profile, apertures and vein direction. Arrange a site template for out-of-square corners and agree dimensional tolerances, labelling and protective packing before cutting. Compare workshop bids with stone supply, cutting, edge profiling, polishing, drilling, transport and responsibility for fabrication errors shown separately. At handover check labelled pieces against the schedule, measure critical dimensions and diagonals, and inspect aperture corners and finished edges for hairline fractures before accepting them for installation.
 
 ### 32. Marble polishing
 
-Identify scratch depth, prior sealers and stone type. Compare polishing grits, material removal and dust control; inspect uniform sheen without hazing.
+When marble looks dull or scratched, establish the stone type, extent and depth of damage and whether protective treatments were previously applied. Request a small trial in an inconspicuous location: grinding removes stone and cannot remedy every deep stain or crack. The quotation should define grinding and polishing stages, protection of adjacent finishes, water and dust control, and whether joint filling or sealing is included. Compare the proposed outcome rather than simply the number of machine passes. Inspect the completed surface under raking light for swirl marks, uneven sheen or lowered edges, and record defects needing separate repairs.
 
 ### 33. Marble floor laying
 
-Record floor area, stone thickness, substrate condition, joints and thresholds. Compare levelling, bedding and post-installation finishing; inspect lippage and vein direction.
+Marble floor installation begins with checking substrate flatness, doorway and drain levels, stone thickness and measured area, followed by approval of slab layout, vein direction and joint positions. The quote should identify substrate preparation, the appropriate bedding system, treatment at thresholds and walls, any required waterproofing and responsibility for waste and final finishing. Existing structural movement joints must be respected rather than hidden for appearance. During handover check row alignment, edge lippage, tile stability and joint finish; verify falls in wet areas before final polishing or sealing.
 
 ### 34. Wall and façade marble installation
 
-Measure wall height, fixing points, openings and stone weight. Compare engineered mechanical fixing or appropriate bonding and check safe anchorage and edge details.
+Wall and façade marble installation involves more than selecting a colour: panel weight, wall height, substrate, openings and weather exposure govern the fixing approach. Some projects require engineered mechanical anchorage and review by a qualified specialist; a generic adhesive is not a substitute for assessing loads and supports. Supply elevations, levels, panel sizes and opening locations, and request shop details showing brackets, movement joints, water management and future panel replacement. Compare bids by fixing materials, design documentation, lifting method, protection and inspections. At handover examine alignment, secure support, corners and joints rather than relying on appearance in photographs.
 
 ### 35. Marble restoration
 
-Photograph cracks, staining, wear and acid damage before specifying restoration. Compare specialist cleaning, filling, local replacement and polishing; inspect colour and edge consistency.
+Before restoring damaged marble, distinguish absorbed stains, acid etching, cracks, loose pieces and worn edges; these do not share one treatment. Photograph each defect with a scale, record the stone type and cleaning products used, and ask for diagnosis of surface damage versus moisture or substrate failure. Compare specialist cleaning, crack filling, edge repair and panel replacement, including compatibility and colour matching of repair compounds. Approve a limited trial before full treatment. On completion check stability, flush repairs and the closest achievable visual match, and document imperfections that cannot be concealed without replacement.
 
 ## Kitchen surfaces and basins
 

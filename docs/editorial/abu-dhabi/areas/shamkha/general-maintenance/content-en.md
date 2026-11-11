@@ -158,59 +158,59 @@ Loose tiles, swelling or cracks should not be covered up before the underlying c
 
 ### 36. Building electrical installation
 
-Map rooms, appliance loads, meter position and the main board before chasing walls; drawings should distinguish circuits and wet-area supplies. Request continuity and protection tests, labelled circuits and an as-built diagram.
+Start with a drawing showing distribution boards, estimated loads and conduit routes before walls and ceilings are closed. The quotation should specify point counts, conduit sizes, cable protection and separation of power, lighting and low-voltage systems. Photograph concealed runs before plastering and require appropriate continuity, insulation and earthing test records from qualified personnel before energising.
 
 ### 37. Cable and wiring runs
 
-Record route lengths, conductor sizes, insulation grade and containment method; a quotation without measured runs is difficult to compare. Check fixings, protected terminations and insulation test records before covering finishes.
+Cable length alone does not define a suitable installation: circuit current, route length, installation method, ambient conditions and voltage drop all matter. Compare conductor material and cross-section, insulation rating, draw accessories and abrasion protection, and require both ends to be identified. At handover inspect circuit labels, terminations and relevant electrical test results, not merely neat visible wiring.
 
 ### 38. Distribution board installation
 
-Provide existing-board photographs, load schedule and proposed spare capacity; qualified personnel must coordinate protection and earthing. Compare panel layout, labels and test results, and retain a legible circuit schedule.
+Provide a load schedule, existing and planned circuits, photographs and the available enclosure dimensions. Request a single-line diagram showing main and outgoing breakers, earth-leakage protection, isolation and earthing as required by the approved design. Compare enclosure capacity, spare ways and labelling. Qualified personnel should verify terminations, protective-device selection and protection tests at handover.
 
 ### 39. Socket and switch fitting
 
-Mark outlet quantities, heights, damp zones, wall finishes and connected appliance ratings; separate accessories from circuit extensions. Test polarity, earthing, switch operation and secure faceplates without heating or looseness.
+Locate each outlet against the intended appliance, furniture arrangement, mounting height and exposure to moisture. Confirm switching arrangements and multi-way control points before chasing walls. Separate replacement of a faceplate from repair of the back box or wiring in the quote. Check mechanical security, polarity, earthing and operation of relevant protective devices after installation.
 
 ### 40. Power supply for extensions
 
-For an annex, list rooms, AC equipment, kitchen loads, distance from the supply board and any outdoor cable route. Compare dedicated-circuit needs, weather protection and voltage drop; commission the installation under its planned loads.
+Map the supply route from the main board to the annex, including distance, buried or exposed sections, crossings and weatherproof entries. Assess anticipated air-conditioning, lighting and socket loads rather than assuming the existing breaker has capacity. Compare excavation, cable protection, backfilling, reinstatement and testing as distinct items; obtain an as-built route record before concealment.
 
 ### 41. Electrical network rehabilitation
 
-Document nuisance trips, deteriorated wiring, overheated connections and installation age before deciding on full renewal. Price investigation, rewiring and reinstatement separately; accept measured test results and a new circuit register.
+Repeated breaker trips or hot outlets do not automatically justify replacing the whole network. Commission a survey of circuit condition, insulation, earthing, loading and distribution equipment, identifying what can remain and what must change. Compare phased shutdowns, temporary arrangements and finish reinstatement. Obtain an updated circuit register, component schedule and test results at completion.
 
 ### 42. Electrical load assessment
 
-Count AC units, heaters, equipment ratings, supply capacity and circuit distribution; breaker size alone is not an assessment. Obtain a documented qualified load assessment highlighting imbalance and likely future demand rather than simply upsizing breakers.
+An electrical load assessment records appliances, ratings and realistic operating patterns rather than simply adding nameplate values. Qualified personnel review phase balance where applicable, operating current, temperature, voltage drop and breaker sizing. Ask for measured values, test conditions, findings and limitations in a written report; it is not itself permission to increase the connected load.
 
 ### 43. Interior lighting installation
 
-Identify room use, ceiling levels, task areas, colour temperature and control points. Compare distribution, fitting types, maintenance access and power draw; inspect the actual lighting for glare and uneven coverage.
+Plan luminaire positions around room use, ceiling height, furniture and glare. Compare illumination distribution, colour temperature, maintenance access and whether gypsum cut-outs, drivers and dimming controls are included. Test each switching group in place and check uniformity, flicker and unexpected shadows before acceptance.
 
 ### 44. Exterior lighting installation
 
-Map façades, paths, car entrances, cable routes and locations exposed to rain or dust. Compare outdoor-rated fittings, mountings and beam direction; test after dark and inspect sealed enclosures and safe wiring.
+Map outdoor lights against paths, entrances and exposure to rain, dust and washdown. Select suitable environmental protection and fixings that do not trap water around connections, with accessible cable routes. Compare power demand, beam direction and spill light, and inspect the completed scheme after dark rather than relying only on daytime switching tests.
 
 ### 45. Chandelier installation
 
-Supply the chandelier weight, ceiling height and substrate, supply point and manufacturer mounting details, especially beneath gypsum. Use suitable structural anchorage rather than relying on plasterboard; inspect balance, security and electrical connections.
+Record the chandelier's weight, dimensions, ceiling height and supporting structure before installation; plasterboard alone must not carry an unsupported fitting. Specify a suitable structural suspension point, maintenance access and clearance from doors and furniture. Include access equipment where needed, and verify suspension security, electrical connections and balance at handover.
 
 ### 46. Concealed lighting installation
 
-Measure LED runs, feed points, driver locations and ventilation within coves. Compare driver quantities, maintenance access and colour samples; inspect for uninterrupted light with no flicker or dark patches.
+Concealed lighting requires a section detail showing recess depth, strip position, heat-dissipating profile, driver and future access. Confirm strip lengths, voltage and feed points to avoid brightness drop along the run. Compare diffuser, profile, colour temperature and controls; inspect straightness, visible LED dots and excessive heating after continuous operation.
 
 ### 47. Garden lighting installation
 
-Plot trees, paths, sprinklers and irrigation trenches before burying lighting cables; identify operating voltage and protection. Request underground route drawings and wet-condition safety checks; inspect beam aim to avoid nuisance glare.
+Photograph walkways, planting and irrigation points to identify lights exposed to water or gardening equipment. Coordinate electrical routes with irrigation pipes and roots, and agree protection and maintenance access before planting. Compare beam angles, stake fixing and outdoor protection; inspect the night-time result without directing glare into pedestrian sightlines.
 
 ### 48. Motion sensor installation
 
-Define detection zones, occupancy patterns, delay requirements and likely pet movement. Compare detector coverage, ingress protection and settings; test switching delay, cut-off and false activations.
+Decide whether the sensor controls an entrance, corridor or washroom and define detection coverage, mounting height and delay before purchase. Avoid positions facing moving foliage or heat sources that can trigger false operation; check compatibility with the lighting driver and load. Test sensitivity, timing, daylight response and manual override where required.
 
 ### 49. Lighting unit maintenance
 
-Record failed lights and establish whether the lamp, driver, switch or supply is at fault before replacing assemblies. Compare replacement components, access costs and availability; verify firm fittings, correct switching and stable output.
+For a failed or flickering fitting, record its model, fault history, driver and connection condition before replacing parts. Distinguish a failed lamp from driver failure, poor ventilation or loose wiring, and do not fit components with incompatible voltage or power ratings. Compare repair with replacement based on age and parts availability; verify sustained operation and secure covers afterwards.
 
 
 ## Plumbing, drainage and leak detection

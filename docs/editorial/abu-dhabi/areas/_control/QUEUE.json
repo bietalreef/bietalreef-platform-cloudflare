@@ -208,7 +208,7 @@
       "name_ar": "مدينة محمد بن زايد",
       "name_en": "Mohammed Bin Zayed City",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -216,7 +216,8 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/general-contracting/content-ar.md",
@@ -246,19 +247,19 @@
         "docs/editorial/abu-dhabi/areas/mohammed-bin-zayed-city/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Independent bilingual rewrites verified 420/434; seven sectors complete, cleaning-services 28/42; resume cleaning #29. Not approved for publication.",
-      "editorial_rewritten_service_entries": 420,
-      "editorial_remaining_service_entries": 14,
+      "review_note": "Verified all 16 sector content files on GitHub: 8/8 sectors, 50 company specialties, 434 Arabic and 434 English service headings (general contracting unnumbered). Independent bilingual editorial rewrites completed. Human technical/regulatory/language approval still required before separate publication.",
+      "editorial_rewritten_service_entries": 434,
+      "editorial_remaining_service_entries": 0,
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "تشغيل وصيانة المباني",
-        "next_service_number": 29,
+        "specialty": "خدمات العمالة والتشغيل",
+        "next_service_number": null,
         "sector_total": 42,
-        "sector_independently_rewritten": 28,
-        "remaining_in_sector": 14,
+        "sector_independently_rewritten": 42,
+        "remaining_in_sector": 0,
         "area_total": 434,
-        "area_independently_rewritten": 420,
-        "remaining_area_services_for_originality_review": 14,
+        "area_independently_rewritten": 434,
+        "remaining_area_services_for_originality_review": 0,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
           1,
@@ -276,8 +277,9 @@
           13,
           14
         ],
-        "editorial_draft_completed": false
-      }
+        "editorial_draft_completed": true
+      },
+      "completed_at": "2026-11-11"
     },
     {
       "sequence": 4,

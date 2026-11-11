@@ -217,59 +217,59 @@ For a failed or flickering fitting, record its model, fault history, driver and 
 
 ### 50. Water supply network installation
 
-Count kitchens, bathrooms, tanks and appliances; map supply routes, target pressure and hot/cold lines. Compare pipe material, diameters, fittings and pressure testing; inspect a flushed, leak-free system before concealment.
+Before supplying a new villa or added bathroom, list every outlet, water heater, source and distance to the furthest fixture. Review pipe routes, sizes, insulation and isolation valves so individual groups can be shut off without interrupting the entire building. Compare quotations for chasing, pipework, fittings, thermal protection and reinstatement separately. Keep photographs before concealment and a pressure-test record appropriate to the selected system; then check hot and cold flow at several outlets.
 
 ### 51. Drainage network installation
 
-Provide drainage plans, levels, inspection chambers, fixtures and vent positions; pipe length alone omits critical falls. Compare clean-outs, expansion details and tests; witness flow without back-up or foul odour.
+Drainage installation depends on measured invert levels, ventilation and accessible cleanouts, not just pipe length. Provide fixture positions, inspection chambers and the external connection, and request a drawing showing gradients and flow direction before floors are closed. Compare pipe type, support, penetration protection and pre-concealment testing. At handover run several fixtures together, check joints and odours, watch for backflow and retain the as-built drainage plan.
 
 ### 52. Sanitary fixture installation
 
-Identify basin, WC and mixer models, dimensions, fixing points and heights before wall tiling closes. Compare connection kits, seals and drilling; test flow, drainage, watertight joints and secure mounting.
+When replacing a toilet, basin or mixer, verify outlet centres, supply connections and usable mounting heights before ordering a different model. Supply photographs and wall or counter measurements and specify who supplies adaptors, seals and fixing hardware. Quotes should distinguish removal of old fixtures and tile repairs from installation alone. Test fixing stability, silicone joints, basin drainage and mixer shut-off repeatedly, checking for drips.
 
 ### 53. Water tank installation
 
-Specify tank capacity, material, location, base loads, wash-out access, vent, overflow and drain. Compare sun protection, access and fixing arrangements; test filling, float controls, overflow and leakage.
+Choose a replacement tank based on demand, location and maintenance access as well as nominal capacity. Record support dimensions, inlet and outlet heights, overflow routing and cleaning access; have a competent specialist assess support for the full tank load. Compare tank material, lid, cleanability and protection of connected pipes. During handover observe filling and float shut-off, test the overflow and inspect connections, cover and safe access.
 
 ### 54. Water pump installation
 
-Report storey count, outlet pressures, peak demand and supply tank details. Request a pump curve, dry-run protection and vibration/noise controls; commission stable delivery without leaks.
+Poor pressure upstairs should be investigated through pressure and flow readings at multiple outlets before buying a larger pump. Provide floor count, storage arrangement and likely simultaneous demand, and ask for the intended duty point on the pump curve. Compare pressure controls, dry-run protection, isolation valves and vibration control. Test starting and stopping as outlets open and close; check noise, leakage and recorded controller settings.
 
 ### 55. Pipework rehabilitation
 
-Photograph corrosion, leaks and low pressure, identifying retained sections and access routes. Compare selective replacement, waste removal and reinstatement; pressure-test the connected system rather than only new pipe sections.
+Repeated failures in ageing pipes may justify phased replacement rather than successive patches. Survey affected sections, identify which existing lines will remain and draw alternative routes that minimise wall openings. Quotations should separate removal, temporary supply, testing and finish reinstatement. At handover inspect transitions between old and new materials, test under normal operating conditions and retain photographs of concealed routes.
 
 ### 56. Drainage maintenance
 
-Map repeat blockages, drain smells, cleaning history and chamber locations. Compare mechanical clearing and camera inspection where needed instead of indiscriminate chemicals; verify flow and document the obstruction.
+A drain that blocks repeatedly needs its location and cause identified rather than another application of chemicals that may damage pipework. Note affected fixtures, timing of backups and inspection chamber positions. Request cleaning suited to the system, with internal camera inspection if settlement or breakage is suspected. Compare debris removal, chamber cleaning and waste disposal. Confirm free flow afterwards and document any structural defect requiring separate repair.
 
 ### 57. Water leak investigation
 
-Provide meter trends, damp patches and photographs; check the meter with outlets closed when feasible. Compare acoustic, thermal and pressure methods suited to the site; request findings and uncertainty before destructive access.
+A damp patch does not prove the pipe behind it is leaking; drainage, waterproofing or condensation may be responsible. Photograph changes, record meter readings with use stopped where feasible and identify nearby systems. Ask for a staged investigation beginning with non-destructive checks, followed by pressure tests or targeted opening where evidence warrants. Compare investigation cost, diagnostic limits and whether repairs are included. Require a report distinguishing a suspected location from a confirmed cause.
 
 ### 58. Pipe leak repairs
 
-Identify pipe material, leak point, access and whether water service must be interrupted. Compare localized repair, connector choice, partial renewal and finish reinstatement; witness a pressure test before covering.
+Once a concealed pipe leak is confirmed, identify pipe material, condition of adjacent sections and the opening required. The quotation should specify a repair compatible with that material or replacement of a complete section, water isolation and protection of nearby finishes. Photograph new joints before closing the wall and obtain a suitable tightness test before plastering or tiling. Check for renewed dampness during repeated use and allow a reasonable observation period before painting.
 
 ### 59. Tank leak investigation
 
-Record water-level loss, overflow, pipework, float valves and tank shell before blaming the lining. Compare connection checks, waterproofing inspection and joint remediation; document the loss mechanism and refill test.
+Falling tank levels may reflect a faulty float, overflow or outlet connection rather than a defect in the tank shell. Log levels at defined intervals with demand isolated where safe and inspect the base, connections and lid. Ask the contractor to separate potential losses through documented tests before proposing new lining. Compare diagnostic, repair and retest scope; receive photographs and readings identifying the actual fault and the completed remedy.
 
 ### 60. Bathroom waterproofing
 
-Measure bathroom floor, wall upstands, pipe penetrations and doorway threshold. Specify a tile-compatible waterproofing system and an agreed flood test before tiling; check substrate condition first.
+Before retiling a bathroom that leaks to the room below, establish the source, substrate condition, floor-drain level and doorway threshold. Define membrane coverage, wall upstands, pipe penetrations and corner details, choosing a system compatible with tile adhesive. Compare substrate preparation, coats, curing and an agreed flood test before covering. Keep stage photographs and test records, then verify tile falls and drainage without standing water.
 
 ### 61. Roof waterproofing
 
-Record roof area, falls, drains, joints, equipment plinths and ponding. Compare preparation, membrane build-up and UV protection; inspect drainage and the agreed integrity test before acceptance.
+A roof may leak around a drain, equipment plinth or movement joint even when most of its membrane is intact. Provide a sketch of ponding locations and photographs after rainfall, noting roof use and equipment that may need temporary lifting. Request assessment of the existing layer, falls, proposed membrane and protection rather than a product name alone. Compare joint and drain detailing, exclusions, warranty and demolition scope. Receive an appropriate system test and evidence that penetrations were treated.
 
 ### 62. Water tank waterproofing
 
-Identify potable or non-potable use, tank substrate, cracks and entry access. Specify a lining suitable for the water use, cleaning and rinsing procedure and separate joint checks; accept a watertightness test and material record.
+Water-tank lining begins with the intended water use, tank material, condition and safe access. A product is not suitable merely because it resists water: for potable storage request evidence of suitability for drinking-water contact, application, curing and rinsing instructions. Compare removal of failed coatings, crack treatment, tightness testing and cleaning. At handover review product and test records and conditions for returning the tank to service; confined-space entry requires specialist safety procedures.
 
 ### 63. Leak-related dampness treatment
 
-Record mould, peeling, dates and the suspected moisture source, then repair the leak before drying surfaces. Compare drying period, moisture checks, salt treatment and repainting; require recorded observations, not merely concealed stains.
+If paint blisters again after a previous repair, distinguish an ongoing leak from moisture retained in plaster and salts migrating to the surface. Document the affected area and moisture readings, fix the water source, then allow drying and verification before selecting primer and paint. Compare removal of loose material, salt treatment, refinishing and follow-up dates. Handover should not rely on a dry appearance on one day: obtain later readings and photographs after a suitable period of use.
 
 
 ## Air-conditioning and refrigeration

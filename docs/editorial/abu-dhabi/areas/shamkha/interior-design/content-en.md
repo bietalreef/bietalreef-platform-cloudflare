@@ -92,37 +92,35 @@ Define whether the structural report concerns cracking, a proposed change of use
 
 ### 22. Construction supervision
 
-Define the supervisor’s inspection authority, visit frequency and hold points before concealed works, such as reinforcement or service runs, are covered. Supply the current drawings, contractor programme and site contacts. Request visit records, photographs, nonconformance notes and follow-up actions. Compare proposals by actual attendance, reporting and coordination, distinguishing periodic supervision from daily site management. At handover, verify closure of critical observations and the exact work inspected; a report cannot certify unseen work.
+Before appointing a supervisor for a Shamkha project, distinguish periodic compliance inspections from a resident engineer's daily presence; the responsibilities and fees differ. Provide the drawing revision being built, the contractor's programme and dates for concrete pours, ceiling closure and electrical or HVAC rough-ins. Ask for inspection hold points with advance notice, and records identifying drawing references, defect locations, photographs and closure dates. Compare actual visit allowances, response time and reinspection arrangements. A signed visit note does not certify concealed work that the supervisor did not witness.
 
 ### 23. Project management
 
-This service is useful when multiple contractors and suppliers must follow one schedule and a controlled decision process. Provide the baseline budget, contracts, drawings and completion targets. Request a phased programme, responsibility matrix, decision log and risk register. Compare proposals by site presence, variation approval and claims management rather than fee percentage alone. Receive periodic progress, cost forecasts, change records and decisions, while keeping the manager’s role distinct from designer and builder.
+For a villa build or multi-trade refurbishment, project management should connect owner decisions, procurement and contractor sequencing. Provide contracts, the budget limit and non-negotiable milestones. Request a programme covering approval, ordering, installation and inspection of long-lead items such as doors and kitchens. The manager should log every proposed change with its time and cost implications before authorisation, rather than relying on scattered messages. Compare decision authority, meeting attendance and payment-claim review. Receive an up-to-date decisions register, risk log, cost forecast and programme status.
 
 ### 24. Work quality review
 
-Commission a defined inspection of completed plaster, tiling, waterproofing or building services. Supply contract specifications, approved samples and photographs from earlier stages. The inspector should distinguish visual checks from tests requiring laboratory work or local opening-up, and state acceptance criteria. Compare sample coverage, test methods and reporting. Receive a location-specific defect schedule with evidence and priorities, then arrange reinspection after rectification rather than accepting verbal assurances.
+A tiled surface may appear level and paint may look complete while defects remain outside a general photograph. Identify the exact element, room, specified product and approved sample. For bathrooms, checking floor falls is different from testing waterproofing before it is covered. Require an inspection checklist distinguishing visual observations, measurements and tests needing a specialist. Compare the sample area, rooms covered and reinspection allowance. Each reported defect should have a reference number, location, photograph and acceptance criterion, followed by evidence of correction.
 
 ### 25. Project stage acceptance
 
-Inspect a stage before later work conceals it, such as waterproofing before tiling or pipework before walls are closed. Agree the stage, drawings, specifications and necessary tests with the contractor in advance. Compare proposals by inspection visits, reinspection provision and nonconformance recording. Obtain a dated stage record distinguishing accepted, pending and rejected items and identifying work that must remain accessible until corrected.
+Do not wait until final handover to discover services hidden behind plasterboard or waterproofing beneath tiles. Agree inspection hold points for structural reinforcement, water-line pressure tests, wet-area membranes and ceiling closure as applicable. Before each visit, gather current drawings, test results and photographs taken before concealment, and identify who may authorise continuation. Compare proposals by stages, visit count and repeat testing. A stage record must separate accepted, rejected and outstanding items; acceptance of one stage is not acceptance of the whole project.
 
 ### 26. Progress report preparation
 
-A useful report measures actual progress against the approved programme instead of presenting photographs alone. Supply the baseline schedule, contract work items, approved quantities and meeting minutes. Request verifiable progress by work package, causes of delay, late materials, decisions required and upcoming risks. Compare providers by visit frequency and supporting evidence. Receive a dated report separating verified work from planned progress and unapproved payment claims.
+To assess a delay or validate a contractor's claim, a report must link measurable work to the baseline programme. Supply schedule revisions, measured quantities, variation orders and delivery dates. Separate physical progress from expenditure: paying for a kitchen before installation does not mean installation is complete. Request dated photographs tied to work zones, a view of critical activities and decisions needed from the owner. Compare providers by site-visit frequency and evidence verification. Receive a report disclosing data sources and assumptions rather than unsupported percentages.
 
 ### 27. Quantity surveying
 
-A quantity take-off needs a fixed drawing revision and agreed measurement rules; structural concrete, paint and joinery use different units and allowances. Provide drawings and specifications and specify whether the output is a preliminary estimate or pricing bill. Compare proposals by item detail, waste assumptions, supply-versus-installation boundaries and treatment of omissions. Accept an auditable schedule linking quantities to drawing references, dimensions, units and stated assumptions.
+First specify whether the take-off supports an early budget, tender pricing or payment verification, since the detail required changes. Provide one coordinated drawing issue and finish specifications, and state whether areas are net or gross. For floors, distinguish measured room areas from cutting waste; for painting, clarify opening deductions and number of coats; for concrete, measure volumes by element. Require units, drawing references, quantities and assumptions, with material and installation separated when useful. Do not accept an untraceable grand total.
 
 ### 28. Contractor bid review
 
-Make the scope, drawings, specifications, programme and requested payment terms consistent before comparing bids. Ask the reviewer to identify omissions, differing quantities, material substitutions, warranty provisions and exclusions rather than rank headline totals. Compare review services by analysis depth, bidder clarification process and risk assessment. Receive a comparison table with scope-normalised prices and unresolved questions; the lowest initial price is not automatically the strongest offer.
+When two villa refurbishment quotations differ substantially, check whether they price the same work. One may include debris removal, waterproofing reinstatement and testing while the other excludes them. Give the reviewer one scope, quantity schedule, sample list, target completion date and payment terms. Request a line-by-line matrix of omissions, alternatives, warranties and specified product brands. Ambiguities should be sent to bidders as written clarifications before ranking. Receive a comparison showing allowance for missing items, risks and potential variations; the cheapest headline price is not automatically the best offer.
 
 ## Interior design and material selection
 
-### 29. Majlis design
-
-Specify guest capacity, seating style, hospitality access and privacy; measure wall lengths, ceiling height, doors and AC positions. Compare circulation, seating layouts and cleanable finishes. Receive a dimensioned furniture plan, lighting locations and finish samples.
+ty, seating style, hospitality access and privacy; measure wall lengths, ceiling height, doors and AC positions. Compare circulation, seating layouts and cleanable finishes. Receive a dimensioned furniture plan, lighting locations and finish samples.
 
 ### 30. Living room design
 

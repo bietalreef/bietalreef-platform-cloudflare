@@ -48,7 +48,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
  const detailSeo=detail?.seo?.[locale];
  const isCleaning=categories.some(c=>c.slug==='cleaning-services');
  const areaNames=areas.map(a=>text(a,locale));
- const locationPhrase=areaNames.length?areaNames.join(locale==='ar'?' وأيضًا ':', '):'';
+ const locationPhrase=areaNames.length?areaNames.join(locale==='ar'?' و':', '):'';
  const searchHeading=section==='home'&&isCleaning&&locationPhrase?(locale==='ar'?name+' | خدمات التنظيف في '+locationPhrase:name+' | Cleaning services in '+locationPhrase):pageLabel;
  const relative=companyPath(slug,locale,section,route.slug);
  const arabic=companyPath(slug,'ar',section,route.slug);const english=companyPath(slug,'en',section,route.slug);
@@ -88,6 +88,7 @@ export default function PublishedCompanyPresencePage({data,locale='ar',route={ki
   <span className="inline-flex items-center gap-1 rounded-full bg-[#f6eedc] px-3 py-1 text-xs font-bold text-[#82682f]"><ShieldCheck size={14}/>{t.verified}</span>
   <h1 className="mt-3 text-2xl font-black leading-relaxed text-[#163c30] sm:text-5xl">{searchHeading}</h1>
   <p className="mt-2 max-w-3xl text-sm leading-7 text-slate-600 sm:text-base">{description}</p>
+  {route.contextBase&&<p className="mt-3"><Link href={companyPath(slug,locale)} className="inline-flex min-h-10 items-center rounded-lg border border-[#b9cad8] bg-white px-3 py-2 text-sm font-bold text-[#185b87]">{rtl?'الملف الرئيسي للشركة: ':'Main company profile: '}{name}</Link></p>}
   {lastModified&&<p className="mt-1 text-xs text-slate-500">{rtl?'آخر تحديث للبيانات: ':'Data last updated: '}<time dateTime={lastModified}>{lastModified.slice(0,10)}</time></p>}
   <div className="mt-3 flex flex-wrap gap-2">{areas.map(a=><Link className="rounded-full border border-[#e3d8c2] bg-[#fdfbf7] px-3 py-1.5 text-xs" key={a.id} href={['abu-dhabi','al-ain'].includes(a.slug) ? `${locale==='en'?'/en':''}/uae/abu-dhabi${a.slug==='al-ain'?'/al-ain':''}/${slug}` : navPath('service-areas',a.slug)}><MapPin className="me-1 inline-block" size={13}/>{text(a,locale)}</Link>)}</div>
   <div className="mt-4 hidden flex-wrap gap-3 sm:flex">{call?<a className="rounded-xl bg-[#183d31] px-5 py-3 font-bold text-white" href={call}>{t.contact}</a>:null}{wa?<a className="rounded-xl border border-[#ceb77c] bg-white px-5 py-3 font-bold text-[#183d31]" href={wa}>{t.whatsapp}</a>:null}</div>

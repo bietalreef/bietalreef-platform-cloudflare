@@ -232,6 +232,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
       <div className="mx-auto max-w-[1180px] px-4 pt-4 sm:px-6">
         <nav aria-label={en?'Breadcrumb':'مسار التنقل'} className="mb-4 flex flex-wrap items-center gap-2 text-[12px] text-[#67798b]">
           <Link href={en?'/en/providers':'/providers'}>{t.official}</Link><span>›</span><Link href={root}>{t.brand}</Link>
+          {route.contextBase&&<><span>›</span><Link href={alNaeemPath(locale,{kind:'home'})} className="font-bold text-[#185b87]">{en?'Main Al Naeem company profile':'الملف الرئيسي لشركة النعيم'}</Link></>}
           {route.kind!=='home'&&<><span>›</span><Link href={alNaeemPath(locale,{kind:area?'service-areas':route.kind})}>{area?t['service-areas']:t[route.kind]}</Link></>}
           {area&&<><span>›</span><Link href={alNaeemPath(locale,{kind:'service-areas',slug:area.slug})}>{pick(area,locale)}</Link></>}
           {item&&<><span>›</span><span className="font-bold text-[#183852]">{title}</span></>}

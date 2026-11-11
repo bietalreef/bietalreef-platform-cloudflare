@@ -6,6 +6,7 @@ import { buildProviderWhatsappUrl } from '../lib/providerWhatsapp';
 import RehabDirectoryCard from './provider/RehabDirectoryCard';
 import DirectoryCustomerSupportCard from './DirectoryCustomerSupportCard';
 import { PROVIDER_SPECIALTY_GUIDES } from '../data/providerSpecialtyGuides';
+import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 
 const serviceLabels = { 'رخام طبيعي': 'Natural Marble', 'جرانيت': 'Granite', 'كوارتز': 'Quartz', 'حجر صناعي': 'Engineered Stone', 'تصنيع حسب الطلب': 'Custom Fabrication', 'توريد': 'Supply', 'تركيب': 'Installation', 'مطابخ': 'Kitchens', 'مغاسل': 'Washbasins', 'واجهات': 'Façades', 'أرضيات': 'Floors', 'سلالم': 'Stairs' };
 
@@ -56,6 +57,7 @@ export default function ProviderSpecialtyView({ service, providers, locale = 'ar
   const image = service.image || '/images/providers-hero.webp';
   const guide = PROVIDER_SPECIALTY_GUIDES[service.slug]?.[locale];
   const joinHref = 'https://providers.bietalreef.ae/';
+  const approvedSector = UAE_MAIN_SECTORS.some(item=>item.slug===service.slug);
   return (
     <main dir={isEn ? 'ltr' : 'rtl'} className="bg-[#FDFBF7] text-[#0F3F1A]">
       <section className="mx-auto max-w-6xl px-4 pt-6 md:pt-10">
@@ -66,6 +68,7 @@ export default function ProviderSpecialtyView({ service, providers, locale = 'ar
             <span className="inline-flex items-center gap-2 rounded-full border border-[#F7E7A0]/40 bg-[#123A46]/85 px-4 py-2 text-xs font-black backdrop-blur-xl"><Building2 className="h-4 w-4 text-[#F7E7A0]" />{isEn ? 'Service provider sector' : 'قطاع الشركات والمهنيين'}</span>
             <h1 className="mt-3 max-w-4xl text-2xl font-black leading-tight md:mt-5 md:text-6xl">{isEn ? `${name} Providers` : `شركات ${name}`}</h1>
             <p className="mt-4 max-w-3xl text-sm font-semibold leading-8 text-white/85 md:text-lg">{isEn ? 'Explore published business profiles in this specialty and confirm their services, location and availability directly.' : 'تصفح ملفات الجهات المنشورة في هذا التخصص، وتواصل معها لتأكيد الخدمات والتغطية والموعد.'}</p>
+            {approvedSector&&<Link href={(isEn?'/en/categories/':'/services/')+service.slug} className="mt-3 inline-flex min-h-10 items-center rounded-xl border border-white/60 bg-white/10 px-4 py-2 text-sm font-bold text-white underline-offset-4 hover:underline">{isEn?'Read the complete UAE service guide':'اقرأ دليل الخدمات الكامل لهذا التخصص'}</Link>}
           </div>
         </div>
       </section>

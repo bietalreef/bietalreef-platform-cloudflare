@@ -89,6 +89,9 @@ export default function NationalServiceSectorPage({
             <a href="#directory-quote" className="inline-flex min-h-11 items-center justify-center gap-2 rounded-xl border border-[#185b87] px-4 py-2 text-sm font-bold text-[#185b87]">
               <MessageCircle className="h-4 w-4 shrink-0" aria-hidden="true"/>{en?'Request a quotation':'اطلب عرض سعر'}
             </a>
+            <Link href={`${en?'/en':''}/providers/specialty/${sector.slug}`} className="inline-flex min-h-11 items-center justify-center rounded-xl border border-[#185b87] px-4 py-2 text-sm font-bold text-[#185b87]">
+              {en?'Find companies in this sector':'دليل الشركات في هذا التخصص'}
+            </Link>
           </div>
         </div>
       </div>

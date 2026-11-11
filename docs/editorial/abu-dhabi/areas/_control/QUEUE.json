@@ -317,15 +317,15 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "2026-11-11: Independently rewrote engineering services 1-7 in both languages; verified 49 headings each. Area 63/434 independently rewritten; 371 remain. No publication approval.",
+      "review_note": "2026-11-11: Independently rewrote engineering services 1-14 in both languages; verified 49 sequential headings each. Area 70/434 independently rewritten; 364 remain. No publication approval.",
       "editorial_progress": {
         "sector": "interior-design",
-        "specialty": "التصميم المعماري والمخططات",
-        "independently_rewritten_services": 63,
+        "specialty": "التصميم الإنشائي",
+        "independently_rewritten_services": 70,
         "area_total": 434,
-        "next_service_number": 8,
-        "remaining_in_sector": 42,
-        "remaining_area_services_for_originality_review": 371,
+        "next_service_number": 15,
+        "remaining_in_sector": 35,
+        "remaining_area_services_for_originality_review": 364,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -335,7 +335,14 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ]
       }
     },

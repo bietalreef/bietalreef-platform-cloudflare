@@ -762,3 +762,8 @@
 ## متابعة تنظيف المنازل والمباني — 2026-11-11
 - الحالة `in_progress`؛ أضيفت متطلبات طلب سعر مستقلة للخدمات السبع بالعربية والإنجليزية في [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/homes-buildings-cleaning/content-en.md) و[المراجعة](./cleaning-services/homes-buildings-cleaning/review.md)، وتم التحقق بإعادة القراءة.
 - أول نقص تالٍ: `cleaning-services/disinfection-sanitisation` ثم `tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`؛ بعدها تدقيق تخصصات `equipment-rental` الثمانية، والمطابقة النهائية لجميع 50 تخصصًا و434 خدمة في كل لغة، بما فيها التفرد والسلامة والتصنيفات. لا تبدأ المويجعي.
+
+## متابعة الستائر والسجاد والمفروشات — 2026-11-11
+
+- الحالة: `in_progress`؛ خُصصت طلبات عروض الأسعار الإنجليزية للخدمات الخمس في [الستائر والسجاد والمفروشات](./furniture-decor/curtains-carpets-furnishings/content-en.md)، مع مراجعة [التخصص](./furniture-decor/curtains-carpets-furnishings/review.md). تمت إعادة قراءة ملف المحتوى بعد الرفع والتحقق من تطابقه.
+- **أول نقص تالٍ:** جرد وتدقيق `equipment-rental` ثم `cleaning-services`، والتحقق من الملفات الثلاثة لكل تخصص ومطابقة 50 تخصصًا و434 خدمة بالعربية والإنجليزية مع شجرة الشركات، وتدقيق التفرد والسلامة والتصنيفات المقيدة والمقترحة عبر القطاعات الثمانية. لا تبدأ المويجعي قبل اعتماد الجيمي.

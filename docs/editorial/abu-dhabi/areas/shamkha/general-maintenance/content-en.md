@@ -334,62 +334,59 @@ An AC maintenance contract cannot be compared by visit count alone. Inventory un
 
 ### 78. Smart lighting control
 
-Identify lighting circuits and whether wall switches must remain usable without internet access. Compare dimmer/load compatibility, connectivity and manual override; test each circuit from both switch and app.
+Inventory lighting circuits, lamp types and load ratings, and photograph existing switches and the distribution board to check neutral-wire availability and module space. The quotation should distinguish replacement switches from concealed relays, confirm LED dimmer compatibility and retain manual operation during internet outages. Test every circuit at the wall and in the app, then hand over a circuit map and owner-controlled account settings.
 
 ### 79. Smart air-conditioning control
 
-List AC models, controllers and sensors and define temperature schedules for each room. Compare interface compatibility, local control and network failure behaviour; verify on/off and mode changes.
+Record AC models, existing controllers, zones and required sensors; a generic smart thermostat is not compatible with every split or central system. Specify the communication interface, power requirements, sensor positions and any warranty implications. Compare local control, scheduling and loss-of-network behaviour. Demonstrate cooling, set-point changes and restart recovery, and hand over configuration recovery instructions.
 
 ### 80. Smart lock installation
 
-Measure door thickness, swing, cylinder type and emergency access before selecting a smart lock. Compare battery life, user permissions and administration; test inside/outside release and low-battery access.
+Measure door thickness, cylinder and latch positions and opening direction, and photograph the door edge before choosing a lock. Specify emergency entry with a flat battery, administrator ownership and revocation of user credentials. Compare weather suitability and mechanical compatibility without weakening the door. Test inside and outside release, alerts and backup entry; transfer administrator keys to the owner.
 
 ### 81. Smart curtain installation
 
-Specify opening width, curtain weight, power location, track path and manual-use requirement. Compare motor rating, noise and controls; inspect obstacle response and maintenance access.
+Measure track width, drop, fabric weight and travel clearance, and check the fixing substrate and nearby power supply. Compare motor torque, noise, cleaning access and manual operation if connectivity fails. Run the curtains through full travel without fabric strain or rubbing, and hand over wiring details and warranty information.
 
 ### 82. Phone app device integration
 
-Inventory device makes, firmware, home network and accounts to be linked. Compare genuine compatibility and access permissions; hand over owner-controlled accounts with recovery instructions.
+Provide a device inventory with models, firmware, connectivity types and label photographs, and identify accounts to migrate or create. Some equipment needs a hub or separate network, so the quotation must identify proven compatibility and any subscriptions rather than promising universal integration. Review account permissions, updates and security; test each device on the owner's phone, transfer recovery methods and revoke installer access.
 
 ### 83. Automated smart scenes
 
-Define concrete scenes such as leaving home or bedtime and which devices each may control. Compare safeguards, offline behaviour and manual overrides; test scene transitions without overriding essential equipment.
+Write each requested automation as testable steps—for example, switching off nonessential lights when leaving—with exceptions, timing and sensors. Do not make emergency access or safety-critical equipment dependent on an automation that blocks manual control. Compare local and cloud operation during power or network failure. Test arrival, departure and conflicting scenes and document how to disable them.
 
 ### 84. Smart-home maintenance
 
-Log intermittent failures, connectivity, configuration backups, sensor batteries and hub health. Compare targeted diagnosis with indiscriminate resets; preserve client settings and retest scenes after repair.
+Collect fault timestamps, network and hub details, sensor condition and configuration backups before resetting equipment. A service quotation should distinguish connectivity faults, flat batteries, firmware conflicts and failed hardware; do not erase home settings without consent. Receive a cause-and-repair report, scene test results and a list of unresolved devices.
 
 ### 85. CCTV installation
 
-Map camera positions, mounting heights, fields of view, lighting, privacy and cable routes. Compare resolution, storage and safe mounting; inspect day/night footage without monitoring unrelated private spaces.
+Define the purpose, mounting position, height and day/night field of view of each camera; plan power, data routes and recorder placement. Respect neighbouring privacy and verify applicable local requirements before installation rather than assuming any view may be recorded. Compare image resolution, lens coverage, weather protection and storage. Inspect actual footage in different lighting and receive a camera location plan.
 
 ### 86. Recording equipment installation
 
-Identify camera count, recording rate, retention needs, disk capacity and ventilation. Compare storage, backup power and access controls; demonstrate secure search and export of recorded footage.
+Count cameras and specify resolution, frame rate and retention needs to calculate storage rather than selecting a disk by capacity alone. Identify ventilation, electrical protection, recorder location, access roles and backup needs. Compare compression, expandability and disk warranty; demonstrate searching, playback and exporting a clip, verify time settings and recovery after power interruption.
 
 ### 87. Alarm system installation
 
-Map doors, windows and monitored spaces and plan for nuisance alarms. Compare batteries, communications and notification channels; test each sensor without promising third-party response that is not contracted.
+Map doors, windows and movement-detection zones, considering pets or airflow that may cause nuisance alarms. Specify sensor type, backup battery and notification channels; do not imply a monitored security response without an explicit contract. Compare coverage and maintenance costs. Test every point and power-failure behaviour and transfer authorised control codes.
 
 ### 88. Access control installation
 
-Specify controlled doors, user groups, permitted hours, audit needs and emergency release. Compare card or PIN readers, lock interfaces and privacy safeguards; test authorised and rejected access.
+List controlled doors, user groups, permitted hours and emergency release requirements before choosing card or PIN readers. Have the appropriate specialist check lock-to-door compatibility, cable routes and safe egress. Compare audit records, administrator rights and backup arrangements. Test accepted and rejected credentials, power-loss behaviour and transfer of administrator access.
 
 ### 89. Intercom installation
 
-Photograph outdoor station, indoor handset locations, gate and cable/network routes. Compare audio/video quality, door release and integration; test every endpoint and document reset procedures.
+Locate outdoor stations, indoor screens, cable paths and gate or lock interfaces, with photographs of mounting and lighting conditions. Compare voice and video clarity, outdoor durability and restricted door-release permissions. Test calls to every endpoint, door release and notifications, then provide connection drawings and account-reset instructions.
 
 ### 90. CCTV maintenance
 
-Record blurred images, outages, missing footage and fault timings; check power, cabling and storage. Compare camera replacement against connection repairs; verify image quality, continuous recording and reboot recovery.
+Log missing or blurred camera feeds and fault times, then inspect power, connectors, network routes and recorder capacity before replacing equipment. Compare lens cleaning and cable repair with replacement based on diagnosis. After repair, verify daytime and nighttime images, recording retrieval and reconnection after restart.
 
 ### 91. Remote phone viewing setup
 
-Identify remote viewers, recorder model, connectivity and two-factor authentication. Prefer secure integration over indiscriminate port forwarding; hand over owner login, access alerts and revoke installer access.
-
-
-## Painting and surface finishes
+Identify recorder model, internet connection and authorised viewer devices; avoid sharing administrator credentials with ordinary viewing accounts. Specify secure remote access, additional authentication where available and avoidance of unnecessary open ports. Test remote live view, playback and user permissions, transfer ownership and revoke installer access after acceptance.
 
 ### 92. Villa painting
 

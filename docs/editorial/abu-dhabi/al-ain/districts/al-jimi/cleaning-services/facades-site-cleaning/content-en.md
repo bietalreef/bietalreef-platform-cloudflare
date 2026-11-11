@@ -10,7 +10,7 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Scope and exclusions:** Specify compatible detergents, water treatment and safe access; scratch repair and glazing replacement are excluded.
 
-**Quotation comparison and written agreement:** Compare access equipment, permits, pedestrian barriers and protection of parked cars. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+**Quotation comparison and written agreement:** Compare access equipment, permits, pedestrian barriers and protection of parked cars. Record the access method for each elevation, equipment anchoring arrangements, protection of coated glazing and entrances, and the agreed detergent test before full cleaning.
 
 **Acceptance inspection:** Inspect at different daylight angles for streaks and edge damage. Keep before-and-after photographs and a list of outstanding issues.
 
@@ -22,7 +22,7 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Scope and exclusions:** Require a trial patch and controlled cleaning; repainting and repairing loose cladding are separate.
 
-**Quotation comparison and written agreement:** Compare water containment, surface protection, plant protection and access arrangements. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+**Quotation comparison and written agreement:** Compare water containment, surface protection, plant protection and access arrangements. Specify the measured area for each cladding material, the trial-patch approval, wash-water collection, joint and landscaping protection, and responsibility for cleaning-related damage.
 
 **Acceptance inspection:** Check coatings and joints for damage and uneven wash lines. Keep before-and-after photographs and a list of outstanding issues.
 
@@ -34,7 +34,7 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Scope and exclusions:** Specify sweeping, targeted degreasing and wastewater handling; hazardous contamination and floor repairs are excluded.
 
-**Quotation comparison and written agreement:** Compare temporary closures, slip prevention, vehicle diversions and waste disposal. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+**Quotation comparison and written agreement:** Compare temporary closures, slip prevention, vehicle diversions and waste disposal. Agree on a bay-by-bay closure and reopening schedule, oil-treatment method, wash-water collection and waste destination, and the realistic limits of old-stain removal.
 
 **Acceptance inspection:** Check drainage, residual oil and slip hazards before reopening. Keep before-and-after photographs and a list of outstanding issues.
 
@@ -46,7 +46,7 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Scope and exclusions:** Clean authorised zones with isolation arrangements; hazardous waste requires a suitably qualified provider and separate scope.
 
-**Quotation comparison and written agreement:** Compare work permits, PPE, lockout procedures and waste records. Agree on materials, equipment, site protection, scheduling, exclusions and additional charges in writing.
+**Quotation comparison and written agreement:** Compare work permits, PPE, lockout procedures and waste records. Define authorised cleaning zones, who isolates and restarts machinery on the site operator's behalf, residue classification, disposal documentation and the handover procedure.
 
 **Acceptance inspection:** Verify work-zone sign-off, unobstructed emergency equipment and safe restart. Keep before-and-after photographs and a list of outstanding issues.
 

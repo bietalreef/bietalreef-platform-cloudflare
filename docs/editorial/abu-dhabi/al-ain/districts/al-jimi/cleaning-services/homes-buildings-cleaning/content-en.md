@@ -14,6 +14,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Acceptance checks:** Inspect corners, behind doors, kitchen surfaces, bathrooms and stairs in good light before sign-off.
 
+**Quotation inputs:** Give villa area, floors, majlis rooms, marble/timber/glass finishes and outdoor zones; ask for indoor cleaning, high glazing and deep-clean extras to be itemised.
+
 ## 2. Apartment cleaning
 
 **When needed:** Occupied and vacant apartments require different handling of cupboards, appliances and personal belongings.
@@ -25,6 +27,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Agreement and exclusions:** Set rules for personal belongings, keys, parking, floor protection and handover time.
 
 **Acceptance checks:** Check extractor surfaces, edges, glazing and bathroom floors; confirm agreed items are returned to place.
+
+**Quotation inputs:** State occupancy, bathroom counts, appliances needing interior cleaning and lift/parking access; request labour time, supplies and any revisit charges separately.
 
 ## 3. Office cleaning
 
@@ -38,6 +42,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Acceptance checks:** Check desks, floors, touchpoints, toilets and attendance logs without disturbing staff files.
 
+**Quotation inputs:** List desks, workstations, access hours, confidentiality rules and visit frequency; ask for consumables, waste removal and after-hours work as separate items.
+
 ## 4. Building common-area cleaning
 
 **When needed:** Building cleaning typically covers agreed corridors, lifts, stairs and entrances, not private units by default.
@@ -49,6 +55,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Agreement and exclusions:** Agree wet-floor signs, peak-hour scheduling and exclusion of locked technical rooms.
 
 **Acceptance checks:** Inspect entrances, stair edges, lift corners and bins against visit logs; note inaccessible areas.
+
+**Quotation inputs:** Provide floors, lifts, entrances, corridor areas and waste volume; request a zone-by-zone frequency schedule including safety signs and consumables.
 
 ## 5. Post-fit-out cleaning
 
@@ -62,6 +70,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Acceptance checks:** Inspect lit surfaces, tile edges, window frames and accessible visible vents without dismantling equipment.
 
+**Quotation inputs:** Share the trades' completion date, fine-dust, paint and adhesive photos and finish types; request staged cleaning and waste pricing with clear re-clean liability.
+
 ## 6. Pre-move-in cleaning
 
 **When needed:** Before moving furniture in, floors and cupboards are accessible, but internal drawers and new appliances need explicit scope.
@@ -74,6 +84,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Acceptance checks:** Check drawers, shelves, bathrooms and floors and confirm dry surfaces before placing furniture or rugs.
 
+**Quotation inputs:** Specify furniture arrival, key handover, cupboard interiors and new appliances; request cleaning/drying completion times and confirmation that drawers are included.
+
 ## 7. Recurring cleaning contracts
 
 **When needed:** Recurring contracts suit premises with predictable cleaning needs and changing occupancy intensity.
@@ -85,6 +97,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Agreement and exclusions:** Agree a reviewable schedule, quality checks, attendance logs, complaint response and emergency exclusions.
 
 **Acceptance checks:** Review checklists and attendance monthly and inspect sampled areas rather than relying on logged hours alone.
+
+**Quotation inputs:** Provide visit schedules, occupancy, areas and daily/monthly tasks; request per-visit costs, absence cover, quality checks and rework terms.
 
 ## Request a quotation
 

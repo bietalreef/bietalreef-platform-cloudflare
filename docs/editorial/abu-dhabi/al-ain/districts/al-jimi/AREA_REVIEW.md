@@ -757,3 +757,8 @@
 ## متابعة خدمات العمالة والتشغيل — 2026-11-11
 - الحالة: `in_progress`؛ خُصصت متطلبات طلب السعر للخدمات الست المتبقية بالعربية والإنجليزية في [المحتوى العربي](./cleaning-services/workforce-operations/content-ar.md) و[الإنجليزي](./cleaning-services/workforce-operations/content-en.md) و[المراجعة](./cleaning-services/workforce-operations/review.md)، وأُعيدت قراءة الملفات الثلاثة بعد الحفظ.
 - أول نقص تالٍ: `cleaning-services/homes-buildings-cleaning` خدمة بخدمة، ثم `disinfection-sanitisation` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`، ثم تخصصات `equipment-rental` الثمانية، ثم مطابقة 50 تخصصًا و434 خدمة في كل لغة مع شجرة الشركات وتدقيق التفرد والسلامة والتصنيفات. لا تبدأ المويجعي.
+
+
+## متابعة تنظيف المنازل والمباني — 2026-11-11
+- الحالة `in_progress`؛ أضيفت متطلبات طلب سعر مستقلة للخدمات السبع بالعربية والإنجليزية في [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/homes-buildings-cleaning/content-en.md) و[المراجعة](./cleaning-services/homes-buildings-cleaning/review.md)، وتم التحقق بإعادة القراءة.
+- أول نقص تالٍ: `cleaning-services/disinfection-sanitisation` ثم `tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`؛ بعدها تدقيق تخصصات `equipment-rental` الثمانية، والمطابقة النهائية لجميع 50 تخصصًا و434 خدمة في كل لغة، بما فيها التفرد والسلامة والتصنيفات. لا تبدأ المويجعي.

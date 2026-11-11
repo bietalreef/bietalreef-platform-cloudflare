@@ -133,63 +133,61 @@ List offices, meeting rooms, shared touchpoints, toilets and reception areas, wi
 
 ### 29. Maintenance management
 
-List properties, systems, incident history, priorities and contractor responsibility. Compare ticketing, escalation, approvals and billing; inspect open/closed work registers.
+Begin with an asset register, maintenance contracts, fault history and a priority scale for each property. State site count, response hours, approval authority and recurring equipment faults. Compare ticket intake, escalation, contractor coordination, spending limits and parts charged separately. Management and actual repair work must not be conflated. Accept the service against open and closed work orders, delay reasons and linked invoices.
 
 ### 30. Facility operations
 
-Map facilities, plant rooms, operating hours, owners, tenants and access. Compare monitoring, vendor coordination and utility reporting; inspect auditable daily logs.
+List buildings, plant rooms, pumps, lifts, HVAC and electrical systems, operating hours and access authority. Require shift coverage, handover logs, critical-system monitoring and emergency coordination rather than mere on-site attendance. Compare staff qualifications, operating records, energy readings and repair exclusions. A facilities operator is not automatically qualified for every specialist intervention. Review daily logs, outages, corrective actions and parts requests.
 
 ### 31. Preventive maintenance
 
-Inventory assets, age, manuals, risks and failures. Compare monthly/seasonal plans, consumables and inspection evidence; review recurring faults.
+Build preventive maintenance around equipment registers, manufacturer guidance, operating hours and fault history. Supply model numbers, ages and nameplate photographs for pumps, air-conditioning and electrical assets. Require a task schedule separating inspection, cleaning, calibration, replacement and testing, with isolation procedures and parts exclusions. Compare asset coverage, measurement records and corrective follow-up. A signed attendance sheet alone is not proof that maintenance was performed.
 
 ### 32. Electrical systems monitoring
 
-Identify boards, feeders, critical loads and outage history, with qualified-access rules. Compare inspections, suitable thermal surveys and isolation procedures; require readings and exceptions per board.
+Provide distribution-board schedules, critical loads and outage history; do not open live panels merely to take photographs. Define qualified inspection, relevant measurements and safe isolation procedures. Distinguish monitoring from electrical repairs and state when thermal inspection is appropriate. Compare panel counts, visit frequency, response and reporting. Accept dated readings, risk-ranked defects and evidence that faults were rectified or referred to competent specialists.
 
 ### 33. AC systems monitoring
 
-List AC assets, operating hours, setpoints and complaints by zone. Compare temperature/airflow checks, logs and alerts; obtain an actionable deviation list.
+List HVAC units, types, locations, operating hours and rooms with inconsistent cooling. Supply nameplates and service history. Request temperature and airflow measurements and checks of filters, drainage and controls appropriate to the system. Compare monitoring frequency, energy trends and early warnings, with compressor replacement and other parts priced separately. Review before-and-after readings and causes of deviations rather than relying on a brief impression of cool air.
 
 ### 34. Plumbing and drainage monitoring
 
-Map pumps, tanks, drains, wet rooms and leak or blockage history. Compare patrols, meter readings and drain checks; track outstanding leak items.
+Describe water supply, tanks, pumps, drainage routes, previous leaks and meter readings. Photograph damp patches without dismantling finishes prematurely. Require a plan for appropriate pressure, leak and drain checks, and identify specialist work or opening-up as separate tasks. Compare inspection points, visit frequency and response time. Review meter logs, unresolved issues and repair tests before concealed work is closed.
 
 ### 35. Building condition reports
 
-Provide building age, photos of façades, roof, rooms, plant and reason for review. Compare scope, defect severity and supporting photographs; accept prioritised recommendations and limitations.
+State whether the building-condition report supports handover, maintenance planning or visible-defect assessment; a visual survey is not a structural engineering certification. Supply age, available drawings, service history and photographs of cracks, dampness and equipment. Require clear inspection limits, inaccessible areas, tests and risk priorities. Compare professional scope and evidence, not page count. Check dated photographs, defect locations, actionable recommendations and referral of structural concerns to qualified experts.
 
 ## Workforce and operational support
 
 ### 36. Cleaning personnel provision
 
-Specify cleaning area, shifts, tasks, equipment and who supplies consumables. Compare crew count, supervision, absence cover and duties; inspect attendance and task logs.
+Provide floor area, surface types, toilets, waste points, operating hours and a task schedule distinguishing routine from deep cleaning. Clarify who supplies chemicals, machines and consumables. Compare actual staffing hours, supervision, absence cover and safe chemical handling. High-access work and hazardous substances are not automatically included. Accept through attendance records, completed checklists, sampled quality inspections and damage reporting.
 
 ### 37. Loading crew provision
 
-Identify load dimensions/weight, stairs, transfer distance and truck access. Compare crew size, handling aids and safe methods; verify cleared unloading areas.
+Supply weights, dimensions, quantities, floor levels, carrying distances, truck access and lift availability. Photograph routes and obstacles and identify loads requiring mechanical handling. Quotes should state crew size, shift, protective equipment, packaging and responsibility for damage or delays. Compare workload and site conditions, not headcount alone. Check quantities, damage and removal of packaging without obstructing exits.
 
 ### 38. Maintenance technician provision
 
-Specify technician discipline, fault complexity and defined scope of work. Compare competence, staffing, parts and required permissions; obtain job sheets and tests.
+Identify whether the required technician is for electrical, plumbing, HVAC or finishing work, and provide fault symptoms, equipment numbers and repair history. Confirm qualifications, permitted work, tools, attendance hours and testing, with parts separate from labour. A general technician must not undertake restricted or hazardous work beyond competence. Compare response, repair documentation and warranty terms. Accept diagnostic notes, test results and outstanding issues.
 
 ### 39. Site supervisor provision
 
-Set site size, headcount, shifts, safety inspections and owner reporting. Compare supervisor duties, capability, coverage and stop-work authority; inspect site reports.
+Define workforce size, trades, shifts, project stages, reporting authority and who approves changes. A site supervisor is not automatically the appointed designer or statutory supervising engineer. Provide the programme, drawings and inspection hold points. Compare relevant experience, presence, daily records, risk control and concealed-work documentation. Accept attendance, progress photographs, decisions and unresolved items rather than a generic summary.
 
 ### 40. Residential compound operations
 
-Schedule shared residential areas, assets, cleaning and maintenance and complaints. Compare shift management, subcontractors and emergencies; receive building-level reports.
+Inventory residential buildings, units, common spaces, plant and complaint channels, and distinguish landlord, manager and tenant responsibilities. Require cleaning and maintenance plans, shifts, emergency response, supplier monitoring and privacy-conscious complaint records. Compare building coverage, staffing, performance indicators and separate material costs. Security and tenancy administration are not included unless specified. Review building-by-building reports, recurring faults and unresolved expenditure.
 
 ### 41. Commercial facility operations
 
-Map tenants, footfall, circulation, plant rooms, security and cleaning interface. Compare contractor coordination, tenant disruption and access hours; inspect incident and task logs.
+Document tenant activities, public hours, circulation spaces, plant rooms, delivery slots and waste arrangements. Specify coordination of cleaning and maintenance around trading hours, incident handling and out-of-hours access. Compare coverage, emergency planning, supplier coordination and extra-work rates, with licensed specialist services separately defined. Review dated work orders, incident logs, tenant feedback and open safety issues.
 
 ### 42. Project support services
 
-Specify support tasks such as moving, cleaning or setup, with clear boundaries. Compare crews, tools, duration and acceptance point; document exclusions and consumable responsibility.
-
-
+Break the broad term project support into measurable tasks: material transport, site preparation, cleaning or assistants, with quantities, weights, dates and handover points. Supply site photographs, access routes and interfaces with other contractors. Require explicit staffing, equipment, consumables, waste responsibility and exclusions. Compare defined outputs rather than an undefined all-inclusive promise. Accept against a task and quantity checklist, site condition and recorded exceptions.
 
 ## Cleaning or pest-management quotation brief
 

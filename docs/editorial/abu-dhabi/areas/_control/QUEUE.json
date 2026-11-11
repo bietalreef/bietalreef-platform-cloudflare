@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Verified GitHub bilingual independent rewrite through general-maintenance service 49. Total 154/434; next 50 (تأسيس شبكات المياه). in_progress; human review required.",
+      "review_note": "Re-fetched both general-maintenance content files from GitHub: 105 sequential service headings each; independently rewritten 50–63 AR/EN, 63/105 maintenance and 168/434 area. Next 64 Split AC installation. in_progress; independent technical/language review pending.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "السباكة والصرف",
-        "independently_rewritten_services": 49,
+        "specialty": "التكييف والتبريد",
+        "independently_rewritten_services": 63,
         "area_total": 434,
-        "area_independently_rewritten": 154,
-        "next_service_number": 50,
-        "remaining_in_sector": 56,
-        "remaining_area_services_for_originality_review": 280,
+        "area_independently_rewritten": 168,
+        "next_service_number": 64,
+        "remaining_in_sector": 42,
+        "remaining_area_services_for_originality_review": 266,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -381,7 +381,21 @@
           46,
           47,
           48,
-          49
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
         ]
       }
     },

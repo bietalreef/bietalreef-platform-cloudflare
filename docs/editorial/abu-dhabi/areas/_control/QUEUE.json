@@ -317,14 +317,15 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "14/434 independently rewritten bilingual service explanations; next general-contracting service 15 ترميم المباني القديمة. Existing remaining headings are not editorial completion; 420 services require original rewrites. No publication.",
+      "review_note": "21/434 independently rewritten bilingual service entries, 413 remain; 56 headings in each contracting file, but inherited draft coverage is not editorial completion. Resume at service 22; no publication.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "الترميم والتجديد",
-        "independently_rewritten_services": 14,
+        "specialty": "الهدم والأعمال الخرسانية",
+        "independently_rewritten_services": 21,
         "area_total": 434,
-        "next_service_number": 15,
-        "remaining_area_services_for_originality_review": 420,
+        "next_service_number": 22,
+        "remaining_in_sector": 35,
+        "remaining_area_services_for_originality_review": 413,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

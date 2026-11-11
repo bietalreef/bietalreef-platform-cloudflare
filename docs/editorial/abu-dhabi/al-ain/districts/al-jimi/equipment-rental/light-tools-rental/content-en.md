@@ -2,6 +2,8 @@
 
 Guidance for company hire enquiries, not a live inventory or supplier listing. Select tools for the actual task, site and safety requirements.
 
+**Handover safeguard:** Record the serial number, safety accessories and any meter readings; agree who checks electrical equipment before use and how faults are reported. Delivery alone is not approval to operate equipment that has not been checked for site suitability.
+
 ## 1. Generator rental
 
 For a site without permanent supply, list running and starting loads, concurrent operation, cable route, ventilation and generator location. Starting currents may require a larger unit than a simple sum of ratings.

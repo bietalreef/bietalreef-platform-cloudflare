@@ -120,6 +120,8 @@ When two villa refurbishment quotations differ substantially, check whether they
 
 ## Interior design and material selection
 
+### 29. Majlis design
+
 ty, seating style, hospitality access and privacy; measure wall lengths, ceiling height, doors and AC positions. Compare circulation, seating layouts and cleanable finishes. Receive a dimensioned furniture plan, lighting locations and finish samples.
 
 ### 30. Living room design

@@ -771,3 +771,8 @@
 ## تدقيق طلبات أسعار التطهير والتعقيم — 2026-11-11
 - الحالة العامة `in_progress`؛ أُضيفت مدخلات مستقلة لطلب السعر لخدمتي «رش وتعقيم المنازل» و«تعقيم المكاتب والمنشآت» بالعربية والإنجليزية، مع التفريق بين تجهيز المنزل والمناطق التشغيلية في المنشآت. [العربية](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [مراجعة التخصص](./cleaning-services/disinfection-sanitisation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتطابقت.
 - **النواقص الدقيقة التالية:** تدقيق `cleaning-services/tanks-pools-cleaning` ثم `facades-site-cleaning` ثم `pest-rodent-control` خدمة بخدمة؛ إعادة فحص ملفات `equipment-rental` الثمانية؛ مطابقة جميع عناوين خدمات الشركات الـ434 في كل لغة عبر 50 تخصصًا و8 قطاعات مع الشجرة، ثم تدقيق التفرد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة تعقيم الخزانات — 2026-11-11
+
+- الحالة: `in_progress`؛ خُصصت فقرة الحاجة لخدمة «تعقيم الخزانات» بالعربية والإنجليزية، مع توضيح أن التعقيم لا يزيل الرواسب ولا يثبت صلاحية المياه للشرب. [العربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) · [English](./cleaning-services/tanks-pools-cleaning/content-en.md) · [مراجعة التخصص](./cleaning-services/tanks-pools-cleaning/review.md).
+- أول نقص تالٍ: مراجعة فقرات `cleaning-services/facades-site-cleaning` ثم `pest-rodent-control`، وبعدها تدقيق تخصصات `equipment-rental` الثمانية، ثم المطابقة الكاملة لجميع خدمات الشركات الـ434 في كل لغة والتفرد والسلامة والقيود قبل اعتماد الجيمي. لا تبدأ المويجعي.

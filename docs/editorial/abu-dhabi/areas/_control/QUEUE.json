@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Independently rewritten 133/434 bilingual services; maintenance 28/105; next service 29 ceramic tiling. 301 remaining; in_progress; no publication.",
+      "review_note": "Independently rewritten 140/434 bilingual services; maintenance 35/105; next service 36 building electrical installation. 294 remaining; in_progress; no publication.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الأرضيات والكسوات",
-        "independently_rewritten_services": 28,
+        "specialty": "الكهرباء والإنارة",
+        "independently_rewritten_services": 35,
         "area_total": 434,
-        "area_independently_rewritten": 133,
-        "next_service_number": 29,
-        "remaining_in_sector": 77,
-        "remaining_area_services_for_originality_review": 301,
+        "area_independently_rewritten": 140,
+        "next_service_number": 36,
+        "remaining_in_sector": 70,
+        "remaining_area_services_for_originality_review": 294,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -360,7 +360,14 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
         ]
       }
     },

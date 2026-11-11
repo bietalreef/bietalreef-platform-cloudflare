@@ -15,7 +15,13 @@ test('Local city guide reads the same platform-approved service relations as pub
 test('No phantom specialized providers when a cleaning service has zero verified matches',()=>{
  const model=read('lib/alAinCleaningModel.js'), page=read('components/AlAinCleaningPage.js');
  assert.match(model,/relatedProviders = service && !selected\.length/);
- assert.match(model,/indexable:selected\.length>0/);
+ assert.match(model,/indexable:reviewedEditorial/);
+ assert.match(model,/function hasReviewedCleaningGuide/);
+ assert.doesNotMatch(model,/indexable:selected\.length>0/);
+ assert.match(model,/providers:selected, relatedProviders/);
+ const route=read('lib/localRouteProps.js'), sitemap=read('pages/sitemap.xml.js');
+ assert.match(sitemap,/\.\.\.cleaningGuideSitemap\(\)/);
+ assert.match(page,/noIndex=\{!model\.indexable\}/);
  assert.match(page,/!exactMatch/);
  assert.match(page,/اسأل الشركة عن الخدمة المطلوبة تحديدًا/);
 });

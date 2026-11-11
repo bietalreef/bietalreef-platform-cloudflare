@@ -26,10 +26,12 @@ test('canonical and reciprocal Arabic/English alternates', () => {
   assert.deepEqual(ar.alternates, en.alternates); assert.equal(ar.alternates.default, ar.canonical);
   assert.throws(() => localPath({ area: '../bad' }));
 });
-test('unreviewed local evidence fails quality gate even with a provider', () => {
-  const model = pageModel({ area: 'al-jimi', category: CATEGORY.slug, providers });
-  assert.equal(model.indexable, false);
-  assert.equal(isIndexableAreaPage({ area: 'al-jimi', category: CATEGORY.slug, providers, title: 't', description: 'd', canonical: model.canonical, links: ['a', 'b'] }), false);
+test('independent district cleaning category remains indexable without providers', () => {
+  const model = pageModel({ area: 'al-jimi', category: CATEGORY.slug, providers: [] });
+  assert.equal(model.indexable, true);
+  assert.equal(model.schema.mainEntity.itemListElement.length, 0);
+  assert.equal(isIndexableAreaPage({ area: 'al-jimi', category: CATEGORY.slug, providers: [], title: 't', description: 'd', canonical: model.canonical, links: ['a', 'b'] }), true);
+  assert.equal(pageModel({ area: 'al-jimi', category: CATEGORY.slug, service: 'sofa-cleaning', providers }).indexable, false);
 });
 test('quality gate admits reviewed evidence and still requires demand for services', () => {
   const area = getLocalArea('al-jimi'), prior = area.editorial;
@@ -38,7 +40,7 @@ test('quality gate admits reviewed evidence and still requires demand for servic
     const context = { area: area.slug, category: CATEGORY.slug, providers };
     assert.equal(pageModel(context).indexable, true);
     assert.equal(pageModel({ ...context, service: 'sofa-cleaning' }).indexable, false);
-    assert.equal(pageModel({ ...context, providers: [] }).indexable, false);
+    assert.equal(pageModel({ ...context, providers: [] }).indexable, true);
   } finally { area.editorial = prior; }
 });
 test('schema contains a collection of entity references, never fictitious businesses', () => {
@@ -49,13 +51,14 @@ test('schema contains a collection of entity references, never fictitious busine
   assert.doesNotMatch(JSON.stringify(model.schema), /PostalAddress|geo|aggregateRating|CleaningService/);
 });
 test('sitemap includes original bilingual district hubs, excluding unreviewed service permutations', () => {
-  const entries = localSitemap(providers); assert.equal(entries.length, 40);
+  const entries = localSitemap(providers); assert.equal(entries.length, 76);
   assert.equal(new Set(entries.map(x => x.loc)).size, entries.length);
-  assert.equal(localSitemap([]).length, 36);
-  for (const entry of entries) { assert.doesNotMatch(entry.loc, /\?|\/al-jimi\/cleaning-services/); }
+  assert.equal(localSitemap([]).length, 72);
+  for (const entry of entries) { assert.doesNotMatch(entry.loc, /\?/); }
   const district = entries.filter(x => /\/al-ain\/(?:al-|zakher|asharej|sanaiya|remah|sweihan|mazid|nahil|falaj-hazza)/.test(x.loc));
-  assert.equal(district.length, 36);
-  assert.ok(district.every(x => x.lastmod === '2026-11-09'));
+  assert.equal(district.length, 72);
+  assert.equal(district.filter(x => /\/cleaning-services$/.test(x.loc)).length, 36);
+  assert.ok(district.filter(x => !/\/cleaning-services$/.test(x.loc)).every(x => x.lastmod === '2026-11-09'));
 });
 test('missing provider/service/area and invalid category fail safely', () => {
   assert.equal(pageModel({ area: 'missing' }), null);

@@ -7,6 +7,7 @@ import {UAE_EMIRATES} from '../data/siteTaxonomy';
 import {areaEditorialFor} from '../data/sharjahAjmanAreaEditorial';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import { localSitemap } from '../lib/localServices';
+import { cleaningGuideSitemap } from '../lib/alAinCleaningModel';
 import { getLocalProviders } from '../lib/localProviderData';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
@@ -83,7 +84,7 @@ function buildSitemapXml(entries) {
 }
 
 export async function getServerSideProps({ res }) {
-  const entries = [...buildSearchIndexEntries(), ...localSitemap(await getLocalProviders())];
+  const entries = [...buildSearchIndexEntries(), ...localSitemap(await getLocalProviders()), ...cleaningGuideSitemap()];
   const [providerCards, products] = await Promise.all([
     getPublishedProviderCards('ar'),
     getPublishedProductsForSitemap('ar'),

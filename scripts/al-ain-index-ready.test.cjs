@@ -21,11 +21,12 @@ for(const place of AREAS){
     assert.equal(model.schema['@type'],'CollectionPage');
     assert.equal(model.schema.mainEntity.itemListElement.length,0,'do not fabricate providers');
   }
-  assert.equal(pageModel({area:place.slug,category:CATEGORY.slug,providers:[]}).indexable,false,'do not index unreviewed service permutations');
+  assert.equal(pageModel({area:place.slug,category:CATEGORY.slug,providers:[]}).indexable,true,'reviewed district category is useful without companies');
 }
 const sitemap=localSitemap([]);
-assert.equal(sitemap.length,AREAS.length*2,'original bilingual districts appear in sitemap without companies');
-assert.ok(sitemap.every(x=>x.lastmod==='2026-11-09'),'updated area hubs carry honest revision date');
+assert.equal(sitemap.length,AREAS.length*4,'district hubs and cleaning categories appear in both languages');
+assert.ok(sitemap.filter(x=>!/\/cleaning-services$/.test(x.loc)).every(x=>x.lastmod==='2026-11-09'),'district hubs carry honest revision dates');
+assert.equal(sitemap.filter(x=>/\/cleaning-services$/.test(x.loc)).length,AREAS.length*2);
 assert.equal(new Set(sitemap.map(x=>x.loc)).size,sitemap.length);
 const districtPage=read('components/LocalServicesPage.js');
 assert.match(districtPage,/import DirectorySectorQuoteForm/);

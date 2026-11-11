@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Independently rewritten 140/434 bilingual services; maintenance 35/105; next service 36 building electrical installation. 294 remaining; in_progress; no publication.",
+      "review_note": "Verified GitHub bilingual independent rewrite through general-maintenance service 49. Total 154/434; next 50 (تأسيس شبكات المياه). in_progress; human review required.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الكهرباء والإنارة",
-        "independently_rewritten_services": 35,
+        "specialty": "السباكة والصرف",
+        "independently_rewritten_services": 49,
         "area_total": 434,
-        "area_independently_rewritten": 140,
-        "next_service_number": 36,
-        "remaining_in_sector": 70,
-        "remaining_area_services_for_originality_review": 294,
+        "area_independently_rewritten": 154,
+        "next_service_number": 50,
+        "remaining_in_sector": 56,
+        "remaining_area_services_for_originality_review": 280,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -367,7 +367,21 @@
           32,
           33,
           34,
-          35
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
         ]
       }
     },

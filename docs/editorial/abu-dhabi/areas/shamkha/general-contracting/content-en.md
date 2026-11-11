@@ -97,25 +97,25 @@ A retaining wall, shear wall and water-tank wall have different design requireme
 Waste hauling is separate from the demolition operation. Photograph the material, estimate its volume, identify concrete, block, timber and any material needing special handling, and describe the collection area and on-site haul distance. Quotations should state container or trip quantities, vehicle capacities, loading labour, surface protection, truck access and disposal arrangements compliant with applicable requirements. Potentially hazardous waste must be assessed and segregated rather than mixed with ordinary rubble. Confirm that fragments, sharp debris and transport routes are cleaned at completion.
 
 ### Home garden design
-Measure the plot, boundaries, shade patterns, entrances and available water and power points before commissioning a layout. Ask for scaled planting, seating, circulation and drainage plans, plus a plant schedule with quantities and supply sizes. Compare design fees by deliverables, revisions and construction details; a rendering alone is not a measurable handover.
+Start with a measured plot plan showing access, seating, shade, water and power points, and sun-exposure photographs. Request drawings for planting, irrigation, drainage, lighting and paths, with a plant schedule and maintenance requirements. Compare quantities and specifications, not renderings alone. Accept the design after checking dimensions, utility routes, materials, indicative costs and phasing.
 
 ### Villa garden landscaping
-Survey levels and identify existing trees, inspection covers and buried services to protect. Separate soil preparation, irrigation, planting, edging, lighting and paths in the quotation. Confirm responsibility for waterproofing and utility protection. Inspect grading, irrigation operation and the installed plant list at handover.
+Photograph existing trees, mark what must remain and supply garden dimensions and door threshold levels. Compare quotations separately for soil preparation, irrigation, planting, paving and lighting, including establishment care. Inspect soil levels, drainage, plant stability and irrigation operation; water should not accumulate against villa walls.
 
 ### Outdoor space design
-Explain whether the space is intended for play, seating, walking or cooking, including expected users and accessibility needs. The plan should resolve pedestrian routes, shade, lighting, drainage and junctions with the building. Compare usability and upkeep alongside appearance, and request dimensioned drawings and a material schedule.
+Identify children's play, seating, cooking and any vehicle movements, with clearances and utility points. Evaluate shade, privacy, slip resistance and drainage from washing or irrigation. Distinguish fixed structures from movable furniture. Check that the delivered plans show usable dimensions, surface falls, materials and maintenance access.
 
 ### Green lawn establishment
-Provide the area in square metres, intended foot traffic and available irrigation. Require assessment of soil, levels and drainage before planting. Quotes should identify soil preparation, turf establishment method, initial watering, establishment period and treatment of failed patches. Check evenness, drainage and written aftercare instructions.
+Measure the area and assess water availability, soil and sunlight before selecting turf or groundcover. The scope should include clearing, grading, soil improvement, irrigation and establishment, not planting alone. Agree replacement criteria for failed patches and inspect coverage, ponding and irrigation performance before acceptance.
 
 ### Tree and shrub planting
-Mark planting positions and distances from walls and utilities, and list species, quantities and required nursery sizes. Compare root-ball quality, excavation, soil amendment, supports and watering rather than tree count alone. Check planting depth, stability, undamaged stems and an agreed establishment follow-up.
+List species, quantities, delivered sizes and setbacks from buildings, pipes and paths. Compare root-ball condition, pit preparation, amendments, supports, watering and aftercare rather than advertised plant height alone. At handover inspect planting depth, stability, support ties and growth clearances, with a record of installed species.
 
 ### Natural turf installation
-State the lawn area, shade exposure and use, with photographs of soil and sprinkler points. Pricing should distinguish weed clearance, grading, growing medium, turf species and origin, laying and establishment watering. Check joints, bare patches and irrigation coverage; agree when heavy use can begin.
+Specify area, grass type, turf source, soil condition and irrigation supply. Ask for removal of old weeds, grading, soil preparation, laying or seeding, initial watering and the no-traffic establishment period. Compare turf density and batch uniformity; inspect seams, falls and signs of drying or ponding during establishment.
 
 ### Artificial grass installation
-Measure the area and explain whether it is decorative, for walking or for children's play. Request physical samples and specifications for pile, backing, infill, base layers, drainage, seams and anchoring. Compare warranties and stated heat and wear limitations. Inspect levelness, unobtrusive joins and drainage after testing.
+Provide exact area, intended use, sun exposure and drainage routes. Quotations should identify compacted sub-base, fibre specification, pile height, seams, edge restraints and any infill. Compare material and workmanship warranties, cleaning requirements and potential surface heat. Inspect levelness, seam security, edge fixings and runoff away from the building.
 
 ### Plant and tree installation
 Supply a location plan, species and quantities, with photographs of sun exposure and planter dimensions. Specify delivery size, soil mix, initial feeding and irrigation for each plant group. Small nursery plants should not be priced as mature trees. Match labels and quantities at handover and inspect visible plant health and root-zone watering.

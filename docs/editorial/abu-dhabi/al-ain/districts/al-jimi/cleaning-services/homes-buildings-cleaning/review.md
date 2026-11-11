@@ -9,3 +9,5 @@ Seven company services in exact source order; both language versions include dis
 5. التنظيف بعد التشطيب / Post-fit-out cleaning
 6. التنظيف قبل الانتقال / Pre-move-in cleaning
 7. عقود التنظيف الدورية / Recurring cleaning contracts
+
+- متابعة 2026-11-11: خُصصت سبعة متطلبات طلب سعر لكل لغة لخدمات تنظيف الفلل والشقق والمكاتب والمباني وما بعد التشطيب وقبل الانتقال والعقود الدورية. أُعيدت قراءة ملفي المحتوى بعد الرفع؛ مراجعة الجيمي الشاملة مستمرة.

@@ -739,3 +739,9 @@
 
 - **الحالة: `in_progress`**؛ تم استبدال سبع جمل اتفاق وتسعير متكررة في كل من [العربية](./cleaning-services/upholstery-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/upholstery-cleaning/content-en.md) بتفاصيل مستقلة للكنب والسجاد والموكيت والمجالس والمراتب والستائر والتعقيم، وتحديث [مراجعة التخصص](./cleaning-services/upholstery-cleaning/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub بعد الكتابة وتطابقت.
 - **أول نواقص دقيقة تالية:** تدقيق فقرات `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`disinfection-sanitisation` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`؛ ثم مراجعة جميع ملفات `equipment-rental` الثمانية، ثم تدقيق التخصصات الخمسين والخدمات الـ434 بالعربية والإنجليزية ومطابقة الأسماء والترتيب والتفرد والسلامة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## استكمال تدقيق تشغيل وصيانة المباني — 2026-11-11
+
+- **الحالة `in_progress`**؛ خُصصت سبعة متطلبات طلب سعر بالعربية وسبعة بالإنجليزية في [تشغيل وصيانة المباني](./cleaning-services/building-facility-operations/review.md)، وتحققت مطابقة [العربي](./cleaning-services/building-facility-operations/content-ar.md) و[الإنجليزي](./cleaning-services/building-facility-operations/content-en.md) بعد الرفع.
+- **أول نواقص محددة:** تدقيق `cleaning-services/workforce-operations` ثم `homes-buildings-cleaning` و`disinfection-sanitisation` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`، ثم التخصصات الثمانية في `equipment-rental`، ثم الجرد النهائي لخمسين تخصصًا و434 خدمة في كل لغة ومطابقة الشجرة والتفرد والسلامة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

@@ -817,3 +817,9 @@
 - الحالة `in_progress`؛ خُصصت دواعي تنظيف المسبح والبيانات المطلوبة للتسعير بالعربية والإنجليزية في [العربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/tanks-pools-cleaning/content-en.md)، مع تحديث [مراجعة التخصص](./cleaning-services/tanks-pools-cleaning/review.md). تم التحقق من الملفات الثلاثة بإعادة قراءتها بعد الحفظ.
 - فُصل اتساخ الأسطح عن تعكر المياه المحتمل ارتباطه بالترشيح أو كيمياء المياه، وأضيفت قياسات الحوض وحالة الكسوة وتاريخ التنظيف والمواد المضافة.
 - **أول نواقص دقيقة:** استكمال مراجعة جميع فقرات خدمات `cleaning-services/tanks-pools-cleaning` الثلاث، ثم `building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`disinfection-sanitisation` و`facades-site-cleaning` و`pest-rodent-control`؛ إعادة تدقيق تخصصات `equipment-rental` الثمانية؛ مطابقة 50 تخصصًا و434 خدمة في كل لغة حرفيًا مع شجرة الشركات، ومراجعة التفرد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تصحيح فحص استلام تنظيف خزانات المياه — 2026-11-12
+
+- **الحالة: `in_progress`**؛ لم تُعتمد الجيمي ولا يبدأ المويجعي.
+- صُحح معيار الاستلام في [العربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/tanks-pools-cleaning/content-en.md) بحيث يتحقق العميل من إزالة الرواسب الظاهرة فعلًا، مع توثيق حالة الغطاء والمحابس والعيوب التي تتطلب إصلاحًا منفصلًا. أُعيدت قراءة الملفين بعد رفعهما.
+- **النواقص التالية:** تدقيق بقية بنود خدمات تنظيف الخزانات والمسابح الثلاث، ثم `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`disinfection-sanitisation` و`facades-site-cleaning` و`pest-rodent-control`؛ إعادة فحص `equipment-rental` بتخصصاته الثمانية؛ المطابقة الحرفية لجميع تخصصات الشركات الخمسين وخدماتها الـ434 في كل لغة مع الشجرة، ثم تدقيق التفرد والسلامة وحالات التصنيف. لا يُحتسب مجرد وجود الملفات اعتمادًا نهائيًا.

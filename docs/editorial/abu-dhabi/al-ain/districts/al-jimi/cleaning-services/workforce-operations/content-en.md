@@ -28,6 +28,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Acceptance checks:** Count items and inspect edges, floors and corners after handling; record damage immediately.
 
+**Quotation inputs:** State item counts, heaviest weights, longest carrying distances, floors and loading windows. Request crew and waiting-hour rates, with packing or hoists separately priced where needed.
+
 ## 3. Maintenance technician supply
 
 **When to request it:** Repeated electrical, HVAC or plumbing faults call for a trade-qualified technician, not a generic worker for every system.
@@ -39,6 +41,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 **Quote comparison and agreement:** Compare trade credentials, test instruments, callout response and records; require approval for additional repairs.
 
 **Acceptance checks:** Request a fault report, safe test readings, completed work and next actions, with agreed operational checks.
+
+**Quotation inputs:** Name the required trade, system counts and locations, coverage hours and recurring faults. Ask for callout labour, parts, materials and after-hours response to be priced separately.
 
 ## 4. Site supervisor supply
 
@@ -52,6 +56,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Acceptance checks:** Review snag logs, corrective actions, meeting attendance and area handover status.
 
+**Quotation inputs:** Supply the project programme, crew count, inspection checkpoints and reporting requirements. Specify continuous presence or periodic visits and request clear supervisor authority and overtime rates.
+
 ## 5. Residential compound operations
 
 **When to request it:** Residential compounds need coordinated shared-area services and resident requests without intruding on private units.
@@ -63,6 +69,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 **Quote comparison and agreement:** Compare helpdesk hours, ticket closure evidence, data privacy and emergency coverage; name subcontractor accountability.
 
 **Acceptance checks:** Sample closed tickets, common areas, maintenance logs and overdue explanations before accepting reports.
+
+**Quotation inputs:** Give unit, building and shared-facility counts, helpdesk hours and required service measures. Ask for shared-area operations, in-unit maintenance and emergencies to be priced distinctly.
 
 ## 6. Commercial facility operations
 
@@ -76,6 +84,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Acceptance checks:** Check safe access routes, entrance condition, fault reports and closed work orders.
 
+**Quotation inputs:** Identify common areas, tenant numbers, peak periods, permit needs and overnight service windows. Ask for shift cover, tenant coordination and incident response as separate cost items.
+
 ## 7. Project support services
 
 **When to request it:** Projects may need logistics, inventory and housekeeping support without assigning unqualified technical work.
@@ -87,6 +97,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 **Quote comparison and agreement:** Compare stock accountability, loss reporting, PPE, shifts and damage notifications; fix each shift's scope.
 
 **Acceptance checks:** Reconcile receipt and issue sheets to stock, check clear walkways and close exception logs.
+
+**Quotation inputs:** Share delivery volumes, storage areas, distribution points and project duration. Request separate inventory, handling and shift costs, excluding regulated equipment operation unless expressly contracted.
 
 ## Request a quotation
 

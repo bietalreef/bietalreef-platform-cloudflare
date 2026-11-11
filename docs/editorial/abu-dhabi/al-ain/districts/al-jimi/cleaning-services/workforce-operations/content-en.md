@@ -14,6 +14,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Acceptance checks:** Match attendance to washroom, touchpoint and floor checks; log missed tasks before signing off a shift.
 
+**Quotation inputs:** Specify cleaners per shift, working days and holidays, absence cover, and who supplies consumables and PPE. Ask for supervision and materials to be itemised separately from staffing.
+
 ## 2. Loading staff supply
 
 **When to request it:** Moving heavy furniture or cartons requires planning around weights, stairs and carrying distances.

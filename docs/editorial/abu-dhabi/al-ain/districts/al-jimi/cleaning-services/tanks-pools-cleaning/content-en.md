@@ -22,7 +22,7 @@ This is preparatory information for company and establishment services, not a li
 
 ## 2. Water tank disinfection
 
-**When it is needed:** disinfection does not replace prior physical cleaning.
+**When it is needed:** Following physical cleaning of a drinking-water tank, or where a documented concern calls for microbial treatment assessed by a competent provider. Ask why disinfection is proposed and what steps it includes; spraying alone neither removes deposits nor establishes that the water is safe.
 
 **Photos and specifications:** Provide tank material, capacity, water source and cleaning record.
 

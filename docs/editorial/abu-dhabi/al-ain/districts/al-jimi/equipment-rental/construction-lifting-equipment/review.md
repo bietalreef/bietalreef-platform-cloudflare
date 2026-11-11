@@ -12,3 +12,5 @@
 5. تأجير الخلاطات / Concrete mixer rental
 6. تأجير معدات قص الخرسانة / Concrete-cutting equipment rental
 7. تأجير معدات المشاريع / General project equipment rental
+
+- تدقيق إضافي 2026-11-11: إضافة تنبيه ثنائي اللغة بشأن السلامة/التسليم؛ لا يُغني عن المراجعة الشاملة للمنطقة.

@@ -320,16 +320,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "HVAC services 64–77 independently rewritten in both languages; GitHub re-fetch confirmed 105 sequential headings per language in general-maintenance. Area 182/434 rewritten, 252 remaining. Next 78 smart lighting control. Human technical and language review pending.",
+      "review_note": "2026-11-11: smart systems services 78–91 independently rewritten AR/EN; both GitHub files re-fetched and all 14 numbered headings and paragraphs verified. 196/434 rewritten; 238 remain. Next general-maintenance service 92 (دهان الفلل). Pending independent technical/regulatory/language review.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "أنظمة المنزل الذكي",
-        "independently_rewritten_services": 77,
+        "specialty": "الدهانات",
+        "independently_rewritten_services": 91,
         "area_total": 434,
-        "area_independently_rewritten": 182,
-        "next_service_number": 78,
-        "remaining_in_sector": 28,
-        "remaining_area_services_for_originality_review": 252,
+        "area_independently_rewritten": 196,
+        "next_service_number": 92,
+        "remaining_in_sector": 14,
+        "remaining_area_services_for_originality_review": 238,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -409,7 +409,21 @@
           74,
           75,
           76,
-          77
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91
         ]
       }
     },

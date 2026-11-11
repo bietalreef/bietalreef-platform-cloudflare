@@ -35,4 +35,28 @@ test('migrate old reviewed UAE provider/service routes to current eight-sector g
  for (const [from,to] of samples) assert.equal(destination(routes,from),to,from);
  assert.equal(AREAS.some(a=>a.slug==='al-yahar'),true);
  assert.equal(routes.filter(r=>r.source.includes('/directory/')).every(r=>r.permanent),true);
+ // Full taxonomy cross-product: every legacy sector and tab, with and without
+ // a specific area and in both languages, must have exactly one permanent match.
+ const taxonomy = {
+  'construction-contracting':'general-contracting',
+  'engineering-design':'interior-design',
+  'maintenance-finishing':'general-maintenance',
+  'building-materials-supply':'building-materials',
+  'aluminium-glass-wood':'aluminium-glass',
+  'cleaning-operations-equipment':'cleaning-services',
+  'factories-workshops-stores':'equipment-rental',
+ };
+ for (const lang of ['', '/en']) {
+  for (const section of ['providers','services-offers','products-stores']) {
+   for (const [legacy, sector] of Object.entries(taxonomy)) {
+    const cityOld = lang + '/uae/dubai/jebel-ali/directory/' + section + '/' + legacy;
+    const cityNew = lang + '/uae/dubai/jebel-ali/' + sector;
+    assert.equal(destination(routes,cityOld),cityNew,cityOld);
+    const emirateOld = lang + '/uae/sharjah/directory/' + section + '/' + legacy;
+    const emirateNew = lang + '/uae/sharjah/' + sector;
+    assert.equal(destination(routes,emirateOld),emirateNew,emirateOld);
+   }
+  }
+ }
+
 });

@@ -8,6 +8,8 @@ For facade finishing or elevated maintenance, a generic request for scaffolding 
 
 **Quotation, exclusions and acceptance:** Clarify whether transport, erection, dismantling, ladders, guardrails, base plates and periodic inspections are included; allocate permit and exclusion-zone responsibilities. Finishing labour is not automatically included. Compare identical platform sizes and hire periods; at handover check ties, level, inspection records and component inventory.
 
+**Additional safety check:** Before accepting a quote, identify who verifies ground bearing under outriggers, who stops lifting when wind or site conditions change, and how people are kept clear of suspended loads. Crane capacity cannot be selected by load weight alone; allowable capacity varies with radius and boom configuration.
+
 ## 2. Crane rental
 
 For lifting an AC unit, steel or materials to an upper floor, provide load weight and dimensions, pick-up and landing points and lift radius—not just height. Share road, overhead-line, ground and outrigger-position photos; request suitability assessment and a competent lift plan.

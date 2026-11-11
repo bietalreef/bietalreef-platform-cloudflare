@@ -10,7 +10,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Scope and exclusions:** inspect harbourage, use permitted bait or treatment and agreed sealing; plumbing repair excluded.
 
-**Compare quotations and agree terms:** Check visit count and food or child safety precautions; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+**Compare quotations and agree terms:** Check visit count and food or child safety precautions; record treatment points, safe re-entry instructions, follow-up timing and any additional visit charge in writing.
 
 **Acceptance:** Verify treatment locations and monitoring plan. Record outstanding issues with dated photos.
 
@@ -28,7 +28,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Scope and exclusions:** trace trails and apply suitable approved control; demolition excluded.
 
-**Compare quotations and agree terms:** Check bait checks and responsibility for sealing; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+**Compare quotations and agree terms:** Check bait checks and responsibility for sealing; specify who monitors baits, seals entry gaps and checks the affected trails after treatment.
 
 **Acceptance:** Verify activity along recorded trails. Record outstanding issues with dated photos.
 
@@ -46,7 +46,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Scope and exclusions:** survey entry points and secure monitoring stations; major building works excluded.
 
-**Compare quotations and agree terms:** Check station map, checks and safe disposal; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+**Compare quotations and agree terms:** Check station map, checks and safe disposal; document secured station locations, inspection frequency, carcass disposal and unresolved access gaps.
 
 **Acceptance:** Verify station log and unresolved openings. Record outstanding issues with dated photos.
 
@@ -64,7 +64,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Scope and exclusions:** inspect harbourage and plan suitable treatments and follow-up; furniture disposal excluded unless agreed.
 
-**Compare quotations and agree terms:** Check laundry preparation and repeat visits; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+**Compare quotations and agree terms:** Check laundry preparation and repeat visits; agree laundry and bedding preparation, repeat inspections and how persistent signs will be reported.
 
 **Acceptance:** Verify reinspection of original hotspots. Record outstanding issues with dated photos.
 
@@ -82,7 +82,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Scope and exclusions:** scheduled inspection, monitoring, reports and escalation; structural cleaning excluded.
 
-**Compare quotations and agree terms:** Check emergency callouts, response targets and permitted products; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
+**Compare quotations and agree terms:** Check emergency callouts, response targets and permitted products; specify routine inspection frequency, incident escalation triggers, reporting format and building-management duties.
 
 **Acceptance:** Verify trend reports and unresolved recommendations. Record outstanding issues with dated photos.
 

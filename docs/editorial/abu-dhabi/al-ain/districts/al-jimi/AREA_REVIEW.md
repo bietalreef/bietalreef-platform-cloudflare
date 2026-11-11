@@ -752,3 +752,8 @@
 - الحالة: `in_progress`؛ لم يُعتمد اكتمال الجيمي أو المطابقة النهائية للخدمات الـ434 في كل لغة.
 - أُضيفت مدخلات تسعير خاصة بخدمة «توفير عمال النظافة» بالعربية والإنجليزية: عدد العمال في الوردية، أيام العمل والعطل، تغطية الغياب، توفير المواد ومعدات الوقاية، وفصل تكلفة الإشراف والمواد. [العربية](./cleaning-services/workforce-operations/content-ar.md) · [English](./cleaning-services/workforce-operations/content-en.md) · [مراجعة التخصص](./cleaning-services/workforce-operations/review.md). أُعيدت قراءة الملفات الثلاثة بعد الرفع وتأكد وجود التعديل.
 - أول نقص تحريري تالٍ: استكمال فحص الفقرات الداخلية للخدمات الست المتبقية في `cleaning-services/workforce-operations`، ثم `homes-buildings-cleaning` و`disinfection-sanitisation` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`، ثم ملفات `equipment-rental` الثمانية. يلزم بعد ذلك مطابقة جميع أسماء خدمات الشركات الـ434 في كل لغة، وترتيبها والتفرد والسلامة والتصنيفات المقيدة والمقترحة عبر القطاعات الثمانية قبل اعتماد المنطقة. لا يبدأ المويجعي.
+
+
+## متابعة خدمات العمالة والتشغيل — 2026-11-11
+- الحالة: `in_progress`؛ خُصصت متطلبات طلب السعر للخدمات الست المتبقية بالعربية والإنجليزية في [المحتوى العربي](./cleaning-services/workforce-operations/content-ar.md) و[الإنجليزي](./cleaning-services/workforce-operations/content-en.md) و[المراجعة](./cleaning-services/workforce-operations/review.md)، وأُعيدت قراءة الملفات الثلاثة بعد الحفظ.
+- أول نقص تالٍ: `cleaning-services/homes-buildings-cleaning` خدمة بخدمة، ثم `disinfection-sanitisation` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control`، ثم تخصصات `equipment-rental` الثمانية، ثم مطابقة 50 تخصصًا و434 خدمة في كل لغة مع شجرة الشركات وتدقيق التفرد والسلامة والتصنيفات. لا تبدأ المويجعي.

@@ -316,8 +316,18 @@
         "docs/editorial/abu-dhabi/areas/shamkha/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
-      "last_attempt": "2026-11-07",
-      "review_note": "EDITORIAL ORIGINALITY BLOCKER (2026-11-07): 434 AR/434 EN headings across 8 sectors verified, but service-body comparison after normalizing area names shows 378/434 identical against other areas for Khalifa City and 434/434 identical between Mohammed Bin Zayed City and Al Shamkha in each language. Counts are coverage only, not editorial completion. Re-author service-specific locality guidance and verify bilingual/technical claims before approval or publication."
+      "last_attempt": "2026-11-11",
+      "review_note": "All 434 service headings per language exist as coverage drafts, but originality audit identified reused material. Independently rewritten and re-fetched Shamkha contracting services 1–7 AR/EN on 2026-11-11; 427 services still need independent rewrite; no publication approval.",
+      "editorial_progress": {
+        "sector": "general-contracting",
+        "specialty": "إنشاء المباني والفلل",
+        "independently_rewritten_services": 7,
+        "area_total": 434,
+        "next_service_number": 8,
+        "remaining_area_services_for_originality_review": 427,
+        "editorial_draft_completed": false,
+        "area_editorially_approved": false
+      }
     },
     {
       "sequence": 5,

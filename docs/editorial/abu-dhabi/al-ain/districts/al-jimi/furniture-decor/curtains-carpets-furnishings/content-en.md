@@ -14,7 +14,7 @@ This guide helps residents and premises in Al Jimi prepare a clear enquiry for c
 
 **Acceptance:** Inspect matching lengths, straight hems, regular pleats, panel overlap and appearance in daylight and when drawn.
 
-**Quotation request:** Send dimensions, photos, quantities and Al Jimi delivery location to Biet Al Reef customer service for a possible quotation enquiry. No company, price or date is guaranteed.
+**Quotation request:** Send a window-by-window schedule of track widths, finished drops, fabric codes, pleat styles and lining choices. Ask Biet Al Reef customer service to seek separate fabric, sewing, track and fitting quotations, including who pays for adjustments after the first hanging. No company, price or delivery date is guaranteed.
 
 ## 2. Curtain installation
 
@@ -26,7 +26,7 @@ This guide helps residents and premises in Al Jimi prepare a clear enquiry for c
 
 **Acceptance:** Open and close every panel end-to-end, test the stops and supports, and confirm that rails remain secure and curtains clear doors and appliances.
 
-**Quotation request:** Send photographs, quantities and access details to Biet Al Reef customer service for an enquiry; availability and timing remain unconfirmed.
+**Quotation request:** Provide the mounting substrate, rail lengths, curtain weights, installation heights and access photographs. Ask Biet Al Reef customer service for a per-window fitting quote that identifies anchors, safe access, removal of old tracks and hole repairs separately. Provider availability and timing are unconfirmed.
 
 ## 3. Upholstery fabric supply
 
@@ -38,7 +38,7 @@ This guide helps residents and premises in Al Jimi prepare a clear enquiry for c
 
 **Acceptance:** Check delivered length, colour and batch identification against the sample; inspect the weave for defects before any cutting.
 
-**Quotation request:** Share the item list, measurements and sample requirements with Biet Al Reef customer service. A supplier, price and delivery date cannot be promised.
+**Quotation request:** List the furniture pieces, fabric width, estimated running metres, pattern repeat and swatch or dye-lot reference. Ask Biet Al Reef customer service to compare price per metre, cutting waste, transport and the return policy for uncut fabric; upholstery labour should be quoted separately. Supplier, price and date are not guaranteed.
 
 ## 4. Rugs and fitted carpet supply
 
@@ -50,7 +50,7 @@ This guide helps residents and premises in Al Jimi prepare a clear enquiry for c
 
 **Acceptance:** Verify pile direction, flat seams, secure edges, unobstructed doors and that the delivered design and dimensions match the approved sample.
 
-**Quotation request:** Send the sketch, photos and requested area to Biet Al Reef customer service for a possible quotation enquiry without any guarantee of provider availability or price.
+**Quotation request:** Supply measured room areas, a seam plan, pile direction and a distinction between loose rugs and fitted carpet. Ask Biet Al Reef customer service to request itemised material, underlay, edge binding, adhesive, fitting and old-floor removal costs, with waste allowance stated. No provider, price or schedule is assured.
 
 ## 5. Mattress supply
 
@@ -62,4 +62,4 @@ This guide helps residents and premises in Al Jimi prepare a clear enquiry for c
 
 **Acceptance:** Check the size label, model, packaging integrity, surface condition and fit on the bed frame. Record visible defects before accepting delivery.
 
-**Quotation request:** Send the bed dimensions, access photos and model requirements to Biet Al Reef customer service. This proposed category is not automatically active, and no supplier, price or date is guaranteed.
+**Quotation request:** State the exact bed-base dimensions, preferred firmness, mattress height, quantity and delivery access restrictions. Ask Biet Al Reef customer service to compare specified models, written trial and warranty terms, room delivery and removal of the old mattress as separate items. This proposed category is not active by default; availability, price and dates are unconfirmed.

@@ -675,3 +675,9 @@
 ## متابعة تنجيد المجالس والكنب — 2026-11-11
 - الحالة `in_progress`؛ خُصصت خمس فقرات طلب سعر بالعربية وخمس بالإنجليزية في [تنجيد المجالس والكنب](./furniture-decor/majlis-upholstery/review.md)، وتم التحقق من ملفي المحتوى بعد الرفع.
 - **أول نقص دقيق تالٍ:** `furniture-decor/curtains-carpets-furnishings/content-ar.md` ثم `content-en.md` و`review.md`؛ وبعدها مراجعة `equipment-rental` و`cleaning-services` ثم الجرد الشامل لجميع 50 تخصصًا و434 خدمة بكل لغة، مع التحقق من الأسماء والتكرار والسلامة وحالات التصنيف. لا يبدأ المويجعي.
+
+
+## متابعة مصانع الألمنيوم والزجاج — 2026-11-11
+
+- **الحالة: `in_progress`**؛ خُصصت معايير التحقق الفني للخدمات السبع بالعربية والإنجليزية في [المحتوى العربي](./equipment-rental/aluminium-glass-factories/content-ar.md) و[English](./equipment-rental/aluminium-glass-factories/content-en.md)، ووُثق التدقيق في [مراجعة التخصص](./equipment-rental/aluminium-glass-factories/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub بعد الحفظ وتطابقت.
+- **أول نقص تالٍ:** استكمال فحص تخصصات قطاع `equipment-rental` السبعة الأخرى بدءًا من التخصص التالي في ترتيب شجرة `TAXONOMY_SOURCE_AR.md`، ثم جميع تخصصات `cleaning-services`، ثم الجرد النهائي للتخصصات الخمسين والخدمات الـ434 في كل لغة، وتدقيق التفرد والسلامة وحالات التصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي كاملة.

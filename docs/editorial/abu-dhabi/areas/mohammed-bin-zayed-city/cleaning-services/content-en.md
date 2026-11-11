@@ -69,65 +69,65 @@ Disinfecting upholstery is a different claim from removing dirt or odour. First 
 
 ### 15. Glass façade cleaning
 
-Measure glazing area, height, access and direct sunlight exposure. Compare purified-water methods, high-level access and fall protection; inspect streaks and gaskets.
+Survey glazing height, pane count, coatings, frames and seals; supply overall photographs and close-ups of mineral deposits or adhesive marks. Agree whether ground-based tools suffice or specialist access is required, and who provides barriers and protects pedestrians. Request a small compatibility test before scraping or applying chemicals. Compare measured glass area, access equipment, frame cleaning and corridor closures. Inspect in varied light for streaks, scratches, damaged seals and water ingress.
 
 ### 16. Building exterior cleaning
 
-Identify painted, stone or aluminium façade and stains, joints and leak points. Compare trial patches, water pressure and chemicals; inspect for flaking or water ingress.
+Identify whether the façade is painted, stone-clad, aluminium or composite, and photograph stains, cracked joints and areas prone to leakage. Include heights and access points in the enquiry. Ask for a trial patch and a method statement addressing pressure, chemicals, runoff and protection of windows. Repairs and repainting are separate unless expressly priced. Compare access, drainage and inspection stages; accept the work after drying, checking for discoloration, peeling or water entering joints.
 
 ### 17. Car park cleaning
 
-Record parking area, oil marks, tyre residue, drains and vehicle flow. Compare degreasing, sweeping and planned closure windows; inspect dry floors and clear drains.
+Measure parking bays and circulation lanes by level, identify concrete or epoxy finishes, and mark oil stains, tyre deposits and drains. Agree staged vehicle clearance and quiet working hours. Quotations should distinguish sweeping, suitable degreasing, mechanical scrubbing, wastewater collection and reopening times. Compare surface area and contamination rather than a generic per-bay figure. Check that bay markings remain intact, walkways are dry and non-slippery, and drains are not filled with debris.
 
 ### 18. Industrial site cleaning
 
-Classify industrial soil, equipment and areas off-limits due to electrical or hazardous materials. Compare controlled cleaning and specialist waste handling; document cleaned zones without claiming unknown hazards were removed.
+Map the areas to be cleaned and separate offices from operating machinery, oily floors and potentially hazardous waste. Supply site photos, known substance information and shutdown arrangements. Ordinary cleaning staff must not be assumed competent to handle unidentified chemicals or live equipment; require site risk assessment and qualified waste handling where necessary. Compare isolation, protective equipment, wastewater controls and waste records. Accept against an area-by-area log including exclusions and incidents, not photographs alone.
 
 ## Water tank and pool cleaning
 
 ### 19. Water tank cleaning
 
-Specify tank type, capacity, location, water shutdown and sediment condition. Compare drainage, sludge removal, scrubbing, rinsing and safe entry; inspect photographs and closure.
+Record tank material, approximate capacity, location, access, water use and visible sediment. Arrange a supply interruption and safe drainage before removing deposits, brushing and rinsing without damaging liners or fittings. Enclosed tanks may present confined-space hazards and must not be entered without appropriate assessment and controls. Compare cleaning, waste removal and photo records separately from disinfection or water testing. Before restoring supply, check covers, floats, connections and the cleaning log.
 
 ### 20. Water tank disinfection
 
-Confirm potable or other water use, product, dose and labelled contact time. Compare pre-cleaning, rinsing, refill and suitable testing; do not assert water safety without evidence.
+Remove sediment before proposing disinfection, and establish the tank volume, lining and intended water use. Require the product name, suitability, concentration, contact time, measurement and rinsing method under its instructions. Explain how users are prevented from drawing water during treatment. Compare documented dosing, return-to-service timing and whether independent sampling is included. Applying disinfectant does not itself establish drinking-water safety; any such claim needs appropriate test evidence. Obtain the treatment record and verify the tank is secured.
 
 ### 21. Swimming pool cleaning
 
-Record pool dimensions, lining, filters, circulation equipment and water clarity. Compare floor/wall cleaning, skimmers and water balance as separate tasks; inspect clarity and recorded readings.
+Provide pool dimensions, depth, lining type, photographs of staining or algae, and filter and pump condition. Clarify routine cleaning versus full drainage, water disposal and separate repairs. Ask for a schedule covering vacuuming, walls, baskets, filtration and relevant water chemistry readings. Compare visit frequency, actual tasks and consumables; clear-looking water alone does not establish safe conditions. Inspect surfaces and equipment and obtain operating and test records before accepting the service.
 
 ## Pest management
 
 ### 22. Cockroach control
 
-Map cockroach sightings, likely species, food, moisture and harbourage before treatment. Compare sanitation, sealing and suitable baiting by a competent provider; request follow-up rather than instant-eradication promises.
+Photograph sightings and identify moisture, cracks and food sources without exposing occupants to pesticides. Ask for inspection of harbourage and entry points before selecting bait or another suitable treatment. The quote should state occupant and pet precautions, product directions, follow-up visits and the competence of the operator. Compare inspection points and monitoring outcomes, not spray counts. Obtain a treatment map and prevention advice; one visit cannot guarantee permanent eradication.
 
 ### 23. Ant control
 
-Trace ant trails, entry points, food and moisture sources, indoor or outdoor. Compare colony identification, baiting and monitoring rather than blanket spraying; obtain prevention recommendations.
+Map ant trails, entry points, nearby food and water and potential outdoor nests. Request inspection and removal of attractants before choosing suitable bait or barriers; indiscriminate spraying may miss the colony. Disclose children, pets and food preparation areas. Compare monitoring points, follow-up timing and whether gap sealing is included. Obtain instructions on leaving bait undisturbed and a record of remaining activity, rather than relying on a brief absence of visible ants.
 
 ### 24. Rodent control
 
-Photograph gnawing and droppings, identify entry points, food stores and children’s areas. Compare proofing, protected bait stations and sanitation; document monitoring positions.
+Photograph gnaw marks, droppings and gaps around doors or pipes, especially near food storage. A sound plan combines exclusion, sanitation and appropriately protected traps or bait stations. Never accept exposed poison or unrecorded placements; clarify safe removal of carcasses and contaminated material. Compare inspection intervals, station mapping and activity indicators. On completion check the station log and outstanding building repairs; one captured animal does not prove all routes are sealed.
 
 ### 25. Bed bug treatment
 
-Map rooms and bed frames, and photograph specimens where possible; bites alone do not establish the pest. Compare inspection, repeat treatment and textiles handling by a qualified provider; agree follow-up checkpoints.
+Bites alone do not confirm bedbugs. Request inspection of mattress seams, bed frames, adjacent furniture and curtains; photograph any insects or traces found. State room and bed counts and ask how linen and possessions should be handled without spreading infestation. Compare inspection scope, treatment preparation, resident precautions and planned follow-up visits rather than instant-eradication claims. Obtain a treated-area list, laundry instructions and a date for reinspection.
 
 ### 26. Scheduled pest contracts
 
-Identify facility type, food handling, entry points, visits and past complaints. Compare preventive inspections, reporting and response commitments; require dated records, not just spray counts.
+A recurring pest-control contract should begin with building use, storage, waste points, grounds and historical sightings. Require a monitoring plan with inspections, traps, prevention measures and a route for urgent reports, rather than automatic spraying at every visit. Compare documented site coverage, emergency response, operator competence and corrective actions. Review dated station maps, trend records and open issues each month before approving the service.
 
 ## Disinfection services
 
 ### 27. Home surface disinfection
 
-Identify high-touch surfaces, occupants and soil condition before selecting a disinfectant. Compare cleaning first, surface compatibility, labelled dwell time and ventilation; check an itemised list without implying air sterilisation.
+Define whether the household needs ordinary cleaning or targeted surface disinfection. List rooms, high-touch surfaces, vulnerable finishes, children, pets and suitable vacancy periods. Require product identification, approved surface use, contact time and ventilation instructions; fragrance or airborne spraying is not proof of disinfection. Compare pre-cleaning, surface coverage, electronics protection and records. Check the treatment log and re-entry advice without accepting promises of lasting infection prevention.
 
 ### 28. Commercial facility disinfection
 
-Map shared rooms, contact surfaces, sensitive electronics and suitable closure periods. Compare product concentration, application, equipment protection and safety data; accept area logs, not absolute infection-prevention promises.
+List offices, meeting rooms, shared touchpoints, toilets and reception areas, with occupancy hours and moisture-sensitive devices. Assess the need for disinfection, clean visible dirt first and use a surface-compatible product with its required contact time and ventilation. Compare room coverage, out-of-hours access, consumables and documentation. Inspect the checklist, equipment condition and reopening guidance; sweeping claims of eliminating all pathogens require evidence.
 
 ## Building operation and facilities management
 

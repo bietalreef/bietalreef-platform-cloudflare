@@ -317,15 +317,15 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Verified bilingual independent rewrite through service 35 of 434; 399 remain, continue service 36. No publication approval.",
+      "review_note": "Independent bilingual editorial rewrites verified through service 42/434; general-contracting 42/56; next service 43 irrigation network design. Remaining 392. Draft not approved or published.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "تنسيق الحدائق",
-        "independently_rewritten_services": 35,
+        "specialty": "شبكات الري",
+        "independently_rewritten_services": 42,
         "area_total": 434,
-        "next_service_number": 36,
-        "remaining_in_sector": 21,
-        "remaining_area_services_for_originality_review": 399,
+        "next_service_number": 43,
+        "remaining_in_sector": 14,
+        "remaining_area_services_for_originality_review": 392,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

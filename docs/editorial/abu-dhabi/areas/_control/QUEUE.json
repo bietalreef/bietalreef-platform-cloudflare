@@ -317,15 +317,15 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "21/434 independently rewritten bilingual service entries, 413 remain; 56 headings in each contracting file, but inherited draft coverage is not editorial completion. Resume at service 22; no publication.",
+      "review_note": "Services 22-28 demolition and concrete rewritten bilingually and GitHub files re-read; 28/434 independently rewritten, 406 remain; no publication approval.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "الهدم والأعمال الخرسانية",
-        "independently_rewritten_services": 21,
+        "specialty": "تنسيق الحدائق",
+        "independently_rewritten_services": 28,
         "area_total": 434,
-        "next_service_number": 22,
-        "remaining_in_sector": 35,
-        "remaining_area_services_for_originality_review": 413,
+        "next_service_number": 29,
+        "remaining_in_sector": 28,
+        "remaining_area_services_for_originality_review": 406,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

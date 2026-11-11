@@ -8,31 +8,31 @@ An Al Shamkha villa entrance design should account for pedestrian routes, car mo
 
 ### 1. Villa design
 
-Start with household size, reception arrangements and privacy needs. Have the designer reconcile room layouts with a measured plot, access points and applicable site constraints. Compare proposals by floor plans, circulation, elevations, coordination with structural and building services disciplines, and included revision rounds. Check room, door and parking dimensions against the agreed brief before accepting the design.
+Before commissioning a villa design, prepare a brief covering bedrooms, the relationship between reception and family entrances, privacy, parking, storage and service rooms. Have the plot measured and its boundaries, levels and applicable constraints checked by the responsible professional rather than assuming a permitted floor area. Request alternative layouts, an area schedule and dimensioned circulation plans. Compare consultants by design stages, revision rounds and structural/MEP coordination, then accept only clearly versioned drawings with unresolved decisions recorded.
 
 ### 2. Residential building design
 
-Define unit count, unit sizes, separate entrances and shared utilities. Survey the plot and levels, then locate lifts and stairs before comparing schemes. Request unit area schedules, floor plans and circulation diagrams; have the responsible professional check access and escape provisions against the project's applicable requirements.
+Define the intended apartment mix, privacy expectations and shared facilities before a residential building is laid out. Ask the designer to examine how entrances, lifts, stairs and service routes work together, and distinguish usable room areas from gross floor area. Proposals should specify whether parking studies, service coordination and elevation design are included. At handover, reconcile unit schedules, room dimensions, light wells and service positions across the drawing set before detailed design proceeds.
 
 ### 3. Commercial building design
 
-Specify intended uses, lettable areas, storage, loading and visitor flows. Compare layouts for future subdivision, service distribution and operational space rather than façade appearance alone. The handover should show entrances, exits, clear dimensions and interfaces requiring engineering coordination.
+Describe the proposed uses of commercial units, customer access, storage, deliveries and possible future subdivision. Obtain dimensioned layouts showing columns, entrances, circulation and plant/service areas. Compare options for operational flexibility, maintainability and coordination of air-conditioning, electrical and drainage systems. Receive an area schedule and coordinated plans, and have the appointed professional assess safety and authority requirements for the actual use without assuming approval has been granted.
 
 ### 4. Architectural drawing preparation
 
-Provide measured dimensions or reliable base drawings and state whether the set is for concept review, pricing or construction. Request coordinated plans, elevations, sections, dimensions and levels, with a revision register. Do not treat pricing drawings as construction-ready without checking their detail and coordination.
+State whether drawings are needed for concept review, contractor pricing, interdisciplinary coordination or construction. Provide a site survey or existing plans and flag unverified dimensions. Agree which plans, elevations, sections, levels and opening schedules belong to the deliverable stage. Compare quotations by revision allowances and clash-resolution responsibility. At handover, check scales, revision numbers and dimensional consistency between sheets; pricing drawings should not automatically be treated as construction documents.
 
 ### 5. Façade redesign
 
-Photograph the existing elevation, measure openings and projections, and mark AC equipment, drainage and lighting. Compare cladding options for fixing method, colour, cleaning and maintenance, including junctions at windows. Approve physical samples and material junction details before final sign-off.
+Photograph every affected elevation and record window and door openings, AC units, downpipes, projections and levels. Ask for material alternatives that explain weight, fixing systems, moisture protection and future cleaning rather than visuals alone. The designer should detail interfaces at openings and exposed edges, with a qualified review of effects on existing construction. Accept physical samples, installation details and a finish schedule suitable for consistent contractor quotations.
 
 ### 6. 3D architectural modelling
 
-Clarify whether the deliverable is a massing study, coordination model or presentation visuals. Supply drawings and levels and identify elements that must be dimensionally reliable. Check model geometry against the plans, and distinguish illustrative finishes or furniture from approved construction specifications.
+Specify whether the model is for massing and spatial tests, component coordination or presentation images. Supply reference dimensions and levels, identify geometry based on approved drawings, and label illustrative furniture and finishes. Compare proposals by level of detail, file formats, number of views and revision rounds. At handover, check door openings, heights and grids against source drawings; photorealistic renders do not replace construction details.
 
 ### 7. Amending existing plans
 
-Supply the latest drawing issue, site photographs and a precise change request. Distinguish partition rearrangement from changes affecting load-bearing elements or services, and identify impacted disciplines. Receive a dated revision set with changes clearly marked and cross-check it against related drawings.
+Provide the latest drawing issue, annotated change requests and photographs of existing conditions. Separate straightforward room-layout revisions from alterations affecting load-bearing walls, slab openings or building services, which require discipline-specific assessment. Compare proposals by affected drawing count, coordination work and any approval review. Accept a dated revised set with change clouds or a revision register, and ensure superseded drawings are withdrawn.
 
 ### 8. Permit drawing preparation
 

@@ -36,37 +36,31 @@ Provide the latest drawing issue, annotated change requests and photographs of e
 
 ### 8. Permit drawing preparation
 
-Identify the project type, proposed works and relevant authority before commissioning a submission set. Request a document checklist, discipline responsibilities and any excluded authority fees. Preparation does not guarantee approval; verify the current submission requirements and signed drawing set with the appointed professional.
+Permit-submission drawings serve a different purpose from concept images or contractor pricing plans. First define the property, proposed works and plot boundaries, then have the consultant check current official submission requirements and identify the architectural, structural and building-services sheets applicable to that case. Supply site information, existing approvals and owner details; request a document and revision register with a named discipline owner. Compare quotations for preparation, responses to comments, revisions and excluded charges. At handover, reconcile project identifiers, dimensions and drawing numbers. Neither preparation nor upload of a package constitutes an approval.
 
 ### 9. Building application submission
 
-Agree who is authorised to submit, respond to authority comments and pay fees. Validate owner, site and drawing details before submission. Ask for an application reference, status record and response log; submitting an application is not the same as obtaining approval.
+Before engaging a consultant to submit a building application, agree the applicant's authority, any required authorisation, who prepares attachments, answers comments and pays charges. Check ownership, site and scope details against the drawings before submission and retain the uploaded document list. Clarify whether the fee covers resubmissions and responses or only the initial filing. Request the application reference, submission date, status history and correspondence log; verify the actual authority decision. An application number alone is not permission to start construction.
 
 ### 10. Revision of approved drawings
 
-Mark each proposed change against the approved issue and provide site records where construction has begun. Ask the designer to assess structural, services, cost and schedule implications and whether authority review is needed. Do not build material departures solely from an unchecked revised sketch.
+If room layouts, openings or dimensions change after drawings have been approved, provide a marked comparison of the approved and proposed versions, plus site photographs if work has started. Ask the designer to identify affected sheets, assess structural and MEP consequences and establish whether regulatory review is needed. Compare quotations by disciplines involved, coordination and reissue rounds. Receive a revision schedule and clearly numbered new drawing issue. Do not substitute revised sketches for approved site documents before completing any required process.
 
 ### 11. Maintenance permit coordination
 
-Describe the exact works: finish repairs, equipment replacement, or alterations to building elements or services. Have the appointed specialist determine which documents and approvals apply and who tracks the application. Check whether permission is required before work begins; maintenance jobs do not all follow one process.
+The label 'maintenance' does not by itself determine the approval route. Describe the defect, repair location and whether walls, services or structural elements will be opened or changed; include photographs and approximate affected dimensions. Have a qualified consultant verify the current official requirements for the specific work and identify responsibility for drawings, documents and any inspection. Compare coordination fees separately from authority charges and repair work. Receive a submission record, status and copies of any issued permits before undertaking work that requires one.
 
 ### 12. Extension permit coordination
 
-Define the proposed extension's area, dimensions, connection to the existing structure and utility tie-ins. Structural assessment and coordinated architectural and services drawings may be necessary; agree on responsibility and deliverables. Acceptance of an application for review is not permission to construct.
+For a proposed extension, show its position on a plot plan, area, dimensions, height and connections to the existing building. Supply elevation photographs, known service routes and available structural plans; foundation and tie-in details may require separate engineering assessment. Compare proposals for survey, design, structural and MEP coordination, comment responses and explicit exclusions. At handover, check consistency across submitted drawings and records. Acceptance for assessment is not an issued construction permit.
 
 ### 13. As-built survey drawings
 
-Where current drawings are missing, commission measurements of rooms, openings, levels and visible equipment, supported by reference photographs. Clearly label surveyed, inferred and concealed information. Recheck critical dimensions before using the drawings for fabrication or submissions.
+As-built survey drawings are useful when historic plans no longer match the site, especially before cabinetry fabrication, opening alterations or renovation. Define the measured scope: room and opening dimensions, floor and ceiling levels, visible columns and equipment, and accessible service points. Use numbered photographs and cross-check critical measurements; concealed or inferred features must be identified rather than presented as verified. Compare quotes by survey accuracy, file formats and corrective visits. Receive dated drawings that can be checked against the actual premises.
 
 ### 14. Authority approval coordination
 
-Request an approval matrix showing potentially relevant authorities, required documents and the responsible party, without assuming every approval applies. Agree response ownership, redraw allowances and fees. Obtain a correspondence register and actual approval records rather than verbal assurances.
-
-## Preparing a quotation request
-
-Provide the site, property type, approximate area, available plans and photographs of existing conditions. State required deliverables and the intended timeline. Compare drawing scope, revision rounds, coordination responsibilities and excluded fees. If no company is listed, Biet Alreef customer service can receive the enquiry without promising provider availability or a price. Individual tradespeople remain a separate directory from companies and establishments.
-
-## Structural design
+Approval coordination is not a universal single permit. Define the proposed works, intended use and responsible parties, then have the consultant build an authority-and-document matrix using the relevant current official sources. Request a register identifying each document's owner, issue date and submission status, with clear responsibility for responding to comments, redraws and charges. Compare offers by follow-up scope and tangible deliverables, not a promise to 'obtain every approval'. At handover, check actual decisions, conditions and validity periods where stated; enquiries and filing receipts are not approvals.
 
 ### 15. Concrete structural system design
 

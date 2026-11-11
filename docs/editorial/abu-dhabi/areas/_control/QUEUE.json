@@ -320,17 +320,17 @@
         "docs/editorial/abu-dhabi/areas/shamkha/cleaning-services/review.md",
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
-      "last_attempt": "2026-11-11",
-      "review_note": "Verified on GitHub: 217/434 independently rewritten bilingual service explanations. Three sectors complete; building-materials services 1–7 rewritten and verified; resume at service 8. All remaining drafts need independent rewriting and human review.",
+      "last_attempt": "2026-11-12",
+      "review_note": "Three sectors independently rewritten (210 services). Building-materials 1–14 independently rewritten bilingually; 15–49 and four further sectors remain (210 services). Area in_progress; human review pending.",
       "editorial_progress": {
         "sector": "building-materials",
         "specialty": "مواد البناء والتشطيب",
-        "independently_rewritten_services": 7,
+        "independently_rewritten_services": 14,
         "area_total": 434,
-        "area_independently_rewritten": 217,
-        "next_service_number": 8,
-        "remaining_in_sector": 42,
-        "remaining_area_services_for_originality_review": 217,
+        "area_independently_rewritten": 224,
+        "next_service_number": 15,
+        "remaining_in_sector": 35,
+        "remaining_area_services_for_originality_review": 210,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -340,7 +340,14 @@
           4,
           5,
           6,
-          7
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
         ]
       }
     },

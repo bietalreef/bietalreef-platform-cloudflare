@@ -321,16 +321,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Building materials 1–28 independently revised in AR/EN; 29–49 remain drafts. Area 238/434 revised; 196 remaining. 49 sequential headings verified in both language files. Human review pending.",
+      "review_note": "Verified bilingual rewrite through building-materials service 35; 245/434 independently rewritten, 189 remain; human review pending.",
       "editorial_progress": {
         "sector": "building-materials",
-        "specialty": "الأخشاب والألواح",
-        "independently_rewritten_services": 28,
+        "specialty": "أسطح المطابخ والمغاسل",
+        "independently_rewritten_services": 35,
         "area_total": 434,
-        "area_independently_rewritten": 238,
-        "next_service_number": 29,
-        "remaining_in_sector": 21,
-        "remaining_area_services_for_originality_review": 196,
+        "area_independently_rewritten": 245,
+        "next_service_number": 36,
+        "remaining_in_sector": 14,
+        "remaining_area_services_for_originality_review": 189,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -361,7 +361,14 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
         ]
       }
     },

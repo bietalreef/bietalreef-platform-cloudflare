@@ -321,16 +321,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Three sectors independently rewritten (210 services). Building-materials 1–14 independently rewritten bilingually; 15–49 and four further sectors remain (210 services). Area in_progress; human review pending.",
+      "review_note": "Verified bilingual editorial rewrites for building materials 1–21. Remaining 22–49 and four further sectors; no publication approval.",
       "editorial_progress": {
         "sector": "building-materials",
         "specialty": "مواد البناء والتشطيب",
-        "independently_rewritten_services": 14,
+        "independently_rewritten_services": 21,
         "area_total": 434,
-        "area_independently_rewritten": 224,
-        "next_service_number": 15,
-        "remaining_in_sector": 35,
-        "remaining_area_services_for_originality_review": 210,
+        "area_independently_rewritten": 231,
+        "next_service_number": 22,
+        "remaining_in_sector": 28,
+        "remaining_area_services_for_originality_review": 203,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -347,7 +347,14 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ]
       }
     },

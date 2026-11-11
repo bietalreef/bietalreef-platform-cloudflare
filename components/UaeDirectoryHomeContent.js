@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { UAE_EMIRATES, SERVICE_CATEGORIES, UAE_PRODUCT_CATEGORIES } from '../data/siteTaxonomy';
+import { UAE_EMIRATES, UAE_PRODUCT_CATEGORIES } from '../data/siteTaxonomy';
+import { UAE_MAIN_SECTORS } from '../data/directoryDiscovery';
 import { uaeAreaHref } from '../lib/navigation';
 import { UAE_DIRECTORY_SECTION_SLUGS } from '../lib/platformDirectoryCards';
 import UaeProviderJoinCTA from './UaeProviderJoinCTA';
@@ -83,7 +84,20 @@ export function UaeDirectoryExploreFooter({
   const locationLinks = emirate
     ? emirate.areas.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: uaeAreaHref(locale, emirate.slug, item.slug) }))
     : UAE_EMIRATES.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: `${root}/${item.slug}` }));
-  const serviceRoot = emirate ? `${root}/${emirate.slug}${area ? `/${area.slug}` : ''}` : `${root}/abu-dhabi`;
+  const serviceRoot = emirate ? `${root}/${emirate.slug}${area ? `/${area.slug}` : ''}` : isEn ? '/en/categories' : '/services';
+  // The eight approved sectors are the only public discovery categories.
+  // Link to the existing canonical sector routes; never generate a new taxonomy.
+  const sectorGroup = {
+    title: isEn ? 'Browse companies by sector' : 'ابحث عن الشركات حسب القطاع',
+    text: isEn ? 'Approved UAE sector guides' : 'دليل القطاعات المعتمدة في الإمارات',
+    icon: icons.tools,
+    links: UAE_MAIN_SECTORS.map((sector) => ({
+      label: sector.slug === 'cleaning-services'
+        ? (isEn ? 'Cleaning companies and services' : 'شركات تنظيف وخدمات تعقيم')
+        : sector.name[locale],
+      href: `${serviceRoot}/${sector.slug}`,
+    })),
+  };
   const directoryGroups = [
     { key: 'providers', titleAr: 'الشركات والمهنيون', titleEn: 'Service providers', textAr: 'الشركات والمؤسسات والحرفيون', textEn: 'Companies and professionals', icon: icons.provider },
     { key: 'services_offers', titleAr: 'الخدمات والعروض', titleEn: 'Services and offers', textAr: 'الخدمات المتاحة حسب النشاط', textEn: 'Services organized by activity', icon: icons.tools },
@@ -98,6 +112,7 @@ export function UaeDirectoryExploreFooter({
           icon: icons.location,
           links: locationLinks,
         },
+        sectorGroup,
         ...directoryGroups.map((group) => ({
           title: isEn ? group.titleEn : group.titleAr,
           text: isEn ? group.textEn : group.textAr,
@@ -113,7 +128,7 @@ export function UaeDirectoryExploreFooter({
       ]
     : [
         { title: emirate ? (isEn ? `Areas in ${emirate.nameEn}` : `مناطق ${emirate.nameAr}`) : (isEn ? 'UAE emirates' : 'إمارات الدولة'), text: isEn ? 'Start by location' : 'ابدأ حسب المكان', icon: icons.location, links: locationLinks },
-        { title: isEn ? 'Specialties and services' : 'التخصصات والخدمات', text: isEn ? 'All platform specialties' : 'جميع تخصصات المنصة', icon: icons.tools, links: SERVICE_CATEGORIES.slice(0, 7).map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: `${serviceRoot}/${item.slug}` })) },
+        sectorGroup,
         { title: isEn ? 'Biet Al Reef Market' : 'سوق بيت الريف', text: isEn ? 'Materials and products' : 'مواد ومنتجات المشروع', icon: icons.products, links: UAE_PRODUCT_CATEGORIES.map((item) => ({ label: isEn ? item.nameEn : item.nameAr, href: 'https://app.bietalreef.ae/' })) },
         { title: isEn ? 'Guides and useful content' : 'مقالات ومحتوى مفيد', text: isEn ? 'Helpful project resources' : 'أدلة تساعد مشروعك', icon: icons.support, links: isEn ? [{ label: 'Biet Al Reef articles', href: '/en/blog' }, { label: 'Request a quotation', href: '/en/request-quote' }, { label: 'How the platform works', href: '/en/how-it-works' }] : [{ label: 'مقالات بيت الريف', href: '/blog' }, { label: 'طلب عرض سعر واضح', href: '/request-quote' }, { label: 'طريقة عمل المنصة', href: '/how-it-works' }] },
       ];

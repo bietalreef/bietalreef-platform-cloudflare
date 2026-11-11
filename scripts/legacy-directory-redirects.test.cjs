@@ -5,12 +5,12 @@ const { AREAS } = require('../data/localServices');
 
 function matches(route, path) {
   const source = route.source;
-  let rx = source.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  let rx;
   // Match Next.js named params and constraints as part of a path segment.
   rx = source.replace(/:([a-z]+)\(([^)]+)\)/g, (_, name, values) => '@REGEX_'+name+'_'+values.replaceAll('|','_OR_')+'@');
   rx = rx.replace(/:([a-z]+)/g, '@SINGLE_$1@');
   rx = rx.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  rx = rx.replace(/@REGEX_([a-z]+)_([a-z0-9_-]+)@/g, (_, name, values) => '(?<' + name + '>' + values.replaceAll('_OR_','|') + ')');
+  rx = rx.replace(/@REGEX_([a-z]+)_([a-zA-Z0-9_-]+)@/g, (_, name, values) => '(?<' + name + '>' + values.replaceAll('_OR_','|') + ')');
   rx = rx.replace(/@SINGLE_([a-z]+)@/g, (_, name) => '(?<' + name + '>[^/]+)');
   return new RegExp('^'+rx+'/?$').exec(path);
 }

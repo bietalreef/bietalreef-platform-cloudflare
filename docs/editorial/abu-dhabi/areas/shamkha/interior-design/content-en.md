@@ -157,31 +157,38 @@ Three-dimensional visualisation helps test the apparent scale, lighting and comb
 
 ### 36. Office design
 
-Define headcount, meeting rooms, privacy, storage and visitor movement. Survey columns, windows and service outlets. Compare desk density, lighting and acoustics; receive a coordinated desk, power and data layout.
+Office design starts with headcount, work patterns, meeting needs and privacy rather than the maximum number of desks that fit. Supply a measured plan showing columns, windows and existing HVAC, power and data outlets. Request a layout covering circulation, printing, storage and meeting spaces, with lighting, acoustic and partition-height considerations. Compare proposals by drawings, furniture schedules and service-point coordination. At handover, verify desk capacity against actual clearances and connection details.
+
 
 ### 37. Retail store design
 
-Define merchandise, stock, displays, checkout and customer flow. Measure frontage, heights and exits. Compare shelving flexibility, lighting and restocking access; receive display, counter and fabrication dimensions.
+For a retail shop, begin with merchandise type, display methods, stock storage and customer and staff circulation. Measure the storefront, clear height, columns and delivery entrance; identify any special refrigeration or electrical loads. Request shelving, checkout, back-of-house and access layouts, plus detailed display elevations. Compare alternatives for merchandising flexibility and cleaning and maintenance access. Receive dimensioned fixture schedules rather than relying solely on promotional renderings.
+
 
 ### 38. Restaurant and café design
 
-Set seating capacity, service model and preparation, washing and storage zones. Review customer and staff routes, extraction and drainage. Compare equipment coordination and cleanable finishes; receive a service and equipment plan for technical review.
+Restaurant or café design must distinguish customer, staff, food and waste movements before decoration is selected. Provide the intended menu, operating capacity, room dimensions and available drainage, ventilation and electrical services. Request coordinated kitchen, preparation, storage, seating and service layouts, including cleanable surfaces, lighting and acoustics. Compare design proposals by equipment and services drawings and professional review of applicable official requirements. Accept equipment schedules, dimensions and clear routes; no operating approval is implied.
+
 
 ### 39. Salon design
 
-Define workstations, washing, reception, waiting and privacy. Record equipment dimensions and water, power and ventilation points. Compare circulation, mirror lighting and cleanable surfaces; receive coordinated workstation and service plans.
+For a salon, establish the number of workstations, services offered, waiting areas, wash stations and storage. Measure the premises and photograph existing water, drainage, sockets and ventilation. The plan should show working clearances, staff movement, mirror positions and lighting suitable for colour work. Compare proposals by moisture-resistant furniture details, concealed services and ease of surface cleaning. Receive a workstation schedule and coordinated services layout ready for detailed design.
+
 
 ### 40. Clinic interior design
 
-Define clinical activities, patient and staff routes, examination rooms and storage. Coordinate equipment, privacy and cleaning needs with specialists and check activity-specific authority requirements. Receive functional and service plans; interior design alone is not operational approval.
+Clinic design depends on the clinical specialty, actual procedures, expected equipment and number of examination rooms; an ordinary office layout is not sufficient. Supply equipment sizes and manufacturer utility requirements, a measured plan and patient access routes. Request appropriate waiting, examination and storage zoning and a qualified professional's review of current health and regulatory requirements before approval. Compare offers by technical coordination and drawing detail. Receive equipment and services plans with unresolved matters recorded.
+
 
 ### 41. Exhibition design
 
-List exhibits, weights, visitor interaction and assembly and removal periods. Survey floor area, height and loading access. Compare lighting, display stability and reuse; receive a layout, item schedule and installation instructions.
+For an exhibition space, identify display types, weights, dimensions, changeover frequency and visitor interaction. Document ceiling heights, columns, exits and power locations. Request visitor circulation, sightline, lighting and display-fixture layouts. Heavy or suspended exhibits may require a specialist's load and fixing review. Compare schemes by adaptability, exhibit protection and maintenance access. Receive support and base details and lighting schedules.
+
 
 ### 42. Reception area design
 
-Define visitor volume, peak queues, waiting and varied accessibility needs. Measure entrances, routes and equipment. Compare wayfinding, privacy and counter durability; receive circulation and service-counter dimensions.
+Reception design must serve both first impressions and everyday operations. Define expected visitors, staff tasks and whether guests wait or complete forms. Measure the entrance and desk area and locate power and data points. Request a layout showing queues, conversation privacy, accessible circulation and movement behind the counter, with durable finish specifications. Compare offers by whether joinery, lighting and signage are included. Accept construction details for the counter and a coordinated services plan.
+
 
 ### 43. Floor finish selection
 

@@ -321,19 +321,27 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-11",
-      "review_note": "Shamkha 210/434 independently rewritten AR/EN: contracting 56, design 49, maintenance 105. Next building-materials 1/49. Five sectors remain; draft not approved or published.",
+      "review_note": "Verified on GitHub: 217/434 independently rewritten bilingual service explanations. Three sectors complete; building-materials services 1–7 rewritten and verified; resume at service 8. All remaining drafts need independent rewriting and human review.",
       "editorial_progress": {
         "sector": "building-materials",
-        "specialty": "أول تخصص بحسب TAXONOMY_SOURCE_AR.md",
-        "independently_rewritten_services": 0,
+        "specialty": "مواد البناء والتشطيب",
+        "independently_rewritten_services": 7,
         "area_total": 434,
-        "area_independently_rewritten": 210,
-        "next_service_number": 1,
-        "remaining_in_sector": 49,
-        "remaining_area_services_for_originality_review": 224,
+        "area_independently_rewritten": 217,
+        "next_service_number": 8,
+        "remaining_in_sector": 42,
+        "remaining_area_services_for_originality_review": 217,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "rewritten_service_numbers": []
+        "rewritten_service_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
       }
     },
     {

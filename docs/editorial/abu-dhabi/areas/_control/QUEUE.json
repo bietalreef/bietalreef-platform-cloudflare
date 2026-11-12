@@ -294,7 +294,8 @@
         "general-maintenance",
         "building-materials",
         "aluminium-glass",
-        "furniture-decor"
+        "furniture-decor",
+        "equipment-rental"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/shamkha/general-contracting/content-ar.md",
@@ -324,23 +325,23 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Verified GitHub bilingual equipment services 36–42 rewritten independently; 53 numbered headings per language. Shamkha 381/434; remaining equipment 43–53 and cleaning 1–42. Human review required.",
+      "review_note": "Verified GitHub bilingual equipment services 43–53 independently rewritten; 53 sequential headings in each language. Shamkha 392/434, remaining cleaning-services 1–42. Human technical, regulatory and language review required.",
       "editorial_progress": {
-        "sector": "equipment-rental",
-        "specialty": "نقل الأثاث والممتلكات",
-        "independently_rewritten_services": 42,
-        "sector_total": 53,
-        "remaining_in_sector": 11,
+        "sector": "cleaning-services",
+        "specialty": "first company specialty in TAXONOMY_SOURCE_AR.md",
+        "independently_rewritten_services": 0,
+        "sector_total": 42,
+        "remaining_in_sector": 42,
         "area_total": 434,
-        "area_independently_rewritten": 381,
-        "remaining_area_services_for_originality_review": 53,
-        "next_service_number": 43,
-        "next_sector": "equipment-rental",
+        "area_independently_rewritten": 392,
+        "remaining_area_services_for_originality_review": 42,
+        "next_service_number": 1,
+        "next_sector": "cleaning-services",
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       },
-      "editorial_rewritten_service_entries": 381,
-      "editorial_remaining_service_entries": 53
+      "editorial_rewritten_service_entries": 392,
+      "editorial_remaining_service_entries": 42
     },
     {
       "sequence": 5,

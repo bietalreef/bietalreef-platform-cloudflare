@@ -324,20 +324,20 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Furniture-decor 24/24 AR and EN independently revised and verified on GitHub. Shamkha 339/434; equipment-rental 53 and cleaning-services 42 remain. Human editorial review required; no publication.",
+      "review_note": "Equipment-rental services 1–7 independently revised AR/EN and verified by re-fetching 53 headings per language. Shamkha 346/434; 46 equipment and 42 cleaning services remain. Human technical/language review required; no publication.",
       "editorial_progress": {
-        "sector": "furniture-decor",
-        "specialty": "الستائر والسجاد والمفروشات",
-        "independently_rewritten_services": 24,
+        "sector": "equipment-rental",
+        "specialty": "تأجير معدات البناء والرفع",
+        "independently_rewritten_services": 7,
+        "sector_total": 53,
+        "remaining_in_sector": 46,
         "area_total": 434,
-        "area_independently_rewritten": 339,
+        "area_independently_rewritten": 346,
+        "remaining_area_services_for_originality_review": 88,
+        "next_service_number": 8,
         "next_sector": "equipment-rental",
-        "next_service_number": 1,
-        "remaining_area_services_for_originality_review": 95,
         "editorial_draft_completed": false,
-        "area_editorially_approved": false,
-        "remaining_in_sector": 0,
-        "sector_total": 24
+        "area_editorially_approved": false
       },
       "editorial_rewritten_service_entries": 339,
       "editorial_remaining_service_entries": 95

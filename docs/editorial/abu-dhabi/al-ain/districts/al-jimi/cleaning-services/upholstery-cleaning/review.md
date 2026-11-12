@@ -12,3 +12,9 @@
 
 - Replaced the seven repeated quotation/contract boilerplate sentences in each language with service-specific requirements for sofas, rugs, fitted carpets, majlis seating, mattresses, curtains and disinfection.
 - Verified the seven source-ordered service headings remain unchanged and re-read both language files after writing. District-wide editorial approval is still pending.
+
+## 2026-11-12 service-specific RFQ completion
+
+- Added a distinct quotation-request paragraph for each of the seven source-ordered services in both languages: sofas, rugs, fitted carpet, majlis seating, mattresses, curtains and upholstery disinfection.
+- Each paragraph identifies service-specific quantities, photographs, material constraints and quote breakdowns; the existing scope, exceptions and acceptance sections were retained.
+- Re-read both content files from the specified GitHub branch after writing: seven service headings and seven new RFQ paragraphs per language verified. This does not constitute district-wide approval.

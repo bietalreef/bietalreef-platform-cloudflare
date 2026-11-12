@@ -291,7 +291,9 @@
       "completed_sectors": [
         "general-contracting",
         "interior-design",
-        "general-maintenance"
+        "general-maintenance",
+        "building-materials",
+        "aluminium-glass"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/shamkha/general-contracting/content-ar.md",
@@ -321,16 +323,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "301/434 independently revised bilingual service entries; aluminium-glass 42/56, next 43 glass facades; in_progress; human review pending.",
+      "review_note": "Independent AR/EN rewrite verified for aluminium-glass services 1–56, including 43–49 glazed façades and 50–56 metalwork. Shamkha 315/434 independently rewritten, 119 remain: furniture-decor 24, equipment-rental 53, cleaning-services 42. All 56 numbered headings checked in both languages; human technical/language review pending. No publication.",
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "مطابخ وخزائن الألمنيوم",
-        "independently_rewritten_services": 42,
+        "specialty": "تشكيل الحديد والمعادن",
+        "independently_rewritten_services": 56,
         "area_total": 434,
-        "area_independently_rewritten": 301,
-        "next_service_number": 43,
-        "remaining_in_sector": 14,
-        "remaining_area_services_for_originality_review": 133,
+        "area_independently_rewritten": 315,
+        "next_service_number": null,
+        "remaining_in_sector": 0,
+        "remaining_area_services_for_originality_review": 119,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -375,7 +377,21 @@
           39,
           40,
           41,
-          42
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
         ]
       },
       "editorial_rewritten_service_entries": 301,

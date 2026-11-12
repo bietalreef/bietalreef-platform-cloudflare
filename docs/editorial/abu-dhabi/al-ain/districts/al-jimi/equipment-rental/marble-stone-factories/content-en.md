@@ -18,6 +18,8 @@ Provide an accurate cabinet template, sink and hob positions, uneven walls, ston
 
 **Quotation detail:** Separate fabrication-only from supply-and-install offers, identify who verifies final templates after cabinets are fitted, and allocate sink removal and reconnection. Confirm appliance models before approving cut-outs.
 
+**Additional acceptance check:** For worktops with sink or hob cut-outs, inspect internal edges and corners for hairline cracking or weak points. Do not load the surface or fit appliances until the specified supports and bonding system have been completed and checked.
+
 ## 3. Stair stone fabrication
 
 Measure each tread and riser, landings and existing substrate; specify nosing and slip-resistance requirements.

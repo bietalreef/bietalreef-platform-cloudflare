@@ -883,3 +883,8 @@
 
 - تحديث [العربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) و[English](./cleaning-services/tanks-pools-cleaning/content-en.md) و[مراجعة التخصص](./cleaning-services/tanks-pools-cleaning/review.md): توضيح سجل المعالجة وشروط أخذ عينات المياه عند الاتفاق على فحص مستقل. لا يُعد ذلك شهادة بصلاحية المياه.
 - الحالة `in_progress`؛ النواقص التالية: تدقيق بقية فقرات الخدمات الثلاث في `tanks-pools-cleaning`، ثم مراجعة `pest-rodent-control` و`disinfection-sanitisation` و`building-facility-operations` و`workforce-operations`، ثم جرد القطاعات الثمانية ومطابقة 50 تخصصًا و434 خدمة لكل لغة، وفحص التكرار والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي.
+
+## تدقيق سلامة تأجير المولدات — 2026-11-12
+
+- الحالة `in_progress`؛ أُضيفت احتياطات العادم وأول أكسيد الكربون والتوصيل الكهربائي الآمن إلى [العربية](./equipment-rental/light-tools-rental/content-ar.md) و[الإنجليزية](./equipment-rental/light-tools-rental/content-en.md)، مع تحديث [المراجعة](./equipment-rental/light-tools-rental/review.md).
+- النواقص المحددة: فحص بقية خدمات `equipment-rental/light-tools-rental` الست، ثم `construction-lifting-equipment` و`aluminium-glass-factories` و`marble-stone-factories` و`tools-equipment-stores` و`property-moving` و`project-material-transport` و`concrete-block-factories`؛ تدقيق تخصصات `cleaning-services` الثمانية، ثم المطابقة الحرفية للتخصصات الخمسين والخدمات الـ434 في كل لغة مع الشجرة وفحص التفرد والسلامة والتصنيفات. لا يبدأ المويجعي.

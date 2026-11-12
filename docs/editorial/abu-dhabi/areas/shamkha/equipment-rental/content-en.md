@@ -10,31 +10,31 @@ Compare hire, fabrication and haulage based on duties, quantities, access, dates
 
 ### 1. Scaffolding hire
 
-Specify working height, façade length, ground bearing and safe ladder access. Compare hire days, erection, inspection, guardrails and dismantling; require pre-use checks.
+Scaffolding is a temporary working platform, not simply a way of reaching a façade. State the platform working height, façade length, required width and doors or walkways that must remain accessible. Supply photographs of ground levels and explain whether the work involves light painting or heavier cladding, since loading and restraint needs differ. Compare the proposed scaffold system, base supports, guardrails, access arrangements, erection, inspection, dismantling, transport and extension charges. Before anyone uses it, have a competent person check foundations, platform continuity, edge protection and the inspection record. Delivery of loose components is not acceptance of a safe working scaffold.
 
 ### 2. Crane hire
 
-Record load weight, dimensions, lifting radius, boom route, ground and obstructions. Compare crane capacity, operator, lifting plan and waiting terms; request inspection records.
+A crane quotation needs more than the nominal weight of the item. Include the load plus lifting accessories, its dimensions, pickup and landing positions and the working radius at the furthest point. Photograph vehicle access, overhead obstructions and the proposed standing area, and describe the ground conditions. Ask the supplier to demonstrate capacity at the actual radius and identify who provides the operator, banksman, rigging, lift plan, exclusion zone, transport and waiting time. Before lifting, check equipment and sling inspection records against the site-specific plan. Keep people and vehicles clear of the lifting area.
 
 ### 3. Excavator hire
 
-Calculate excavation volume, depth, soil, machine access and buried utilities. Compare excavator size, attachments, mobilization, fuel and operator; inspect agreed levels and site condition.
+Specify whether the job is a wide foundation excavation, a narrow service trench or shallow topsoil removal: width, depth and soil conditions affect excavator size and bucket selection. Provide excavation limits, target levels, spoil storage arrangements and photographs of the entrance and nearby structures. Buried services must be identified, and excavation support considered where needed; never assume the ground is clear. Compare mobilization, operator, fuel, attachments, productive hours and downtime, and confirm whether spoil removal is included. At handover check the achieved levels, excavation boundaries and condition of adjoining areas rather than machine hours alone.
 
 ### 4. Compaction plant hire
 
-Define filled area, lift thickness, target compaction and roller or plate access. Compare machine type, test provisions and transport; confirm compacted layers against project criteria.
+Compaction equipment should be selected for the fill material, layer thickness and available working width, not simply for maximum roller size. Identify whether the work is beneath interlocking paving, a concrete slab or a service trench, and provide areas, access widths, fill depths and any specified density criteria. A plate compactor or rammer may reach spaces inaccessible to a roller, while moisture and soil type affect results. Separate machine hire, transport, operator and fuel from laboratory density testing unless the latter is expressly included. Accept the compacted work by agreed levels, layers and test evidence—not a smooth-looking surface alone.
 
 ### 5. Concrete mixer hire
 
-Identify small pour volumes, frequency, power or fuel and mixing location. Compare drum capacity, output rate, cleaning and loading; check guards and operation on delivery.
+Concrete mixer hire can suit small pours where site mixing is permitted by the project specification; structural elements require the responsible designer's and supervisor's requirements to be followed. List pour volumes, sequence, haul distance, water and power or fuel supply, and the washout area. Compare usable drum capacity, cycle time, blade condition, guarding and who handles material loading, cleaning and transport. On delivery, test the mixer without load, check stability, guards and abnormal leaks, and agree how it must be cleaned before return.
 
 ### 6. Concrete cutting equipment hire
 
-State hole diameters or cut length, concrete thickness and concealed steel/services. Compare cutter capacity, water cooling, slurry collection and noise; obtain structural review for load-bearing elements.
+Concrete cutting might mean a circular pipe penetration or a straight opening in a slab or wall. Provide a marked drawing showing the position, diameter or length, member thickness and available access. Locate reinforcement and concealed services; obtain appropriate structural assessment before cutting a load-bearing element. Compare core drilling, floor sawing and wall sawing against the actual task, including power, water cooling, slurry containment and removal of cut sections. Before work, check machine restraint and guards; at handover measure the opening and inspect edges and adjacent services for damage.
 
 ### 7. Project equipment hire
 
-Create a plant list by task, hire duration, power or fuel and storage. Compare rental, operator, transport, insurance and breakdown terms; record serial numbers and condition.
+For a project requiring several machines, prepare an equipment schedule showing each machine's task, working location and arrival and return dates rather than requesting generic project plant. Attach access photographs, parking and storage constraints and power or fuel requirements. Identify who operates each machine and supplies attachments and consumables. Compare itemised hire rates, minimum periods, operating hours, delivery, insurance, breakdown replacement and standby charges. Photograph serial numbers, hour meters, tyres and accessories at delivery; agree inspection, servicing and return responsibilities to prevent disputes.
 
 ## Small equipment and tool hire
 

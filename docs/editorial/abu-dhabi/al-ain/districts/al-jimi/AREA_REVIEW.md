@@ -858,3 +858,9 @@
 - أضيفت متطلبات طلب سعر منفصلة للخدمات الأربع في [العربية](./cleaning-services/facades-site-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/facades-site-cleaning/content-en.md)؛ قياسات الواجهات الزجاجية ووسائل الوصول، خامات كسوة المباني ومياه الغسيل، مساحات المواقف وإغلاقها، ومناطق المواقع الصناعية وعزل المعدات وتصنيف المخلفات. [مراجعة التخصص](./cleaning-services/facades-site-cleaning/review.md).
 - أعيدت قراءة الملفات الثلاثة بعد رفعها وتأكد تطابقها.
 - **النواقص الدقيقة التالية:** تدقيق جودة `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`disinfection-sanitisation` و`pest-rodent-control` خدمة بخدمة، ثم تخصصات `equipment-rental` الثمانية، ثم مطابقة تخصصات الشركات الخمسين وخدماتها الـ434 في كل لغة مع شجرة الخدمات حرفيًا، وفحص التفرّد والسلامة وحالات التصنيف المقيد والمقترح. لا يُعد وجود الملفات وحده اعتمادًا نهائيًا.
+
+## تحسين سلامة التنظيف بعد التشطيب — 2026-11-12
+
+- الحالة: `in_progress`، ولم تُعتمد الجيمي مكتملة.
+- أُضيفت حدود التعامل مع الغبار الدقيق ومخلفات البناء والمواد الخطرة لخدمة **التنظيف بعد التشطيب** في [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/homes-buildings-cleaning/content-en.md)، مع تحديث [مراجعة التخصص](./cleaning-services/homes-buildings-cleaning/review.md).
+- النواقص التالية: تدقيق تشغيل وصيانة المباني والعمالة والتشغيل والتعقيم والخزانات والمسابح ضمن قطاع التنظيف، ثم تدقيق تخصصات المعدات الثمانية، ثم مطابقة عناوين وجودة التخصصات الخمسين والخدمات الـ434 في كل لغة، وتصحيح التكرار والتصنيفات المقيدة والمقترحة قبل اعتماد المنطقة. لا يبدأ المويجعي.

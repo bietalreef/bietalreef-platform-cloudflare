@@ -12,11 +12,15 @@ For a site without permanent supply, list running and starting loads, concurrent
 
 **Generator operating safety:** Fuel-powered generators must run outdoors, away from doors, windows and air intakes to prevent carbon-monoxide exhaust entering occupied spaces. Never operate one inside a room or enclosed car park, even with doors open. Agree safe exhaust placement, protection of cables from traffic and water, and connection/disconnection by a qualified person. Do not backfeed building wiring without an approved transfer and isolation arrangement.
 
+**Acceptance check:** Assign responsibility for residual-current protection, earthing and cable checks before energising loads, and safe shutdown during refuelling. Reject exposed conductors and improvised connections.
+
 ## 2. Cleaning equipment rental
 
 For post-fit-out floors, identify floor material, area, soil type, water, power and drainage. Photograph stains, doorways and corridors to select scrubbers or extractors that will not damage the finish.
 
 **Quotation, agreement and handover:** Ask about brushes, pads, chemicals, tanks, delivery and training; operators and wastewater disposal are separate unless agreed. Test operation, leaks, tanks and brush condition.
+
+**Acceptance check:** Test pads or brushes on a discreet floor patch and confirm chemical compatibility with the finish. Agree where contaminated water is collected and how it is moved without soiling access routes.
 
 ## 3. Air compressor rental
 
@@ -24,11 +28,15 @@ For spraying or pneumatic tools, state required pressure, airflow, duty cycle an
 
 **Quotation, agreement and handover:** Compare delivered airflow at working pressure rather than tank size alone; agree hoses, fittings, filters, dryer and power. Inspect relief valve, gauge, hoses, leaks and operation.
 
+**Acceptance check:** Check hose and fitting pressure ratings, restraint against whipping and safe condensate drainage. Depressurise before disconnecting; ordinary compressor air must not be used for breathing without a purpose-built approved system.
+
 ## 4. Power tool rental
 
 For drilling, fastening or cutting, specify material, thickness, hole diameter or cut length and work area. Share photos and dust/power constraints to select the right tool.
 
 **Quotation, agreement and handover:** Compare model, cutting accessories, batteries, chargers and consumable charges. Operators and bits/discs may be extra. Inspect guards, cords, batteries, switches and serial numbers.
+
+**Acceptance check:** Confirm that the disc or bit matches tool speed and material, with guards and protection against unintended starts. Specify dust capture and a site-appropriate power supply.
 
 ## 5. Welding equipment rental
 
@@ -36,11 +44,15 @@ For metal repairs or assembly, identify material, thickness, welding process, po
 
 **Quotation, agreement and handover:** Specify leads, earth clamp, gas, regulators, wire, electrodes and PPE; certified welding labour is not implied. Inspect insulation, connections and cooling; fire precautions and ventilation are essential.
 
+**Acceptance check:** Remove nearby combustibles and arrange fire watch where required; check that gas cylinders are secured with suitable regulators. Hiring a welder does not grant a hot-work permit.
+
 ## 6. Water pump rental
 
 For dewatering or transferring site water, estimate flow, pumping head, distance, hose diameter and solids content. Photograph intake and discharge and confirm an acceptable discharge route.
 
 **Quotation, agreement and handover:** Compare flow at required head, power, hoses, strainers and standby support; discharge permissions and water treatment may be separate. Inspect seals, leaks, priming and a pumping test.
+
+**Acceptance check:** Agree an authorised discharge point and safeguards against dry running and electrical hazards. Do not release contaminated or unidentified water into public drainage without the relevant approval.
 
 ## 7. Garden equipment rental
 
@@ -51,3 +63,6 @@ For mowing, hedge trimming or clearing garden debris, give area, vegetation type
 ## Prepare a quotation request
 
 Share Al Jimi site photos, specifications, hire period and accessories with Biet Al Reef customer service; request transport, insurance, breakdown and return terms. Enquiry assistance does not guarantee a supplier, price or date.
+
+**Acceptance check:** Establish separation from people, windows and vehicles during cutting and use blades suited to the vegetation. Overhead electrical lines or high branches require specialist assessment before work.
+

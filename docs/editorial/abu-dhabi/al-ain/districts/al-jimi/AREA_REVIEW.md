@@ -869,3 +869,7 @@
 
 - الحالة `in_progress`؛ أُضيفت احتياطات تطبيق للرش والرذاذ والضباب في خدمة رش وتعقيم المنازل، تمنع استخدام طريقة لا يسمح بها ملصق المنتج وتحدد حماية الأشخاص والحيوانات والأغذية والأسطح الملامسة للطعام. [العربية](./cleaning-services/disinfection-sanitisation/content-ar.md) · [English](./cleaning-services/disinfection-sanitisation/content-en.md) · [المراجعة](./cleaning-services/disinfection-sanitisation/review.md).
 - أُعيدت قراءة الملفات الثلاثة من GitHub بعد التعديل. المتبقي تدقيق خدمة تعقيم المكاتب والمنشآت وبقية خدمات التنظيف والمعدات، ثم المطابقة النهائية للتخصصات الخمسين والخدمات الـ434 في كل لغة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق تعقيم المكاتب والمنشآت — 2026-11-12
+- الحالة `in_progress`؛ أُضيفت احتياطات تشغيلية خاصة بخدمة **تعقيم المكاتب والمنشآت** في [العربية](./cleaning-services/disinfection-sanitisation/content-ar.md) و[الإنجليزية](./cleaning-services/disinfection-sanitisation/content-en.md): حماية الأجهزة والطعام، زمن التلامس، تقييد الضباب بحسب ملصق المنتج، وعزل مناطق العمل وإعادة الإشغال. [المراجعة](./cleaning-services/disinfection-sanitisation/review.md).
+- **النواقص الدقيقة التالية:** تدقيق `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control` خدمة بخدمة؛ ثم تدقيق `equipment-rental` بتخصصاته الثمانية؛ ثم مطابقة أسماء وعدد جميع تخصصات الشركات الخمسين وخدماتها الـ434 في كل لغة حرفيًا مع الشجرة وفحص التفرّد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

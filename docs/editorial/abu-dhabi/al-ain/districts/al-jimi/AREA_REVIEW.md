@@ -970,3 +970,8 @@
 
 - الحالة `in_progress`؛ تم تعميق أربع خدمات في [العربية](./cleaning-services/pest-rodent-control/content-ar.md) و[الإنجليزية](./cleaning-services/pest-rodent-control/content-en.md) مع تحديث [مراجعة التخصص](./cleaning-services/pest-rodent-control/review.md) والتحقق من الملفات بعد الرفع.
 - **النواقص الدقيقة التالية:** تدقيق `cleaning-services/disinfection-sanitisation` ثم `building-facility-operations` ثم `workforce-operations` وبقية تخصصات التنظيف الثمانية، ثم تدقيق تخصصات `equipment-rental` الثمانية، وجرد ومطابقة جميع تخصصات الشركات الخمسين وخدماتها الـ434 بالعربية والإنجليزية مقابل الشجرة، مع فحص التفرد والسلامة وحالة التفعيل. لا يبدأ المويجعي قبل إكمال الجيمي.
+
+## تدقيق سلامة تشغيل وصيانة المباني — 2026-11-13
+
+- الحالة: `in_progress`؛ أضيفت ضوابط فنية مستقلة لمتابعة الأنظمة الكهربائية ومتابعة السباكة والصرف في [العربية](./cleaning-services/building-facility-operations/content-ar.md) و[الإنجليزية](./cleaning-services/building-facility-operations/content-en.md) و[مراجعة التخصص](./cleaning-services/building-facility-operations/review.md).
+- **أول نقص تالٍ:** تدقيق `cleaning-services/workforce-operations` ثم `cleaning-services/home-building-cleaning` و`upholstery-cleaning` و`facade-site-cleaning` و`tank-pool-cleaning` وفق المسارات الفعلية، ومراجعة `disinfection-sanitisation` و`pest-rodent-control`، ثم تدقيق تخصصات المعدات الثمانية والجرد الحرفي لجميع تخصصات الشركات الخمسين والخدمات الـ434 في كل لغة وفحص التفرد والسلامة وحالات التفعيل. لا يبدأ المويجعي.

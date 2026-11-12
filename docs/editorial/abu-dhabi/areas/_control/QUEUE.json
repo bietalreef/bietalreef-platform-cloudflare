@@ -287,7 +287,7 @@
       "name_ar": "الشامخة",
       "name_en": "Al Shamkha",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -295,7 +295,8 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/shamkha/general-contracting/content-ar.md",
@@ -325,23 +326,23 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Cleaning services 1–14 independently rewritten AR/EN; both 42-heading files re-fetched and sequence verified. 406/434 area services rewritten; 28 remaining in cleaning. Human review required.",
+      "review_note": "Editorial draft verification 2026-11-12: fetched all 16 AR/EN sector content files on review branch; 8/8 sectors and 434/434 H3 service sections per language (general-contracting uses unnumbered H3 headings). Cleaning 15–42 revisions present. This is draft coverage, not independent human technical/regulatory/language approval; no publication.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "تنظيف الواجهات والمواقع",
-        "independently_rewritten_services": 14,
+        "specialty": "خدمات العمالة والتشغيل",
+        "next_service_number": null,
         "sector_total": 42,
-        "remaining_in_sector": 28,
+        "sector_independently_rewritten": 42,
+        "remaining_in_sector": 0,
         "area_total": 434,
-        "area_independently_rewritten": 406,
-        "remaining_area_services_for_originality_review": 28,
-        "next_service_number": 15,
-        "next_sector": "cleaning-services",
-        "editorial_draft_completed": false,
-        "area_editorially_approved": false
+        "area_independently_rewritten": 434,
+        "remaining_area_services_for_originality_review": 0,
+        "area_editorially_approved": false,
+        "editorial_draft_completed": true
       },
       "editorial_rewritten_service_entries": 392,
-      "editorial_remaining_service_entries": 42
+      "editorial_remaining_service_entries": 42,
+      "completed_at": "2026-11-12"
     },
     {
       "sequence": 5,

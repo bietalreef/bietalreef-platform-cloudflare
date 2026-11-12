@@ -178,6 +178,70 @@ Photograph leaf build-up, paths and beds, and define whether pruning waste and o
 
 A useful contract records planted area, plant types, initial irrigation condition, visit frequency and tasks per visit. Separate mowing, pruning, cleaning and checks from replacement plants, materials, heavy equipment and emergency repairs. Request dated photo reports noting pests and irrigation issues; compare response terms, exclusions and termination. Review performance monthly against a task checklist, not vague promises.
 
+## Irrigation networks
+
+**Taxonomy note:** This specialty is currently not selectable in the source. Guidance does not imply a published company or booking availability.
+
+### 43. Irrigation network design
+
+Supply a dimensioned planting plan, bed levels, water source, measured pressure and flow, and plant groups with different watering needs. Ask for irrigation zones, hydraulic loss calculations, pipe and valve layouts, isolation points and controls; area alone cannot size a pump. Compare calculations, drawings, quantities, pressure-testing and commissioning deliverables. Obtain as-built drawings and maintenance instructions at handover.
+
+### 44. Drip irrigation installation
+
+Measure bed lengths, plant spacing and soil conditions, and identify the supply point. Require emitter flow rates, line diameters, filters, pressure regulation and protection against accidental damage. Compare fittings and flushing provisions, not just installed metres. At handover, check distribution at both ends of each line, filter access and leak-free joints.
+
+### 45. Sprinkler installation
+
+Map lawn boundaries, paths, windows, obstructions and available water pressure. Require sprinkler positions, arc settings, overlap and zones that minimise overspray onto walls or paving. Compare nozzle types, valves, trench reinstatement and controller integration. Run every zone at handover to inspect coverage, ponding and finished head levels.
+
+### 46. Irrigation tanks and pumps
+
+Estimate storage from demand and refill frequency, then survey the base, electrical supply and maintenance access. Specify tank material, overflow and dry-run protection, and the pump duty point on its performance curve, plus isolation and drainage. Compare delivered flow and pressure rather than motor power alone. Witness commissioning, dry-run protection tests and receive cleaning guidance.
+
+### 47. Irrigation network maintenance
+
+Record zones, heads, emitters, filter condition and controller model, with photos of faults or dry patches. Inspection should address pressure, leaks, blockages and operating times. Separate preventive servicing from replacement parts, excavation and emergency repairs. Compare visit records and response terms. Run each zone after repair and document programme changes.
+
+### 48. Automatic irrigation controller programming
+
+Identify controller model, station count, power source and connected rain or soil sensors, alongside plant types and soil conditions. Require a zone-by-zone duration and frequency schedule, seasonal adjustments and manual override instructions. Clarify account access for connected controllers. Compare testing and user training, not app setup alone. Obtain a settings record and test manual and scheduled operation.
+
+### 49. Irrigation leak detection
+
+Note whether water loss occurs only during watering or while idle; provide meter readings, pooling photos and any pipe plan. Ask for staged zone isolation and pressure or flow tests before excavation, with clear limitations on detection accuracy. Price diagnosis separately from repair and reinstatement. Retest after repair and record the leak location and replaced components.
+
+## Shades and outdoor works
+
+**Taxonomy note:** This specialty is currently not selectable; descriptions do not promise availability.
+
+### 50. Car parking shade installation
+
+Measure bays, vehicle clearance, door swings and site boundaries; photograph proposed foundations and anchor points. Specify frame and cover materials, post locations, rainwater drainage and corrosion protection. Structural loading and foundation design should be assessed by competent professionals where required. Compare drawings, finishes and warranty terms; inspect fixings, tension and unobstructed vehicle access.
+
+### 51. Pergola construction
+
+Define seating dimensions, desired shade, height, access routes and whether the pergola is freestanding or attached. Require drawings of spans, posts, anchors, materials, drainage and lighting provision, with checks on existing attachment capacity. Compare maintenance and protective finishes as well as appearance. Inspect alignment, stability, drainage and exposed edges at handover.
+
+### 52. Outdoor seating area construction
+
+State expected occupancy, circulation, privacy, shade and utility points; photograph the existing substrate and levels. Separate foundations, paving, built-in seating, lighting and screens from movable furniture in the quotation. Compare weathering, cleaning and maintenance access. Check drainage, sharp edges, seat stability and practical circulation at handover.
+
+### 53. External fence installation
+
+Survey boundary lengths, level changes, gates and known buried services; specify fence height, material and privacy needs. Request post spacing, footing details, joints and corrosion protection. Check applicable boundary or approval requirements with the competent authority before works. Compare groundworks, fixings and finishes separately. Inspect alignment, post stability and gate operation.
+
+### 54. Garden path construction
+
+Measure path width, length and slope, including any accessibility or service-cart requirements. Specify excavation, compacted sub-base, edging, drainage and finish, while protecting roots and existing irrigation. Compare layer thicknesses, cutting waste and landscape reinstatement. Check levels, stability, ponding and safe edges before acceptance.
+
+### 55. Interlocking paving installation
+
+State paved area, pedestrian or vehicle loading, soil condition, levels and manhole positions. Require paver thickness, sub-base build-up, compaction, jointing sand, edge restraints and drainage. Separate removal and disposal of old paving. Compare samples, slip resistance and base quality, not only unit rates. Inspect levels, joints and edge settlement under appropriate checks.
+
+### 56. Waterfalls and fountains construction
+
+Define feature dimensions, proposed depth, proximity to buildings and children, and water and electrical supplies; share a sketch of the intended effect. Require waterproofing, circulation, pump, filtration, drainage and maintenance-access details, with competent electrical and slip-risk assessment. Compare water and energy use, cleaning and warranties. Test leaks, flow, noise and safe shutdown at handover.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even if no company is published, a customer may submit the service name, Al Wathba location, property type, contact name and telephone, drawings or photographs, measurements, preferred schedule and a description of the work. The request follows the existing customer-service route without any promise of price or availability.

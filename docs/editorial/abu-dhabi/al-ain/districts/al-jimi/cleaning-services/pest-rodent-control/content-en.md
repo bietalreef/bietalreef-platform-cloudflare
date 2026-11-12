@@ -20,6 +20,8 @@ This is preparatory information for company and establishment services, not a li
 
 **Additional acceptance checks:** Obtain a treatment-location record and a follow-up date rather than treating same-day disappearance as proof of eradication.
 
+**Treatment specifications:** Request the active ingredient, formulation and label-compliant application method, including whether work is proposed inside food cupboards or around drains and how food-contact surfaces will be protected. Do not accept unidentified mixtures or indiscriminate spraying near food.
+
 ## 2. Ant control
 
 **When it is needed:** recurrent trails near gaps and sinks.
@@ -37,6 +39,8 @@ This is preparatory information for company and establishment services, not a li
 **Quotation checkpoints:** Compare colony tracing and bait monitoring with treatment of visible trails alone; agree who seals identified gaps.
 
 **Additional acceptance checks:** Monitor the photographed trails over the agreed period and report newly emerging routes.
+
+**Dimensions and entry points:** Photograph gaps around plumbing and electrical penetrations with a scale reference and note whether they are external or behind fixed cabinetry. Agree suitable exclusion materials and price leak repairs separately; active entry routes should not be sealed without a plan to remove and verify the pests first.
 
 ## 3. Rodent control
 
@@ -74,6 +78,8 @@ This is preparatory information for company and establishment services, not a li
 
 **Additional acceptance checks:** Reinspect original hiding areas at the agreed follow-up and document fresh signs without promising immediate success.
 
+**Rooms and belongings:** State the number of bedrooms and storage areas and identify fabrics that cannot tolerate hot washing or heat. Request a plan for mattresses and delicate furnishings, prevention of transfer while handling clothing, and method-specific safe re-entry instructions.
+
 ## 5. Recurring pest-control contracts
 
 **When it is needed:** repeated pest activity in occupied buildings.
@@ -91,6 +97,8 @@ This is preparatory information for company and establishment services, not a li
 **Quotation checkpoints:** Compare scheduled and emergency visits, documentation and escalation thresholds; separate housekeeping and building repairs from pest treatment.
 
 **Additional acceptance checks:** Review monitoring trends, station records and outstanding corrective actions at every service cycle.
+
+**Measurable contract controls:** Specify monitoring-point counts by sensitive zone, required logs, emergency escalation thresholds and who authorises treatment outside routine visits. Price major infestations and building exclusion work separately unless explicitly included.
 
 ## Request a quotation
 

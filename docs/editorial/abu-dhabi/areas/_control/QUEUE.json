@@ -328,19 +328,19 @@
       "editorial_progress": {
         "sector": "equipment-rental",
         "specialty": "نقل الأثاث والممتلكات",
-        "independently_rewritten_services": 35,
+        "independently_rewritten_services": 42,
         "sector_total": 53,
-        "remaining_in_sector": 18,
+        "remaining_in_sector": 11,
         "area_total": 434,
-        "area_independently_rewritten": 374,
-        "remaining_area_services_for_originality_review": 60,
-        "next_service_number": 36,
+        "area_independently_rewritten": 381,
+        "remaining_area_services_for_originality_review": 53,
+        "next_service_number": 43,
         "next_sector": "equipment-rental",
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       },
-      "editorial_rewritten_service_entries": 374,
-      "editorial_remaining_service_entries": 60
+      "editorial_rewritten_service_entries": 381,
+      "editorial_remaining_service_entries": 53
     },
     {
       "sequence": 5,

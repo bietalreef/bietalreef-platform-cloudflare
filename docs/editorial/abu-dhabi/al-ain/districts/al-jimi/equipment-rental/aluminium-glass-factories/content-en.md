@@ -56,9 +56,9 @@ For staged projects, submit numbered quantities, approved drawings, floor priori
 
 **Quotation, agreement and acceptance:** Compare batch identification linked to drawing revisions, rejection replacement and sequencing. Agree variation, delay and storage terms; reconcile each shipment with its packing list, drawings and snag log.
 
-## Requesting a quotation
-
-Share photos, dimensions, drawings, quantities, location and target dates with Biet Al Reef customer service to prepare a clear enquiry. No factory availability, price or date is guaranteed, and this guidance does not activate the category.
-
 **Project order quotation brief:** Provide a phased, floor-by-floor quantity schedule with drawing revision IDs; request a batch plan, production sample approvals, variation control, replacement and storage arrangements.
 
+
+## Requesting a quotation through Biet Al Reef
+
+Share site photographs, schedules, approved drawings, specifications and quantities with Biet Al Reef customer service to help prepare a clear enquiry. This is an enquiry route only: it does not guarantee a factory, acceptance, price or date, and does not activate the restricted category.

@@ -30,7 +30,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check product documentation, safe return-to-use and testing scope; confirm duration, responsibilities, materials, equipment, access restrictions and extras in writing.
 
-**Acceptance:** Verify treatment log and agreed test evidence. Record outstanding issues with dated photos.
+**Acceptance:** Obtain a treatment log identifying the product, applied solution concentration, contact time, rinsing and supply-restoration time, plus contracted test results. If independent water analysis is agreed, identify the sampling point, sampling time, sampler and responsible laboratory; the disinfection log alone does not establish potability.
 
 **Execution and safety details:** Request documentation showing that the selected disinfectant is suitable for potable-water systems, together with handling, dilution and disposal precautions. Do not assume a universal dose or mix products.
 

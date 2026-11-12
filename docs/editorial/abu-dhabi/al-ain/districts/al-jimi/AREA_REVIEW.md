@@ -850,3 +850,11 @@
 - الحالة العامة: `in_progress`؛ لا يُعد هذا اعتمادًا نهائيًا للجيمي.
 - عُدلت شروط فحص الاستلام للخدمات الخمس في [العربية](./cleaning-services/pest-rodent-control/content-ar.md) و[الإنجليزية](./cleaning-services/pest-rodent-control/content-en.md) لتصبح خاصة بكل آفة بدل العبارة المشتركة. [سجل التخصص](./cleaning-services/pest-rodent-control/review.md).
 - نواقص الاستئناف: تدقيق جودة بقية خدمات `cleaning-services` (building-facility-operations، workforce-operations، homes-buildings-cleaning، upholstery-cleaning، tanks-pools-cleaning، disinfection-sanitisation، facades-site-cleaning) ثم تخصصات `equipment-rental` الثمانية، ثم المطابقة الكاملة لخمسين تخصصًا و434 خدمة بالعربية ومقابلها الإنجليزي، بما فيها التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## تدقيق تسعير تنظيف الواجهات والمواقع — 2026-11-12
+
+- الحالة: `in_progress`، ولم تُعتمد الجيمي أو يبدأ المويجعي.
+- أضيفت متطلبات طلب سعر منفصلة للخدمات الأربع في [العربية](./cleaning-services/facades-site-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/facades-site-cleaning/content-en.md)؛ قياسات الواجهات الزجاجية ووسائل الوصول، خامات كسوة المباني ومياه الغسيل، مساحات المواقف وإغلاقها، ومناطق المواقع الصناعية وعزل المعدات وتصنيف المخلفات. [مراجعة التخصص](./cleaning-services/facades-site-cleaning/review.md).
+- أعيدت قراءة الملفات الثلاثة بعد رفعها وتأكد تطابقها.
+- **النواقص الدقيقة التالية:** تدقيق جودة `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`disinfection-sanitisation` و`pest-rodent-control` خدمة بخدمة، ثم تخصصات `equipment-rental` الثمانية، ثم مطابقة تخصصات الشركات الخمسين وخدماتها الـ434 في كل لغة مع شجرة الخدمات حرفيًا، وفحص التفرّد والسلامة وحالات التصنيف المقيد والمقترح. لا يُعد وجود الملفات وحده اعتمادًا نهائيًا.

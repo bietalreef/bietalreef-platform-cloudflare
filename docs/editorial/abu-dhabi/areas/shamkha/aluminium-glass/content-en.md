@@ -96,31 +96,31 @@ Retail and office furniture should be planned around user numbers, display loads
 
 ### 22. Interior space design
 
-Map space function, circulation, lighting, freestanding and fixed furniture. Compare design deliverables with optional execution; approve materials before fabrication.
+Interior space design for workshop joinery establishes where fixed cabinets, wall linings and partitions will sit before timber is cut; it is not a substitute for a complete architectural design. Request scaled plans showing doors, windows, AC outlets and electrical points, and measure walls at several positions to identify deviations. Distinguish concept visuals from fabrication drawings showing board thickness, clearances and fixings. Compare design fees by drawings, revisions and samples included. At acceptance, verify circulation, door operation and access to services concealed behind panels.
 
 ### 23. Joinery fabrication and installation
 
-Record all dimensions, site walls, lifting access, doors and lifts. Compare workshop trial assembly, transport and installation; inspect safe fixings and unobtrusive joints.
+Joinery fabrication and installation are distinct responsibilities: accurate cutting and assembly in the workshop, followed by secure fitting to the actual walls and floors. Provide a numbered unit schedule with dimensions, board types, finishes and hardware, plus photographs of access doors, stairs and lifts to determine transportable piece sizes. Specify who corrects uneven walls, protects floors and seals perimeter gaps. Compare fabrication, transport and fitting costs separately. Inspect components before dispatch and test alignment, anchorage and drawer travel after installation.
 
 ### 24. Majlis fit-out
 
-Define seating capacity, majlis dimensions, television, AC, curtains and upholstery. Compare fitted joinery separately from movable furniture; inspect circulation and lighting in use.
+Majlis fit-out starts with the actual seating arrangement rather than a decorative reference photograph. Specify seat count, routes between entrance and seating, television location, air outlets and lighting, supported by room dimensions and ceiling heights. Separate fixed timber linings and ceiling work from movable sofas, upholstery and curtains so bids cover the same scope. Request timber and fabric samples with cleaning requirements. At handover, sit in different positions to check sightlines, lighting and whether doors conflict with furniture.
 
 ### 25. Bedroom fit-out
 
-Measure beds, wardrobes, door swings, ceiling offsets and power points. Compare unit layouts, safe edges and anchorage; inspect window and door access after fitting.
+Bedroom fit-out depends on clearance around the bed and in front of wardrobes before furniture sizes are fixed. Record finished room dimensions, sockets, switches, windows and bathroom doors, then approve a plan showing the full travel of drawers and doors. Price the bed, headboard, wardrobes, bedside units and integrated lighting separately; specify edge finishes and anchors for tall units. At handover, fully open the wardrobe, confirm access to outlets and windows, and inspect stability and sharp corners along walking routes.
 
 ### 26. Office and retail fit-out
 
-Record retail stock or office use, storage, counters, circulation and existing service points. Compare joinery, electrical interfaces and finishes within a defined scope; hand over zone-by-zone snags.
+Office and retail fit-out cannot be priced by counter length alone: map workflow, storage, customer waiting areas and circulation. Supply a floor plan showing existing power and data points and the dimensions of equipment or display stock. Clarify whether the contract covers fixed joinery only or the complete fit-out. Compare storage units, counters, fittings, lighting and service connections item by item, and identify who coordinates with designers or relevant authorities where required. Hand over a room-by-room defect list and test shelf stability, drawer operation and access to maintenance points.
 
 ### 27. Timber decorative features
 
-Document motif, finish, panel position and heights on drawings. Compare mock-ups, edge treatment and cleanability; inspect consistent repeats and secure installation.
+Timber decorative features include wall battens, frames and ornamental panels, which serve a different purpose from load-bearing storage cabinets. Mark every feature on a dimensioned elevation, specifying pattern spacing, grain direction and finish colour; photograph sockets, damp areas and uneven substrates. Approve a physical sample of edges and corners before full production. Compare panel material, fixing method and the ability to remove a section for repairs. At acceptance, inspect consistent spacing, neat junctions at switches and the absence of projecting or loose edges.
 
 ### 28. Interior fit-out handover
 
-Use a handover checklist for doors, drawers, surfaces, lights, joints and site variations. Compare against approved drawings and materials; provide keys, maintenance notes and replaceable-part records.
+Interior fit-out finishing and handover is a defined inspection stage, not a vague allowance for unspecified repairs. Gather approved drawings, variation records and material references, then check each room for aligned panels, sealed joints, functioning doors, drawers and integrated lighting, and undamaged surfaces. Record defects with photographs, location, unit number and an agreed correction date; separate defects from new additional work. Re-test corrected items before final sign-off and obtain unit keys, cleaning and maintenance instructions and any agreed warranties.
 
 ## Aluminium windows, doors and fittings
 

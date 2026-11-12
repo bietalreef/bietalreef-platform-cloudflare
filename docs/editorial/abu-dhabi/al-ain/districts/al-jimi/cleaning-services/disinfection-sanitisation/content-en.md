@@ -14,6 +14,8 @@ Preparatory guidance for company and establishment services, not evidence of pro
 
 **Quotation request checklist:** Supply room sizes, sensitive surfaces and the vacant access window. Ask for product name and dilution, application and contact time, re-entry guidance, and whether prerequisite cleaning is included.
 
+**Application precautions:** Do not use fogging, misting or broad-area spraying unless the product label specifically permits that application and surface. Assign responsibility for keeping people, pets and food away, and follow label instructions before food-contact surfaces return to use.
+
 **Acceptance check:** Match treated rooms to the schedule, inspect sensitive surfaces for problematic residue or moisture, and obtain product records and re-entry guidance; appearance alone cannot establish disinfection efficacy.
 
 ## 2. Office and facility disinfection

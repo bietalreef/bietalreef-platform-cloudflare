@@ -888,3 +888,10 @@
 
 - الحالة `in_progress`؛ أُضيفت احتياطات العادم وأول أكسيد الكربون والتوصيل الكهربائي الآمن إلى [العربية](./equipment-rental/light-tools-rental/content-ar.md) و[الإنجليزية](./equipment-rental/light-tools-rental/content-en.md)، مع تحديث [المراجعة](./equipment-rental/light-tools-rental/review.md).
 - النواقص المحددة: فحص بقية خدمات `equipment-rental/light-tools-rental` الست، ثم `construction-lifting-equipment` و`aluminium-glass-factories` و`marble-stone-factories` و`tools-equipment-stores` و`property-moving` و`project-material-transport` و`concrete-block-factories`؛ تدقيق تخصصات `cleaning-services` الثمانية، ثم المطابقة الحرفية للتخصصات الخمسين والخدمات الـ434 في كل لغة مع الشجرة وفحص التفرد والسلامة والتصنيفات. لا يبدأ المويجعي.
+
+## تحديث تحريري موثّق — 2026-11-12: تأجير معدات البناء والرفع
+
+- الحالة العامة باقية `in_progress / editorial_quality_check_pending`؛ لا انتقال إلى المويجعي.
+- استُكملت إضافات مخصصة لفحص السلامة والاستلام لكل الخدمات السبع في `equipment-rental/construction-lifting-equipment/content-ar.md` و`content-en.md` مع الحفاظ على أسماء الخدمات وترتيبها. راجع `equipment-rental/construction-lifting-equipment/review.md`.
+- تحقق الرفع: أعيد جلب ملفي اللغة من GitHub وتطابقا مع النص المحفوظ.
+- **نقطة الاستئناف:** راجع بالتتابع `equipment-rental/light-tools-rental/` ثم `equipment-rental/aluminium-glass-factories/` ثم `equipment-rental/marble-stone-factories/` ثم `equipment-rental/tools-equipment-stores/` ثم `equipment-rental/property-moving/` ثم `equipment-rental/project-material-transport/` ثم `equipment-rental/concrete-factories/`، مع فحص كل خدمة بالعربية والإنجليزية؛ ثم راجع تخصصات `cleaning-services/` الثمانية، وأكمل التدقيق التحريري لبقية القطاعات الثمانية ومطابقة 434 خدمة بكل لغة.

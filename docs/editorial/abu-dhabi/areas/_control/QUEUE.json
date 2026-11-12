@@ -335,10 +335,12 @@
         "next_service_number": 1,
         "remaining_area_services_for_originality_review": 95,
         "editorial_draft_completed": false,
-        "area_editorially_approved": false
+        "area_editorially_approved": false,
+        "remaining_in_sector": 0,
+        "sector_total": 24
       },
-      "editorial_rewritten_service_entries": 301,
-      "editorial_remaining_service_entries": 133
+      "editorial_rewritten_service_entries": 339,
+      "editorial_remaining_service_entries": 95
     },
     {
       "sequence": 5,

@@ -8,7 +8,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Send photos of fasteners, a size-and-quantity schedule, and whether the tools are for sustained workshop use or a one-off repair.
 
-**Compare quotes and agree terms:** Compare steel grade, corrosion protection, grip design and the exact set contents; do not assume a case or delivery is included. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare steel grade, corrosion protection, grip design and the exact set contents; do not assume a case or delivery is included. Agree a schedule of sizes, piece counts, material grades and exchange conditions for mismatched tools, and whether delivery is a complete kit or individual items.
 
 **Acceptance:** Count the pieces, check sizing and inspect tips and handles before acceptance.
 
@@ -20,7 +20,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Specify concrete, steel or timber thickness, available power, blade or bit sizes, and photos of the work area.
 
-**Compare quotes and agree terms:** Compare model, duty rating, batteries, charger, guards, accessories and warranty; price blades, discs and delivery separately. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare model, duty rating, batteries, charger, guards, accessories and warranty; price blades, discs and delivery separately. Record exact model, voltage, accessories, batteries and warranty; separate consumables and delivery from the tool price.
 
 **Acceptance:** Check the rating plate, switch and guards, then perform a safe no-load function check.
 
@@ -32,7 +32,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** State hazards, user counts and sizes, site conditions and any project-required standard or certification.
 
-**Compare quotes and agree terms:** Compare hazard-specific helmets, eyewear, gloves, footwear and respiratory protection, plus manufacturing dates and relevant conformity evidence; training is not automatically included. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare hazard-specific helmets, eyewear, gloves, footwear and respiratory protection, plus manufacturing dates and relevant conformity evidence; training is not automatically included. Attach the hazard list, user sizes and required conformity evidence; assign fit-check and training responsibilities and clarify staged delivery.
 
 **Acceptance:** Check fit, packaging, markings, instructions and expiry where applicable; reject unsuitable protection.
 
@@ -44,7 +44,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Provide room dimensions, door clearances, ceiling height, intended loads and electrical outlet photos.
 
-**Compare quotes and agree terms:** Compare footprint, rated capacity, anchoring, operating requirements and after-sales support; separate freight, installation, commissioning and training. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare footprint, rated capacity, anchoring, operating requirements and after-sales support; separate freight, installation, commissioning and training. Assign responsibility for freight, lifting, anchoring, power connections, commissioning and training, with acceptance conditions before final payment.
 
 **Acceptance:** Inspect stability, emergency stops, guards and capacity labels; witness a permitted commissioning test.
 
@@ -56,7 +56,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Provide surface photos, area, soil type, water and drainage access, power supply and operating hours.
 
-**Compare quotes and agree terms:** Compare brush width, tank size, filtration and cord or battery runtime; clarify chemicals, spare brushes and warranty. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare brush width, tank size, filtration and cord or battery runtime; clarify chemicals, spare brushes and warranty. Specify brush and filter types, chemical compatibility, warranty and consumable availability, and whether demonstration and delivery are included.
 
 **Acceptance:** Check for leaks, hose and filter condition and surface damage; test on an agreed small area.
 
@@ -68,7 +68,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Send the equipment nameplate, model, serial number, old part number and photos from several angles.
 
-**Compare quotes and agree terms:** Compare genuine and alternative parts by dimensions, voltage, load rating, compatibility, warranty and installed-part return policy; fitting is separate unless stated. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Compare genuine and alternative parts by dimensions, voltage, load rating, compatibility, warranty and installed-part return policy; fitting is separate unless stated. Record part number, permitted substitute, machine model and return rules before fitting; agree who pays shipping for an incompatible item.
 
 **Acceptance:** Verify part codes, connectors, dimensions and packaging before installation; retain the invoice and compatibility record.
 
@@ -80,7 +80,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 **Photos, dimensions and specifications:** Provide model, operating hours, symptom timing, nameplate and connection photos, and prior service records.
 
-**Compare quotes and agree terms:** Separate inspection, parts, labour and transport costs; define post-repair tests, warranty and exclusions such as undiscovered faults. Obtain written quantities, conditional delivery arrangements, total charges, payment and exchange terms.
+**Compare quotes and agree terms:** Separate inspection, parts, labour and transport costs; define post-repair tests, warranty and exclusions such as undiscovered faults. Require written approval for extra parts; itemise diagnosis, labour, parts and transport and define functional testing and repair warranty.
 
 **Acceptance:** Review the diagnostic report, replaced parts, function and safety checks, and record unresolved symptoms before sign-off.
 

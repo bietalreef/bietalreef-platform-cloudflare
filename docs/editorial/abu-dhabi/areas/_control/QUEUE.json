@@ -324,23 +324,23 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Shamkha: 360/434 independently rewritten in Arabic and English; 21/53 equipment-rental services, next 22 stone cutting. 32 equipment and 42 cleaning services remain. Six sectors completed editorially. No publication approval.",
+      "review_note": "Stone fabrication services 22–28 independently rewritten in AR/EN and verified on GitHub; 367/434 bilingual service entries revised, 67 remaining (equipment 25, cleaning 42). Six sectors revised. Human review pending; no publication.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "مصانع الرخام والحجر",
-        "independently_rewritten_services": 21,
+        "specialty": "متاجر الأدوات والمعدات",
+        "independently_rewritten_services": 28,
         "sector_total": 53,
-        "remaining_in_sector": 32,
+        "remaining_in_sector": 25,
         "area_total": 434,
-        "area_independently_rewritten": 360,
-        "remaining_area_services_for_originality_review": 74,
-        "next_service_number": 22,
+        "area_independently_rewritten": 367,
+        "remaining_area_services_for_originality_review": 67,
+        "next_service_number": 29,
         "next_sector": "equipment-rental",
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       },
-      "editorial_rewritten_service_entries": 353,
-      "editorial_remaining_service_entries": 95
+      "editorial_rewritten_service_entries": 367,
+      "editorial_remaining_service_entries": 67
     },
     {
       "sequence": 5,

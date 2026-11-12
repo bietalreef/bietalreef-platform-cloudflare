@@ -324,22 +324,22 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Equipment-rental services 1–7 independently revised AR/EN and verified by re-fetching 53 headings per language. Shamkha 346/434; 46 equipment and 42 cleaning services remain. Human technical/language review required; no publication.",
+      "review_note": "Equipment services 1–14 independently rewritten bilingually; 53 headings verified in each language. 353/434 rewritten, 81 remaining. In progress; no publication.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "تأجير معدات البناء والرفع",
-        "independently_rewritten_services": 7,
+        "specialty": "مصانع الألمنيوم والزجاج",
+        "independently_rewritten_services": 14,
         "sector_total": 53,
-        "remaining_in_sector": 46,
+        "remaining_in_sector": 39,
         "area_total": 434,
-        "area_independently_rewritten": 346,
-        "remaining_area_services_for_originality_review": 88,
-        "next_service_number": 8,
+        "area_independently_rewritten": 353,
+        "remaining_area_services_for_originality_review": 81,
+        "next_service_number": 15,
         "next_sector": "equipment-rental",
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       },
-      "editorial_rewritten_service_entries": 339,
+      "editorial_rewritten_service_entries": 353,
       "editorial_remaining_service_entries": 95
     },
     {

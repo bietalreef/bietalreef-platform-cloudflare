@@ -321,16 +321,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Aluminium-glass services 1–14 independently rewritten in AR/EN, GitHub re-read confirms 56 sequential headings each language; 15–56 pending. Area 273/434 independently rewritten, in_progress.",
+      "review_note": "Aluminium-glass services 1–21 independently rewritten in Arabic and English; 56 sequential headings per language re-fetched and checked. Services 22–56 remain draft. Area 280/434 independently rewritten; 154 remaining. Human review required.",
       "editorial_progress": {
         "sector": "aluminium-glass",
         "specialty": "الأثاث والديكور الخشبي",
-        "independently_rewritten_services": 14,
+        "independently_rewritten_services": 21,
         "area_total": 434,
-        "area_independently_rewritten": 273,
-        "next_service_number": 15,
-        "remaining_in_sector": 42,
-        "remaining_area_services_for_originality_review": 161,
+        "area_independently_rewritten": 280,
+        "next_service_number": 22,
+        "remaining_in_sector": 35,
+        "remaining_area_services_for_originality_review": 154,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -347,7 +347,14 @@
           11,
           12,
           13,
-          14
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
         ]
       }
     },

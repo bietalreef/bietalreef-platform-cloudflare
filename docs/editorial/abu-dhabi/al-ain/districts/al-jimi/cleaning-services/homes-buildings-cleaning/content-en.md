@@ -66,7 +66,7 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Comparing quotes:** Compare cleaning stages, fine-dust extraction, stain/film removal and waste disposal; repairing defective finishes is separate.
 
-**Agreement and exclusions:** Schedule after trades finish and assign responsibility for re-soiling caused by later contractors.
+**Agreement and exclusions:** Schedule after trades finish and assign responsibility for re-soiling caused by later contractors. Require containment and suitable fine-dust extraction and filtration for cutting or sanding residues rather than dry sweeping or blowing dust into occupied areas. Heavy construction debris and hazardous-material removal are excluded unless separately arranged with a qualified contractor.
 
 **Acceptance checks:** Inspect lit surfaces, tile edges, window frames and accessible visible vents without dismantling equipment.
 

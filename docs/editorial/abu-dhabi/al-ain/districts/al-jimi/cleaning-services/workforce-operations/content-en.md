@@ -12,6 +12,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Quote comparison and agreement:** Compare productive hours, supervision, consumables, handover and attendance evidence; assign responsibility for keys, stores and incident reports.
 
+**Operating precautions:** Agree rest breaks, drinking-water access and chemical storage. Require training against mixing cleaning chemicals and on safe handling of sharps or suspicious waste. Working at height or in confined spaces must not be assigned to ordinary cleaners without separate competence and controls.
+
 **Acceptance checks:** Match attendance to washroom, touchpoint and floor checks; log missed tasks before signing off a shift.
 
 **Quotation inputs:** Specify cleaners per shift, working days and holidays, absence cover, and who supplies consumables and PPE. Ask for supervision and materials to be itemised separately from staffing.
@@ -25,6 +27,8 @@ Preparatory guidance for company and establishment services, not confirmation of
 **Scope and exclusions:** Specify loading, unloading, safe handling and protection; trucks, hoists and packing are not automatically included.
 
 **Quote comparison and agreement:** Compare crew size, experience, dollies, overtime and damage responsibility; agree movement routes and stop-work conditions.
+
+**Handling precautions:** Crew size must not be based on weight alone: assess grip points, load stability, lift capacity, stair routes and the need for dollies or qualified lifting equipment. Stop manual handling if no safe route or method is available rather than asking workers to carry an unsuitable load.
 
 **Acceptance checks:** Count items and inspect edges, floors and corners after handling; record damage immediately.
 

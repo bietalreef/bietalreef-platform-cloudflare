@@ -350,11 +350,31 @@
       "name_ar": "الوثبة",
       "name_en": "Al Wathba",
       "kind": "district",
-      "status": "pending",
+      "status": "in_progress",
       "completed_sectors": [],
-      "files": [],
-      "last_attempt": null,
-      "review_note": null
+      "files": [
+        "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/AREA_REVIEW.md"
+      ],
+      "last_attempt": "2026-11-12",
+      "review_note": "Al Wathba in progress: first construction specialty 14/14 services authored AR/EN, 42 construction and 420 total area services remain; drafts read back from GitHub. Human review pending.",
+      "editorial_progress": {
+        "sector": "general-contracting",
+        "specialty": "إنشاء المباني والفلل",
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "تجديد المباني السكنية",
+        "next_service_number": 15,
+        "next_service_name": "ترميم المباني القديمة",
+        "sector_total": 56,
+        "sector_independently_rewritten": 14,
+        "remaining_in_sector": 42,
+        "area_total": 434,
+        "area_independently_rewritten": 14,
+        "remaining_area_services_for_originality_review": 420,
+        "area_editorially_approved": false
+      }
     },
     {
       "sequence": 6,

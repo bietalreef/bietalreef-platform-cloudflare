@@ -50,7 +50,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Acceptance:** Obtain the locked-station map, inspection log and a list of entry points closed or still open, with an action plan for unresolved gaps.
 
-**Execution and safety details:** Photograph droppings and gnaw marks without handling them, and disclose nearby children, pets and exposed food.
+**Execution and safety details:** Photograph droppings and gnaw marks without handling them, and disclose nearby children, pets and exposed food. Do not dry-sweep or vacuum droppings; restrict access and ask the qualified contractor to specify wet-cleaning, disinfection and protective measures, including who removes nesting material and seals entry points.
 
 **Quotation checkpoints:** Ask for a map of secured monitoring stations, an exclusion plan and safe disposal arrangements. Baits must not be accessible to untrained occupants.
 

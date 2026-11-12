@@ -14,6 +14,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 
 **Acceptance checks:** Count delivered units against the delivery note and inspect for moisture, torn bags and spilled aggregate.
 
+**Pre-loading check:** Separate delicate veneered panels from rough timber and distribute supports so long ends do not hang unsupported. Request photographs of secured bundles before departure; straps should not bear directly on exposed finished edges without protection.
+
 ## 2. Timber transport
 
 **When needed and scope:** MDF, veneer sheets and long timber require level support, dry protection and edge padding during transport.
@@ -25,6 +27,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 **Agreement and exclusions:** Record who bears the cost of chipped edges or bent panels and whether the crew carries packs indoors or only to kerbside.
 
 **Acceptance checks:** Check flatness, dryness, veneer faces and corners, photographing damage before all packaging is removed.
+
+**Pre-loading check:** A rack cannot be selected from slab count alone. Confirm group weights, centre of gravity, existing cracks and lifting positions. Check rack restraint to the vehicle and the loading route; damaged slabs require a separately assessed handling method.
 
 ## 3. Marble transport
 
@@ -38,6 +42,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 
 **Acceptance checks:** Inspect slab identifiers, finish, edges and fractures under good light and reconcile quantities with the cutting schedule.
 
+**Pre-loading check:** Verify overall loaded height, width and axle loading after the machine is placed on the trailer, not just the machine dimensions. Secure booms and attachments to manufacturer guidance, assign isolation and restraint duties, and check any route permit or escort requirement before dispatch.
+
 ## 4. Machinery transport
 
 **When needed and scope:** Transporting a generator, compressor or excavator depends on weight, centre of gravity and removable attachments.
@@ -49,6 +55,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 **Agreement and exclusions:** Assign responsibility for any required route permits, insurance, standby and surface protection; record condition before collection.
 
 **Acceptance checks:** Check bodywork, fittings, accessories, hour meters and leaks against the handover record.
+
+**Pre-loading check:** Keep sharp-edged debris and exposed glass contained and prevent loose material from scattering. Agree how the load will be covered and when collection must stop if an undeclared waste type is discovered.
 
 ## 5. Construction waste removal
 
@@ -64,6 +72,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 
 **Special pre-collection check:** Paint or solvent containers, suspected asbestos or contaminated debris must not be loaded as ordinary construction waste. Identify the material and arrange the applicable compliant transport and disposal route with a qualified operator. A photograph alone cannot establish whether waste is hazardous.
 
+**Periodic operating check:** Use a trip log recording vehicle identity, load category, arrival, waiting and departure times and site recipient. Additional standby charges need a pre-agreed measurement and approval method.
+
 ## 6. Project truck supply
 
 **When needed and scope:** For recurring site deliveries, truck scheduling and waiting time are central to the contract, not minor extras.
@@ -75,6 +85,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 **Agreement and exclusions:** Define dispatch confirmation, cancellation, delay limits, replacement procedure and load logs; no fleet availability is assumed.
 
 **Acceptance checks:** Reconcile trip sheets, gate times and delivery quantities before approving the period invoice.
+
+**Handling-plan check:** Adding workers does not make an excessively heavy item safe for manual lifting. Assess mass, centre of gravity, route and ground condition, with suitable equipment and qualified operators where needed. Stop if the item cannot be weighed or restrained reliably.
 
 ## 7. Loading and unloading services
 

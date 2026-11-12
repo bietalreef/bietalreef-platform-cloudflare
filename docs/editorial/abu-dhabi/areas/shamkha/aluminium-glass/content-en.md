@@ -191,63 +191,61 @@ For kitchen hinge and hardware repairs, describe sagging doors, rubbing, failed 
 
 ### 43. Glazed façade execution
 
-Set façade height, environmental exposure, wind design and structural fixing points. Compare curtain-wall system, glass, joints and drainage against engineered design; inspect test evidence and anchors.
+A glazed building façade is not the same job as replacing a broken pane. Start with structural drawings, floor levels, measured openings and photographs showing connections to the building frame. State expectations for solar control, thermal performance, weather resistance and future maintenance access. A comparable quotation should identify the façade system, glass build-up, gaskets, movement joints, drainage, engineered shop drawings, access equipment and agreed testing. A square-metre rate alone conceals substantial differences. At handover, inspect joint alignment, protected edges and anchors, review the agreed water-test evidence and obtain maintenance information.
 
 ### 44. Toughened glass installation
 
-Identify pane location, function, thickness, holes and edge profile before tempering. Compare fabrication details, handling and edge protection; reject chipped or cracked pieces.
+Toughened safety glass may be appropriate for specified locations, but it is not automatically interchangeable with laminated fall-protection glazing. Measure finished openings and fix all holes, cut-outs and edge details before manufacture; tempered glass cannot simply be re-cut on site. Ask for glass thickness, processing identification, edge treatment and a handling and lifting plan. Compare supply, hardware and installation separately against the same specification. On delivery, reject cracked or edge-damaged panes, and check that protective setting blocks and gaskets prevent hard glass-to-metal contact.
 
 ### 45. Shopfront glazing
 
-Measure retail opening, door position, visibility, security and closure. Compare glass, framing and hardware; inspect door action, reflections and weather seals.
+A shopfront must balance merchandise visibility, customer circulation and secure closure. Provide opening measurements, a sketch of door position and swing, adjacent finishes and installation access outside trading hours if necessary. Specify glazing, framing, locks, handles and any shading or security screen as distinct options. Request separate prices for removing the old frontage, protecting stock, making good and weather sealing. At handover, repeatedly test door operation, check even clearances, secure fixing and clean sealed joints rather than accepting the appearance alone.
 
 ### 46. Glass door installation
 
-Specify panel dimensions, swing, weight, lock, hinges and fixing substrate. Compare load-rated hardware; test balanced closing without floor scraping.
+For a new glass door, establish whether it is hinged or sliding, expected traffic, clear opening width and direction of travel. Measure after floor finishes and record thresholds, substrate and available anchor points. Heavy panels need compatible, load-rated pivots or tracks. Request a drawing showing pane size, holes, handle, lock and closer where relevant. Compare the cost of glazing, fittings, installation and adjustment separately. At handover, check smooth movement without floor contact, firm handles and safe clearance from surrounding fittings.
 
 ### 47. Glass partition installation
 
-Lay out rooms, glass heights, privacy, acoustic expectations and doors. Compare clear or obscured glass, anchoring and seals; check panel stability and ceiling junctions.
+Glass partitions can divide rooms while preserving daylight, but privacy and acoustic performance depend on the whole assembly. Provide a plan showing room divisions, actual ceiling height, doors, air-conditioning outlets, sprinklers and lighting. Request samples of clear or obscured glass and details of framing, seals and floor or ceiling fixings. Price any service relocation and floor reinstatement explicitly; a light partition should not be assumed to provide high acoustic isolation. Inspect panel alignment, safe corners, stable fixings and door closure on completion.
 
 ### 48. Glass balustrade installation
 
-Identify guard height, stair or balcony geometry, glass sizes and fixing positions. Have a qualified designer establish load resistance; compare glazing build-up and fixings, then inspect for movement.
+A glass balustrade is a fall-protection assembly, not simply a decorative panel. Record the stair or balcony geometry, drop, substrate and fixing positions with photographs. A competent designer must establish the applicable loading and compliant glass-and-anchor system; neither thickness nor fixing type should be selected from a picture or a price alone. Request details of laminated glazing or the approved system, base channels, anchors, edge protection and panel replacement. At handover, review design and installation records, alignment, secure connections and exposed edges; an improvised push test is not a substitute for professional inspection.
 
 ### 49. Façade glazing maintenance
 
-Record leaks, condensation, failed opening hardware and seal faults, including elevated access. Compare joint, drainage and component repairs plus access equipment; verify repaired areas with a targeted test.
+Glazed façade maintenance begins by distinguishing failed perimeter seals, blocked drainage, condensation inside an insulated glass unit and defective opening hardware. Supply photographs with floor, elevation and when the symptom appears, such as after rain. The quotation should describe safe access, diagnosis, compatible replacement parts and materials, separating targeted repair from full-unit replacement. Internal condensation cannot normally be fixed by wiping the outer pane. Ask for before-and-after records and the agreed water or operating test at handover.
 
 ## Steel and metal fabrication
 
 ### 50. Steel door fabrication
 
-Measure door opening, weight, hinge and lock positions and corrosion exposure. Compare metal gauge, coating and anchors; inspect flatness and functional locks.
+Steel-door fabrication starts by identifying whether the door serves pedestrians, storage or a heavy gate. Provide finished opening dimensions, swing, lock position and photographs of the supporting wall and floor. Request a shop sketch showing frame sections, plate thickness, hinges, reinforcement and anchors. Compare corrosion protection, paint, hardware, delivery and fitting as separate items. A door on an escape route or fire separation must not be described as fire-rated without a suitable approved assembly. At handover, test leaf alignment, locking, clearances and coating at welded or cut edges.
 
 ### 51. Steel balustrade fabrication
 
-Define guard lengths, heights, corner geometry, base fixings and users. Compare member sizes, joints and finish; inspect the full length for stability.
+A steel balustrade requires measured lengths and heights along the entire stair or balcony, not an approximate linear-metre figure. Identify use, children’s access and the supporting edge or slab. Request drawings showing posts, spacing, joints and terminations. Compare metal sections, welded or bolted connections, corrosion protection, anchoring and making good. Where the barrier prevents falls, competent design and load verification are essential. Inspect continuity, spacing, sharp edges and anchor records at handover rather than relying on a casual hand-shake test.
 
 ### 52. Steel shade fabrication
 
-Measure vehicle envelope, traffic routes, post positions, wind and rain drainage. Compare steel sections, footings and covering; inspect secure anchorage and runoff.
+Before commissioning a steel carport or entrance canopy, measure vehicle envelopes, door-opening clearance, circulation, proposed posts and overhead or buried obstacles. Require a drawing showing spans, roof slope, rainwater direction, covering and foundation connections. Quotes can differ substantially in section sizes, coating, roof materials and footing works, so itemise them instead of comparing shade area alone. Obtain competent review of wind and other design loads. At handover, verify vehicle clearance, anchorage and drainage away from entrances.
 
 ### 53. Structural steelwork execution
 
-Define structural function, spans, loads, approved drawings and lifting access. Obtain engineered connection details and shop drawings; inspect geometry, joints and corrosion protection.
+A steel structure for an extension, platform or store needs a defined purpose, spans, heights and design loads coordinated with the project’s structural design. Site measurements alone are insufficient for fabrication. Obtain professionally prepared structural and shop drawings with connection, base and lifting details. Compare steel grades and quantities, protective treatment, fabrication, transport, erection and required inspection. At handover, check members, bolts and welds against the drawings, inspect reports and repair coating damage from handling.
 
 ### 54. Stainless-steel fabrication
 
-Identify stainless grade, finish, cleaning exposure and piece dimensions. Compare weld preparation, grinding and finish; inspect smooth joins, safe edges and no surface staining.
+Stainless-steel work may involve a handrail, counter, cladding or kitchen fitting; material grade and surface finish should reflect the application. Record dimensions, visible joints and exposure to moisture and cleaning chemicals, and approve a finish sample. Compare documented grade, sheet and section thickness, weld finishing and fixing method; a bright surface alone proves little. On completion, inspect straightness, safe edges, weld residues and iron contamination, and obtain appropriate cleaning guidance.
 
 ### 55. Metal welding services
 
-Record metal type, thickness, defect and whether the weld is structural or a non-load-bearing repair. Compare welding procedure, preparation, fire protection and inspection; check for cracking or distortion.
+Welding a gate hinge, assembling a frame and repairing a load-bearing connection are different jobs. Provide close photographs, metal type, thickness, access restrictions and nearby combustible materials. The quote should separate preparation, cutting, welding, finishing and corrosion protection, with spark and fire precautions. Structural welds require competent assessment and appropriate inspection rather than reliance on visual appearance. At handover, check alignment, distortion, visible defects, surface protection and any agreed inspection records.
 
 ### 56. Metalwork maintenance
 
-Photograph rust, distortion, failed hinges and weld damage, noting hazards. Compare repair, reinforcement and renewal for safety and cost; test function and coating after work.
-
-
+Metalwork maintenance should identify whether the issue is local rust, deformation, a worn hinge, loose anchorage or a cracked weld. Photograph the affected part and state whether it carries load or prevents falls. Request an itemised comparison of cleaning and recoating, component replacement, reinforcement or full remanufacture; paint can hide structural deterioration. Restrict use of hazardous elements until professionally assessed. At handover, test moving parts and check secure connections and coating continuity at cuts and welds.
 
 ## Workshop fabrication quotation brief
 

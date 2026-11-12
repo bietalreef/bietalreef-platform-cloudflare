@@ -154,31 +154,38 @@ Replacing door or window hardware or glazing requires identifying the system and
 
 ### 36. Aluminium kitchen fabrication
 
-Give kitchen plan, loads, appliance sizes and moisture requirements for cabinets. Compare profiles, panels, fronts and hardware; inspect assembled dimensions before delivery.
+Commission aluminium kitchen cabinets only after final wall dimensions, appliance positions and plumbing and electrical outlets are confirmed. Provide a dimensioned cabinet schedule showing width, depth, door swing and service access. Ask the fabricator to specify aluminium profiles and thicknesses, infill panels, finish suitability near wet areas, hinges and runners, with fabrication, worktop and fitting priced separately. Before dispatch, compare assembled units with the approved drawings and inspect corners, edges and appliance cut-outs.
+
 
 ### 37. Aluminium kitchen installation
 
-Measure walls, services and floor levels before fitting units. Compare installation, junctions and edge protection; test drawers, hinges and worktop alignment.
+Installing aluminium kitchen units is a separate scope from fabrication. Check finished floor and wall levels, worktop height and exposed services; photograph access routes and identify the wall substrate before choosing anchors for upper units. Compare quotations for delivery, lifting, fixing, junction sealing and hardware adjustment, explicitly excluding or including plumbing and electrical connections. At handover, operate every door and drawer, verify cabinet stability and worktop levels, and retain access to isolation valves.
+
 
 ### 38. Aluminium cabinet fabrication
 
-Specify cupboard dimensions, shelving and storage loads. Compare panel thickness, doors and fixing; inspect sturdy shelves and protected corners.
+For aluminium storage cabinets, identify the contents and approximate shelf loads before deciding spans and divisions. Supply clear opening dimensions, obstacles, sockets and preferred door swing; require a drawing of internal compartments and fixing points. Compare profile and shelf thickness, backing, hinges, locks and finish rather than a per-metre price alone. At acceptance, check level doors, secure shelves, safe edges and unobstructed circulation.
+
 
 ### 39. Bathroom aluminium cabinet fabrication
 
-Locate under-basin or bathroom storage, splash zones, airflow and leak drainage. Compare moisture-resistant panels, seals and plumbing access; check vulnerable connections are protected.
+For bathroom cabinets, record basin, trap and shut-off valve positions and the shower splash zone, with photographs after tiling. Specify door-panel materials, seals, joint detailing, ventilation and removable plumbing access: corrosion-resistant aluminium does not make every infill or hinge waterproof. Compare quotations for pipe cut-outs, edging, worktop and mirror inclusions. At handover, test maintenance access, wall fixings, door clearance and separation from electrical fittings.
+
 
 ### 40. Outdoor aluminium storage fabrication
 
-Specify outdoor position, sun/rain/wind exposure and intended stored loads. Compare finish, ventilation, anchors and locks; inspect weather exposure and access.
+Outdoor aluminium storage needs a defined position, door clearance and inventory, including whether the unit is sheltered or directly exposed to sun and rain. Provide dimensions, floor photographs and maintenance clearance. Require details of finish, panel material, ventilation, drainage, locks and anti-tip anchorage. Compare load suitability and replaceable components as well as appearance. On delivery, check base stability, latching and drainage without trapped water.
+
 
 ### 41. Aluminium kitchen refurbishment
 
-Photograph failing fronts, hinges and bent aluminium sections and identify reusable carcasses. Compare door/hardware renewal with full units; inspect colour matching and drawer action.
+Refurbishing an existing aluminium kitchen begins with a condition survey of frames, fronts, hinges, runners and worktop. Photograph corrosion, distortion and leaks, and measure each front: replacement hardware may not fit older profiles. Where appropriate, compare itemised repair and refacing against replacement cabinetry. Approve a finish sample and fixing method, then test door and drawer movement and the sink-to-worktop junction at completion.
+
 
 ### 42. Kitchen hinges and accessory maintenance
 
-Record hinge, runner and lock models, symptoms and movement lengths. Compare compatible replacements and adjustments; test even opening without sagging.
+For kitchen hinge and hardware repairs, describe sagging doors, rubbing, failed soft-close action or jammed drawers. Photograph the hardware, note model markings and quantities; opening angles and hole patterns may prevent direct substitution. A quotation should distinguish adjustment, hinge or runner replacement, and repair of stripped fixing points. At handover, repeatedly operate each door and drawer, checking consistent gaps and secure fasteners.
+
 
 ## Glass façades and installations
 

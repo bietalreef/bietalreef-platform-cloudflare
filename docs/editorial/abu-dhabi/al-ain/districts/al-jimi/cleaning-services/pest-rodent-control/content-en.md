@@ -12,7 +12,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check visit count and food or child safety precautions; record treatment points, safe re-entry instructions, follow-up timing and any additional visit charge in writing.
 
-**Acceptance:** Verify treatment locations and monitoring plan. Record outstanding issues with dated photos.
+**Acceptance:** Match the bait-point map to actual treatment locations, record unresolved moisture or entry gaps, and confirm the next activity-check date.
 
 **Execution and safety details:** Ask for inspection of moisture, cracks and appliances and identification of the pest before selecting bait or other suitable treatment; blanket spraying is not a substitute for diagnosis.
 
@@ -30,7 +30,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check bait checks and responsibility for sealing; specify who monitors baits, seals entry gaps and checks the affected trails after treatment.
 
-**Acceptance:** Verify activity along recorded trails. Record outstanding issues with dated photos.
+**Acceptance:** Compare ant activity on the photographed trails before treatment and after the agreed monitoring period, and confirm which entry gaps still need sealing.
 
 **Execution and safety details:** Distinguish kitchen, garden and wall-cavity activity. Photographs of repeated trails are more useful than a general estimate of numbers.
 
@@ -48,7 +48,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check station map, checks and safe disposal; document secured station locations, inspection frequency, carcass disposal and unresolved access gaps.
 
-**Acceptance:** Verify station log and unresolved openings. Record outstanding issues with dated photos.
+**Acceptance:** Obtain the locked-station map, inspection log and a list of entry points closed or still open, with an action plan for unresolved gaps.
 
 **Execution and safety details:** Photograph droppings and gnaw marks without handling them, and disclose nearby children, pets and exposed food.
 
@@ -66,7 +66,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check laundry preparation and repeat visits; agree laundry and bedding preparation, repeat inspections and how persistent signs will be reported.
 
-**Acceptance:** Verify reinspection of original hotspots. Record outstanding issues with dated photos.
+**Acceptance:** Review the treatment record for mattress seams, bed frames and adjacent furniture, and confirm the reinspection date and method for recording persistent signs.
 
 **Execution and safety details:** Where possible, photograph specimens, mattress seams and bed frames; avoid moving affected furniture between rooms before specialist advice.
 
@@ -84,7 +84,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Compare quotations and agree terms:** Check emergency callouts, response targets and permitted products; specify routine inspection frequency, incident escalation triggers, reporting format and building-management duties.
 
-**Acceptance:** Verify trend reports and unresolved recommendations. Record outstanding issues with dated photos.
+**Acceptance:** Compare visit reports with incident logs and monitoring stations, ensuring every outstanding corrective action has an owner and due date.
 
 **Execution and safety details:** Provide a floor plan highlighting kitchens, stores, plant rooms, public areas and previous incidents.
 

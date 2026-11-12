@@ -14,6 +14,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Inspect at different daylight angles for streaks and edge damage. Keep before-and-after photographs and a list of outstanding issues.
 
+**Quotation inputs:** State facade count, glazed square metres, maximum height, coating type and roof or ground access, with entrance and pedestrian photos. Ask for access platforms, barriers and detergent testing to be separately itemised.
+
 ## 2. Building exterior cleaning
 
 **When this is useful:** Stone, render, painted surfaces and cladding tolerate different cleaning pressures.
@@ -25,6 +27,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 **Quotation comparison and written agreement:** Compare water containment, surface protection, plant protection and access arrangements. Specify the measured area for each cladding material, the trial-patch approval, wash-water collection, joint and landscaping protection, and responsibility for cleaning-related damage.
 
 **Acceptance inspection:** Check coatings and joints for damage and uneven wash lines. Keep before-and-after photographs and a list of outstanding issues.
+
+**Quotation inputs:** Provide area by stone, paint or cladding type, joint-defect photographs and wash-water drainage points. Request separate prices for a test patch, landscaping protection, wastewater collection and any repair work.
 
 ## 3. Parking area cleaning
 
@@ -38,6 +42,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Check drainage, residual oil and slip hazards before reopening. Keep before-and-after photographs and a list of outstanding issues.
 
+**Quotation inputs:** Give bay counts, lane area, floor-coating type, drain positions and phased closure windows, with oil-stain photos. Request itemised stain treatment, wastewater handling and reopening criteria.
+
 ## 4. Industrial site cleaning
 
 **When this is useful:** Production dust and residues may require equipment isolation and specialist waste handling.
@@ -49,6 +55,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 **Quotation comparison and written agreement:** Compare work permits, PPE, lockout procedures and waste records. Define authorised cleaning zones, who isolates and restarts machinery on the site operator's behalf, residue classification, disposal documentation and the handover procedure.
 
 **Acceptance inspection:** Verify work-zone sign-off, unobstructed emergency equipment and safe restart. Keep before-and-after photographs and a list of outstanding issues.
+
+**Quotation inputs:** Supply a zone map, dust or residue description, equipment shutdown windows and restricted areas. Request named isolation responsibilities, waste classification and transfer records and PPE; hazardous waste is outside ordinary cleaning.
 
 ## Prepare a request through Biet Al Reef
 

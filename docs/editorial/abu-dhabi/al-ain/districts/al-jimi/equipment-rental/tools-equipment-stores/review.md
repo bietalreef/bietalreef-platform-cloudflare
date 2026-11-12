@@ -12,3 +12,8 @@ Source company services (7), in exact order:
 7. صيانة المعدات / Equipment servicing
 
 Each language contains seven independently specified services with purpose, scope exclusions, photographs/measurements, quotation comparisons, contract terms, acceptance and enquiry guidance. No invented availability, prices, approvals or dates. Company specialty, not artisan services.
+
+## تحسين النطاق والاستثناءات — 2026-11-12
+
+- استبدلت سبع عبارات استثناء مكررة باستثناءات عملية منفصلة لبيع العدد اليدوية والكهربائية ومعدات الوقاية والورش والتنظيف وقطع الغيار وصيانة المعدات في اللغتين.
+- لا تغيير في أسماء الخدمات أو ترتيبها؛ التصنيف غير قابل للاختيار حاليًا، والمنطقة `in_progress`.

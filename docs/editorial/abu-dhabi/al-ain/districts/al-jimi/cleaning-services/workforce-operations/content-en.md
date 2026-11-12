@@ -98,7 +98,7 @@ Preparatory guidance for company and establishment services, not confirmation of
 
 **Acceptance checks:** Reconcile receipt and issue sheets to stock, check clear walkways and close exception logs.
 
-**Quotation inputs:** Share delivery volumes, storage areas, distribution points and project duration. Request separate inventory, handling and shift costs, excluding regulated equipment operation unless expressly contracted.
+**Quotation inputs:** Share delivery volumes, storage areas, distribution points and project duration. Request separate inventory, handling and shift costs, excluding equipment operation requiring specialist competence or permits from general support labour; include it only under a separate scope with suitably qualified personnel and verified licences and permits.
 
 ## Request a quotation
 

@@ -908,3 +908,9 @@
 - الحالة العامة: `in_progress`؛ التصنيف غير قابل للاختيار، والمحتوى تحضيري دون تأكيد توفر مصنع.
 - أضيفت مدخلات طلب عرض سعر مخصصة للخدمات السبع باللغتين في [العربية](./equipment-rental/aluminium-glass-factories/content-ar.md) و[الإنجليزية](./equipment-rental/aluminium-glass-factories/content-en.md) مع تحديث [مراجعة التخصص](./equipment-rental/aluminium-glass-factories/review.md)، وأعيدت قراءة الملفات للتحقق.
 - **أول نقص تالٍ:** مراجعة `equipment-rental/marble-stone-factories` ثم `tools-equipment-stores` ثم `property-moving` ثم `project-material-transport` ثم `concrete-block-factories`، مع إعادة تدقيق `construction-lifting-equipment` و`light-tools-rental`؛ ثم تخصصات `cleaning-services` الثمانية، ومطابقة 50 تخصصاً و434 خدمة في كل لغة مع الشجرة ومراجعة التفرد والسلامة والتصنيفات. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+
+## إزالة تكرار نطاق متاجر الأدوات والمعدات — 2026-11-12
+
+- الحالة `in_progress`. استبدلت الاستثناءات العامة المتكررة باستثناءات مخصصة للخدمات السبع في [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) و[الإنجليزية](./equipment-rental/tools-equipment-stores/content-en.md) مع تحديث [المراجعة](./equipment-rental/tools-equipment-stores/review.md) والتحقق بإعادة القراءة.
+- **أول نقص تالٍ:** `equipment-rental/property-moving` ثم `project-material-transport` ثم `concrete-block-factories`، ثم استكمال تدقيق بقية المعدات والتنظيف ومطابقة الشجرة كاملة (50 تخصصًا و434 خدمة بكل لغة)، وفحص الجودة والسلامة والتصنيفات. لا يبدأ المويجعي قبل اعتماد الجيمي.

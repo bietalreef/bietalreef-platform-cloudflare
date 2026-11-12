@@ -321,16 +321,16 @@
         "docs/editorial/abu-dhabi/areas/shamkha/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-12",
-      "review_note": "Aluminium-glass services 1–21 independently rewritten in Arabic and English; 56 sequential headings per language re-fetched and checked. Services 22–56 remain draft. Area 280/434 independently rewritten; 154 remaining. Human review required.",
+      "review_note": "Shamkha editorial progress 294/434, aluminium-glass 35/56 independently revised in both languages; next service 36. Re-fetched bilingual files; not approved for publication.",
       "editorial_progress": {
         "sector": "aluminium-glass",
         "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
-        "independently_rewritten_services": 28,
+        "independently_rewritten_services": 35,
         "area_total": 434,
-        "area_independently_rewritten": 287,
-        "next_service_number": 29,
-        "remaining_in_sector": 28,
-        "remaining_area_services_for_originality_review": 147,
+        "area_independently_rewritten": 294,
+        "next_service_number": 36,
+        "remaining_in_sector": 21,
+        "remaining_area_services_for_originality_review": 140,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -361,7 +361,14 @@
           25,
           26,
           27,
-          28
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
         ]
       }
     },

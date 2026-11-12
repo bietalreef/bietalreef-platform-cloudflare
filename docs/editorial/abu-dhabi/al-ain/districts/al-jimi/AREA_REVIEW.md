@@ -930,3 +930,8 @@
 
 - الحالة `in_progress`؛ أُضيف إلى خدمة **نقل المخلفات** فصل صريح للمخلفات الخطرة أو المشتبه بها عن مخلفات البناء العادية، مع عدم افتراض صلاحية الناقل للتعامل معها: [العربية](./equipment-rental/project-material-transport/content-ar.md) · [English](./equipment-rental/project-material-transport/content-en.md) · [المراجعة](./equipment-rental/project-material-transport/review.md).
 - **أول نقص تالٍ:** تدقيق الخدمات الست الأخرى في `project-material-transport`، ثم `concrete-block-factories`، ثم مراجعة بقية خدمات `equipment-rental` و`cleaning-services`؛ بعد ذلك الجرد الحرفي للخمسين تخصصًا و434 خدمة بكل لغة، وتدقيق التفرد والسلامة والتصنيفات. لا يبدأ المويجعي.
+
+## تدقيق فني إضافي لمصانع الخرسانة والطابوق — 2026-11-12
+
+- الحالة `in_progress`؛ تمت إضافة ضوابط خاصة للخدمات الأربع في [العربية](./equipment-rental/concrete-block-factories/content-ar.md) و[الإنجليزية](./equipment-rental/concrete-block-factories/content-en.md) وتوثيقها في [مراجعة التخصص](./equipment-rental/concrete-block-factories/review.md): قبول شحنات الخرسانة والخلط، فصل الدفعات المرفوضة، اعتماد رصف المركبات، وتوثيق تلف التوريد.
+- التصنيف مقترح وغير مفعل تلقائيًا، ولا يُفترض وجود مصنع محلي. **النواقص الدقيقة التالية:** استكمال مراجعة الخدمات الست المتبقية في `equipment-rental/project-material-transport`، والخدمات الست في `equipment-rental/marble-stone-factories`، ثم إعادة تدقيق بقية تخصصات المعدات، وتخصصات التنظيف الثمانية، والمطابقة الحرفية للخمسين تخصصًا و434 خدمة لكل لغة وفحص التكرار والسلامة والتصنيفات. لا يبدأ المويجعي.

@@ -878,3 +878,8 @@
 
 - الحالة `in_progress`؛ في [خدمات العمالة والتشغيل](./cleaning-services/workforce-operations/review.md) صُحح شرط تشغيل المعدات في خدمة **خدمات الدعم للمشاريع** باللغتين؛ لا يكفي الاتفاق التعاقدي لتشغيل معدات مقيدة، بل يلزم نطاق مستقل والتحقق من المؤهلات والتراخيص والتصاريح. أعيدت قراءة ملفي المحتوى بعد التحديث.
 - **النواقص التالية:** تدقيق بقية فقرات `cleaning-services/workforce-operations` ثم `homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control` و`building-facility-operations` و`disinfection-sanitisation`؛ ثم مراجعة تخصصات `equipment-rental` الثمانية، ومطابقة جميع خدمات الشركات الـ434 وتخصصاتها الخمسين بالعربية والإنجليزية مع الشجرة، وتدقيق الجودة والتصنيفات قبل اعتماد الجيمي أو بدء المويجعي.
+
+## تدقيق استلام تعقيم الخزانات — 2026-11-12
+
+- تحديث [العربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) و[English](./cleaning-services/tanks-pools-cleaning/content-en.md) و[مراجعة التخصص](./cleaning-services/tanks-pools-cleaning/review.md): توضيح سجل المعالجة وشروط أخذ عينات المياه عند الاتفاق على فحص مستقل. لا يُعد ذلك شهادة بصلاحية المياه.
+- الحالة `in_progress`؛ النواقص التالية: تدقيق بقية فقرات الخدمات الثلاث في `tanks-pools-cleaning`، ثم مراجعة `pest-rodent-control` و`disinfection-sanitisation` و`building-facility-operations` و`workforce-operations`، ثم جرد القطاعات الثمانية ومطابقة 50 تخصصًا و434 خدمة لكل لغة، وفحص التكرار والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي.

@@ -102,33 +102,33 @@ For pool cleaning, provide length, width, approximate average depth, lining type
 
 ### 22. Cockroach control
 
-Map cockroach sightings, likely species, food, moisture and harbourage before treatment. Compare sanitation, sealing and suitable baiting by a competent provider; request follow-up rather than instant-eradication promises.
+Cockroaches seen around kitchen drains may require a different investigation from insects inside dry storage cupboards. Photograph specimens or traces, note sighting times and moisture or food sources, and identify children or pets on site. Request an inspection of cracks, appliances and drains before treatment is selected. Compare species identification, bait or trap placement, any suitable pesticide, re-entry instructions and follow-up visits. Acceptance should be based on a treatment map and subsequent monitoring, not a promise of immediate eradication.
 
 ### 23. Ant control
 
-Trace ant trails, entry points, food and moisture sources, indoor or outdoor. Compare colony identification, baiting and monitoring rather than blanket spraying; obtain prevention recommendations.
+When ants appear, photograph trails, entry points and food storage areas, noting whether activity is indoors or in the garden. Spraying one visible trail may conceal activity without resolving the source. Ask for an assessment of moisture, wall gaps and possible multiple colonies. Compare targeted baiting, monitoring and proofing against indiscriminate spraying, with safeguards for children and animals. Obtain instructions on cleaning around bait stations and a date for reassessment.
 
 ### 24. Rodent control
 
-Photograph gnawing and droppings, identify entry points, food stores and children’s areas. Compare proofing, protected bait stations and sanitation; document monitoring positions.
+Rodent control starts with documenting droppings, gnaw marks and openings around doors or services without handling unknown waste directly. Supply a plan of stores, kitchens and pipe routes and flag exposed food, children and animals. Require entry-point proofing and attraction-source reduction alongside specialist-selected traps or secured bait stations. Compare revisit frequency, safe carcass disposal and mapped device locations. At handover inspect proofing work and monitoring results rather than the number of bait blocks placed.
 
 ### 25. Bed bug treatment
 
-Map rooms and bed frames, and photograph specimens where possible; bites alone do not establish the pest. Compare inspection, repeat treatment and textiles handling by a qualified provider; agree follow-up checkpoints.
+Bites alone do not establish a bed-bug infestation. Request inspection of mattress seams, bed frames and crevices, with clear specimen or trace photographs. State how many rooms are occupied and whether furniture or linens have moved; avoid shifting items between rooms without a containment plan. Compare inspection scope, suitability of heat or other treatments, laundering and room-preparation instructions, re-entry periods and follow-up visits. Handover requires a location-specific treatment record and later inspection, not a one-visit guarantee.
 
 ### 26. Scheduled pest contracts
 
-Identify facility type, food handling, entry points, visits and past complaints. Compare preventive inspections, reporting and response commitments; require dated records, not just spray counts.
+A recurring pest-control contract is not automatically a monthly spraying schedule. Describe building use, food preparation, stores, drains, gardens and complaint history, then request a risk-based inspection plan. Compare justified visit frequency, monitoring points, non-chemical controls, urgent call-out terms and the site's own cleaning and proofing duties. Reports should identify pests observed, trends, recommendations and any products applied. Evaluate the contract by reduced sightings and corrected causes, not spray volume.
 
 ## Disinfection services
 
 ### 27. Home surface disinfection
 
-Identify high-touch surfaces, occupants and soil condition before selecting a disinfectant. Compare cleaning first, surface compatibility, labelled dwell time and ventilation; check an itemised list without implying air sterilisation.
+Before requesting household disinfection, distinguish routine cleaning from a specific contamination concern; blanket room spraying without a reason is not a useful specification. Identify surfaces, delicate furniture, children, vulnerable occupants and pets, and list high-touch points. Ask for the product identity, label directions, wet contact time, ventilation and precautions around food and electricity. Compare pre-cleaning, application method and exclusions. Verify the treated-area log and safe re-entry instructions; reject unsupported claims of complete sterilisation or future infection prevention.
 
 ### 28. Commercial facility disinfection
 
-Map shared rooms, contact surfaces, sensitive electronics and suitable closure periods. Compare product concentration, application, equipment protection and safety data; accept area logs, not absolute infection-prevention promises.
+For office and facility disinfection, map meeting rooms, reception points, shared controls, door handles and washrooms, while separating electronics from moisture-tolerant surfaces. Provide occupancy windows, ventilation arrangements and areas containing food or records. The scope should explain where cleaning is sufficient, where a suitable disinfectant is justified and who protects or moves equipment. Compare product records, contact time and damage-reporting procedures. Accept a dated area checklist and re-entry guidance, not an absolute microbe-elimination claim.
 
 ## Building operation and facilities management
 

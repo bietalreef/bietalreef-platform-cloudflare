@@ -156,31 +156,31 @@ Equipment maintenance begins with a fault log: symptoms, operating conditions, h
 
 ### 36. Household moving
 
-Inventory room contents, oversized pieces, floors, lifts and truck parking. Compare packing, dismantling, labour, protection and damage terms; reconcile numbered items by room.
+Before moving a household in Shamkha, prepare a room-by-room inventory recording condition and items needing dismantling, with photographs of glass, stone or delicate finishes. Measure large wardrobes and sofas as well as doorways, lifts and corridors; note floor levels, carrying distances and truck access. Request an itemised quote covering packing materials, dismantling, reassembly, crew, vehicles, transport and removal of used packing, with clear damage and missing-item responsibilities. At delivery reconcile numbered items by room, test doors and drawers and check the stability of reassembled furniture. Record any damage before signing the completion record.
 
 ### 37. Office moving
 
-Count workstations, cabinets, devices, sensitive records and downtime window. Compare device disconnection, labelling and data security; test workspace readiness to layout.
+An office relocation requires a business-continuity plan, not simply moving desks. Inventory workstations, chairs, cabinets, printers, screens, wall-fixed furniture and restricted records. Prepare a numbered layout for the destination and photograph connections before disassembly. Coordinate backup, network shutdown and reconnection with the responsible IT team; data security is not automatically included in a mover's scope. Compare shock protection, box labelling, after-hours work, coverage and reassembly obligations. Reconcile assets against the register, inspect stable installation and have qualified staff test devices before accepting handover.
 
 ### 38. Furniture dismantling and reassembly
 
-Photograph joints and record fittings for every bed and wardrobe before disassembly. Compare packing, labels and reinstatement; inspect stable furniture and complete hardware.
+Before dismantling a bed, wardrobe or large desk, photograph panel positions, hinges, wiring routes and fittings, and check whether chipboard connections can withstand repeated disassembly. Label and bag hardware by item, and measure doors, lifts, the destination space and finished floor levels. Clarify whether the quote covers hinge adjustment, safe anchoring of tall units to a suitable wall, filling old fixing holes and replacement of damaged connectors. At reassembly inspect alignment, door and drawer travel and structural stability. Repair of pre-existing damage should be separately agreed in writing.
 
 ### 39. Furniture wrapping
 
-Identify glass, lacquered wood, textiles and vulnerable edges and sizes. Compare wrapping layers, covers and vehicle restraints; inspect packing before loading.
+Furniture wrapping must reflect material sensitivity and the expected journey or storage period. Supply photographs and dimensions for glass, mirrors, polished surfaces, leather, textiles and moisture-sensitive timber; adhesive tape or plastic directly against some finishes may leave marks. Specify corner guards, glass separators and breathable protection where appropriate, with a numbered package label and handling orientation that does not expose private information. Compare material types, protective layers, loose-component packing and in-vehicle restraints. Inspect exposed edges before loading and photograph items during unpacking to identify any new damage.
 
 ### 40. Loading labour supply
 
-List pieces, approximate weights, stairs, carry distances and time. Compare crew size, handling aids, protection and liability; observe safe loading routes.
+Loading labour should be sized from actual weights, carrying distances and access routes rather than a simple headcount. List the heaviest items and their dimensions, stair flights, floor conditions, ramps and available trolleys, lifting platforms or loading bays. Separate manual handling from operation of cranes or powered lifting equipment that requires competent operators, and agree who supervises load distribution and protects doors and walls. Compare hourly rates, minimum hours, extra handling, waiting and protective equipment. At completion reconcile items, inspect for damage and ensure emergency exits and pedestrian routes remain unobstructed.
 
 ### 41. Temporary storage
 
-Inventory items, storage duration and ventilation or moisture needs. Compare access control, insurance and partial retrieval; obtain a condition and item receipt.
+Before booking temporary storage, create a numbered condition inventory with photographs, approximate declared values where insurance requires them, storage duration and partial-retrieval needs. Ask about temperature, ventilation, humidity control, pest management, access control and monitoring, especially for fabrics, timber, electronics and documents; not every facility is climate controlled. Compare charging units, packing, handling, minimum terms, extension fees and liability for loss or damage. Obtain an itemised receipt, unit identifier and access conditions. On collection reconcile seals, items and condition photographs before signing release.
 
 ### 42. Inter-emirate removals
 
-List origin and destination emirates, load volume, access and requested date. Compare routing, truck type, packaging and disclosed transport charges; count items at delivery.
+For an inter-emirate move, provide collection and delivery addresses, truck-access constraints, acceptable arrival windows and an inventory with dimensions and fragile items. Specify whether dismantling, packing, reassembly, interim storage and upper-floor handling are included; distance alone does not define the price. Compare vehicle type, securing arrangements, crew, waiting and extra-carry charges, damage coverage and procedures for delays without assuming a guaranteed arrival time. Photograph condition before departure, then reconcile the inventory at destination, test reassembled items and immediately document losses or damage.
 
 ## Construction logistics and haulage
 

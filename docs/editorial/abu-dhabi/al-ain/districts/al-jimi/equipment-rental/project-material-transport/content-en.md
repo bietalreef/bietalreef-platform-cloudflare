@@ -62,6 +62,8 @@ Practical company-service enquiry guidance for Al Jimi, not a directory of confi
 
 **Acceptance checks:** Check the agreed area is cleared and access roads are free of debris; retain available haulage or disposal records.
 
+**Special pre-collection check:** Paint or solvent containers, suspected asbestos or contaminated debris must not be loaded as ordinary construction waste. Identify the material and arrange the applicable compliant transport and disposal route with a qualified operator. A photograph alone cannot establish whether waste is hazardous.
+
 ## 6. Project truck supply
 
 **When needed and scope:** For recurring site deliveries, truck scheduling and waiting time are central to the contract, not minor extras.

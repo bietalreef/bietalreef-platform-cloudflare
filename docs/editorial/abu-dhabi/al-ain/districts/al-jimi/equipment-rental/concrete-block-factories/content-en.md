@@ -10,9 +10,9 @@
 
 **Comparing quotations:** Compare cement and admixture specifications, workability, testing, dispatch intervals and whether pumping, samples and waiting are included.
 
-**Agreement and exclusions:** Assign mix approval, rejection of late or nonconforming loads, construction joints and site crew coordination.
+**Agreement and exclusions:** Assign mix approval, rejection of late or nonconforming loads, construction joints and site crew coordination. Specify who arranges the pour permit and pre-pour formwork/rebar checks, and who can stop discharge when access is unsafe. Adding water on site must not be treated as an acceptable adjustment without documented technical approval under the approved specification.
 
-**Acceptance checks:** Check batch tickets, mixing and arrival times, specified workability checks and sample records; later strength tests remain necessary.
+**Acceptance checks:** Check batch tickets, mixing and arrival times, specified workability checks and sample records; later strength tests remain necessary. Log each truck ID, the element poured, discharge start/end times, rejected loads and approved adjustments. Receiving a load is not the same as accepting the finished structural element after testing.
 
 ## 2. Block and masonry unit production
 
@@ -22,7 +22,7 @@
 
 **Comparing quotations:** Compare dimensional tolerances, density, compressive performance, test records, packaging and pallet counts.
 
-**Agreement and exclusions:** Agree an approved sample before bulk production, allowable breakage, replacement terms and unloading/storage duties.
+**Agreement and exclusions:** Agree an approved sample before bulk production, allowable breakage, replacement terms and unloading/storage duties. State whether transport pallets are returnable, who supplies unloading equipment and how rejected batches will be kept separate from accepted stock.
 
 **Acceptance checks:** Measure representative units, inspect chipped edges and consistency, and match counts and markings to required product records.
 
@@ -34,7 +34,7 @@
 
 **Comparing quotations:** Compare curing approach, abrasion and slip requirements, thickness tolerances, colour samples and product-specific testing.
 
-**Agreement and exclusions:** Agree batch colour variation, corner cuts, wastage and pallet stacking; installation may be outside the factory supply scope.
+**Agreement and exclusions:** Agree batch colour variation, corner cuts, wastage and pallet stacking; installation may be outside the factory supply scope. For vehicle-bearing paving, do not rely on a generic advertised thickness or strength: align product selection with pavement-layer design, expected loads and technical approval.
 
 **Acceptance checks:** Check thickness, surface consistency, cracks and edges, and compare colour batches before site distribution.
 
@@ -48,7 +48,7 @@
 
 **Agreement and exclusions:** Set order-change lead times, delivery paperwork, shortages, breakage and truck standby responsibility.
 
-**Acceptance checks:** Reconcile delivery notes, pallet and unit counts, packaging condition and specified product type before issue to site.
+**Acceptance checks:** Reconcile delivery notes, pallet and unit counts, packaging condition and specified product type before issue to site. Photograph damage before unloading or moving the goods and record discrepancies by batch to distinguish transport claims from manufacturing defects.
 
 ## Prepare a quotation request
 

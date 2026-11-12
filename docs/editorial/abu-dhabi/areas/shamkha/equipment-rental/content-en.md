@@ -186,51 +186,49 @@ For an inter-emirate move, provide collection and delivery addresses, truck-acce
 
 ### 43. Construction material haulage
 
-Identify material type, load weight, offloading equipment, site hours and load restrictions. Compare trips, coverage and delay terms; reconcile weight notes and receipts.
+Before arranging construction-material haulage, provide a schedule showing whether the load comprises bagged cement, reinforcement, blocks or bulk material, with total weight, long-item dimensions, pallet counts and photographs of loading access and the unloading point. Restraints, covers and lifting equipment depend on the cargo; an uncovered flatbed is not suitable for every material. Compare quotations for vehicle payload, number of trips, loading and unloading responsibility, waiting and redirection charges. On arrival reconcile purchase orders, delivery and weight records where available, and inspect moisture exposure, damage and quantities before signing.
 
 ### 44. Timber transport
 
-Provide timber lengths, board sizes, weather sensitivity and stacking plans. Compare straps and edge guards; inspect damage and moisture on arrival.
+Long timber and finished boards require stacking that avoids bowing, scratches and water exposure. Supply lengths, widths, thicknesses and bundle counts, identifying raw, painted or cut-to-size material. Specify separators, edge protection and restraints that do not mark finished faces, together with loading and unloading arrangements and forklift availability at both ends. Compare vehicle type, weather cover, maximum accepted length, damage liability and waiting charges. At handover inspect straightness, edges and finishes, and reconcile bundle identifiers with the cutting list.
 
 ### 45. Marble transport
 
-Record slab sizes, thickness, weights and upright or flat carrying requirements. Compare racks, packing, breakage liability and offloading; inspect edge cracks before sign-off.
+Before moving marble or stone slabs, obtain a schedule of dimensions, thicknesses, weights and slab identifiers, with photographs of edges and weakened cut-outs. Agree on an appropriate rack, carrying orientation, separators and lifting method rather than tying straps directly against stone. Quotations should distinguish rack provision, loading, crane assistance, unloading, insurance and breakage liability. Photograph each slab before dispatch; at destination inspect corners, hairline cracks, vein sequence and piece identifiers before signing the delivery record.
 
 ### 46. Equipment transport
 
-Identify each machine's mass, dimensions, lifting points and safe transport preparation. Compare trailers, securing and access; document condition before and after the move.
+Moving site machinery requires manufacturer weight, dimensions and lifting or lashing points, plus condition photographs and access details at both ends. Establish whether the machine can drive onto the trailer or needs lifting, and who will secure attachments, moving parts and operating fluids in accordance with safe procedures. Compare trailer specification, restraints, any applicable escort arrangements, loading responsibility, delay charges and damage cover. Record meter readings, tyres and protruding components before and after transport, then arrange a competent operational check.
 
 ### 47. Waste transport
 
-Separate concrete, timber, metal and any special-handling wastes and specify skips. Compare loads, reception arrangements and transfer evidence; do not mix incompatible waste types.
+Start by segregating concrete and blocks, timber, metals, packaging and any material suspected to require special handling. Photograph volumes and skip placement, estimate volume or weight and describe access and working hours. Ask the carrier which waste streams it accepts, how they are separated, the receiving destination and what transfer records can be supplied; paints or solvents should not be assumed suitable for ordinary construction waste. Compare skip capacity, trips, loading, waiting and treatment charges. At close-out reconcile trip records, site cleanliness and available receipt documentation, and verify current official requirements before making permit claims.
 
 ### 48. Project truck provision
 
-Specify truck count, payload, hourly or trip basis and site traffic coordinator. Compare driver, fuel, waiting and delay terms; check trip logs before invoicing.
+For recurring project trucking, define cargo type and weight per trip, loading and discharge points, expected daily trips and permitted site access hours. Provide a simple vehicle circulation and holding plan to separate trucks from pedestrians and plant. Compare per-trip, hourly and daily contracts, including driver, fuel, road charges, downtime and cancellation, and agree breakdown replacement terms rather than assuming guaranteed standby capacity. Use signed trip sheets recording arrival, departure, load and destination to reconcile invoices.
 
-### 49. Loading and offloading
+### 49. Loading and offloading services
 
-Record package weight, placement, crane or dock access, stairs and fragility. Compare labour, handling aids and arrival slots; inspect stable stacking and site safety.
+For loading and unloading, provide an item list with weights, dimensions and packaging, truck-deck height, ground conditions and carrying distance to storage. Photograph corridors, stairs and available cranes or forklifts, distinguishing manual handling from powered equipment requiring competent operators. Compare crew size, supervision, handling aids, waiting, damage liability and stacking obligations; clarify any quotation that excludes offloading. At handover count packages, inspect edges and wrapping, confirm stable stacking and keep access routes clear.
 
 ## Concrete, blocks and cement products
 
 ### 50. Ready-mix concrete manufacturing
 
-Specify concrete grade, pour volume, travel time, pumping and acceptance tests from design. Compare batch tickets, mix and late-load rules; collect delivery records and samples.
+Ready-mix supply starts from a designer-approved specification for strength, workability, exposure conditions and pour volume, not an arbitrary generic grade. Provide the pour programme, pump position, expected arrival intervals and sampling and testing requirements from the project documents. Compare mix design, material records, truck sequencing, pumping, waiting and nonconforming-load rejection terms. At delivery inspect each batch ticket, mixing time and quantity, and record field tests and samples under the project's quality plan before certifying delivered volume.
 
 ### 51. Block and brick manufacturing
 
-Set unit size, type, density or strength and pallet count. Compare dimensional control, breakage, storage and handling; count usable blocks.
+Specify whether solid, hollow or insulating concrete blocks are required, with drawing dimensions, thickness, specified strength, expected quantities and an agreed breakage allowance. Request samples, product data and curing and storage details before a large order; dimensional or density variations can affect installation. Compare specifications, available test records, units per pallet, transport and replacement terms. On delivery sample dimensions, inspect cracking, moisture and consistency, and reconcile usable quantities against delivery notes.
 
-### 52. Precast cement product manufacturing
+### 52. Cement product manufacturing
 
-Specify kerbs, paving units or precast pieces with dimensions and lifting points. Compare moulds, curing and tolerances; check cast-in fittings, surfaces and sizes.
+Interlocking pavers, kerbs, barriers and precast elements have different manufacturing requirements. Supply drawings for each piece, dimensions, finish, colour and any openings or lifting inserts. Agree on a sample or prototype and project-specific appearance and performance criteria before mass production. Compare moulds, curing, permitted tolerances, packing and transport, keeping installation separate from manufacture. At receipt inspect dimensions, colour consistency, edges, lifting inserts and required test records; visual appearance alone does not establish structural suitability.
 
 ### 53. Cement product supply to projects
 
-Send quantities, work programme, storage and delivery sequences. Compare units, minimum orders, returns and delivery; reconcile labels and invoices.
-
-
+Before supplying concrete, block or cement products, provide an itemised quantity schedule identifying type, dimensions, grade, staged delivery requirements and storage location. Request minimum order quantities, pallet packaging, delivery windows, unloading scope and replacement terms for broken or nonconforming units. Compare suppliers against the same schedule, required test documentation and returns policy rather than unit price alone. At each delivery check labels, counts, edges and product data, recording shortages and damage before stock acceptance.
 
 ## Equipment hire and transport request
 

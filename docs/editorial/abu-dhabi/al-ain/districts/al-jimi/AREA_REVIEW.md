@@ -901,3 +901,10 @@
 - أضيفت مراجعات فنية مستقلة للخدمات السبع في `equipment-rental/light-tools-rental/content-ar.md` و`content-en.md`، وتحقق تطابقهما بعد الرفع.
 - تم تحديث `equipment-rental/light-tools-rental/review.md`؛ لا تغيير في أسماء الخدمات أو تصنيفات التخصصات.
 - **حالة المنطقة:** `in_progress`. نقطة الاستئناف التالية `equipment-rental/aluminium-glass-factories/` ثم بقية تخصصات المعدات الخمسة، ثم التنظيف والثمانية قطاعات وفحص التكرار عبر 434 خدمة في كل لغة.
+
+
+## تدقيق مدخلات طلب الأسعار لمصانع الألمنيوم والزجاج — 2026-11-12
+
+- الحالة العامة: `in_progress`؛ التصنيف غير قابل للاختيار، والمحتوى تحضيري دون تأكيد توفر مصنع.
+- أضيفت مدخلات طلب عرض سعر مخصصة للخدمات السبع باللغتين في [العربية](./equipment-rental/aluminium-glass-factories/content-ar.md) و[الإنجليزية](./equipment-rental/aluminium-glass-factories/content-en.md) مع تحديث [مراجعة التخصص](./equipment-rental/aluminium-glass-factories/review.md)، وأعيدت قراءة الملفات للتحقق.
+- **أول نقص تالٍ:** مراجعة `equipment-rental/marble-stone-factories` ثم `tools-equipment-stores` ثم `property-moving` ثم `project-material-transport` ثم `concrete-block-factories`، مع إعادة تدقيق `construction-lifting-equipment` و`light-tools-rental`؛ ثم تخصصات `cleaning-services` الثمانية، ومطابقة 50 تخصصاً و434 خدمة في كل لغة مع الشجرة ومراجعة التفرد والسلامة والتصنيفات. لا يبدأ المويجعي قبل اكتمال الجيمي.

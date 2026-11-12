@@ -154,31 +154,31 @@ Before restoring damaged marble, distinguish absorbed stains, acid etching, crac
 
 ### 36. Fabricate kitchen worktops
 
-Choose surface material, cabinet depths, run lengths, edges and joint positions. Compare slab thickness, mitred corners and hidden support; template only after cabinets are installed.
+Fabricate a kitchen worktop only after the base cabinets have been installed, levelled and checked, rather than relying on the preliminary drawing. Record every run length, cabinet depth, out-of-square wall and overhang, and photograph the sink, hob and socket positions. Specify whether the material is natural stone, engineered quartz or porcelain, together with slab thickness, edge finish, seam positions and vein direction. The quotation should separate templating, cutting, appliance openings, overhang support, transport and lifting, and allocate responsibility for breakage before installation. Approve the cutting layout and an actual material sample first. On delivery check dimensions, edge quality, straight cuts and joint positions; sharp internal cut-out corners may create avoidable cracking risks.
 
 ### 37. Install kitchen worktops
 
-Measure worktop runs, walls, appliances, drainage and taps. Compare lifting, fixing, sealant and supports; inspect firm seating and sealed joints.
+Installing a worktop is distinct from fabricating it. Start by checking that cabinets are level, secure and adequately supported around openings and overhangs. Supply photos of the delivery route, stairs or lift, door widths, appliance clearances and tap positions. Compare installation quotations for manpower, handling, adhesives, joint treatment, sealing at sinks and walls, and responsibility for correcting uneven cabinets. Dry-fit sections and appliances before permanent bonding. At handover check that the surface does not rock, adjoining sections sit at consistent heights, seams are aligned and edges are undamaged. Test seals carefully in wet areas without flooding the cabinetry.
 
 ### 38. Fabricate marble vanities
 
-Set vanity dimensions, basin and mixer models, marble edges and service access. Compare basin fixing, drainage and future access; inspect polished edges and falls away from standing water.
+Before fabricating a marble vanity, distinguish a top supporting a purchased basin from an integrated basin or carved drainage channel; each has different construction and maintenance implications. Provide the unit width, finished height, mirror and mixer positions, waste location, and photos of the wall and supporting cabinet. Request a stone sample showing veining, absorption characteristics and edge finish, plus a drawing of thickness, service access, drainage falls and basin fixing. Compare cutting, assembly, reinforcement, sealing, delivery and installation as identifiable quotation items. At handover check basin stability, smooth edges, access to the trap and absence of standing water around the mixer or corners. Carry out a leak test before enclosing any plumbing.
 
 ### 39. Cut sink and appliance apertures
 
-Do not cut sink or hob openings from screen dimensions; use appliance templates or verified manufacturer measurements. Compare edge clearance and reinforcement; dry-fit appliances before final sealing.
+Sink, hob and tap apertures must follow the actual appliance model and its installation instructions, not dimensions inferred from a product photograph. Supply model numbers and manufacturer templates, cabinet layout, rear upstand position and slab thickness. Check remaining material between openings, edges and seams, hob ventilation or heat-clearance requirements, and under-mount sink support; some slabs require additional reinforcement around internal corners. A quotation should identify each cut-out, cutting and finishing method, edge treatment and breakage responsibility. Dry-fit the appliance or verify against its template before final fixing, ensuring clips, pipework and cabinet structure do not conflict.
 
 ### 40. Quartz surface installation
 
-Specify quartz type, thickness, slab colour and sink surrounds. Compare seam location, supports, fabrication and fixing; inspect smooth joints and supported overhangs.
+Engineered quartz products differ in performance; request the exact product identity, thickness specification, heat limits, cleaning guidance and warranty information. Measure runs, seams, sink and hob positions and overhangs, and photograph the access route because long sections may need dividing. Compare quotations on slab provenance, batch consistency, pattern direction, edge fabrication, support and jointing material rather than price per metre alone. Check manufacturer requirements for expansion allowances, heat exposure and allowable overhangs before approving the layout. At handover inspect colour matching, level seating, secure support, smooth seams and absence of scratches. Obtain care instructions, including avoiding direct contact with very hot cookware.
 
 ### 41. Porcelain slab worktop installation
 
-Lay out large-format porcelain worktop slabs and appliance cut-outs before fabrication. Compare handling breakage, edge profiles and supports; inspect for chips and cracks.
+Large-format porcelain worktop slabs require more careful handling and cut-out planning than ordinary tiles because edges and internal corners can be vulnerable during fabrication and transport. Record worktop length, depth, corner radii, sink and hob positions, slab thickness and the support system specified by the manufacturer. Request a slab layout showing pattern direction, photographs of the delivery route and lift or door clearances, and the proposed cutting and handling equipment. Compare slab supply, cutting, mitred edges, reinforcement, lifting, installation and agreed wastage separately. Inspect fabricated sections for chipped corners before fixing, then check levelness, supported overhangs, sound joints and fine cracks around appliance openings.
 
 ### 42. Worktop repair and polishing
 
-Identify staining, scratches, open seams or cracks and confirm the actual surface material. Compare cleaning, compatible polishing, patching and replacement; avoid abrasion unsuitable for the product.
+Identify the surface material before selecting polishing or repair: natural marble, engineered quartz and porcelain respond differently to abrasives and chemicals. Photograph scratches, cracks or open seams with a scale, noting moisture or heat exposure and when the defect appeared. Ask the specialist to determine whether the problem is superficial or affects the slab or its support, and to trial a discreet treatment where practical. Compare specialist cleaning, resealing joints, edge repair and full section replacement, including the possibility of a visible colour difference. At handover check seam integrity, slab stability and water resistance. Reject abrasive polishing contrary to manufacturer guidance or a cosmetic patch that merely conceals a structural crack.
 
 ## Ceramic and porcelain tiles
 

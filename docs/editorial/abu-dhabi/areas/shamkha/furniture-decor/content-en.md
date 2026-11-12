@@ -10,106 +10,88 @@ Start with the dimensions of the space, delivery access and how the piece will b
 
 ### 1. Residential furniture manufacture
 
-List furniture types, quantity, room size, access route and daily cleaning needs. Compare materials, finishes, fittings and actual samples; inspect stability and edges.
-
+Request a layout showing drawer clearances around beds and sofas, and distinguish fixed from demountable pieces. List wood and textile specifications separately so a lump-sum quote does not conceal substitutions.
 ### 2. Office furniture manufacture
 
-Specify headcount, desks, seating, cable routes and existing outlets. Compare load capacity, ergonomics, adjustability and serviceability; test units in use.
-
+An office fit-out quotation should locate cable grommets, worktop openings and filing-unit dimensions, not merely count desks. Test one chair and desk sample before bulk delivery and identify who assembles them on site.
 ### 3. Hotel furniture manufacture
 
-List room types, beds, wardrobes, cleaning cycles and the hotel's own specification. Compare hardware durability, uniform finishes and replaceable parts; approve a sample room before volume production.
-
+For hospitality furniture, approve a mock-up for each room type, including headboard dimensions, socket clearance and replaceable upholstery. Price spare components separately and check colour consistency across batches.
 ### 4. Restaurant furniture manufacture
 
-Check seating count, staff routes, chair movements and moisture/heat exposure near tables. Compare cleanable materials, stable bases and wear resistance; verify service circulation.
-
+Check chair pull-out space, aisles between tables and edge details where food is served. Test a finish sample with the venue's normal cleaning product before approving production.
 ### 5. Bespoke furniture manufacture
 
-Start with a scale drawing detailing sections, colour and precise dimensions of the item. Compare prototype, lead time, warranty and transport responsibility; inspect dimensions and assembly.
-
+A reference photo is insufficient: require elevations, sections, fixing locations and every opening dimension. State whether final site measurement, post-survey adjustments and delivery into the room are included.
 ### 6. Furniture restoration
 
-Photograph cracks, scratches, loose joints and underlying wood or fabric before selecting a repair. Compare selective replacements against rebuilding; inspect stability and consistent surfaces.
-
+Identify the source of looseness first; repainting a cracked surface will not repair a failed timber joint. Request photos after opening the damaged section where necessary and agree whether repair is on-site or workshop-based.
 ### 7. Project furniture supply
 
-Schedule furniture by room, quantities, models, delivery phase and storage space. Compare packing, installation, damage and delay terms; reconcile a numbered inventory with purchase orders.
+Approve a schedule mapping each model to room, quantity and item code, with spare parts separately listed. At delivery, distinguish shortages from visible damage and record acceptance by batch.
+
 
 ## Furniture and home furnishing stores
 
 ### 8. Home furniture sales
 
-Measure doorways, stairways and rooms before choosing sofa or bed dimensions. Compare frame, cushion materials, upholstery and delivery terms; check dimensions and condition.
-
+Before purchase, check that the item fits through lifts or stairs without dismantling prohibited by the maker. Request a specification for frame and covering, plus return terms after unpacking.
 ### 9. Office furniture sales
 
-Plan workstation count, desk footprints, outlets, chair adjustment and load. Compare warranty, spares and returns; inspect assembly and operation.
-
+For multiple workstations, compare how easily units can be reconfigured as staffing changes. Require a plan of chair movement and filing units, and test desk stability after installation.
 ### 10. Lighting retail
 
-Measure ceiling height, intended illuminance, colour temperature and lamp quantity. Compare photometric details, warranty and mounting kit; see an operating sample.
-
+Define whether each fixture provides ambient, reading or display light, then request lumen output, colour temperature and dimming compatibility where relevant. Confirm the fixing suits the ceiling before payment.
 ### 11. Curtain retail
 
-Measure window width, rail height, curtain drop, lining and cleaning requirements. Compare per-panel versus per-metre pricing and tracks/sewing; inspect fabric and finished length.
-
+Check whether tracks, brackets, fittings and sewing are included or priced separately. View a physical fabric swatch in the room because a screen image cannot reliably show colour or opacity.
 ### 12. Carpet retail
 
-Record room size, rug dimensions, door swings and cleaning frequency. Compare pile density, backing and slip properties; inspect dimensions and edges.
-
+Measure the covered zone while allowing for door and furniture movement. Near an entrance, discuss soil removal and edge stability, and inspect whether the rug lies flat once unrolled.
 ### 13. Home accessories retail
 
-List mirrors, handles and accessories with dimensions and fixing locations. Compare anchors, moisture suitability and weights; inspect for chips and missing hardware.
-
+For wall mirrors and shelves, identify item weight, wall substrate and concealed services before fixing. Separate installation cost from purchase and verify that brackets and fasteners are supplied.
 ### 14. Bulk project furniture supply
 
-Define quantities, delivery rooms, project milestones and uniform finish samples. Compare substitution, packing, assembly and batch consistency; obtain a model-by-model receipt.
+Approve a single reference sample before volume delivery and retain colour and finish codes for each item. Delivery records should distinguish flat-packed items from those assembled and tested.
+
 
 ## Majlis and sofa upholstery
 
 ### 15. Traditional majlis seating
 
-Measure walls, seating capacity, seat height and clear door routes before designing a majlis. Compare frame, padding, textiles and joints; inspect comfort and even seating.
-
+Measure majlis seating after planning circulation to doors and tables, not by wall length alone. Request a section showing seat height, depth and padding thickness, and trial a seat sample before manufacturing all modules.
 ### 16. Custom sofas
 
-Specify straight, corner or modular forms, each section's size and seat depth. Compare upholstery performance, cushion fill, leg frame and transport; measure completed modules.
-
+For a corner sofa, confirm the return direction from the seated user's viewpoint and the module joints. Specify whether units separate for transport and check cushion alignment at handover.
 ### 17. Furniture reupholstery
 
-Photograph frame, arms and damaged textiles to identify spring, padding or upholstery faults. Compare stripping, frame repair, padding and covering as distinct costs; inspect rigidity and taut seams.
-
+Inspect the frame, webbing and springs before choosing new fabric; covering defects will not correct them. Record which components will be replaced and keep before-and-after photographs.
 ### 18. Sofa fabric replacement
 
-Record fabric area, pattern direction and extra material for cushions. Compare abrasion/cleaning suitability and stripping/sewing costs; inspect aligned patterns and seams.
-
+Check nap and pattern direction before estimating fabric length, as matching can increase waste. Separate textile, stripping, sewing and refitting costs, and inspect pattern alignment at delivery.
 ### 19. Cushion foam renewal
 
-Specify foam density, seat thickness and collapsed zones while retaining finished dimensions. Compare firmness, fill options and warranty; test seating and upholstery closure.
+Agree firmness using a physical sample rather than only 'soft' or 'firm' labels. Specify whether back and arm cushions are included, and check seat height after several minutes of use.
+
 
 ## Curtains, rugs and soft furnishings
 
 ### 20. Made-to-measure curtains
 
-Measure window width, track-to-floor drop, pleat style, lining and blackout needs. Compare fabric allowance, stitching and track loading; inspect finished drops and folds.
-
+Provide photos of the window open and closed, including AC and handle positions. Require a drawing of pleat fullness and finished drop after sewing, not just the raw fabric length.
 ### 21. Curtain installation
 
-Identify wall substrate, AC outlets and window operation before drilling rails. Compare bracket spacing and load rating; test smooth movement and window clearance.
-
+Do not drill before identifying the wall or ceiling substrate and concealed services. Specify fixing-point count against curtain weight, then test smooth track travel and complete closure.
 ### 22. Furnishing fabrics supply
 
-Specify sofa, curtain or bedding fabrics by use, sunlight and moisture exposure. Compare weave density, colourfastness and care; approve swatches and spare fabric if needed.
-
+Request care instructions, fibre composition and actual roll width; a linear metre is not a square metre. Ensure the same dye lot covers the item and cushions, and retain its colour reference.
 ### 23. Carpets and fitted carpet supply
 
-Measure each room and decide fitted carpet or loose rugs. Compare pile, underlay, seams and slip control; inspect grain direction and edge joins.
-
+For fitted carpet, include subfloor preparation, underlay, adhesives and threshold finishing in the installation quote. Request a pile-direction and seam plan, then inspect for ripples or raised edges.
 ### 24. Mattress supply
 
-Measure bed base dimensions, sleepers, firmness preference and mattress depth. Compare construction, warranty and ventilation; check size and packaging at handover.
-
+Check bed-base height and fitted-sheet depth against the new mattress thickness, not only length and width. Confirm trial, exchange and old-mattress removal terms, and inspect packaging before acceptance.
 
 
 ## Furniture and furnishing quotation brief

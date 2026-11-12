@@ -118,6 +118,66 @@ A concrete wall may be load-bearing, retaining or separating, so its function mu
 
 Estimate waste types and volumes, separating concrete rubble, timber and metals from materials that may need special handling. Photographs of stockpiles, loading access, entrance width and truck standing space help define trips and loading equipment. Compare container provision, labour, haulage, fees and evidence of delivery to an appropriate receiving facility. Do not assume every material can enter ordinary waste streams. At completion check for remaining rubble and sharp debris and retain relevant transport and disposal records.
 
+## Garden landscaping and maintenance
+
+**Category note:** This company specialty appears in the source taxonomy but is currently marked as not selectable. The guidance below does not imply a bookable listing or an available company.
+
+### 29. Home garden design
+
+Start with a dimensioned site plan showing paths, doors, windows and ground levels, then rank seating, play and planting needs. The design should locate shade, water, lighting, planting beds and maintenance access, with preliminary quantities. Compare deliverables, revision rounds and irrigation coordination. Accept a buildable plan rather than a rendering alone.
+
+### 30. Villa landscape installation
+
+For an existing villa garden, photograph paving, planting, water and electrical points and identify what stays. Request an itemised scope separating removals, grading, utilities, planting and paths, including base-layer specifications. Compare waste haulage and establishment watering, not just planting rates. Check falls, drainage, edging stability and plant condition at handover.
+
+### 31. Outdoor space design
+
+An outdoor area may combine paths, parking, seating and service zones. Measure the plot and gate swings and map pedestrian and vehicle movement. The design should coordinate finishes, drainage, lighting and building connections. Compare materials for slip resistance, upkeep and life-cycle cost. Verify that drawings fit actual levels and utility positions before accepting the design.
+
+### 32. Green area establishment
+
+State the area in square metres, slope and water source, and photograph shaded or heavily trafficked spots. The scope should cover soil preparation, grading, ground-cover choice, irrigation and a defined establishment-care period. Compare soil depth, drainage and replacement terms alongside planting cost. Inspect coverage, ponding and the irrigation schedule at handover.
+
+### 33. Tree and shrub planting
+
+Record distances to walls and utilities, expected mature size and shade before choosing trees and shrubs. Ask for species names, nursery container sizes, planting-pit and soil details, staking and watering, with substitutions subject to approval. Compare plant size, quantity, establishment care and replacement terms. Inspect positions, uprightness and stem condition against the plan.
+
+### 34. Natural turf installation
+
+Natural turf requires an area survey, sunlight assessment, soil condition and reliable irrigation—not merely ordering rolls by the square metre. Specify weed removal, grading, soil amendment, turf variety, laying method and post-installation watering. Compare preparation, wastage and establishment care. Check seams, levels, dry patches and standing water before acceptance.
+
+### 35. Artificial turf installation
+
+Provide area, edge lengths, substrate photographs and intended play or pet use; these affect fibre, infill and drainage choices. Quotations should separate removal, compacted base, edge fixing and seams, and state pile height and permeability. Compare physical samples, maintenance and warranty terms. Inspect flatness, secure joins and drainage using a controlled water test.
+
+### 36. Plant and tree installation
+
+For mixed planting, prepare a schedule of species, sizes, quantities and positions instead of a vague 'plant the garden' request. Photograph soil, water supply and sun exposure. Specify pit depth, soil improvements, spacing and any staking. Compare costs by plant group and follow-up period; check species, counts and positions on delivery.
+
+### 37. Tree pruning and shaping
+
+Identify each tree with photographs showing approximate height, branches near buildings or cables and equipment access. The quote should state pruning objectives, access method, branch-drop controls and green-waste removal; avoid excessive cutting and unqualified work near power lines. Compare access equipment, safety and haulage. Inspect cuts, crown balance and site clearance.
+
+### 38. Lawn and ground-cover maintenance
+
+For recurring maintenance, state planted area, ground-cover type, visit frequency and irrigation zones. Separate mowing, edging, weeding, dry-patch checks and minor adjustments from fertilising or replanting that may be extra. Compare task schedules, reporting and consumables. Assess consistent cut height, clean edges and whether underlying damage causes are addressed.
+
+### 39. Plant nutrition and treatment
+
+Before feeding a yellowing plant, document symptoms, watering history and known soil conditions; extra fertiliser can worsen damage. Request a diagnosis distinguishing nutrient shortage, salinity, drainage and pests, with product, dosage, application method and precautions. Compare follow-up visits rather than fertiliser quantity alone. Record treatment and monitor response without guaranteed recovery claims.
+
+### 40. Garden pest management
+
+Identify affected plants and photograph insects or damage, including timing; yellowing does not always indicate pests. Ask for inspection, diagnosis, proportionate control options and disclosure of products and precautions for children, pets and beneficial organisms. Verify applicable licensing and product requirements with the competent authority before regulated treatment. Compare follow-up and inspection criteria; obtain treatment records and re-entry guidance.
+
+### 41. Garden cleaning
+
+Photograph leaf build-up, paths and beds, and define whether pruning waste and outdoor furniture are included. The scope should state collection, sorting, loading and removal, while protecting irrigation lines and young plants and avoiding damaging pressure washing. Compare visit frequency and included waste volume. Inspect paths, drains, borders and sharp debris at handover.
+
+### 42. Garden maintenance contracts
+
+A useful contract records planted area, plant types, initial irrigation condition, visit frequency and tasks per visit. Separate mowing, pruning, cleaning and checks from replacement plants, materials, heavy equipment and emergency repairs. Request dated photo reports noting pests and irrigation issues; compare response terms, exclusions and termination. Review performance monthly against a task checklist, not vague promises.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even if no company is published, a customer may submit the service name, Al Wathba location, property type, contact name and telephone, drawings or photographs, measurements, preferred schedule and a description of the work. The request follows the existing customer-service route without any promise of price or availability.

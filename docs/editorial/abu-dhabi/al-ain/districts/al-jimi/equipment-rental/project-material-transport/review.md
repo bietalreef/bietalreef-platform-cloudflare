@@ -14,3 +14,8 @@ Seven source-named services, in source order, are covered in both languages:
 7. خدمات التحميل والتنزيل / Loading and unloading services
 
 Checks: individual purpose, measurements/photos, quote comparison, agreement/exclusions and acceptance guidance for each service. No vendor, rate, licence, permit or availability asserted. Professional/craft classifications not mixed into company content.
+
+## تدقيق إضافي — 2026-11-12
+
+- أضيف تنبيه محدد لخدمة **نقل المخلفات** في اللغتين يفصل مخلفات البناء العادية عن المذيبات والدهانات والأسبستوس المشتبه به والمخلفات الملوثة، ويشترط التحقق من النوع والمسار النظامي وجهة مؤهلة قبل النقل.
+- بقيت الخدمات السبع وأسماؤها وترتيبها دون تغيير؛ حالة الجيمي العامة `in_progress`.

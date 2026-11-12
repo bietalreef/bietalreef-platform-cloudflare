@@ -10,6 +10,8 @@ For a site without permanent supply, list running and starting loads, concurrent
 
 **Quotation, agreement and handover:** Compare output rating, sockets, fuel, running hours, noise, transport, earthing and qualified connection. Fuel, cables and distribution may be extra. Check leaks, protection, hour meter and a suitable load test.
 
+**Generator operating safety:** Fuel-powered generators must run outdoors, away from doors, windows and air intakes to prevent carbon-monoxide exhaust entering occupied spaces. Never operate one inside a room or enclosed car park, even with doors open. Agree safe exhaust placement, protection of cables from traffic and water, and connection/disconnection by a qualified person. Do not backfeed building wiring without an approved transfer and isolation arrangement.
+
 ## 2. Cleaning equipment rental
 
 For post-fit-out floors, identify floor material, area, soil type, water, power and drainage. Photograph stains, doorways and corridors to select scrubbers or extractors that will not damage the finish.

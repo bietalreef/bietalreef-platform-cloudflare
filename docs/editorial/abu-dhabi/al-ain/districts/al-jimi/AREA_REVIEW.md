@@ -965,3 +965,8 @@
 
 - الحالة `in_progress`؛ أضيفت احتياطات تنظيف فضلات القوارض ومنع الكنس الجاف أو الشفط، مع تحديد عزل المنطقة ومسؤوليات التنظيف الرطب والتطهير وسد المنافذ، في [العربية](./cleaning-services/pest-rodent-control/content-ar.md) و[English](./cleaning-services/pest-rodent-control/content-en.md) و[مراجعة التخصص](./cleaning-services/pest-rodent-control/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق من تطابقها.
 - **النواقص الدقيقة التالية:** تدقيق بقية خدمات `cleaning-services/pest-rodent-control` الأربع (الصراصير والنمل وبق الفراش والعقود الدورية)، ثم `disinfection-sanitisation` و`building-facility-operations` و`workforce-operations` وبقية تخصصات التنظيف؛ ثم تدقيق خدمات المعدات الثمانية، والجرد النهائي لخمسين تخصصًا و434 خدمة في كل لغة مقابل الشجرة، والتفرد والسلامة وحالات التفعيل. لا يبدأ المويجعي.
+
+## متابعة مكافحة الحشرات والقوارض — 2026-11-13
+
+- الحالة `in_progress`؛ تم تعميق أربع خدمات في [العربية](./cleaning-services/pest-rodent-control/content-ar.md) و[الإنجليزية](./cleaning-services/pest-rodent-control/content-en.md) مع تحديث [مراجعة التخصص](./cleaning-services/pest-rodent-control/review.md) والتحقق من الملفات بعد الرفع.
+- **النواقص الدقيقة التالية:** تدقيق `cleaning-services/disinfection-sanitisation` ثم `building-facility-operations` ثم `workforce-operations` وبقية تخصصات التنظيف الثمانية، ثم تدقيق تخصصات `equipment-rental` الثمانية، وجرد ومطابقة جميع تخصصات الشركات الخمسين وخدماتها الـ434 بالعربية والإنجليزية مقابل الشجرة، مع فحص التفرد والسلامة وحالة التفعيل. لا يبدأ المويجعي قبل إكمال الجيمي.

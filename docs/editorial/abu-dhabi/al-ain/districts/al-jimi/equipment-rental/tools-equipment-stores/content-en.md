@@ -4,7 +4,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 1. Hand tools sales
 
-**When and scope:** Choose spanners, screwdrivers and pliers by fastener size and working conditions; a poor fit can strip a fixing or damage the finish. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Choose spanners, screwdrivers and pliers by fastener size and working conditions; a poor fit can strip a fixing or damage the finish. Hand-tool sales do not include on-site fitting or operation unless expressly quoted.
 
 **Photos, dimensions and specifications:** Send photos of fasteners, a size-and-quantity schedule, and whether the tools are for sustained workshop use or a one-off repair.
 
@@ -16,7 +16,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 2. Power tools sales
 
-**When and scope:** Select a drill, grinder or saw according to material, thickness and duty cycle, not headline wattage alone. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Select a drill, grinder or saw according to material, thickness and duty cycle, not headline wattage alone. Power-tool sales do not automatically include operator training, consumable bits or discs, or preparation of a suitable electrical circuit.
 
 **Photos, dimensions and specifications:** Specify concrete, steel or timber thickness, available power, blade or bit sizes, and photos of the work area.
 
@@ -28,7 +28,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 3. Safety equipment sales
 
-**When and scope:** Protection for cutting, welding and work at height differs; 'complete PPE' is not a usable specification. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Protection for cutting, welding and work at height differs; 'complete PPE' is not a usable specification. Selling protective equipment does not replace site risk assessment, fit testing or user training where required.
 
 **Photos, dimensions and specifications:** State hazards, user counts and sizes, site conditions and any project-required standard or certification.
 
@@ -40,7 +40,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 4. Workshop equipment sales
 
-**When and scope:** Benches, presses and workshop lifting equipment must match loads and allow safe anchoring. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Benches, presses and workshop lifting equipment must match loads and allow safe anchoring. Workshop equipment supply excludes foundation design, floor strengthening, electrical connections and commissioning unless separately agreed.
 
 **Photos, dimensions and specifications:** Provide room dimensions, door clearances, ceiling height, intended loads and electrical outlet photos.
 
@@ -52,7 +52,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 5. Cleaning equipment sales
 
-**When and scope:** Scrubbers and vacuums should be chosen for floor type, area and wet or fine-dust contamination. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Scrubbers and vacuums should be chosen for floor type, area and wet or fine-dust contamination. Buying a cleaning machine does not include a cleaning service, chemicals or replacement brushes unless specified.
 
 **Photos, dimensions and specifications:** Provide surface photos, area, soil type, water and drainage access, power supply and operating hours.
 
@@ -64,7 +64,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 6. Spare-parts sales
 
-**When and scope:** A visually similar spare part may still be incompatible, especially for motors, pumps and electrical assemblies. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** A visually similar spare part may still be incompatible, especially for motors, pumps and electrical assemblies. A spare-part purchase does not include dismantling, fault diagnosis, installation or system testing unless quoted.
 
 **Photos, dimensions and specifications:** Send the equipment nameplate, model, serial number, old part number and photos from several angles.
 
@@ -76,7 +76,7 @@ This is preparatory guidance for specifying a company purchase or service enquir
 
 ## 7. Equipment servicing
 
-**When and scope:** Reduced performance can result from wear, supply faults or misuse; diagnosis should precede part replacement. The request covers only the goods or service expressly quoted; construction, connections and on-site operation are not assumed.
+**When and scope:** Reduced performance can result from wear, supply faults or misuse; diagnosis should precede part replacement. The service covers the diagnosed fault and approved parts only; additional repairs require separate approval.
 
 **Photos, dimensions and specifications:** Provide model, operating hours, symptom timing, nameplate and connection photos, and prior service records.
 

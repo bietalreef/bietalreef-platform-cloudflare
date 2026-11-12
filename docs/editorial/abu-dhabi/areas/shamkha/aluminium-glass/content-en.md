@@ -126,31 +126,31 @@ Interior fit-out finishing and handover is a defined inspection stage, not a vag
 
 ### 29. Aluminium window fabrication
 
-Provide opening dimensions, glass type, sash action and drainage requirements before profile selection. Compare frame system, thickness and gaskets; inspect corners and fabricated dimensions.
+Aluminium window fabrication starts with an opening schedule showing finished width and height, sill level and whether each unit is hinged or sliding. Photograph the reveals, sill, curtains and nearby equipment. Request the frame profile, glazing specification, gaskets, drainage details, locking hardware and a finish sample. Compare quotes by sash arrangement, glass build-up and system performance, not opening area alone. Before dispatch, check frame dimensions, squareness, assembly joints and drainage slots; trial the operation of a sample before repeating production.
 
 ### 30. Aluminium window installation
 
-Re-measure finished openings, sash clearance and exposure to wind and rain. Compare frame anchors, seals and perimeter silicone; test smooth operation and appropriate water resistance.
+Installing aluminium windows requires checking the opening's alignment, levels and the substrate receiving the fixings. Agree the anchorage appropriate to the approved system, movement gaps, internal and external joint seals and protection of surrounding finishes. Compare supply, removal of old units, debris disposal and plaster or paint repairs as separate items. At handover operate every sash and lock, inspect consistent sealant and unobstructed drainage paths. If water testing is required, agree the method and acceptance criteria in advance.
 
 ### 31. Aluminium door fabrication
 
-Specify opening, swing, glazing, lock and required passage clearance. Compare profiles, reinforcement, hinges and security; inspect squareness and assembled hardware.
+For aluminium door fabrication, identify whether the door is internal or external, hinged or sliding, and its expected frequency of use and privacy requirements. Provide finished opening dimensions, floor level, swing direction and photographs of nearby obstructions. The workshop quotation should specify frame and leaf profiles, infill or glass, hinges, handle, lock and threshold. Any applicable fire or safety requirements need competent project-specific review. Inspect corner squareness, joints and hardware attachment before dispatch.
 
 ### 32. Aluminium door installation
 
-Confirm flooring level, threshold, handles and swing. Compare anchors, packers and seals; check smooth closure and effective dust sealing.
+Aluminium door installation depends on setting the frame plumb and square and allowing the leaf to clear finished flooring. Specify whether an existing door will be removed, how the frame will be anchored, how gaps and thresholds will be treated, and how adjacent finishes will be protected. Compare total installation and reinstatement costs rather than labour alone. At handover repeatedly open and close the door, check for floor rubbing, and test hinges, latch, lock and joint sealing without obstructing drainage.
 
 ### 33. Insect screen installation
 
-Measure openings and choose removable or sliding mesh panels. Compare mesh aperture, frame design and cleaning access; inspect tension and side gaps.
+First clarify whether the proposed mesh is for insects or another stated purpose: ordinary insect screening is not certified fall or intrusion protection. Supply opening dimensions and photographs of window tracks and handles. Choose fixed, sliding or removable mesh based on cleaning access and window operation. Compare mesh material, weave, frame fixing and replacement options, while considering any relevant emergency exit requirements. Check mesh tension, sharp edges, removability and gaps around the frame at handover.
 
 ### 34. Door and window maintenance
 
-Map sash rubbing, frame movement, failed seals and water entry. Compare adjustments and gasket repairs against full replacement; test seals and square closure.
+For door and window maintenance, record the symptom at each opening: sticking sliders, rain ingress, draughts, noise or a failed lock. Photograph tracks, seals, hinges and rubbing points. The underlying cause may be alignment or blocked drainage rather than a defective frame. Ask for diagnosis and separate prices for cleaning, parts replacement, adjustment and resealing, with clear limits on what can be repaired. Reproduce the original fault during handover testing and confirm that drainage openings remain clear.
 
 ### 35. Glass and hardware replacement
 
-Provide old hardware photos, aluminium-system code and glass size/thickness. Compare compatible components and safe glazing handling; inspect secure fit and unchipped edges.
+Replacing door or window hardware or glazing requires identifying the system and photographing and measuring the damaged component: rollers, handles and locks are not universally interchangeable. For glazing, record pane dimensions, glass type, location and retention method; safety glazing must not be downgraded. Compare the component price, removal and installation labour, safe disposal of broken glass and hardware warranty. At handover test movement and locking, inspect gaskets, secure retention and edges, and check for installation damage.
 
 ### 36. Aluminium kitchen fabrication
 

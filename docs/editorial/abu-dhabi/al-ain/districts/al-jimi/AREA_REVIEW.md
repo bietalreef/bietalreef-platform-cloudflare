@@ -925,3 +925,8 @@
 
 - الحالة `in_progress`؛ جرى تدقيق خدمة **تصنيع أسطح المطابخ** وإضافة فحص شروخ زوايا فتحات الحوض والموقد، والتحقق من اكتمال التدعيم والمواد اللاصقة قبل التحميل والتركيب، بالعربية والإنجليزية: [العربية](./equipment-rental/marble-stone-factories/content-ar.md) · [English](./equipment-rental/marble-stone-factories/content-en.md) · [المراجعة](./equipment-rental/marble-stone-factories/review.md).
 - **النواقص التالية بالترتيب:** تدقيق الخدمات الست الأخرى في `equipment-rental/marble-stone-factories`، ثم `project-material-transport` و`concrete-block-factories` وإعادة تدقيق بقية تخصصات المعدات الثمانية؛ تدقيق خدمات `cleaning-services` الثمانية؛ ثم مطابقة 50 تخصصًا و434 خدمة بكل لغة مع الشجرة، وفحص التكرار والسلامة والتصنيفات. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق نقل مخلفات المشاريع — 2026-11-12
+
+- الحالة `in_progress`؛ أُضيف إلى خدمة **نقل المخلفات** فصل صريح للمخلفات الخطرة أو المشتبه بها عن مخلفات البناء العادية، مع عدم افتراض صلاحية الناقل للتعامل معها: [العربية](./equipment-rental/project-material-transport/content-ar.md) · [English](./equipment-rental/project-material-transport/content-en.md) · [المراجعة](./equipment-rental/project-material-transport/review.md).
+- **أول نقص تالٍ:** تدقيق الخدمات الست الأخرى في `project-material-transport`، ثم `concrete-block-factories`، ثم مراجعة بقية خدمات `equipment-rental` و`cleaning-services`؛ بعد ذلك الجرد الحرفي للخمسين تخصصًا و434 خدمة بكل لغة، وتدقيق التفرد والسلامة والتصنيفات. لا يبدأ المويجعي.

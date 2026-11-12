@@ -40,31 +40,31 @@ For a project requiring several machines, prepare an equipment schedule showing 
 
 ### 8. Generator hire
 
-Calculate running and starting loads, duration, ventilation and fuel position. Compare rated output, protection, fuel use and noise; test power and safety on delivery.
+Before hiring a generator, prepare an equipment load schedule showing running demand, motor starting currents and simultaneous use; nominal generator size alone is insufficient. State daily operating hours, placement away from occupied spaces, cable routes, ventilation, fuel arrangements and whether power is standby or continuous. Request a quotation specifying usable output, distribution and protective devices, earthing, fuel, servicing, delivery, operator duties and breakdown replacement. At handover inspect the rating plate, fuel and leaks, and have a qualified electrician test the intended load safely. Never backfeed a building installation without an appropriately designed changeover and isolation arrangement.
 
 ### 9. Cleaning equipment hire
 
-Identify surfaces, area and wet extraction, dry vacuum or scrubber needs. Compare attachments, leads, consumables and return condition; test suction and tank hygiene.
+Identify whether the task involves dry construction dust, water extraction, hard-floor scrubbing or upholstery cleaning: industrial vacuums, scrubber-dryers and extraction machines are not interchangeable. Provide surface photographs, approximate areas, soil conditions, doorway and lift widths, power supply and wastewater disposal arrangements. Compare filtration, tank capacities, brush types, attachments, compatible chemicals, consumables, cleaning duties and transport. On delivery inspect cables, brushes and wheels, test performance on an inconspicuous patch and record the machine's condition for return.
 
 ### 10. Air compressor hire
 
-Specify tool pressure and air demand, hose length and available power. Compare compressor tank, moisture separator and safety; test pressure regulation and leaks.
+Do not select a compressor by pressure alone. Obtain each tool's air consumption at its operating pressure, the number of simultaneous tools, hose lengths and expected pressure losses. Explain whether the use is spraying, pneumatic tools or testing, because air quality, oil carryover and moisture requirements differ. Compare delivered airflow, receiver capacity, duty cycle, power or fuel, dryers, filters and relief devices. Before use check applicable pressure-vessel inspection records, hoses, couplings and regulator operation; test for leaks without exceeding equipment ratings.
 
 ### 11. Power-tool hire
 
-List exact tools, sizes, tasks and required bits or blades. Compare battery condition, cables, consumables and guards; perform a functional test.
+List the actual tasks—drilling concrete or timber, cutting metal, driving fixings, sanding or light demolition—with diameters, thicknesses and estimated operating hours. Photographs of the work position help establish whether corded or battery equipment, cable reach, dust extraction and special attachments are needed. Compare hire charges separately from blades, bits, batteries and chargers, and clarify damage, replacement and deposit terms. At handover inspect guards, handles, switches, leads and batteries and perform a safe functional check; never fit an accessory outside the tool's speed or application rating.
 
 ### 12. Welding equipment hire
 
-Identify metal, thickness, work location, power and hot-work controls. Compare welder type, protection, consumables and earthing; test with safe supervision.
+Specify the welding process, metal grade and thickness, joint position and whether the work takes place in an open workshop or enclosed site. MIG, TIG and stick equipment serve different joints, specifications and operator skills. Supply photographs of the parts, electrical supply, cable distances and nearby combustible materials. Compare output current, duty cycle, leads, clamps, shielding gas, consumables, protective equipment, ventilation and fire-watch responsibilities. At handover inspect insulation, earthing, connections and gas flow where applicable; arrange site-specific hot-work precautions and any required permissions before starting.
 
 ### 13. Water pump hire
 
-Specify flow, lift, water source, solids content and hose run. Compare pump curve, dry-run requirements and wiring; test flow and non-return valve.
+Before hiring a pump, state whether the water is clean or contains sand and debris, the volume to remove, available pumping time, static lift, hose length and an acceptable discharge point. Excavation dewatering, clean-water transfer and solids-handling submersible pumps have different duties. Request the performance curve at the actual head, connection sizes, solids limits, dry-running protection, power or fuel and included hoses. At delivery inspect insulation, joints and leaks, then verify flow to a suitable discharge location without flooding neighbours or recirculating water into the excavation.
 
 ### 14. Garden equipment hire
 
-Define lawn or tree work, area, slope, permitted noise and schedule. Compare mower, trimmer or blower and protective equipment; inspect blades and guards.
+Map the working areas and specify whether the job is mowing, hedge trimming, branch pruning, leaf blowing or shredding. Supply photographs showing vegetation density, height, slopes, obstacles and irrigation lines: a mower cannot substitute for a hedge trimmer or pruning saw. Compare cutting width, machine capacity, batteries or fuel, blades, protective equipment, transport and green-waste collection. At handover inspect guards, stop controls and blades and test the machine in a safe area while protecting concealed irrigation and services.
 
 ## Aluminium and glass production
 

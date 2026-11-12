@@ -70,33 +70,33 @@ Do not treat 'upholstery disinfection' as a sufficient specification. Distinguis
 
 ### 15. Glass façade cleaning
 
-Measure glazing area, height, access and direct sunlight exposure. Compare purified-water methods, high-level access and fall protection; inspect streaks and gaskets.
+Glass façade cleaning should begin with a survey of height, accessible surface area, glass coatings, silicone joints and gaskets—not a choice of detergent. Supply photographs from ground level and another safe vantage point, noting entrance obstructions and occupied hours. Ask each bidder to specify authorised access equipment, exclusion zones below the work, water supply and whether frames, tracks and adhesive residues are included. Mineral deposits may need a trial patch before treatment. At handover inspect panes in oblique light for streaks or scratches and check that joints and adjacent finishes were not damaged.
 
 ### 16. Building exterior cleaning
 
-Identify painted, stone or aluminium façade and stains, joints and leak points. Compare trial patches, water pressure and chemicals; inspect for flaking or water ingress.
+Stone, composite aluminium and painted façades tolerate very different cleaning methods. Prepare a material-by-material area schedule, close-up photos of deposits and cracks, and a map of openings where wash water could enter. Require a discreet test patch, a suitable pressure setting, protection for plants and entrances, and a wash-water management plan. Compare bids by the actual stain treatment and access arrangements, not area alone. Check at handover for colour changes, lifted coating or disturbed cladding joints; record defects requiring repair rather than further cleaning.
 
 ### 17. Car park cleaning
 
-Record parking area, oil marks, tyre residue, drains and vehicle flow. Compare degreasing, sweeping and planned closure windows; inspect dry floors and clear drains.
+For car park cleaning, map floors, entrances, oil patches, tyre marks, drains and fire-safety equipment. Provide circulation photos and agree which bays can be closed in phases. The quotation should distinguish dry sweeping, degreasing and floor washing, and explain pedestrian slip protection and how contaminated wash water will be handled. Compare the net area, reopening sequence and waste arrangements rather than a single headline rate. At completion inspect ramp dryness, unobstructed drains and any slippery detergent residue before traffic returns.
 
 ### 18. Industrial site cleaning
 
-Classify industrial soil, equipment and areas off-limits due to electrical or hazardous materials. Compare controlled cleaning and specialist waste handling; document cleaned zones without claiming unknown hazards were removed.
+Industrial cleaning requires identification of the process and substances present before a crew enters. Ordinary oil, fine process dust and chemical residues are not interchangeable wastes. Ask the site manager for restricted-zone drawings, equipment isolation requirements, substance safety information and vehicle routes. Quotes must separate floors and walkways from machinery cleaning or specialist hazardous-waste handling by competent parties. Compare risk controls, protective equipment and waste documentation. Acceptance should include checking that contamination has not been spread to clean zones and closing out exceptions in a work log.
 
 ## Water tank and pool cleaning
 
 ### 19. Water tank cleaning
 
-Specify tank type, capacity, location, water shutdown and sediment condition. Compare drainage, sludge removal, scrubbing, rinsing and safe entry; inspect photographs and closure.
+Before a water tank clean, identify whether the tank is elevated or underground, its capacity, hatch dimensions, isolation valves and alternative water supply during downtime. Photograph sediment, corrosion or damaged lining; confined-space entry must not be assumed safe without an appropriate risk assessment and rescue arrangements. Compare controlled draining, sediment removal, scrubbing, rinsing and protection of fittings, while specifying whether disinfection and water testing are separate. Obtain dated before-and-after photographs, inspect the hatch and float valve, and record the return-to-service procedure.
 
 ### 20. Water tank disinfection
 
-Confirm potable or other water use, product, dose and labelled contact time. Compare pre-cleaning, rinsing, refill and suitable testing; do not assert water safety without evidence.
+Disinfecting a water tank does not replace physical sediment removal. State whether water is intended for drinking, the actual tank volume, lining material, reason for treatment and any earlier test results. The provider should document a suitable product, dose calculation, contact time, rinsing or neutralisation and user protection, subject to verified current requirements and product directions. Compare the plan for avoiding recontamination and any appropriate sampling. Do not accept a blanket 'safe to drink' claim without reliable test evidence where testing is required. Keep product, quantity, timing and recommissioning records.
 
 ### 21. Swimming pool cleaning
 
-Record pool dimensions, lining, filters, circulation equipment and water clarity. Compare floor/wall cleaning, skimmers and water balance as separate tasks; inspect clarity and recorded readings.
+For pool cleaning, provide length, width, approximate average depth, lining type and photographs of the waterline, floor, staining and pump room. Distinguish routine in-service cleaning from recovery after prolonged closure; full draining should not be assumed. Compare debris removal, filter and strainer cleaning, wall and floor brushing, and responsibility for testing and adjusting water balance. Leak repairs and pump faults should be priced separately. At handover inspect grout lines and strainers, and obtain water-test readings and equipment notes rather than judging clarity alone.
 
 ## Pest management
 

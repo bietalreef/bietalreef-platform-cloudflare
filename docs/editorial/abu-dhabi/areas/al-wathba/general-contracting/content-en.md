@@ -88,6 +88,36 @@ Record the existing façade material, approximate area, working height and photo
 
 Before reoccupying a vacant building or changing its use, identify the intended activity, occupancy, exits and the condition of cooling, power, water and drainage. Gather as-built plans and maintenance records and arrange specialist checks of dormant systems and required alterations. Compare repairs, commissioning trials and handover documents separately, and verify any applicable official approvals with the responsible authorities for the specific proposal. Cleaning and repainting alone do not establish readiness for occupation.
 
+## Demolition and concrete works
+
+### 22. Demolition works
+
+Before pricing demolition, mark the exact removal boundaries on plans and photographs and identify any adjoining structure that must remain or live electrical and water services. The contractor's scope should address verified service isolation, protection of neighbouring property, dust control, demolition method and debris-loading zones. Work should not begin before a safety assessment and verification of applicable site permissions with the competent authority. Compare temporary support, removal boundaries, haulage and lawful disposal rather than a square-metre rate alone. At handover inspect retained elements, cleared limits and waste-disposal records.
+
+### 23. Removal of buildings and annexes
+
+Removing a detached annex differs from clearing an entire building, particularly where foundations meet a wall or an occupied structure. Provide entrance and height photographs, approximate dimensions and known underground service routes. Ask how retained structures will be protected, whether buried foundations will be removed, and how excavations will be backfilled. Quotations should explicitly include or exclude slabs, paving, fences, debris haulage and ground levelling. Check final ground levels and agreed boundaries; burying rubble on site is not an acceptable substitute for the agreed removal.
+
+### 24. Concrete cutting and core drilling
+
+Openings for services or alterations can affect reinforcement and load-bearing concrete. Provide the proposed hole diameter or cut length, element thickness, position on a plan and photographs from both sides where accessible. A competent structural assessment is needed before cutting potentially structural elements. The method should identify reinforcement and hidden services, manage slurry or dust and secure falling sections. Compare cutting depth, access, waste removal and finish protection. Check the final opening dimensions, edges and surrounding concrete before acceptance.
+
+### 25. Foundation and footing concrete pouring
+
+Foundation quotations depend on ground information, structural drawings, excavation levels and footing dimensions, not just concrete volume. Ask for excavation, backfill, formwork, reinforcement and any specified waterproofing to be itemised, alongside concrete grade, delivery, placement, curing and tests. The responsible technical team should inspect formation, steel placement, cover and levels before pouring. Compare quantities and exclusions on the same basis and retain inspection records, sample results and pour logs before the work is concealed.
+
+### 26. Concrete roof and slab pouring
+
+Supply structural drawings showing spans, slab thickness, reinforcement and service openings, together with concrete-truck and pump access. The work plan should cover formwork and props, coordinated electrical and mechanical penetrations, pour sequence, compaction and curing. Compare prices with formwork, steel, concrete, testing and the engineer-specified propping period identified separately. Handover evidence includes levels, opening positions, surface condition and test records. Props must not be removed on an arbitrary timetable.
+
+### 27. Concrete wall construction
+
+A concrete wall may be load-bearing, retaining or separating, so its function must be established before selecting thickness, reinforcement and waterproofing. Provide lengths, heights, openings, joints and photographs of adjoining ground or construction. The quotation should describe formwork, steel, concrete, anchorage and construction-joint treatment, plus designed drainage and waterproofing where it is a retaining wall. Inspect alignment, levels, openings, surface quality and pour records; unexpected honeycombing or cracking requires technical assessment.
+
+### 28. Demolition debris removal
+
+Estimate waste types and volumes, separating concrete rubble, timber and metals from materials that may need special handling. Photographs of stockpiles, loading access, entrance width and truck standing space help define trips and loading equipment. Compare container provision, labour, haulage, fees and evidence of delivery to an appropriate receiving facility. Do not assume every material can enter ordinary waste streams. At completion check for remaining rubble and sharp debris and retain relevant transport and disposal records.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even if no company is published, a customer may submit the service name, Al Wathba location, property type, contact name and telephone, drawings or photographs, measurements, preferred schedule and a description of the work. The request follows the existing customer-service route without any promise of price or availability.

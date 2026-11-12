@@ -11,3 +11,7 @@ Status: seven company services rewritten and checked in both languages. No provi
 7. نقل الممتلكات بين الإمارات / Inter-emirate belongings transport
 
 Each service covers specific need, scope and exclusions, photos/dimensions, quote comparison, agreement, acceptance and enquiry. Not artisan services.
+
+## Editorial verification — 2026-11-12
+
+Replaced seven repeated scope/exclusion statements in each language with service-specific boundaries for home and office moving, dismantling, packing, loading labour, temporary storage and inter-emirate transport. Both language files were reread from the specified branch after upload. Remaining district-wide taxonomy, repetition, safety and status checks are not yet certified.

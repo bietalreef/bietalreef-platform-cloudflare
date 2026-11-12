@@ -58,9 +58,9 @@ For projects needing several machines in phases, prepare an equipment schedule t
 
 **Quotation, exclusions and acceptance:** Request itemised pricing for each machine, swaps, haulage, fuel, operator, insurance, downtime and early return, with a breakdown replacement procedure. Work performed with the machine is separate unless specified. Use numbered inventories, photos and meter readings at delivery and signed off-hire records at return.
 
+**Further pre-use check:** Keep a separate handover log for each machine showing identity, accessories, photographed defects and authorised operators. Agree breakdown contacts and how disputed downtime affects hire charges.
+
 ## Request a quotation through Biet Al Reef
 
 Send the Al Jimi project description, photos, dimensions, dates and equipment list; ask for written transport, operation, insurance and responsibility terms. Biet Al Reef customer service can help prepare the enquiry without guaranteeing a supplier, price or date.
-
-**Further pre-use check:** Keep a separate handover log for each machine showing identity, accessories, photographed defects and authorised operators. Agree breakdown contacts and how disputed downtime affects hire charges.
 

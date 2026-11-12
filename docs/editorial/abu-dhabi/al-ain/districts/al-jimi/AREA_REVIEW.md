@@ -914,3 +914,9 @@
 
 - الحالة `in_progress`. استبدلت الاستثناءات العامة المتكررة باستثناءات مخصصة للخدمات السبع في [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) و[الإنجليزية](./equipment-rental/tools-equipment-stores/content-en.md) مع تحديث [المراجعة](./equipment-rental/tools-equipment-stores/review.md) والتحقق بإعادة القراءة.
 - **أول نقص تالٍ:** `equipment-rental/property-moving` ثم `project-material-transport` ثم `concrete-block-factories`، ثم استكمال تدقيق بقية المعدات والتنظيف ومطابقة الشجرة كاملة (50 تخصصًا و434 خدمة بكل لغة)، وفحص الجودة والسلامة والتصنيفات. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق نطاق نقل الأثاث والممتلكات — 2026-11-12
+
+- الحالة `in_progress`؛ استُبدلت العبارات العامة المكررة في الخدمات السبع بنطاقات واستثناءات مختلفة لكل خدمة، باللغتين: [العربية](./equipment-rental/property-moving/content-ar.md) · [English](./equipment-rental/property-moving/content-en.md) · [المراجعة](./equipment-rental/property-moving/review.md). أُعيد جلب الملفات الثلاثة وتطابقت مع المحفوظ.
+- قُرئت خدمات [نقل مواد ومعدات المشاريع](./equipment-rental/project-material-transport/review.md) السبع و[مصانع الخرسانة والطابوق](./equipment-rental/concrete-block-factories/review.md) الأربع في اللغتين؛ نصوصها تفصل نطاقات الخدمات واشتراطات التسعير والاستلام. مصانع الخرسانة تصنيف مقترح ومحتواها تحضيري فقط. لم يُجر تعديل عليها في هذه الجولة.
+- **النواقص الدقيقة التالية:** مراجعة `equipment-rental/marble-stone-factories/content-ar.md` ثم `content-en.md` ثم `review.md`؛ وإعادة تدقيق بقية المعدات، ثم تخصصات `cleaning-services` الثمانية، ثم جرد ومطابقة التخصصات الخمسين والخدمات الـ434 في كل لغة مع المصدر وفحص التفرد والسلامة والتصنيفات. لا تبدأ المويجعي قبل اعتماد الجيمي.

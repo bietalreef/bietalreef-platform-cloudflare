@@ -14,6 +14,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Inspect colour and water rings only after drying; check for trapped moisture. Keep before-and-after photographs and a list of outstanding issues.
 
+**Service-specific quotation request:** Give seat and cushion counts, fabric types, care-label and stain photos, and whether on-site cleaning and assisted drying are required; ask for spot treatment to be priced separately.
+
 ## 2. Rug cleaning
 
 **When this is useful:** Loose rugs may bleed dye or distort if handled like fitted carpet.
@@ -25,6 +27,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 **Quotation comparison and written agreement:** Compare collection, tracking, drying and return packaging. Record each rug's photograph, dimensions and tracking number before collection, plus the cleaning location, drying method and return date. Compare liability for fringe damage or dye bleeding and handling of delicate handwoven rugs.
 
 **Acceptance inspection:** Check the edges, dimensions, odour and complete drying on return. Keep before-and-after photographs and a list of outstanding issues.
+
+**Service-specific quotation request:** Provide dimensions and front, backing and fringe photos for each rug and state whether off-site collection is permitted; request separate collection, return, colour-test and drying charges.
 
 ## 3. Fitted carpet cleaning
 
@@ -38,6 +42,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Inspect seams, edges, dryness and any residual stains before reopening the room. Keep before-and-after photographs and a list of outstanding issues.
 
+**Service-specific quotation request:** State the net square metres, rooms, pile type, seam and furniture photos; ask for room downtime, drying estimates and furniture-moving charges.
+
 ## 4. Arabic majlis cleaning
 
 **When this is useful:** Majlis seating often has separate cushions and mixed fabrics.
@@ -49,6 +55,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 **Quotation comparison and written agreement:** Compare dismantling, labelling cushions, drying arrangements and reassembly. Require an inventory and labels for every cushion and seating section, with clear on-site versus off-site treatment and foam-drying arrangements. Compare fabric-specific charges and documentation of pre-existing defects.
 
 **Acceptance inspection:** Check every piece is returned, colours remain stable and no dampness is trapped. Keep before-and-after photographs and a list of outstanding issues.
+
+**Service-specific quotation request:** List seating lengths, cushion counts, fabric types and stain locations, plus access for disassembly and the next majlis use; request fabric-group pricing and a foam-drying plan.
 
 ## 5. Mattress cleaning
 
@@ -62,6 +70,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Check the surface is dry and whether odours or rings recur after drying. Keep before-and-after photographs and a list of outstanding issues.
 
+**Service-specific quotation request:** Give mattress quantities, sizes, thicknesses, materials and photos of both sides; request a low-moisture method, reuse interval and explicit odour-removal limitations.
+
 ## 6. Curtain cleaning
 
 **When this is useful:** Blackout linings, pleats and rails can be damaged by the wrong cleaning method.
@@ -73,6 +83,8 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 **Quotation comparison and written agreement:** Compare removal labour, transport, shrinkage risk and reinstallation. Clarify removal, rehanging, pressing and lining treatment, plus responsibility for missing hooks and shrinkage. Require a discreet test on blackout fabric and recorded drop measurements before and after cleaning.
 
 **Acceptance inspection:** Inspect hanging length, pleats, lining and rail operation. Keep before-and-after photographs and a list of outstanding issues.
+
+**Service-specific quotation request:** State curtain quantities, panel widths and drops, lining types, installation heights and track photos; request removal, washing, pressing and rehanging as separate line items.
 
 ## 7. Upholstery disinfection
 
@@ -89,3 +101,6 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 ## Prepare a request through Biet Al Reef
 
 Send customer support photographs, quantities, dimensions, material details, site restrictions and preferred dates. A request can be prepared even when no provider is listed. This does not guarantee a company, quotation amount or booking. Confirm relevant licensing and safe-work requirements before engaging a contractor.
+
+**Service-specific quotation request:** State item counts, textile types, the treatment purpose and occupant sensitivities; request the product's textile-use label, contact and ventilation times and application record without unsupported health promises.
+

@@ -950,3 +950,8 @@
 
 - الحالة: `in_progress`؛ جرى تخصيص شروط مقارنة العروض والاتفاق لكل خدمة من الخدمات السبع في [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) و[الإنجليزية](./equipment-rental/tools-equipment-stores/content-en.md)، مع [مراجعة التخصص](./equipment-rental/tools-equipment-stores/review.md). أُعيدت قراءة ملفي المحتوى بعد الكتابة وتحقق تطابقهما.
 - **النواقص الدقيقة التالية:** تدقيق الخدمات السبع في `equipment-rental/aluminium-glass-factories` ثم `construction-lifting-equipment` و`light-tools-rental` و`property-moving` و`project-material-transport` و`concrete-block-factories` و`marble-stone-factories`، ثم خدمات تخصصات `cleaning-services` الثمانية؛ بعد ذلك جرد الخدمات الـ434 في كل لغة مقابل الشجرة الأصلية وفحص التفرد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## ضبط ترتيب طلبات التسعير لمصانع الألمنيوم والزجاج — 2026-11-13
+
+- الحالة `in_progress`. صحح ترتيب قسم طلب سعر الخدمة السابعة في [العربية](./equipment-rental/aluminium-glass-factories/content-ar.md) و[الإنجليزية](./equipment-rental/aluminium-glass-factories/content-en.md) بحيث لا يفصل القسم العام بين تفاصيل الخدمة وطلبها، ووضّح حدود الاستفسار وعدم تفعيل التصنيف. راجع [سجل التخصص](./equipment-rental/aluminium-glass-factories/review.md). تحقق تطابق ملفي اللغة بعد الكتابة.
+- **النواقص التالية:** تدقيق الخدمات السبع في `equipment-rental/construction-lifting-equipment` ثم `light-tools-rental` و`property-moving` و`project-material-transport` و`concrete-block-factories` و`marble-stone-factories`، ثم تدقيق تخصصات `cleaning-services` الثمانية؛ بعد ذلك فحص أسماء وعدد الخدمات الـ434 بكل لغة عبر التخصصات الخمسين، ومراجعة التفرد والسلامة والتصنيفات قبل اعتماد الجيمي. لا يبدأ المويجعي.

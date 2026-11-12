@@ -10,31 +10,31 @@ Cleaning an occupied apartment is not the same scope as post-construction cleani
 
 ### 1. Villa cleaning
 
-List villa floors, majlis rooms, bathrooms, kitchen, windows and outdoor areas, noting occupancy. Compare crew hours, equipment and deep versus routine cleaning; inspect a room-by-room checklist.
+For a villa-cleaning quotation, provide an approximate floor-by-floor plan, occupied and unused spaces, the number of bathrooms, kitchens and majlis rooms, and whether high glazing, outbuildings and the courtyard are included. Photograph stubborn soil and delicate stone or timber finishes so methods can be selected safely. Ask bidders to allocate crew time by room and specify chemicals, equipment, furniture moving and drying duties. Inspect door edges, bathroom drains and high shelves at handover rather than judging the entrance alone.
 
 ### 2. Apartment cleaning
 
-Record rooms, furniture, appliances, access and building entry arrangements. Compare inside-cabinet, degreasing and window scope; inspect wet areas and appliance corners.
+An apartment cleaned before move-in needs a different scope from a routine visit. State the room count, kitchen layout and whether cupboards and appliances must be cleaned internally. Photograph extractor grease and floor stains, and identify lift bookings or building access windows. Compare included tasks and revisit arrangements, not merely apartment size. At completion check window tracks, tile edges, behind appliances that were authorised to be moved, and the dryness of wet areas.
 
 ### 3. Office cleaning
 
-List workstations, meeting rooms, washrooms and preferred hours to avoid staff disruption. Separate supported disinfecting tasks and protection of sensitive documents from regular cleaning; inspect by zone.
+For an operating office, inventory workstations, meeting rooms, pantry, washrooms and floor types, then agree low-disruption service hours. Set explicit no-touch zones for documents and personal devices, and specify compatible products for screens and finishes. Compare bids on waste collection, consumable replenishment and any separately defined disinfection. Accept the work against a zone-by-zone task log and staff observations, rather than attendance alone.
 
 ### 4. Building cleaning
 
-Define floors, corridors, stairs, lifts, entries and accessible service areas. Compare visit frequency, washroom consumables and inspection logs; receive common-area reports.
+Whole-building cleaning may cover corridors, lifts, stairwells, entrances and authorised plant areas, while private units remain outside scope. Provide floor counts, measured common areas, photographs of problem points and available water, power and storage. Compare cleaning frequency, supplies, supervision and complaint escalation. Inspect handrails, lift buttons, corners and refuse areas, and request a dated visit record for each floor.
 
 ### 5. Post-construction cleaning
 
-Photograph plaster dust, grout haze, labels and paint spots on new finishes after contractors leave. Compare rough and final cleaning and non-scratch methods; inspect residue without finish damage.
+Final cleaning should follow cutting and painting, since plaster dust, grout haze and adhesive residue require different techniques. Photograph new finishes and identify tile, glazing, stone and paint types, plus areas still controlled by contractors. Require a trial on an inconspicuous patch before removing persistent marks, and price bulk debris removal separately from fine-dust work. After surfaces dry, inspect frames, joints and vents for residue, scratches and chemical marks.
 
 ### 6. Pre-move cleaning
 
-Confirm occupancy, handover time, cupboards, kitchen fixtures and bathrooms. Compare dust, odour, grease and drying scope before move-in; inspect dry, clean surfaces.
+For pre-move cleaning, confirm the furniture delivery date, available utilities and whether cupboards, drawers and appliances remain in place. An empty property differs from one containing curtains or upholstery; supply photographs of kitchens, bathrooms and any damp or odour issues. Compare cabinet interiors, drying time and waste-removal responsibility. Before handing over the keys, check storage shelves, corners and plumbing areas, allowing sufficient ventilation time.
 
 ### 7. Regular cleaning contracts
 
-Prepare a room/task schedule with daily or weekly frequency, consumables and supervision. Compare extra-work limits, absence cover and issue handling; require visit logs and tracked observations.
+A recurring cleaning contract should distinguish daily, weekly and monthly duties from occasional deep cleans. Provide site areas, permitted access hours and a task-frequency schedule. Specify who supplies chemicals, consumables and equipment, how absent staff are covered and how extra work is authorised. Compare supervision, inspection records and complaint response, not headcount alone. Use recurring checklists, photographic defect notes and a rectification log before approving invoices.
 
 ## Upholstery and textile cleaning
 

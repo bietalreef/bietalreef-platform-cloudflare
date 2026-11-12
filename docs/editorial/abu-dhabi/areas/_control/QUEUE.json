@@ -324,13 +324,13 @@
       "review_note": "Aluminium-glass services 1–21 independently rewritten in Arabic and English; 56 sequential headings per language re-fetched and checked. Services 22–56 remain draft. Area 280/434 independently rewritten; 154 remaining. Human review required.",
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "الأثاث والديكور الخشبي",
-        "independently_rewritten_services": 21,
+        "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
+        "independently_rewritten_services": 28,
         "area_total": 434,
-        "area_independently_rewritten": 280,
-        "next_service_number": 22,
-        "remaining_in_sector": 35,
-        "remaining_area_services_for_originality_review": 154,
+        "area_independently_rewritten": 287,
+        "next_service_number": 29,
+        "remaining_in_sector": 28,
+        "remaining_area_services_for_originality_review": 147,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
         "rewritten_service_numbers": [
@@ -354,7 +354,14 @@
           18,
           19,
           20,
-          21
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
         ]
       }
     },

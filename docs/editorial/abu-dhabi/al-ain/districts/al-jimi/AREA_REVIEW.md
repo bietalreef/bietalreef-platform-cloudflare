@@ -945,3 +945,8 @@
 
 - **الحالة `in_progress`**: أضيفت حدود تنفيذ وفحوص استلام مستقلة لست خدمات متبقية في [مصانع الرخام والحجر بالعربية](./equipment-rental/marble-stone-factories/content-ar.md) و[الإنجليزية](./equipment-rental/marble-stone-factories/content-en.md)، مع [مراجعة التخصص](./equipment-rental/marble-stone-factories/review.md). تحقق تطابق ملفي المحتوى بعد إعادة القراءة من GitHub.
 - **أول نقص تالٍ:** مراجعة الخدمات المتبقية في تخصصات `equipment-rental` الأخرى، ثم تخصصات `cleaning-services` الثمانية، ثم جرد 50 تخصصًا ومطابقة أسماء 434 خدمة عربية حرفيًا مع الشجرة والإنجليزية بالعدد والترتيب، وتدقيق التكرار والسلامة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق شروط الاتفاق في متاجر الأدوات والمعدات — 2026-11-13
+
+- الحالة: `in_progress`؛ جرى تخصيص شروط مقارنة العروض والاتفاق لكل خدمة من الخدمات السبع في [العربية](./equipment-rental/tools-equipment-stores/content-ar.md) و[الإنجليزية](./equipment-rental/tools-equipment-stores/content-en.md)، مع [مراجعة التخصص](./equipment-rental/tools-equipment-stores/review.md). أُعيدت قراءة ملفي المحتوى بعد الكتابة وتحقق تطابقهما.
+- **النواقص الدقيقة التالية:** تدقيق الخدمات السبع في `equipment-rental/aluminium-glass-factories` ثم `construction-lifting-equipment` و`light-tools-rental` و`property-moving` و`project-material-transport` و`concrete-block-factories` و`marble-stone-factories`، ثم خدمات تخصصات `cleaning-services` الثمانية؛ بعد ذلك جرد الخدمات الـ434 في كل لغة مقابل الشجرة الأصلية وفحص التفرد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

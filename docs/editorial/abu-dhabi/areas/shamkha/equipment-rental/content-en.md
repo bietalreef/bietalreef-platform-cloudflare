@@ -126,31 +126,31 @@ Contractor stone orders need a controlled piece register linking every panel to 
 
 ### 29. Hand tools retail
 
-Specify wrench or driver sizes, application and usage frequency rather than brand alone. Compare grip, durability and warranty; inspect dimensions and safe edges.
+Before ordering hand tools, identify the work: plumbing fittings, furniture assembly, measuring or cutting. Provide nut sizes, screw-head types and photographs of confined spaces so handle length, jaw geometry and required torque can be assessed. Request material and grip specifications; an ordinary plastic handle must not be assumed to provide electrical insulation. Compare quotations by size, kit contents, replacement parts, warranty and returns. On receipt inspect jaw alignment, marked dimensions, corrosion and cracks, then try the tool on a test piece without overloading it.
 
 ### 30. Power tools retail
 
-Set drilling or cutting duties, material thickness, power supply and guards. Compare motor capacity, attachments, batteries and service parts; perform a no-load check.
+Choose a drill, grinder or powered saw from the material, thickness and expected duty cycle rather than wattage alone. Specify hole diameter or cutting depth, mains supply or battery needs, and show the work location to assess dust extraction and access attachments. Compare speed control, guards, consumables, batteries, charger, servicing and replacement parts. Confirm cutting discs are rated for the material and operating speed. At handover check model numbers, accessories and warranty, inspect cords or batteries and safety devices, and perform a safe no-load test before work begins.
 
 ### 31. Safety equipment retail
 
-Identify the actual hazard—fall, splash, dust or noise—before ordering protection. Compare suitability, fit and expiry dates; inspect undamaged gear and use instructions.
+Safety equipment procurement starts with the actual hazard: work at height, flying particles, noise, chemicals or moving vehicles. Describe exposure duration and wearer sizes, and request product instructions and protection limits rather than choosing from a photograph. Compare fit and compatibility between helmets, eye and hearing protection, gloves and fall-protection components, checking manufacture or expiry dates where relevant. Inspect markings, packaging, straps, buckles and sizing at receipt. Reject damaged or unsuitable items and obtain competent safety advice for fall-arrest systems.
 
 ### 32. Workshop equipment retail
 
-Specify machine dimensions, energy supply, ventilation and surrounding clearance. Compare warranty, maintenance and spares plus installation; verify safe operation.
+For workshop machinery, specify production processes, maximum workpiece dimensions, operating hours and the intended floor layout. A table saw, press and compressor have different electrical, ventilation, extraction, noise and maintenance-clearance needs. Request machine dimensions, mass, anchoring details and accessory specifications. Compare supply, installation, operator training, spare parts, warranty and servicing as separate quotation items. At acceptance verify model and accessories, emergency stops and guards, witness a controlled trial with suitable material, and record defects and training provided.
 
 ### 33. Cleaning equipment retail
 
-Describe soil type, coverage, water/power and extraction/drying needs. Compare production rate, accessories and consumables; inspect tanks and moving parts.
+Before purchasing a floor scrubber, wet-and-dry vacuum or pressure washer, describe floor area, finish, soil type and sensitivity to moisture. Measure door widths and storage space, and establish water, power, drainage and drying requirements. Compare tank capacity, battery runtime, coverage rate, brushes, filters, approved detergents, consumables and replacement-part costs. At receipt inspect hoses, seals and tanks for leaks, demonstrate cleaning on a small unobtrusive area without damaging the finish, and obtain maintenance and filter-cleaning instructions.
 
 ### 34. Spare parts retail
 
-Provide equipment and part numbers with fault photographs rather than a vague description. Compare fit, warranty and return terms; inspect codes and dimensions before fitting.
+For replacement parts, provide the equipment nameplate, model and serial numbers, the old part number if available, and photographs of the installation and symptoms. Confirm revision, connection dimensions, voltage, pressure or duty rating as relevant. Compare genuine parts with alternatives explicitly verified as compatible, including warranty and returns; visual similarity alone does not prove interchangeability. On receipt check codes, dimensions, packaging and seals. Have safety-critical parts fitted by a qualified technician and document the subsequent functional test.
 
 ### 35. Equipment servicing
 
-Log symptoms, hours run, previous maintenance and transport arrangements. Compare diagnosis, parts, labour and safety tests; accept a service report and functional check.
+Equipment maintenance begins with a fault log: symptoms, operating conditions, hours run, previous repairs, nameplate and photographs of leaks or abnormal wear. Ask the supplier to distinguish diagnosis from repair, stating inspection, parts, labour, transport and whether work occurs on site or in a workshop. Qualified technicians should isolate energy and inspect moving and electrical parts; do not restart a damaged machine merely to reproduce a fault. At handover request replaced-part records, test results, outstanding issues and warranty terms, then witness agreed functions under a safe controlled load.
 
 ## Household and commercial removals
 

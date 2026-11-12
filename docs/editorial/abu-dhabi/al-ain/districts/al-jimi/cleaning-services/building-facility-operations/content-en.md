@@ -54,6 +54,8 @@ Guidance for company and establishment services, not a claim of provider availab
 
 **Compare quotes and agree terms:** Compare personnel competence, isolation permits, test scope and risk reporting; name who may authorise power shutdown.
 
+**Specific safety precaution:** If there is a burning smell, arcing or abnormal heat, occupants and management staff should not open boards or repeatedly reset breakers. Restrict access and arrange assessment by a qualified electrician under site procedures. Live measurements and work inside panels are not tasks for unauthorised monitoring staff.
+
 **Acceptance:** Require dated panel identifiers, readings, risk levels and corrective actions; a monitoring report is not a blanket electrical safety certificate.
 
 **Service-specific quotation request:** State panel and test-point counts and permitted shutdown windows; ask for separate costs for monitoring reports and specialist testing.
@@ -81,6 +83,8 @@ Guidance for company and establishment services, not a claim of provider availab
 **Scope and exclusions:** Include visual leak and drain checks plus evidence logs; wall opening, specialist leak detection and repairs are not automatically included.
 
 **Compare quotes and agree terms:** Compare active-leak escalation, access to occupied units and authority to isolate water; agree resident coordination.
+
+**Active-leak precaution:** Record the affected area and whether moisture is near electrical equipment or a damaged ceiling. Do not re-energise affected circuits or open ceilings without specialist assessment. Assign authority for water isolation and occupant notification before intrusive investigation.
 
 **Acceptance:** Inspect timestamps, temporary containment and technical recommendations, and distinguish resolved causes from outstanding investigations.
 

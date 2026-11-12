@@ -873,3 +873,8 @@
 ## تدقيق تعقيم المكاتب والمنشآت — 2026-11-12
 - الحالة `in_progress`؛ أُضيفت احتياطات تشغيلية خاصة بخدمة **تعقيم المكاتب والمنشآت** في [العربية](./cleaning-services/disinfection-sanitisation/content-ar.md) و[الإنجليزية](./cleaning-services/disinfection-sanitisation/content-en.md): حماية الأجهزة والطعام، زمن التلامس، تقييد الضباب بحسب ملصق المنتج، وعزل مناطق العمل وإعادة الإشغال. [المراجعة](./cleaning-services/disinfection-sanitisation/review.md).
 - **النواقص الدقيقة التالية:** تدقيق `cleaning-services/building-facility-operations` و`workforce-operations` و`homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control` خدمة بخدمة؛ ثم تدقيق `equipment-rental` بتخصصاته الثمانية؛ ثم مطابقة أسماء وعدد جميع تخصصات الشركات الخمسين وخدماتها الـ434 في كل لغة حرفيًا مع الشجرة وفحص التفرّد والسلامة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق حدود عمالة الدعم للمشاريع — 2026-11-12
+
+- الحالة `in_progress`؛ في [خدمات العمالة والتشغيل](./cleaning-services/workforce-operations/review.md) صُحح شرط تشغيل المعدات في خدمة **خدمات الدعم للمشاريع** باللغتين؛ لا يكفي الاتفاق التعاقدي لتشغيل معدات مقيدة، بل يلزم نطاق مستقل والتحقق من المؤهلات والتراخيص والتصاريح. أعيدت قراءة ملفي المحتوى بعد التحديث.
+- **النواقص التالية:** تدقيق بقية فقرات `cleaning-services/workforce-operations` ثم `homes-buildings-cleaning` و`upholstery-cleaning` و`tanks-pools-cleaning` و`facades-site-cleaning` و`pest-rodent-control` و`building-facility-operations` و`disinfection-sanitisation`؛ ثم مراجعة تخصصات `equipment-rental` الثمانية، ومطابقة جميع خدمات الشركات الـ434 وتخصصاتها الخمسين بالعربية والإنجليزية مع الشجرة، وتدقيق الجودة والتصنيفات قبل اعتماد الجيمي أو بدء المويجعي.

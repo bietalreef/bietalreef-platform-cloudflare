@@ -351,7 +351,9 @@
       "name_en": "Al Wathba",
       "kind": "district",
       "status": "in_progress",
-      "completed_sectors": [],
+      "completed_sectors": [
+        "general-contracting"
+      ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-en.md",
@@ -359,20 +361,18 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "42/434 independently authored in AR and EN; contracting 42/56. 392 area services remain. Read-back verified 42 sequential headings per language; human review pending.",
+      "review_note": "General contracting 56/56 AR and EN service explanations verified from GitHub; 6 specialties. Seven other sectors remain. Human review pending.",
       "editorial_progress": {
-        "sector": "general-contracting",
-        "specialty": "تنسيق الحدائق وصيانتها",
-        "last_completed_service_number": 42,
-        "last_completed_service_name": "عقود صيانة الحدائق",
-        "next_service_number": 43,
-        "next_service_name": "تصميم شبكات الري",
-        "sector_total": 56,
-        "sector_independently_rewritten": 42,
-        "remaining_in_sector": 14,
+        "sector": "interior-design",
+        "specialty": "التصميم المعماري والمخططات",
+        "last_completed_sector": "general-contracting",
+        "last_completed_service_number": 56,
+        "last_completed_service_name": "تنفيذ الشلالات والنوافير",
+        "next_service_number": 1,
+        "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 42,
-        "remaining_area_services_for_originality_review": 392,
+        "area_independently_rewritten": 56,
+        "remaining_area_services_for_originality_review": 378,
         "area_editorially_approved": false
       }
     },

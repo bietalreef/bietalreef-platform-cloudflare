@@ -895,3 +895,9 @@
 - استُكملت إضافات مخصصة لفحص السلامة والاستلام لكل الخدمات السبع في `equipment-rental/construction-lifting-equipment/content-ar.md` و`content-en.md` مع الحفاظ على أسماء الخدمات وترتيبها. راجع `equipment-rental/construction-lifting-equipment/review.md`.
 - تحقق الرفع: أعيد جلب ملفي اللغة من GitHub وتطابقا مع النص المحفوظ.
 - **نقطة الاستئناف:** راجع بالتتابع `equipment-rental/light-tools-rental/` ثم `equipment-rental/aluminium-glass-factories/` ثم `equipment-rental/marble-stone-factories/` ثم `equipment-rental/tools-equipment-stores/` ثم `equipment-rental/property-moving/` ثم `equipment-rental/project-material-transport/` ثم `equipment-rental/concrete-factories/`، مع فحص كل خدمة بالعربية والإنجليزية؛ ثم راجع تخصصات `cleaning-services/` الثمانية، وأكمل التدقيق التحريري لبقية القطاعات الثمانية ومطابقة 434 خدمة بكل لغة.
+
+## استكمال إضافي — 2026-11-12: تأجير الأدوات والمعدات الخفيفة
+
+- أضيفت مراجعات فنية مستقلة للخدمات السبع في `equipment-rental/light-tools-rental/content-ar.md` و`content-en.md`، وتحقق تطابقهما بعد الرفع.
+- تم تحديث `equipment-rental/light-tools-rental/review.md`؛ لا تغيير في أسماء الخدمات أو تصنيفات التخصصات.
+- **حالة المنطقة:** `in_progress`. نقطة الاستئناف التالية `equipment-rental/aluminium-glass-factories/` ثم بقية تخصصات المعدات الخمسة، ثم التنظيف والثمانية قطاعات وفحص التكرار عبر 434 خدمة في كل لغة.

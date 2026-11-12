@@ -829,3 +829,10 @@
 - الحالة `in_progress`؛ صُححت بنود التسليم في [تنظيف الخزانات والمسابح بالعربية](./cleaning-services/tanks-pools-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/tanks-pools-cleaning/content-en.md)، وأُضيف سجل [المراجعة](./cleaning-services/tanks-pools-cleaning/review.md). تحقق إعادة القراءة من تطابق الملفات الثلاثة بعد الرفع.
 - تنظيف الخزانات: توثيق الصور بعد إزالة الرواسب وتوقيت إعادة التغذية وعدم الخلط بين سجل التنظيف وشهادة صلاحية مياه الشرب. تنظيف المسابح: توثيق السلال والغسيل العكسي المشمول والاختبارات، وعدم اعتماد صفاء الماء وحده للسماح بالسباحة.
 - **أول نواقص دقيقة تالية:** فحص فقرات `cleaning-services/building-facility-operations` ثم `workforce-operations` ثم `homes-buildings-cleaning` ثم `upholstery-cleaning` ثم `disinfection-sanitisation` ثم `facades-site-cleaning` ثم `pest-rodent-control`، ثم إعادة تدقيق `equipment-rental` بتخصصاته الثمانية. يلزم جرد ومطابقة جميع تخصصات الشركات الخمسين وخدماتها الـ434 بالعربية والإنجليزية مع الشجرة الأصلية، والتفرد والسلامة والتصنيفات المقيدة والمقترحة، قبل اعتماد الجيمي أو بدء المويجعي.
+
+## استكمال مدخلات طلب الأسعار لتنظيف المفروشات — 2026-11-12
+
+- الحالة العامة: `in_progress`؛ الجيمي لم تُعتمد مكتملة ولا يبدأ المويجعي.
+- أُضيفت فقرة تجهيز طلب عرض سعر مخصصة لكل خدمة من خدمات تنظيف المفروشات السبع بالعربية والإنجليزية، بدل الاكتفاء بطلب عام واحد: الكنب بالبخار، السجاد، الموكيت، المجالس العربية، المراتب، الستائر، وتعقيم المفروشات. [العربية](./cleaning-services/upholstery-cleaning/content-ar.md) · [English](./cleaning-services/upholstery-cleaning/content-en.md) · [المراجعة](./cleaning-services/upholstery-cleaning/review.md).
+- تحقق بعد الرفع: سبعة عناوين خدمات وسبع فقرات طلب سعر مخصصة في كل لغة، وتطابق الملفين مع النصوص المحفوظة.
+- **أول نقص تالٍ:** فحص تفصيلي لـ`cleaning-services/building-facility-operations` ثم `workforce-operations` ثم `homes-buildings-cleaning` ثم `disinfection-sanitisation` ثم `facades-site-cleaning` ثم `pest-rodent-control`؛ إعادة تدقيق تخصصات `equipment-rental` الثمانية؛ ثم مطابقة تخصصات الشركات الخمسين والخدمات الـ434 في كل لغة مع الشجرة الأصلية، وفحص التفرد والسلامة والتصنيفات المقيدة والمقترحة. لا يكفي عدد الملفات لاعتماد المنطقة.

@@ -960,3 +960,8 @@
 
 - الحالة `in_progress`؛ نُقلت فقرة سجل تسليم كل معدة والملحقات والأعطال من بعد طلب السعر العام إلى داخل الخدمة السابعة في [العربية](./equipment-rental/construction-lifting-equipment/content-ar.md) و[الإنجليزية](./equipment-rental/construction-lifting-equipment/content-en.md)، مع تحديث [مراجعة التخصص](./equipment-rental/construction-lifting-equipment/review.md). تحققت إعادة القراءة من تطابق الملفات الثلاثة.
 - **النواقص الدقيقة التالية:** تدقيق مواضع الفقرات وتفرد فحوص الخدمات السبع في `equipment-rental/light-tools-rental` ثم `property-moving` و`project-material-transport` و`concrete-block-factories` و`marble-stone-factories`؛ ومراجعة `cleaning-services` بتخصصاته الثمانية خدمة بخدمة؛ ثم جرد ومطابقة تخصصات الشركات الخمسين والخدمات الـ434 في كل لغة مع المصدر وتدقيق السلامة والتصنيفات. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## تدقيق إضافي لسلامة مكافحة القوارض — 2026-11-13
+
+- الحالة `in_progress`؛ أضيفت احتياطات تنظيف فضلات القوارض ومنع الكنس الجاف أو الشفط، مع تحديد عزل المنطقة ومسؤوليات التنظيف الرطب والتطهير وسد المنافذ، في [العربية](./cleaning-services/pest-rodent-control/content-ar.md) و[English](./cleaning-services/pest-rodent-control/content-en.md) و[مراجعة التخصص](./cleaning-services/pest-rodent-control/review.md). تمت إعادة قراءة الملفات الثلاثة والتحقق من تطابقها.
+- **النواقص الدقيقة التالية:** تدقيق بقية خدمات `cleaning-services/pest-rodent-control` الأربع (الصراصير والنمل وبق الفراش والعقود الدورية)، ثم `disinfection-sanitisation` و`building-facility-operations` و`workforce-operations` وبقية تخصصات التنظيف؛ ثم تدقيق خدمات المعدات الثمانية، والجرد النهائي لخمسين تخصصًا و434 خدمة في كل لغة مقابل الشجرة، والتفرد والسلامة وحالات التفعيل. لا يبدأ المويجعي.

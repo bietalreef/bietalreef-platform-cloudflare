@@ -90,6 +90,8 @@ Provide reference drawings or photographs with the dimensions, lighting location
 
 Handover means checking contractual completion, not simply receiving finished photographs. Assemble the quantity schedule, approved drawings, variation register and warranties. Request test records, inspection sheets and a record of installed materials. Compare the final payment application with completed work, log outstanding items and agree who closes them and when. Test drainage, doors, lighting and equipment, then confirm cleaning, keys and document delivery before signing.
 
+## Gypsum and decorative finishes
+
 ### 22. Gypsum ceiling installation
 
 Set the finished ceiling level and confirm space for ducts, cables and maintenance hatches before framing. Share room dimensions, lighting layouts and photographs of existing services. Request board type, metal framing, suspension spacing and joint treatment appropriate to the design. Compare whether light and AC openings, insulation, finishing and paint are included. Inspect levelness, corners, joints and continued access to concealed equipment.

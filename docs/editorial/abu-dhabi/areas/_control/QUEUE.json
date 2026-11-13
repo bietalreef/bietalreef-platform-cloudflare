@@ -356,7 +356,8 @@
         "interior-design",
         "general-maintenance",
         "building-materials",
-        "aluminium-glass"
+        "aluminium-glass",
+        "furniture-decor"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
@@ -374,24 +375,27 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/review.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/review.md"
+        "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Verified aluminium-glass 56/56 AR and EN across five specialties; Al Wathba 315/434 across five completed sectors, remaining 119. Human review pending.",
+      "review_note": "Al Wathba furniture-decor 4 specialties and 24 AR/EN service entries saved and re-fetched. Total 339/434, six sectors complete, remaining 95. Next equipment-rental service 1. Human review pending.",
       "editorial_progress": {
-        "sector": "furniture-decor",
-        "specialty": "تصنيع الأثاث",
-        "last_completed_sector": "aluminium-glass",
-        "last_completed_service_number": 56,
-        "last_completed_service_name": "صيانة الأعمال المعدنية",
+        "sector": "equipment-rental",
+        "specialty": "تأجير معدات البناء والرفع",
+        "last_completed_sector": "furniture-decor",
+        "last_completed_service_number": 24,
+        "last_completed_service_name": "توريد المراتب",
         "next_service_number": 1,
-        "sector_total": 24,
+        "sector_total": 53,
         "area_total": 434,
-        "area_independently_rewritten": 315,
-        "remaining_area_services_for_originality_review": 119,
+        "area_independently_rewritten": 339,
+        "remaining_area_services_for_originality_review": 95,
         "area_editorially_approved": false,
         "sector_independently_rewritten": 0,
-        "remaining_in_sector": 24
+        "remaining_in_sector": 53
       }
     },
     {

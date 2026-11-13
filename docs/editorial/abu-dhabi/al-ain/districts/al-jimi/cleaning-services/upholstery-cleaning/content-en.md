@@ -98,9 +98,9 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Acceptance inspection:** Request treatment records and aftercare instructions; reject unsupported effectiveness claims. Keep before-and-after photographs and a list of outstanding issues.
 
-## Prepare a request through Biet Al Reef
-
-Send customer support photographs, quantities, dimensions, material details, site restrictions and preferred dates. A request can be prepared even when no provider is listed. This does not guarantee a company, quotation amount or booking. Confirm relevant licensing and safe-work requirements before engaging a contractor.
 
 **Service-specific quotation request:** State item counts, textile types, the treatment purpose and occupant sensitivities; request the product's textile-use label, contact and ventilation times and application record without unsupported health promises.
 
+## Prepare a request through Biet Al Reef
+
+Send customer support photographs, quantities, dimensions, material details, site restrictions and preferred dates. A request can be prepared even when no provider is listed. This does not guarantee a company, quotation amount or booking. Confirm relevant licensing and safe-work requirements before engaging a contractor.

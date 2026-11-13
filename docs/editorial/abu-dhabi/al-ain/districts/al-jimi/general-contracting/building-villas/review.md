@@ -39,3 +39,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Updated four English service sections to reflect the Arabic practical guidance: villa road/plot levels and concrete access; shared residential plant and risers; hidden damage and structural-engineer review during villa restoration; and resident protection, exit access and shutdown notices during occupied-building renovation.
 - This is a targeted parity improvement, **not** full line-by-line certification of all 14 services. Remaining: verify every section's scope, evidence, quotation, contract and acceptance details in both languages; then audit the other 49 specialties and all 434 services before area completion.
+
+## Targeted parity audit — masonry, concrete and frame — 2026-11-13
+
+- Compared Arabic and English service sections 4–6. Expanded six English quotation/contract and acceptance paragraphs to explicitly address net wall quantities and opening deductions, lintel checks, concrete pour acceptance and curing records, temporary supports, pre-pour inspection hold points and service penetrations.
+- Original 14 service headings remain unchanged. This is a **partial** semantic review, not full certification; services 1–3 and 7–14 still require item-by-item comparison of scope, measurements, exclusions, quotations and handover, followed by technical and repetition review. Area remains `in_progress`.

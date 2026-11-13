@@ -60,6 +60,36 @@ Document damage with photographs and its history: cracks, dampness or failed fin
 
 State which units are included and whether residents remain in place; record the condition of entrances, lifts and corridors. Split the quote into electrical, plumbing, cooling, finishes and shared works, with resident protection and waste plans. Agree finish samples and a floor-by-floor programme. Handover requires service testing and closed snag lists for units and common areas.
 
+## Restoration and refurbishment
+
+### 15. Restoration of older buildings
+
+Document damaged concrete, plaster and services using photographs and available drawings. Distinguish worn finishes from structural deterioration; obtain a technical diagnosis before selecting repairs or strengthening. Compare investigation, protection, removal and testing scopes. At handover review inspection records and photographs of repaired locations.
+
+### 16. Villa refurbishment
+
+Define whether villa refurbishment covers kitchens, bathrooms, cooling, floors and façades, and whether occupants remain. Supply dimensions, existing service photographs and a materials schedule; request separate demolition, reinstatement and furniture protection allowances. Compare samples, programme and exclusions. Test waterproofing, drainage and electrical work before acceptance.
+
+### 17. Apartment refurbishment
+
+State apartment size, floor, delivery access and protection for shared lifts and corridors. Photograph rooms and identify items to retain. Separate removal, plumbing, electrical, painting and waste charges. At handover test doors, sockets and water points and record damage to common areas.
+
+### 18. Building rehabilitation
+
+Rehabilitation is more than cosmetic improvement and may address systems affecting safe use. Provide condition reports, drawings and available test results, identifying urgent defects. Compare staged work, supervision, testing and recommissioning. Do not accept until critical defects are closed and tests documented.
+
+### 19. Structural crack remediation
+
+Photograph each crack with location, direction, width and history, noting changes or accompanying leaks. Photographs alone cannot establish whether filler, injection or structural repair is appropriate; obtain competent diagnosis. Request inspection, monitoring, repair and verification methods. Acceptance relies on measurements and test records, not appearance alone.
+
+### 20. Façade refurbishment
+
+Identify façade height, area, cladding and locations of leakage or peeling. Require safe access and pedestrian protection, and correction of the underlying cause before recoating. Compare materials, joints, scaffolding and warranty scope. Inspect adhesion, uniformity and drainage around windows.
+
+### 21. Preparing a building for reuse
+
+Describe the intended new use and provide existing plans, power, cooling, drainage and access information. Structural, safety or permitting reviews may be needed; a service listing is not permission. Ask for a gap assessment and separate design, alteration and commissioning scopes. Verify systems and agreed design at handover.
+
 ## Preparing a quotation request
 
 Biet Alreef customer service can receive an enquiry even when no company listing is published. Include your name, contact number, area (Al Rahba), service, property type, dimensions or available drawings, site photos, preferred survey date and required materials or works. Send these details through the approved customer-service channel without assuming a price or contractor availability. Confirm project-specific permits and licensing with the competent authorities before work; a service listing is not an approval.

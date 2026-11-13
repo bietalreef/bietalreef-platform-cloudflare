@@ -1,6 +1,6 @@
 # Irrigation networks in Al Jimi — company service guide
 
-This category is **currently non-selectable**. Information is preparatory and does not establish supplier availability. Verify buried services and safety requirements before excavation or connections.
+This category is **currently non-selectable**. Information is preparatory and does not establish supplier availability. Verify buried services and safety requirements before excavation or connections. Where irrigation uses non-potable water or shares a supply connection, ask a qualified specialist to specify suitable backflow protection under the relevant authority requirements; never assume a direct connection to potable water is acceptable.
 
 ## 1. Irrigation network design
 

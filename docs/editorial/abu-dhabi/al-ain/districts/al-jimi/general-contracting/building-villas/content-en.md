@@ -12,7 +12,7 @@ A family planning a villa should settle bedroom count, majlis access, parking an
 
 **Inspection and acceptance:** Before closing foundations or walls, request consultant inspections; at handover check entrance levels, room dimensions, water ingress and a documented defects list.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Request a villa-specific bill of quantities, including soil-dependent foundations, utilities, majlis and parking interfaces, and a schedule of consultant inspections.
 
 ## 2. Residential building construction
 
@@ -24,7 +24,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 **Inspection and acceptance:** Inspect communal plant and service shafts, lift and safety-system commissioning records, apartment interfaces and the defects register for shared spaces.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Ask bidders to price apartment units separately from lifts, stairwells, parking, common MEP systems and authority testing, identifying tenant-fit-out exclusions.
 
 ## 3. Commercial building construction
 
@@ -36,7 +36,7 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 **Inspection and acceptance:** Verify agreed clearances, delivery routes, exit arrangements and shell-and-core connection points against the approved drawings and inspection records.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Provide intended tenant uses and request separate shell-and-core, loading-bay, fire-system interface and future fit-out allowances.
 
 ## 4. General building works
 
@@ -48,7 +48,7 @@ Masonry work can look straightforward but misaligned openings or poorly coordina
 
 **Inspection and acceptance:** Check wall plumb, level, joint consistency and opening sizes before plaster conceals the work.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Request measured wall quantities with deductions for openings, stated block specifications, scaffolding, lintels, service chases and waste handling.
 
 ## 5. Concrete works
 
@@ -60,7 +60,7 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 **Inspection and acceptance:** Review reinforcement sign-off before casting, delivery tickets, sample-test results, curing records and any honeycombing remediation approved by the engineer.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Request a pour-by-pour breakdown of concrete grade, reinforcement, formwork, pumping, laboratory testing, curing and contingency for rejected loads.
 
 ## 6. Structural frame construction
 
@@ -72,7 +72,7 @@ The frame ties foundations, columns, beams and slabs together; errors at an earl
 
 **Inspection and acceptance:** Verify surveyed levels and positions, pre-pour reinforcement records, test results and documented acceptance of each structural stage.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Ask for a staged structural-frame offer identifying survey setting-out, temporary works, reinforcement checks, pour approvals and responsibility for design revisions.
 
 ## 7. Turnkey project delivery
 
@@ -84,7 +84,7 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 **Inspection and acceptance:** Walk through every room, operate installed systems, reconcile the snag list and collect manuals, test records and warranties before final settlement.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Attach a room-by-room completion schedule and ask bidders to itemise appliances, AC commissioning, utility activation, external works, warranties and handover documents.
 
 ## 8. New villa construction
 
@@ -96,7 +96,7 @@ A new villa allows early coordination of sunlight, privacy, circulation and futu
 
 **Inspection and acceptance:** Measure key rooms and openings against approved plans; inspect levels, drainage falls and finishes through agreed milestones.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Ask for alternatives covering insulation and shading, future extension provisions, privacy, outdoor drainage and owner-supplied finishes.
 
 ## 9. Residential annex construction
 
@@ -108,7 +108,7 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **Inspection and acceptance:** Inspect joints, water run-off, utility testing and safe separation or integration with the existing building.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Send annex footprint and service tie-in photos; request separate investigation, permits, foundations, drainage connections and reinstatement allowances.
 
 ## 10. Outdoor majlis construction
 
@@ -120,7 +120,7 @@ A detached majlis needs comfortable guest circulation, private access, cooling a
 
 **Inspection and acceptance:** Check guest access, door operation, air-conditioning performance, drainage falls and water-tightness of exposed joints.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Specify guest capacity and majlis access; request separate prices for cooling, acoustic comfort, washrooms, external paving and fixed versus loose furniture.
 
 ## 11. Villa extensions
 
@@ -132,7 +132,7 @@ Adding a room or floor to an existing villa requires checking the old structure 
 
 **Inspection and acceptance:** Inspect the engineered connections, differential-movement details, waterproof junctions and reinstated services with the supervising consultant.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Request a structural assessment before pricing a fixed extension; separate investigation, approved strengthening, temporary support, new construction and restoration.
 
 ## 12. Residential building alterations
 
@@ -144,7 +144,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 **Inspection and acceptance:** Confirm approved opening dimensions, safe reinstatement of utilities, repaired fire or acoustic separations and clean common areas.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Attach marked existing and proposed plans; ask for separate rates for investigation, utility isolation, authorised demolition, new partitions and fire-stopping repairs.
 
 ## 13. Villa restoration
 
@@ -156,7 +156,7 @@ Restoration should address the cause of cracking or dampness, not merely cover i
 
 **Inspection and acceptance:** Check evidence that the source was treated, inspect repairs before concealment and document any agreed monitoring period.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Send dated crack or dampness photographs and request a diagnostic stage before repair pricing, with concealed-defect contingencies and monitoring responsibilities.
 
 ## 14. Residential building renovation
 
@@ -168,7 +168,7 @@ Renovating an occupied building requires careful sequencing so residents retain 
 
 **Inspection and acceptance:** Inspect concealed work before closing walls, verify service restoration, clear shared routes and record defects separately for each completed area.
 
-**Quote request:** Ask for a written, itemised scope based on the supplied drawings and photographs, with site-visit requirements, exclusions, milestones and variation approval identified.
+**Quote request:** Request a phased, occupied-building programme covering resident notices, safe access, service outages, dust barriers, waste routes and per-unit handover.
 
 ## Biet Al Reef enquiry support
 

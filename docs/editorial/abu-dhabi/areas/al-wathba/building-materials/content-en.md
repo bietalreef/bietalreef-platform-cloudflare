@@ -121,3 +121,33 @@ Prepare a schedule of hinges, runners, handles and cabinet locks, including door
 ### 28. Board cutting and preparation
 
 Provide a millimetre-based cutting schedule showing each piece, quantity, grain direction, saw-kerf allowance and edge-banding requirements. Agree tolerances, part labels and corner protection, and confirm whether drilling and edging are included. Measure sample pieces against the drawings and inspect cut quality and labels at collection.
+
+## Marble and granite
+
+### 29. Natural marble supply
+
+Approve a stone type and colour sample, slab thickness, cut sizes and vein direction, with access photographs for delivery. Clarify whether slab selection, cutting and transport protection are included. Inspect natural variation, cracks and any disclosed repairs, and record slab identifiers before acceptance.
+
+### 30. Granite supply
+
+Specify whether the stone is for floors, stairs or countertops, including thickness and finish such as polished or slip-resistant. Compare quotes using net area, cutting waste, openings and transport charges. Check batch consistency, edge quality and breakage before accepting the consignment.
+
+### 31. Marble cutting to size
+
+Supply a piece schedule with dimensions, openings, joints and vein direction, allowing for final site measurements and agreed tolerances. Request a slab layout before cutting to manage waste and colour variation. Receive numbered pieces and check dimensions, diagonals and finished edges.
+
+### 32. Marble grinding and polishing
+
+Provide floor area, stone type and close-up photographs of scratches and stains; request a small test patch before choosing a polishing process. Compare grinding stages, protection and final cleaning, without assuming deep stains can always be removed. Inspect finish consistency and any pitting or chemical marks.
+
+### 33. Marble floor installation
+
+Share room dimensions, door thresholds, movement joints and drain positions, and specify laying pattern, stone thickness and suitable bedding system. Require substrate and level checks before pricing. At handover check flatness, consistent joints, secure bedding and drainage falls where relevant.
+
+### 34. Marble wall and façade installation
+
+Provide wall heights, opening drawings, substrate details and exposure conditions, and require a qualified specialist to define the fixing method. Compare anchors, joint details, access and safety arrangements, not just the square-metre rate. Inspect alignment and documented fixings before they are concealed.
+
+### 35. Marble repair and treatment
+
+Photograph cracks, loose pieces or stains and determine whether the cause is superficial, moisture-related or substrate movement. Seek a diagnosis before filling, resetting or repolishing, and approve a repair colour sample. Check repaired sections for stability and acceptable appearance after cleaning.

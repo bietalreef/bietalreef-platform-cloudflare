@@ -78,7 +78,7 @@ The frame ties foundations, columns, beams and slabs together; errors at an earl
 
 A turnkey promise is only meaningful when the client and contractor agree exactly what is ready for use at handover.
 
-**What to document and measure:** Prepare a room-by-room finish schedule and specify kitchen appliances, air conditioning, lighting, sanitary fittings, external works and connection fees.
+**What to document and measure:** Prepare a room-by-room finish schedule with measured areas and sample references. Specify kitchen appliances, air conditioning, lighting, sanitary fittings, external works, connection fees and any owner-supplied equipment; record model numbers and commissioning requirements where known.
 
 **Compare quotations and agree boundaries:** Compare named material ranges, substitution approval, warranties, commissioning, cleaning and final documentation. Identify owner-supplied items and any permit or utility exclusions.
 
@@ -92,7 +92,7 @@ A new villa allows early coordination of sunlight, privacy, circulation and futu
 
 **What to document and measure:** Send the accommodation brief, site survey, preferred room relationships, parking needs and available approved plans; note possible future extensions.
 
-**Compare quotations and agree boundaries:** Separate design-development allowances from fixed construction quantities and clarify whether boundary works, external paving, pools and connections are included.
+**Compare quotations and agree boundaries:** Compare insulation and shading systems against stated performance specifications, and distinguish current works from future extension provisions. Separate design-development allowances from fixed construction quantities and clarify whether boundary works, external paving, pools and utility connections are included.
 
 **Inspection and acceptance:** Measure key rooms and openings against approved plans; inspect levels, drainage falls and finishes through agreed milestones.
 
@@ -104,7 +104,7 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **What to document and measure:** Show the proposed footprint, distance to the main house, existing utilities, boundary constraints and photographs of the proposed connection points.
 
-**Compare quotations and agree boundaries:** Compare standalone foundations versus any engineered connection, waterproofing, drainage tie-ins, air conditioning and reinstatement of affected paving. Confirm approvals before work.
+**Compare quotations and agree boundaries:** Compare independent foundations against a connection specifically designed and approved by the responsible engineer; do not assume the existing structure can carry new loads. Itemise waterproof junctions, drainage and electrical tie-ins, air conditioning, permits, excavation around buried services and reinstatement of affected paving.
 
 **Inspection and acceptance:** Inspect joints, water run-off, utility testing and safe separation or integration with the existing building.
 
@@ -116,7 +116,7 @@ A detached majlis needs comfortable guest circulation, private access, cooling a
 
 **What to document and measure:** Record guest capacity, entry route, seating layout, floor levels, outdoor exposure, AC needs and proposed sanitary connections.
 
-**Compare quotations and agree boundaries:** Compare shading and insulation, doors and glazing, drainage, kitchen or pantry provision, external paving and whether furniture is supplied.
+**Compare quotations and agree boundaries:** Compare shading, thermal and acoustic insulation, cooling capacity, doors and glazing, washroom drainage, pantry provision and external paving. Distinguish fixed joinery from loose furniture, and specify who tests the AC and drainage systems before handover.
 
 **Inspection and acceptance:** Check guest access, door operation, air-conditioning performance, drainage falls and water-tightness of exposed joints.
 
@@ -128,7 +128,7 @@ Adding a room or floor to an existing villa requires checking the old structure 
 
 **What to document and measure:** Provide as-built plans if available, photographs of columns and roof junctions, the intended extra area and an assessment by a qualified structural engineer.
 
-**Compare quotations and agree boundaries:** Ask for a separate price for investigation, temporary protection, strengthening if approved, new works and reinstatement. Never treat structural capacity as assumed.
+**Compare quotations and agree boundaries:** Request a qualified structural assessment and approved design before selecting the connection method. Compare investigation, temporary supports, any engineer-approved strengthening, new foundations or framing, waterproof joints, utility diversions and reinstatement as separate cost items; never assume the old structure has spare capacity.
 
 **Inspection and acceptance:** Inspect the engineered connections, differential-movement details, waterproof junctions and reinstated services with the supervising consultant.
 
@@ -140,7 +140,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 **What to document and measure:** Mark walls to remove or build on before-and-after plans; photograph ceilings, risers and any suspected load-bearing members.
 
-**Compare quotations and agree boundaries:** Compare investigation, isolation of utilities, controlled demolition, debris removal, new partitions and making good. Require engineered approval where structural work is involved.
+**Compare quotations and agree boundaries:** Separate intrusive investigation, identification and safe isolation of concealed services, approved demolition, debris routes, new partitions, fire-stopping and reinstatement. Confirm whether the building is occupied, how shared services will be protected and which structural alterations require a qualified engineer's design and authority approval.
 
 **Inspection and acceptance:** Confirm approved opening dimensions, safe reinstatement of utilities, repaired fire or acoustic separations and clean common areas.
 
@@ -152,7 +152,7 @@ Restoration should address the cause of cracking or dampness, not merely cover i
 
 **What to document and measure:** Photograph defects with dates and scale references, note previous repairs and leaks, and seek a specialist assessment for suspected structural distress.
 
-**Compare quotations and agree boundaries:** Compare diagnostic investigations, treatment method, compatible repair materials, affected finishes and monitoring requirements. Agree when concealed damage requires structural-engineer assessment and how repairs will be documented before covering. State what concealed damage is excluded pending opening up.
+**Compare quotations and agree boundaries:** Compare diagnostic investigations and moisture or crack monitoring with the proposed repair method, compatible materials, affected finishes and any post-repair observations. Require a qualified structural engineer to assess suspected structural distress; record photographs before concealment, and state which hidden defects remain provisional until opened and assessed.
 
 **Inspection and acceptance:** Check evidence that the source was treated, inspect repairs before concealment and document any agreed monitoring period.
 
@@ -164,7 +164,7 @@ Renovating an occupied building requires careful sequencing so residents retain 
 
 **What to document and measure:** List affected apartments and shared areas, access hours, service shutdowns, lift protection and waste routes; provide photos and room schedules.
 
-**Compare quotations and agree boundaries:** Compare temporary barriers, dust control, resident notices, disposal, phased handovers and the treatment of unforeseen hidden defects. Agree shutdown notices with management, keep emergency exits clear of materials and establish a resident-complaint procedure.
+**Compare quotations and agree boundaries:** Compare phased work zones, dust and noise containment, temporary barriers, waste routes, resident notices and service-shutdown windows. Agree access and emergency-egress arrangements with building management, identify who responds to complaints and unexpected hidden defects, and set a separate handover checklist for each occupied unit.
 
 **Inspection and acceptance:** Inspect concealed work before closing walls, verify service restoration, clear shared routes and record defects separately for each completed area.
 

@@ -34,3 +34,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - نُقحت خمس فقرات عربية مكررة في خدمات إنشاء الفلل وإنشاء المباني السكنية وترميم الفلل وتجديد المباني السكنية؛ أضيفت تفاصيل مناسيب الأرض ودخول معدات الصب، وغرف الخدمات، ومسؤوليات فحوص الأنظمة، والتلف المخفي، وحماية السكان أثناء الأعمال.
 - أُعيد جلب `content-ar.md` من الفرع وتأكد تطابق النص المحفوظ. لا يُعد ذلك اعتمادًا للتكافؤ الإنجليزي أو تدقيق جميع الخدمات.
+
+## English–Arabic alignment improvements — 2026-11-13
+
+- Updated four English service sections to reflect the Arabic practical guidance: villa road/plot levels and concrete access; shared residential plant and risers; hidden damage and structural-engineer review during villa restoration; and resident protection, exit access and shutdown notices during occupied-building renovation.
+- This is a targeted parity improvement, **not** full line-by-line certification of all 14 services. Remaining: verify every section's scope, evidence, quotation, contract and acceptance details in both languages; then audit the other 49 specialties and all 434 services before area completion.

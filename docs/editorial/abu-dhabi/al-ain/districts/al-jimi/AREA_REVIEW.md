@@ -1072,3 +1072,8 @@
 - الحالة: `in_progress`؛ لا يبدأ المويجعي قبل اعتماد جميع القطاعات الثمانية للجيمي.
 - توسعت فقرات الاتفاق والمقارنة الإنجليزية للخدمات **7–14** في `general-contracting/building-villas/content-en.md` لتشمل حدود تسليم المفتاح، العزل والتظليل، ملحقات الفلل، المجالس، التوسعات، التعديلات، الترميم والتجديد أثناء الإشغال. [English](./general-contracting/building-villas/content-en.md) · [مراجعة التخصص](./general-contracting/building-villas/review.md). تحقق التطابق بعد الرفع؛ commit `59e2eb2d20098a19de51c563f806c456fce75a55`.
 - **أول نقص تالٍ:** مقارنة كل خدمة من 1 إلى 14 في `general-contracting/building-villas` مقارنة دلالية كاملة بين العربية والإنجليزية (النطاق والاستثناءات والقياسات والعروض والاتفاق والاستلام)، ثم مراجعة التفرد والسلامة؛ بعدها `general-contracting/renovation-restoration` وفق المسار الفعلي، ثم بقية تخصصات القطاعات الثمانية. وجود 434 عنوانًا في كل لغة لا يعني اعتماد الجودة.
+
+## متابعة إزالة التكرار العربي — 2026-11-14
+
+- **الحالة `in_progress`**؛ في `general-contracting/building-villas/content-ar.md` أعيد تحرير سبع فقرات لخدمات تسليم المفتاح والفلل الجديدة والملاحق والمجالس وترميم الفلل، مع إعادة قراءة الملف والتحقق من الحفظ (commit `f0cb5977933113466a83b2cdbc1373d67ca4b034`). [المحتوى العربي](./general-contracting/building-villas/content-ar.md) · [الإنجليزية](./general-contracting/building-villas/content-en.md) · [مراجعة التخصص](./general-contracting/building-villas/review.md).
+- **النقص التالي:** مقارنة خدمات إنشاء المباني والفلل الأربع عشرة بالعربية والإنجليزية بندًا بندًا، وتدقيق السلامة والتفرد؛ ثم `general-contracting/renovation-restoration` حسب مساره الفعلي وبقية التخصصات، مع الجرد الحرفي لـ392 خدمة غير معتمدة، ومراجعة 434 خدمة لكل لغة قبل الانتقال إلى المويجعي.

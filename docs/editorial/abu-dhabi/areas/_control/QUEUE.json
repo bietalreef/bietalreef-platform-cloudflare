@@ -368,21 +368,21 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Verified GitHub bilingual services 1–35 in general-maintenance; flooring and cladding 29–35 added, 140/434 total. Resume electricity and lighting service 36. No publication.",
+      "review_note": "GitHub verified 49/105 general-maintenance service headings in each language; electrical specialty 36–49 authored. Al Wathba 154/434 per language; remains in_progress, next plumbing service 50. Human review pending.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الكهرباء والإنارة",
+        "specialty": "السباكة وكشف التسربات",
         "last_completed_sector": "interior-design",
-        "last_completed_service_number": 35,
-        "last_completed_service_name": "إصلاح الأرضيات",
-        "next_service_number": 36,
+        "last_completed_service_number": 49,
+        "last_completed_service_name": "صيانة وحدات الإنارة",
+        "next_service_number": 50,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 140,
-        "remaining_area_services_for_originality_review": 294,
+        "area_independently_rewritten": 154,
+        "remaining_area_services_for_originality_review": 280,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 35,
-        "remaining_in_sector": 70
+        "sector_independently_rewritten": 49,
+        "remaining_in_sector": 56
       }
     },
     {

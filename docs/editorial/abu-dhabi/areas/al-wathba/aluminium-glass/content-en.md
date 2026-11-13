@@ -175,3 +175,35 @@ Clarify whether refurbishment means replacing fronts, changing hinges, reorganis
 ### 42. Kitchen hinge and hardware maintenance
 
 Photograph the failed hinges, drawer runners or handles and record unit counts, door type and approximate weight. Loose mounting screws or a distorted door may be the cause rather than a defective hinge, so inspect the fixing substrate before ordering parts. Compare compatible replacement hardware and warranties, then test each unit through its normal operating range.
+
+
+## Glass façades and glazing work
+
+### 43. Glass façade construction
+
+Start with the façade area, height, supporting structure and exposure to sun and wind. Survey the openings and have a qualified designer assess movement, drainage and fixing details rather than choosing glass colour alone. Request shop drawings specifying glazing build-up, framing, seals and responsibility for access equipment and lifting. At handover inspect joint alignment, edge condition, anchorage and the performance tests agreed in the contract.
+
+### 44. Toughened glass installation
+
+Identify whether the toughened glass is for a door, partition or fixed pane. Measure the finished opening and finalise holes, hinges and handle positions before processing: toughened glass cannot be cut or drilled after tempering. Require the designer to specify suitable thickness, glass type and edge treatment; the word 'tempered' alone does not establish compliance. Inspect edge condition, alignment and hardware operation.
+
+### 45. Shopfront construction
+
+For a shopfront quote provide opening width and height, entrance arrangement, signage and lighting positions, and any existing emergency exits. Coordinate glazing, frames, thresholds and locks with access and maintenance requirements; check relevant approvals without assuming they have been issued. Compare like-for-like offers including removal, making good and sealing, then test door operation and agreed water-resistance details.
+
+### 46. Glass door installation
+
+Specify whether the door is hinged, sliding or automatic, its clear passage width, travel direction and finished threshold. Obtain a schedule for glass type, pivots or track, handles, locks and closers, with safety and accessibility reviewed by the responsible specialist. Check clearances, balance, smooth travel and freedom from collision at handover.
+
+### 47. Glass partition construction
+
+Provide a partition layout with lengths, heights, door positions and connections to suspended ceilings and concealed services. Define privacy and acoustic requirements, glazing specification and support method before pricing; assign responsibility for making good floors and ceilings. Compare glass build-up, framing and fittings, then inspect stability, joints and door alignment.
+
+### 48. Glass balustrade installation
+
+A glass balustrade is fall protection, not just decoration. The responsible designer must establish guard height, design loads, suitable safety glazing and anchorage into the actual concrete or steel substrate. Request reviewed drawings and calculations where required; do not select glass thickness by guesswork. Inspect base fixings, protected edges and movement against the project acceptance criteria.
+
+### 49. Glass façade maintenance
+
+Photograph and locate the defect: broken pane, leakage, failed gasket or loose fixing, including height and access constraints. Secure any hazardous area and plan safe access before work. Replacement glazing may need to match the original façade system rather than accept a patch repair. Request a cause report, parts schedule and test plan, then verify secure glazing and sealed joints.
+

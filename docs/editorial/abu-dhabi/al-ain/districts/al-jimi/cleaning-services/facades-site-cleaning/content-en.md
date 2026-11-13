@@ -8,7 +8,7 @@ For properties in Al Jimi, Al Ain, specify the actual materials, access restrict
 
 **Site evidence and measurements:** Photograph elevations, access points, height, glazing coating and surrounding foot traffic.
 
-**Scope and exclusions:** Specify compatible detergents, water treatment and safe access; scratch repair and glazing replacement are excluded.
+**Scope and exclusions:** Use detergents compatible with the glass and its coating, with a trial patch and a site-approved access plan. Suspend work when wind or weather makes access equipment unsafe; rope access and anchor points require competent inspection and approval. Scratch repair and glazing replacement are excluded.
 
 **Quotation comparison and written agreement:** Compare access equipment, permits, pedestrian barriers and protection of parked cars. Record the access method for each elevation, equipment anchoring arrangements, protection of coated glazing and entrances, and the agreed detergent test before full cleaning.
 

@@ -61,3 +61,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Expanded service-specific English quotation/contract guidance for services **7–14**: turnkey finish schedules and commissioning; new-villa shading and future works; annex foundation and utility interfaces; outdoor majlis acoustic and cooling scope; villa-extension engineering and temporary support; residential alterations and fire-stopping; villa restoration and concealed-defect assessment; occupied-building renovation and emergency access.
 - The eight edits were read back from the target GitHub branch and matched the submitted text (commit `59e2eb2d20098a19de51c563f806c456fce75a55`). All fourteen original service headings were retained.
 - **Not approved:** service-by-service Arabic/English semantic parity, originality and safety still require independent final review; review the other 49 specialties and all 434 services before marking Al Jimi complete.
+
+## إزالة التكرار العربي في الخدمات 7–13 — 2026-11-14
+
+- حُررت سبع فقرات متكررة في الخدمات 7 و8 و9 و10 و13: نطاق تسليم المفتاح وجدول تشطيباته، توجيه الفيلا الجديدة ورفع الأرض، حدود تأسيس الملحق، نطاق المجلس الخارجي، وتشخيص شروخ الفيلا ورطوبتها. أُعيدت قراءة `content-ar.md` من الفرع والتحقق من تطابقه (commit `f0cb5977933113466a83b2cdbc1373d67ca4b034`).
+- لا يعني ذلك اعتماد التكافؤ الدلالي أو السلامة لجميع الخدمات؛ يلزم تدقيق الخدمات 1–14 بندًا بندًا، ثم تدقيق بقية التخصصات، ومراجعة 434 خدمة في كل لغة.

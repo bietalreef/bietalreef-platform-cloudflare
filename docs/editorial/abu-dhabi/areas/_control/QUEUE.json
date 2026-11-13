@@ -368,21 +368,21 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Verified 28/105 maintenance services in each language, numbers 1-28 sequential, with general maintenance, integrated finishing and gypsum specialties. Total 133/434; resume flooring service 29. Human review pending.",
+      "review_note": "Verified GitHub bilingual services 1–35 in general-maintenance; flooring and cladding 29–35 added, 140/434 total. Resume electricity and lighting service 36. No publication.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الأرضيات والكسوات",
+        "specialty": "الكهرباء والإنارة",
         "last_completed_sector": "interior-design",
-        "last_completed_service_number": 28,
-        "last_completed_service_name": "صيانة وإصلاح الجبس",
-        "next_service_number": 29,
+        "last_completed_service_number": 35,
+        "last_completed_service_name": "إصلاح الأرضيات",
+        "next_service_number": 36,
         "sector_total": 105,
         "area_total": 434,
-        "area_independently_rewritten": 133,
-        "remaining_area_services_for_originality_review": 301,
+        "area_independently_rewritten": 140,
+        "remaining_area_services_for_originality_review": 294,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 28,
-        "remaining_in_sector": 77
+        "sector_independently_rewritten": 35,
+        "remaining_in_sector": 70
       }
     },
     {

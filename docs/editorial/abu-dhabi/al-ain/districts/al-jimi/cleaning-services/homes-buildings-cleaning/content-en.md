@@ -12,6 +12,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Agreement and exclusions:** Agree room sequence, marble/timber protection, heavy-furniture exclusions and a process for reporting missed areas.
 
+**Scope and safety:** Distinguish glazing reachable from the floor from panes requiring specialist access equipment. Ask for a discreet compatibility test before applying cleaners to natural stone or finished timber; elevated glazing is not routine crew work.
+
 **Acceptance checks:** Inspect corners, behind doors, kitchen surfaces, bathrooms and stairs in good light before sign-off.
 
 **Quotation inputs:** Give villa area, floors, majlis rooms, marble/timber/glass finishes and outdoor zones; ask for indoor cleaning, high glazing and deep-clean extras to be itemised.
@@ -25,6 +27,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Comparing quotes:** Compare inside-cupboard, appliance, balcony and window coverage, visit count and surface-compatible products.
 
 **Agreement and exclusions:** Set rules for personal belongings, keys, parking, floor protection and handover time.
+
+**Scope and safety:** Agree which appliances may be safely disconnected before cleaning accessible parts; opening electrical enclosures or dismantling appliances is excluded. Photograph pre-existing stains and damage before work.
 
 **Acceptance checks:** Check extractor surfaces, edges, glazing and bathroom floors; confirm agreed items are returned to place.
 
@@ -40,6 +44,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Agreement and exclusions:** Define authorised areas, document privacy, chemical storage, damage reporting and after-hours access.
 
+**Scope and safety:** Do not spray liquids directly onto screens, sockets or control panels. Assign responsibility for confidential-paper bins and clarify that secure document destruction is not automatically included.
+
 **Acceptance checks:** Check desks, floors, touchpoints, toilets and attendance logs without disturbing staff files.
 
 **Quotation inputs:** List desks, workstations, access hours, confidentiality rules and visit frequency; ask for consumables, waste removal and after-hours work as separate items.
@@ -53,6 +59,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Comparing quotes:** Compare sweeping and washing frequency, lift controls, handles, bins and supply of consumables.
 
 **Agreement and exclusions:** Agree wet-floor signs, peak-hour scheduling and exclusion of locked technical rooms.
+
+**Scope and safety:** Separate pedestrians from wet-floor zones and place warnings at entrances and lifts. Electrical rooms, pits and confined spaces are outside ordinary corridor cleaning.
 
 **Acceptance checks:** Inspect entrances, stair edges, lift corners and bins against visit logs; note inaccessible areas.
 
@@ -68,6 +76,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Agreement and exclusions:** Schedule after trades finish and assign responsibility for re-soiling caused by later contractors. Require containment and suitable fine-dust extraction and filtration for cutting or sanding residues rather than dry sweeping or blowing dust into occupied areas. Heavy construction debris and hazardous-material removal are excluded unless separately arranged with a qualified contractor.
 
+**Scope and safety:** Do not use metal scrapers on glass or coated finishes without manufacturer-approved methods; photograph pre-existing scratches before removing protective films or cement residue.
+
 **Acceptance checks:** Inspect lit surfaces, tile edges, window frames and accessible visible vents without dismantling equipment.
 
 **Quotation inputs:** Share the trades' completion date, fine-dust, paint and adhesive photos and finish types; request staged cleaning and waste pricing with clear re-clean liability.
@@ -82,6 +92,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 
 **Agreement and exclusions:** Specify safe products for new flooring, no incompatible chemical mixing and clear access before movers arrive.
 
+**Scope and safety:** Verify that floors and cupboards are dry before furniture arrives and allow appropriate ventilation after cleaning. Visible mould or persistent damp needs investigation of its cause, not a routine-cleaning promise.
+
 **Acceptance checks:** Check drawers, shelves, bathrooms and floors and confirm dry surfaces before placing furniture or rugs.
 
 **Quotation inputs:** Specify furniture arrival, key handover, cupboard interiors and new appliances; request cleaning/drying completion times and confirmation that drawers are included.
@@ -95,6 +107,8 @@ Preparatory company-service guidance. Cleaning scope depends on use and property
 **Comparing quotes:** Compare visits, labour hours, tasks per visit, absence cover, consumables and periodic deep-clean tasks.
 
 **Agreement and exclusions:** Agree a reviewable schedule, quality checks, attendance logs, complaint response and emergency exclusions.
+
+**Scope and safety:** Make visit logs distinguish daily tasks from periodic stain treatment, and assign spill reporting and temporary area protection. Hazardous-material response is not included in routine attendance.
 
 **Acceptance checks:** Review checklists and attendance monthly and inspect sampled areas rather than relying on logged hours alone.
 

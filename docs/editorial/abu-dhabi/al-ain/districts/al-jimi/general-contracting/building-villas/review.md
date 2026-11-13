@@ -49,3 +49,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Split the final quotation-request instruction from the acceptance-check paragraph for all 14 Arabic services; each now has an explicit **طلب عرض السعر** subsection. Re-read `content-ar.md` from the target branch and verified 14 such labels.
 - This is a structural clarity improvement, not a final bilingual semantic or technical approval. Services 1–3 and 7–14 still need full parity checks; the remaining specialties need editorial review.
+
+## Targeted bilingual review — 2026-11-14 (follow-up)
+
+- Compared Arabic and English services 1–3 (villa, residential building and commercial building construction) for scope, contract responsibility, authority checks and inspection stages. Expanded three English quotation/contract paragraphs to cover supplier and permit responsibilities, common-service conflicts before closure, and tenant connection-point testing. Read back the updated English file from the target GitHub branch.
+- Fixed missing whitespace after the Arabic quotation-request label in all 14 services; read back and verified all 14 labels.
+- **Still pending:** detailed parity and safety review for services 7–14, full uniqueness and technical audit for 1–14, and remaining specialties. These targeted edits do not certify the area as complete.

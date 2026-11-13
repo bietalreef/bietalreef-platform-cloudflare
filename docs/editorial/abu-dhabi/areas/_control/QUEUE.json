@@ -355,7 +355,8 @@
         "general-contracting",
         "interior-design",
         "general-maintenance",
-        "building-materials"
+        "building-materials",
+        "aluminium-glass"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
@@ -376,21 +377,21 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Al Wathba: 301/434 AR and EN; aluminium-glass 42/56 verified by re-fetch; next glass facades service 43; in_progress, no publication.",
+      "review_note": "Verified aluminium-glass 56/56 AR and EN across five specialties; Al Wathba 315/434 across five completed sectors, remaining 119. Human review pending.",
       "editorial_progress": {
-        "sector": "aluminium-glass",
-        "specialty": "الواجهات والأعمال الزجاجية",
-        "last_completed_sector": "building-materials",
-        "last_completed_service_number": 42,
-        "last_completed_service_name": "صيانة مفصلات وإكسسوارات المطابخ",
-        "next_service_number": 43,
-        "sector_total": 56,
+        "sector": "furniture-decor",
+        "specialty": "تصنيع الأثاث",
+        "last_completed_sector": "aluminium-glass",
+        "last_completed_service_number": 56,
+        "last_completed_service_name": "صيانة الأعمال المعدنية",
+        "next_service_number": 1,
+        "sector_total": 24,
         "area_total": 434,
-        "area_independently_rewritten": 301,
-        "remaining_area_services_for_originality_review": 133,
+        "area_independently_rewritten": 315,
+        "remaining_area_services_for_originality_review": 119,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 42,
-        "remaining_in_sector": 14
+        "sector_independently_rewritten": 0,
+        "remaining_in_sector": 24
       }
     },
     {

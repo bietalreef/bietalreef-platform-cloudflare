@@ -44,9 +44,9 @@ Masonry work can look straightforward but misaligned openings or poorly coordina
 
 **What to document and measure:** Mark block types, wall lengths and heights, door/window opening dimensions, lintels, wall ties and service penetrations on drawings; photograph the workface.
 
-**Compare quotations and agree boundaries:** Compare whether scaffolding, mortar, lintels, waste removal and making good around services are included. Specify how measured quantities and variations will be certified.
+**Compare quotations and agree boundaries:** Compare net measured wall area after deducting agreed openings, block thickness and type, mortar, local reinforcement, lintels, scaffolding, transport, waste removal and making good around services. Record the measurement and variation-approval method in the contract.
 
-**Inspection and acceptance:** Check wall plumb, level, joint consistency and opening sizes before plaster conceals the work.
+**Inspection and acceptance:** Before plastering, check wall plumb, course alignment, door and window opening dimensions and lintel positions against the drawings; document corrections before the work is concealed.
 
 **Quote request:** Request measured wall quantities with deductions for openings, stated block specifications, scaffolding, lintels, service chases and waste handling.
 
@@ -56,9 +56,9 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 **What to document and measure:** Provide structural drawings, element volumes, reinforcement schedules, formwork details, access photos and the consultant's concrete specification.
 
-**Compare quotations and agree boundaries:** Ask whether pumping, formwork, reinforcement fixing, testing, curing, night pours and rejected loads are included. Agree pour notices and inspection hold points.
+**Compare quotations and agree boundaries:** Price concrete supply, reinforcement fixing, formwork, pumping, sampling and laboratory testing, curing, night pours and rejected loads separately. Record responsibility for delays, mix rejection and pre-pour reinforcement approval.
 
-**Inspection and acceptance:** Review reinforcement sign-off before casting, delivery tickets, sample-test results, curing records and any honeycombing remediation approved by the engineer.
+**Inspection and acceptance:** Review reinforcement sign-off before casting, delivery tickets, sample-test results, planned construction joints, curing and formwork-striking records. Have any honeycombing remediation assessed and approved by the responsible engineer.
 
 **Quote request:** Request a pour-by-pour breakdown of concrete grade, reinforcement, formwork, pumping, laboratory testing, curing and contingency for rejected loads.
 
@@ -68,9 +68,9 @@ The frame ties foundations, columns, beams and slabs together; errors at an earl
 
 **What to document and measure:** Provide structural drawings and revisions, soil information, setting-out references and the proposed floor-by-floor sequence.
 
-**Compare quotations and agree boundaries:** Compare responsibility for temporary supports, shuttering, reinforcement, concrete supply, survey checks and consultant inspections. Identify who pays for redesigns or delayed approvals.
+**Compare quotations and agree boundaries:** Compare reinforcement, formwork, concrete, scaffolding, temporary supports, survey setting-out and consultant inspections separately. Record pre-pour inspection hold points for every stage, service-penetration coordination and who bears redesign or approval delays.
 
-**Inspection and acceptance:** Verify surveyed levels and positions, pre-pour reinforcement records, test results and documented acceptance of each structural stage.
+**Inspection and acceptance:** Verify surveyed levels and positions, pre-pour reinforcement and cover checks, test results, temporary-support sign-off and documented acceptance of each structural stage before concealed work proceeds.
 
 **Quote request:** Ask for a staged structural-frame offer identifying survey setting-out, temporary works, reinforcement checks, pour approvals and responsibility for design revisions.
 

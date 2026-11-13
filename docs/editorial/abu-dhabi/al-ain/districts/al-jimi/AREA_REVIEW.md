@@ -985,3 +985,8 @@
 
 - الحالة: `in_progress`. أضيفت سبع فقرات نطاق وسلامة مخصصة في كل لغة إلى [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) و[English](./cleaning-services/homes-buildings-cleaning/content-en.md)، ووُثقت في [المراجعة](./cleaning-services/homes-buildings-cleaning/review.md)؛ تمت إعادة قراءة الملفات المتغيرة والتحقق من النصوص.
 - **أول نقص تالٍ:** تدقيق `cleaning-services/upholstery-cleaning` ثم `facade-site-cleaning` ثم `tanks-pools-cleaning` وفق أسماء المجلدات الفعلية، وبقية تخصصات التنظيف الثمانية والمعدات الثمانية؛ وبعدها جرد 50 تخصصًا و434 خدمة في كل لغة ومطابقة الأسماء والتفرد والسلامة وحالات التفعيل. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## تصحيح ترتيب طلب سعر تعقيم المفروشات — 2026-11-13
+
+- الجيمي `in_progress`: نُقلت فقرة طلب السعر السابعة إلى داخل خدمة تعقيم المفروشات قبل قسم طلب السعر العام في [العربية](./cleaning-services/upholstery-cleaning/content-ar.md) و[الإنجليزية](./cleaning-services/upholstery-cleaning/content-en.md)، مع تحديث [المراجعة](./cleaning-services/upholstery-cleaning/review.md) والتحقق بإعادة القراءة.
+- **أول نقص تالٍ:** تدقيق `cleaning-services/facade-site-cleaning` ثم `tanks-pools-cleaning` حسب المسارات الفعلية، واستكمال بقية تخصصات التنظيف والمعدات؛ المطابقة النهائية لـ50 تخصصًا و434 خدمة لكل لغة والتفرد والسلامة وحالة التفعيل لم تُعتمد بعد. لا يبدأ المويجعي.

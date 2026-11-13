@@ -323,3 +323,61 @@ For a replacement component, request its part number, failure diagnosis and comp
 ### 77. Scheduled HVAC maintenance contracts
 
 A useful maintenance contract defines asset counts, types, locations and visit intervals before annual pricing. Share the equipment register and recurring fault history. Separate inspections, cleaning, spare parts, emergency call-outs, response times and exclusions. Compare visit checklists, evidence of work and escalation arrangements, not just visit counts. Review the first service report and corrective-action plan before continuing.
+
+## Smart systems and surveillance
+
+### 78. Smart lighting control
+
+Inventory lighting circuits, switch positions, lamp types and dimming compatibility before choosing controllers. Provide distribution-board and switch-box photographs and check whether a neutral conductor is available where required. Specify local versus remote operation. Compare load ratings, manual operation during network failure and future expansion. At handover, test every circuit and scene, including physical switches after disconnecting the network.
+
+### 79. Smart air-conditioning control
+
+Record AC models and existing control interfaces first: some systems need proprietary integration while others accept infrared commands. Photograph equipment labels, identify rooms and sensor positions, and define intended setpoint limits. The quotation should distinguish actual supported functions, connectivity dependencies and any recurring subscriptions. Test start, stop and setpoint changes from both the unit and phone without conflicting commands.
+
+### 80. Smart lock installation
+
+Measure door thickness, backset, existing latch and lock arrangement before selecting hardware. Share photographs of both door faces and the frame edge. Require an emergency-entry method for depleted batteries and clear temporary-access management. Compare non-invasive fitting with drilling or cutting and check suitability for exposure. Test mechanical latching, inside escape and backup entry, and receive recovery keys or codes securely.
+
+### 81. Motorised curtain installation
+
+Motor selection depends on fabric weight, track length, curtain style and opening direction. Provide opening width and height, ceiling photographs and the power location; identify single or double tracks. Compare motor capacity, noise, backup or manual operation and warranty coverage. At handover, inspect track alignment, end limits and fabric clearance, and cycle the curtains repeatedly.
+
+### 82. Connecting devices to a phone app
+
+List each device brand, model and existing hub before promising a single-app experience. Devices differ in ecosystem support and remote-control functions; request a written compatibility matrix and feature limits. Compare local hub requirements, cloud accounts, subscription costs and household access levels. Test separate user accounts, revoke a user and transfer administrator ownership to the client at handover.
+
+### 83. Smart-home automation scenes
+
+Describe each automation as a trigger, conditions, affected devices and cancellation rule; for example, turning off selected lights when leaving without disabling security lighting. Supply device and sensor locations and exceptions. Require safeguards against contradictory commands and a clear description of offline or power-loss behaviour. Compare the number of included scenes and change costs. Test normal and exception cases at handover.
+
+### 84. Smart-home system maintenance
+
+When controls fail, document affected devices, error messages and fault times before indiscriminately resetting equipment. Diagnosis should examine power, connectivity, hubs, software and integrations while preserving configuration. Request separate pricing for investigation, updates and replacement, with restricted account access; do not send passwords in open messages. Test core functions and receive a usable configuration backup after service.
+
+### 85. CCTV camera installation
+
+Define each camera's purpose, field of view, lighting conditions and cable route before deciding quantity. Supply a simple layout and mounting photos. Request lens, resolution, night performance, recording storage and cable protection specifications. Avoid filming other people's private spaces and verify site-specific privacy or approval requirements rather than assuming permission. Check real coverage, recording playback and account security at handover.
+
+### 86. Video recorder installation
+
+Select recording hardware using camera count, resolution, frame rate and desired retention, not channel count alone. Request a storage calculation distinguishing continuous from motion-triggered recording, plus ventilation and backup-power arrangements. Compare expandability, access security and footage export. At handover, retrieve an older clip and verify time settings, user privileges and disk-failure alerts.
+
+### 87. Alarm system installation
+
+Distinguish intrusion alarms from fire detection and technical alerts: their functions and regulatory requirements differ. Provide an opening and circulation plan, power locations and proposed sensor positions. Require a schedule of sensors, control panel, battery and audible devices. For regulated life-safety systems, verify the relevant authority's requirements before design or installation. Test every zone, power-failure warning and documented settings.
+
+### 88. Access control installation
+
+Identify door and user counts, credential method, operating hours and emergency exit arrangements. Photograph doors and locks and indicate power and network routes. Compare controllers, event logs, user permissions and behaviour during outages without compromising escape routes. At handover, test entry, user revocation, attempted-entry logs and network-failure operation against the agreed design.
+
+### 89. Intercom installation
+
+Specify call stations, indoor monitors, cable lengths and gate-to-building distance. Provide installation photographs and check gate-lock, power and network compatibility, especially for phone answering. Compare audio/video quality, outdoor weather protection and additional monitor capacity. Test calls and gate release from every station, including recovery after network interruption.
+
+### 90. CCTV camera maintenance
+
+Before replacing a camera with no picture, inspect power, cabling, ports, recorder settings and lens condition: the fault may lie elsewhere. Document channel numbers, symptoms and mounting locations. Require a report distinguishing cleaning, reconfiguration, cable repair and replacement. Compare each option and its warranty while preserving existing recordings. Verify daytime and nighttime pictures, playback and alerts.
+
+### 91. Remote CCTV viewing on phones
+
+Record recorder model, available connectivity and supported authentication before enabling remote access; avoid exposing internet ports without a security assessment. Require owner-controlled accounts and additional authentication where supported, with defined authorised viewers and clip-sharing rules. Compare vendor cloud and secure remote access for privacy, capability and cost. Test viewing over mobile data away from the property and revoke the technician's access.

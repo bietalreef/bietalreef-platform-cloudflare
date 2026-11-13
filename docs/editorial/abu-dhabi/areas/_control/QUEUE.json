@@ -372,21 +372,21 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Building materials 28/49 AR and EN verified by GitHub re-fetch; timber/boards 22–28 added; area 238/434, 196 remaining; resume natural marble supply #29. Human review pending.",
+      "review_note": "Verified 35/49 building-materials services in both languages; marble and granite 29–35 added. Area 245/434, 189 remaining; resume countertops #36. Human review pending.",
       "editorial_progress": {
         "sector": "building-materials",
-        "specialty": "الرخام والجرانيت",
+        "specialty": "أسطح المطابخ والمغاسل",
         "last_completed_sector": "general-maintenance",
-        "last_completed_service_number": 28,
-        "last_completed_service_name": "قص وتجهيز الألواح",
-        "next_service_number": 29,
+        "last_completed_service_number": 35,
+        "last_completed_service_name": "صيانة ومعالجة الرخام",
+        "next_service_number": 36,
         "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 238,
-        "remaining_area_services_for_originality_review": 196,
+        "area_independently_rewritten": 245,
+        "remaining_area_services_for_originality_review": 189,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 28,
-        "remaining_in_sector": 21
+        "sector_independently_rewritten": 35,
+        "remaining_in_sector": 14
       }
     },
     {

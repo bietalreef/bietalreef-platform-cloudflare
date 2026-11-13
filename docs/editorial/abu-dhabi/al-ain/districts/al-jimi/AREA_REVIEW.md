@@ -1055,3 +1055,9 @@
 
 - الحالة: `in_progress`. تمت مقارنة الخدمات **4–6** في `general-contracting/building-villas` بالعربية والإنجليزية، وتحرير **ست فقرات إنجليزية** في [content-en.md](./general-contracting/building-villas/content-en.md) لتغطية خصم الفتحات وكميات البلوك، وفحص الأعتاب، ومحاضر التسليح والصب والمعالجة، والدعامات المؤقتة والتنسيق مع الخدمات. [مراجعة التخصص](./general-contracting/building-villas/review.md).
 - **أول نقص محدد:** المقارنة الدلالية التفصيلية للخدمات **1–3 و7–14** في `general-contracting/building-villas`، ثم مراجعة السلامة والتفرد للتخصص كاملًا؛ وبعدها `general-contracting/restoration-renovation` وبقية تخصصات المقاولات العامة، ثم بقية القطاعات وجرد الخدمات الـ434 باللغتين. لا تبدأ المويجعي ولا تعتمد الجيمي قبل اكتمال التدقيق.
+
+
+## Editorial checkpoint — 2026-11-14
+
+- `general-contracting/building-villas/content-ar.md`: separated quotation-request guidance from acceptance checks for all 14 services; verified 14 Arabic RFQ labels after GitHub read-back (commit `cb5550b92928532c7b11ae0f9efa45557400eb2a`).
+- **Status: in_progress.** Next: item-by-item Arabic/English semantic parity for building-villas services 1–3 and 7–14; review technical safety, distinctiveness and classification; then proceed to the next unapproved specialty and all eight sectors. No subsequent district should start before full area review.

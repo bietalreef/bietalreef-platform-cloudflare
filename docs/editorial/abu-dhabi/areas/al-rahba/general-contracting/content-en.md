@@ -120,6 +120,64 @@ Define whether the concrete wall is retaining, shear-resisting, a barrier or ano
 
 Before arranging demolition-waste removal, estimate the waste types and volumes, collection location and truck access; provide photographs identifying heavy, sharp or potentially special-handling material. Separate sorting, loading, containers, haulage and lawful disposal in the quotation, and allocate responsibility for protecting pavements, entrances and roads. Different materials may require different disposal routes, which should be confirmed with the relevant operator and authority. Obtain transfer or receipt evidence where applicable, and inspect the cleared site for buried remnants.
 
+## Garden design and maintenance
+
+### 29. Home garden design
+
+Begin with a measured site plan showing doors, windows, sunlight and shade. Identify seating, circulation and play areas before choosing plants. Request dimensioned layouts, drainage levels, irrigation and lighting points. Compare executable drawings and planting schedules rather than visual renders alone; check dimensions, access and maintenance clearances at handover.
+
+### 30. Villa landscaping
+
+Villa landscaping may cover soil preparation, planting, paths, bed edging and lighting. Photograph existing surfaces, slopes and water points and identify what must be retained. Price grading, soil, plants, irrigation and hardscape separately, including initial care. Inspect path levels, edging stability and plant condition at handover.
+
+### 31. Outdoor space design
+
+Describe whether the space is for guests, dining or utility use, with occupancy and access points. Measure boundaries, thresholds and stormwater routes. Request furniture layouts, outdoor-rated finishes and junction details where new work meets the building. Compare shade, privacy, cleaning and maintenance before approving the design.
+
+### 32. Establishing green areas
+
+State the lawn or planted-area dimensions and intended use. Assess soil, drainage and irrigation supply before installation. Quotes should describe soil preparation, grading, plant or turf specification, establishment and initial watering. A square-metre price is not comparable without soil depth and plant quality. Inspect coverage and ponding after irrigation.
+
+### 33. Planting trees and shrubs
+
+Provide proposed tree counts and locations, bed dimensions and nearby walls or buried services. Select species for mature size, root behaviour and water demand, not appearance alone. Quotes should state nursery stock size, planting pits, soil amendments, staking and wind protection. Check alignment, stability, irrigation and agreed establishment care.
+
+### 34. Natural turf installation
+
+Measure the area and assess shade, foot traffic and drainage. Confirm turf species, delivery freshness, soil preparation, grading and watering method. Separate weed removal, imported soil and turf rolls or plugs in the quotation. Inspect tight joints and even levels, then allow roots to establish before heavy use.
+
+### 35. Artificial turf installation
+
+State whether the artificial turf serves landscaping, play or another exposed surface, and measure obstructions. Compare samples for pile height, density, backing and suitability, but also specify sub-base and drainage. Quotes should describe seams, perimeter anchoring and any infill. Inspect joint security, levels and drainage, and obtain cleaning guidance.
+
+### 36. Plant and tree installation
+
+For mixed planting, supply a schedule of species, quantities, sizes and locations, plus site photos and water availability. Distinguish bed plants from trees needing greater spacing and pit dimensions. Compare nursery quality, soil, delivery, installation and establishment care. Verify each plant against the schedule and ensure root collars are not buried.
+
+### 37. Tree pruning and shaping
+
+Photograph each tree in full and note height, nearby cables, walls and paths. Explain whether pruning is for deadwood, clearance or form. Avoid excessive cutting without assessing tree health. Quotes should identify access equipment, protection and green-waste removal. Inspect cut quality, bark damage and site cleanliness.
+
+### 38. Lawn maintenance
+
+Record lawn area, turf type, irrigation condition and desired visit frequency. Request a seasonal programme for mowing, aeration, weed control and sprinkler checks, stating consumables and exclusions. Compare visit counts, dry-patch response and defect reporting. Review service logs, mowing consistency and edging damage.
+
+### 39. Plant fertilisation and treatment
+
+Describe yellowing or poor growth with photos of foliage, soil and irrigation; drainage, salinity or pests can mimic nutrient deficiency. Require diagnosis before selecting products, dose and application. Compare assessment, follow-up and safety instructions rather than product volume alone. Record treatments and monitor response.
+
+### 40. Garden pest management
+
+Identify affected plants and photograph insects or damage, noting children and pets. Request pest identification and a management plan using suitable least-disruptive measures first, with product details and any re-entry precautions. Verify operator and product eligibility with competent authorities. Review treatment records and follow-up inspection timing.
+
+### 41. Garden clearance and cleaning
+
+Describe the garden area and waste types—leaves, branches, soil or construction debris—and what must be protected. Photograph paths, beds and removal access. Compare sweeping, collection, light trimming and haulage as separate items; distinguish special waste from green waste. Check drains and ensure plants and irrigation remain undamaged.
+
+### 42. Garden maintenance contracts
+
+Inventory planted areas, trees, irrigation, pumps and lighting, and set access hours. Contracts should specify visit frequency, seasonal tasks, fault response, replacement plants and exclusions for major repairs. Compare reporting, before-and-after photographs and performance measures—not monthly fees alone. Review completed tasks and defects each cycle.
+
 ## Preparing a quotation request
 
 Biet Alreef customer service can receive an enquiry even when no company listing is published. Include your name, contact number, area (Al Rahba), service, property type, dimensions or available drawings, site photos, preferred survey date and required materials or works. Send these details through the approved customer-service channel without assuming a price or contractor availability. Confirm project-specific permits and licensing with the competent authorities before work; a service listing is not an approval.

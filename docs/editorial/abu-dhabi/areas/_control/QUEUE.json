@@ -357,7 +357,8 @@
         "general-maintenance",
         "building-materials",
         "aluminium-glass",
-        "furniture-decor"
+        "furniture-decor",
+        "equipment-rental"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
@@ -384,21 +385,21 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Equipment-rental services 1–14 in two specialties written in AR/EN and re-fetched from GitHub. Al Wathba 353/434, 6/8 sectors complete; 81 services remain. Next service 15 تصنيع قطاعات الألمنيوم. Human review pending.",
+      "review_note": "Equipment-rental 53/53 services and 8/8 specialties in both languages re-fetched and verified. Al Wathba 392/434, 7/8 sectors, 42 cleaning services remain. Human review pending; no publication.",
       "editorial_progress": {
-        "sector": "equipment-rental",
-        "specialty": "مصانع الألمنيوم والزجاج",
-        "last_completed_sector": "furniture-decor",
-        "last_completed_service_number": 14,
-        "last_completed_service_name": "تأجير معدات الحدائق",
-        "next_service_number": 15,
-        "sector_total": 53,
+        "sector": "cleaning-services",
+        "specialty": "تنظيف المنازل والمباني",
+        "last_completed_sector": "equipment-rental",
+        "last_completed_service_number": 53,
+        "last_completed_service_name": "توريد المنتجات للمشاريع",
+        "next_service_number": 1,
+        "sector_total": 42,
         "area_total": 434,
-        "area_independently_rewritten": 353,
-        "remaining_area_services_for_originality_review": 81,
+        "area_independently_rewritten": 392,
+        "remaining_area_services_for_originality_review": 42,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 14,
-        "remaining_in_sector": 39
+        "sector_independently_rewritten": 0,
+        "remaining_in_sector": 42
       }
     },
     {

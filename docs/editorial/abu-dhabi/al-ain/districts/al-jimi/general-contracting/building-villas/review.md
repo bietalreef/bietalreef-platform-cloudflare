@@ -44,3 +44,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Compared Arabic and English service sections 4–6. Expanded six English quotation/contract and acceptance paragraphs to explicitly address net wall quantities and opening deductions, lintel checks, concrete pour acceptance and curing records, temporary supports, pre-pour inspection hold points and service penetrations.
 - Original 14 service headings remain unchanged. This is a **partial** semantic review, not full certification; services 1–3 and 7–14 still require item-by-item comparison of scope, measurements, exclusions, quotations and handover, followed by technical and repetition review. Area remains `in_progress`.
+
+## Arabic RFQ and acceptance separation — 2026-11-14
+
+- Split the final quotation-request instruction from the acceptance-check paragraph for all 14 Arabic services; each now has an explicit **طلب عرض السعر** subsection. Re-read `content-ar.md` from the target branch and verified 14 such labels.
+- This is a structural clarity improvement, not a final bilingual semantic or technical approval. Services 1–3 and 7–14 still need full parity checks; the remaining specialties need editorial review.

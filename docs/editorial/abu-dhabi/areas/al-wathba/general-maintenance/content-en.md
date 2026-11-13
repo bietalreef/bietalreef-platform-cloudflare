@@ -147,3 +147,61 @@ Cladding may consist of stone, tile, sheet panels or lightweight decorative mate
 ### 35. Flooring repairs
 
 Identify the floor material and photograph both the defect and surrounding area: loose tiles, cracks, swollen wood, peeling vinyl or sunken paving. Investigate causes such as water leakage, weak bedding or possible structural movement before replacing only the visible damaged section. Provide affected dimensions and details of any spare matching materials. Ask quotations to separate removal, underlying repairs and replacement, and compare local patching with wider renewal when defects recur. At handover check levels, stability, joints and transitions to adjacent flooring.
+
+## Electrical installation and lighting
+
+### 36. Building electrical rough-in
+
+Begin with room uses, equipment locations and anticipated loads rather than a simple count of outlets. Provide architectural plans and kitchen, cooling and water-heater layouts. Request circuit and conduit routing drawings, spare capacity, conductor and protective-device specifications, earthing provisions, making-good work and test scope. Have a qualified designer check the arrangement. Photograph concealed routes before walls close; at handover obtain insulation and earth-continuity test results and labelled circuit schedules.
+
+### 37. Wire and cable installation
+
+Explain whether cables are being added or replacing an existing run, with approximate route lengths, load type and indoor or outdoor exposure. Cable sizing depends on installation method, grouping, ambient temperature and protection as well as appliance power. Ask for cable type, cross-section, conduit route and accessible termination arrangements. Compare material, pulling and testing costs separately. Check terminal identification and insulation-test records before energising.
+
+### 38. Distribution board installation
+
+Supply photographs of the existing board, supply details and an inventory of connected circuits and loads. A qualified specialist should check board capacity, protective-device coordination, earth-leakage protection, ventilation and safe access. Request a single-line diagram, circuit schedule, breaker specifications and labelling, identifying any incoming supply alteration. Compare the protection design, not merely the breaker count. Handover should include connection checks, earthing and appropriate protection tests.
+
+### 39. Socket and switch installation
+
+Mark locations, mounting heights, nearby water sources, furniture and appliances, and provide wall photographs. Replacing a sound faceplate differs from installing a new point that needs wiring and suitable protection. Specify device ratings, mounting boxes and finish repairs; do not assume ordinary sockets suit high loads or wet locations. Check cover alignment and firmness, and have a qualified electrician verify polarity, earthing and operation.
+
+### 40. Electrical supply to annexes
+
+Describe whether the annex will be a majlis, kitchen, storage room or conditioned space, since each has different circuit demands. Provide the distance from the supply, crossing routes, annex plans and outdoor photographs. Request a supply-capacity assessment, cable protection and routing, lighting and socket circuits and suitable separation of loads. Applicable project approvals must be checked with the relevant authorities before work. Handover includes circuit drawings, tests and proper reinstatement of trenches.
+
+### 41. Electrical network rehabilitation
+
+Repeated trips, heat marks or ageing wiring warrant a documented inspection before deciding on wholesale replacement. Provide fault history, board photographs and the affected rooms, and explain whether occupants will remain during works. Quotations should separate diagnosis, cable or board replacement, wall repairs and final testing. Compare whether proposals address the root cause and protection compatibility. Obtain final inspection records and updated as-built drawings.
+
+### 42. Electrical load assessment
+
+Request this when adding high-demand equipment, experiencing repeated trips or planning an extension. Prepare an appliance inventory with ratings and operating periods, plus board photographs. A qualified professional should take suitable current measurements and examine circuit and phase loading where relevant. Distinguish nameplate ratings from simultaneous demand and check cable and breaker capacity before recommending upgrades. Compare measurement periods, reporting and recommendations; obtain recorded findings rather than verbal assurances.
+
+### 43. Indoor lighting installation
+
+Define whether each room is used for reading, work, relaxation or circulation, then provide dimensions, ceiling height, finishes and furniture positions. Request a layout considering illuminance, glare, colour temperature and maintainability rather than an arbitrary spotlight count. Compare luminaires, drivers, controls, ceiling cut-outs and finishing repairs. At handover assess light uniformity, switch operation, objectionable flicker and maintenance access.
+
+### 44. Outdoor lighting installation
+
+Identify paths, entrances, façades and seating areas and where equipment faces water or dust. Supply site photographs and proposed supply routes. Specify luminaires suited to their exposure, protected wiring and light direction that avoids neighbouring windows. Compare environmental ratings, mounting materials, controls and commissioning tests. Check sealed connections, secure fittings and adequate path coverage without glare or hazardous shadows.
+
+### 45. Chandelier installation
+
+Check fixture weight, ceiling height, supporting structure, suspension location and cleaning access before purchase. Provide the chandelier specification, supply-point photograph and clearance over furniture or walking routes. Heavy fittings must not depend on plasterboard alone; suitable structural anchorage and electrical coordination are required. Specify who handles lifting, assembly, fixing and commissioning. Verify balance, height, suspension security and wiring at handover.
+
+### 46. Concealed lighting installation
+
+Provide a section showing recess depth, strip or luminaire position, driver location and maintenance access. Share ceiling dimensions and plasterboard photographs, and request a lighting sample before final closure. Compare strip density, diffuser quality, heat dissipation, power supplies and controls, including accessible joints. At handover check continuous light lines, colour consistency, absence of visible hot spots and abnormal heating.
+
+### 47. Garden lighting installation
+
+Map paths, planting beds, trees and irrigation points, distinguishing route illumination from feature lighting. Request protected cable routes away from excavation and watering works, and fittings appropriate to burial or moisture exposure at their actual locations. Compare trenching, wiring, supports, controls and future servicing. Test the result after dark for safe movement without glare, and inspect connection sealing after irrigation testing.
+
+### 48. Motion sensor installation
+
+State whether the sensor serves an internal corridor, outdoor entrance or parking area, as detection patterns, timing and ambient-light settings vary. Provide installation height, door locations and likely unwanted triggers. Check compatibility with the lighting type and load, operating delay and any required manual override. Compare coverage, weather resistance and adjustability. Test approach from realistic directions, time-out and reactivation before acceptance.
+
+### 49. Lighting fixture maintenance
+
+Describe whether the fault is flicker, outage, dim output, overheating or a damaged cover; provide photographs and model numbers if available. Safe diagnosis should distinguish the luminaire from its driver, switch or supply rather than replacing parts indiscriminately. Request compatible spares, warranty details and safe access provisions for elevated fittings. Compare repair costs with an equivalent replacement and verify sustained operation, secure fixing and no recurring fault.

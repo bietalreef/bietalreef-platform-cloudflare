@@ -51,9 +51,11 @@ test('schema contains a collection of entity references, never fictitious busine
   assert.doesNotMatch(JSON.stringify(model.schema), /PostalAddress|geo|aggregateRating|CleaningService/);
 });
 test('sitemap includes original bilingual district hubs, excluding unreviewed service permutations', () => {
-  const entries = localSitemap(providers); assert.equal(entries.length, 76);
+  const entries = localSitemap(providers); assert.equal(entries.length, 74);
   assert.equal(new Set(entries.map(x => x.loc)).size, entries.length);
   assert.equal(localSitemap([]).length, 72);
+  assert.equal(pageModel({category:CATEGORY.slug,providers}), null, 'the city cleaning hub must use its reviewed editorial model');
+  assert.ok(!entries.some(entry => /\/al-ain\/cleaning-services$/.test(entry.loc)), 'the legacy sitemap must never own the city cleaning hub');
   for (const entry of entries) { assert.doesNotMatch(entry.loc, /\?/); }
   const district = entries.filter(x => /\/al-ain\/(?:al-|zakher|asharej|sanaiya|remah|sweihan|mazid|nahil|falaj-hazza)/.test(x.loc));
   assert.equal(district.length, 72);

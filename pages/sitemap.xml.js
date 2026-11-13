@@ -7,7 +7,7 @@ import {UAE_EMIRATES} from '../data/siteTaxonomy';
 import {areaEditorialFor} from '../data/sharjahAjmanAreaEditorial';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import { localSitemap } from '../lib/localServices';
-import { cleaningGuideSitemap } from '../lib/alAinCleaningModel';
+import { cleaningGuideSitemap, cleaningGuidePaths } from '../lib/alAinCleaningModel';
 import { getLocalProviders } from '../lib/localProviderData';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
@@ -84,7 +84,12 @@ function buildSitemapXml(entries) {
 }
 
 export async function getServerSideProps({ res }) {
-  const entries = [...buildSearchIndexEntries(), ...localSitemap(await getLocalProviders()), ...cleaningGuideSitemap()];
+  // One authoritative owner for the reviewed Al Ain cleaning hub and its
+  // service guides, irrespective of provider publication status. Keep the
+  // legacy live-service registry from reintroducing conflicting URLs.
+  const guidePaths = new Set(cleaningGuidePaths());
+  const localEntries = localSitemap(await getLocalProviders()).filter(entry => !guidePaths.has(entry.loc));
+  const entries = [...buildSearchIndexEntries(), ...localEntries, ...cleaningGuideSitemap()];
   const [providerCards, products] = await Promise.all([
     getPublishedProviderCards('ar'),
     getPublishedProductsForSitemap('ar'),

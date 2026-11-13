@@ -1,0 +1,93 @@
+# Al Wathba — Building materials and supply
+
+This guide helps customers prepare specifications, quantities and delivery arrangements; it is not a list of available suppliers. The source currently marks the “Building and finishing materials” specialty as not selectable. A service description does not imply a published company. Biet Al Reef customer service can receive a quotation request whether or not a supplier is listed.
+
+## Building and finishing materials
+
+### 1. Cement supply
+
+Specify the cement type required by the mix design, bag weight, batch quantity and a dry storage location. Structural concrete and masonry mortar may call for different specifications, so a price per bag alone is insufficient. On delivery, inspect packing dates, damaged or hardened bags, pallet counts and the delivery note.
+
+### 2. Sand supply
+
+Distinguish plastering sand from concrete sand and backfill; specify grading and a consistent quantity unit. Share access photographs and gate dimensions before pricing and confirm whether haulage is included. Check the load for contamination and reconcile delivered volume against the order.
+
+### 3. Aggregate supply
+
+Match nominal aggregate size to the concrete mix specification rather than choosing solely on price. State quantity, segregated storage arrangements and weighing method. Inspect for excessive fines or off-size material during unloading and retain the weighbridge ticket.
+
+### 4. Block and masonry unit supply
+
+Specify block dimensions, wall thickness and intended use, then calculate units with a realistic breakage allowance. Request a sample and strength information appropriate to the drawings; compare stacking and unloading arrangements. Count damaged units before approving the invoice.
+
+### 5. Reinforcing steel supply
+
+Attach a bar schedule listing diameter, grade, length and weight for each item, and clarify whether cutting and bending are included. Do not substitute a steel grade without the responsible designer's approval. Check bar markings, product certificates, diameters and delivered quantities.
+
+### 6. Ready-mix concrete supply
+
+Prepare the specified concrete grade, pour volume, timing, pumping needs and truck access. Clarify delivery windows, waiting charges and the project sampling plan. Reconcile truck tickets, volumes and site test records before accepting the pour.
+
+### 7. Project-wide construction material supply
+
+Break the supply schedule into foundations, structure and finishes with quantities, specifications and required dates to avoid damage from premature storage. Compare line items in consistent units, and clarify shortages and returns. Match each delivery to its purchase order.
+
+### 8. Gypsum board and plaster supply
+
+State whether the order is for ceiling boards, partitions or finishing plaster, including thickness, dimensions and moisture-performance requirements where relevant. Include framing, tape and joint compound rather than counting boards alone. Check edges and packaging for moisture damage on receipt.
+
+### 9. Paint materials supply
+
+Approve the colour sample, sheen, substrate and coat system, then calculate area using realistic coverage rates. Confirm compatibility between filler, primer and topcoat and request matching colour batch numbers. Check seals and dates on delivered containers.
+
+### 10. Waterproofing materials supply
+
+Identify whether the system is for an exposed roof, bathroom or tank, including substrate, joints and penetrations. Request a complete compatible system with primer, detailing and protection rather than one isolated product. Compare technical data, shelf life and container integrity.
+
+### 11. Flooring supply
+
+Provide room plans, laying direction, piece dimensions and intended use, allowing for pattern-dependent cutting waste. Compare thickness, wear layer, underlay and skirting requirements. Match colours, batch references and quantities on delivery.
+
+### 12. Sanitary fixture supply
+
+Confirm basin, toilet and mixer dimensions against water and drainage connections before ordering, including finish and accessories. Compare warranty, spare-part support and whether hoses and valves are included. Inspect ceramics for cracks and verify model numbers.
+
+### 13. Electrical installation materials supply
+
+Tie cable, breaker and conduit schedules to drawings and load requirements, specifying sizes, ratings and reel lengths. Do not approve protective-device substitutions without qualified review. Check markings, ratings, counts and retain product certificates.
+
+### 14. Plumbing installation materials supply
+
+Specify pipe material, diameter, pressure rating and jointing method; separate potable-water and drainage items in the schedule. Compare compatibility of fittings, valves and joining consumables. Inspect markings, sizes and pipe ends on receipt.
+
+### 15. Building materials retail
+
+For counter purchases, bring a precise list of quantities, units and product codes or photographs rather than relying on verbal descriptions. Compare returns policies and delivery charges alongside unit prices. Obtain an itemised receipt and verify the goods before collection.
+
+### 16. Sanitaryware retail
+
+Before buying a replacement tap or toilet, photograph existing connections and measure clearances and openings. Ask about included fittings, spare parts and warranty terms. Inspect plating and ceramic surfaces before transporting the item.
+
+### 17. Electrical supplies retail
+
+Identify the component's purpose, size and electrical rating from a drawing or qualified technician, particularly for breakers and sockets. Compare manufacturer ratings and conformity documentation, not appearance alone. Retain packaging and receipts for traceability.
+
+### 18. Plumbing supplies retail
+
+Bring pipe dimensions, material type and a photo of the old fitting to select the correct part, checking whether it suits pressure or drainage service. Confirm gaskets and accessories before paying. Verify dimensions without damaging the fitting in a trial assembly.
+
+### 19. Paint retail
+
+Test a small colour sample on the actual surface before buying in bulk, specifying sheen, paint type and primer. Compare pack size and coverage rather than price alone, and record colour codes and batch details for later top-ups.
+
+### 20. Waterproofing retail
+
+Show photographs of the leak and substrate, but do not treat buying a waterproofing product as a substitute for identifying the water source. Ask for substrate preparation, coat sequence, tools and compatible accessories. Check expiry and storage conditions.
+
+### 21. Delivery of materials to site
+
+Provide site location, contact details, access restrictions, unloading gate dimensions and lifting requirements, with a delivery slot aligned to the programme. Compare whether loading, waiting and on-site unloading are included or kerbside only. Photograph goods before and after unloading and record shortages.
+
+## Request a quotation
+
+Send Biet Al Reef customer service your name, contact number, area (Al Wathba), product or service, itemised quantities and units, specification drawings or photos, unloading location and required date. The request can be reviewed without any guarantee of price, stock or timing. Individual tradespeople are classified separately from companies and establishments.

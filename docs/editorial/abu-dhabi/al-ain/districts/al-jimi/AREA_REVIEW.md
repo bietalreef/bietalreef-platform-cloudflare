@@ -1066,3 +1066,9 @@
 
 - `general-contracting/building-villas`: verified English contract-scope improvements for services 1–3 and Arabic RFQ label spacing across 14 services; see [specialty review](./general-contracting/building-villas/review.md).
 - **Status: in_progress.** First remaining bilingual semantic comparison: services 7–14 of `general-contracting/building-villas`; then technical safety, uniqueness and remaining service review, beginning with `general-contracting/restoration-renovation`. No area completion or transition to Al Muwaiji is certified.
+
+## متابعة تدقيق إنشاء المباني والفلل — 2026-11-14
+
+- الحالة: `in_progress`؛ لا يبدأ المويجعي قبل اعتماد جميع القطاعات الثمانية للجيمي.
+- توسعت فقرات الاتفاق والمقارنة الإنجليزية للخدمات **7–14** في `general-contracting/building-villas/content-en.md` لتشمل حدود تسليم المفتاح، العزل والتظليل، ملحقات الفلل، المجالس، التوسعات، التعديلات، الترميم والتجديد أثناء الإشغال. [English](./general-contracting/building-villas/content-en.md) · [مراجعة التخصص](./general-contracting/building-villas/review.md). تحقق التطابق بعد الرفع؛ commit `59e2eb2d20098a19de51c563f806c456fce75a55`.
+- **أول نقص تالٍ:** مقارنة كل خدمة من 1 إلى 14 في `general-contracting/building-villas` مقارنة دلالية كاملة بين العربية والإنجليزية (النطاق والاستثناءات والقياسات والعروض والاتفاق والاستلام)، ثم مراجعة التفرد والسلامة؛ بعدها `general-contracting/renovation-restoration` وفق المسار الفعلي، ثم بقية تخصصات القطاعات الثمانية. وجود 434 عنوانًا في كل لغة لا يعني اعتماد الجودة.

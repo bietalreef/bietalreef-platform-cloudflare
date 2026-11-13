@@ -378,24 +378,27 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/review.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/review.md"
+        "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Al Wathba furniture-decor 4 specialties and 24 AR/EN service entries saved and re-fetched. Total 339/434, six sectors complete, remaining 95. Next equipment-rental service 1. Human review pending.",
+      "review_note": "Equipment-rental services 1–14 in two specialties written in AR/EN and re-fetched from GitHub. Al Wathba 353/434, 6/8 sectors complete; 81 services remain. Next service 15 تصنيع قطاعات الألمنيوم. Human review pending.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "تأجير معدات البناء والرفع",
+        "specialty": "مصانع الألمنيوم والزجاج",
         "last_completed_sector": "furniture-decor",
-        "last_completed_service_number": 24,
-        "last_completed_service_name": "توريد المراتب",
-        "next_service_number": 1,
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "تأجير معدات الحدائق",
+        "next_service_number": 15,
         "sector_total": 53,
         "area_total": 434,
-        "area_independently_rewritten": 339,
-        "remaining_area_services_for_originality_review": 95,
+        "area_independently_rewritten": 353,
+        "remaining_area_services_for_originality_review": 81,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 0,
-        "remaining_in_sector": 53
+        "sector_independently_rewritten": 14,
+        "remaining_in_sector": 39
       }
     },
     {

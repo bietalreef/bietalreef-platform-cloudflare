@@ -18,3 +18,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 12. تعديل المباني السكنية
 13. ترميم الفلل
 14. تجديد المباني السكنية
+
+## Targeted English RFQ editorial review — 2026-11-13
+
+- Replaced the same generic quotation-request sentence repeated under all fourteen services with fourteen service-specific requests covering scope, measurement, exclusions and handover evidence.
+- Verified the saved `content-en.md` by reading it back from the target GitHub branch; all fourteen headings remain in place and none of the previous repeated quote-request sentences remain.
+- **Not yet approved:** Arabic paragraphs still reuse repeated boilerplate across services; review their distinctiveness, then check full Arabic/English semantic parity, technical safety and original taxonomy headings before changing this specialty to approved. Area status remains `in_progress`.

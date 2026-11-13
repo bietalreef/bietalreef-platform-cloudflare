@@ -1,6 +1,6 @@
 # Engineering consultancy and design in Al Wathba — editorial draft
 
-This draft explains company and consultancy services without asserting provider availability or government approval. Biet Al Reef customer service can receive a quotation enquiry even when no company is listed. Architectural, structural and engineering supervision specialities are covered; interior design and materials remain in progress.
+This draft explains company and consultancy services without asserting provider availability or government approval. Biet Al Reef customer service can receive a quotation enquiry even when no company is listed. Architectural, structural and engineering supervision specialities are covered; interior design and materials are also covered in this editorial draft.
 
 ## Architectural design and drawings
 
@@ -119,6 +119,92 @@ Start with identified drawing revisions, specifications and measurement boundari
 ### 28. Contractor tender comparison
 
 Issue a common scope, drawing set, specification and clarification schedule to bidders. Compare quantities, materials, programme, warranties, exclusions and payment terms, not headline prices alone. Look for unpriced items, variation mechanisms, tests and unclear responsibilities. The deliverable should be a comparison matrix recording differences, risks, open questions and a conditional recommendation; it cannot guarantee any contractor's future performance.
+
+## Interior design and materials
+
+### 29. Majlis design
+
+For majlis design, begin by establishing guest capacity, hospitality circulation and separation from service spaces. Supply wall and opening dimensions, air-conditioning positions and electrical points before the proposal is finalised, and ask the designer to address seating arrangement, lighting, wall finishes and cleanable upholstery. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept a dimensioned seating plan with circulation clearances and finish samples, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 30. Living room design
+
+For living room design, begin by establishing occupants, television viewing, reading and daily activities. Supply room dimensions, windows, curtains and sockets before the proposal is finalised, and ask the designer to address viewing angles, glare, walking routes and sofa sizes. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept a coordinated furniture plan and selected materials, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 31. Bedroom design
+
+For bedroom design, begin by establishing bed count, storage and privacy needs. Supply room dimensions, door swings and ceiling height before the proposal is finalised, and ask the designer to address clearance around beds, drawer access and bedside lighting. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept bed, wardrobe and lighting layouts with dimensions, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 32. Kitchen design
+
+For kitchen design, begin by establishing appliance list, cooking habits and number of users. Supply post-finish dimensions and water, drainage, power and extraction points before the proposal is finalised, and ask the designer to address work circulation, ventilation, moisture-resistant finishes and appliance supply boundaries. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept cabinet drawings, elevations, appliance and finish schedules, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 33. Bathroom design
+
+For bathroom design, begin by establishing users, shower arrangement, basin type and storage. Supply levels, drainage falls, pipe routes, waterproofing and ventilation before the proposal is finalised, and ask the designer to address slip resistance, waterproofing details, maintenance and cleaning. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept tile setting-out, sanitary fixture and service drawings, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 34. Furniture layout
+
+For furniture layout, begin by establishing existing and proposed pieces and seating capacity. Supply clear dimensions, doorways, corridors and delivery access before the proposal is finalised, and ask the designer to address movement, cabinet openings and unobstructed ventilation. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept a numbered furniture layout with item dimensions, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 35. 3D interior visualisation
+
+For 3d interior visualisation, begin by establishing presentation purpose, views and camera positions. Supply current drawings, levels and specified finishes before the proposal is finalised, and ask the designer to address consistency with plans, visual accuracy limits and revision allowance. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept agreed renders, material references and version record, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 36. Office design
+
+For office design, begin by establishing staff count, work patterns, meetings and storage. Supply area, data points, ventilation and service outlets before the proposal is finalised, and ask the designer to address privacy, acoustics, lighting and circulation. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept workstation and meeting-room layouts with data points, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 37. Retail shop design
+
+For retail shop design, begin by establishing merchandise type, display stock and customer journey. Supply shopfront, shelving sizes, power and lighting positions before the proposal is finalised, and ask the designer to address product visibility, checkout area, storage and adaptable displays. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept display plan, shelving elevations and finishes, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 38. Restaurant and café design
+
+For restaurant and café design, begin by establishing seating capacity, service model, kitchen and preparation needs. Supply dining area, service routes, extraction and equipment before the proposal is finalised, and ask the designer to address staff and guest circulation, washable surfaces and acoustics. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept seating and equipment plans with material schedule, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 39. Salon design
+
+For salon design, begin by establishing service chairs, wash stations and reception needs. Supply water, drainage, ventilation and equipment dimensions before the proposal is finalised, and ask the designer to address privacy, tool storage and cleanable surfaces. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept service-station layout, equipment and finishes, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 40. Clinic interior design
+
+For clinic interior design, begin by establishing clinic specialty, examination rooms, waiting and intended procedures. Supply room sizes, sinks, ventilation and medical equipment before the proposal is finalised, and ask the designer to address patient and staff circulation, cleanability and specialist coordination. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept functional plans and equipment schedule with approval requirements flagged for verification, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 41. Exhibition space design
+
+For exhibition space design, begin by establishing exhibit type, event duration and visitor numbers. Supply venue dimensions, hanging points, power and entry routes before the proposal is finalised, and ask the designer to address visibility, reuse and secure display fixings. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept display layout, elevations and modular unit list, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 42. Reception area design
+
+For reception area design, begin by establishing visitor numbers, reception functions and waiting needs. Supply entry dimensions, circulation and data outlets before the proposal is finalised, and ask the designer to address accessibility, visibility, privacy and acoustics. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept reception desk, waiting layout and finish details, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 43. Floor finish selection
+
+For floor finish selection, begin by establishing use intensity, moisture and foot traffic. Supply room areas, levels and existing substrate condition before the proposal is finalised, and ask the designer to address slip resistance, durability, maintenance and assembly thickness. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept floor type, area, skirting and joint schedule, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 44. Paint colour selection
+
+For paint colour selection, begin by establishing natural light, intended identity and furniture finishes. Supply on-wall samples, light orientation and substrate condition before the proposal is finalised, and ask the designer to address colour shift under daylight and artificial light and washability. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept approved colour codes, samples and room allocation, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 45. Marble and ceramic selection
+
+For marble and ceramic selection, begin by establishing wet or dry applications and intended surfaces. Supply installation areas, tile sizes, falls and openings before the proposal is finalised, and ask the designer to address shade variation, slip resistance, joints, waste and fixing method. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept size and colour schedule, setting-out and samples, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 46. Furniture selection
+
+For furniture selection, begin by establishing furnishing budget, users and expected lifespan. Supply door and lift clearances and individual item footprints before the proposal is finalised, and ask the designer to address frame and fabric durability, warranties, delivery and assembly. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept furniture list with sizes, materials and quantities, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 47. Lighting selection
+
+For lighting selection, begin by establishing reading, work, hospitality and decorative lighting tasks. Supply ceiling heights, switch positions, furniture and windows before the proposal is finalised, and ask the designer to address glare, distribution, maintenance access and electrical coordination. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept fixture and switch plan with luminaire specifications, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 48. Material mood board
+
+For material mood board, begin by establishing intended mood and functional use of each space. Supply physical samples or verified product references and colour standards before the proposal is finalised, and ask the designer to address coordination of floors, paint and fabrics and sample appearance changes. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept coded material board with sample sources and alternatives, noting any technical checks or competent-authority approvals that must be resolved before construction.
+
+### 49. Finishes schedule
+
+For finishes schedule, begin by establishing room boundaries and supply and installation responsibilities. Supply issued drawings, measurable areas and quantities before the proposal is finalised, and ask the designer to address product codes, models, layers, colours and substitutions. Compare fees for design separately from procurement and installation, including survey responsibility and revision rounds. Accept room-by-room finishes schedule linking material, quantity and specification, noting any technical checks or competent-authority approvals that must be resolved before construction.
 
 ## Preparing a quotation request
 

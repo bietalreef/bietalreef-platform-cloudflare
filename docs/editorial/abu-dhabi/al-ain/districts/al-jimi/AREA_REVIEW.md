@@ -1061,3 +1061,8 @@
 
 - `general-contracting/building-villas/content-ar.md`: separated quotation-request guidance from acceptance checks for all 14 services; verified 14 Arabic RFQ labels after GitHub read-back (commit `cb5550b92928532c7b11ae0f9efa45557400eb2a`).
 - **Status: in_progress.** Next: item-by-item Arabic/English semantic parity for building-villas services 1–3 and 7–14; review technical safety, distinctiveness and classification; then proceed to the next unapproved specialty and all eight sectors. No subsequent district should start before full area review.
+
+## Editorial checkpoint — 2026-11-14 (follow-up)
+
+- `general-contracting/building-villas`: verified English contract-scope improvements for services 1–3 and Arabic RFQ label spacing across 14 services; see [specialty review](./general-contracting/building-villas/review.md).
+- **Status: in_progress.** First remaining bilingual semantic comparison: services 7–14 of `general-contracting/building-villas`; then technical safety, uniqueness and remaining service review, beginning with `general-contracting/restoration-renovation`. No area completion or transition to Al Muwaiji is certified.

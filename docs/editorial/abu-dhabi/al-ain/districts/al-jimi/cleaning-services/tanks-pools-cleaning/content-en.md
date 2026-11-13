@@ -16,7 +16,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Execution and safety details:** Agree on isolating the water supply and a wastewater disposal route that will not damage the property. Tank entry requires a confined-space risk assessment, suitable equipment and supervision; external cleaning methods may be preferable where practicable.
 
-**Quotation checkpoints:** Clarify whether hatch, rim and exposed fitting cleaning are included, and how clean surfaces and outlets will be protected from recontamination.
+**Quotation checkpoints:** Clarify whether hatch, rim and exposed fitting cleaning are included, and how clean surfaces and outlets will be protected from recontamination. Agree on temporary water supply during the outage, wastewater disposal charges, and what happens if deposits cannot be reached without dismantling components.
 
 **Handover evidence:** Request post-cleaning photos of the floor and corners, the time the supply was restored, and a note of any separately required disinfection or water testing. A cleaning record is not proof of drinking-water potability.
 
@@ -34,7 +34,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Execution and safety details:** Request documentation showing that the selected disinfectant is suitable for potable-water systems, together with handling, dilution and disposal precautions. Do not assume a universal dose or mix products.
 
-**Quotation checkpoints:** Specify who performs any required tests and the conditions for returning the tank to service. A cleaning certificate is not automatically a water-quality laboratory certificate.
+**Quotation checkpoints:** Specify who performs any required tests and the conditions for returning the tank to service. A cleaning certificate is not automatically a water-quality laboratory certificate. Agree who pays for repeat treatment and resampling if a contracted test fails, and whether these are included or separately quoted.
 
 **Additional acceptance checks:** Check the treatment record, timings and contracted test results, with a defined response if return-to-service criteria are not met.
 
@@ -52,7 +52,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Execution and safety details:** State whether the pool is filled, its finish and the wash-water disposal point. Draining is not necessary for every cleaning job and may require separate assessment.
 
-**Quotation checkpoints:** Separate brushing and vacuuming from filter servicing and water-chemistry adjustment, and identify who supplies chemicals or repairs faulty pumps.
+**Quotation checkpoints:** Separate brushing and vacuuming from filter servicing and water-chemistry adjustment, and identify who supplies chemicals or repairs faulty pumps. Confirm whether waterline cleaning products suit the pool finish, how persistent stains needing abrasion or repair are handled, and whether the pool must close during treatment.
 
 **Handover and reopening:** Request a record of basket cleaning and any contracted filter backwash, plus the agreed water-test readings. Clear-looking water alone is not sufficient evidence that swimming is safe; reopening depends on appropriate operational and water-safety checks.
 

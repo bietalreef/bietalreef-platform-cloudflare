@@ -151,3 +151,75 @@ Provide wall heights, opening drawings, substrate details and exposure condition
 ### 35. Marble repair and treatment
 
 Photograph cracks, loose pieces or stains and determine whether the cause is superficial, moisture-related or substrate movement. Seek a diagnosis before filling, resetting or repolishing, and approve a repair colour sample. Check repaired sections for stability and acceptable appearance after cleaning.
+
+## Kitchen countertops and vanities
+
+### 36. Kitchen countertop fabrication
+
+Measure the installed cabinets and actual wall geometry, then specify slab material, thickness, colour, edge profile and backsplash. Approve a slab layout showing veins, seams and cut-outs before fabrication. Compare material, machining, reinforcement, transport and waste separately. Inspect dimensions, straight edges and cracks at delivery; appliance openings must not be cut from guessed measurements.
+
+
+### 37. Kitchen countertop installation
+
+Check that cabinet carcasses are level, secured and capable of supporting the selected surface, and coordinate sink and appliance services first. Ask how the slabs will be fixed and how joints and wall gaps will be sealed. Compare lifting, protection and final sealing in the quotation. At handover inspect levels, seams and cabinet damage, then test for water pooling around the sink.
+
+
+### 38. Marble vanity fabrication
+
+Provide the vanity width, height, tap and waste positions, and photographs of the wall or support frame. Distinguish a carved stone basin from a stone top carrying a separate basin. Confirm bowl depth, drainage falls, support and waterproof joints before cutting. Compare edge finishing and fittings, then test secure fixing, drainage and leaks at handover.
+
+
+### 39. Sink and appliance cut-out fabrication
+
+Supply the exact sink, hob or appliance model and its manufacturer's cutting template rather than a generic photograph. Check clearance to slab edges and seams and coordinate cabinetry and pipes below. Agree corner radii and reinforcement of narrow sections. Measure the opening against the template and inspect cut-out corners for hairline cracks before fitting the appliance.
+
+
+### 40. Quartz countertop installation
+
+Select a specific quartz product, thickness and physical colour sample, and check the manufacturer's restrictions on direct heat exposure. Approve seam locations, pattern alignment, lifting and fixing arrangements. Compare the inclusion of sink cut-outs and backsplashes. Inspect levels, seam finish and colour consistency, and follow the product's care guidance rather than assuming hot-pan resistance.
+
+
+### 41. Porcelain slab countertop installation
+
+Large-format porcelain needs planned cutting, suitable handling equipment and support, especially near sink openings and thin edges. Provide dimensions, cabinet construction and joint positions; request the slab thickness, support design and compatible bonding system. Compare edge finishing and delivery arrangements. Inspect flatness, seams, chips and cracks after installation.
+
+
+### 42. Countertop repair and repolishing
+
+Identify the surface material before selecting a treatment: natural marble, engineered quartz, porcelain and solid surfaces cannot all be polished in the same way. Photograph scratches, stains and chips and provide product information if available. Request a small test patch, compare local repair against replacement and inspect the resulting colour, texture and edges without assuming every mark can be removed.
+
+## Ceramic and porcelain tiles
+
+### 43. Ceramic tile supply
+
+Send measured floor or wall areas, a laying plan, tile size and intended use, with an explicit allowance for cutting waste. Ask for absorption and slip-performance information where relevant, and confirm shade, grade and batch codes. Compare supply, adhesive and delivery costs. Open sample boxes on receipt and check breakage, dimensions and colour.
+
+
+### 44. Porcelain tile supply
+
+Specify indoor or outdoor use, tile dimensions, thickness and finish; glossy tiles should not be selected for wet areas without checking slip performance. Request product sheets, edge type and batch codes, and account for cutting waste and spare tiles. Inspect cartons and sample pieces for shade variation, bowing and damage before installation.
+
+
+### 45. Outdoor paving tile supply
+
+Explain whether the paving is for footpaths, parking or a courtyard, and provide photographs of the existing base, drainage and expected loads. Compare thickness, slip resistance, bedding and fixing method rather than appearance alone. On delivery check thickness, breakage and consistency, then approve a small laid sample showing pattern, joints and falls.
+
+
+### 46. Tile cutting and preparation
+
+Supply a laying drawing showing cuts around doors, drains and corners, with verified dimensions and pattern direction. Distinguish straight cuts from mitred edges and circular openings, and agree tolerances and edge protection for transport. Inspect labelled pieces for clean cuts and correct dimensions before installation to reduce waste.
+
+
+### 47. Ceramic tile installation
+
+Inspect the substrate for flatness, cleanliness and moisture, then agree the laying pattern, movement joints, thresholds and drain levels. Specify a suitable adhesive or mortar system and protect existing waterproofing. Price removal of old finishes separately where required. At handover inspect alignment, joints, adhesion and falls in wet areas.
+
+
+### 48. Porcelain tile installation
+
+Check tile format and substrate flatness before pricing: large tiles require careful preparation, handling and a compatible fixing system. Agree joint layout, cuts, adhesive coverage and preservation of existing movement joints. At handover inspect lippage, alignment, damaged pieces and secure bedding.
+
+
+### 49. Skirting tile supply and installation
+
+State the skirting height, net wall lengths and whether the material matches the floor, with photographs of corners and door frames. Agree mitred corners, frame junctions, fixing and any required sealing. Compare the linear-metre price including cuts, adhesives and finishing. Inspect top-line straightness, secure attachment and neat joints.

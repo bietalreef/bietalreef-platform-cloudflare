@@ -366,24 +366,27 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/interior-design/review.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/review.md"
+        "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Verified 210/434 bilingual services: general maintenance 105/105, all ten specialties, Arabic and English sequential headings re-fetched from GitHub. Five sectors remain (224 services); next building-materials / توريد الأسمنت. Human review required.",
+      "review_note": "Building materials specialty 1 authored 21/21 AR and EN, verified by re-fetch; 231/434 total, 203 remaining. Resume MDF service 22. Human review pending.",
       "editorial_progress": {
         "sector": "building-materials",
-        "specialty": "مواد البناء والتشطيب",
+        "specialty": "الأخشاب والألواح",
         "last_completed_sector": "general-maintenance",
-        "last_completed_service_number": 105,
-        "last_completed_service_name": "صيانة أعمال العزل",
-        "next_service_number": 1,
+        "last_completed_service_number": 21,
+        "last_completed_service_name": "توصيل المواد إلى المشروع",
+        "next_service_number": 22,
         "sector_total": 49,
         "area_total": 434,
-        "area_independently_rewritten": 210,
-        "remaining_area_services_for_originality_review": 224,
+        "area_independently_rewritten": 231,
+        "remaining_area_services_for_originality_review": 203,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 0,
-        "remaining_in_sector": 49
+        "sector_independently_rewritten": 21,
+        "remaining_in_sector": 28
       }
     },
     {

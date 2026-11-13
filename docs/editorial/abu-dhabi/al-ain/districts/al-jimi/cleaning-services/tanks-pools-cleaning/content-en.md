@@ -36,7 +36,7 @@ This is preparatory information for company and establishment services, not a li
 
 **Quotation checkpoints:** Specify who performs any required tests and the conditions for returning the tank to service. A cleaning certificate is not automatically a water-quality laboratory certificate. Agree who pays for repeat treatment and resampling if a contracted test fails, and whether these are included or separately quoted.
 
-**Additional acceptance checks:** Check the treatment record, timings and contracted test results, with a defined response if return-to-service criteria are not met.
+**Return-to-service decision:** If contracted test results fail the agreed criteria, do not restore the tank solely on the strength of a cleaning certificate. Request a written corrective-action plan, assigning responsibility for retreatment and resampling before supply resumes.
 
 ## 3. Swimming pool cleaning
 

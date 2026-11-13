@@ -90,6 +90,36 @@ Identify façade height, area, cladding and locations of leakage or peeling. Req
 
 Describe the intended new use and provide existing plans, power, cooling, drainage and access information. Structural, safety or permitting reviews may be needed; a service listing is not permission. Ask for a gap assessment and separate design, alteration and commissioning scopes. Verify systems and agreed design at handover.
 
+## Demolition and concrete works
+
+### 22. Demolition works
+
+Before pricing demolition, mark what must be removed, the plot boundaries and what must remain, with photographs and plans showing buried services and adjoining walls. Internal strip-out differs from full structural demolition in temporary support, isolation, dust and vibration controls. Request a method statement for disconnecting utilities, protecting neighbours, segregating waste and obtaining any applicable approvals from the competent authority. Compare methods, safety responsibilities and the required final site condition; inspect for remaining debris and unintended damage before acceptance.
+
+### 23. Removal of buildings and annexes
+
+Removing a building or annex requires its footprint, height, structural type and proximity to retained buildings or boundary walls. Supply photographs of elevations, roof and access, and specify whether foundations, slabs and services are included. A survey should establish the dismantling sequence, equipment access, vehicle routes and protection for retained structures. Quotes must separate loading, transport and disposal rather than hide the removal boundary in a lump sum. Record the initial condition and check levels and neighbouring structures after clearance.
+
+### 24. Concrete cutting and core drilling
+
+Concrete cutting may create a doorway or service trench; core drilling may accommodate a pipe. State opening dimensions, element thickness and location, and supply structural drawings and photographs of both faces where possible. A competent specialist must establish reinforcement, embedded cables and structural implications before cutting. Compare the cutting technique, water and dust containment, temporary support and removal of cores. Measure the completed opening and check edges and any new cracking at handover.
+
+### 25. Casting footings and foundations
+
+Foundation quotations require a ground investigation, structural drawings, excavation dimensions and founding levels—not merely the building floor area. Identify responsibility for any dewatering, backfill, compaction, waterproofing, blinding concrete, reinforcement and formwork. Require hold-point inspections and records for compaction, steel and concrete before concealment. Confirm starter-bar locations and penetrations early. Compare measured quantities, specified materials, test results and the supervising engineer's inspection records before accepting the stage.
+
+### 26. Casting concrete slabs
+
+For a concrete roof or suspended slab, provide slab drawings, spans, thicknesses, levels and planned openings or embedded services. Quotes should identify formwork, propping, reinforcement, concrete supply, pumping, curing and weather precautions. Openings and prop removal must follow the designer's requirements, not an on-site guess. Inspect reinforcement and cover before pouring; review sampling and curing records afterwards. Check levels, edges and surface defects at acceptance.
+
+### 27. Construction of concrete walls
+
+Define whether the concrete wall is retaining, shear-resisting, a barrier or another engineered element, with its length, height, thickness and approved design. The scope should identify construction and movement joints, service penetrations, waterproofing and drainage where soil is retained. Compare reinforcement, formwork, concrete, curing and stripping protection; do not treat a load-bearing wall as an ordinary partition. Check alignment, levels, honeycombing, joints and material inspection reports at handover.
+
+### 28. Demolition waste removal
+
+Before arranging demolition-waste removal, estimate the waste types and volumes, collection location and truck access; provide photographs identifying heavy, sharp or potentially special-handling material. Separate sorting, loading, containers, haulage and lawful disposal in the quotation, and allocate responsibility for protecting pavements, entrances and roads. Different materials may require different disposal routes, which should be confirmed with the relevant operator and authority. Obtain transfer or receipt evidence where applicable, and inspect the cleared site for buried remnants.
+
 ## Preparing a quotation request
 
 Biet Alreef customer service can receive an enquiry even when no company listing is published. Include your name, contact number, area (Al Rahba), service, property type, dimensions or available drawings, site photos, preferred survey date and required materials or works. Send these details through the approved customer-service channel without assuming a price or contractor availability. Confirm project-specific permits and licensing with the competent authorities before work; a service listing is not an approval.

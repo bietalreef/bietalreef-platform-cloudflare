@@ -264,3 +264,62 @@ Tank waterproofing differs from roofing because the coating contacts stored wate
 ### 63. Treatment of moisture caused by leaks
 
 Peeling paint or mould after a leak cannot be solved by repainting alone. Record the water source, moisture readings, affected finishes and damage extent, then repair the leak before drying materials. Separate diagnosis, repair, drying, removal of damaged finishes and plaster and paint restoration in the quotation. Extensive fungal growth warrants appropriate occupant precautions and specialist assessment. At handover, review suitable dryness indicators and monitor for returning stains once services are running.
+
+
+## Air conditioning and cooling
+
+### 64. Split air-conditioner installation
+
+Size the room and record its openings, outdoor-unit location and condensate drain route before selecting capacity. Supply wall and electrical-panel photos and an approximate inter-unit distance. Ask for mounting brackets, copper-pipe length, insulation, wiring, penetrations and making-good to be itemised. Compare installation warranties and evacuation and leak-testing methods; accept after cooling, drainage and noise checks.
+
+### 65. Central air-conditioning installation
+
+Start with zone-by-zone cooling-load assessment rather than floor area alone. Review ceiling heights, occupancy, envelope insulation, duct routes and electrical supply. Request coordinated unit, supply-and-return duct, service-access and drain drawings, plus a capacity and commissioning schedule. Compare zoning, controls, insulation and maintainability. Record airflow, temperature, condensate and commissioning results at handover.
+
+### 66. Concealed air-conditioning installation
+
+Concealed units require sufficient ceiling void, filter access and return-air provision before gypsum closure. Share reflected-ceiling drawings, beam dimensions and any lighting or sprinkler positions. Request coordinated unit, duct and drainage layouts. Compare unit depth, available static pressure, acoustic treatment and filter replacement access. Verify service clearance, condensate drainage and airflow balance before closing ceilings.
+
+### 67. Air-conditioning refrigerant pipework
+
+Confirm refrigerant type, route length, height difference and penetrations before sizing lines; pipe diameters should follow equipment requirements. Record routing conflicts with electrical and drainage services and photograph openings. The quote should identify copper specification, insulation, protection, supports, testing and reinstatement. Obtain documented pressure testing and evacuation appropriate to the equipment, plus concealed-route photographs before closure.
+
+### 68. Air-duct installation
+
+Ductwork should be designed around required room airflow, ceiling space and other building services. Provide plans, corridor dimensions and diffuser positions. Specify duct sizes, material and gauge, insulation, hangers, access points and balancing devices. Compare more than sheet-metal rates: include dampers, flexible connections, terminals and testing. Check joints and insulation and record outlet airflow measurements.
+
+### 69. Air-conditioning equipment replacement
+
+Before replacing a failed unit, obtain a diagnosis distinguishing repairable faults from inadequate capacity or poor air distribution. Photograph the nameplate, location and existing connections. Check replacement compatibility with power, pipework and ducts. Compare removal, transport, disposal, modifications, commissioning and warranty as separate costs. Accept only after performance and drainage checks with the new unit details recorded.
+
+### 70. HVAC commissioning and inspection
+
+For a new or substantially altered HVAC system, request a commissioning plan covering fan rotation, controls, protection, drainage and airflow distribution. Provide as-built drawings, equipment IDs and fault history, and agree occupancy requirements during tests. Compare recorded measurements and reporting rather than a technician visit alone. Handover should include resolved defects and baseline readings for future servicing.
+
+### 71. Air-conditioner cleaning
+
+Reduced airflow or odour may involve dirty filters, coils or condensate pans, although other faults are possible. List unit types and quantities, filter photos and access constraints. Ask exactly which parts will be cleaned and how electrics and furniture will be protected. Distinguish surface cleaning from coil, pan and drain cleaning in quotations. Inspect cleanliness, drainage and leakage after restart.
+
+### 72. Refrigerant charging
+
+Low refrigerant charge calls for leak investigation rather than repeated top-ups without diagnosis. Provide the equipment model, nameplate and service history. Require the correct refrigerant, specified charge and appropriate recovery or handling procedures under the equipment instructions. Price leak detection, repair, testing and charging separately. Obtain operating measurements and recorded charge quantity, and verify that leakage has been addressed.
+
+### 73. Air-conditioning fault repair
+
+For a stopped or intermittently cooling unit, record error codes, timing, breaker status and noises without opening electrical components yourself. Request diagnosis distinguishing controls, sensors, condenser, compressor and airflow issues, with the failed component identified before replacement. Compare diagnosis, parts, labour and warranty separately. Test a complete operating cycle and check that the fault does not recur.
+
+### 74. Air-duct cleaning
+
+Before ordering duct cleaning, establish whether there is actual dust accumulation, contamination or obstruction; whole-network cleaning is not automatically necessary. Provide duct layouts, access photos and filter condition. Specify access, containment, debris capture and protection of occupied areas. Compare the duct sections included and before-and-after inspection records. Check insulation and dampers and obtain a location-specific completion report.
+
+### 75. Central AC unit maintenance
+
+Central plant maintenance should cover filters, coils, belts where fitted, fans, drains and controls, with preventive work distinguished from repairs. Supply an asset register, running hours and alarm history. Require unit-specific checklists and before-and-after readings. Compare visit frequency, consumables, expected downtime and response terms. Collect measurements, unresolved defects and prioritised recommendations.
+
+### 76. HVAC spare-parts replacement
+
+For a replacement component, request its part number, failure diagnosis and compatibility with the unit model rather than a generic description. Share nameplate and part photos where possible. Confirm whether the item is new or refurbished and the warranty terms. Compare fitted-and-tested cost including any reset or calibration. Retain the invoice, part identification and operating-test result.
+
+### 77. Scheduled HVAC maintenance contracts
+
+A useful maintenance contract defines asset counts, types, locations and visit intervals before annual pricing. Share the equipment register and recurring fault history. Separate inspections, cleaning, spare parts, emergency call-outs, response times and exclusions. Compare visit checklists, evidence of work and escalation arrangements, not just visit counts. Review the first service report and corrective-action plan before continuing.

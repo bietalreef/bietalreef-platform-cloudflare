@@ -370,24 +370,27 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/general-maintenance/review.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/review.md"
+        "docs/editorial/abu-dhabi/areas/al-wathba/building-materials/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/aluminium-glass/review.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Verified 49/49 bilingual building-materials services across 5 specialties; Al Wathba 259/434, 175 remaining. Next aluminium-glass service 1. Human review pending.",
+      "review_note": "Verified GitHub bilingual aluminium-glass specialty 1–14, 14/56; Al Wathba 273/434, 161 remaining. Next specialty wooden furniture and decor service 15. Human technical/language review pending.",
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "المطابخ والخزائن والأبواب الخشبية",
+        "specialty": "الأثاث والديكور الخشبي",
         "last_completed_sector": "building-materials",
-        "last_completed_service_number": 49,
-        "last_completed_service_name": "توريد وتركيب الوزرات",
-        "next_service_number": 1,
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "دهان وتجديد الأخشاب",
+        "next_service_number": 15,
         "sector_total": 56,
         "area_total": 434,
-        "area_independently_rewritten": 259,
-        "remaining_area_services_for_originality_review": 175,
+        "area_independently_rewritten": 273,
+        "remaining_area_services_for_originality_review": 161,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 0,
-        "remaining_in_sector": 56
+        "sector_independently_rewritten": 14,
+        "remaining_in_sector": 42
       }
     },
     {

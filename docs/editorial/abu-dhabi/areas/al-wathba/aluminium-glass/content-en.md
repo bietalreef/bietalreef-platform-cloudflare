@@ -207,3 +207,34 @@ A glass balustrade is fall protection, not just decoration. The responsible desi
 
 Photograph and locate the defect: broken pane, leakage, failed gasket or loose fixing, including height and access constraints. Secure any hazardous area and plan safe access before work. Replacement glazing may need to match the original façade system rather than accept a patch repair. Request a cause report, parts schedule and test plan, then verify secure glazing and sealed joints.
 
+
+
+## Steel and metal fabrication
+
+### 50. Steel door fabrication
+
+Supply finished opening dimensions, swing direction, exposure and security needs. Request fabrication drawings specifying steel sections, thickness, hinges, lock, reinforcement and corrosion protection. Compare supply, fitting and finishing scope, then inspect frame alignment, welds, coating and locking action.
+
+### 51. Metal railing fabrication
+
+Identify the railing location, length, stair or balcony levels and supporting substrate. A competent designer must establish height, spacing, loading and fixings; a decorative photograph is not a safe fabrication specification. Review weld details and coating sample, then check stability, spacing and safe edges.
+
+### 52. Canopy fabrication
+
+Record the covered area, vehicle or pedestrian headroom, columns and buried services. Review structural loads, wind resistance, anchors and drainage before fabrication, and specify covering and corrosion protection. Compare foundations, frame, covering and erection separately; inspect alignment, rainwater run-off and connections.
+
+### 53. Structural steelwork
+
+Start with drawings showing dimensions, loads, use and connections to existing structures. Require engineered member, weld and bolt details, temporary bracing, lifting plans and inspection requirements; visual judgement alone cannot size structural members. Compare fabrication, transport, erection and testing, then review alignment and connection inspection records.
+
+### 54. Stainless steelwork
+
+Specify whether the work is a handrail, worktop or cladding and describe humidity and cleaning chemicals. Request alloy grade, thickness, finish and welding details; shine alone does not guarantee corrosion resistance. Approve a polished sample, then inspect edges, finish consistency, joints and care instructions.
+
+### 55. Welding services
+
+Provide photographs, metal type, thickness, joint location and whether the task is structural or a non-structural repair. Critical welds need procedures and inspection defined by qualified personnel; covering a structural crack with a bead is insufficient. Itemise preparation, consumables, testing and protection, then review inspection records and finish.
+
+### 56. Metalwork maintenance
+
+Photograph corrosion, distortion, loose anchors or cracked welds and describe the component's function. Separate a coating defect from damage affecting a gate or guard's integrity; obtain engineering assessment before reuse where uncertain. Request itemised repairs, protection and final inspection, and check the cause rather than appearance alone.

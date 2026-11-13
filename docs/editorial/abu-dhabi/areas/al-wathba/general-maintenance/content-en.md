@@ -205,3 +205,62 @@ State whether the sensor serves an internal corridor, outdoor entrance or parkin
 ### 49. Lighting fixture maintenance
 
 Describe whether the fault is flicker, outage, dim output, overheating or a damaged cover; provide photographs and model numbers if available. Safe diagnosis should distinguish the luminaire from its driver, switch or supply rather than replacing parts indiscriminately. Request compatible spares, warranty details and safe access provisions for elevated fittings. Compare repair costs with an equivalent replacement and verify sustained operation, secure fixing and no recurring fault.
+
+
+## Plumbing and leak detection
+
+### 50. Water supply pipework installation
+
+For a new build or relocated kitchen and bathrooms, begin with a drawing showing outlets, pipe routes, diameters, isolation valves and penetrations. Share room dimensions, supply location and existing-route photographs. Ask for pipe material, jointing, supports and protection at wall crossings. Compare quotations by outlet count, lengths, testing and making good rather than a point rate alone. Record a pressure test and inspect for leakage before closing concealed runs; retain the valve and pipe locations.
+
+### 51. Drainage pipework installation
+
+Drainage differs from pressurised supply: gradients, ventilation, cleaning access and connection levels govern performance. Provide fixture positions, available levels and floor drawings. Specify pipe sizes, traps, junctions and accessible cleanouts. Confirm whether excavation, backfill, leak tests and floor reinstatement are included. Before concealment, inspect installed falls and test flow through the system; check for persistent odours or backflow.
+
+### 52. Sanitary fixture installation
+
+Confirm actual dimensions and models of toilets, basins, mixers and showers before fixing supply and waste outlets. Photographs and clearances to walls and doors help avoid clashes. Ask whether the quotation includes traps, flexible connectors, sealants, supports and removal of old fittings. Compare serviceability and warranties as well as product quality. Check fixing stability, sealed edges, drainage and any drips while fixtures operate.
+
+### 53. Water tank installation
+
+Establish expected demand, available space, cleaning access, base position and fill and overflow routes before selecting a tank. Supply dimensions, site photographs and proposed tank details. Ask for base load checks, material suitability for the intended water use, valves, float control, venting and secure access cover. Separate tank, base, lifting, pipework and insulation costs. Handover should include filling and draining checks, leak inspection and safe access for future cleaning.
+
+### 54. Water pump installation
+
+Low pressure does not automatically justify a larger pump: first assess pressure, flow, building height and existing pipe restrictions. Share the number of bathrooms and floors, plus tank, power-supply and installation-space photographs. Request the pump duty curve, dry-run protection, vibration and noise provisions, isolation and non-return valves. Compare equipment, controls, pipework and servicing costs. Test simultaneous demand, automatic start-stop and leakage before acceptance.
+
+### 55. Pipework rehabilitation
+
+Recurring leaks or weak flow in older services call for diagnosis before wholesale replacement. Collect repair history, known pipe age and photographs of finishes and access points. Ask which sections can remain, proposed alternative routes, wall and floor disruption and planned water shutoffs. Compare lengths, pipe grades, testing and reinstatement. Obtain updated as-built routing, a pressure test for renewed sections and photographs of concealed joints.
+
+### 56. Drainage network maintenance
+
+Slow drainage, smells or backflow can result from a local blockage, poor falls or inadequate venting. Describe affected fixtures and when symptoms occur, with inspection-chamber photographs if available. Request a cause-led inspection before rodding or opening floors, with protection for existing fixtures. Compare diagnosis, clearing, pipe repairs and waste disposal separately. Test discharge from several points and confirm that the site is clean and backflow has stopped.
+
+### 57. Water leak detection
+
+Unexpected consumption or damp patches require locating the water source before breaking finishes. Share available meter readings, stain photographs, nearby fixtures and symptom timing. Depending on conditions, isolation tests, pressure measurements, moisture surveys or thermal imaging may help; no single technique proves every leak. Request a report identifying suspected location, confidence and a limited opening plan. Compare diagnostic evidence, then verify the repair with an appropriate follow-up test.
+
+### 58. Pipe leak repair
+
+Once the leak is located, establish pipe material, condition and access before choosing a coupling or replacement length. Provide damp-area photographs and any diagnostic findings. Ask for separate pricing of detection, opening, repair and finish reinstatement. Painting over water damage is not a repair. Pressure-test the repaired joint, allow sufficient drying before enclosure and retain a photograph of the repaired concealed route.
+
+### 59. Water tank leak detection
+
+A falling tank level can arise from its shell, connections, float valve or overflow. Investigate these possibilities in sequence. Provide tank type, capacity, location, base and connection photographs, and a record of level changes if possible. Ask for safe testing suited to the tank material, including inlet and outlet isolation. Do not assume an internal coating is appropriate before confirming the source and stored-water compatibility. Obtain the test findings and a repeat filling check.
+
+### 60. Bathroom waterproofing
+
+Bathroom waterproofing must coordinate floor falls, drains and pipe penetrations before tiling. Provide floor area, shower and drain positions and the intended wall upstand extent. Specify substrate preparation, membrane layers, curing and protection during subsequent trades. Compare the coverage of corners and penetrations and the proposed test, not only the price per square metre. Inspect and document a suitable flood test before tiling begins.
+
+### 61. Roof waterproofing
+
+Before replacing a roof membrane where water ponds or ceiling stains appear, inspect drainage falls, outlets, joints and existing layers. Share roof dimensions and photographs of ponding, parapets and equipment. Specify a system suited to exposed or protected conditions, substrate preparation, junction details and protection against weather and movement. Compare thickness, details and warranty exclusions. Inspect adhesion and terminations and perform a suitable leak test before handover.
+
+### 62. Water tank waterproofing
+
+Tank waterproofing differs from roofing because the coating contacts stored water and the interior must remain cleanable. Provide tank construction, dimensions, condition and photographs of cracks and joints. Require evidence that the proposed system suits the intended water use, with preparation, curing and rinsing procedures before return to service. Price crack repairs separately from the waterproofing layers and state the outage duration. Verify watertightness, surface condition and cleaning records.
+
+### 63. Treatment of moisture caused by leaks
+
+Peeling paint or mould after a leak cannot be solved by repainting alone. Record the water source, moisture readings, affected finishes and damage extent, then repair the leak before drying materials. Separate diagnosis, repair, drying, removal of damaged finishes and plaster and paint restoration in the quotation. Extensive fungal growth warrants appropriate occupant precautions and specialist assessment. At handover, review suitable dryness indicators and monitor for returning stains once services are running.

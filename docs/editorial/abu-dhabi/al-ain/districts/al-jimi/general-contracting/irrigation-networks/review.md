@@ -13,3 +13,7 @@
 5. صيانة شبكات الري — Irrigation network maintenance
 6. برمجة أنظمة الري الآلي — Automatic irrigation programming
 7. كشف تسربات شبكات الري — Irrigation network leak detection
+
+## إضافة سلامة ثنائية اللغة — 2026-11-13
+
+أُضيف تنبيه محدد لمخاطر رجوع مياه الري إلى مصدر مياه الشرب، وضرورة تحديد الحماية المناسبة بواسطة مختص وفق متطلبات الجهة المعنية، دون اقتراح توصيل غير معتمد. English introduction carries the equivalent backflow-prevention caution. Status remains preparatory/non-selectable; area audit pending.

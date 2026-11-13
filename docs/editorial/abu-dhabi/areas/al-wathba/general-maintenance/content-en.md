@@ -117,3 +117,33 @@ A marble appearance does not establish heat or moisture resistance; verify the a
 ### 28. Gypsum repair and maintenance
 
 First identify whether damage comes from a leak, moving joint, impact or weak fixing. Photograph both close-up and wider views with a scale, and note hidden services or loose sections. Repair moisture sources or structural fixing faults before closing the ceiling or partition. Match board type, patch backing and joint treatment; compare removal, replacement and repainting. Inspect adhesion and flatness and monitor for renewed staining where relevant.
+
+## Flooring and wall cladding
+
+### 29. Ceramic tile installation
+
+Measure floors or walls, recording doors, drains, corners and cuts; nominal tile size alone does not determine waste. Check substrate flatness, moisture and waterproofing condition in wet rooms. Request samples of tile and grout and an adhesive specification suited to the substrate. Compare quotations for preparation, laying direction, joint width, skirting, sanitary-fitting cuts and disposal rather than a single square-metre rate. At handover inspect joint alignment, tile stability, drainage falls where applicable and freedom from scratches or adhesive residue.
+
+### 30. Porcelain tile installation
+
+Large-format porcelain requires different handling, cutting and installation planning from smaller ceramic tiles, especially around openings and long edges. Supply room measurements, a proposed layout, product references and thickness, and distinguish wall from floor use. Ask how the installer will prepare the substrate, select adhesive, achieve adequate backing coverage and accommodate joints and movement. Compare cutting, waste, thresholds and levelling costs. Inspect edge lippage, pattern continuity and tile stability using agreed inspection criteria.
+
+### 31. Parquet flooring installation
+
+Specify whether the product is solid wood, engineered wood or a composite floor: moisture tolerance, cleaning and fixing methods differ. Measure the rooms, door clearances and existing floor levels, and record daylight direction. Request substrate moisture assessment and any required underlay or moisture barrier. Quotations should identify fixing method, expansion gaps, skirting, transitions to tiles and protection during later works. Walk the entire floor at handover, checking raised or moving sections, board ends and thresholds.
+
+### 32. Vinyl flooring installation
+
+Choose vinyl for the actual foot traffic, water exposure and loads from wheeled furniture or equipment. Provide a room plan, substrate photographs and intended use; request a physical sample, wear-layer specification and cleaning instructions. Fully bonded sheet or tile systems differ from click-lock planks, so clarify levelling, crack treatment, adhesives, joints and edge details. Compare preparation, material, warranty conditions and maintenance requirements. Check joints, straight rows, adhesion and the absence of bubbles or lifting edges.
+
+### 33. Interlocking paving installation
+
+Paths and vehicle parking require more than a count of paving blocks: intended loading and water drainage influence the base design. Supply dimensions, levels and ground-condition photographs, identifying pedestrian and vehicle zones. Ask for specified excavation, compaction, bedding, edge restraints, laying pattern and block thickness appropriate to the design. Compare excavation and waste removal, sub-base construction and finishing as separate items. At acceptance check falls, levels, secure edges and settlement under suitable trial use.
+
+### 34. Wall cladding installation
+
+Cladding may consist of stone, tile, sheet panels or lightweight decorative materials; weight and wall construction determine suitable fixings. Photograph and measure the wall, noting openings, outlets, damp patches and heat exposure. Request samples and drawings showing joints and corners. The scope should state substrate preparation, adhesive or mechanical fixing, movement detailing and access to service points. Compare edge cutting and reinforcement as well as material costs. Inspect alignment, anchorage, colour consistency and unobstructed vents and service equipment.
+
+### 35. Flooring repairs
+
+Identify the floor material and photograph both the defect and surrounding area: loose tiles, cracks, swollen wood, peeling vinyl or sunken paving. Investigate causes such as water leakage, weak bedding or possible structural movement before replacing only the visible damaged section. Provide affected dimensions and details of any spare matching materials. Ask quotations to separate removal, underlying repairs and replacement, and compare local patching with wider renewal when defects recur. At handover check levels, stability, joints and transitions to adjacent flooring.

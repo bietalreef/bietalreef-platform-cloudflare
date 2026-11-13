@@ -8,7 +8,7 @@ A family planning a villa should settle bedroom count, majlis access, parking an
 
 **What to document and measure:** Provide plot boundaries, approved architectural and structural drawings where available, floor areas, soil report and site-access photographs. Mark road-to-plot level differences, excavation close to neighbours, and mixer and concrete-pump access. Ask for separate allowances for foundations, shell, waterproofing, finishes and utility connections.
 
-**Compare quotations and agree boundaries:** Compare concrete and steel specifications, nominated finishes, provisional sums and whether design coordination, permits, boundary walls and landscaping are excluded. Record approval responsibilities and inspection stages.
+**Compare quotations and agree boundaries:** Compare concrete and steel specifications, nominated finishes, provisional sums and whether design coordination, permits, boundary walls and landscaping are excluded. Identify who supplies materials, coordinates design and permits, supervises the structure and finishes, and pays for testing and utility connections. Record sample approvals and reinforcement inspection hold points before casting.
 
 **Inspection and acceptance:** Before closing foundations or walls, request consultant inspections; at handover check entrance levels, room dimensions, water ingress and a documented defects list.
 
@@ -20,7 +20,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 **What to document and measure:** Supply unit schedules, floor plans, lift requirements, access constraints and drawings of common areas. Identify shared pump and electrical rooms, service risers and heavy-equipment access. Clarify fire-safety design and approval responsibilities with qualified professionals.
 
-**Compare quotations and agree boundaries:** Compare shell-and-core versus fully finished unit pricing, common-area finishes, mechanical and electrical systems, testing, commissioning and authority-related exclusions.
+**Compare quotations and agree boundaries:** Compare shell-and-core versus fully finished unit pricing, common-area finishes, mechanical and electrical systems, testing, commissioning and authority-related exclusions. Assign responsibility for coordinating lift, ventilation and fire-safety tests, and for resolving conflicts between apartment services and shared risers before ceilings and walls are closed.
 
 **Inspection and acceptance:** Inspect communal plant and service shafts, lift and safety-system commissioning records, apartment interfaces and the defects register for shared spaces.
 
@@ -32,7 +32,7 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 **What to document and measure:** Include intended use, clear heights, loading access, floor loading requirements and any tenant service allocation; photograph adjoining roads and boundaries.
 
-**Compare quotations and agree boundaries:** Distinguish base-building work from tenant fit-out, signage, specialist ventilation and utility upgrades. Require a written schedule of finishes, interfaces and approvals.
+**Compare quotations and agree boundaries:** Distinguish base-building work from tenant fit-out, signage, specialist ventilation and utility upgrades. Record the intended use of each commercial floor, responsibility for fire-safety and exit approvals, the testing of tenant service connection points and the agreed handover stages. Require a written schedule of finishes and interfaces.
 
 **Inspection and acceptance:** Verify agreed clearances, delivery routes, exit arrangements and shell-and-core connection points against the approved drawings and inspection records.
 

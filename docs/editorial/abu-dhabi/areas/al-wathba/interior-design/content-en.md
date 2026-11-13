@@ -1,6 +1,6 @@
 # Engineering consultancy and design in Al Wathba — editorial draft
 
-This draft explains company and consultancy services without asserting provider availability or government approval. Biet Al Reef customer service can receive a quotation enquiry even when no company is listed. This batch covers architectural design and drawings only; other specialities remain unwritten.
+This draft explains company and consultancy services without asserting provider availability or government approval. Biet Al Reef customer service can receive a quotation enquiry even when no company is listed. Architectural, structural and engineering supervision specialities are covered; interior design and materials remain in progress.
 
 ## Architectural design and drawings
 
@@ -89,6 +89,36 @@ Strengthening may address verified deficiencies or support a proposed alteration
 ### 21. Structural engineering reports
 
 Define whether the report is for a condition assessment, proposed alteration, defect investigation or construction-stage record, because each needs different evidence. Provide drawings, revisions, photographs, logs and test results, and identify inaccessible areas. A useful report separates observations and measurements from assumptions, conclusions and recommendations, and discloses inspection limits and additional testing needs. Check element identifiers, locations, dates, appendices and professional sign-off at handover; a technical report is not itself an authority approval.
+
+## Engineering supervision and consultancy
+
+### 22. Construction supervision
+
+Agree the supervised work packages, site-visit frequency and hold points requiring inspection before work continues. Provide issued drawings, the programme, contractor details and the request-for-information log. Compare offers by visit allowance, disciplines covered and the method for issuing and closing observations. Accept dated photo reports and an action register; appointing a supervisor does not transfer the contractor's execution obligations.
+
+### 23. Project management
+
+Where several contractors and suppliers overlap, the owner needs a coordinated programme, cost baseline, risk register and decision process. Supply contracts, work scopes, budget and milestones. Require change, procurement and delay logs identifying accountable parties. Compare management proposals by meeting frequency, reporting and escalation arrangements; accept an updated programme showing actual progress and outstanding decisions rather than an unsupported percentage.
+
+### 24. Work quality review
+
+Identify the work items, applicable specifications, approved samples and acceptance criteria, whether for concrete, waterproofing or finishes. Each finding should identify its location, photograph and relevant drawing or specification, with testing or remedial work where warranted. Compare inspection proposals by visits, tests, reporting and limitations. Handover should include non-conformance records and evidence of closure, not an unsubstantiated blanket quality certificate.
+
+### 25. Project stage inspections and acceptance
+
+Foundations, concealed services and finished surfaces each require different checks. Identify the stage, required records and work that must be photographed or tested before concealment. Provide issued drawings, test results and previous inspection records. Require a prioritised snag list and reinspection arrangements. Compare quotations by disciplines and repeat visits; retain minutes distinguishing accepted, outstanding and excluded items. Technical acceptance is not an authority approval.
+
+### 26. Construction progress reporting
+
+A useful report compares measured progress against a baseline programme rather than merely displaying site photographs. Supply the work schedule, payment applications and variation orders. For each activity request achieved quantities, delays, critical materials, constraints and decisions needed. Check that dated photographs correspond to the site and that physical completion is separate from financial payments. Accept an auditable report showing sources and assumptions.
+
+### 27. Quantity take-off
+
+Start with identified drawing revisions, specifications and measurement boundaries. Clarify whether the output supports an early estimate, tender bill or payment verification. Quantities should trace dimensions, areas, lengths and volumes to drawings, avoid double counting, and state units and measurement assumptions. Compare proposals by schedule detail and traceability; accept editable worksheets with queries and unresolved items clearly marked.
+
+### 28. Contractor tender comparison
+
+Issue a common scope, drawing set, specification and clarification schedule to bidders. Compare quantities, materials, programme, warranties, exclusions and payment terms, not headline prices alone. Look for unpriced items, variation mechanisms, tests and unclear responsibilities. The deliverable should be a comparison matrix recording differences, risks, open questions and a conditional recommendation; it cannot guarantee any contractor's future performance.
 
 ## Preparing a quotation request
 

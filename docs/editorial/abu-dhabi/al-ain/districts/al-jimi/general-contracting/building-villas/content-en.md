@@ -6,7 +6,7 @@ This is planning information for owners and project teams, not a statement that 
 
 A family planning a villa should settle bedroom count, majlis access, parking and privacy before asking builders to price a design.
 
-**What to document and measure:** Provide plot boundaries, approved architectural and structural drawings where available, floor areas, soil report and site-access photographs. Ask for separate allowances for foundations, shell, waterproofing, finishes and utility connections.
+**What to document and measure:** Provide plot boundaries, approved architectural and structural drawings where available, floor areas, soil report and site-access photographs. Mark road-to-plot level differences, excavation close to neighbours, and mixer and concrete-pump access. Ask for separate allowances for foundations, shell, waterproofing, finishes and utility connections.
 
 **Compare quotations and agree boundaries:** Compare concrete and steel specifications, nominated finishes, provisional sums and whether design coordination, permits, boundary walls and landscaping are excluded. Record approval responsibilities and inspection stages.
 
@@ -18,7 +18,7 @@ A family planning a villa should settle bedroom count, majlis access, parking an
 
 For a multi-unit residential building, the number of apartments is only part of the scope: stairs, lifts, parking, shared meters and service shafts affect cost and coordination.
 
-**What to document and measure:** Supply unit schedules, floor plans, lift requirements, access constraints and drawings of common areas. Clarify fire-safety design and approval responsibilities with qualified professionals.
+**What to document and measure:** Supply unit schedules, floor plans, lift requirements, access constraints and drawings of common areas. Identify shared pump and electrical rooms, service risers and heavy-equipment access. Clarify fire-safety design and approval responsibilities with qualified professionals.
 
 **Compare quotations and agree boundaries:** Compare shell-and-core versus fully finished unit pricing, common-area finishes, mechanical and electrical systems, testing, commissioning and authority-related exclusions.
 
@@ -152,7 +152,7 @@ Restoration should address the cause of cracking or dampness, not merely cover i
 
 **What to document and measure:** Photograph defects with dates and scale references, note previous repairs and leaks, and seek a specialist assessment for suspected structural distress.
 
-**Compare quotations and agree boundaries:** Compare diagnostic investigations, treatment method, compatible repair materials, affected finishes and monitoring requirements. State what concealed damage is excluded pending opening up.
+**Compare quotations and agree boundaries:** Compare diagnostic investigations, treatment method, compatible repair materials, affected finishes and monitoring requirements. Agree when concealed damage requires structural-engineer assessment and how repairs will be documented before covering. State what concealed damage is excluded pending opening up.
 
 **Inspection and acceptance:** Check evidence that the source was treated, inspect repairs before concealment and document any agreed monitoring period.
 
@@ -164,7 +164,7 @@ Renovating an occupied building requires careful sequencing so residents retain 
 
 **What to document and measure:** List affected apartments and shared areas, access hours, service shutdowns, lift protection and waste routes; provide photos and room schedules.
 
-**Compare quotations and agree boundaries:** Compare temporary barriers, dust control, resident notices, disposal, phased handovers and the treatment of unforeseen hidden defects.
+**Compare quotations and agree boundaries:** Compare temporary barriers, dust control, resident notices, disposal, phased handovers and the treatment of unforeseen hidden defects. Agree shutdown notices with management, keep emergency exits clear of materials and establish a resident-complaint procedure.
 
 **Inspection and acceptance:** Inspect concealed work before closing walls, verify service restoration, clear shared routes and record defects separately for each completed area.
 

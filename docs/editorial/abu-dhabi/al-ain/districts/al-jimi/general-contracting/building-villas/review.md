@@ -24,3 +24,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Replaced the same generic quotation-request sentence repeated under all fourteen services with fourteen service-specific requests covering scope, measurement, exclusions and handover evidence.
 - Verified the saved `content-en.md` by reading it back from the target GitHub branch; all fourteen headings remain in place and none of the previous repeated quote-request sentences remain.
 - **Not yet approved:** Arabic paragraphs still reuse repeated boilerplate across services; review their distinctiveness, then check full Arabic/English semantic parity, technical safety and original taxonomy headings before changing this specialty to approved. Area status remains `in_progress`.
+
+## Arabic specificity audit — 2026-11-13
+
+- Replaced 56 repeated Arabic clauses across all 14 original services (scope, evidence/measurements, quotation/contract, acceptance) with distinct service-specific instructions. Confirmed all four former boilerplate sentences have zero occurrences and all 14 numbered headings remain unchanged by reading back `content-ar.md` from GitHub.
+- English RFQ specificity was revised previously. Full line-by-line bilingual semantic parity and technical quality audit of the area are **not** certified; status remains `editorial_rewrite_verified_pending_area_audit`.

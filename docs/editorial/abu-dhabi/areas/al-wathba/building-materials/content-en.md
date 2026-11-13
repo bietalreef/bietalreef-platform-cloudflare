@@ -91,3 +91,33 @@ Provide site location, contact details, access restrictions, unloading gate dime
 ## Request a quotation
 
 Send Biet Al Reef customer service your name, contact number, area (Al Wathba), product or service, itemised quantities and units, specification drawings or photos, unloading location and required date. The request can be reviewed without any guarantee of price, stock or timing. Individual tradespeople are classified separately from companies and establishments.
+
+## Timber and boards
+
+### 22. MDF board supply
+
+Specify board thickness, density and any moisture-resistance grade required for cabinets or interior doors, with a cutting plan and access dimensions for delivery. Compare full-sheet prices with cut-and-edged costs and material waste. On receipt check flatness, swollen edges, sheet count, thickness and the finish colour where applicable.
+
+### 23. Solid timber supply
+
+State the timber species, structural or decorative purpose, finished dimensions and preferred grain orientation; ask how the wood was dried and what moisture condition is suitable for installation. Request photographs of representative pieces and distinguish rough-sawn from machined pricing. Check twisting, splits, unacceptable knots and lengths on delivery.
+
+### 24. Plywood supply
+
+Identify whether the plywood is for formwork, furniture or moisture-exposed locations, specifying thickness, face quality and intended performance. Plywood grades are not automatically interchangeable. Request information on bonding and panel classification; inspect for delamination, corner damage and bowing, and reconcile quantities against the purchase order.
+
+### 25. Melamine-faced board supply
+
+Provide a finish code or physical sample and cabinet drawings, specifying core thickness, texture and whether both faces must match. Compare matching edge-band availability as well as cutting, packing and delivery charges. Verify colour and batch references and reject scratched surfaces or peeling edges before acceptance.
+
+### 26. HPL panel supply
+
+Distinguish thin high-pressure laminate sheets from thick compact HPL panels, and specify thickness, finish and intended wear conditions. Approve a sample, colour and pattern direction, and identify substrate and adhesive where bonding is required. Check dimensions, edges and surface integrity before accepting delivery.
+
+### 27. Joinery hardware supply
+
+Prepare a schedule of hinges, runners, handles and cabinet locks, including door weights, drawer dimensions and opening configurations. Compare load ratings, operating cycles, soft-close function and warranty rather than appearance alone. Test representative hinges and slides and reconcile product codes and counts at handover.
+
+### 28. Board cutting and preparation
+
+Provide a millimetre-based cutting schedule showing each piece, quantity, grain direction, saw-kerf allowance and edge-banding requirements. Agree tolerances, part labels and corner protection, and confirm whether drilling and edging are included. Measure sample pieces against the drawings and inspect cut quality and labels at collection.

@@ -32,7 +32,7 @@ Preparatory guidance for company and establishment services, not evidence of pro
 
 **Facility operating precautions:** Do not spray keyboards, screens, control panels or food-preparation areas directly unless both the product and equipment instructions permit it. Assign responsibility for any necessary electrical isolation, segregating staff from treated zones and maintaining the label-required wet contact time. Fogging or misting is not included unless the product label explicitly authorises that method. Reopen each area only after its ventilation, re-entry and food-safety requirements have been met.
 
-**Acceptance check:** Obtain zone-by-zone timestamps and product records, check equipment and furniture condition, and confirm staff re-entry instructions; an unspecified certificate does not prove efficacy.
+**Acceptance check:** Obtain a record for each zone showing cleaning and application times, product and dilution, contact time and permitted re-entry time; compare completed zones against the agreed floor plan. Record any equipment or furniture damage and who is responsible for rectification. An unspecified certificate does not prove efficacy.
 
 ## Request a quotation
 

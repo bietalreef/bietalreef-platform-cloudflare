@@ -350,7 +350,7 @@
       "name_ar": "الوثبة",
       "name_en": "Al Wathba",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -358,13 +358,13 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/AREA_REVIEW.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/interior-design/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/interior-design/content-en.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/interior-design/review.md",
@@ -382,25 +382,31 @@
         "docs/editorial/abu-dhabi/areas/al-wathba/furniture-decor/review.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/review.md"
+        "docs/editorial/abu-dhabi/areas/al-wathba/equipment-rental/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/cleaning-services/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/cleaning-services/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/cleaning-services/review.md",
+        "docs/editorial/abu-dhabi/areas/al-wathba/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-13",
-      "review_note": "Equipment-rental 53/53 services and 8/8 specialties in both languages re-fetched and verified. Al Wathba 392/434, 7/8 sectors, 42 cleaning services remain. Human review pending; no publication.",
+      "review_note": "2026-11-13: 8/8 sectors, 434/434 service sections per language re-fetched from GitHub; specialty headings checked including restored gypsum heading. Editorial drafts complete, pending independent human technical/regulatory/language review; no publication.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "تنظيف المنازل والمباني",
-        "last_completed_sector": "equipment-rental",
-        "last_completed_service_number": 53,
-        "last_completed_service_name": "توريد المنتجات للمشاريع",
-        "next_service_number": 1,
+        "specialty": "خدمات العمالة والتشغيل",
+        "last_completed_sector": "cleaning-services",
+        "last_completed_service_number": 42,
+        "last_completed_service_name": "خدمات الدعم للمشاريع",
+        "next_service_number": null,
         "sector_total": 42,
         "area_total": 434,
-        "area_independently_rewritten": 392,
-        "remaining_area_services_for_originality_review": 42,
+        "area_independently_rewritten": 434,
+        "remaining_area_services_for_originality_review": 0,
         "area_editorially_approved": false,
-        "sector_independently_rewritten": 0,
-        "remaining_in_sector": 42
-      }
+        "sector_independently_rewritten": 42,
+        "remaining_in_sector": 0,
+        "editorial_draft_completed": true
+      },
+      "completed_at": "2026-11-13"
     },
     {
       "sequence": 6,

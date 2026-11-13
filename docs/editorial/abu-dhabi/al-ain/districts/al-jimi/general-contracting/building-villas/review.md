@@ -55,3 +55,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Compared Arabic and English services 1–3 (villa, residential building and commercial building construction) for scope, contract responsibility, authority checks and inspection stages. Expanded three English quotation/contract paragraphs to cover supplier and permit responsibilities, common-service conflicts before closure, and tenant connection-point testing. Read back the updated English file from the target GitHub branch.
 - Fixed missing whitespace after the Arabic quotation-request label in all 14 services; read back and verified all 14 labels.
 - **Still pending:** detailed parity and safety review for services 7–14, full uniqueness and technical audit for 1–14, and remaining specialties. These targeted edits do not certify the area as complete.
+
+## English detail and safety alignment — 2026-11-14
+
+- Expanded service-specific English quotation/contract guidance for services **7–14**: turnkey finish schedules and commissioning; new-villa shading and future works; annex foundation and utility interfaces; outdoor majlis acoustic and cooling scope; villa-extension engineering and temporary support; residential alterations and fire-stopping; villa restoration and concealed-defect assessment; occupied-building renovation and emergency access.
+- The eight edits were read back from the target GitHub branch and matched the submitted text (commit `59e2eb2d20098a19de51c563f806c456fce75a55`). All fourteen original service headings were retained.
+- **Not approved:** service-by-service Arabic/English semantic parity, originality and safety still require independent final review; review the other 49 specialties and all 434 services before marking Al Jimi complete.

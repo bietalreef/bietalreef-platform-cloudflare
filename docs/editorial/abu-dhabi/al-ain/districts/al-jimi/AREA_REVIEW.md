@@ -980,3 +980,8 @@
 
 - الحالة `in_progress`؛ أضيفت احتياطات مستقلة لتوفير عمال النظافة وعمال التحميل في [العربية](./cleaning-services/workforce-operations/content-ar.md) و[English](./cleaning-services/workforce-operations/content-en.md) و[المراجعة](./cleaning-services/workforce-operations/review.md)، دون تغيير أسماء الخدمات.
 - **أول نقص تالٍ:** فحص تخصصات تنظيف المنازل والمباني والمفروشات والواجهات والمواقع والخزانات والمسابح (بعد التحقق من slugs)، ثم مراجعة بقية تخصصات التنظيف الثمانية والمعدات الثمانية، ثم مطابقة 50 تخصصًا و434 خدمة لكل لغة مع الشجرة وتدقيق التفرد والسلامة وحالات التفعيل. الجيمي `in_progress` ولا يبدأ المويجعي.
+
+## تدقيق تنظيف المنازل والمباني — 2026-11-13
+
+- الحالة: `in_progress`. أضيفت سبع فقرات نطاق وسلامة مخصصة في كل لغة إلى [العربية](./cleaning-services/homes-buildings-cleaning/content-ar.md) و[English](./cleaning-services/homes-buildings-cleaning/content-en.md)، ووُثقت في [المراجعة](./cleaning-services/homes-buildings-cleaning/review.md)؛ تمت إعادة قراءة الملفات المتغيرة والتحقق من النصوص.
+- **أول نقص تالٍ:** تدقيق `cleaning-services/upholstery-cleaning` ثم `facade-site-cleaning` ثم `tanks-pools-cleaning` وفق أسماء المجلدات الفعلية، وبقية تخصصات التنظيف الثمانية والمعدات الثمانية؛ وبعدها جرد 50 تخصصًا و434 خدمة في كل لغة ومطابقة الأسماء والتفرد والسلامة وحالات التفعيل. لا يبدأ المويجعي قبل اكتمال الجيمي.

@@ -17,3 +17,7 @@
 ## إضافة سلامة ثنائية اللغة — 2026-11-13
 
 أُضيف تنبيه محدد لمخاطر رجوع مياه الري إلى مصدر مياه الشرب، وضرورة تحديد الحماية المناسبة بواسطة مختص وفق متطلبات الجهة المعنية، دون اقتراح توصيل غير معتمد. English introduction carries the equivalent backflow-prevention caution. Status remains preparatory/non-selectable; area audit pending.
+
+## Pump commissioning safety — 2026-11-13
+
+Added matched Arabic/English acceptance guidance for qualified electrical checks, safe isolation, dry-run protection and documented pump commissioning under service 4. No assumption of approval, supplier availability or activation. Remaining area-wide review is still pending.

@@ -40,7 +40,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare pump curve, tank, valves, dry-run protection and mounting base; electrical and civil works require explicit scope.
 
-**Handover:** Test start-stop control, dry-run protection, leakage and unusual vibration.
+**Handover:** Have a qualified technician test start-stop control, dry-run protection, leakage and unusual vibration. Do not energise the pump before appropriate earthing and electrical protection have been checked, and isolate power safely for inspection; record operating results and pump details.
 
 ## 5. Irrigation network maintenance
 

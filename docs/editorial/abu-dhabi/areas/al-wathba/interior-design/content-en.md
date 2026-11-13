@@ -60,6 +60,36 @@ This work requires a site survey of accessible dimensions, levels, openings and 
 
 Have the consultant verify current requirements and prepare a project-specific register of relevant authorities, documents and submission stages. Assign responsibility for responding to comments, revising drawings and preserving correspondence; separate authority fees from professional fees. At handover, request a dated register distinguishing issued approvals from pending applications.
 
+## Structural design specialty
+
+### 15. Concrete structural frame design
+
+The engineer needs current architectural plans showing spans, openings, storeys and intended uses, alongside ground information and expected loads. Ask how the proposed columns, beams and slabs coordinate with building services and architectural clearances. Compare quotations by whether calculations, detailed drawings, coordination and revisions are included. Accept identified drawing revisions, construction notes and the agreed calculation deliverables; architectural visuals alone cannot establish structural member sizes.
+
+### 16. Footing and foundation design
+
+Foundation selection depends on the geotechnical report, loads, groundwater, site boundaries and nearby structures—not floor area alone. Supply borehole results, plans and survey levels and ask the engineer to explain appropriate alternatives, settlement checks and utility interfaces. The quotation should identify the proposed footing, raft or other justified solution, reinforcement details, levels and relevant waterproofing interfaces. Before handover, check consistency between foundation drawings, ground findings and the project design basis.
+
+### 17. Structural drawing preparation
+
+Specify whether the drawings are for tender, construction or alteration of an existing building, since the required level of detail differs. Plans should show grids, levels, member dimensions, reinforcement, connections and details for openings and stairs, coordinated with major service penetrations. Request a drawing register and revision history, including outstanding interdisciplinary comments. At handover, cross-check sections and details against plans and calculations, and ensure the site team uses the correct revision.
+
+### 18. Structural load review
+
+A load review may be necessary when changing occupancy, installing heavy equipment or tanks, adding a storey, or forming significant openings. Supply existing structural drawings and equipment weights, locations and support points, clearly identifying missing records that require investigation. The engineer should state load assumptions, load paths, uncertainties and any tests or strengthening required before works proceed. Obtain written findings and conditions; the review itself is not permission to increase loads or bypass approvals.
+
+### 19. Building structural safety assessment
+
+Progressive cracking, settlement, corrosion or visible distortion calls for a documented inspection of symptoms, locations and history rather than an instant diagnosis from a photograph. The engineer should scope crack monitoring, material tests or intrusive investigation where justified, and recommend precautions if a hazard is suspected. Compare proposals by site visits, tests, analysis and report scope. The final assessment should separate confirmed observations from hypotheses and set out follow-up actions. Suspected immediate danger requires restricting affected use and urgent specialist assessment.
+
+### 20. Structural strengthening design
+
+Strengthening may address verified deficiencies or support a proposed alteration. It should begin with a condition assessment and calculations covering load transfer during and after construction. Identify affected members, access constraints and occupancy restrictions; request material, connection, anchorage, work-sequence and temporary support details as applicable. Compare bids on testing, monitoring and staged design responsibilities, not steel or concrete quantities alone. Obtain drawings, calculations and inspection requirements before proceeding subject to applicable approvals.
+
+### 21. Structural engineering reports
+
+Define whether the report is for a condition assessment, proposed alteration, defect investigation or construction-stage record, because each needs different evidence. Provide drawings, revisions, photographs, logs and test results, and identify inaccessible areas. A useful report separates observations and measurements from assumptions, conclusions and recommendations, and discloses inspection limits and additional testing needs. Check element identifiers, locations, dates, appendices and professional sign-off at handover; a technical report is not itself an authority approval.
+
 ## Preparing a quotation request
 
 Provide the project type, location within Al Wathba, service name, available drawings or photographs, dimensions, required design stage, target date and contact details. Biet Al Reef customer service can review the enquiry without guaranteeing a provider, price or appointment. Individual tradespeople are a separate directory category and are not merged here.

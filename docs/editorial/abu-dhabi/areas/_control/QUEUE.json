@@ -423,18 +423,18 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "2026-11-14: verified 21/434 bilingual services on GitHub; general-contracting 21/56. Next service 22 تنفيذ أعمال الهدم. Human review pending; no live changes.",
+      "review_note": "2026-11-14: verified 28/434 bilingual services on GitHub; general-contracting 28/56. Next service 29 تصميم الحدائق المنزلية. Human review pending; no live changes.",
       "editorial_progress": {
         "sector": "general-contracting",
-        "specialty": "الهدم والأعمال الخرسانية",
-        "last_completed_service_number": 21,
-        "last_completed_service_name": "تجهيز المبنى لإعادة الاستخدام",
-        "next_service_number": 22,
+        "specialty": "تنسيق الحدائق وصيانتها",
+        "last_completed_service_number": 28,
+        "last_completed_service_name": "ترحيل مخلفات الهدم",
+        "next_service_number": 29,
         "sector_total": 56,
-        "sector_completed": 21,
+        "sector_completed": 28,
         "area_total": 434,
-        "area_completed": 21,
-        "remaining_area_services": 413,
+        "area_completed": 28,
+        "remaining_area_services": 406,
         "editorial_draft_completed": false
       }
     },

@@ -59,3 +59,61 @@ Describe the actual fault: sagging leaf, sticking lock, noisy hinges or swollen 
 ### 14. Timber refinishing and painting
 
 Inspect the existing coating, veneer condition and scratches before selecting preparation, filler and topcoat. Request a small sample to approve colour and sheen, and protect floors and metal fittings while providing suitable ventilation. At handover inspect colour consistency, runs and visible application marks.
+
+## Wooden furniture and decorative joinery
+
+### 15. Custom furniture fabrication
+
+For furniture that standard sizes cannot accommodate, supply overall dimensions, intended location and expected shelf loads. Agree board or timber type, edge treatment, joints, finish and colour sample, and whether delivery and assembly are included. Check dimensions, stability and safe edges at handover.
+
+### 16. TV console fabrication
+
+Confirm screen width, viewing height and power/data outlets before approving a TV console. Allow equipment ventilation and cable access; a wall-mounted unit needs a suitable supporting wall and fixing design. Compare surface materials and drawer hardware, then test anchorage and service access.
+
+### 17. Storage-unit fabrication
+
+List what the unit will hold—files, tools, shoes or household items—because depth, shelf spacing and loading differ. Supply wall width, clear height and photographs of obstructions, and specify locks or ventilation if needed. Test doors and shelf supports at handover.
+
+### 18. Timber wall cladding
+
+Measure wall area, sockets, door openings and corners, and inspect dampness and flatness before fitting timber cladding. Specify panel construction, grain direction, joints and access to services. Check alignment, edges and that ventilation openings remain unobstructed.
+
+### 19. CNC decorative joinery
+
+Provide approved artwork, dimensions, board thickness and the required cut-out pattern. Clarify whether the CNC panel is decorative or a screen needing structural support. Approve a cutting sample for detail and finish, then inspect edges and fixings after installation.
+
+### 20. Reception and service counter fit-out
+
+A reception desk and a retail counter differ in working heights, device space and staff circulation. Provide a layout, service points and user count, then specify a surface suited to wear and cleaning. Check front alignment, legroom and drawers at handover.
+
+### 21. Retail and office furniture fabrication
+
+Before fabricating desks or display shelving, confirm workstation count, circulation, equipment and merchandise weights. The quotation should list modules, cable provisions and floor protection during fitting. Inspect stability, suitable loading and access to outlets.
+
+### 22. Interior space planning
+
+This is a planning service, not automatically a fabrication contract. Supply existing plans, photos, dimensions and storage and circulation needs. Request a furniture layout, detailed elevations and material schedule before pricing works, checking conflicts with doors, AC and lighting.
+
+### 23. Joinery fabrication and installation
+
+For a combined joinery fabrication and fitting contract, request a component schedule, shop drawings and final site dimensions before cutting. Assign responsibility for transport, lifting, fixing and making good. Verify drawing compliance, finish protection and moving parts.
+
+### 24. Majlis joinery fit-out
+
+Plan seating, openings and access routes before selecting fixed majlis joinery, wall finishes and tables. Coordinate AC outlets, lighting and sockets, and distinguish upholstery if contracted separately. Inspect alignment, safe details and cleanability at handover.
+
+### 25. Bedroom joinery fit-out
+
+Start with bed size, circulation, wardrobe and drawer clearances and lighting positions. Coordinate headboard, bedside units and storage without blocking switches or AC outlets. Approve a finish sample, then check anchorage and full opening of each unit.
+
+### 26. Office and shop joinery fit-out
+
+Survey finished dimensions and map service, display, storage and customer/staff routes. Separate joinery from electrical work, signage and painting in the scope to avoid double pricing. Check furniture edges, shelf stability and as-built layout dimensions.
+
+### 27. Decorative timber installations
+
+Specify whether the work comprises wall slats, trims or ceiling features: each needs a different fixing approach and service coordination. Provide site photos, section details, joint spacing and colour, and approve a repeated-piece sample. Inspect secure fixing and finished ends.
+
+### 28. Interior joinery finishing and handover
+
+Prepare a room-by-room schedule of completed joinery and outstanding defects before handover. Inspect scratches, joints, colour consistency, locks, hinges and cleaning, then record remedial items and agreed close-out dates. Joinery acceptance is not acceptance of structural or electrical works.

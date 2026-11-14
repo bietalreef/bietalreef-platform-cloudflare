@@ -20,3 +20,8 @@
 12. مكافحة آفات الحدائق — Garden pest control
 13. تنظيف الحدائق — Garden cleaning
 14. عقود صيانة الحدائق — Garden maintenance contracts
+
+
+## 2026-11-14 — Service-specific quotation audit
+
+Added and read back 14 distinct quotation-request paragraphs in each language, one per original company/establishment service. The additions specify the relevant drawings, dimensions, samples, scope boundaries, comparative price items, and inspection or follow-up terms. Arabic names and sequence remain unchanged; this non-selectable category remains preparatory only. This specialty has not yet passed the full independent technical and semantic audit required for area approval.

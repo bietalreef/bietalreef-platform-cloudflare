@@ -8,7 +8,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations.
 
-**Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. The majlis plan does not authorise wall alterations or service-point relocation.
+**Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. The majlis plan does not authorise wall alterations or service-point relocation.
 
 **Comparing quotes and agreeing terms:** Compare guest circulation, privacy and hospitality layouts; agree on the final scaled seating plan, power-point coordination and one measured revision.
 
@@ -20,7 +20,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation.
 
-**Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Screen purchase and concealed cable installation are outside this design scope.
+**Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Screen purchase and concealed cable installation are outside this design scope.
 
 **Comparing quotes and agreeing terms:** Compare screen glare, seating distances and storage arrangements; require a dimensioned furniture plan and device connection locations.
 
@@ -32,7 +32,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC.
 
-**Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Wardrobe fabrication and doorway alterations are not included.
+**Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Wardrobe fabrication and doorway alterations are not included.
 
 **Comparing quotes and agreeing terms:** Request bed and wardrobe alternatives showing door and drawer clearances; agree on final dimensions and bedside switching positions.
 
@@ -44,7 +44,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos.
 
-**Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Cabinet manufacture and relocation of gas or water services are not included.
+**Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Cabinet manufacture and relocation of gas or water services are not included.
 
 **Comparing quotes and agreeing terms:** Compare cabinet sections, worktop details and appliance clearances; allocate responsibility for checking appliance dimensions and coordinating plumbing and power.
 
@@ -56,7 +56,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway.
 
-**Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Waterproofing installation and drain relocation are not included.
+**Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Waterproofing installation and drain relocation are not included.
 
 **Comparing quotes and agreeing terms:** Require sanitary-fixture layout, floor falls and wet-area details; clarify who coordinates waterproofing and drainage changes.
 
@@ -68,7 +68,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items.
 
-**Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Furniture supply and verification of unapproved product dimensions are excluded.
+**Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Furniture supply and verification of unapproved product dimensions are excluded.
 
 **Comparing quotes and agreeing terms:** Compare alternative furniture arrangements and clear circulation widths; identify retained pieces and who checks product sizes before ordering.
 
@@ -80,7 +80,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views.
 
-**Scope and exclusions:** The principal deliverable is a set of rendered views with the agreed camera angles, image resolution and revision rounds. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Rendered images are not substitutes for construction or structural drawings.
+**Scope and exclusions:** The principal deliverable is a set of rendered views with the agreed camera angles, image resolution and revision rounds. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Rendered images are not substitutes for construction or structural drawings.
 
 **Comparing quotes and agreeing terms:** Specify render viewpoints, resolution, revision rounds and source-file inclusion; check drawing fidelity rather than comparing image fees alone.
 
@@ -92,7 +92,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** state seat count, meeting needs, network and printer points, visitor routes.
 
-**Scope and exclusions:** The principal deliverable is a workstation and meeting layout coordinated with power and data. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Workstation procurement and data-network installation are excluded.
+**Scope and exclusions:** The principal deliverable is a workstation and meeting layout coordinated with power and data. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Workstation procurement and data-network installation are excluded.
 
 **Comparing quotes and agreeing terms:** Compare workstation capacity, meeting spaces, acoustic privacy and data routes; agree on a departmental needs schedule and service points.
 
@@ -104,7 +104,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances.
 
-**Scope and exclusions:** The principal deliverable is a display, shelving, checkout and circulation plan. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Shelving supply and signage approvals are not included.
+**Scope and exclusions:** The principal deliverable is a display, shelving, checkout and circulation plan. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Shelving supply and signage approvals are not included.
 
 **Comparing quotes and agreeing terms:** Require shelf, checkout, storage and delivery-route plans; compare sightlines and accessibility and define signage coordination.
 
@@ -116,7 +116,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation.
 
-**Scope and exclusions:** The principal deliverable is a zoned preparation and seating plan with cleanable finishes. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Kitchen extraction engineering and food-premises approvals are outside this scope.
+**Scope and exclusions:** The principal deliverable is a zoned preparation and seating plan with cleanable finishes. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Kitchen extraction engineering and food-premises approvals are outside this scope.
 
 **Comparing quotes and agreeing terms:** Compare separation of food preparation, seating, waste and ventilation; identify who checks relevant authority requirements before implementation.
 
@@ -128,7 +128,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** provide chair and basin sizes, station count and water-point photos.
 
-**Scope and exclusions:** The principal deliverable is a station, mirror, lighting, waiting and storage layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Hair-wash basin installation and plumbing relocation are excluded.
+**Scope and exclusions:** The principal deliverable is a station, mirror, lighting, waiting and storage layout. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Hair-wash basin installation and plumbing relocation are excluded.
 
 **Comparing quotes and agreeing terms:** Specify stations, basins and waiting capacity; compare cleaning access and coordinate power and water-point responsibilities.
 
@@ -140,7 +140,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation.
 
-**Scope and exclusions:** The principal deliverable is a reception, examination and support layout for relevant review. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Healthcare facility approval and specialist medical systems design are excluded.
+**Scope and exclusions:** The principal deliverable is a reception, examination and support layout for relevant review. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Healthcare facility approval and specialist medical systems design are excluded.
 
 **Comparing quotes and agreeing terms:** Require examination-room privacy, waiting and hygiene flows; make design review against the licensed clinical activity an explicit deliverable.
 
@@ -152,7 +152,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** provide exhibit dimensions, weights, power and visitor routes.
 
-**Scope and exclusions:** The principal deliverable is a display plinth, lighting and circulation plan with preliminary fixing details. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Engineered approval of heavy exhibit fixings is not included.
+**Scope and exclusions:** The principal deliverable is a display plinth, lighting and circulation plan with preliminary fixing details. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Engineered approval of heavy exhibit fixings is not included.
 
 **Comparing quotes and agreeing terms:** Compare exhibit loads, plinth stability, lighting and visitor paths; distinguish concept sketches from engineered fixing approvals.
 
@@ -164,7 +164,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access.
 
-**Scope and exclusions:** The principal deliverable is a counter, waiting, wayfinding and lighting layout. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Reception desk fabrication and access-control installation are excluded.
+**Scope and exclusions:** The principal deliverable is a counter, waiting, wayfinding and lighting layout. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Reception desk fabrication and access-control installation are excluded.
 
 **Comparing quotes and agreeing terms:** Compare counter height, screen privacy and waiting space; agree on options and responsibility for appropriate access review.
 
@@ -176,7 +176,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** record room areas, use and substrate condition; photograph thresholds.
 
-**Scope and exclusions:** The principal deliverable is a schedule of materials, sizes, finishes, edges and transitions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Subfloor levelling and correction of existing falls are not included.
+**Scope and exclusions:** The principal deliverable is a schedule of materials, sizes, finishes, edges and transitions. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Subfloor levelling and correction of existing falls are not included.
 
 **Comparing quotes and agreeing terms:** Request physical samples, slip and wet-use suitability and transition details; compare performance in each room, not appearance alone.
 
@@ -188,7 +188,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish.
 
-**Scope and exclusions:** The principal deliverable is a palette with paint codes, sheen and application locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Painting works and a screen-to-sample colour match are not guaranteed.
+**Scope and exclusions:** The principal deliverable is a palette with paint codes, sheen and application locations. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Painting works and a screen-to-sample colour match are not guaranteed.
 
 **Comparing quotes and agreeing terms:** Specify paint codes, sheen and on-wall sample locations; compare colours under different lighting and define sample approval before purchase.
 
@@ -200,7 +200,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure areas and openings; photograph corners and drains.
 
-**Scope and exclusions:** The principal deliverable is a setting-out, vein orientation, batch and edge detail. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Tile supply and final cutting waste calculations require a site survey and are excluded.
+**Scope and exclusions:** The principal deliverable is a setting-out, vein orientation, batch and edge detail. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Tile supply and final cutting waste calculations require a site survey and are excluded.
 
 **Comparing quotes and agreeing terms:** Compare tile sizes, vein direction, joints and expected cutting waste; require a setting-out drawing and batch/sample approval.
 
@@ -212,7 +212,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
 
-**Scope and exclusions:** The principal deliverable is an item schedule with size, material, upholstery, warranty and delivery. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Furniture purchasing and lift-clearance verification without measurements are excluded.
+**Scope and exclusions:** The principal deliverable is an item schedule with size, material, upholstery, warranty and delivery. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Furniture purchasing and lift-clearance verification without measurements are excluded.
 
 **Comparing quotes and agreeing terms:** Compare furniture sizes, frame durability, fabrics, warranty and delivery; record approved substitutes if selected items are unavailable.
 
@@ -224,7 +224,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight.
 
-**Scope and exclusions:** The principal deliverable is a fixture schedule with colour temperature, controls and positions. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Electrical circuit installation and certified load calculations are excluded.
+**Scope and exclusions:** The principal deliverable is a fixture schedule with colour temperature, controls and positions. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Electrical circuit installation and certified load calculations are excluded.
 
 **Comparing quotes and agreeing terms:** Require fixture schedules, colour temperature, controls and locations; compare glare, task lighting and electrical circuit coordination.
 
@@ -236,7 +236,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known.
 
-**Scope and exclusions:** The principal deliverable is a numbered physical sample board with alternatives and locations. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Sample procurement and supplier batch availability are not guaranteed.
+**Scope and exclusions:** The principal deliverable is a numbered physical sample board with alternatives and locations. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Sample procurement and supplier batch availability are not guaranteed.
 
 **Comparing quotes and agreeing terms:** Agree on physical sample count, supplier references, alternatives and intended locations; require a numbered sample board, not only digital images.
 
@@ -248,7 +248,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples.
 
-**Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. Procurement, installation, professional surveys and authority submissions are excluded unless expressly contracted. Final quantity certification and material purchase orders are excluded.
+**Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Final quantity certification and material purchase orders are excluded.
 
 **Comparing quotes and agreeing terms:** Compare room references, drawing links and sample codes in the finishes schedule; allocate responsibility for updating it when specifications change.
 

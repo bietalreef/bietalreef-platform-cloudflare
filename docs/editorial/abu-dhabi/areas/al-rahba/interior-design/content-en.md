@@ -121,8 +121,94 @@ Specify drawing revisions, measurement units and whether quantities support tend
 
 Give the reviewer identical drawings and bills of quantities for each bidder. Compare specifications, quantities, exclusions, warranties, schedules and payment terms, and clarify unpriced items before selection; the lowest total is not necessarily an equivalent offer.
 
+## Interior design and materials
+
+### 29. Majlis design
+
+Confirm guest capacity, seating style and entry route; measure the room perimeter, doors, windows and air outlets. Request a dimensioned seating plan showing circulation, sofas, tables and power points, with cleanable upholstery samples. Compare revisions, joinery and lighting details, and accept measurable drawings rather than renders alone.
+
+### 30. Living room design
+
+Document daily activities, household size, television position and daylight. Supply room dimensions and any furniture to retain; request a layout showing viewing distance, circulation, storage and sockets. Review finish samples under both daylight and evening lighting before approving the material board.
+
+### 31. Bedroom design
+
+Start with bed and wardrobe dimensions, door swings, privacy and blackout needs. Require drawings showing bedside clearance, switches and task lighting; do not release fitted wardrobes for manufacture without site measurements. Check drawer heights, shelving reach and a physical finish sample.
+
+### 32. Kitchen design
+
+List appliance models and cut-out dimensions alongside water, drainage and ventilation points. Require detailed worktop and cabinet drawings with door and drawer clearances, moisture-resistant materials and edge protection. Compare whether appliances, installation and plumbing are included; inspect operation and leaks at handover.
+
+### 33. Bathroom design
+
+Supply measured drain and fixture positions, floor falls and door swing. Request a layout and waterproofing junction details, including tile sizes and access panels. Confirm that drainage gradients and isolation valves remain practical; document waterproofing tests before finishes conceal them.
+
+### 34. Furniture space planning
+
+Measure rooms, existing and proposed furniture, and delivery constraints such as lifts and corridors. Request a plan with circulation, door swings and usable clearances around tables. Compare alternatives where activities compete for space and receive a furniture schedule with actual dimensions.
+
+### 35. Interior 3D visualisation
+
+Agree which rooms, viewpoints, realism level and revision rounds the visualisation covers. Supply dimensioned plans and material references, and identify which rendered finishes represent actual specified products. Cross-check the model against plans and elevations; an image does not prove buildability or product quality.
+
+### 36. Office interior design
+
+Define workstation count, meeting rooms, visitor circulation, printing and storage. Require a plan coordinating lighting, acoustics, data and power with existing services. Compare desk density, future flexibility and furniture costs; receive dimensioned layouts and a service-point schedule.
+
+### 37. Retail store design
+
+Describe product categories, customer journey, checkout, stockroom and delivery routes. Request a merchandising plan with shelf dimensions, load assumptions, signage and lighting positions. Compare reconfiguration and maintenance access; verify sockets and sightlines before approving construction drawings.
+
+### 38. Restaurant and café design
+
+Define seat count, service model, food flow from preparation to delivery, washing and storage. Coordinate ventilation, drainage and safety with qualified specialists for the actual operation; separate dining-room design from kitchen equipment design. Check circulation and cleanability before acceptance.
+
+### 39. Salon interior design
+
+List service stations, washbasins, privacy areas, storage and equipment loads, including water, power and ventilation needs. Request a layout that separates client circulation from tools and supplies, using cleanable surfaces. Compare actual station capacity and maintenance access.
+
+### 40. Clinic interior design
+
+Define the clinical activities and equipment before planning rooms. Have relevant specialists establish privacy, infection-control and patient/staff circulation requirements for the specific practice. Keep interior concepts separate from any healthcare approvals; receive coordinated service and furniture drawings based on actual equipment dimensions.
+
+### 41. Exhibition space design
+
+Specify exhibit types, weights, display duration, visitor routes and loading access. Request display-support details, lighting, concealed services and signage, including dismantling plans for temporary installations. Compare assembly and maintenance needs and receive a location plan for every exhibit.
+
+### 42. Reception area design
+
+Estimate peak visitor volume, waiting arrangements, accessibility and privacy at the counter. Require counter dimensions, circulation widths, power, data and wayfinding positions. Check visibility from entrance to service point and test finish samples for high-use surfaces.
+
+### 43. Floor finish selection
+
+Document traffic, substrate condition, moisture and slip risk; request samples and durability/cleaning specifications. Compare material thickness, underlays, joints and skirtings, and allocate responsibility for levelling. Inspect a sample installation and thresholds before full acceptance.
+
+### 44. Paint colour selection
+
+Provide room photos, daylight orientation and existing floor and furniture colours. Apply sample patches to walls rather than relying on screen swatches; inspect them by day and night. Specify sheen, paint system and preparation, and record product and colour codes for future touch-ups.
+
+### 45. Marble and ceramic selection
+
+Specify application, slab or tile size, traffic and water exposure. Request batch-representative samples and suitable absorption/finish information, plus a setting-out plan showing cuts, waste and joints. Compare supply, installation and edge treatment; inspect shade variation on delivery.
+
+### 46. Furniture specification and selection
+
+Set functional budget, room dimensions and expected service life. Compare frames, fillings, upholstery and cleaning requirements rather than appearance alone. Obtain written dimensions, fabric samples, defined warranty terms and delivery/assembly scope; inspect stability and finish on receipt.
+
+### 47. Lighting selection
+
+Map tasks, reading and working zones, ambient and accent lighting. Request a fixture layout with positions, output, colour temperature and any dimming/control requirements, coordinated with ceiling and HVAC. Review a lit sample for glare and work-surface shadows.
+
+### 48. Material mood board preparation
+
+Agree how many schemes and rooms the board covers. Assemble physical floor, paint, fabric, timber and metal samples with product codes. Distinguish proposals from approved selections and record sources and substitution rules. Receive a reference board usable for delivery checks.
+
+### 49. Finish schedule preparation
+
+Require a room-by-room schedule linking floors, walls, ceilings, skirtings and doors to product codes, dimensions and installation methods. Reconcile it with drawings, material boards and quantities, including approved substitutions and supply responsibility. Receive a revision-controlled schedule to prevent conflicting orders.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even with no published company, submit your name, contact number, Al Rahba project location, property type, requested service, approximate area, available photos or drawings and target date. State whether you need a concept, drawings or application follow-up, and request itemised deliverables, revisions and exclusions. A published provider is not required to receive an enquiry.
 
-**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 28 of 49 services drafted; remaining specialties are pending.
+**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 49 of 49 services drafted; sector awaits human review.

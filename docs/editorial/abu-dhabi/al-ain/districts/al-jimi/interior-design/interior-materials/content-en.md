@@ -52,6 +52,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 5. Bathroom design
 
+
+**Technical approval detail:** Request a shower section showing level changes, drain location and fall direction, plus a plan marking the threshold, splash zone and vanity-door clearances. Drain relocation and waterproofing detailing require the responsible specialist's review; a drawn fall does not prove a waterproofing test has passed.
+
+
 **When it is useful:** when renovating a compact bathroom or relocating a basin, shower or toilet. Identify current drainage points and door swing, and state whether pipework changes and waterproofing are in scope.
 
 **Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway.
@@ -63,6 +67,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Verify door operation, maintenance access, floor-fall annotations and waterproofing boundaries in the drawings. For a comparable design quotation, provide fixture positions, drainage, floor falls and the boundary of waterproofing works; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 6. Furniture layout
+
+
+**Technical approval detail:** Separate retained and proposed pieces in the furniture schedule, with length, width, height and the source of each measurement. Check wardrobe-door swings and chair pull-back space on the plan; do not approve a new product's size from a shop photograph alone.
+
 
 **When it is useful:** when furniture blocks door openings or circulation. Supply measurements for retained pieces, a shortlist of new items and priorities for seating, storage and clear routes.
 
@@ -76,6 +84,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 7. 3D visualisation
 
+
+**Technical approval detail:** Record the drawing revision used for the renders, specify whether daylight and evening views are needed, and distinguish editable model delivery from final images. Log discrepancies between a render and the plan as design comments, not completed site changes.
+
+
 **When it is useful:** when the client needs to compare visual options before purchasing finishes. Define rooms, viewpoints, level of detail and whether the supplied drawings are approved or preliminary.
 
 **Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views.
@@ -87,6 +99,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Compare delivered views with agreed camera angles and confirm materials and any differences from construction drawings. For a comparable design quotation, provide reference drawings, camera viewpoints, image resolution and revision allowance; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 8. Office design
+
+
+**Technical approval detail:** Provide a team-by-team seat schedule, meeting-room capacities, printer locations and communications-room needs. Trace visitor access to reception without crossing private work areas, and refer emergency-egress compliance to the relevant specialist before construction approval.
+
 
 **When it is useful:** When arranging staff workstations, meeting rooms and visitor reception. Record team sizes, storage needs, acoustic privacy and network connections.
 
@@ -100,6 +116,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 9. Retail store design
 
+
+**Technical approval detail:** Supply merchandise categories, package dimensions and display loads; mark display, stock, packing and checkout zones. Separate shelving layout from structural load certification, and assign responsibility for storefront and signage requirements.
+
+
 **When it is useful:** When improving product display, customer circulation, stock access and checkout. Describe merchandise, store and stockroom areas, delivery access and customer flow.
 
 **Photographs, dimensions and specifications:** measure storefront and stockroom; photograph columns and entrances.
@@ -112,6 +132,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 10. Restaurant and café design
 
+
+**Technical approval detail:** List preparation equipment with dimensions and power, water and drainage requirements; trace deliveries, serving routes and waste removal. Food safety, extraction and fire requirements need specialist and authority coordination; an interior layout alone is not an approval.
+
+
 **When it is useful:** When coordinating dining, preparation, service and cleaning in a restaurant or café. State seating capacity, kitchen type, equipment, ventilation and staff and waste routes.
 
 **Photographs, dimensions and specifications:** identify tables, preparation equipment, drainage and ventilation.
@@ -123,6 +147,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Review service circulation, tables, kitchen interface, waiting areas and required connections before approval. For a comparable design quotation, provide seating capacity, service flow, food-preparation equipment and ventilation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 11. Salon design
+
+
+**Technical approval detail:** Identify power, mirror and storage needs for each service chair, and supply, waste and staff clearance for each wash basin. Compare peak-operation circulation with the visual layout, and check separation of cleaning supplies from client products.
+
 
 **When it is useful:** When arranging salon service chairs, wash basins and waiting areas. Specify station count, service types, privacy and water and electrical requirements.
 

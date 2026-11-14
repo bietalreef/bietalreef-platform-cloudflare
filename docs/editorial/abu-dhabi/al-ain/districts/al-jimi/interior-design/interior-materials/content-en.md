@@ -220,7 +220,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 19. Lighting selection
 
-**When it is useful:** when worktops, seating and circulation need different lighting levels, or fittings cause glare on screens and reflective finishes. Specify physical samples, intended locations and acceptable alternative references.
+**When it is useful:** when a room appears bright overall but the worktop remains dim or a screen suffers glare. Identify reading and preparation tasks, switching or dimming needs, existing ceiling constraints and electrical points before commissioning a lighting layout.
 
 **Photographs, dimensions and specifications:** record ceiling height, task zones, power and daylight.
 

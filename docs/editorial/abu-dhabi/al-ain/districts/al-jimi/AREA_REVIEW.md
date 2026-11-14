@@ -1158,3 +1158,9 @@
 
 - أضيفت عشر نقاط تحقق فنية في كل لغة للخدمات 12–21، مع إعادة قراءة [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md) و[سجل المراجعة](./interior-design/interior-materials/review.md).
 - **الحالة `in_progress`**؛ لا يزال تدقيق تكافؤ وفنية جميع فقرات الخدمات 1–21 مطلوبًا، ثم `interior-design/engineering-supervision` وبقية التخصصات والقطاعات، وجرد الـ434 خدمة في كل لغة والقيود والمقترحات. لا تبدأ المويجعي.
+
+## تدقيق إضافي للإشراف الهندسي — 2026-11-14
+
+- الحالة `in_progress`: حُسنت خدمة «الإشراف على التنفيذ» في اللغتين لتوضيح استقلالية المشرف والإفصاح عن العلاقات التجارية مع المقاول، وتصعيد الخلافات وحدود صلاحية وقف إخفاء الأعمال المعيبة؛ دون افتراض سلطة قانونية غير مثبتة.
+- الملفات: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [المراجعة](./interior-design/engineering-supervision/review.md).
+- **النواقص الدقيقة التالية:** تدقيق الخدمات 2–7 في `interior-design/engineering-supervision` ومراجعة تكافؤ جميع الخدمات السبع؛ ثم تدقيق الخدمات 1–21 في `interior-design/interior-materials`، وبعدها بقية تخصصات القطاعات الثمانية وفق الشجرة والتحقق من 434 خدمة في كل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اكتمال الجيمي.

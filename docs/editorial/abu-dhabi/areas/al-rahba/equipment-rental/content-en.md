@@ -63,6 +63,38 @@ Provide water source, estimated volume, lift height, discharge distance and whet
 
 Specify mowing, hedge trimming, branch pruning or debris removal, together with working area, vegetation height, branch diameter and access width. Request suitable cutting attachments, protective equipment, noise information and fuel or batteries. Price waste collection and disposal separately. Inspect blades, guards and stop controls, and agree cleaning and fuel condition on return. Keep bystanders and exposed cables clear of cutting operations.
 
+## Aluminium and Glass Factories
+
+> This specialty is currently marked as unavailable for selection in the source taxonomy. This editorial information does not activate it or imply that a factory is listed.
+
+### 15. Aluminium profile manufacturing
+
+A request for extruded profiles needs more than a description such as “heavy-duty section”. Provide a section drawing or specified system reference, cut lengths, quantities, finish and colour, and the intended use in doors, windows or façades. Ask the manufacturer to identify wall thickness, applicable tolerances and alloy grade where the project specification calls for them, together with surface treatment and scratch-resistant packaging. Compare net lengths, waste allowance, dies, finishing and transport separately rather than accepting an unexplained weight-based total. On delivery, check profile shapes against the approved sample, measure lengths and straightness, and record coating damage before accepting quantities.
+
+### 16. Door and window manufacturing
+
+Fabrication should follow verified opening measurements, not only early architectural dimensions. Specify opening direction, frame system, thresholds, window drainage, glazing, handles, locks and any insect screens. Share opening photographs and finished-floor levels; request shop drawings showing fixings, perimeter gaps and sealing interfaces. Compare fabrication, glass, fitting, sealants, surrounding making-good and warranty as separate items. After installation, test alignment, opening and closing, drainage and seals, and list scratches or unfinished joints in the handover record.
+
+### 17. Toughened glass manufacturing
+
+Toughened glass must be cut and drilled to final dimensions before tempering. Supply a drawing with width, height, thickness, polished edges, holes and hardware positions, and explain whether the panel is for a door, partition or façade. Request the glass specification, edge treatment, supporting documentation and a safe upright transport and storage method. Compare cutting, drilling, tempering, transport, lifting and fitting separately. Check panel dimensions, edges, markings and visual finish against the agreed specification before installation. Structural suitability must be assessed through the project design, not guessed from thickness alone.
+
+### 18. Glass façade preparation
+
+A façade package needs drawings showing panel divisions, support system, movement allowances, design loads and junctions with framing, waterproofing and drainage. Provide elevations, access photographs and clear responsibility for design, approvals, lifting and installation. Ask for glazing schedules, framing sections, accessories and finish samples. Distinguish a glass-only supply quotation from a complete façade package. Compare testing, documentation and damaged-panel replacement arrangements. At handover, review panel identification, alignment, joints, seals and contract-required test records with the responsible specialist.
+
+### 19. Partition manufacturing
+
+Clarify whether the partition is intended for visual separation, privacy, acoustic performance or a particular fire-resistance requirement specified by the designer. Send a room plan, ceiling heights, door locations and interfaces with air-conditioning, sprinklers and services. Request details of glazing, frames, supports, joints and seals, and identify excluded electrical or builder's work. Compare actual partition area, door count, hardware and programme. Check stability, joint alignment, door operation and exposed edges at handover; never assume an acoustic or fire rating without suitable test evidence.
+
+### 20. Glass supply
+
+Specify whether each panel is clear, tinted, insulated, laminated or toughened, together with thickness, dimensions, quantities, edge finish and any documented performance requirement. Provide a consolidated panel schedule, unloading arrangements and a protected storage location. Compare product specification, processing, lead time, delivery and treatment of defective panels; glass supply does not automatically include fitting. Inspect labels, measurements, edges and visible damage on delivery, and record shortages before signing the delivery note.
+
+### 21. Project order fulfilment
+
+A project order may combine profiles, doors, glazing and partitions across multiple schedules. Submit one coordinated list linking every item to its drawing reference, location, quantity, specification and required delivery date; flag measurements still awaiting site verification. Ask for phased fabrication and delivery, sample and shop-drawing approvals, and clear coordination between supplier and installer. Compare itemised inclusions, waste, storage, lifting and variation terms rather than headline totals. Reconcile deliveries with approved drawings and close out defects and replacements at each milestone.
+
 ## Quotation request
 
 Biet Alreef customer service can receive contact details, project location, access photos, work dimensions, hire period and required equipment even without a published provider. No price or availability is guaranteed. Individual tradespeople remain separately classified.

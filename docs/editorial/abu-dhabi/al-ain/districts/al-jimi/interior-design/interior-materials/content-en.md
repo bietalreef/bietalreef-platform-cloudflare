@@ -28,27 +28,27 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 3. Bedroom design
 
-**When it is useful:** When a bedroom layout needs better storage and clear access to wardrobes. Record bed size, window and AC locations, door swings and furniture to retain.
+**When it is useful:** When wardrobe doors clash with the bed, storage is insufficient, or a desk or child's cot must share the bedroom. State who uses the room, the actual mattress size, retained furniture and whether a work or nursery zone is needed.
 
-**Photographs, dimensions and specifications:** measure mattress, walls and doors; photograph switches and AC.
+**Photographs, dimensions and specifications:** Photograph every wall with the room door open. Measure clear wall lengths, ceiling height, doorway, window, AC and socket positions. Record bed and wardrobe dimensions, door swing and drawer extension, including walking clearance around the bed.
 
-**Scope and exclusions:** The principal deliverable is a bed, wardrobe and bedside layout with opening clearances. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Wardrobe fabrication and doorway alterations are not included.
+**Scope and exclusions:** Request a dimensioned arrangement of the bed, wardrobes, bedside units and reading lights. The design does not include wardrobe fabrication, mattress purchase, AC relocation or electrical alterations. Specialist site surveys, approvals and physical works need separately assigned scope and fees.
 
-**Comparing quotes and agreeing terms:** Request bed and wardrobe alternatives showing door and drawer clearances; agree on final dimensions and bedside switching positions.
+**Comparing quotes and agreeing terms:** Compare usable passages beside the bed, wardrobe and drawer opening space, and access to switches and sockets. Agree on a scaled furniture plan, options and revision allowance, bespoke-unit details if requested, and who verifies dimensions before manufacture.
 
-**Acceptance and quotation enquiry:** Verify wardrobe and drawer clearances against the bed, doors and AC outlets. For a comparable design quotation, provide bed and wardrobe dimensions, switch locations and drawer-opening clearances; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+**Acceptance and quotation enquiry:** Check the mattress footprint, entrance route, door swings and reading-light locations against the final dimensioned plan; a 3D image alone is insufficient. Submit wall photographs, bed and wardrobe sizes, existing outlets and retained furniture. Request design deliverables and fees separately from supply and installation. Biet Al Reef customer service can help prepare the enquiry without guaranteeing a firm, price or date.
 
 ## 4. Kitchen design
 
-**When it is useful:** when cooking, washing and food preparation routes conflict or cabinetry cannot fit existing appliances. Provide actual appliance dimensions, kitchen users and whether plumbing and electrical points may move.
+**When it is useful:** When replacing cabinets around existing appliances, improving preparation space or resolving doors and drawers that obstruct cooking. Specify whether the kitchen is open or enclosed, the household's use, retained appliances and storage needs.
 
-**Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos.
+**Photographs, dimensions and specifications:** Photograph all walls and the sink, extractor, gas, power and drainage points. Measure wall runs, heights, doors and windows. Provide appliance model numbers and dimensions, including manufacturer-required ventilation clearances, and identify the fridge, oven and dishwasher positions.
 
-**Scope and exclusions:** The principal deliverables are cabinet elevations, sections, worktop details and a coordinated layout of service points. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Cabinet manufacture and relocation of gas or water services are not included.
+**Scope and exclusions:** The deliverable is a dimensioned cabinet and worktop layout with elevations, appliance spaces and service-point coordination notes. Kitchen design does not authorise gas, extraction, electrical or drainage alterations. Cabinet and appliance supply, installation and specialist approvals or surveys are separately scoped where needed.
 
-**Comparing quotes and agreeing terms:** Compare cabinet sections, worktop details and appliance clearances; allocate responsibility for checking appliance dimensions and coordinating plumbing and power.
+**Comparing quotes and agreeing terms:** Compare drawer capacity, fridge and dishwasher door clearance, worktop height, moisture-resistant finishes and access to shut-off valves. Agree on measurable cabinet drawings, a hardware and finish schedule, revision allowance and responsibility for verifying site dimensions before fabrication.
 
-**Acceptance and quotation enquiry:** Check appliance dimensions and door swings, preparation-washing-cooking flow and extractor coordination. For a comparable design quotation, provide appliance sizes, cabinet layout, water and drain points, and extraction route; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+**Acceptance and quotation enquiry:** Cross-check appliance cut-outs against model dimensions and the cabinet schedule; inspect door clashes, work routes and documented ventilation and service requirements for specialist review. Send plans, photographs, appliance measurements and service-point positions. Request separate prices for design, fabrication, installation and any technical alterations. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 5. Bathroom design
 

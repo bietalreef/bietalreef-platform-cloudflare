@@ -422,21 +422,24 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md"
+        "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "2026-11-14: 56/434 bilingual service explanations verified on GitHub; general-contracting 56/56 across 6 specialties complete, next interior-design service 1. Independent human review pending; no live changes.",
+      "review_note": "2026-11-14: 70/434 bilingual services: general-contracting 56/56, interior-design 14/49 (architectural design complete). New AR/EN files re-fetched, 14 numbered headings each. Next structural design service 15. Human technical/regulatory/language review pending; no live changes.",
       "editorial_progress": {
         "sector": "interior-design",
-        "specialty": "التصميم المعماري والمخططات",
-        "last_completed_service_number": 56,
-        "last_completed_service_name": "تنفيذ الشلالات والنوافير",
-        "next_service_number": 1,
+        "specialty": "التصميم الإنشائي",
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "تنسيق الاعتمادات الحكومية",
+        "next_service_number": 15,
         "sector_total": 49,
-        "sector_completed": 0,
+        "sector_completed": 14,
         "area_total": 434,
-        "area_completed": 56,
-        "remaining_area_services": 378,
+        "area_completed": 70,
+        "remaining_area_services": 364,
         "editorial_draft_completed": false
       }
     },

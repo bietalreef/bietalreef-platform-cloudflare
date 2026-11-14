@@ -360,7 +360,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when finish codes, samples and drawings disagree, causing incorrect purchasing or installation. Gather the latest approved drawings, identify each room and agree who will revise the schedule after any material substitution.
 
-**Photographs, dimensions and specifications:** collect room plans, elevations and approved material samples.
+**Photographs, dimensions and specifications:** Provide the room-number register, latest floor plans and interior elevations, photographs of approved samples and supplier codes. Identify skirting, joints and edge locations; label any quantities used for coordination as provisional, not final measured procurement quantities.
 
 **Scope and exclusions:** The principal deliverable is a room-by-room floor, wall, ceiling, reference and edge schedule. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Final quantity certification and material purchase orders are excluded.
 

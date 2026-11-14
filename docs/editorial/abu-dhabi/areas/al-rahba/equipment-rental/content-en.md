@@ -192,3 +192,58 @@ Where immediate delivery is impossible, estimate the volume or carton count, dur
 ### 42. Inter-emirate belongings transport
 
 For a move from Al Rahba to another emirate, give both full addresses, the inventory, preferred delivery date and photographs of entrances or vehicle restrictions. Ask for vehicle size, number of trips, packing, loading, unloading, waiting charges and responsibility for coordinating building access. Do not assume that assembly, storage or valuables handling are included. Record a numbered inventory before departure and inspect item condition and carton counts on arrival, noting shortages or damage on the delivery record.
+
+
+## Project materials and equipment transport
+
+### 43. Building materials transport
+
+Specify whether the load consists of bagged cement, blocks, steel or tiles, including pallet counts, lengths and total weight: restraint and unloading arrangements differ. Supply a quantity schedule, both addresses and access photographs. Ask whether a crane, forklift and waiting time are included. Compare permitted payload, trips, weather protection, damage responsibilities and delivery windows. Reconcile quantities, packaging, breakage and moisture against the delivery note before signing.
+
+### 44. Timber transport
+
+Long timber boards and finished doors need protection against bending, moisture and edge abrasion. Provide lengths, widths, thicknesses, counts and finish photographs, identifying sensitive veneer or melamine panels. Ask how the load will be supported, separated and covered without trapping moisture. Compare quotations for long-item handling, unloading and additional trips. At delivery check straightness, corners, edges and surface scratches, recording damage before final acceptance.
+
+### 45. Marble and stone transport
+
+Slabs, stair treads and thin stone pieces are vulnerable to vibration, chipped polished edges and cracking. Provide a cutting schedule, piece dimensions, thickness, estimated weight and photographs of cut-outs and edges. Ask about slab racks, restraint, protective separators, lifting methods and breakage liability. Compare packing, lifting, insurance terms and on-site handling rather than truck hire alone. Match piece labels to the drawings and inspect for cracks and chips before acceptance.
+
+### 46. Equipment transport
+
+Identify the machine model, operating weight, dimensions and folded transport height, and whether it is mobile or disabled. Loading may require ramps, a winch or an appropriate trailer. Request a loading plan, tie-down points and responsibility for securing fluids, batteries and moving attachments. Confirm any route- or dimension-specific transport requirements rather than assuming a particular permit. Compare lifting, waiting, liability and unloading charges. Record meter readings, accessories and visible condition before and after transport.
+
+### 47. Waste haulage
+
+Distinguish demolition rubble, timber offcuts, packaging and excavated spoil; do not mix potentially special-handling materials with ordinary construction waste. Send photographs, estimated volume or skip count, collection access and loading responsibilities. Specify container type, sorting, trips and an appropriate receiving facility, with current requirements checked with the competent authority before work. Compare volume, weight, waiting and final clean-up charges. Inspect the cleared area and request disposal documentation where applicable.
+
+### 48. Project truck provision
+
+For recurring project deliveries, prepare a schedule of load types, weights, routes, daily loading windows and expected trips. Distinguish hourly or daily truck-and-driver hire from per-trip pricing: waiting time and fuel exposure differ. Specify vehicle capacity, breakdown replacement, working hours, overtime, restraint and unloading responsibilities. Reconcile trip sheets, arrival times and actual loads each week before approving invoices.
+
+### 49. Loading and unloading services
+
+A labour headcount is insufficient without load details. State maximum item weight, pallet count, stacking height, lift or forklift access and carry distances. Provide site photographs and clarify who supplies handling equipment, supervision and any internal stacking service. Compare minimum hours, crew size, equipment, delays and damage liability. Reconcile unloaded quantities with the manifest and inspect both materials and access areas before sign-off.
+
+## Concrete, block and cement product factories
+
+> This specialty is proposed in the source taxonomy. Editorial coverage does not activate it or establish factory availability.
+
+### 50. Ready-mix concrete production
+
+Before ordering ready-mix, the appointed designer or supervisor must specify the mix requirements, quantity, pour location, pumping method and unloading window; concrete strength must not be guessed. Supply approved drawings and specifications, access restrictions and planned construction joints. Request batching and delivery details, truck tickets, sampling and testing procedures consistent with project specifications. Compare pumping, waiting and rejected-load terms. Review delivery tickets and agreed test records at acceptance.
+
+### 51. Concrete block manufacturing
+
+Block selection depends on wall function and approved design requirements, not nominal size alone. Provide unit dimensions, quantities, type and specified strength or insulation performance, identifying load-bearing walls versus partitions. Request samples, product data, curing and packaging information and delivery batches; do not assume standards compliance without test evidence. Compare usable-unit prices including freight and breakage. Inspect dimensions, consistency, cracks, damage and counts on receipt.
+
+### 52. Cement product manufacturing
+
+The order may involve kerbs, cement tiles or precast pieces, each with distinct dimensions, finish, loading and installation needs. Supply drawings, quantities, colour or texture and intended use, noting designed openings or reinforcement where required. Request an approved sample, production schedule, edge protection and relevant test information against the project specification. Compare mould charges, custom pieces, waste and freight. Check dimensions, finish, colour consistency, quantity and corners at delivery.
+
+### 53. Project product supply
+
+For phased supply of blocks or concrete products, prepare a bill of quantities with item codes, unloading points and the construction sequence. Confirm actual stock, manufacturing lead times, minimum orders and delivery coordination without assuming availability. Compare freight, handling, testing, breakage replacement and payment terms. Receive each batch against an itemised note showing quantities and batch identification where available, and record shortages or rejected pieces before payment.
+
+## Request a quotation
+
+Biet Al Reef customer service can receive transport and product-supply enquiries even without a published company. Include name, phone, area, load or product, quantities, dimensions, approximate weight, site photographs and preferred date. Pricing, availability and timing remain unconfirmed. Individual tradespeople are classified separately.

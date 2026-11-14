@@ -420,7 +420,8 @@
         "interior-design",
         "general-maintenance",
         "building-materials",
-        "aluminium-glass"
+        "aluminium-glass",
+        "furniture-decor"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
@@ -447,20 +448,20 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Furniture 24/24 complete and equipment rental 7/53, verified in both languages. Al Rahba 346/434, in_progress; 88 remaining. Human review pending.",
+      "review_note": "Equipment rental 14/53 (two specialties) verified AR/EN; furniture 24/24 completed; Al Rahba 353/434, 81 remaining, in_progress. Next service 15 تصنيع قطاعات الألمنيوم. Human review pending.",
       "editorial_progress": {
         "sector": "equipment-rental",
-        "specialty": "تأجير الأدوات والمعدات الخفيفة",
+        "specialty": "مصانع الألمنيوم والزجاج",
         "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "تأجير معدات البناء والرفع",
-        "last_completed_service_number": 7,
-        "last_completed_service_name": "تأجير معدات المشاريع",
-        "next_service_number": 8,
+        "last_completed_specialty": "تأجير الأدوات والمعدات الخفيفة",
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "تأجير معدات الحدائق",
+        "next_service_number": 15,
         "sector_total": 53,
-        "sector_completed": 7,
+        "sector_completed": 14,
         "area_total": 434,
-        "area_completed": 346,
-        "remaining_area_services": 88,
+        "area_completed": 353,
+        "remaining_area_services": 81,
         "editorial_draft_completed": false
       }
     },

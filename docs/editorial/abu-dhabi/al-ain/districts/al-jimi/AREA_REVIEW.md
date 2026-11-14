@@ -1153,3 +1153,8 @@
 
 - الحالة `in_progress`: تدقيق إضافي متوازٍ للخدمات 5–11 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)؛ [سجل التخصص](./interior-design/interior-materials/review.md).
 - أول خدمة متبقية: **12. تصميم العيادات**، ثم الخدمات 13–21، وبعدها مراجعة جميع تخصصات القطاعات الثمانية والـ434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي.
+
+## استكمال إضافات التصميم الداخلي 12–21 — 2026-11-14
+
+- أضيفت عشر نقاط تحقق فنية في كل لغة للخدمات 12–21، مع إعادة قراءة [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md) و[سجل المراجعة](./interior-design/interior-materials/review.md).
+- **الحالة `in_progress`**؛ لا يزال تدقيق تكافؤ وفنية جميع فقرات الخدمات 1–21 مطلوبًا، ثم `interior-design/engineering-supervision` وبقية التخصصات والقطاعات، وجرد الـ434 خدمة في كل لغة والقيود والمقترحات. لا تبدأ المويجعي.

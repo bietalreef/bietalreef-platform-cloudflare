@@ -24,7 +24,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Compare screen glare, seating distances and storage arrangements; require a dimensioned furniture plan and device connection locations.
 
-**Acceptance and quotation enquiry:** Check viewing distance, storage access and children's circulation against actual furniture sizes. For a comparable design quotation, provide household use, screen position, storage needs and furniture to retain; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+**Acceptance and quotation enquiry:** Review the plan using the actual dimensions of the sofa, tables and storage units rather than their appearance in a 3D rendering. Check full room-door and drawer operation, access to power outlets, and whether the entry route crosses the screen-viewing or children's play zone. Compare seating orientation with window glare at typical viewing times, recording any clashes for correction before approving the layout. For comparable quotations, send room photographs and measurements, retained-furniture sizes, screen and device positions, and household usage. Request a dimensioned plan, clearly identified layout alternatives, a defined revision allowance, and design fees separate from furniture purchasing, electrical works and installation. Biet Al Reef customer service can help prepare the enquiry without guaranteeing a firm, price or date.
 
 ## 3. Bedroom design
 

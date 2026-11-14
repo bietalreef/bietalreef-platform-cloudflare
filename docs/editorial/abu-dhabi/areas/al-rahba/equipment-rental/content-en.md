@@ -127,6 +127,38 @@ Clarify whether the issue is dullness, scratches, staining or uneven tile levels
 
 For a contractor's stone order, consolidate approved shop drawings and quantities into one schedule linking each piece to a drawing number, installation location, stone type, thickness, size, finish and required date. Flag dimensions awaiting final survey, delivery priorities, packing, labelling and unloading arrangements. Compare waste allowances, samples, cutting, openings, transport, permitted substitutions and replacement terms rather than total price alone. Reconcile labels, batches and quantities with the schedule and document damage or shortages before signing delivery records.
 
+## Tools and equipment stores
+
+> This specialty is currently unavailable for selection in the taxonomy source. Editorial coverage does not activate a store or establish stock availability.
+
+### 29. Hand tool sales
+
+For a repair or installation job in Al Rahba, prepare a list of the required spanner, screwdriver and plier types, their sizes, quantities and whether they will see frequent use. Check grip material, fit and the dimensions of working ends: an ill-fitting tool can damage fasteners even if it costs less. Ask quotations to specify brand, model, size, quantity and any warranty, distinguishing sets from individual tools. On delivery reconcile sizes and counts, inspect moving parts and visible corrosion, and verify any stated electrical insulation rating without assuming that a tool is safe for live electrical work.
+
+### 30. Power tool sales
+
+Before ordering a drill, grinder or powered driver, identify the work material, required hole diameter or cutting depth, available power supply and expected duty cycle. Compare power, speed control, battery platform, chargers and protective features, and confirm that bits and discs suit both the tool and material. The quotation should distinguish bare tools from batteries, chargers, cases, consumables and service coverage. On receipt match the exact model and accessories, inspect cords or batteries and request a safe no-load function check rather than an unsafe demonstration.
+
+### 31. Safety equipment sales
+
+Protective equipment must match the actual hazard: gloves for sharp edges may not protect against chemicals, and a hard hat does not replace eye or hearing protection. Supply the tasks, work conditions, user sizes and any approved risk assessment; request manufacturer specifications, instructions and applicable expiry information instead of a generic 'complete safety kit'. Compare materials, fit, adjustability and documented conformity where relevant, while leaving hazard assessment and PPE selection to the responsible competent party. Check straps, lenses, packaging and applicable manufacture or expiry dates at delivery, and retain user instructions.
+
+### 32. Workshop equipment sales
+
+For a workbench, vice, welding unit or cutting machine, first document the available floor area, machine footprint, access, ventilation, electrical supply and any floor-loading constraints. Request a data sheet covering operating capacity, accessories, installation and training requirements. Separate equipment price from freight, anchoring and commissioning. Compare spare-part and consumable support, not merely the initial price. At handover inspect guards, emergency stops and supplied accessories, record serial numbers and arrange a supervised functional test with a qualified operator.
+
+### 33. Cleaning equipment sales
+
+Choosing a floor scrubber or wet-and-dry vacuum starts with the floor type, daily area, narrow passages, stairs and access to water and power. Specify whether the task involves dry dust, liquids or construction residue, because not every machine can handle each material. Compare tank capacity, working width, cable reach or battery runtime, brushes, filters and manufacturer-approved detergents. Inspect hoses, seals, brushes and chargers on receipt, test a small area and obtain cleaning and maintenance instructions for the machine itself.
+
+### 34. Spare parts sales
+
+For a replacement part, send a photograph of the equipment nameplate, model and serial number, the old part code and dimensions if available, and the symptom prompting replacement. Visual resemblance alone is unreliable, especially for electrical, rotating or safety-related components. Require a clear statement of genuine versus compatible replacement, return conditions, installation scope and warranty. Compare the full cost including fittings and labour if quoted. At delivery check identifiers, connectors, dimensions and packaging; have a competent person verify installation before restarting the equipment when appropriate.
+
+### 35. Equipment maintenance
+
+For equipment requiring repair in Al Rahba, provide the model, operating hours, symptoms, fault-display photographs and previous service history, noting whether it is immobilised or transportable. Ask providers to separate diagnosis, parts, labour and testing, with approval required before additional repairs. Compare the proposed fault remedy, testing method and parts/workmanship warranty rather than accepting an undefined 'full service'. At handover review the work report, replaced parts, safe operating test and any outstanding defects.
+
 ## Quotation request
 
-Biet Al Reef customer service accepts stonework enquiries even when no provider is published. Include contact details, location, site photographs, cutting drawings, dimensions, quantities, specifications and required date. No factory availability or price is guaranteed. Individual tradespeople are classified separately.
+Biet Al Reef customer service can receive tool purchases and equipment maintenance enquiries even without a published store. Provide contact name, telephone, location, equipment or part type, model, dimensions, quantities, photographs and required date. Store availability, prices and appointments are not guaranteed. Individual tradespeople remain a separate classification.

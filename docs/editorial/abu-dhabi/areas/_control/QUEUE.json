@@ -426,22 +426,25 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/review.md"
+        "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/review.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Al Rahba general contracting 56/56 and engineering design 49/49, both languages. Engineering 29–49 authored, re-fetched and numbered 1–49 verified in each language, four specialties. Next general-maintenance service 1. Area in_progress 105/434, 329 remaining. Human review required; no live changes.",
+      "review_note": "2026-11-14: 56/56 contracting, 49/49 engineering, 14/105 maintenance, 119/434 per language. General maintenance 1–14 saved and re-fetched. Next maintenance 15 تشطيب الفلل. Human review pending; no live changes.",
       "editorial_progress": {
         "sector": "general-maintenance",
         "specialty": "الصيانة العامة",
         "last_completed_sector": "interior-design",
-        "last_completed_service_number": 49,
-        "last_completed_service_name": "إعداد جدول التشطيبات",
-        "next_service_number": 1,
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "إصلاح الأعطال البسيطة",
+        "next_service_number": 15,
         "sector_total": 105,
-        "sector_completed": 0,
+        "sector_completed": 14,
         "area_total": 434,
-        "area_completed": 105,
-        "remaining_area_services": 329,
+        "area_completed": 119,
+        "remaining_area_services": 315,
         "editorial_draft_completed": false
       }
     },

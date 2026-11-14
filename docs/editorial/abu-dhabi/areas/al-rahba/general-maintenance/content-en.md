@@ -325,6 +325,64 @@ Provide model and nameplate photographs plus the part code or damaged-component 
 
 List equipment, locations, operating hours and required service level before comparing contracts. Check visit frequency, cleaning, tests, response arrangements, exclusions, spare parts and visit records. Evaluate delivery using fault logs, measurements and completed tasks rather than visit count alone.
 
+## Smart systems and surveillance
+
+### 78. التحكم الذكي في الإنارة — Smart lighting control
+
+Map existing lighting circuits, switch types, connected loads and whether neutral conductors are present before selecting controllers. Request a circuit schedule covering manual override, operation without internet and dimming compatibility with the lamps. Test each circuit and scene at handover and document reset procedures.
+
+### 79. التحكم الذكي في التكييف — Smart air-conditioning control
+
+Identify AC model, thermostat interface and existing control wiring before requesting app integration. Compatibility must be checked against the manufacturer's interface, with sensor locations and offline behaviour documented. Verify setpoint changes, schedules and protections against rapid cycling.
+
+### 80. تركيب الأقفال الذكية — Smart lock installation
+
+Photograph the door edge, latch and existing lock; measure leaf thickness, handing and hole centres. Compare access methods, battery life, emergency entry and installation without compromising door integrity or safe egress. Test operation from both sides, transfer administrator access and remove test codes.
+
+### 81. تركيب الستائر الذكية — Motorised smart curtains
+
+Record opening width, mounting height, fabric weight, track type and power location before sizing the motor. Separate track, motor, fabric and programming costs; establish whether manual operation is possible during faults. Check full travel without binding, limit settings and maintenance instructions.
+
+### 82. ربط الأجهزة بتطبيق الهاتف — Connecting devices to a mobile app
+
+Prepare an inventory of devices, manufacturers, administrator accounts and Wi-Fi coverage. Clarify required permissions, data sent outside the home and ownership of the primary account; avoid sharing passwords in ordinary messages. Verify status after internet loss and restoration, then revoke temporary installer access.
+
+### 83. تنفيذ السيناريوهات الذكية — Smart home automation scenes
+
+Describe each scene with its trigger, time, occupancy condition, affected devices and exceptions. Check conflicts between schedules and manual commands, and avoid relying on a single unreliable sensor for safety-sensitive actions. Obtain a scene register and test normal, failure and cancellation cases.
+
+### 84. صيانة أنظمة المنزل الذكي — Smart home system maintenance
+
+List unresponsive devices, failure times, firmware versions and recent network changes. Diagnosis should check power, wireless coverage, compatibility and the central hub before replacing hardware. Request configuration backups where supported, a change log and functional testing after repair.
+
+### 85. تركيب كاميرات المراقبة — CCTV camera installation
+
+Define each camera's purpose, field of view, night lighting, mounting position and cable route. Require a plan showing coverage, storage retention and access permissions, while respecting privacy and avoiding areas that should not be recorded. Test day and night images, recording and retrieval of a sample clip.
+
+### 86. تركيب أجهزة التسجيل — CCTV recorder installation
+
+Count cameras, resolutions and required recording rates before sizing the recorder and storage drives. Compare protocol compatibility, backup power, ventilation, access protection and update support. Verify simultaneous recording, time-based search and file export; transfer administrator credentials securely.
+
+### 87. تركيب أنظمة الإنذار — Alarm system installation
+
+Define the risk being detected, detection zones, sensor placement, control panel and backup supply. Distinguish intrusion or technical alerts from regulated fire-alarm systems; do not assume certification or official monitoring without evidence. Test every zone, siren, notification and loss-of-power response.
+
+### 88. تركيب أنظمة الدخول — Access control installation
+
+List controlled doors, user counts, permitted hours and emergency exit arrangements before choosing card or code readers. Specify lock wiring, backup power, event logs and permission revocation, checking applicable door safety requirements. Test entry and exit and revoke a sample lost credential.
+
+### 89. تركيب الإنتركم — Intercom installation
+
+Photograph the entrance, gate, indoor monitor location, cable route and network distance. Compare audio and image quality in different lighting, door-release method and compatibility with the existing lock. Test calls from the entrance, safe release and degraded-network behaviour where relevant.
+
+### 90. صيانة كاميرات المراقبة — CCTV maintenance
+
+Record failed cameras, image-loss times, alerts and drive health before service. Check power, connectors, lenses, network and storage systematically, preserving existing recordings. Obtain post-service images and a report confirming recording status and correct timestamps per camera.
+
+### 91. ربط المراقبة بالهاتف — Remote CCTV viewing on a phone
+
+Identify recorder model, supported official app, user permission level and available internet connection. Require a secure remote-access method rather than indiscriminate port forwarding, using supported authentication and account protection. Test viewing away from the premises and notifications, then remove temporary technician access.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Provide your name, contact number, Al Rahba location, requested service, equipment photographs, available measurements and preferred inspection window. Biet Al Reef receives enquiries without requiring a listed company or guaranteeing a price or appointment.

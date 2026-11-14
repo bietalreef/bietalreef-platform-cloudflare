@@ -38,6 +38,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Check the mattress footprint, entrance route, door swings and reading-light locations against the final dimensioned plan; a 3D image alone is insufficient. Submit wall photographs, bed and wardrobe sizes, existing outlets and retained furniture. Request design deliverables and fees separately from supply and installation. Biet Al Reef customer service can help prepare the enquiry without guaranteeing a firm, price or date.
 
+**Detailed coordination check:** Match the mattress, bed frame and headboard dimensions against the measured wall. Show wardrobe-door swings, drawer pull-outs and access to sockets and air-conditioning. Request a schedule distinguishing retained furniture from proposed purchases and naming who verifies product dimensions before ordering. At acceptance, inspect dimensioned clearances around the bed; a visual render alone cannot confirm fit.
+
 ## 4. Kitchen design
 
 **When it is useful:** When replacing cabinets around existing appliances, improving preparation space or resolving doors and drawers that obstruct cooking. Specify whether the kitchen is open or enclosed, the household's use, retained appliances and storage needs.
@@ -49,6 +51,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare drawer capacity, fridge and dishwasher door clearance, worktop height, moisture-resistant finishes and access to shut-off valves. Agree on measurable cabinet drawings, a hardware and finish schedule, revision allowance and responsibility for verifying site dimensions before fabrication.
 
 **Acceptance and quotation enquiry:** Cross-check appliance cut-outs against model dimensions and the cabinet schedule; inspect door clashes, work routes and documented ventilation and service requirements for specialist review. Send plans, photographs, appliance measurements and service-point positions. Request separate prices for design, fabrication, installation and any technical alterations. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+**Detailed coordination check:** Start with an appliance schedule listing model numbers, door-swing dimensions and manufacturer ventilation clearances. Coordinate sink, waste connections and outlets, including collisions when the dishwasher or oven is open. Compare bids by the number of elevations, construction details and services coordination drawings, and identify whether electrical, plumbing and HVAC specialist checks are included. Accept the design against the appliance and services schedule rather than renders alone.
 
 ## 5. Bathroom design
 
@@ -66,6 +70,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Verify door operation, maintenance access, floor-fall annotations and waterproofing boundaries in the drawings. For a comparable design quotation, provide fixture positions, drainage, floor falls and the boundary of waterproofing works; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+**Detailed coordination check:** Photograph drainage and water points, floor levels, thresholds and sanitary-fixture swings; measure shower clearances and maintenance access. Require the proposal to state whether drainage falls, waterproofing details and access panels are shown, and who is responsible for technical approvals and on-site waterproofing tests. Check door, vanity and WC conflicts in the delivered drawings; demolition, installation and testing remain separate unless expressly contracted.
+
 ## 6. Furniture layout
 
 
@@ -81,6 +87,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare alternative furniture arrangements and clear circulation widths; identify retained pieces and who checks product sizes before ordering.
 
 **Acceptance and quotation enquiry:** Match each retained item to the dimensioned plan and test passages, doors and drawers. For a comparable design quotation, provide a measured inventory of retained furniture and required circulation widths; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+**Detailed coordination check:** Inventory furniture to be retained with width, depth and height; photograph doors, windows, sockets and fixed obstructions. Request a dimensioned layout showing usable circulation, chair pull-back and drawer clearance, with alternatives for oversized pieces. Compare bids by alternatives, revision rounds and dimension-verification responsibility. Approve the measured layout before purchases; furniture procurement and moving are excluded unless explicitly agreed.
 
 ## 7. 3D visualisation
 

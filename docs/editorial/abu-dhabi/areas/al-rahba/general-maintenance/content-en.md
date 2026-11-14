@@ -209,6 +209,64 @@ Describe the movement zone, mounting height and desired on-time. Compare detecti
 
 For flickering or failed lighting, record fixture models and when symptoms occur before replacing components. Qualified personnel should safely isolate and inspect supply, drivers, switches, connections and operating temperature. Record replaced parts and test repeated switching before handover.
 
+## Plumbing and leak detection
+
+### 50. تأسيس شبكات المياه — Water supply network installation
+
+Start with a drawing of supply sources, fixture counts, expected pressure and pipe routes through walls and floors. Specify pipe material, diameters, accessible isolation valves and whether opening and reinstatement are included. Photograph concealed routes before closure and request pressure-test records and connection details.
+
+### 51. تأسيس شبكات الصرف — Drainage network installation
+
+Mark sanitary fixtures, invert levels, discharge connections, access points and venting. Compare pipe sizes, gradients, routes, odour control and clean-out access rather than counting outlets alone. Before covering pipework, request leakage and flow tests plus photographs of levels and joints.
+
+### 52. تركيب الأدوات الصحية — Sanitary fixture installation
+
+Provide a schedule of toilets, basins, mixers and showers with models, water and waste connections and room dimensions. Clarify whether valves, traps, sealing, fixing and removal of old fixtures are included. At handover test drainage, pressure, leakage, stability and service access.
+
+### 53. تركيب الخزانات — Water tank installation
+
+Define required capacity, installation-space dimensions, base loading, inlet, outlet, overflow and drain positions. Compare tank material and suitability for its intended water use, protected openings and cleaning access. Inspect support, float operation and leaks, and obtain operation and maintenance instructions.
+
+### 54. تركيب مضخات المياه — Water pump installation
+
+State storeys, outlets, tank level and low-pressure symptoms before selecting a pump. The quotation should address the appropriate duty curve, connections, dry-run protection, vibration, noise and maintenance access. Test pressure under simultaneous demand and automatic start-stop without excessive pressure.
+
+### 55. إعادة تأهيل التمديدات — Plumbing pipework rehabilitation
+
+For recurring leaks or poor flow, gather failure locations, photographs of exposed pipework and approximate age if known. Require a diagnosis distinguishing replacement from retained sections and consider routes that limit demolition, with finish repairs priced separately. Obtain pressure and flow tests and an as-built route record.
+
+### 56. صيانة شبكات الصرف — Drainage system maintenance
+
+Record blockage location, recurrence, usage, odours and any backflow. Compare mechanical cleaning with camera inspection where justified, identifying causes rather than merely clearing the blockage. Require a flow check and a record of defects needing later repair.
+
+### 57. كشف تسربات المياه — Water leak detection
+
+Document meter changes, damp patches, running-water sounds and when symptoms occur without opening walls at random. Ask which methods suit concealed or exposed pipes, their limitations and whether the price covers location only. Request findings, confidence level and a confirmation step before repairs.
+
+### 58. إصلاح تسربات الأنابيب — Pipe leak repair
+
+Once the leak is located, specify pipe material, failed section, joining or replacement method and likely cause. Compare access opening, isolation, protection, reinstatement and written repair warranty. Pressure-test the line and observe the joint before concealing it.
+
+### 59. كشف تسربات الخزانات — Water tank leak detection
+
+Distinguish losses from supply lines, overflow, tank body and connections. Photograph the base and surrounding area and monitor water level after safely isolating relevant routes. The report should identify the suspected source and verification method before proposing sealing or replacement.
+
+### 60. عزل الحمامات — Bathroom waterproofing
+
+Before retiling, identify wet zones, upstand heights, drain penetrations and wall-floor junctions. Compare a substrate- and tile-compatible system, curing time and protection during finishing. Require a documented flood test or other suitable verification before covering the membrane.
+
+### 61. عزل الأسطح — Roof waterproofing
+
+Inspect drainage falls, ponding, joints and equipment bases before choosing a membrane. The scope should cover substrate preparation, crack treatment, edge and penetration detailing and protection against exposure and traffic. Check outlets and suitable tests at handover, retaining photographs before layers are concealed.
+
+### 62. عزل خزانات المياه — Water tank waterproofing
+
+State whether the tank holds drinking water or serves another use, and document structural condition, joints and penetrations. Water resistance alone is insufficient: request evidence of suitability for the tank's use, substrate preparation, curing and rinsing instructions. Obtain a watertightness test, material records and a safe return-to-service plan.
+
+### 63. معالجة الرطوبة الناتجة عن التسرب — Remediation of leak-related dampness
+
+Do not paint over a damp patch before locating and fixing its water source and assessing moisture spread through the wall or ceiling. Compare removal of damaged finishes, drying, treatment of salts or mould where present, and reinstatement only after adequate drying. Request before-and-after photographs and evidence that the cause has stopped.
+
 ## Request a quotation through Biet Al Reef customer service
 
-A request can be submitted even where no company is listed. Include your name, contact number, Al Rahba location, requested service, site description, photographs, available dimensions, preferred inspection window and access details. Customer service can receive and route the enquiry without guaranteeing provider availability, price or appointment.
+Send your name, contact number, Al Rahba location, requested service, site description, photographs, available measurements and preferred inspection window. Biet Al Reef can receive the request even without a listed company, without promising a price, appointment or provider availability.

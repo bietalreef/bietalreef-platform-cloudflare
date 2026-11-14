@@ -21,3 +21,8 @@
 ## Pump commissioning safety — 2026-11-13
 
 Added matched Arabic/English acceptance guidance for qualified electrical checks, safe isolation, dry-run protection and documented pump commissioning under service 4. No assumption of approval, supplier availability or activation. Remaining area-wide review is still pending.
+
+## مراجعة طلبات السعر الخاصة بكل خدمة — 2026-11-14
+
+- أُضيفت سبع تعليمات طلب سعر مختلفة لكل خدمة بالعربية وسبع مكافئة بالإنجليزية، تتناول المخططات والحسابات والضغط والتصرف والرش والمضخات والتشخيص والبرمجة والكشف؛ دون تغيير أسماء الخدمات أو ترتيبها.
+- الحالة التحريرية للتخصص: `in_progress` لحين تدقيق التكافؤ الدلالي والسلامة والتفرد بصورة مستقلة. التصنيف غير قابل للاختيار حاليًا، ولا ضمان لشركة أو سعر أو موعد.

@@ -15,3 +15,8 @@ Seven source-aligned company service headings in each language, original sequenc
 ## تدقيق تخصيص الفقرات — 2026-11-09
 
 تم استبدال 28 جملة عامة متكررة في كل لغة (النطاق، بيانات المعاينة، الاتفاق، الاستلام) بتوجيهات مختلفة للخدمات السبع، مع إبقاء عناوين الشجرة وترتيبها دون تغيير. يلزم تدقيق المنطقة ككل قبل الاعتماد.
+
+## Service-specific quotation requests — 2026-11-14
+
+- Added seven distinct Arabic **طلب عرض السعر** and seven corresponding English **Request a quotation** subsections, one per original service, covering required evidence, scope boundaries, separate price lines, change control, and handover/engineering responsibility where relevant.
+- Both content files were read back from the target branch and verified, with seven RFQ headings in each language. This is an incremental editorial improvement; full independent safety, originality and semantic parity certification remains pending.

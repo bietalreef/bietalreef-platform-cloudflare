@@ -91,8 +91,38 @@ Diagnose the deficiency and required capacity before choosing a strengthening me
 
 Define the technical question: crack cause, member condition or alteration feasibility. Provide available photos, drawings and tests and agree the inspection scope. Receive a report separating observations, assumptions, findings, recommendations and uncertainties.
 
+## Engineering supervision and consultancy
+
+### 22. Construction supervision
+
+Identify inspection hold points before reinforcement, services and waterproofing are concealed. Agree engineer visit frequency, sample approvals and observation records with accountable close-out. Compare periodic with resident supervision; neither is a substitute for official approvals.
+
+### 23. Project management
+
+Supply contracts, budget, drawings and the baseline programme. Require a coordination plan for contractors and suppliers, a risk register and a variation log showing cost and schedule impacts. Compare decision authority and reporting frequency; obtain decision records and cost forecasts.
+
+### 24. Construction quality review
+
+Identify the work items and acceptance criteria, such as floor tolerances or waterproofing details, and provide drawings and test records. Require a report locating defects, photographic evidence, corrective actions and retesting rather than a general unmeasured judgement.
+
+### 25. Stage inspections and handover
+
+Agree inspections of foundations, structure, services, waterproofing and finishes before concealment. Specify tests, documents and signatories for each stage, and record rejected items and rectification deadlines. Stage acceptance is not final project handover.
+
+### 26. Construction progress reporting
+
+Provide the baseline schedule and contracted quantities. Request dated comparisons of actual versus planned progress with delay explanations, photographs and measurements. Separate physical completion from expenditure and verify payment claims against evidenced work.
+
+### 27. Quantity take-off
+
+Specify drawing revisions, measurement units and whether quantities support tendering, construction or completed-work assessment. Require traceable calculations, separately stated waste allowances, assumptions and exclusions; sample-check dimensions for duplication before comparing bids.
+
+### 28. Contractor bid evaluation
+
+Give the reviewer identical drawings and bills of quantities for each bidder. Compare specifications, quantities, exclusions, warranties, schedules and payment terms, and clarify unpriced items before selection; the lowest total is not necessarily an equivalent offer.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even with no published company, submit your name, contact number, Al Rahba project location, property type, requested service, approximate area, available photos or drawings and target date. State whether you need a concept, drawings or application follow-up, and request itemised deliverables, revisions and exclusions. A published provider is not required to receive an enquiry.
 
-**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 21 of 49 services drafted; remaining specialties are pending.
+**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 28 of 49 services drafted; remaining specialties are pending.

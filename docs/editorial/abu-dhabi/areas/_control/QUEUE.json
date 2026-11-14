@@ -421,7 +421,8 @@
         "general-maintenance",
         "building-materials",
         "aluminium-glass",
-        "furniture-decor"
+        "furniture-decor",
+        "equipment-rental"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
@@ -448,20 +449,20 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-15",
-      "review_note": "Verified GitHub AR/EN numbered services 1–42 for equipment-rental, 6 sectors complete, 381/434 per language; next service 43 نقل مواد البناء. Independent human review required.",
+      "review_note": "Verified GitHub equipment-rental AR/EN 1–53 sequential, eight specialties; seven sectors complete, 392/434 each language. Cleaning-services 42 remains; next تنظيف الفلل. Human review required.",
       "editorial_progress": {
-        "sector": "equipment-rental",
-        "specialty": "نقل مواد ومعدات المشاريع",
+        "sector": "cleaning-services",
+        "specialty": "تنظيف المنازل والمباني",
         "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "نقل الأثاث والممتلكات",
-        "last_completed_service_number": 42,
-        "last_completed_service_name": "نقل الممتلكات بين الإمارات",
-        "next_service_number": 43,
-        "sector_total": 53,
-        "sector_completed": 42,
+        "last_completed_specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
+        "last_completed_service_number": 53,
+        "last_completed_service_name": "توريد المنتجات للمشاريع",
+        "next_service_number": 1,
+        "sector_total": 42,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 381,
-        "remaining_area_services": 53,
+        "area_completed": 392,
+        "remaining_area_services": 42,
         "editorial_draft_completed": false
       }
     },

@@ -178,6 +178,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Check separation of service and waiting areas, staff movement, basins and equipment positions. For a comparable design quotation, provide service stations, waiting areas, wash points and privacy needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 11:** Before approving the salon layout, state the number of service chairs and wash stations, the staff circulation route, and photograph water, drainage, socket and ventilation points. Require clearances around chairs, waiting space and product storage. Compare design quotes on service-point coordination, not renders alone. Check station positions against the site at handover and identify plumbing, electrical work and operating approvals excluded from the design fee.
+
 ## 12. Clinic design
 
 
@@ -193,6 +196,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Require examination-room privacy, waiting and hygiene flows; make design review against the licensed clinical activity an explicit deliverable.
 
 **Acceptance and quotation enquiry:** Check examination-room privacy, patient/staff routes and equipment positions against applicable authority requirements. For a comparable design quotation, provide clinic type, patient routes, examination rooms and relevant approval requirements; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+
+**Additional practical review — service 12:** Provide the intended use of each consultation room, reception and waiting area, including circulation routes, without treating the concept as healthcare approval. Separate finishes design from medical equipment, specialist ventilation and statutory reviews by qualified parties. Compare drawing deliverables and coordination responsibilities. Check door clearances, cleanable surfaces and equipment positions with the appropriate specialist before accepting the layout.
 
 ## 13. Exhibition design
 
@@ -210,6 +216,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Review exhibit visibility, visitor paths, lighting points and display-unit fixing details. For a comparable design quotation, provide exhibit types and dimensions, mounting methods and visitor circulation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 13:** Record exhibition floor dimensions, ceiling height, loading access, power supplies and hanging points. Ask whether the fee includes visitor-flow plans, display-base and lighting details, fabrication information or renders only. At design handover check entry and exit paths and maintenance access. Load capacity, fire safety and physical installation require independent specialist verification rather than relying on a 3D image.
+
 ## 14. Reception area design
 
 
@@ -225,6 +234,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare counter height, screen privacy and waiting space; agree on options and responsibility for appropriate access review.
 
 **Acceptance and quotation enquiry:** Check reception-desk visibility from the entrance, waiting capacity and accessible circulation. For a comparable design quotation, provide reception staffing, visitor flow, waiting capacity and privacy needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+
+**Additional practical review — service 14:** Photograph the approach from the entrance to reception, and document expected visitor volume, queue space, waiting and privacy needs. Compare layouts for entrance visibility, accessible circulation, transaction counter space and document storage. Specify whether signage and data points are included. Test a visitor arrival and check-in scenario against the proposed plan before approving the design.
 
 ## 15. Flooring selection
 
@@ -242,6 +254,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Match flooring codes, transition lines and door thresholds to the material schedule and approved samples. For a comparable design quotation, provide room areas, intended use, substrate condition and flooring samples; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 15:** Identify room use, expected moisture, subfloor condition and door thresholds before selecting flooring. Ask for physical samples, floor build-up thickness, joints and edge transitions. Compare proposals on substrate preparation, levelling or waterproofing assumptions, cutting waste and installation responsibility—not product names alone. At design sign-off check threshold levels and transitions; site moisture testing and installation are separate unless contracted.
+
 ## 16. Paint colour selection
 
 
@@ -257,6 +272,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Specify paint codes, sheen and on-wall sample locations; compare colours under different lighting and define sample approval before purchase.
 
 **Acceptance and quotation enquiry:** Compare colour codes and samples under site lighting and confirm surface finishes are documented. For a comparable design quotation, provide daylight photographs, paint samples, colour tones and finish sheen; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+
+**Additional practical review — service 16:** Photograph walls in daylight and artificial light and record existing flooring and fixed furniture colours. Request precise paint codes and agreed on-wall sample locations; phone images are not final colour references. Compare the number of options, sample trials and revisions. Assign sample provision, surface preparation and painting separately, then verify approved codes against the room schedule.
 
 ## 17. Stone and tile selection
 
@@ -274,6 +292,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Match stone/tile codes, tile sizes, veining direction and joints against approved samples. For a comparable design quotation, provide surface dimensions, wet-area exposure, stone and tile samples and joint details; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 17:** Measure surfaces, openings and drains and photograph corners and junctions before choosing stone or tiles. Request a setting-out plan, vein direction, joint width, edge details and samples from the proposed batch. Compare design deliverables while separating slab purchasing, cutting waste, waterproofing and fixing. At handover match material codes and drawings to physical samples rather than photographs.
+
 ## 18. Furniture selection
 
 
@@ -289,6 +310,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare furniture sizes, frame durability, fabrics, warranty and delivery; record approved substitutes if selected items are unavailable.
 
 **Acceptance and quotation enquiry:** Check proposed furniture dimensions, finishes, lead times and installation/maintenance clearances. For a comparable design quotation, provide furniture budget, product dimensions, use intensity and upholstery needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+
+**Additional practical review — service 18:** Supply room, lift and doorway dimensions, user numbers and a list of furniture to retain. Require a furniture schedule with sizes, materials, colours, model references and acceptable alternatives. Compare fees by item count and revision rounds, not purchasing prices. Check circulation, drawer and door clearance and delivery access; selection is distinct from supply, warranty and assembly.
 
 ## 19. Lighting selection
 
@@ -306,6 +330,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Check lighting layers, controls, colour temperatures and fixture compatibility with ceilings. For a comparable design quotation, provide room functions, electrical points, lighting levels and control preferences; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 19:** Identify tasks in each area, ceiling heights, screen glare, reflective finishes, existing switches and circuits. Request a luminaire schedule with specifications, placement, control methods and proposed scenes. Compare stated lighting assumptions and electrical coordination. At handover check fittings against air-conditioning outlets and ceiling details; a lighting concept is not an electrical safety inspection.
+
 ## 20. Materials mood board
 
 
@@ -322,6 +349,9 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Verify sample identifiers and that each maps to its space, supplier and approved alternative. For a comparable design quotation, provide room photographs, material samples, colour references and acceptable alternatives; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+
+**Additional practical review — service 20:** Collect physical flooring, paint, fabric, metal and timber samples under comparable light, with supplier codes rather than reference images alone. Ask the board to identify each material's intended location, alternatives and sample availability. Agree who authorises substitutions. At acceptance reconcile codes with room drawings; a mood board is not a quantity schedule, purchase order or availability guarantee.
+
 ## 21. Finishes schedule
 
 
@@ -337,3 +367,6 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare room references, drawing links and sample codes in the finishes schedule; allocate responsibility for updating it when specifications change.
 
 **Acceptance and quotation enquiry:** Cross-check finish codes, quantities and locations with drawings and procurement/installation responsibilities. For a comparable design quotation, provide room schedule, finish codes, quantities and approved drawing references; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+**Additional practical review — service 21:** Provide room numbers, current drawing revisions and approved material codes. Require a schedule connecting each surface to its location, finish type, drawing reference and sample. Compare the level of detail and revision-control procedure, including responsibility for resolving drawing conflicts. At handover spot-check rooms, ceilings and edges; schedule preparation does not include final measured quantities, procurement or installation.
+

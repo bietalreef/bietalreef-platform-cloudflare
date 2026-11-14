@@ -17,3 +17,9 @@
 - Added six independently tailored quotation-request paragraphs to each language for services 2–7: project management, workmanship quality review, stage acceptance, progress reporting, quantity surveying, and contractor tender comparison.
 - Read back both language files from the named GitHub branch and confirmed the exact six new passages in each.
 - **Still pending:** independent full semantic and technical audit of all seven pairs, including service 1; verify cross-specialty originality and the full 434-service district inventory. Status remains `in_progress`.
+
+## تدقيق فني مستقل للخدمات السبع — 2026-11-14
+
+- أضيفت سبع نقاط تحقق مستقلة بالعربية وسبع بالإنجليزية، واحدة لكل خدمة من الإشراف على التنفيذ حتى مراجعة عروض المقاولين، مع مطابقة ترتيب الشجرة دون تعديل أسماء الخدمات.
+- تشمل مصفوفة الصلاحيات ونقاط التوقف، أثر التأخيرات وأوامر التغيير، خطة العينات والمعايرة، الاستلام المشروط، قياس الإنجاز، منع ازدواج الكميات، وتسوية استثناءات عروض المقاولين. صُحح فصل نحوي في نص الإشراف الإنجليزي.
+- **الحالة `in_progress`:** الإضافات ليست تدقيقًا نهائيًا للتخصص؛ تبقى مراجعة التكافؤ والتكرار سطرًا بسطر، ثم `interior-design/interior-materials` (الخدمات 1–21)، ثم التخصصات الأخرى وتحقق 434 خدمة بكل لغة.

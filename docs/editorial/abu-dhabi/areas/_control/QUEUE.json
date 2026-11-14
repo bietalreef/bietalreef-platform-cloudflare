@@ -418,7 +418,8 @@
       "completed_sectors": [
         "general-contracting",
         "interior-design",
-        "general-maintenance"
+        "general-maintenance",
+        "building-materials"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
@@ -436,19 +437,19 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Verified building materials 35/49 bilingual services, marble and granite 29–35; area 245/434; next kitchen and washbasin surfaces 36.",
+      "review_note": "Verified bilingual 49/49 building materials service headings and 5/5 specialties on GitHub; area 259/434, next aluminium-glass 1.",
       "editorial_progress": {
-        "sector": "building-materials",
-        "specialty": "أسطح المطابخ والمغاسل",
+        "sector": "aluminium-glass",
+        "specialty": "المطابخ والخزائن والأبواب الخشبية",
         "last_completed_sector": "building-materials",
-        "last_completed_service_number": 35,
-        "last_completed_service_name": "صيانة ومعالجة الرخام",
-        "next_service_number": 36,
-        "sector_total": 49,
-        "sector_completed": 35,
+        "last_completed_service_number": 49,
+        "last_completed_service_name": "توريد وتركيب الوزرات",
+        "next_service_number": 1,
+        "sector_total": 56,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 245,
-        "remaining_area_services": 189,
+        "area_completed": 259,
+        "remaining_area_services": 175,
         "editorial_draft_completed": false
       }
     },

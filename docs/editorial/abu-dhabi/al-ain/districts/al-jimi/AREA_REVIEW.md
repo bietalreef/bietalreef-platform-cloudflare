@@ -1164,3 +1164,9 @@
 - الحالة `in_progress`: حُسنت خدمة «الإشراف على التنفيذ» في اللغتين لتوضيح استقلالية المشرف والإفصاح عن العلاقات التجارية مع المقاول، وتصعيد الخلافات وحدود صلاحية وقف إخفاء الأعمال المعيبة؛ دون افتراض سلطة قانونية غير مثبتة.
 - الملفات: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [المراجعة](./interior-design/engineering-supervision/review.md).
 - **النواقص الدقيقة التالية:** تدقيق الخدمات 2–7 في `interior-design/engineering-supervision` ومراجعة تكافؤ جميع الخدمات السبع؛ ثم تدقيق الخدمات 1–21 في `interior-design/interior-materials`، وبعدها بقية تخصصات القطاعات الثمانية وفق الشجرة والتحقق من 434 خدمة في كل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+## متابعة الإشراف والاستشارات الهندسية — 2026-11-14 (تفصيل الخدمات 2–7)
+
+- **الحالة `in_progress`**: أضيفت ست فقرات مخصصة لطلبات عروض الأسعار بالعربية وست بالإنجليزية لخدمات إدارة المشروع، مراجعة جودة الأعمال، استلام مراحل المشروع، إعداد تقارير تقدم الأعمال، حصر الكميات، ومراجعة عروض المقاولين. تحقق حفظ الملفين بإعادة قراءتهما من الفرع.
+- الملفات: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [المراجعة](./interior-design/engineering-supervision/review.md).
+- **النواقص التالية بدقة:** التدقيق الدلالي والفني المستقل لجميع خدمات الإشراف السبع، ثم مراجعة الخدمات 1–21 في `interior-design/interior-materials`، ثم جرد وتدقيق تخصصات `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، وإعادة تدقيق المقاولات العامة والتصميم المعماري والإنشائي، والتحقق من 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اكتمال الجيمي.

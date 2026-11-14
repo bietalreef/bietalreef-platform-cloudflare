@@ -437,19 +437,19 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "GitHub verified aluminium-glass 14/56 bilingual services, one complete specialty; area 273/434; next service 15.",
+      "review_note": "Re-fetched GitHub bilingual aluminium-glass content; 28/56 numbered services sequential in both languages, 287/434 area services total. Next service 29 تصنيع نوافذ الألمنيوم. Human review pending.",
       "editorial_progress": {
         "sector": "aluminium-glass",
-        "specialty": "الأثاث والديكور الخشبي",
+        "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
         "last_completed_sector": "aluminium-glass",
-        "last_completed_service_number": 14,
-        "last_completed_service_name": "دهان وتجديد الأخشاب",
-        "next_service_number": 15,
+        "last_completed_service_number": 28,
+        "last_completed_service_name": "تشطيب وتسليم الأعمال الداخلية",
+        "next_service_number": 29,
         "sector_total": 56,
-        "sector_completed": 14,
+        "sector_completed": 28,
         "area_total": 434,
-        "area_completed": 273,
-        "remaining_area_services": 161,
+        "area_completed": 287,
+        "remaining_area_services": 147,
         "editorial_draft_completed": false
       }
     },

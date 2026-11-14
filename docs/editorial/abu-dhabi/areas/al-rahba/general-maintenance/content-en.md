@@ -384,7 +384,7 @@ Record failed cameras, image-loss times, alerts and drive health before service.
 Identify recorder model, supported official app, user permission level and available internet connection. Require a secure remote-access method rather than indiscriminate port forwarding, using supported authentication and account protection. Test viewing away from the premises and notifications, then remove temporary technician access.
 
 
-## الدهانات — Painting
+## Painting
 
 ### 92. دهان الفلل — Villa painting
 
@@ -415,7 +415,7 @@ Photograph blistering and peeling and investigate moisture, salts or poor adhesi
 Mark repair areas with dimensions and photographs and provide the original colour reference if available. Establish whether a local patch will blend or a complete wall must be repainted to avoid colour and sheen differences. Treat recurring cracks separately. Compare preparation and protection allowances, then inspect repairs in normal lighting after drying.
 
 
-## العزل المائي والحراري — Waterproofing and thermal insulation
+## Waterproofing and thermal insulation
 
 ### 99. عزل الأسطح — Roof waterproofing
 

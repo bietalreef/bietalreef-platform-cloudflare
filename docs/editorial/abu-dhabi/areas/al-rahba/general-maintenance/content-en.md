@@ -267,6 +267,64 @@ State whether the tank holds drinking water or serves another use, and document 
 
 Do not paint over a damp patch before locating and fixing its water source and assessing moisture spread through the wall or ceiling. Compare removal of damaged finishes, drying, treatment of salts or mould where present, and reinstatement only after adequate drying. Request before-and-after photographs and evidence that the cause has stopped.
 
+## Air conditioning and cooling
+
+### 64. تركيب تكييف سبليت — Split AC installation
+
+Record room area, ceiling height, solar exposure, outdoor-unit position and condensate route. Compare suitable cooling capacity, copper pipe length, insulation, electrical supply and mounting rather than equipment price alone. Test drainage, noise and supply-return air temperature difference after commissioning.
+
+### 65. تركيب تكييف مركزي — Central air-conditioning installation
+
+Start with zone cooling loads, supply and return duct drawings and maintenance access before selecting equipment. The quote should separate units, fans, controls, insulation, power and condensate drainage and air balancing. Require commissioning records for airflow, pressures, temperatures and functional tests.
+
+### 66. تركيب تكييف مخفي — Concealed AC installation
+
+Verify ceiling void depth, access panels, return-air path and condensate routing. Compare available fan static pressure, noise, duct insulation and outlet positions. Do not close plasterboard until leakage, drainage and access to filters or any condensate pump have been checked.
+
+### 67. تمديد مواسير التكييف — Refrigerant pipe installation
+
+Provide unit separation, elevation differences, penetrations and protection against sun and abrasion. Specify manufacturer-compatible pipe sizes, insulation, brazing method and tests before refrigerant charging. Photograph concealed routes and obtain pressure and evacuation records.
+
+### 68. تركيب مجاري الهواء — Air duct installation
+
+Define room-by-room airflow, duct routes, clear height and maintenance openings. Compare sheet-metal gauge, supports, insulation, sealed joints, vibration control and outlet balancing. Check leakage, noise and measured airflow before ceilings are closed.
+
+### 69. استبدال أجهزة التكييف — AC unit replacement
+
+Document the old model, failures, space size and existing services before ordering a replacement. Check capacity, power, pipework, supports and drainage compatibility, and who removes the old unit and handles refrigerant. Commission the replacement and provide equipment and warranty details.
+
+### 70. تشغيل وفحص الأنظمة — HVAC commissioning and inspection
+
+Provide an equipment schedule, controls drawings, design data and any complaints. Commissioning should check power, protection, airflow, drainage, pressures and temperatures against manufacturer instructions. The report should distinguish faults preventing operation from improvements and avoid unmeasured efficiency claims.
+
+### 71. تنظيف أجهزة التكييف — AC unit cleaning
+
+Photograph filters, coils, condensate tray and outlets before cleaning and identify the unit type. Compare permitted disassembly, electronics protection, wash-water disposal and drain checks. Request after-cleaning photographs and a run test without water leakage.
+
+### 72. تعبئة غاز التبريد — Refrigerant charging
+
+Poor cooling does not automatically mean low refrigerant: first check airflow, coil condition, pressures and possible leaks. Identify the correct refrigerant and charge quantity from equipment data, and repair leaks before recharging. Obtain charge records, measurements and a performance check.
+
+### 73. إصلاح أعطال التكييف — AC fault repair
+
+Describe symptoms, timing, error codes, noises or water leaks, and do not operate equipment showing unsafe signs. Compare diagnostic fees, parts, additional work and post-repair testing. Require the fault cause, replaced parts and an operating test under representative conditions.
+
+### 74. تنظيف مجاري الهواء — Air duct cleaning
+
+Identify accessible duct sections, inspection openings and dust or odour complaints. Ask about deposit removal, dust containment, equipment protection and how results will be checked without unsupported health claims. Obtain before-and-after images and a list of inaccessible sections.
+
+### 75. صيانة وحدات التكييف المركزي — Central HVAC maintenance
+
+Prepare fault logs, operating hours and filter, belt, fan and condensate conditions. The scope should distinguish routine inspections and readings, consumables and major repairs. Obtain recorded measurements and recommendations, identifying any need for safe shutdown or urgent follow-up.
+
+### 76. تغيير قطع الغيار — HVAC spare-part replacement
+
+Provide model and nameplate photographs plus the part code or damaged-component image. Require compatibility, provenance, warranty and whether installation and testing are included. Where feasible retain the old part, record the replacement identification and test its function.
+
+### 77. عقود الصيانة الدورية — Periodic HVAC maintenance contracts
+
+List equipment, locations, operating hours and required service level before comparing contracts. Check visit frequency, cleaning, tests, response arrangements, exclusions, spare parts and visit records. Evaluate delivery using fault logs, measurements and completed tasks rather than visit count alone.
+
 ## Request a quotation through Biet Al Reef customer service
 
-Send your name, contact number, Al Rahba location, requested service, site description, photographs, available measurements and preferred inspection window. Biet Al Reef can receive the request even without a listed company, without promising a price, appointment or provider availability.
+Provide your name, contact number, Al Rahba location, requested service, equipment photographs, available measurements and preferred inspection window. Biet Al Reef receives enquiries without requiring a listed company or guaranteeing a price or appointment.

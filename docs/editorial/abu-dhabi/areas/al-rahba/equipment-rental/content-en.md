@@ -162,3 +162,33 @@ For equipment requiring repair in Al Rahba, provide the model, operating hours, 
 ## Quotation request
 
 Biet Al Reef customer service can receive tool purchases and equipment maintenance enquiries even without a published store. Provide contact name, telephone, location, equipment or part type, model, dimensions, quantities, photographs and required date. Store availability, prices and appointments are not guaranteed. Individual tradespeople remain a separate classification.
+
+## Furniture and belongings relocation
+
+### 36. Home furniture moving
+
+For a household move in Al Rahba, inventory large items, rooms and movable appliances, and specify floors, lift access and the distance from the vehicle to each entrance at both addresses. Send photographs of wardrobes, beds, heavy tables and fragile glass pieces. Request a quotation separating vehicle capacity, crew, wrapping, dismantling, reassembly and extra trips, with written responsibility for damage or delays. Photograph condition and label cartons before loading; on delivery reconcile the inventory, inspect corners, surfaces and hinges, and record damage before signing off.
+
+### 37. Office furniture moving
+
+An office move calls for numbered desks, chairs, cabinets and equipment mapped to their destination rooms, with a time window for protecting documents and disconnecting systems. Provide the new floor plan and photographs of corridors, lifts and loading access. Clarify who disconnects and reconnects computers and networks; these services are not automatically part of furniture transport. Compare crew size, trips, packing, work hours and placement duties. At handover check each item against its assigned location and inspect drawers, locks and equipment before work resumes.
+
+### 38. Furniture dismantling and reassembly
+
+Before dismantling a wardrobe, bed or workstation, provide photographs of fittings, dimensions and the model if known, noting wall fixings and narrow access routes. Ask which components can safely be removed, how screws and fittings will be bagged and panels labelled, and who will repair redundant fixing holes. Price dismantling, transport, assembly and alterations separately. After reassembly check door alignment, shelf stability and secure anchorage; do not use unstable furniture until faulty joints or fixings have been corrected.
+
+### 39. Furniture wrapping
+
+Packaging should suit the material, not merely the object's size. Mirrors, polished edges, upholstery and appliances require different protection. Share an item list and photographs, plus the expected transport or storage duration and exposure to dust or moisture. Specify corner guards, blankets, cartons, film and load restraint, and whether unpacking and disposal are included. Before loading inspect edge protection, secured moving parts and labels; unpack with the receiving party and document visible damage.
+
+### 40. Loading labour provision
+
+To arrange loading labour, specify approximate item weights, quantities, floors, carry distances, obstacles, lift access and expected duration. A headcount alone is insufficient where heavy cabinets or appliances may need suitable lifting aids and a safe handling plan. Compare hourly rates, minimum charges, equipment, supervision, waiting time and extensions, and clarify who supplies the vehicle. At completion reconcile loaded items and check the property and common areas before the crew leaves.
+
+### 41. Temporary storage
+
+Where immediate delivery is impossible, estimate the volume or carton count, duration, sensitivity to heat and humidity, and whether access will be needed during storage. Request the actual storage conditions, protection against water, dust and pests, security, inventory procedures and liability terms; do not assume climate control. Compare space charges, handling, collection, redelivery and access fees. Obtain a numbered inventory and condition photographs at deposit, then reconcile seals, quantities and condition at collection.
+
+### 42. Inter-emirate belongings transport
+
+For a move from Al Rahba to another emirate, give both full addresses, the inventory, preferred delivery date and photographs of entrances or vehicle restrictions. Ask for vehicle size, number of trips, packing, loading, unloading, waiting charges and responsibility for coordinating building access. Do not assume that assembly, storage or valuables handling are included. Record a numbered inventory before departure and inspect item condition and carton counts on arrival, noting shortages or damage on the delivery record.

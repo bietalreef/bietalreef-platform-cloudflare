@@ -60,8 +60,39 @@ Where existing drawings differ from the building, commission a measured survey o
 
 Request a review matrix showing potentially relevant authorities, required inputs and responsibility for responses and revised drawings. Maintain a log of comments, versions and official correspondence, checking status through competent channels. Coordination cannot guarantee approval or waive requirements.
 
+
+## Structural design
+
+### 15. Concrete structural frame design
+
+Supply architectural plans, storey count, spans and proposed column positions. Request load analysis, member design, reinforcement details and coordination of service openings. At handover check that calculations, drawings, schedules and revisions agree.
+
+### 16. Foundation and footing design
+
+Provide ground investigation results, building loads, site levels and buried-service locations. Request a foundation-type and settlement assessment, reinforcement and relevant waterproofing details. Compare investigation scope and alternatives, then check levels and dimensions before construction.
+
+### 17. Structural drawing preparation
+
+Clarify whether drawings are for pricing or construction and provide updated architectural plans. Request foundation, column, beam and slab plans, sections and reinforcement schedules. Check openings, coordination conflicts and revision identifiers before accepting an issue.
+
+### 18. Structural load review
+
+A review is needed when use changes, heavy equipment is added or layouts are altered. Document weights, positions and existing and proposed uses. Require a report describing load assumptions, load paths, study limitations and investigations needed before alteration.
+
+### 19. Building structural condition assessment
+
+For widening cracks, settlement or corrosion, collect dated photographs, drawings and a symptom history. Commission a qualified inspection identifying affected members and necessary tests. Receive a report distinguishing observations from conclusions and identifying urgent safety precautions where needed.
+
+### 20. Structural strengthening design
+
+Diagnose the deficiency and required capacity before choosing a strengthening method. Compare added members or strengthening of existing sections against test findings and access constraints. Require connection details, temporary support, work sequencing and inspection criteria.
+
+### 21. Structural engineering reports
+
+Define the technical question: crack cause, member condition or alteration feasibility. Provide available photos, drawings and tests and agree the inspection scope. Receive a report separating observations, assumptions, findings, recommendations and uncertainties.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Even with no published company, submit your name, contact number, Al Rahba project location, property type, requested service, approximate area, available photos or drawings and target date. State whether you need a concept, drawings or application follow-up, and request itemised deliverables, revisions and exclusions. A published provider is not required to receive an enquiry.
 
-**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 14 of 49 services drafted; remaining specialties are pending.
+**Scope:** Individual professionals and artisans belong to a separate source list, not these company listings. Verify regulatory requirements with the competent authority. **Status:** 21 of 49 services drafted; remaining specialties are pending.

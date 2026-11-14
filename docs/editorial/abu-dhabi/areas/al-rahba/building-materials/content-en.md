@@ -117,3 +117,33 @@ Prepare a schedule of hinges, runners, handles and locks with quantities, hole s
 ### 28. Board cutting and preparation
 
 Supply a cutting list with dimensions, quantities, grain direction, edge-band thickness and cut-out positions. Agree tolerances, part labels and packaging before dispatch; reconcile the parts list using spot measurements and check cut edges for chipping.
+
+## Marble and granite
+
+### 29. Natural marble supply
+
+Specify a reference stone sample, slab thickness, dimensions, finish, quantity and intended indoor or outdoor application. Ask for photographs of the actual batch because veining varies naturally; inspect cracks, repairs and edge protection on delivery.
+
+### 30. Granite supply
+
+State the application, stone thickness, tile or slab dimensions and required finish, especially where slip resistance matters. Compare grade, finish, cutting waste and transport, and inspect batch consistency and visible fractures.
+
+### 31. Cut-to-size marble
+
+Provide finished dimensions, cut-outs, angles, vein direction and joint locations; distinguish fabrication dimensions from verified site dimensions. Require part labels and corner protection, and dry-fit pieces before permanent fixing.
+
+### 32. Marble honing and polishing
+
+Record stone area, existing finish and the extent of scratches or stains, with photographs of affected zones. Agree on a small test patch and protection of adjacent finishes; inspect uniform sheen and removal of polishing residues.
+
+### 33. Marble flooring installation
+
+Check substrate flatness, slab layout, vein direction, joints and doorway levels before installation. Specify a fixing system compatible with the stone, compare levelling and waste allowances, then inspect alignment, adhesion and finish.
+
+### 34. Wall and facade marble installation
+
+Provide wall heights, openings, substrate details and panel weights; have a qualified designer specify the fixing method rather than assuming adhesive alone is adequate. Review corners, joints and water-management details, then inspect fixing and appearance against drawings.
+
+### 35. Marble repair and treatment
+
+Distinguish surface stains, cracks, loose pieces and erosion, and identify causes before selecting a treatment. Request a limited colour-and-finish compatibility trial, and record pieces requiring replacement rather than concealing structural damage with cosmetic repairs.

@@ -10,7 +10,7 @@ A family planning a villa should settle bedroom count, majlis access, parking an
 
 **Compare quotations and agree boundaries:** Compare concrete and steel specifications, nominated finishes, provisional sums and whether design coordination, permits, boundary walls and landscaping are excluded. Identify who supplies materials, coordinates design and permits, supervises the structure and finishes, and pays for testing and utility connections. Record sample approvals and reinforcement inspection hold points before casting.
 
-**Inspection and acceptance:** Before closing foundations or walls, request consultant inspections; at handover check entrance levels, room dimensions, water ingress and a documented defects list.
+**Inspection and acceptance:** Ask the appointed qualified consultant to review soil and foundation records, reinforcement hold-point inspections before casting, concrete test reports and waterproofing tests before backfilling or concealment. At handover compare column grids, openings and levels with approved drawings, document defects and rectification deadlines, and identify who pays for retesting. This checklist does not replace professional sign-off or authority inspections.
 
 **Quote request:** Request a villa-specific bill of quantities, including soil-dependent foundations, utilities, majlis and parking interfaces, and a schedule of consultant inspections.
 

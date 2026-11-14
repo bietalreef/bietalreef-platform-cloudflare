@@ -60,6 +60,97 @@ Provide package photographs, model number, parts list and assembly space. Clarif
 
 Describe the symptom and when it occurs instead of requesting immediate replacement; attach a short video and model number where possible. Ask for diagnosis distinguishing adjustment, cleaning and part replacement, with approval before extra charges. Reproduce the original operating conditions during testing and record replaced parts.
 
+
+## Integrated Finishing
+
+### 15. تشطيب الفلل — Villa finishing
+
+Break down a villa finishing quotation by floor, room, wet area and exterior scope. Use drawings to separate concealed services from final finishes, and approve material samples and a work sequence before covering waterproofing or pipework. At handover, inspect room by room and witness relevant system tests.
+
+### 16. تشطيب الشقق — Apartment finishing
+
+Survey the apartment and establish access, lift use, work-hour restrictions and protection of shared corridors. Distinguish surface renewals from kitchen or bathroom alterations involving hidden services. Compare quotations on protection, debris removal and junction details; inspect surfaces and doors after final cleaning.
+
+### 17. تشطيب المحلات — Retail shop finishing
+
+Begin with the shop's intended use, customer circulation, counters, lighting and service points. Separate tenant fit-out items from landlord-provided systems. Review shop drawings and durable finish samples before fabrication, then inspect doors, lighting, service outlets and exposed junctions at handover.
+
+### 18. تشطيب المكاتب — Office finishing
+
+Confirm workstation counts, meeting rooms, acoustic privacy and data/power routes before selecting partitions and ceilings. Compare bids against coordinated layouts, fixed joinery and future access above suspended ceilings. Test lighting, sockets and doors, and check that desk clearances match the approved plan.
+
+### 19. تجديد المساحات الداخلية — Interior space refurbishment
+
+Photograph retained and removed elements and assess substrates and services before setting the refurbishment budget. Separate demolition, remedial works and new materials in the bill of quantities, with protection for occupied areas. Check floor level transitions and interfaces between new and retained finishes.
+
+### 20. تنفيذ أعمال الديكور — Decorative fit-out works
+
+Supply reference images, wall dimensions and ceiling heights, noting concealed lighting, joinery or heavy cladding. Require fixing details, electrical coordination and physical finish samples rather than appearance alone. Inspect alignment, junctions, lighting performance and maintenance access.
+
+### 21. تسليم التشطيبات المتكاملة — Integrated finishing handover
+
+Request as-built information, material schedules, available warranties and test records, together with a dated snag list and assigned responsibility. Separate visual finish acceptance from concealed waterproofing and services requiring earlier inspection evidence. Close defects only after documented reinspection.
+
+## Gypsum and Decorative Works
+
+### 22. تركيب أسقف الجبس — Gypsum ceiling installation
+
+Set the finished ceiling level and coordinate AC diffusers, sprinklers, lights and access panels before framing. Specify suspension details for the supporting structure and appropriate boards in humid locations. Check levelness, joints and cut-out positions after finishing.
+
+### 23. تنفيذ الجدران الجبسية — Gypsum partition walls
+
+Mark partition positions, door openings and intended wall-mounted loads. Specify stud dimensions, board layers and acoustic infill where needed, and coordinate electrical routes before closing the second face. Inspect plumb, door-frame anchorage, joint treatment and agreed performance.
+
+### 24. تنفيذ بيت النور — Cove lighting construction
+
+Define cove depth, wall offset, LED strip type and driver position before cutting boards. Approve a short mock-up to check light spread and avoid exposed LED dots. At handover inspect uniform illumination and access for replacing strips and drivers.
+
+### 25. تنفيذ الديكورات الجبسية — Decorative gypsum detailing
+
+Provide dimensioned drawings for cornices, frames and mouldings, including corner junctions, and approve a painted sample. Establish whether profiles are prefabricated or formed in situ and how they will be fixed. Inspect repeated patterns, corner symmetry and concealed joints.
+
+### 26. تركيب ألواح بديل الخشب — Wood-look panel installation
+
+Measure each wall, switch position and corner; confirm panel composition and suitability for expected moisture exposure. Specify substrate preparation, adhesive or mechanical fixing and joint orientation. Check batch colour consistency, edge adhesion and straight lines.
+
+### 27. تركيب ألواح بديل الرخام — Marble-look panel installation
+
+Map sheet dimensions and seams around basins and sockets. Distinguish decorative wall cladding from surfaces exposed to direct heat or water. Approve an edge and sealant sample and fixing method for the substrate; inspect voids, veining alignment and joints.
+
+### 28. صيانة وإصلاح الجبس — Gypsum repair and maintenance
+
+Photograph cracks, bulges and stains, and investigate movement, water ingress or loose framing before patching. Require removal of unsound board and inspection of hangers or nearby services where relevant. Accept after curing, checking flatness and absence of recurring symptoms.
+
+## Flooring and Cladding
+
+### 29. تركيب السيراميك — Ceramic tile installation
+
+Calculate area and cutting waste for the chosen tile size and layout; check substrate flatness and falls to drains in wet areas. Specify adhesive, grout joints, skirting and corner treatment. Inspect hollow-sounding tiles, joint consistency, drainage falls and final cleaning.
+
+### 30. تركيب البورسلان — Porcelain tile installation
+
+Record large-format tile dimensions, thickness and movement joints, and request handling and cutting arrangements to limit breakage. The bid should specify substrate preparation, suitable adhesive coverage and joint continuity. Check lippage, alignment and voids beneath tiles.
+
+### 31. تركيب الباركيه — Parquet flooring installation
+
+Measure subfloor moisture and door clearances, and select solid or engineered boards and the installation system before ordering. Confirm underlay, acoustic treatment, expansion gaps and water protection. Inspect board flatness, movement noise and perimeter clearances.
+
+### 32. تركيب الفينيل — Vinyl flooring installation
+
+Confirm whether LVT planks or sheet vinyl suit the room's traffic and moisture exposure. Test subfloor smoothness and moisture because imperfections can telegraph through thin coverings; specify seams and skirting. Check adhesion, joints and cleanability at handover.
+
+### 33. تركيب الإنترلوك — Interlocking paver installation
+
+Survey entrance levels, drainage routes and area dimensions before selecting paver thickness and pattern. Require details of sub-base, compaction, bedding sand and edge restraints, not only paver supply. Inspect surface evenness, edge stability and drainage after testing.
+
+### 34. تركيب كسوات الجدران — Wall cladding installation
+
+Identify cladding material, weight, panel size, wall height and openings. Require a fixing approach suited to the substrate, particularly for heavy panels. Review joints and edges around sockets and doors; inspect alignment, anchorage and repair access.
+
+### 35. إصلاح الأرضيات — Floor repair works
+
+Determine whether the issue is a cracked tile, debonded adhesive, swollen timber or subsidence; photograph and measure the affected zone. Ask for cause diagnosis and material matching before local replacement. Check finished levels, joints and repair stability during trial use.
+
 ## Request a quotation through Biet Al Reef customer service
 
 A request can be submitted even where no company is listed. Include your name, contact number, Al Rahba location, requested service, site description, photographs, available dimensions, preferred inspection window and access details. Customer service can receive and route the enquiry without guaranteeing provider availability, price or appointment.

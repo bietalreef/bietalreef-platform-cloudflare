@@ -419,7 +419,8 @@
         "general-contracting",
         "interior-design",
         "general-maintenance",
-        "building-materials"
+        "building-materials",
+        "aluminium-glass"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
@@ -434,22 +435,25 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/review.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/review.md"
+        "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/review.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/aluminium-glass/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/aluminium-glass/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/aluminium-glass/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Re-fetched GitHub bilingual aluminium-glass content; 28/56 numbered services sequential in both languages, 287/434 area services total. Next service 29 تصنيع نوافذ الألمنيوم. Human review pending.",
+      "review_note": "Verified on GitHub: aluminium-glass 56/56 AR and EN, five specialties, numbered continuously; Rahba 315/434, five sectors complete. Next furniture-decor service 1. Human review pending.",
       "editorial_progress": {
-        "sector": "aluminium-glass",
-        "specialty": "أعمال الألمنيوم والأبواب والنوافذ",
+        "sector": "furniture-decor",
+        "specialty": "تصنيع الأثاث",
         "last_completed_sector": "aluminium-glass",
-        "last_completed_service_number": 28,
-        "last_completed_service_name": "تشطيب وتسليم الأعمال الداخلية",
-        "next_service_number": 29,
-        "sector_total": 56,
-        "sector_completed": 28,
+        "last_completed_service_number": 56,
+        "last_completed_service_name": "صيانة الأعمال المعدنية",
+        "next_service_number": 1,
+        "sector_total": 24,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 287,
-        "remaining_area_services": 147,
+        "area_completed": 315,
+        "remaining_area_services": 119,
         "editorial_draft_completed": false
       }
     },

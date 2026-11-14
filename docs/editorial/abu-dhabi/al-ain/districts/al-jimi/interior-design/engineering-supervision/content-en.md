@@ -110,8 +110,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 **Quotation-request detail:** Supply complete bids, exclusions and payment schedules. Request a normalized comparison separating VAT, owner-supplied items, tests, warranties and programme assumptions. Agree how many clarification rounds are included and who obtains supporting evidence, without treating the review as a performance guarantee.
 
+**Independent technical check:** Normalize bids against one drawing revision and separate potential costs of exclusions from the base tender. Compare warranty periods and payment triggers without assuming the lowest-priced bid includes equivalent scope.
+
 ## Request a quotation through Biet Al Reef
 
 Share the Al Jimi site location, project stage, current drawing revisions, dated photos, intended deliverables and preferred timing. Biet Al Reef customer service can help structure the enquiry and seek a suitable company without guaranteeing availability, price, date or authority approval.
-
-**Independent technical check:** Normalize bids against one drawing revision and separate potential costs of exclusions from the base tender. Compare warranty periods and payment triggers without assuming the lowest-priced bid includes equivalent scope.

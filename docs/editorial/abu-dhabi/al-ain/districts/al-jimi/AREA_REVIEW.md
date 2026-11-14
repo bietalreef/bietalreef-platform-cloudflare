@@ -1077,3 +1077,10 @@
 
 - **الحالة `in_progress`**؛ في `general-contracting/building-villas/content-ar.md` أعيد تحرير سبع فقرات لخدمات تسليم المفتاح والفلل الجديدة والملاحق والمجالس وترميم الفلل، مع إعادة قراءة الملف والتحقق من الحفظ (commit `f0cb5977933113466a83b2cdbc1373d67ca4b034`). [المحتوى العربي](./general-contracting/building-villas/content-ar.md) · [الإنجليزية](./general-contracting/building-villas/content-en.md) · [مراجعة التخصص](./general-contracting/building-villas/review.md).
 - **النقص التالي:** مقارنة خدمات إنشاء المباني والفلل الأربع عشرة بالعربية والإنجليزية بندًا بندًا، وتدقيق السلامة والتفرد؛ ثم `general-contracting/renovation-restoration` حسب مساره الفعلي وبقية التخصصات، مع الجرد الحرفي لـ392 خدمة غير معتمدة، ومراجعة 434 خدمة لكل لغة قبل الانتقال إلى المويجعي.
+
+
+## Editorial continuation — 2026-11-14: restoration-renovation RFQ specificity
+
+- **Status remains `in_progress`**. Added and verified seven service-specific RFQ paragraphs in each language under [Arabic restoration content](./general-contracting/restoration-renovation/content-ar.md) and [English restoration content](./general-contracting/restoration-renovation/content-en.md); specialty [review](./general-contracting/restoration-renovation/review.md) updated.
+- Covered: ترميم المباني القديمة، تجديد الفلل، تجديد الشقق، إعادة تأهيل المباني، معالجة التشققات الإنشائية، تجديد الواجهات، تجهيز المبنى لإعادة الاستخدام. All seven original names and order retained.
+- **Remaining exact audit work:** independent line-by-line bilingual semantic, originality and technical-safety audit of building-villas services 1–14 and restoration-renovation services 1–7; then demolition-concrete services 1–7, landscaping 1–14, irrigation-networks 1–7 and shade-outdoor-works 1–7; then every specialty in interior-design (49 services), general-maintenance (105), building-materials (49), aluminium-glass (56), furniture-decor (24), equipment-rental (53), cleaning-services (42). Confirm taxonomy labels, practical RFQ, agreement, inspection, restricted/proposed status and English parity for each before area approval. Do not start Al Muwaiji before Al Jimi passes all checks.

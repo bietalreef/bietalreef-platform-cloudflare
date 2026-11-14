@@ -6,11 +6,11 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when the majlis layout obstructs guest movement, leaves seating exposed to the entrance or cannot accommodate the usual gathering. State the expected guest count, hospitality arrangements, privacy needs and furniture to retain.
 
-**Photographs, dimensions and specifications:** measure doors, windows and walls; photograph serving and AC locations.
+**Photographs, dimensions and specifications:** Supply an existing plan if available; measure entrance widths, door and window openings and clear wall lengths. Photograph hospitality-serving areas, AC outlets and light switches, and record retained seating dimensions.
 
 **Scope and exclusions:** The principal deliverable is a seating plan showing guest circulation, sockets and lighting. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. The majlis plan does not authorise wall alterations or service-point relocation.
 
-**Comparing quotes and agreeing terms:** Compare guest circulation, privacy and hospitality layouts; agree on the final scaled seating plan, power-point coordination and one measured revision.
+**Comparing quotes and agreeing terms:** Ask each designer for the number of seating alternatives and a drawing showing the entrance, serving route and spacing between seats. Compare sightlines from the doorway; agree on drawing scale, revision allowance and responsibility for verifying site dimensions before sign-off.
 
 **Acceptance and quotation enquiry:** Check entrance circulation, seating privacy, hospitality positions and switch locations on the approved plan. For a comparable design quotation, provide guest capacity, hospitality locations, privacy requirements and the requested majlis plan; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
@@ -18,7 +18,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **When it is useful:** when screen viewing, children's play and everyday circulation compete for the same space. Specify household use, screen viewing habits, storage needs and furniture that must remain.
 
-**Photographs, dimensions and specifications:** photograph TV and windows; measure sofa viewing distance and circulation.
+**Photographs, dimensions and specifications:** Photograph the proposed screen wall and windows under typical daylight; measure sofa width, viewing distance and routes to doors. Mark existing sockets and devices to be retained.
 
 **Scope and exclusions:** The principal deliverable is a furniture arrangement with storage and device outlets. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Screen purchase and concealed cable installation are outside this design scope.
 
@@ -44,7 +44,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** provide appliance sizes, water, drain and extraction points with wall photos.
 
-**Scope and exclusions:** The principal deliverable is a cabinet elevations, sections, worktops and services coordination. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Cabinet manufacture and relocation of gas or water services are not included.
+**Scope and exclusions:** The principal deliverables are cabinet elevations, sections, worktop details and a coordinated layout of service points. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Cabinet manufacture and relocation of gas or water services are not included.
 
 **Comparing quotes and agreeing terms:** Compare cabinet sections, worktop details and appliance clearances; allocate responsibility for checking appliance dimensions and coordinating plumbing and power.
 

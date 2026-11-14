@@ -415,7 +415,9 @@
       "name_en": "Al Rahba",
       "kind": "district",
       "status": "in_progress",
-      "completed_sectors": [],
+      "completed_sectors": [
+        "general-contracting"
+      ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-en.md",
@@ -423,18 +425,18 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "2026-11-14: 42/434 bilingual services verified from GitHub; next irrigation networks service 43. Human review pending; no live changes.",
+      "review_note": "2026-11-14: 56/434 bilingual service explanations verified on GitHub; general-contracting 56/56 across 6 specialties complete, next interior-design service 1. Independent human review pending; no live changes.",
       "editorial_progress": {
-        "sector": "general-contracting",
-        "specialty": "شبكات الري",
-        "last_completed_service_number": 42,
-        "last_completed_service_name": "عقود صيانة الحدائق",
-        "next_service_number": 43,
-        "sector_total": 56,
-        "sector_completed": 42,
+        "sector": "interior-design",
+        "specialty": "التصميم المعماري والمخططات",
+        "last_completed_service_number": 56,
+        "last_completed_service_name": "تنفيذ الشلالات والنوافير",
+        "next_service_number": 1,
+        "sector_total": 49,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 42,
-        "remaining_area_services": 392,
+        "area_completed": 56,
+        "remaining_area_services": 378,
         "editorial_draft_completed": false
       }
     },

@@ -432,19 +432,19 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "2026-11-14: 56/56 contracting, 49/49 engineering, 14/105 maintenance, 119/434 per language. General maintenance 1–14 saved and re-fetched. Next maintenance 15 تشطيب الفلل. Human review pending; no live changes.",
+      "review_note": "Verified on GitHub: Al Rahba 56 contracting + 49 engineering + 35 maintenance = 140/434 AR and EN. Maintenance 1–35, four specialties complete; next electricity and lighting service 36. In progress; pending independent technical and language review.",
       "editorial_progress": {
         "sector": "general-maintenance",
-        "specialty": "الصيانة العامة",
+        "specialty": "الأرضيات والكسوات",
         "last_completed_sector": "interior-design",
-        "last_completed_service_number": 14,
-        "last_completed_service_name": "إصلاح الأعطال البسيطة",
-        "next_service_number": 15,
+        "last_completed_service_number": 35,
+        "last_completed_service_name": "إصلاح الأرضيات",
+        "next_service_number": 36,
         "sector_total": 105,
-        "sector_completed": 14,
+        "sector_completed": 35,
         "area_total": 434,
-        "area_completed": 119,
-        "remaining_area_services": 315,
+        "area_completed": 140,
+        "remaining_area_services": 294,
         "editorial_draft_completed": false
       }
     },

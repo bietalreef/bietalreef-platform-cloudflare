@@ -10,6 +10,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare layout alternatives, planting and irrigation drawings; installation and supply are excluded unless contracted.
 
+**Service-specific quotation request:** Share a dimensioned plan showing entrances, sun exposure and intended uses. Ask for two layout options, the number of revision rounds and deliverable formats; identify whether irrigation and lighting design are included.
+
 **Acceptance inspection:** Check usable path widths, unobstructed doors and runoff away from the building.
 
 ## 2. Villa landscaping
@@ -19,6 +21,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Supply planted-area measurements, machinery access and utility locations with multiple site photographs.
 
 **Quotation comparison, contract and exclusions:** Price grading, soil, plants, irrigation and lighting separately; assign responsibility for protecting existing finishes.
+
+**Service-specific quotation request:** Provide a photo inventory of trees and seating to retain and the areas to change. Request itemised protection, soil, planting, irrigation, lighting and waste-removal prices, plus plant establishment follow-up.
 
 **Acceptance inspection:** Inspect levels, irrigation coverage and maintenance access around seating and trees.
 
@@ -30,6 +34,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare level plans, facade interfaces and paving specifications; permits and structural works are separate unless stated.
 
+**Service-specific quotation request:** Supply entrance and drain levels and pedestrian and vehicle routes. Request a grading plan, threshold junction details and design alternatives; price design separately from paving construction and permits.
+
 **Acceptance inspection:** Check accessibility and ensure runoff does not reach door thresholds or walls.
 
 ## 4. Green area installation
@@ -39,6 +45,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Measure square metres, available soil depth, levels and irrigation points; photograph low spots.
 
 **Quotation comparison, contract and exclusions:** Compare soil preparation, planting layer, plant source and establishment care; identify drainage and waste exclusions.
+
+**Service-specific quotation request:** Provide the lawn area, available soil depth and ponding locations. Ask for drainage assessment, soil preparation, ground-cover specification, irrigation and establishment care, with measurable acceptance criteria for gaps.
 
 **Acceptance inspection:** Test irrigation, ponding and initial coverage; agree a follow-up period.
 
@@ -50,6 +58,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare nursery stock, pit preparation, soil, staking, watering and replacement terms; utility relocation is separate.
 
+**Service-specific quotation request:** List tree species, quantities, container sizes and clearances from walls and utilities. Request separate prices for pits, growing medium, stakes and initial watering, with conditions for replacing unhealthy stock.
+
 **Acceptance inspection:** Inspect planting depth, stability, loose ties and foliage condition.
 
 ## 6. Natural turf installation
@@ -59,6 +69,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Measure area, water access, watering schedule, soil and shaded zones; photograph levels.
 
 **Quotation comparison, contract and exclusions:** Specify turf variety and source, grading, establishment period and initial watering responsibility; long-term care is separate.
+
+**Service-specific quotation request:** Send turf area, shaded zones, soil type and irrigation points. Request the turf cultivar, base preparation, delivery sequence and rooting-period watering responsibility, plus terms for replacing failed sections.
 
 **Acceptance inspection:** Check close turf joints, initial rooting, even watering and absence of flooding.
 
@@ -70,6 +82,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare roll specifications, sub-base, seam adhesive, edge fixing and any infill; approve a physical sample.
 
+**Service-specific quotation request:** Provide dimensions, drain and edge locations and base photographs. Ask for samples specifying pile height, density, sub-base, seams and infill, with drainage preparation priced separately from rolls.
+
 **Acceptance inspection:** Inspect pile direction, seams, secured edges and water drainage.
 
 ## 8. Plant and tree installation
@@ -79,6 +93,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Provide plant schedule, counts, bed dimensions, pipe positions and any damaged root photographs.
 
 **Quotation comparison, contract and exclusions:** Compare plant sizes, soil mix, mulch, supports and replacement terms; irrigation alterations are not automatic.
+
+**Service-specific quotation request:** Supply species and quantity schedules, planter dimensions and existing soil photographs. Separate plants, soil mix, mulch, irrigation and staking, and identify who replaces unsuitable or damaged plants.
 
 **Acceptance inspection:** Inspect intact root balls, spacing and correct planting depth at the crown.
 
@@ -90,6 +106,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare pruning plan, access equipment, pedestrian protection and green-waste removal; live-line work needs specialist coordination.
 
+**Service-specific quotation request:** Photograph the canopy and target branches, noting tree height and nearby power lines. Request a pruning method, access equipment, exclusion zone and green-waste haulage; separate work needing utility coordination.
+
 **Acceptance inspection:** Check clean cuts, no hanging limbs and no damage to fences or nearby planting.
 
 ## 10. Lawn maintenance
@@ -99,6 +117,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Provide lawn area, photographs of weak zones, sprinkler type and any watering logs.
 
 **Quotation comparison, contract and exclusions:** Compare visit frequency, cutting height, clipping disposal and sprinkler checks; reseeding and pest treatment need explicit scope.
+
+**Service-specific quotation request:** Provide lawn area, irrigation logs and photographs of weak patches. Request visit-based prices specifying cutting height, frequency, clipping disposal and sprinkler checks; price turf replacement separately.
 
 **Acceptance inspection:** Review visit records, cut consistency and photographed progress of weak patches.
 
@@ -110,6 +130,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare diagnosis, any required tests, product, dosage and follow-up; recovery of severely damaged plants cannot be assumed.
 
+**Service-specific quotation request:** Send symptom photos, plant species, watering records and any test results. Require a written diagnosis before product and dose selection, a priced follow-up visit and realistic improvement criteria.
+
 **Acceptance inspection:** Request application records, safe watering instructions and later symptom review rather than instant colour change.
 
 ## 12. Garden pest control
@@ -119,6 +141,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Provide close-up pest images, affected plant counts, water sources and presence of children or pets.
 
 **Quotation comparison, contract and exclusions:** Compare integrated pest management, authorised product, re-entry precautions and follow-up visits; indoor pest control is separate.
+
+**Service-specific quotation request:** Provide pest photographs, affected plant counts and details of children, pets and water features. Request pest identification, an integrated treatment plan, authorised product, re-entry precautions and follow-up cost.
 
 **Acceptance inspection:** Check treatment records, re-entry instructions and a scheduled reassessment.
 
@@ -130,6 +154,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Quotation comparison, contract and exclusions:** Compare collection, sorting, loading, lawful disposal and transport; pressure washing is not necessarily included.
 
+**Service-specific quotation request:** Photograph paths, beds and waste piles and describe vehicle access. Price leaf collection separately from bulky branch haulage and pressure washing, and require lawful disposal and plant protection.
+
 **Acceptance inspection:** Check clear paths and drains and no cuttings left in beds or damage to plants.
 
 ## 14. Garden maintenance contracts
@@ -139,6 +165,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Photos, dimensions and specifications:** Provide a garden plan, tree counts, lawn areas, irrigation assets and baseline photographs.
 
 **Quotation comparison, contract and exclusions:** Compare visit frequency, labour hours, consumables, spare parts and replacements; define response and missed-visit remedies.
+
+**Service-specific quotation request:** Provide a garden plan, tree inventory, planted areas and irrigation assets. Request a seasonal visit schedule covering mowing, pruning, feeding, inspections and reporting, with consumable prices and missed-visit remedies.
 
 **Acceptance inspection:** Match visit logs to schedules, before/after images, plant health notes and outstanding repairs.
 

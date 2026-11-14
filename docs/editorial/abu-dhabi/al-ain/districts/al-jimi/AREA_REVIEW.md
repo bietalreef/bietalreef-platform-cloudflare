@@ -1148,3 +1148,8 @@
 
 - أُعيدت صياغة الخدمتين 3 و4 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، وتحديث [مراجعة التخصص](./interior-design/interior-materials/review.md).
 - **الحالة `in_progress`**؛ أول خدمة غير مدققة تفصيليًا في هذا التسلسل: **5. تصميم الحمامات**، ثم 6. توزيع الأثاث إلى 21. إعداد جدول التشطيبات، ثم تدقيق بقية التخصصات الخمسين والخدمات الـ434 باللغتين. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة الخدمات الداخلية 5–11 — 2026-11-14
+
+- الحالة `in_progress`: تدقيق إضافي متوازٍ للخدمات 5–11 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)؛ [سجل التخصص](./interior-design/interior-materials/review.md).
+- أول خدمة متبقية: **12. تصميم العيادات**، ثم الخدمات 13–21، وبعدها مراجعة جميع تخصصات القطاعات الثمانية والـ434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي.

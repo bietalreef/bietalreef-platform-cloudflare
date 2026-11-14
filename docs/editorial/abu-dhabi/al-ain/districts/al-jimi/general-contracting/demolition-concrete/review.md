@@ -17,3 +17,5 @@ Status: **revised; specialist-level bilingual editorial check completed**. Area 
 Next: `general-contracting/landscaping` (Arabic, English, review), then irrigation networks and shade/outdoor works. Area-wide final verification remains outstanding.
 
 2026-11-14 safety check: added matching Arabic/English instructions to stop ordinary demolition where asbestos or other hazardous materials are suspected and obtain specialist assessment and compliant removal. This is precautionary guidance, not a claim that such materials are present at any Al Jimi site.
+
+2026-11-14: Added seven distinct service-specific RFQ sections in each language, covering quantities, access, separately priced exclusions, permits, inspection hold points and waste handling. Both language files were read back from the target branch. Area remains `in_progress`; no claim of complete semantic audit.

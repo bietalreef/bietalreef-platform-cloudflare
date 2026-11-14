@@ -12,7 +12,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Ask each designer for the number of seating alternatives and a drawing showing the entrance, serving route and spacing between seats. Compare sightlines from the doorway; agree on drawing scale, revision allowance and responsibility for verifying site dimensions before sign-off.
 
-**Acceptance and quotation enquiry:** Check entrance circulation, seating privacy, hospitality positions and switch locations on the approved plan. For a comparable design quotation, provide guest capacity, hospitality locations, privacy requirements and the requested majlis plan; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+**Acceptance and quotation enquiry:** Cross-check the majlis circulation widths against the supplied measurements, door swings against seating, and the hospitality-serving route against guest movement. Review entrance sightlines and switch locations with the client before sign-off; a drawing alone is not site-execution approval. For a comparable design quotation, provide guest capacity, hospitality locations, privacy requirements and the requested majlis plan; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 2. Living room design
 

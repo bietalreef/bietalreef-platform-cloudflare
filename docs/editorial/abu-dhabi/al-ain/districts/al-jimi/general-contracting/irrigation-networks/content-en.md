@@ -12,6 +12,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Check coverage of remote zones, valve access and independent isolation.
 
+**Service-specific quotation request:** Provide each zone's area, planting types, water-source position and any measured pressure and flow. Request separate prices for zone drawings, hydraulic calculations and equipment schedules versus excavation and installation; agree on revision rounds and editable drawing handover.
+
 ## 2. Drip irrigation installation
 
 **Purpose and scope:** Map plant spacing and root depth so emitters wet roots without soaking trunks or leaving bed edges dry.
@@ -21,6 +23,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Quotation, contract and exclusions:** Compare emitter flow rates, filtration, line fixing and flushing method; main supply repairs are separate.
 
 **Handover:** Run the zone and check end emitters, leaks and wetting near each plant.
+
+**Service-specific quotation request:** Send planting-row lengths, tree counts, spacing and supply photos. Ask for emitter quantity and flow, filter and regulator positions, flushing, uniformity testing and whether disturbed soil will be reinstated.
 
 ## 3. Sprinkler installation
 
@@ -32,6 +36,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Observe a full watering cycle for dry strips, overspray and ponding.
 
+**Service-specific quotation request:** Provide lawn area, obstacles, paths and photographs of spray boundaries. Ask for head counts, nozzle specifications, overlap and actual coverage tests, plus responsibility for damaged paving or planting.
+
 ## 4. Irrigation tanks and pumps
 
 **Purpose and scope:** Estimate storage demand, flow and elevation before selecting a pump or tank.
@@ -41,6 +47,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Quotation, contract and exclusions:** Compare pump curve, tank, valves, dry-run protection and mounting base; electrical and civil works require explicit scope.
 
 **Handover:** Have a qualified technician test start-stop control, dry-run protection, leakage and unusual vibration. Do not energise the pump before appropriate earthing and electrical protection have been checked, and isolate power safely for inspection; record operating results and pump details.
+
+**Service-specific quotation request:** Share tank-space dimensions, electrical supply location, furthest sprinkler elevation and required flow. Ask for tank capacity, pump curve, protection, connections, foundation and commissioning as separate priced items, with electrical/civil exclusions and warranty recorded.
 
 ## 5. Irrigation network maintenance
 
@@ -52,6 +60,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces.
 
+**Service-specific quotation request:** Photograph the fault, controller and zone identifiers; note when low pressure or blockage occurs. Separate diagnosis from parts, excavation and reinstatement, and require written approval before unforeseen repairs.
+
 ## 6. Automatic irrigation programming
 
 **Purpose and scope:** Set schedules for plant types, seasons and water limits, avoiding incompatible simultaneous zones.
@@ -62,6 +72,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature.
 
+**Service-specific quotation request:** Share controller model, display photographs, zone/plant list and current watering times. Request a written seasonal schedule, backed-up settings, recovery instructions and practical user training; specify whether sensor or wiring replacement is excluded.
+
 ## 7. Irrigation network leak detection
 
 **Purpose and scope:** Distinguish normal watering from leakage by checking the meter with zones off and testing zones individually.
@@ -71,6 +83,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Quotation, contract and exclusions:** Compare tracing method, accuracy limits, exploratory excavation and reporting; detection does not automatically include repair or reinstatement.
 
 **Handover:** Obtain documented suspected locations and test findings; commission and verify repairs separately if needed.
+
+**Service-specific quotation request:** Provide meter readings while irrigation is off, timing of damp patches and any pipe plan. Request the detection method, accuracy limits, trial excavation charges and a written suspected-location report; price repair and reinstatement separately.
 
 ## Request a quotation
 

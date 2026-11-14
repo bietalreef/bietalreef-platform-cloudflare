@@ -1170,3 +1170,8 @@
 - **الحالة `in_progress`**: أضيفت ست فقرات مخصصة لطلبات عروض الأسعار بالعربية وست بالإنجليزية لخدمات إدارة المشروع، مراجعة جودة الأعمال، استلام مراحل المشروع، إعداد تقارير تقدم الأعمال، حصر الكميات، ومراجعة عروض المقاولين. تحقق حفظ الملفين بإعادة قراءتهما من الفرع.
 - الملفات: [العربية](./interior-design/engineering-supervision/content-ar.md) · [English](./interior-design/engineering-supervision/content-en.md) · [المراجعة](./interior-design/engineering-supervision/review.md).
 - **النواقص التالية بدقة:** التدقيق الدلالي والفني المستقل لجميع خدمات الإشراف السبع، ثم مراجعة الخدمات 1–21 في `interior-design/interior-materials`، ثم جرد وتدقيق تخصصات `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، وإعادة تدقيق المقاولات العامة والتصميم المعماري والإنشائي، والتحقق من 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+## تدقيق فني إضافي للإشراف والاستشارات الهندسية — 2026-11-14
+
+- أضيفت نقاط تحقق فنية مستقلة لجميع الخدمات السبع بالعربية والإنجليزية في [المحتوى العربي](./interior-design/engineering-supervision/content-ar.md) و[المحتوى الإنجليزي](./interior-design/engineering-supervision/content-en.md)، ووثقت في [مراجعة التخصص](./interior-design/engineering-supervision/review.md).
+- **الحالة `in_progress`:** لا يزال يلزم تدقيق كامل للفقرات وتكافؤ اللغتين، ثم `interior-design/interior-materials` للخدمات 1–21، ثم بقية تخصصات القطاعات الثمانية (بما فيها تدقيق المقاولات والتصميم المعماري والإنشائي)، ومراجعة جرد 434 خدمة في كل لغة، والتحقق من التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي.

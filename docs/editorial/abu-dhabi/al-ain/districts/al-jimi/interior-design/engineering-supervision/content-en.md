@@ -16,6 +16,9 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 
 **Independent technical check:** Before supervision begins, request a responsibility matrix tying every inspection hold point to a specification clause and approved drawing revision. Identify who can issue site instructions and request reinspection. Photographs of disputed concealed defects are evidence, not permission to cover them; record the decision and accountable party.
+
+**Quotation-request detail:** Attach the schedule of works due to be poured or concealed, drawing revision register, contractor programme and previous test results. Ask for a priced schedule of routine and urgent visits, inspection notice and response times, nonconformance report format, reinspection fees and responsibility for test costs; do not assume supervision includes design certification or construction responsibility.
+
 ## 2. Project management
 
 **When this matters:** Multiple contractors and long-lead materials require controlled decisions, procurement milestones and change records rather than a decorative timeline.

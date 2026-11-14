@@ -1120,3 +1120,9 @@
 - أضيفت فقرات طلب عرض سعر خاصة بكل واحدة من الخدمات الأربع عشرة في `interior-design/architectural-plans/` بالعربية والإنجليزية، مع حفظ ترتيب الأسماء الأصلي.
 - الملفات: [العربية](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [المراجعة](./interior-design/architectural-plans/review.md).
 - **الحالة `in_progress`:** ما يزال تدقيق التكافؤ الدلالي والتفرد والسلامة للخدمات الـ14 مطلوبًا، ثم يبدأ التخصص التالي `interior-design/structural-design` بخدماته السبع، وبعده `engineering-supervision` و`interior-materials` وبقية تخصصات المنطقة؛ لا تُعتمد الخدمات الـ434 قبل تدقيقها جميعًا.
+
+## متابعة تحرير التصميم الإنشائي — 2026-11-14
+
+- **الحالة: `in_progress`**. أضيفت سبعة موجزات عرض سعر مخصصة إلى [التصميم الإنشائي بالعربية](./interior-design/structural-design/content-ar.md) وسبعة إلى [الإنجليزية](./interior-design/structural-design/content-en.md)، وأُعيدت قراءة الملفين من GitHub للتحقق من حفظ جميع الإضافات.
+- [مراجعة التخصص](./interior-design/structural-design/review.md) توثق نطاق التعديل؛ لا تُعد هذه الدفعة مراجعة شاملة لكل الخدمات.
+- **النواقص التالية:** استكمال التدقيق الدلالي والتفرد لبقية تخصصات `interior-design`، بدءًا من `engineering-supervision` ثم `interior-materials`؛ ثم جرد وتدقيق `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومطابقة 434 اسم خدمة عربيًا مع المصدر، و434 قسمًا إنجليزيًا، والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اكتمال الجيمي.

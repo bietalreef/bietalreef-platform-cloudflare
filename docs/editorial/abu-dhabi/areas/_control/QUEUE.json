@@ -436,19 +436,19 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/building-materials/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Building materials 28/49 AR+EN verified from GitHub; timber and boards 22–28 completed; next marble and granite 29. Area 238/434, in_progress; independent human review pending.",
+      "review_note": "Verified building materials 35/49 bilingual services, marble and granite 29–35; area 245/434; next kitchen and washbasin surfaces 36.",
       "editorial_progress": {
         "sector": "building-materials",
-        "specialty": "الرخام والجرانيت",
+        "specialty": "أسطح المطابخ والمغاسل",
         "last_completed_sector": "building-materials",
-        "last_completed_service_number": 28,
-        "last_completed_service_name": "قص وتجهيز الألواح",
-        "next_service_number": 29,
+        "last_completed_service_number": 35,
+        "last_completed_service_name": "صيانة ومعالجة الرخام",
+        "next_service_number": 36,
         "sector_total": 49,
-        "sector_completed": 28,
+        "sector_completed": 35,
         "area_total": 434,
-        "area_completed": 238,
-        "remaining_area_services": 196,
+        "area_completed": 245,
+        "remaining_area_services": 189,
         "editorial_draft_completed": false
       }
     },

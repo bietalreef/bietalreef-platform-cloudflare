@@ -8,7 +8,7 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Photos, dimensions and records:** Provide a colour-marked drawing, photographs of junctions, ceilings and entrances, utility locations, and plant and debris routes.
 
-**Scope, exclusions and equipment:** Agree dismantling sequence, temporary support, service isolation and dust/vibration controls; debris haulage and adjacent-surface repairs are not automatically included.
+**Scope, exclusions and equipment:** Agree dismantling sequence, temporary support, service isolation and dust/vibration controls; debris haulage and adjacent-surface repairs are not automatically included. If asbestos-containing materials or other hazardous contaminants are suspected, stop disturbing them and arrange assessment and removal by suitably qualified specialists under applicable requirements; do not treat them as ordinary demolition waste.
 
 **Comparing quotations and contract terms:** Compare safety plans, permissions, protection and waste handling; assign damage liability and hold points before removing undocumented components.
 

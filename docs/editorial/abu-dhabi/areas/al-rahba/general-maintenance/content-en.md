@@ -151,6 +151,64 @@ Identify cladding material, weight, panel size, wall height and openings. Requir
 
 Determine whether the issue is a cracked tile, debonded adhesive, swollen timber or subsidence; photograph and measure the affected zone. Ask for cause diagnosis and material matching before local replacement. Check finished levels, joints and repair stability during trial use.
 
+## Electrical Works and Lighting
+
+### 36. تأسيس كهرباء المباني — Building electrical first fix
+
+Before first fix, supply room layouts and proposed positions for lights, outlets and high-load appliances. The quotation should distinguish conduit routes, circuits, protective devices, earthing, wall chasing and reinstatement, with specialist design or approvals identified separately where applicable. At handover request as-built circuit information and insulation and protective-conductor continuity test results.
+
+### 37. تمديد الأسلاك والكابلات — Wire and cable installation
+
+Cable length alone is insufficient: specify the load, route length, installation method, ambient conditions, insulation type and termination points. Compare conductor sizes, identification, mechanical protection and how concealed joints are avoided or documented. Inspect installation photographs before routes are closed, followed by continuity and insulation testing.
+
+### 38. تركيب لوحات التوزيع — Distribution board installation
+
+Inventory existing circuits, foreseeable loads, available board space and surrounding conditions. The proposal should provide a circuit schedule, breaker ratings, protective devices, phase allocation where relevant, labels and maintenance access. Qualified personnel should check terminations against manufacturer requirements and test protection before acceptance.
+
+### 39. تركيب المقابس والمفاتيح — Socket and switch installation
+
+Mark each outlet's height and location against furniture and equipment, noting the wall construction and photographing damaged fittings. Confirm whether the price covers back boxes, wiring, faceplates and finish repairs, not merely the visible accessory. Test secure mounting, polarity, earthing and operation using suitable instruments.
+
+### 40. تمديد كهرباء الملاحق — Electrical supply for extensions
+
+Provide the extension layout, existing board location, cable route and expected loads such as air conditioning or kitchen equipment. Do not assume spare supply capacity; request an assessment of capacity, feeder routing, protection and associated civil work. Compare the scope of connection, tests, documentation and project-specific approvals that may need checking.
+
+### 41. إعادة تأهيل الشبكات — Electrical network refurbishment
+
+Recurring trips or hot connections call for documented symptoms and fault diagnosis, not wholesale rewiring by assumption. Have a qualified specialist assess circuits, boards, insulation and earthing before identifying sections to replace. Request updated circuit records, post-repair tests and a clear list of unresolved defects.
+
+### 42. فحص الأحمال الكهربائية — Electrical load assessment
+
+List appliances, rated power, usage patterns and previous faults; supply photographs of closed panels without opening them yourself. A qualified specialist should assess coincident demand, circuit distribution, measured values and overload risks. Require a report distinguishing observations from estimates and recommendations; a load survey is not automatic permission to increase supply.
+
+### 43. تركيب الإنارة الداخلية — Indoor lighting installation
+
+Define room use, ceiling height, furniture placement and the intended illumination before choosing fittings. Quotations should detail fixture quantities, wattage, colour temperature, controls, ceiling openings and reinstatement. Check light distribution, flicker and maintenance access after installation.
+
+### 44. تركيب الإنارة الخارجية — Outdoor lighting installation
+
+Photograph entrances, façades and paths and identify exposure to rain, dust and cable routes. Compare fixture suitability for outdoor conditions, sealed connections, secure mounting and time or photocell controls. Inspect the lighting at night and check for glare and water ingress risks.
+
+### 45. تركيب الثريات — Chandelier installation
+
+Before selecting a chandelier, verify its mass, ceiling height, structural support and supply point. The quotation should detail a load-appropriate fixing method, lifting, protection and assembly rather than relying on plasterboard alone. Inspect stability, alignment and safe access for lamp replacement.
+
+### 46. تنفيذ إنارة مخفية — Concealed lighting installation
+
+Supply the ceiling section, cove dimensions, strip lengths, driver positions and maintenance access points. Check strip power, heat dissipation, dimming compatibility and feed distribution to avoid uneven brightness. Run the system for a sustained test and inspect for exposed light points or abnormal heat.
+
+### 47. تركيب إنارة الحدائق — Garden lighting installation
+
+Identify trees, paths, irrigation lines and likely excavation areas before routing garden lighting cables. Require details of protected cable routes, junction locations and moisture-suitable fittings, avoiding roots and irrigation equipment. Check the result at night for stability and interference with sprinklers.
+
+### 48. تركيب حساسات الحركة — Motion sensor installation
+
+Describe the movement zone, mounting height and desired on-time. Compare detection angle, sensitivity, load compatibility and placement to limit nuisance switching. Test real approach directions, delay settings and daylight response as intended.
+
+### 49. صيانة وحدات الإنارة — Lighting fixture maintenance
+
+For flickering or failed lighting, record fixture models and when symptoms occur before replacing components. Qualified personnel should safely isolate and inspect supply, drivers, switches, connections and operating temperature. Record replaced parts and test repeated switching before handover.
+
 ## Request a quotation through Biet Al Reef customer service
 
 A request can be submitted even where no company is listed. Include your name, contact number, Al Rahba location, requested service, site description, photographs, available dimensions, preferred inspection window and access details. Customer service can receive and route the enquiry without guaranteeing provider availability, price or appointment.

@@ -383,6 +383,68 @@ Record failed cameras, image-loss times, alerts and drive health before service.
 
 Identify recorder model, supported official app, user permission level and available internet connection. Require a secure remote-access method rather than indiscriminate port forwarding, using supported authentication and account protection. Test viewing away from the premises and notifications, then remove temporary technician access.
 
+
+## الدهانات — Painting
+
+### 92. دهان الفلل — Villa painting
+
+List rooms, ceilings and façades to be painted and whether the villa will remain occupied. Measure paintable areas, photograph cracks, damp patches and existing coatings, and compare quotations for surface preparation, filler, primer, paint specification, coats and furniture protection. Inspect colour consistency, edges and coverage in daylight after the specified drying period.
+
+### 93. دهان الشقق — Apartment painting
+
+Provide a floor plan, wall photographs and the position of fixed furniture. Distinguish a colour refresh from repairs to peeling paint or stains. Agree ventilation, floor and switch protection, filling of fixing holes and drying time before moving furniture. Inspect each room for roller marks, ceiling junctions and missed areas after curing.
+
+### 94. دهان المباني الخارجية — Exterior building painting
+
+Measure façade areas and heights and record cracks, hollow render and soiling. Identify sections needing scaffolding or access equipment. Request a coating system suited to the substrate, including primer, joint repairs and application conditions, with access costs itemised. Inspect adhesion, coverage and colour from appropriate viewing distances and record exclusions.
+
+### 95. دهان الأبواب والأخشاب — Door and timber painting
+
+Count leaves and frames and identify timber type, previous finish and desired sheen. Approve a colour and finish sample, and specify whether hardware will be removed and how scratches and joints will be prepared. Compare compatible coating systems for the intended use. At handover check door operation and that painted edges do not stick after drying.
+
+### 96. تنفيذ الدهانات الديكورية — Decorative paint finishes
+
+Choose a representative test area and agree texture, colour and lighting before selecting stone, concrete or other decorative effects. A reference photograph is insufficient: require an on-wall sample, the application layers and a realistic method for future touch-ups. Compare completed work with the approved sample and inspect corners and transitions, allowing for the natural variation of hand-applied finishes.
+
+### 97. معالجة وتقشير الدهانات القديمة — Stripping and treating old paint
+
+Photograph blistering and peeling and investigate moisture, salts or poor adhesion before recoating. Request a limited stripping trial, a plan for dust and waste containment, and the depth of removal and replacement materials. Protect occupants and neighbouring finishes. Check that the substrate is sound and sufficiently dry before filling and priming.
+
+### 98. صيانة وإعادة الدهان — Paint repairs and repainting
+
+Mark repair areas with dimensions and photographs and provide the original colour reference if available. Establish whether a local patch will blend or a complete wall must be repainted to avoid colour and sheen differences. Treat recurring cracks separately. Compare preparation and protection allowances, then inspect repairs in normal lighting after drying.
+
+
+## العزل المائي والحراري — Waterproofing and thermal insulation
+
+### 99. عزل الأسطح — Roof waterproofing
+
+Provide roof area, drainage outlets, falls, penetrations and crack locations, including photographs of ponding where available. Specify the membrane or coating system, primers, upstands, pipe details and protection against weather or foot traffic. Compare junction details and warranty exclusions rather than unit price alone. Record an appropriate watertightness test before covering the system.
+
+### 100. عزل الحمامات — Bathroom waterproofing
+
+Measure floor area, wall upstand heights, drain positions, thresholds and pipe penetrations. Specify corner reinforcement, compatible waterproofing layers and tile adhesives, including curing time before a controlled flood test. Record test results before tiling and check that outlets remain functional and defects are not concealed.
+
+### 101. عزل الخزانات — Tank waterproofing
+
+State whether the tank holds drinking water or another liquid, along with construction material, capacity, defects and penetration details. Select a system compatible with the intended contents and verify evidence of drinking-water contact suitability where relevant; no generic coating should be assumed safe. Include surface preparation, confined-space precautions, cleaning and required tests before returning the tank to service.
+
+### 102. العزل الحراري للمباني — Building thermal insulation
+
+Identify roofs, walls or cavities to be insulated, their areas, available thickness and likely thermal bridges. Compare products by thermal conductivity, thickness, moisture performance, fire characteristics and fixing details rather than brand alone. Request a layer build-up and junction drawings around windows and services. Inspect continuity and gaps before concealment.
+
+### 103. عزل الجدران الخارجية — External wall insulation
+
+Provide façade photographs and wall construction details where available. Clarify whether the purpose is thermal performance or rain penetration resistance, as these require different solutions. Specify board or membrane fixing, opening details, edge protection, crack repairs and compatibility with the existing cladding. Inspect fixings and drainage details before they are covered.
+
+### 104. معالجة تسرب مياه الأمطار — Rainwater leak repairs
+
+Document when leaks occur, wind direction, damp locations and photographs of roofs, façades, windows and drains. Diagnose the entry route rather than only patching interior stains; controlled local testing and inspection of joints or falls may be needed. Separate source repair from making good finishes and record the scope and limitations of post-repair testing.
+
+### 105. صيانة أعمال العزل — Waterproofing maintenance
+
+Gather the original system specification, installation date, prior repair history and photographs of blisters, punctures and failed seams. Determine whether compatible patch repairs are feasible or a larger section needs replacement, and specify warranty coverage for the repaired area. Obtain pre-concealment photographs and appropriate test records without assuming all moisture sources have been eliminated.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Provide your name, contact number, Al Rahba location, requested service, equipment photographs, available measurements and preferred inspection window. Biet Al Reef receives enquiries without requiring a listed company or guaranteeing a price or appointment.

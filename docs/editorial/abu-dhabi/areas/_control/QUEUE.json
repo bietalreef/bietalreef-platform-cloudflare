@@ -417,7 +417,8 @@
       "status": "in_progress",
       "completed_sectors": [
         "general-contracting",
-        "interior-design"
+        "interior-design",
+        "general-maintenance"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
@@ -432,19 +433,19 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/general-maintenance/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "Verified GitHub AR/EN maintenance 1–91 across eight specialties; 56 contracting + 49 engineering + 91 maintenance = 196/434 in each language. Next painting service 92. Human review pending.",
+      "review_note": "2026-11-14: GitHub re-fetch verified 105/105 Arabic and 105/105 English numbered maintenance services across 10 specialties, with 92–105 newly authored. Area 210/434, three sectors complete; next building-materials. Independent human review required.",
       "editorial_progress": {
-        "sector": "general-maintenance",
-        "specialty": "الأنظمة الذكية والمراقبة",
-        "last_completed_sector": "interior-design",
-        "last_completed_service_number": 91,
-        "last_completed_service_name": "ربط المراقبة بالهاتف",
-        "next_service_number": 92,
-        "sector_total": 105,
-        "sector_completed": 91,
+        "sector": "building-materials",
+        "specialty": "مواد البناء والتشطيب",
+        "last_completed_sector": "general-maintenance",
+        "last_completed_service_number": 105,
+        "last_completed_service_name": "صيانة أعمال العزل",
+        "next_service_number": 1,
+        "sector_total": 49,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 196,
-        "remaining_area_services": 238,
+        "area_completed": 210,
+        "remaining_area_services": 224,
         "editorial_draft_completed": false
       }
     },

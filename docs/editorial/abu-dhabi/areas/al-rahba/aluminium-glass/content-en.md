@@ -59,3 +59,61 @@ Diagnose whether the problem is a hinge, lock, swollen leaf or moving frame; tri
 ### 14. Timber painting and refurbishment
 
 Identify timber type, old coating, peeling and moisture before refinishing; not every product suits every substrate. Agree on preparation, sanding, filling, coats, colour sample and furniture protection. Inspect even colour and texture and ensure doors do not stick after curing.
+
+## Wooden furniture and decorative joinery
+
+### 15. Custom furniture fabrication
+
+Start with a dimensioned drawing of each item's purpose and final position, checking lift and doorway access for delivery. Specify carcass materials, panels, edging, coatings and fixings. Compare finish samples and joint strength, then inspect stability and exposed edges at handover.
+
+### 16. TV console fabrication
+
+Confirm screen width, socket locations, cable routes and equipment ventilation before selecting a layout. Drawings should show height, depth, load assumptions and wall fixings where suspended. Check shelf stability, socket access and drawer operation after installation.
+
+### 17. Storage unit fabrication
+
+List what will be stored and its approximate weight before deciding clear depths, shelf spacing and door swing. Ask for shelf layouts, hinge and runner schedules, and anchoring details for tall units. Check suitable load support and aligned fronts at acceptance.
+
+### 18. Timber wall cladding
+
+Survey wall dimensions, outlets, maintenance access and any moisture concerns before agreeing panel divisions. Specify subframe, joints, movement allowance and removable access sections. Inspect straight lines and ensure ventilation and service access remain unobstructed.
+
+### 19. CNC decorative woodwork
+
+Provide an approved vector drawing or pattern with board material, thickness, overall dimensions and minimum cut detail. Request a physical sample to assess edges, openings and finish; agree on fixing for delicate elements. Inspect pattern accuracy and chipped edges before acceptance.
+
+### 20. Counter fabrication
+
+Define whether the counter serves reception, sales or service, including staff numbers and equipment, power and data positions. Drawings should cover working heights, knee clearance, storage and surface durability. Check level surfaces, structural stability and cleanable joints.
+
+### 21. Retail and office furniture fabrication
+
+Use a circulation plan and dimensions for desks, shelving and equipment, with a quantity and finish schedule for each item. Compare serviceable hardware, protected edges and surface durability rather than only lump-sum prices. Verify every unit against the agreed layout.
+
+### 22. Interior space design
+
+Collect as-built plans, photographs, user requirements and occupancy before proposing furniture arrangements. Coordinate door swings, lighting, cooling and electrical outlets; define deliverables such as drawings, samples and schedules. Do not release fabrication before final dimensions are approved.
+
+### 23. Joinery fabrication and installation
+
+Separate fabrication, transport, fitting and making-good in the quotation, with shop drawings identifying fixings and tolerances. Confirm site readiness and dry substrates before installation. Inspect joints, alignment, moving components and finish protection.
+
+### 24. Majlis fit-out
+
+Confirm seating capacity, entrances, sofa and table dimensions, lighting and power points. If wall cladding, cabinets or platforms are included, require individual drawings and fabric and timber samples. Test the seating layout and cleaning access before handover.
+
+### 25. Bedroom fit-out
+
+Measure finished room dimensions and locate the bed, wardrobe openings, circulation paths and switches. Clarify whether headboards, bedside units or integrated lighting are included. Check furniture stability and drawers opening without collisions.
+
+### 26. Office and retail fit-out
+
+Define customer, work and storage zones and circulation routes; distinguish joinery from electrical, air-conditioning and signage works. Request a bill of quantities, installation drawings and handover sequence. Check units in their actual positions against the approved layout.
+
+### 27. Decorative timber installations
+
+Clarify whether elements are decorative, conceal services or carry loads, as fixing methods differ. Approve colour, texture and joint samples before fabrication and detail corners and exposed edges. Inspect consistent finishes and maintenance access at handover.
+
+### 28. Interior finishing and handover
+
+Prepare a room-by-room snagging list covering coatings, cladding, doors, cabinets, joints and installation debris. Photograph defects, record locations and assign rectification responsibility. Retest hinges, drawers and integrated lighting after corrections; final cleaning does not replace technical defect repair.

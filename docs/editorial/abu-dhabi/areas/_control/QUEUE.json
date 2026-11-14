@@ -428,18 +428,18 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/review.md"
       ],
       "last_attempt": "2026-11-14",
-      "review_note": "2026-11-14: 77/434 bilingual services: general-contracting 56/56, interior-design 21/49. Structural design 15–21 uploaded and re-fetched, numbering 1–21 verified in both languages. Next supervision service 22. Human technical/regulatory/language review pending; no live changes.",
+      "review_note": "2026-11-14: 84/434 bilingual services; contracting 56/56 and engineering 28/49. Engineering supervision 22–28 saved and re-fetched, numbering 1–28 verified in both languages. Next interior design service 29. Human technical/regulatory/language review pending; no live changes.",
       "editorial_progress": {
         "sector": "interior-design",
-        "specialty": "الإشراف والاستشارات الهندسية",
-        "last_completed_service_number": 21,
-        "last_completed_service_name": "إعداد التقارير الإنشائية",
-        "next_service_number": 22,
+        "specialty": "التصميم الداخلي والمواد",
+        "last_completed_service_number": 28,
+        "last_completed_service_name": "مراجعة عروض المقاولين",
+        "next_service_number": 29,
         "sector_total": 49,
-        "sector_completed": 21,
+        "sector_completed": 28,
         "area_total": 434,
-        "area_completed": 77,
-        "remaining_area_services": 357,
+        "area_completed": 84,
+        "remaining_area_services": 350,
         "editorial_draft_completed": false
       }
     },

@@ -10,7 +10,7 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 **Scope and exclusions:** Specify site visits, inspection hold points, material submittal review, nonconformance notices and close-out tracking. Supervision is not construction, a warranty or redesign; statutory approvals require a separate agreed scope.
 
-**Compare proposals and contract terms:** Compare actual visit frequency, response time, supervisor qualifications, report templates and authority to issue site instructions.
+**Compare proposals and contract terms:** Compare actual visit frequency, response time, supervisor qualifications, report templates authority to issue site instructions, escalation when the contractor disputes a finding, and the supervisor’s power to stop concealment of defective work. Ask the consultant to disclose any commercial relationship with the contractor so the independence of the review can be assessed.
 
 **Acceptance checks:** Accept dated visit logs, pre-cover photographs, a defect register with owners and close-out evidence, plus relevant test records.
 

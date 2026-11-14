@@ -95,6 +95,38 @@ Specify whether each panel is clear, tinted, insulated, laminated or toughened, 
 
 A project order may combine profiles, doors, glazing and partitions across multiple schedules. Submit one coordinated list linking every item to its drawing reference, location, quantity, specification and required delivery date; flag measurements still awaiting site verification. Ask for phased fabrication and delivery, sample and shop-drawing approvals, and clear coordination between supplier and installer. Compare itemised inclusions, waste, storage, lifting and variation terms rather than headline totals. Reconcile deliveries with approved drawings and close out defects and replacements at each milestone.
 
+## Marble and stone factories
+
+> This specialty is currently not selectable in the taxonomy source. Editorial coverage does not activate it or imply an approved factory.
+
+### 22. Marble and stone cutting
+
+Prepare a cutting schedule identifying stone type, slab thickness, finished dimensions, quantities, grain direction, mitres, openings and edge finish. Distinguish confirmed workshop dimensions from measurements awaiting a site survey; cutting before checking wall alignment can cause expensive rework. Compare straight and curved cuts, holes, polishing, packing and transport as separate items. At receipt, check dimensions, grain alignment, edges and cracks, and record rejected pieces before installation.
+
+### 23. Kitchen worktop fabrication
+
+A kitchen worktop requires a template showing each run, depth, sink and hob cut-outs, tap holes, exposed edges and slab joints. Measure after cabinets are fixed to verify levels and appliance clearances. Specify the surface material, thickness, support and joint treatment; fabrication does not necessarily include the sink, plumbing or appliance fitting. Compare cutting, edging, cut-outs, lifting and installation separately. At handover, inspect level, support, cut-out edges and sealed joints around wet areas.
+
+### 24. Stone stair fabrication
+
+Provide a stair drawing with measured risers, treads, flight width, landings, nosings and the specified stone and slip-resistance requirements from the project design. Confirm finished floor levels before cutting, especially at the first and last steps. Compare treads, risers, skirtings, nosing treatment, cutting and fitting, and identify who levels the substrate. Inspect dimensional consistency, secure bedding, edge alignment and landing transitions with the responsible technical supervisor.
+
+### 25. Façade stone preparation
+
+Façade stone preparation needs a numbered panel layout, not merely a square-metre total. Record each panel's size, thickness, fixing holes, vein direction and corner details. The project designer must define the support system, loads, joints and movement allowances before fabrication; panel weight alone is not a fixing design. Compare cutting, drilling, finishing, labelling, packing and delivery separately from lifting and installation. Inspect panels against approved drawings, including edges, holes and damage, before façade installation.
+
+### 26. Decorative stone carving
+
+Submit a dimensioned drawing or digital pattern showing carving depth, repeat spacing, edge clearances, stone type and required finish. Approve a physical sample before full production because texture, tooling and polishing affect the result. Compare programming, sampling, manual or machine carving, finishing and packing, and agree how breakage or colour variation will be handled. Inspect definition, pattern consistency, fragile edges and conformity with the approved sample.
+
+### 27. Marble polishing and treatment
+
+Clarify whether the issue is dullness, scratches, staining or uneven tile levels; these call for different treatments. Provide well-lit photos, area measurements and the stone type if known, and request a small discreet test patch. Agree grinding and polishing stages, protective treatments and realistic limits for stains that have penetrated the stone. Compare furniture protection, clean-up and slurry disposal as well as polishing. Inspect uniformity after drying and check for machine marks or new staining.
+
+### 28. Contractor stone order preparation
+
+For a contractor's stone order, consolidate approved shop drawings and quantities into one schedule linking each piece to a drawing number, installation location, stone type, thickness, size, finish and required date. Flag dimensions awaiting final survey, delivery priorities, packing, labelling and unloading arrangements. Compare waste allowances, samples, cutting, openings, transport, permitted substitutions and replacement terms rather than total price alone. Reconcile labels, batches and quantities with the schedule and document damage or shortages before signing delivery records.
+
 ## Quotation request
 
-Biet Alreef customer service can receive contact details, project location, access photos, work dimensions, hire period and required equipment even without a published provider. No price or availability is guaranteed. Individual tradespeople remain separately classified.
+Biet Al Reef customer service accepts stonework enquiries even when no provider is published. Include contact details, location, site photographs, cutting drawings, dimensions, quantities, specifications and required date. No factory availability or price is guaranteed. Individual tradespeople are classified separately.

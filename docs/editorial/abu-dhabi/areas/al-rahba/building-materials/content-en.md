@@ -87,3 +87,33 @@ Distinguish a local repair from a complete insulation or waterproofing system. R
 ### 21. Delivery to project site
 
 Provide the site address, unloading point, truck access restrictions and receiving hours. Agree who supplies lifting equipment or labour and photograph damage or shortages on the delivery note.
+
+## Timber and boards
+
+### 22. MDF board supply
+
+Specify board thickness, density, sheet dimensions and intended use, including whether a specified moisture-resistant grade is needed. Request a sheet count and surface-finish details; inspect edges, swelling and damaged corners before accepting delivery.
+
+### 23. Solid timber supply
+
+Identify timber species, section sizes, lengths and whether it is for doors, furniture or outdoor work. Agree on grading and suitable moisture condition, compare offers using the same measurement unit, and check for warping, splits and problematic knots on receipt.
+
+### 24. Plywood supply
+
+State thickness, sheet size, face grade, ply construction and bonding grade suitable for the intended conditions; not all plywood tolerates moisture. Request a sample or data sheet, compare sheet counts and cutting waste, and inspect for delamination and bowing.
+
+### 25. Melamine-faced board supply
+
+Provide colour code, texture, board thickness, core type and dimensions, and identify matching edge-banding needs. Review a sample under site lighting, compare batch consistency and grain pattern, and inspect scratches and chipped corners before signing.
+
+### 26. HPL laminate supply
+
+Distinguish high-pressure laminate sheets for surfacing from ready-made composite panels; specify thickness, finish and required wear performance. Request compatible substrate and adhesive instructions, and verify colour, batch identity and undamaged surfaces before installation.
+
+### 27. Joinery hardware supply
+
+Prepare a schedule of hinges, runners, handles and locks with quantities, hole spacing, opening direction and load ratings where relevant. Compare equivalent models rather than appearance alone, check included fixings and test a sample on an actual door or drawer.
+
+### 28. Board cutting and preparation
+
+Supply a cutting list with dimensions, quantities, grain direction, edge-band thickness and cut-out positions. Agree tolerances, part labels and packaging before dispatch; reconcile the parts list using spot measurements and check cut edges for chipping.

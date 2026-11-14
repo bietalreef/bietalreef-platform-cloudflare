@@ -1113,3 +1113,10 @@
 
 - **الحالة: `in_progress`**؛ أضيفت سبع فقرات طلب عرض سعر مستقلة بالعربية وسبع بالإنجليزية، تغطي الخدمات السبع في `general-contracting/shade-outdoor-works` مع المحافظة على ترتيب الشجرة وتصنيف التخصص غير القابل للاختيار. [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [المراجعة](./general-contracting/shade-outdoor-works/review.md). أُعيدت قراءة الملفات الثلاثة وتحقق تطابقها بعد الكتابة.
 - **النواقص الدقيقة التالية:** تدقيق التكافؤ الدلالي والتفرد والسلامة لكل خدمة من خدمات `general-contracting/building-villas` (1–14)، ثم `restoration-renovation` (1–7)، و`demolition-concrete` (1–7)، و`landscaping` (1–14)، و`irrigation-networks` (1–7)، و`shade-outdoor-works` (1–7). ثم تدقيق تخصصات القطاعات السبعة الأخرى بحسب فهرس هذه المنطقة، مع مطابقة 434 خدمة في كل لغة للشجرة وفحص التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## متابعة تحريرية — 2026-11-14: التصميم المعماري والمخططات
+
+- أضيفت فقرات طلب عرض سعر خاصة بكل واحدة من الخدمات الأربع عشرة في `interior-design/architectural-plans/` بالعربية والإنجليزية، مع حفظ ترتيب الأسماء الأصلي.
+- الملفات: [العربية](./interior-design/architectural-plans/content-ar.md) · [English](./interior-design/architectural-plans/content-en.md) · [المراجعة](./interior-design/architectural-plans/review.md).
+- **الحالة `in_progress`:** ما يزال تدقيق التكافؤ الدلالي والتفرد والسلامة للخدمات الـ14 مطلوبًا، ثم يبدأ التخصص التالي `interior-design/structural-design` بخدماته السبع، وبعده `engineering-supervision` و`interior-materials` وبقية تخصصات المنطقة؛ لا تُعتمد الخدمات الـ434 قبل تدقيقها جميعًا.

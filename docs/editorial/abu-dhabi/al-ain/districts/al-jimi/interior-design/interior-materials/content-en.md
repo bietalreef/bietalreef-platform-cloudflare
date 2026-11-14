@@ -106,6 +106,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Compare delivered views with agreed camera angles and confirm materials and any differences from construction drawings. For a comparable design quotation, provide reference drawings, camera viewpoints, image resolution and revision allowance; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+**Additional execution review:** Before pricing, define rooms, camera angles and image resolution, and link every view to a specific design drawing revision. Distinguish presentation renders from editable model files and construction drawings, which are not automatically included. Compare bids by view count, revision rounds and source-file delivery. At acceptance, check doors, lighting and finishes against the plan rather than visual appeal alone.
+
 ## 8. Office design
 
 
@@ -121,6 +123,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare workstation capacity, meeting spaces, acoustic privacy and data routes; agree on a departmental needs schedule and service points.
 
 **Acceptance and quotation enquiry:** Review workstation count, access and egress routes, and power/data point locations on the plan. For a comparable design quotation, provide workstation and meeting counts, network outlets and acoustic privacy; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+**Additional execution review:** Provide headcount by team, meeting-room capacities, printer and storage locations, and data outlets. Request a plan showing meeting privacy and a visitor route from reception that avoids restricted work areas; identify the specialist responsible for reviewing safety and egress before execution. Accept the design against the seating and services schedule. Furniture procurement and network installation are not included without agreement.
 
 ## 9. Retail store design
 
@@ -138,6 +142,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Acceptance and quotation enquiry:** Check customer circulation, product display, storage and checkout zones in the layout. For a comparable design quotation, provide product categories, customer routes, shelving sizes and stockroom needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
+**Additional execution review:** Document product types, shelf dimensions, display loads, customer entry, checkout and stockroom routes. Ask for display elevations and coordinated lighting, exits and equipment, with structural-load and safety checks assigned to qualified specialists before installation. Compare proposals by display details, circulation and approval stages. Verify measured drawings; shelf supply and point-of-sale installation are separate unless contracted.
+
 ## 10. Restaurant and café design
 
 
@@ -153,6 +159,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Comparing quotes and agreeing terms:** Compare separation of food preparation, seating, waste and ventilation; identify who checks relevant authority requirements before implementation.
 
 **Acceptance and quotation enquiry:** Review service circulation, tables, kitchen interface, waiting areas and required connections before approval. For a comparable design quotation, provide seating capacity, service flow, food-preparation equipment and ventilation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+
+**Additional execution review:** Provide the operational brief: seat count, service model, food preparation, washing and storage zones, and staff and order movement. Clarify coordination boundaries with ventilation, drainage and fire-safety specialists; interior layouts are not a substitute for their technical reviews. Compare bids by circulation and services drawings and revision rounds. Check conflicts between customer circulation and food movement before approving the design.
 
 ## 11. Salon design
 

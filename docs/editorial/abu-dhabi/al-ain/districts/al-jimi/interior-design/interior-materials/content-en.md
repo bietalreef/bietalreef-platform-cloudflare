@@ -164,6 +164,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 12. Clinic design
 
+
+**Additional verification point:** Record examination and waiting rooms, patient and staff routes, and equipment needing power, water or ventilation. Interior drawings do not constitute healthcare approval; licensing and accessibility requirements need specialist and authority review.
+
+
 **When it is useful:** When planning patient reception, examination privacy and support spaces. Record the licensed activity, clinical equipment, hygiene requirements and patient circulation for appropriate review.
 
 **Photographs, dimensions and specifications:** state licensed activity, equipment, hygiene needs and circulation.
@@ -175,6 +179,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Check examination-room privacy, patient/staff routes and equipment positions against applicable authority requirements. For a comparable design quotation, provide clinic type, patient routes, examination rooms and relevant approval requirements; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 13. Exhibition design
+
+
+**Additional verification point:** Specify exhibit dimensions, fixing methods, display lighting, visitor routes and gathering points. Separate stand layout from load-bearing calculations and suspended loads; check venue rules before fabrication.
+
 
 **When it is useful:** When displaying exhibits while maintaining safe visitor circulation. Record exhibit sizes, weights, fixing needs, lighting and access routes.
 
@@ -188,6 +196,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 14. Reception area design
 
+
+**Additional verification point:** Photograph the entrance and document peak visitor volumes, reception, waiting and privacy needs. Request a plan showing entry and exit circulation and wheelchair access without assuming regulatory approval.
+
+
 **When it is useful:** When welcoming visitors without exposing private information. Record expected visitor numbers, waiting areas, counter positions and staff access.
 
 **Photographs, dimensions and specifications:** measure waiting and counter zones; photograph entrance and staff access.
@@ -199,6 +211,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Check reception-desk visibility from the entrance, waiting capacity and accessible circulation. For a comparable design quotation, provide reception staffing, visitor flow, waiting capacity and privacy needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 15. Flooring selection
+
+
+**Additional verification point:** Provide floor-level measurements, door clearances, finish thicknesses and wet zones. Compare slip resistance, cleaning needs and movement-joint locations; installation systems depend on substrate condition and specialist inspection.
+
 
 **When it is useful:** When choosing floor finishes for wear, moisture and slip exposure. Record each room's use, substrate condition and transitions between floor levels.
 
@@ -212,6 +228,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 16. Paint colour selection
 
+
+**Additional verification point:** Photograph walls in daylight and under evening lighting; note old coating condition and damp patches. Request physical wall samples, sheen and colour codes, with substrate repairs priced separately from colour selection.
+
+
 **When it is useful:** When comparing paint colours in daylight and artificial light. Record daylight direction, desired sheen, existing finishes and sample locations before approving paint codes.
 
 **Photographs, dimensions and specifications:** photograph walls at different times; note light direction and existing finish.
@@ -223,6 +243,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Compare colour codes and samples under site lighting and confirm surface finishes are documented. For a comparable design quotation, provide daylight photographs, paint samples, colour tones and finish sheen; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 17. Stone and tile selection
+
+
+**Additional verification point:** Record surface areas, vein direction, slab or tile sizes, openings and edges; request samples from the proposed batch. Distinguish material selection from waste calculations, fixing and waterproofing; do not approve colour from a phone screen alone.
+
 
 **When it is useful:** When matching stone or tile dimensions, veining and joints to the room. Identify wet areas, openings, drains and expected cutting patterns.
 
@@ -236,6 +260,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 18. Furniture selection
 
+
+**Additional verification point:** Provide room plans, lift and door dimensions, daily-use patterns and retained items. Compare frames, fabrics, cleanability and warranty; identify who verifies actual product dimensions before purchase.
+
+
 **When it is useful:** When choosing furniture for comfort, durability and fit. Record actual dimensions, daily use, material preferences, budget constraints and items to retain.
 
 **Photographs, dimensions and specifications:** record room, doorway and lift sizes plus daily usage.
@@ -247,6 +275,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Check proposed furniture dimensions, finishes, lead times and installation/maintenance clearances. For a comparable design quotation, provide furniture budget, product dimensions, use intensity and upholstery needs; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 19. Lighting selection
+
+
+**Additional verification point:** Identify tasks needing focused light, ceiling heights, switches, outlets and daylight. Request a fixture schedule with colour temperature, controls and glare treatment; keep design separate from certified load checks and circuit installation.
+
 
 **When it is useful:** when a room appears bright overall but the worktop remains dim or a screen suffers glare. Identify reading and preparation tasks, switching or dimming needs, existing ceiling constraints and electrical points before commissioning a lighting layout.
 
@@ -260,6 +292,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 ## 20. Materials mood board
 
+
+**Additional verification point:** Collect numbered timber, stone, paint and fabric samples with supplier names where known, and inspect them under site lighting. Map each sample to a room and surface, log approved alternatives and avoid assuming batch availability or colour consistency.
+
+
 **When it is useful:** when timber, stone, fabric and paint samples look compatible on screen but may clash under the room's actual lighting. Identify where each finish will be used, collect physical samples and name the person responsible for approving alternatives.
 
 **Photographs, dimensions and specifications:** collect timber, stone, fabric and paint samples and supplier references if known.
@@ -271,6 +307,10 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Verify sample identifiers and that each maps to its space, supplier and approved alternative. For a comparable design quotation, provide room photographs, material samples, colour references and acceptable alternatives; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 ## 21. Finishes schedule
+
+
+**Additional verification point:** Collect the latest drawing revisions and approved samples; prepare a room-by-room schedule linking floors, walls and ceilings to finish codes and edge details. Assign responsibility for updating substitutions and checking quantities before procurement.
+
 
 **When it is useful:** when finish codes, samples and drawings disagree, causing incorrect purchasing or installation. Gather the latest approved drawings, identify each room and agree who will revise the schedule after any material substitution.
 

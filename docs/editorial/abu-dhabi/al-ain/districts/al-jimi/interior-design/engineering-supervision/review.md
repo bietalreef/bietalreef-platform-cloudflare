@@ -11,3 +11,9 @@
 
 - Service 1 (`الإشراف على التنفيذ` / Construction supervision): added contractor relationship disclosure, dispute escalation, and explicit limits of stop-work authority in both languages. These are proposed contract checks, not claims of statutory powers.
 - Remaining audit: independently verify the seven service pairs against site-specific documents and professional obligations; the district is **in_progress**, not approved.
+
+## Service-specific RFQ follow-up — 2026-11-14
+
+- Added six independently tailored quotation-request paragraphs to each language for services 2–7: project management, workmanship quality review, stage acceptance, progress reporting, quantity surveying, and contractor tender comparison.
+- Read back both language files from the named GitHub branch and confirmed the exact six new passages in each.
+- **Still pending:** independent full semantic and technical audit of all seven pairs, including service 1; verify cross-specialty originality and the full 434-service district inventory. Status remains `in_progress`.

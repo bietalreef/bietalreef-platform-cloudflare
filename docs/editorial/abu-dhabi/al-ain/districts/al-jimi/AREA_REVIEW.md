@@ -1126,3 +1126,8 @@
 - **الحالة: `in_progress`**. أضيفت سبعة موجزات عرض سعر مخصصة إلى [التصميم الإنشائي بالعربية](./interior-design/structural-design/content-ar.md) وسبعة إلى [الإنجليزية](./interior-design/structural-design/content-en.md)، وأُعيدت قراءة الملفين من GitHub للتحقق من حفظ جميع الإضافات.
 - [مراجعة التخصص](./interior-design/structural-design/review.md) توثق نطاق التعديل؛ لا تُعد هذه الدفعة مراجعة شاملة لكل الخدمات.
 - **النواقص التالية:** استكمال التدقيق الدلالي والتفرد لبقية تخصصات `interior-design`، بدءًا من `engineering-supervision` ثم `interior-materials`؛ ثم جرد وتدقيق `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومطابقة 434 اسم خدمة عربيًا مع المصدر، و434 قسمًا إنجليزيًا، والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+## تدقيق اختيار الإضاءة — 2026-11-14
+
+- الحالة `in_progress`: جرى تصحيح مقدمة خدمة `اختيار الإضاءة` في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md) وتوثيقها في [المراجعة](./interior-design/interior-materials/review.md).
+- أول نقص تالٍ: تدقيق بقية الخدمات العشرين في `interior-materials` بالعربية والإنجليزية، ثم مطابقة الخدمات الـ434 وتدقيق تخصصات القطاعات الثمانية، بما فيها التصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.

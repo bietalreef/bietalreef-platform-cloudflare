@@ -147,3 +147,63 @@ Provide wall heights, openings, substrate details and panel weights; have a qual
 ### 35. Marble repair and treatment
 
 Distinguish surface stains, cracks, loose pieces and erosion, and identify causes before selecting a treatment. Request a limited colour-and-finish compatibility trial, and record pieces requiring replacement rather than concealing structural damage with cosmetic repairs.
+
+## Kitchen countertops and washbasins
+
+### 36. Kitchen countertop fabrication
+
+Start with a measured drawing of the installed cabinets, showing lengths, depths, overhangs and walls that are not square. Specify material, thickness, batch colour and joint positions, and request a fabrication drawing showing veining and support for projecting edges. Compare fabrication, edge finishing, transport and material rather than the rate per metre alone; dry-check the pieces before fixing.
+
+### 37. Kitchen countertop installation
+
+Installation should begin by checking cabinet levels, stability and the sink and hob positions. Agree on fixing materials, wall-joint sealing and who disconnects and reconnects plumbing and appliances. At handover, inspect aligned joints, a stable surface and water behaviour around the sink, including any leakage into the cabinets.
+
+### 38. Marble washbasin fabrication
+
+Supply the available dimensions, intended height, drain and tap positions, and photographs of existing services. State whether the basin is integrated into the stone or sits on a separate top. Review stone thickness, support for suspended parts and exposed-edge finishing. Compare cutting, mounting and basin supply as separate quotation items, then test drainage and edge safety after fitting.
+
+### 39. Custom sink and appliance cut-outs
+
+Do not use the appliance's outside dimensions as its cut-out dimensions. Obtain the manufacturer's template, required clearances and minimum remaining edge widths. Agree on hole positions and orientation before cutting, especially near corners and joints. Inspect the cut-outs before transport for cracks, sharp edges and compatibility with the intended fixings.
+
+### 40. Quartz countertop installation
+
+Confirm the engineered quartz product, batch colour, thickness and manufacturer-stated limits for heat and use. Check piece lengths, joints and support for edges and heavy appliances; do not assume every quartz slab is suitable outdoors. Compare care instructions and warranty terms, then inspect levels, joint colour and secure installation at handover.
+
+### 41. Large-format porcelain countertop installation
+
+Large porcelain slabs require different handling, cutting and support arrangements from small tiles. Provide cabinet dimensions, cut-outs and corners, and specify thickness and finish. Ask how exposed edges will be supported and which lifting and fixing methods will be used. Inspect cut-out corners for hairline cracks, and check joint levels and consistent gaps before acceptance.
+
+### 42. Countertop repair and repolishing
+
+Identify the surface first: marble, quartz and porcelain do not share one repair method. Photograph scratches, staining, chips and failed joints, and clarify whether the job involves cleaning, joint repair or refinishing. Request a small test area and a statement of irreparable damage. Check colour, texture and joints afterwards; polishing must not disguise damage requiring replacement.
+
+## Ceramic and porcelain tiles
+
+### 43. Ceramic tile supply
+
+State the application, tile size, required slip performance for wet floors, colour reference and batch. Calculate quantities from a layout plan with cutting allowance appropriate to the pattern. Compare net area, box quantities and delivery on the same basis. On receipt, check batch identity and chipped corners, and retain spare tiles for future repairs.
+
+### 44. Porcelain tile supply
+
+Specify whether the tiles are for floors, walls or outdoors, including size, thickness, edge type and finish. Request the product data sheet and check suitability for that application; a matching colour does not make two products interchangeable. Inspect sample flatness and batch consistency before accepting the complete order.
+
+### 45. Outdoor tile supply
+
+Provide photographs of the path or courtyard, door thresholds and drainage points, and identify wet exposure or vehicle use. Compare thickness, appropriate slip characteristics, bedding method and expected loads, not just appearance. Check quantities, edges and suitability of jointing materials for outdoor exposure.
+
+### 46. Tile cutting and preparation
+
+Provide a setting-out plan for corners, drains and thresholds, with opening sizes, piece counts and pattern direction. Ask how the chosen tile will be cut and how visible edges will be finished. Receive labelled, protected pieces and inspect dimensions and glaze chipping before installation.
+
+### 47. Ceramic tile installation
+
+Check substrate soundness, levels and wet-area falls before starting; agree on joint widths and compatible adhesive and grout. The quote should separately identify removal, levelling and waterproofing where required, rather than burying them in an unclear installation rate. Inspect alignment, hollow-sounding areas and water falls at completion.
+
+### 48. Porcelain tile installation
+
+Porcelain, especially large formats, requires a flat substrate and a fixing method that achieves the coverage specified by the product instructions. Agree on joints, movement provisions and protection while other trades work. At handover, inspect lippage, bond and clean grout rather than relying on the appearance from a distance.
+
+### 49. Skirting tile supply and installation
+
+Measure net wall lengths and the proposed skirting height; specify the material, match to flooring and treatment at corners and door frames. Compare linear metres, cutting, adhesive and finishing, including how uneven walls will be addressed. Inspect the straightness of the top edge, neat corners and visible gaps before acceptance.

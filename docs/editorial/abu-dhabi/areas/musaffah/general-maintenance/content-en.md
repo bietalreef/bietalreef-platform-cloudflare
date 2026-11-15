@@ -209,3 +209,63 @@ Choose sensor positions from detection distance, field of view, mounting height 
 ### 49. Lighting fixture maintenance
 
 For flickering, overheating or failed luminaires, record type, model, number affected and when symptoms occur. Drivers, connections and the fitting itself may each be responsible; request diagnosis before replacement and confirm compatible parts. A competent person should isolate the circuit safely, then verify stable operation, visible heat signs and secure mounting after repair.
+
+
+## Plumbing and leak detection
+
+### 50. Water supply pipework first fix
+
+For new water pipework, provide a plan of outlets, pipe sizes, anticipated pressure and the meter, tank and pump positions. Specify pipe and joint materials, routing and any required insulation before closing walls and floors. Compare outlet counts, run lengths, valves, pressure testing and records; obtain concealed-work photographs and test results before covering the installation.
+
+### 51. Drainage pipework first fix
+
+Drainage first fix requires sanitary fixture positions, outlet levels, inspection access and connections to existing drainage. Supply room dimensions and site photographs, and plan future maintenance access. Quotations should describe pipe diameters, gradients, venting, traps, cleanouts, breaking-out and reinstatement. Check drainage performance, leakage and odours before closing the routes.
+
+### 52. Sanitary fixture installation
+
+For a basin, toilet, mixer or shower, provide the model, dimensions, connection positions and photographs of existing finishes. Confirm that fixture dimensions suit supply and waste outlets and allow adequate use and maintenance access. Separate supply, installation, sealant, accessories and tile repairs in quotations. At handover check fixing stability, flow, drainage and dry joints.
+
+### 53. Water tank installation
+
+Specify required storage volume, tank location, access dimensions and supporting base, with photographs of fill, overflow and drain routes. Confirm tank material suitability for its intended use, inspection and cleaning openings, ventilation and connection protection. Compare the tank, base, valves, pipework and lifting separately; test filling, overflow, leakage and maintenance access.
+
+### 54. Water pump installation
+
+Before selecting a pump, record storeys, outlets, available pressure, tank position and low-flow symptoms. Ask for a duty-point assessment matching required flow and head to the pump curve, including dry-run protection, vibration and noise control. Compare equipment, mounting, connections, controls and maintenance; test pressure, starts, stops and leaks under realistic demand.
+
+### 55. Water and drainage pipework rehabilitation
+
+For repeated faults in ageing pipework, document leaks, blockages, prior repairs and known pipe materials. Do not approve wholesale replacement without an assessment of failed sections and risks at retained joints. Request new routing, finish-protection and service-interruption plans. Compare targeted repairs and replacement by scope, testing and workmanship warranty.
+
+### 56. Drainage system maintenance
+
+For slow drainage, odours or backflow, identify affected fixtures, when symptoms arise and inspection-point photographs. Diagnosis should distinguish a local trap blockage from a branch, main line or vent issue and explain the cleaning method and finish protection. Price clearing, camera inspection and repairs separately; test flow afterwards and record the likely cause where established.
+
+### 57. Water leak detection
+
+For unexplained dampness or consumption, collect meter readings at different times, stain photographs and pipe and appliance locations. Request a staged investigation using circuit isolation and suitable tests before destructive opening, with the limitations of acoustic or thermal equipment explained. The report should identify suspected location, evidence, confidence and next action; detection is not repair.
+
+### 58. Pipe leak repair
+
+Once a leak is located, establish pipe material, diameter, neighbouring joint condition and safe access. Ask whether the repair replaces a section, fitting or entire run, and who handles opening, waterproofing and reinstatement. Compare parts, water shutoff, testing and warranty; do not conceal the repair until pressure testing and a dry inspection are complete.
+
+### 59. Water tank leak investigation
+
+If a tank loses level or its surroundings become wet, distinguish shell leakage from overflow, valves, connections and condensation. Supply photographs of the base, lid and lines, and record level changes during a controlled no-use period where feasible. Request safe investigation identifying the leak path, test limits and repair-versus-replacement options, with photographs before approving work.
+
+### 60. Bathroom waterproofing
+
+Bathroom waterproofing is applied before tiling, after preparing substrates, corners, penetrations and drain details. Specify floor area, wet-wall extents, system compatibility with tile adhesive and curing requirements. Compare coats, drain transitions, wall upstands and the agreed flood-test procedure; document the test before concealing the membrane.
+
+### 61. Roof waterproofing
+
+Before re-waterproofing a roof, investigate ingress, old layers, falls, drains, joints and equipment plinths. Provide a roof plan and ponding photographs, and clarify whether existing layers stay or are removed. Quotations should detail preparation, membrane system, protection, penetrations and leak testing. Inspect drainage falls and obtain material and defined warranty records.
+
+### 62. Water tank waterproof lining
+
+Tank lining requires knowledge of shell material, stored-water use, cracks, joints, entry points and cleaning access. Select a system compatible with the intended use, specifying cleaning, preparation, drying, surface repairs and curing before refill. Compare substrate preparation, materials, testing and final cleaning. Do not claim potable-water suitability without appropriate supporting product documentation.
+
+### 63. Remediation of leak-related dampness
+
+Repairing a damp patch begins by confirming that the leak has stopped, not immediately repainting. Photograph damage, track moisture over time and assess affected gypsum, insulation or timber. Separate source repair, drying, removal of damaged material, filling and repainting in quotations. Accept finishes only once the substrate is dry and recurrence risks have been reviewed.
+

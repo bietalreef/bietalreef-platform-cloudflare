@@ -30,3 +30,7 @@
 - أُضيفت سبعة اختبارات استلام متخصصة لكل لغة: توثيق قواعد المظلات ومثبتاتها، تصريف غطاء البرجولا وإتاحة صيانته، تصريف مياه الجلسات، مطابقة الأسوار للرفع المساحي، معالجة تجمعات مياه الممرات، إتاحة فتح المناهل بعد الإنترلوك، واختبار الحماية الكهربائية وصيانة النوافير.
 - تمت إعادة قراءة ملفي المحتوى من الفرع والتحقق من وجود العناوين السبعة في كل لغة. هذه إرشادات تحقق وليست اعتمادًا إنشائيًا أو كهربائيًا.
 - حالة التخصص: `editorially_revised`; حالة المنطقة: `in_progress`، ولا تزال المراجعة المستقلة للتخصصات الأخرى مطلوبة.
+
+## 2026-11-15 — Contract detail audit
+
+Added seven distinct bilingual agreement checkpoints covering foundations, drainage, pergola lighting, furniture, boundary survey, paving settlement and fountain electrical safety. Both language files were read back and verified. Status: `in_progress`; final semantic and technical audit remains outstanding.

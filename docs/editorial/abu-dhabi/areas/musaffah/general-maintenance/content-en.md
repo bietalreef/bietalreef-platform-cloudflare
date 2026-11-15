@@ -89,3 +89,33 @@ Turn the visual concept into shop drawings with levels, junctions and fixing det
 ### 21. Integrated finishes handover
 
 This is the inspection and close-out of completed fit-out works, not a substitute for carrying them out. Assemble a schedule of areas, contracts, drawings and approved samples, then log each defect with a numbered photograph, location, responsible party and rectification deadline. Review applicable water, drainage, electrical and cooling test records, warranties, operating manuals, keys and as-built documents. A clean site alone is not final acceptance: reinspect closed items and record outstanding work and any contractually agreed retention.
+
+## Gypsum and decorative works
+
+### 22. Gypsum ceiling installation
+
+Measure the room and available clear height before fixing gypsum ceiling levels, cooling outlets, lighting positions and maintenance access panels. Check the existing soffit and suspension points against the selected system specification; heavy fixtures must not rely on the boards alone. The quotation should identify suitable board types where moisture exposure matters, framing and hanger details, joint treatment, painting and electrical exclusions. Inspect flatness, straight edges, visible joints and access to concealed equipment at handover.
+
+### 23. Gypsum partition construction
+
+Define whether the partition provides space separation, acoustic privacy or a route for services. Supply a plan with partition length, height, door openings, switch locations and intended wall-mounted loads. Ask for stud specification, board layers, any requested insulation and reinforcement for cabinets or screens. Any special performance requirement should be checked against the approved design rather than assumed for all gypsum walls. Inspect plumb, frame rigidity and joint finishing before painting.
+
+### 24. Concealed cove lighting
+
+A cove-light detail needs a section showing LED strip location, light direction, setback from the edge, power supply, heat management and access to the driver. Measure wall runs and agree colour temperature and controls. Confirm whether the quote includes diffuser profiles, strips, drivers and wiring or gypsum work alone. Test a short sample to avoid unwanted visible light dots, then inspect uniformity, shadowing and unusual heat during handover.
+
+### 25. Decorative gypsum mouldings
+
+For cornices and raised gypsum details, provide dimensioned sections and photographs of the corners and columns they must meet. Establish whether mouldings are prefabricated or formed on site, and specify fixing, joint treatment and painted edges. Compare prices by moulding lengths, corners and intricate details rather than room area alone. Check pattern continuity, mitred corners and edge condition before final finish approval.
+
+### 26. Wood-look decorative panel installation
+
+Select wood-look panels for their actual use, cleaning needs and required moisture performance, not colour alone. Measure wall height and width and identify sockets, openings and exposed edges. Request a physical sample, product composition, fixing method and manufacturer guidance on movement or expansion. Compare panel quantities, joints, edge trims and substrate repairs. On handover, inspect pattern alignment, secure edges and unobstructed switches.
+
+### 27. Marble-look decorative panel installation
+
+Check substrate flatness, any underlying moisture and whether the chosen marble-look panel is suitable near water or heat. Provide wall measurements, corners, service outlets and a reference for the desired vein layout. The quote should state board thickness, cutting and bonding method and joint and edge treatment; similarly named products may perform differently. Inspect agreed vein alignment, adhesion, bulging, voids and sharp edges on completion.
+
+### 28. Gypsum repairs and maintenance
+
+Cracks, sagging or stains in gypsum walls or ceilings may result from frame movement, leaks, impact or unsupported loads. Photograph the defect with a scale, note whether it has recurred and request inspection of concealed components where warranted before patching and painting. Compare a local patch, board replacement and framing or services repairs as separate scopes. Check rigidity, flatness and paint blending after drying; never conceal an active leak behind new board.

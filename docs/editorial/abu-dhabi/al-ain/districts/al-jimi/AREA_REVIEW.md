@@ -1350,3 +1350,8 @@
 
 - الحالة: `in_progress`. حُسنت دواعي الحاجة وفحوص الاستلام للخدمة 7 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، مع التحقق بإعادة القراءة من GitHub. [مراجعة التخصص](./interior-design/interior-materials/review.md).
 - **أول نقص دقيق:** تدقيق الخدمات 8–21 في `interior-design/interior-materials` من حيث المدخلات والنطاق والاستثناءات والاستلام والتكافؤ بين اللغتين، ثم بقية تخصصات الشركات بالقطاعات الثمانية؛ فحص التكرار والسلامة والتصنيفات المقيدة والمقترحة وجرد 434 خدمة لكل لغة قبل اعتماد الجيمي. لا يبدأ المويجعي.
+
+## 2026-11-16 — فحص تنسيقي للتصميم الداخلي والمواد
+
+- استُكملت إضافات فحص تنسيقي مخصصة للخدمات 8–21 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، مع [مراجعة التخصص](./interior-design/interior-materials/review.md).
+- الحالة `in_progress`. أول نقص تالٍ: مراجعة الجودة والتكرار والتكافؤ الفني لكل خدمة في `general-maintenance/general-maintenance` ثم بقية تخصصات الصيانة ومواد البناء والورش والأثاث والمعدات والتنظيف؛ جرد جميع تخصصات الشركات الخمسين وخدماتها الـ434 بكل لغة، والتحقق من التصنيفات المقيدة والمقترحة قبل اعتماد الجيمي. لا تبدأ المويجعي.

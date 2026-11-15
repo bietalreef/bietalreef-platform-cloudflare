@@ -12,7 +12,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Provide the plot survey, north orientation, household brief and guest-entry requirements. Ask for two priced layout options with room areas, parking provision and explicit exclusions for structural and MEP design.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare the number of workable floor-plan and elevation options, how guest/family privacy and parking are tested, and not merely the number of renderings. Contract for revision rounds, responsibility for setback checks, editable drawing delivery and whether structural and MEP coordination is included.
 
 **Acceptance check:** Check privacy, furniture clearances, door swings and parking arrangement. Construction documents require review by the relevant qualified professionals.
 
@@ -26,7 +26,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** State unit count, floors, parking and service access. Request priced unit-mix alternatives showing circulation, lift-core allowances and the boundary of fire-egress and ventilation coordination.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare usable apartment area separately from shared corridors, stairs and plant spaces, along with unit-mix and parking alternatives. Allocate responsibility for lift cores, ventilation and egress coordination, specialist review stages and excluded detailed engineering studies.
 
 **Acceptance check:** Review access separation, service ventilation and escape arrangements with qualified designers. Construction documents require review by the relevant qualified professionals.
 
@@ -40,7 +40,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Supply the proposed business use, operating hours, loading and storage brief. Price customer and goods-flow plans separately from tenant-specific equipment design and facade works.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Require a schedule distinguishing lettable floor area from storage, loading and circulation, with customer and goods-flow scenarios. Compare base-building design against tenant fit-out, signage and trade-specific systems; identify who checks safety and accessibility requirements.
 
 **Acceptance check:** Test delivery/customer conflicts, entrance placement and sanitary provision. Construction documents require review by the relevant qualified professionals.
 
@@ -54,7 +54,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Identify the design stage and approved drawing revision. Request a priced sheet register for plans, sections, elevations and opening schedules, with drawing scales, delivery formats and coordination boundaries.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare a numbered drawing register, scales, opening schedules and level references rather than an undefined sheet count. Require revision tracking across plans, sections and elevations, and assign coordination of structural, electrical and plumbing clashes and deliverable formats.
 
 **Acceptance check:** Cross-check dimensions between views and drawing revisions. Construction documents require review by the relevant qualified professionals.
 
@@ -68,7 +68,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Send facade photos, opening dimensions and solar orientation. Request material and shading options, fixing and maintenance concepts, and clear exclusions for thermal or glazing engineering.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare cladding and shading options against opening dimensions and safe cleaning access. Specify who develops fixing details, who reviews facade loads and glazing performance, and whether physical samples, thermal studies and construction drawings are separate.
 
 **Acceptance check:** Check plan alignment and safe cleaning and maintenance access. Construction documents require review by the relevant qualified professionals.
 
@@ -82,7 +82,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Specify whether the model is for marketing or engineering coordination. Price camera views, image resolution, level of detail, editable model delivery, usage rights and revision rounds separately.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare view count, camera angles, output resolution, model detail and editable source-file delivery. Separate image-use rights and lighting/material revision rounds from obligations to match construction drawings; visualisations are not engineering approvals.
 
 **Acceptance check:** Check geometry against plans; rendered colours are not approved material samples. Construction documents require review by the relevant qualified professionals.
 
@@ -96,7 +96,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Supply editable source drawings and a numbered markup register. Request pricing by affected drawing group, stating whether structural, electrical and mechanical redesign is included.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Price revisions by affected sheets and disciplines, not building area alone. Identify the baseline revision, change register, structural and MEP impact checks and the party responsible for seeking approval where altered plans require it.
 
 **Acceptance check:** Verify revision clouds and eliminate conflicting superseded sheets. Construction documents require review by the relevant qualified professionals.
 
@@ -110,7 +110,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Provide application type, available plans and the authority checklist where known. Request a deliverable-by-deliverable drawing and form schedule, with submission and statutory fees priced separately.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare the submission drawing and document register, professional sign-off responsibilities and responses to authority comments; separate official fees from design fees. Define revision rounds and submission-version records without promising approval.
 
 **Acceptance check:** Reconcile drawing index with application checklist; preparation is not approval. Construction documents require review by the relevant qualified professionals.
 
@@ -124,7 +124,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Provide the application reference, valid authorisation and current attachments. Agree the number of comment-response cycles, submission evidence and progress updates; separate official charges.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare application preparation, data entry, document upload and follow-up responsibilities, including the authorised submitting account. Separate administrative charges, authority fees and drawing revisions; require application references and status notices.
 
 **Acceptance check:** Request submission receipt, reference number, correspondence and actual status. Construction documents require review by the relevant qualified professionals.
 
@@ -138,7 +138,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Attach the previously approved revision and a marked change drawing. Ask for an impact review covering structure and services, then separate fees for change sheets and any necessary reapproval.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Require a side-by-side change register against approved drawings, listing affected sheets and structural or MEP interfaces. Allocate redesign, resubmission and fee responsibilities and prohibit treating unapproved alterations as authorised construction.
 
 **Acceptance check:** Check change register and approval references before construction. Construction documents require review by the relevant qualified professionals.
 
@@ -152,7 +152,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Send defect photos and the proposed repair method. Request an assessment of whether a permit is needed, with documents, filing fees and follow-up itemised; exclude physical repairs.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Describe proposed maintenance works by location and photograph, then compare whether permit screening, supporting drawings or reports and application submission are included. Separate contractor work and authority fees from consultant fees and require decision records.
 
 **Acceptance check:** Verify permit scope, conditions and validity before work starts. Construction documents require review by the relevant qualified professionals.
 
@@ -166,7 +166,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Provide plot and existing-building plans with proposed extension dimensions. Ask for a scoped setbacks, structural and utilities review, drawings and filing, without assuming approval.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare extension studies by added area, connections to the existing building and any required structural assessment. Allocate annex drawings, utility alterations, permit submission and comment responses without assuming permission will be granted.
 
 **Acceptance check:** Compare submitted extension area with drawings and approval conditions. Construction documents require review by the relevant qualified professionals.
 
@@ -180,7 +180,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Identify accessible spaces and survey visit windows. Request a measured-survey quotation specifying tolerance, floor count, opening schedules and exclusions for concealed elements.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Compare site-survey method, measured points, levels, openings and visible service locations, as well as required CAD/PDF outputs. Require a discrepancy register against old drawings and clear exclusions for concealed elements not verifiable without specialist investigation.
 
 **Acceptance check:** Spot-check dimensions and record inaccessible areas. Construction documents require review by the relevant qualified professionals.
 
@@ -194,7 +194,7 @@ A practical briefing guide for company services, not a listing of available firm
 
 **Service-specific quotation request:** Provide case references and correspondence. Ask for an authority-by-authority tracking plan identifying owner, document, target response and status reports, without any approval or timing guarantee.
 
-**Compare quotes and agree terms:** Confirm options and revision rounds, file formats, coordination responsibility, authority charges, payment milestones and delivery dates in writing; compare offers against this specific scope.
+**Compare quotes and agree terms:** Request an approval matrix showing relevant authorities, supporting documents, submitting parties and comment-response stages. Separate official charges from coordination and engineering revisions; require correspondence and decision records without guaranteeing dates or outcomes.
 
 **Acceptance check:** Receive an authority-by-authority log of filings, comments, replies and status. Construction documents require review by the relevant qualified professionals.
 

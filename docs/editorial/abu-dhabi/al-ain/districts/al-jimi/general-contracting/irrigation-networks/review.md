@@ -30,3 +30,7 @@ Added matched Arabic/English acceptance guidance for qualified electrical checks
 ## 2026-11-15 — Bilingual acceptance review
 
 Expanded the acceptance/handover checks for all seven original irrigation-network services in Arabic and English: hydraulic schedules, drip flushing, sprinkler overspray, pump commissioning, repair pressure records, controller programmes and leak-test certainty. Read back both saved content files from the target branch. Category remains non-selectable and preparatory. Independent final technical/semantic review is still pending.
+
+## 2026-11-15 — Contract detail audit
+
+Added seven distinct contract checkpoints in Arabic and English, addressing valve approval, trench reinstatement, sprinkler coverage, pump/electrical boundaries, repairs, controller handover and leak detection exclusions. Both content files were read back from GitHub. Status: `in_progress`; independent technical and cross-specialty quality audit remains outstanding.

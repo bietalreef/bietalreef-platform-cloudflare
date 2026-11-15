@@ -1,3 +1,5 @@
 # Musaffah — building-materials editorial review
 
-2026-11-16. Status: in_progress. Two specialties completed: مواد البناء والتشطيب (21) and الأخشاب والألواح (7). Arabic 28/49; English 28/49 matching numbered service sections. Remaining: الرخام والجرانيت (7), أسطح المطابخ والمغاسل (7), السيراميك والبورسلان (7). No company availability or regulatory approval claimed; restricted taxonomy specialty remains restricted. Independent human technical/language review pending.
+2026-11-16. Status: editorial sector complete, human review pending. Five specialties, 49/49 Arabic and 49/49 English service explanations. The service headings 1–49 were re-fetched from GitHub and checked for continuous numbering. The source's restricted category is not represented as selectable. Craftspeople remain separate. No fabricated suppliers, prices, availability or regulatory approvals. RFQ through Biet Alreef customer service remains possible without a published supplier.
+
+Next sector: aluminium-glass. Technical and bilingual human review required before publication.

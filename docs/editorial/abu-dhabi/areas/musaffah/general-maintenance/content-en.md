@@ -59,3 +59,33 @@ Share the furniture model, packaging or assembly manual and confirm workspace an
 ### 14. Minor fault repairs
 
 Describe the fault, what happens during normal operation and when it began, with a safe photograph or short video. Request diagnosis before replacing parts and set an approval threshold for extra work. Overheating electrics, active leaks or burning smells warrant stopping use and engaging an appropriate specialist, not trial-and-error repairs. Verify the symptom is resolved afterward.
+
+## Integrated finishing
+
+### 15. Villa finishing
+
+For a new villa or an unfinished shell, start with coordinated layout and services drawings and a room-by-room finishes schedule rather than an undefined turnkey promise. Measure floor, wall and ceiling areas and skirting lengths; specify tile grades, paint systems, doors and sanitary fittings against physical samples. The programme should place waterproofing, plumbing and electrical tests before ceilings and finishes are closed. Compare identical quantities and list exclusions, waste removal, protection and contractual warranties. Handover should follow staged inspections, photographic records of concealed work, operational tests and a final defects list.
+
+### 16. Apartment finishing
+
+Record the apartment's initial condition, especially in an occupied building. Measure rooms, openings and ceiling heights, and check electrical, cooling and drainage points before ordering flooring or fitted cabinets. Ask how lifts and corridors will be protected, and verify the actual building management's requirements for deliveries and debris removal rather than assuming a universal rule. Price stripping and substrate repairs separately from new finishes. At handover, test drainage, outlets and doors, check levels and joint alignment, and document any damage to shared areas.
+
+### 17. Retail shop finishing
+
+Begin with the shop's intended use, merchandising and storage layout, and customer and staff circulation. A clothing shop and a food-related premises need different fit-out specifications. Provide a measured plan, shopfront photographs, opening sizes and electrical, ventilation, lighting and signage locations. The quotation should allocate responsibility for flooring, ceilings, counters, services and client-supplied equipment, without implying that a design already has regulatory approval. Test lighting, outlets and doors, inspect heavily used surfaces and shopfront finishes, and close out a documented defects list.
+
+### 18. Office finishing
+
+Office fit-out depends on staff numbers, meeting rooms, privacy, acoustics and data-cabling routes. Request a coordinated plan showing power, communications, cooling, lighting, passageways, door swings and built-in furniture. Compare partition, glazing, ceiling and flooring works separately from network equipment and movable furniture, with acceptance tests for each included system. At handover, check door operation, socket function, data-point labels, lighting and visible defects; obtain as-built records where the contract requires them.
+
+### 19. Interior space refurbishment
+
+Refurbishment need not mean stripping everything out. Inspect moisture, substrate alignment and existing services to identify what can remain. Supply overview and close-up photographs with room measurements, and identify occupied areas that need separation during work. Ask for a removal and furniture-protection plan, repairs before repainting or cladding, and written approval before unforeseen concealed defects generate extra charges. Acceptance should confirm finishes against samples, restored services, clean premises and sound joints and edges.
+
+### 20. Decorative fit-out works
+
+Turn the visual concept into shop drawings with levels, junctions and fixing details for timber, gypsum, mirrors and concealed lighting. Provide wall and ceiling dimensions and photographs of obstructions, cooling outlets and sockets: these determine both appearance and maintenance access. Compare panel type, thickness, edge treatment, fixing method and access to concealed services, not just reference images. Approve a sample before widespread installation, then inspect alignment, colour consistency, joints and lighting performance.
+
+### 21. Integrated finishes handover
+
+This is the inspection and close-out of completed fit-out works, not a substitute for carrying them out. Assemble a schedule of areas, contracts, drawings and approved samples, then log each defect with a numbered photograph, location, responsible party and rectification deadline. Review applicable water, drainage, electrical and cooling test records, warranties, operating manuals, keys and as-built documents. A clean site alone is not final acceptance: reinspect closed items and record outstanding work and any contractually agreed retention.

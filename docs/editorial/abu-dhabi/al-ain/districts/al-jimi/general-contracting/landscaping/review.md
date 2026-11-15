@@ -29,3 +29,7 @@ Added and read back 14 distinct quotation-request paragraphs in each language, o
 ## 2026-11-15 — Acceptance-check revision
 
 Revised all 14 service-specific acceptance checks in Arabic and English, covering drawings and access, planted materials, irrigation, drainage, pruning safety, treatment records, waste clearance and maintenance logs. Both files were read back and matched. The category remains non-selectable and preparatory; final independent area-wide quality review remains pending.
+
+## 2026-11-15 — Agreement and scope audit
+
+Added 14 distinct, bilingual contract checkpoints for landscaping services 1–14. These address survey/drawing approval, retained assets, drainage, growing medium, nursery substitutions, turf preparation, pruning safety, treatment authorisation, waste and maintenance service levels. Both content files were re-read from GitHub and each contains 14 checkpoints. **Status remains in_progress:** full technical, linguistic and cross-specialty duplication audit is not closed.

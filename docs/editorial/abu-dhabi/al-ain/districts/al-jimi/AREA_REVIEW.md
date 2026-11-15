@@ -1282,3 +1282,8 @@
 
 - **الحالة:** `in_progress`؛ أُعيد تحرير فقرات مقارنة عروض الأسعار وبنود الاتفاق للخدمات السبع في [العربية](./general-contracting/demolition-concrete/content-ar.md) و[الإنجليزية](./general-contracting/demolition-concrete/content-en.md)، مع تمييز عناصر التسعير ونقاط التوقف والمسؤوليات لكل خدمة. [سجل المراجعة](./general-contracting/demolition-concrete/review.md).
 - **النواقص الدقيقة التالية:** تدقيق نطاق العمل والاتفاق في `general-contracting/landscaping` الخدمات 1–14، ثم `irrigation-networks` الخدمات 1–7، ثم `shade-outdoor-works` الخدمات 1–7، ثم بقية التخصصات في القطاعات الثمانية؛ مراجعة التكافؤ الدلالي والتكرار والسلامة لجميع الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اكتمال الجيمي.
+
+## 2026-11-15 — تنسيق الحدائق: تدقيق الاتفاق والنطاق
+
+- الحالة: `in_progress`؛ أضيفت 14 فقرة اتفاق مستقلة بالعربية و14 بالإنجليزية إلى [المحتوى العربي](./general-contracting/landscaping/content-ar.md) و[الإنجليزي](./general-contracting/landscaping/content-en.md)، مع التحقق بإعادة قراءة الملفين من GitHub، وتوثيق [المراجعة](./general-contracting/landscaping/review.md).
+- **أول نقص تالٍ:** تدقيق نطاق العمل وبنود الاتفاق للخدمات 1–7 في `general-contracting/irrigation-networks` ثم الخدمات 1–7 في `general-contracting/shade-outdoor-works`، ثم بقية تخصصات الشركات بالقطاعات الثمانية، وتدقيق أصالة النصوص والتكافؤ الفني والتصنيفات المقيدة والمقترحة لجميع الخدمات الـ434 بكل لغة. لا تبدأ المويجعي قبل الاعتماد الكامل.

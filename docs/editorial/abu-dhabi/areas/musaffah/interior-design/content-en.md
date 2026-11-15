@@ -60,6 +60,37 @@ Define whether the survey covers selected rooms or the whole property, including
 
 Identify the bodies potentially involved according to project type and assign responsibility for each package, comment and response. Use a tracking register for submissions, revisions and decisions, clearly separating issued approvals from pending applications; outcomes cannot be guaranteed.
 
+
+## Structural design
+
+### 15. Concrete structural frame design
+
+Begin with the building use, storey count, spans, openings, equipment locations and expected loads, alongside architectural plans and available ground investigation. Ask the engineer to define the framing system, column, beam and slab arrangement, movement joints and service coordination. Compare proposals on whether calculations, reinforcement details, schedules and clash reviews are included, not just drawing quantities. Accept a coordinated, revision-controlled design package reviewed by the responsible professional; drawings alone do not authorise construction before applicable processes are completed.
+
+### 16. Footing and foundation design
+
+Foundation selection depends on ground conditions, building loads and potentially groundwater, not a site photograph. Supply the geotechnical investigation, architectural layout, nearby structures and known buried services. Compare options for suitability, excavation method, waterproofing interfaces, settlement considerations and responsibility boundaries. Require foundation and ground-beam dimensions, levels, reinforcement and column connections. At handover, check that the details agree with the ground report and the coordinated structural design version.
+
+### 17. Structural drawing preparation
+
+This service turns engineering design and calculations into drawings suitable for checking and pricing construction. Depending on scope, it covers foundations, columns, beams, slabs, stairs, joints and reinforcement details. Provide final architectural layouts, major openings, heavy equipment locations and previous changes. Compare quotes by revision allowance, architectural and MEP coordination, schedules and detail requirements. Check sheet references, drawing scales, levels, cross-references and consistency at handover; conflicting or unreviewed sheets should not be issued for construction.
+
+### 18. Structural load review
+
+A load review may be necessary before placing roof equipment, changing room use or altering internal partitions. Record equipment weights, dimensions, bearing points and operating conditions, and provide original structural drawings and previous investigations. The scope should distinguish permanent and imposed loads and assess relevant slabs, beams, columns and foundations, stating missing information. Compare inspection and calculation methods and whether testing is required. The deliverable should explain assumptions, findings, limits and recommendations rather than simply asserting that a structure is adequate.
+
+### 19. Building structural safety assessment
+
+Progressive cracks, settlement, exposed corroding reinforcement or visibly deformed members call for professional risk assessment before cosmetic repair. Photograph symptoms with scale and location, record when they appeared and gather drawings, alteration history and water ingress records. Agree inspection boundaries, necessary tests and any immediate precautions, then compare the diagnostic approach and qualifications, not price alone. Require a report separating observations from interpretation, identifying uncertainty, priorities and monitoring needs; an assessment is not an unconditional safety guarantee.
+
+### 20. Structural strengthening design
+
+Strengthening a beam, column, slab or foundation starts by establishing the cause and extent of deficiency. Supply the condition assessment, measured geometry, photographs, drawings and current or proposed loads. Ask the designer to compare feasible approaches such as steel plates or concrete jacketing for capacity, access, service conflicts, construction sequencing and temporary support. The agreed deliverables should include calculations, connection and material specifications, installation stages, inspection hold points and professional review responsibilities. A conceptual sketch is insufficient authority to commence strengthening.
+
+### 21. Structural report preparation
+
+Owners may need a structural report before alteration, after visible damage or to interpret a specific investigation. State its intended use and recipient, elements to be assessed, and available plans, photographs and test records. Clarify visits, investigation methods, assumptions, and whether laboratory testing or follow-up is separately charged. Accept a dated report describing the site, methods, referenced photographs, measured observations, findings, limitations, recommendations and responsible professional. Distinguish measured facts from hypotheses so decisions can be checked later.
+
 ## Requesting a quotation
 
 Provide the service, property location and use, available area or dimensions, photographs, existing drawings, required deliverables, target date, your name and contact number. Biet Alreef customer service can receive the request even without a listed firm; this does not guarantee price or availability. Individual craftspeople are a separate category.

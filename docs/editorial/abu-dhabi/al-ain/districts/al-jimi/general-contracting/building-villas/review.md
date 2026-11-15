@@ -71,3 +71,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - وُسعت قائمة فحص الاستلام للخدمة الأولى بالعربية والإنجليزية لتذكر فحص التربة والأساسات والتسليح قبل الصب، سجلات الخرسانة، اختبار العزل قبل الإغلاق، مطابقة المناسيب والفتحات، وتوثيق معالجة العيوب وإعادة الفحص. الفحص المهني والاعتمادات الرسمية لا تستبدلها هذه المادة الإرشادية.
 - تم التحقق من حفظ النسختين بإعادة قراءتهما من GitHub. بقية خدمات التخصص 2–14 ومراجعة التكافؤ الفني والتكرار ما زالت قيد التدقيق؛ الحالة `in_progress`.
+
+## Bilingual acceptance refinement — 2026-11-15
+
+- Expanded service 2 residential-building handover to cover access to shared equipment, risers, life-safety records, staged inspection and defect retesting.
+- Expanded service 3 commercial-building handover to cover shop clearances, tenant service interfaces, fire-stopping and separation of shell-and-core from tenant fit-out approvals.
+- Arabic and English saved files were independently read back from GitHub. Services 4–14 and final bilingual technical audit remain pending; no specialty or area completion claim.

@@ -1226,3 +1226,7 @@
 - تم تحسين المدخلات الفنية لخدمة 21 «إعداد جدول التشطيبات» في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، وتحديث [مراجعة التخصص](./interior-design/interior-materials/review.md).
 - تم تحسين فحص الاستلام للخدمة 1 «إنشاء الفلل» في [العربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md)، وتحديث [مراجعة التخصص](./general-contracting/building-villas/review.md).
 - **الحالة `in_progress`:** لا يزال مطلوبًا فحص التكرار والتكافؤ الفني لجميع الخدمات 1–21 في التصميم الداخلي والمواد، ثم خدمات إنشاء المباني والفلل 2–14، وبقية التخصصات حتى مراجعة الخدمات الـ434 لكل لغة عبر القطاعات الثمانية، بما فيها المقيدة والمقترحة. لا يبدأ المويجعي قبل اكتمال الجيمي. لا يوجد تعديل برمجي أو دمج أو نشر.
+
+## Editorial continuation — 2026-11-15
+
+- `in_progress`: Building-villas services 2–3 (residential and commercial buildings) received bilingual, service-specific handover and acceptance checks, with GitHub read-back verified. Next: services 4–14 technical/parity review, then other specialties and final 434-service bilingual audit. Do not advance to Al Muwaiji before completion.

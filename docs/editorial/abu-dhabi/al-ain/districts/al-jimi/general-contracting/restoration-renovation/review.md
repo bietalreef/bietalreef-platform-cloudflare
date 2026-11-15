@@ -20,3 +20,7 @@ Seven source-aligned company service headings in each language, original sequenc
 
 - Added seven distinct Arabic **طلب عرض السعر** and seven corresponding English **Request a quotation** subsections, one per original service, covering required evidence, scope boundaries, separate price lines, change control, and handover/engineering responsibility where relevant.
 - Both content files were read back from the target branch and verified, with seven RFQ headings in each language. This is an incremental editorial improvement; full independent safety, originality and semantic parity certification remains pending.
+
+## تصحيح بنية المحتوى — 2026-11-15
+
+نُقلت فقرة طلب عرض السعر الخاصة بالخدمة السابعة إلى داخل قسم «تجهيز المبنى لإعادة الاستخدام» في اللغتين، قبل فقرة مساعدة بيت الريف العامة؛ كان موضعها السابق بعد فقرة الدعم يوحي خطأً بأنها طلب عام. بقيت عناوين الخدمات السبع وترتيبها كما في الشجرة. لا يُعد هذا اعتمادًا نهائيًا للتخصص أو المنطقة.

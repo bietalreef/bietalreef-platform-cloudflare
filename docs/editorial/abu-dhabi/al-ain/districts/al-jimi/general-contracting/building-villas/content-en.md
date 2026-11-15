@@ -12,7 +12,7 @@ This service covers the overall villa construction contract and its design, stru
 
 **Inspection and acceptance:** Ask the appointed qualified consultant to review soil and foundation records, reinforcement hold-point inspections before casting, concrete test reports and waterproofing tests before backfilling or concealment. At handover compare column grids, openings and levels with approved drawings, document defects and rectification deadlines, and identify who pays for retesting. This checklist does not replace professional sign-off or authority inspections.
 
-**Quote request:** Request a villa-specific bill of quantities, including soil-dependent foundations, utilities, majlis and parking interfaces, and a schedule of consultant inspections.
+**Quote request:** Attach the room schedule, floor areas, available approved plans and site-access photographs. Request separate foundation, structural and finishing quantities, plus an explicit included/excluded schedule for boundary walls, external paving, landscaping, electricity, water and drainage connections and their fees. Identify who arranges each connection and at what stage; do not assume they are included in a floor-area rate.
 
 ## 2. Residential building construction
 
@@ -80,11 +80,11 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 **What to document and measure:** Prepare a room-by-room finish schedule with measured areas and sample references. Specify kitchen appliances, air conditioning, lighting, sanitary fittings, external works, connection fees and any owner-supplied equipment; record model numbers and commissioning requirements where known.
 
-**Compare quotations and agree boundaries:** Compare named material ranges, substitution approval, warranties, commissioning, cleaning and final documentation. Identify owner-supplied items and any permit or utility exclusions.
+**Compare quotations and agree boundaries:** Agree binding material grades, substitution approvals, sample sign-off dates and payment milestones. Itemise kitchens, appliances, AC, lighting and sanitary fittings separately from loose furniture; identify owner-supplied items and contractor installation duties. State whether permits, connection charges, meter activation, boundary walls, external paving and pools are included, and allocate commissioning, final cleaning, warranty files and as-built documentation before handover.
 
 **Inspection and acceptance:** Reconcile the approved finish schedule room by room; witness operation of the contracted AC, lighting, pumps and appliances with the responsible specialists. Record model numbers, warranties, commissioning results and outstanding snags, with an agreed remedy before final sign-off.
 
-**Quote request:** Attach a room-by-room completion schedule and ask bidders to itemise appliances, AC commissioning, utility activation, external works, warranties and handover documents.
+**Quote request:** Attach the room-by-room finish and appliance schedule and request separate supply, installation, commissioning, warranty and handover-document costs. Require an exclusions list for utility connections and activation, external works and owner-supplied equipment.
 
 ## 8. New villa construction
 

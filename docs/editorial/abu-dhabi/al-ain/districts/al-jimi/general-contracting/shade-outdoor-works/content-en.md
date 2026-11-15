@@ -10,7 +10,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare approved drawings, the designed steel or aluminium structure, canopy fabric or panel, corrosion protection, foundations, anchors and runoff. Separate permits, excavation, lifting, paving reinstatement and lighting where excluded. Approve post locations, clearances and foundation drawings before excavation; assign responsibility for buried-service checks and reinstating paving.
 
-**Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; obtain material and finish warranties.
+**Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; compare anchor locations and quantities with the approved design, request foundation photos before concealment and a competent fixing-inspection record, and obtain material and finish warranties.
 
 ## 2. Pergola construction
 
@@ -20,7 +20,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare spans, sections, fixings, materials, finishes and weather resistance; obtain competent design checks for wind and structural loading where required. Exclude furniture, electrical works and flooring unless itemised. Record pergola spans, anchor locations and required structural checks; approve finish and covering samples, and price lighting connections separately.
 
-**Handover inspection:** Inspect alignment, secure joints, safe edges and roof fall/drainage if covered; compare with the approved sample.
+**Handover inspection:** Inspect alignment, secure joints, safe edges and roof fall/drainage if covered; check for standing water where the roof meets the wall and retain access to fixings for inspection and maintenance; compare with the approved sample.
 
 ## 3. Outdoor seating construction
 
@@ -30,7 +30,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Ask for separate line items for groundworks, structure, fixed seating, shade and lighting, with materials suitable for sun and moisture. Do not assume air-conditioning, loose furniture or utility extensions are included. Specify fixed-seat quantities, circulation space and each built element; identify who connects any power or water services.
 
-**Handover inspection:** Test safe circulation, fixed seating, switch locations and cleanability; check that exits remain unobstructed.
+**Handover inspection:** Test safe circulation, fixed seating, switch locations and cleanability; check that runoff does not discharge onto seating or walkways, and that exits remain unobstructed.
 
 ## 4. External fence installation
 
@@ -40,7 +40,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare fence material, foundations, posts, corrosion protection, gate hinges and coating. Specify who checks boundaries and permissions, removes the old fence and disposes of waste. Tie the fence works to the approved boundary survey, and assign permits, old-fence removal, gate testing and key handover.
 
-**Handover inspection:** Check alignment, post spacing, gate and lock operation and safe edges; verify the approved boundary is respected.
+**Handover inspection:** Check alignment, post spacing, gate and lock operation and safe edges; verify the approved boundary against the accepted survey rather than relying on visual alignment alone.
 
 ## 5. Garden pathway construction
 
@@ -50,7 +50,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare excavation, sub-base, compaction, edge restraint, surface finish, slip resistance and falls. Clarify tree-root protection and irrigation diversion; exclude planting and lighting unless priced. Approve path levels, falls, sub-base and tree-root protection, with a procedure for irrigation conflicts discovered on site.
 
-**Handover inspection:** Walk the route to check trip points, joints, gradients, drainage and unobstructed doors.
+**Handover inspection:** Walk the route to check trip points, joints, gradients, drainage and unobstructed doors; record any ponding observed during testing for correction before acceptance.
 
 ## 6. Interlock paving
 
@@ -60,7 +60,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare paver type and thickness, base layers, compaction, bedding, joints, edge restraints and drainage. Specify old-paver removal, waste transport and cover adjustments. Specify paver thickness and base build-up for pedestrian or vehicle loads, including manhole adjustments and post-handover settlement remedies.
 
-**Handover inspection:** Check consistent joints, stable edges, no movement under expected loads and no standing water after an appropriate test.
+**Handover inspection:** Check consistent joints, stable edges, no movement under expected loads and no standing water after an appropriate test; check that service covers finish flush without preventing maintenance access.
 
 ## 7. Water features and fountains
 
@@ -70,7 +70,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare waterproofing and testing, pump, filtration, suitable electrical protection near water, isolation and cleaning access. Itemise water supply, lighting and excavation; qualified specialists must review electrical work. Approve pump, waterproofing, electrical protection and service-access drawings; require documented leak and operating tests before final payment.
 
-**Handover inspection:** Require leak and pump-operation tests and safe shutdown; check noise, overspray, maintenance access and operating instructions.
+**Handover inspection:** Require leak and pump-operation tests and safe shutdown; check noise, overspray, maintenance access and operating instructions and a filter-cleaning and pump-isolation schedule, together with documented electrical-protection testing by a qualified specialist.
 
 ## Preparing a quotation request
 

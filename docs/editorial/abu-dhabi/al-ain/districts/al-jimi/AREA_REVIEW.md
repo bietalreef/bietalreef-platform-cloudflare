@@ -1340,3 +1340,8 @@
 - عُدّلت فقرات النطاق للخدمتين 5 «تصميم الحمامات» و6 «توزيع الأثاث» في `interior-design/interior-materials/content-ar.md` و`content-en.md`، مع التحقق من إعادة القراءة بعد كل رفع.
 - راجع [العربية](./interior-design/interior-materials/content-ar.md) و[English](./interior-design/interior-materials/content-en.md) و[تقرير التخصص](./interior-design/interior-materials/review.md).
 - **الحالة `in_progress`**: الأولوية تدقيق الخدمات 7–21 من التصميم الداخلي من حيث تكافؤ المدخلات والنطاق والاستلام، ثم بقية التخصصات الخمسين والخدمات الـ434 في كل لغة. لا انتقال إلى المويجعي قبل اكتمال تدقيق الجيمي. لا يُفهم حفظ الملفات كاعتماد نهائي.
+
+## متابعة تحريرية 2026-11-15 — الإشراف والاستشارات الهندسية
+
+- أُضيفت 7 ضوابط تطبيقية عربية و7 إنجليزية في `interior-design/engineering-supervision`، مع تحديث ملف مراجعة التخصص. تغطي نقاط التوقف والفحوص والتغيير والجودة والاستلام والتقدم والكميات ومقارنة العروض.
+- الحالة `in_progress`؛ نقطة الاستئناف: تدقيق الاتساق الفني والتكرار في `interior-design/interior-materials` للخدمات 7–21، ثم جرد بقية تخصصات الشركات في `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومراجعة شاملة لـ434 خدمة في كل لغة قبل المويجعي.

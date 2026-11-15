@@ -18,6 +18,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 **Quotation-request detail:** Attach the schedule of works due to be poured or concealed, drawing revision register, contractor programme and previous test results. Ask for a priced schedule of routine and urgent visits, inspection notice and response times, nonconformance report format, reinspection fees and responsibility for test costs; do not assume supervision includes design certification or construction responsibility.
 
+**Additional field-level comparison and acceptance check** Before a pour or waterproofing layer is concealed, request a hold-point register naming the element, location, drawing revision, inspection outcome and person authorised under the contract to release the work. Attendance is not a laboratory test: identify who orders, pays for and responds to failed tests.
+
 ## 2. Project management
 
 **When this matters:** Multiple contractors and long-lead materials require controlled decisions, procurement milestones and change records rather than a decorative timeline.
@@ -33,6 +35,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 **Quotation-request detail:** Ask for a coordination plan naming the person who approves procurement, the programme update frequency, how structural/MEP clashes are logged, and the manager's delegated variation authority. Disclose occupied premises or restricted working hours and request separate fees for extra visits and delays awaiting owner decisions.
 
 **Independent technical check:** Link critical activities to actual delivery dates and material or drawing approvals; distinguish supply delays from owner decision delays. Require a written variation process before any cost or programme change is treated as approved.
+
+**Additional field-level comparison and acceptance check** Link the programme to material approvals, shop drawings and change requests rather than relying on a single completion percentage. Require a decision log recording each variation's time and cost implications and approver, separating approved changes from unresolved claims.
 
 ## 3. Workmanship quality review
 
@@ -50,6 +54,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 **Independent technical check:** Request a sampling plan specifying test locations, sample counts, measuring instruments and calibration status, and whether conclusions rely on visual review or laboratory results. Visible dampness alone does not establish the source of a leak.
 
+**Additional field-level comparison and acceptance check** Agree benchmark finish samples, sampling locations, test methods and defect acceptance criteria before inspections begin. Photos alone cannot verify concealed work; require test reports, traceable locations and evidence of reinspection after rectification.
+
 ## 4. Stage-by-stage project acceptance
 
 **When this matters:** Foundations before backfilling, reinforcement before pouring and services before enclosure each need a distinct hold point; key handover is different.
@@ -65,6 +71,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 **Quotation-request detail:** Provide the planned pour, backfill and enclosure dates. Request written hold points before concealment, inspector notice periods and the limits of each visit. Specify who records reservations, arranges reinspection and collates photographs and laboratory results before the next stage proceeds.
 
 **Independent technical check:** Link each stage acceptance form to an inspection request number, test results and pre-cover photographs. Keep conditional acceptance separate from defect close-out, and do not present consultant sign-off as a substitute for authority approval.
+
+**Additional field-level comparison and acceptance check** Break handover into verifiable foundations, structure, waterproofing, services and finishes stages. For each, require a dated snag register assigning an owner and corrective deadline; state when stage sign-off is conditional and does not constitute acceptance of the entire project.
 
 ## 5. Construction progress reporting
 
@@ -82,6 +90,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 
 **Independent technical check:** Report installed work separately from materials stored on site, identify the reporting cut-off date and each item's weighting basis. Show unapproved variations separately from the baseline programme.
 
+**Additional field-level comparison and acceptance check** Ask reports to distinguish planned, executed and certified work, with dated photographic evidence, constraints and decisions needed from the owner. Compare consecutive reports using consistent measurement units so the same activity is not counted twice.
+
 ## 6. Quantity surveying and measurement
 
 **When this matters:** Comparable contractor bids require a traceable bill of quantities; variations and interim valuations may require measured site quantities.
@@ -97,6 +107,8 @@ A practical preparation guide for owners commissioning engineering consultancy f
 **Quotation-request detail:** Provide a drawing revision register and the measurement boundary; clarify whether this is tender take-off, interim valuation checking or on-site measurement. Request rules for openings, deductions and trade overlaps, and an editable schedule linking each item to a unit, drawing reference and explicit assumption.
 
 **Independent technical check:** Require a check for double-counted quantities at architectural, structural and MEP trade interfaces, documenting units and deductions for openings. Unmeasurable quantities should remain labelled assumptions rather than certified final figures.
+
+**Additional field-level comparison and acceptance check** Define the measurement unit, quantity source, opening deductions and waste treatment under the contract. Distinguish drawing quantities, verified as-built quantities and claims; require a documented variation and auditable measurement before accepting additions.
 
 ## 7. Contractor tender comparison
 
@@ -117,3 +129,6 @@ A practical preparation guide for owners commissioning engineering consultancy f
 ## Request a quotation through Biet Al Reef
 
 Share the Al Jimi site location, project stage, current drawing revisions, dated photos, intended deliverables and preferred timing. Biet Al Reef customer service can help structure the enquiry and seek a suitable company without guaranteeing availability, price, date or authority approval.
+
+**Additional field-level comparison and acceptance check** Use a common tender comparison schedule covering materials, alternatives, tests, permits, exclusions, warranties and programme. Request separate prices for omissions; do not compare headline totals until differences have been normalised or explicitly recorded.
+

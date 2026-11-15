@@ -97,3 +97,34 @@ If no published company is listed, send an enquiry including your name, contact 
 ## Separate tradespeople directory
 
 Stone preparation, kitchen worktop preparation and panel cutting remain separate tradespeople categories; they are not automatically added as company services here.
+
+## Timber and boards
+
+### 22. MDF board supply
+
+Specify board thickness, density and moisture-resistance grade for the application, with sheet size, count and cutting direction. Inspect flatness, edges and batch labels; standard MDF is not an automatic substitute for moisture-resistant board.
+
+### 23. Solid timber supply
+
+Specify timber species, cross-section, length and indoor or outdoor use; ask about seasoning and suitable moisture content. Compare grade, warping, knots and actual quantities, inspecting pieces before acceptance.
+
+### 24. Plywood supply
+
+State plywood thickness, construction or grade and exposure conditions, particularly moisture. Check bonding specification, face quality and sheet dimensions; inspect delamination and warping on delivery.
+
+### 25. Melamine-faced board supply
+
+Specify core material, thickness, décor code, surface texture and sheet count. Match edge-banding colour and batches; inspect scratches and lifting laminate on receipt.
+
+### 26. HPL laminate supply
+
+Distinguish thin HPL sheets for lamination from compact panels, and state thickness, colour and performance requirements. Request bonding and substrate guidance; inspect colour, edges and faces before fabrication.
+
+### 27. Joinery hardware supply
+
+Prepare a schedule of hinges, drawer runners, handles and locks with dimensions, load ratings and opening direction. Request samples where critical, compare closing mechanisms and warranties, and verify quantities and model compatibility.
+
+### 28. Board cutting and preparation
+
+Send a numbered cut list with length, width, thickness, grain direction, edge-banding requirements and saw kerf allowances. Approve the cutting layout before fabrication; check dimensions, squareness and piece labels at collection.
+

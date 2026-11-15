@@ -1,9 +1,8 @@
 # Musaffah — general-contracting editorial review
 
-- Status: `in_progress`; specialties 1–5 of 6 drafted.
-- GitHub re-fetch verified 2026-11-15: 49/56 numbered service sections in each language, sequential 1–49 without gaps.
-- Specialty 1 إنشاء المباني والفلل: 1–14; specialty 2 الترميم والتجديد: 15–21; specialty 3 الهدم والأعمال الخرسانية: 22–28; specialty 4 تنسيق الحدائق وصيانتها: 29–42; specialty 5 شبكات الري: 43–49.
-- Next specialty: المظلات والأعمال الخارجية, service 50 تركيب مظلات السيارات; 7 services remain in this sector.
-- Landscaping, irrigation and outdoor work are currently non-selectable in source taxonomy; editorial descriptions do not activate them.
-- No companies, prices or availability asserted. Customer-service quotation intake remains available without a published provider. Craftspeople taxonomy remains separate.
-- Independent technical, regulatory and language review required before publication.
+- Status: sector draft complete; 6/6 specialties and 56/56 services in Arabic and English.
+- Re-fetched both GitHub content files on 2026-11-15; numbered headings 1–56 are continuous and equal in both languages.
+- Specialty ranges: إنشاء المباني والفلل 1–14; الترميم والتجديد 15–21; الهدم والأعمال الخرسانية 22–28; تنسيق الحدائق وصيانتها 29–42; شبكات الري 43–49; المظلات والأعمال الخارجية 50–56.
+- Landscaping, irrigation and external works include currently non-selectable taxonomy categories; content does not activate them.
+- No invented providers, prices or availability; quotation requests can be routed through Biet Alreef customer service without a published provider. Craftspeople remain separate.
+- Independent technical, regulatory and bilingual editorial review required before publication.

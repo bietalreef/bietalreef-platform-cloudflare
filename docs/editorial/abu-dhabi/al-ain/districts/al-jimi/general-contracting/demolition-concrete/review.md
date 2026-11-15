@@ -19,3 +19,5 @@ Next: `general-contracting/landscaping` (Arabic, English, review), then irrigati
 2026-11-14 safety check: added matching Arabic/English instructions to stop ordinary demolition where asbestos or other hazardous materials are suspected and obtain specialist assessment and compliant removal. This is precautionary guidance, not a claim that such materials are present at any Al Jimi site.
 
 2026-11-14: Added seven distinct service-specific RFQ sections in each language, covering quantities, access, separately priced exclusions, permits, inspection hold points and waste handling. Both language files were read back from the target branch. Area remains `in_progress`; no claim of complete semantic audit.
+
+2026-11-15 — Expanded all seven service-specific handover checks in Arabic and English: demolition boundaries and retained elements; annex separation and concealed junctions; coring schedule and reinforcement scans; foundation pre-cover records; slab propping release; wall defects and waterproofing; lawful waste transfer. Professional approvals remain necessary; area status `in_progress`.

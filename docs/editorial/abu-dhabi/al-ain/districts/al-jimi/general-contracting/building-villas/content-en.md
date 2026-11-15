@@ -22,7 +22,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 **Compare quotations and agree boundaries:** Compare shell-and-core versus fully finished unit pricing, common-area finishes, mechanical and electrical systems, testing, commissioning and authority-related exclusions. Assign responsibility for coordinating lift, ventilation and fire-safety tests, and for resolving conflicts between apartment services and shared risers before ceilings and walls are closed.
 
-**Inspection and acceptance:** Inspect communal plant and service shafts, lift and safety-system commissioning records, apartment interfaces and the defects register for shared spaces.
+**Inspection and acceptance:** Before closing service shafts and suspended ceilings, compare riser routes, access hatches and maintainable equipment clearances with coordinated drawings and inspection records. At handover, check corridor lighting, shared ventilation, pumps, isolation valves and control-panel access; obtain the required lift and life-safety test records from qualified parties and relevant authorities. Log defects by common area and require documented retesting rather than treating a visual walk-through as statutory approval.
 
 **Quote request:** Ask bidders to price apartment units separately from lifts, stairwells, parking, common MEP systems and authority testing, identifying tenant-fit-out exclusions.
 
@@ -34,7 +34,7 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 **Compare quotations and agree boundaries:** Distinguish base-building work from tenant fit-out, signage, specialist ventilation and utility upgrades. Record the intended use of each commercial floor, responsibility for fire-safety and exit approvals, the testing of tenant service connection points and the agreed handover stages. Require a written schedule of finishes and interfaces.
 
-**Inspection and acceptance:** Verify agreed clearances, delivery routes, exit arrangements and shell-and-core connection points against the approved drawings and inspection records.
+**Inspection and acceptance:** Measure clear shop heights, delivery-door widths, service corridors and façade openings against approved drawings. Confirm that each tenancy has its agreed electrical, water, drainage and ventilation connection points, with test records and applicable fire-stopping at penetrations. Record whether handover covers the base building only; tenant fit-out and any separate approvals must not be silently treated as complete.
 
 **Quote request:** Provide intended tenant uses and request separate shell-and-core, loading-bay, fire-system interface and future fit-out allowances.
 

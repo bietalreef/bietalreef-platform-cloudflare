@@ -4,6 +4,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 ## 1. Car shade installation
 
+**Detailed contract terms:** Specify foundations, anchors and buried-utility checks.
+
 **Service-specific quotation request:** Attach a parking sketch showing vehicle count, entrance levels and proposed posts. Ask for separate prices for underground-service checks, foundations, frame, covering, drainage and paving reinstatement, and identify who handles design and permits.
 
 **When needed and evidence for pricing:** Specify the number and size of vehicles, door-opening space and entry clearance. Photograph the parking area, gate, proposed posts and drainage; locate buried services before excavation.
@@ -13,6 +15,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; compare anchor locations and quantities with the approved design, request foundation photos before concealment and a competent fixing-inspection record, and obtain material and finish warranties.
 
 ## 2. Pergola construction
+
+**Detailed contract terms:** Approve pergola structure and drainage fall; separate lighting.
 
 **Service-specific quotation request:** Send seating dimensions, fixing-point photos and sun orientation. Request distinct open-slat and roofed options specifying member and anchor materials, finish, load verification and excluded electrical works.
 
@@ -24,6 +28,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 ## 3. Outdoor seating construction
 
+**Detailed contract terms:** List included furniture, waterproofing and service connections.
+
 **Service-specific quotation request:** Specify the seating footprint, fixed-seat count and circulation width. Request a bill separating foundations, paving, fixed benches, shade and lighting, and identify excluded furniture and water/power connections.
 
 **When needed and evidence for pricing:** State occupancy, intended use, entrances and privacy needs; sketch seating and circulation. Photograph floor conditions and any required power or water points.
@@ -33,6 +39,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Handover inspection:** Test safe circulation, fixed seating, switch locations and cleanability; check that runoff does not discharge onto seating or walkways, and that exits remain unobstructed.
 
 ## 4. External fence installation
+
+**Detailed contract terms:** Document boundaries, posts, gates and permit responsibility.
 
 **Service-specific quotation request:** Attach the approved plot-boundary plan, fence lengths, gate positions and level changes. Ask for separate allowances for boundary verification, permissions, foundations, gates, removal of the old fence and waste disposal.
 
@@ -44,6 +52,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 ## 5. Garden pathway construction
 
+**Detailed contract terms:** Specify sub-base layers, path falls and drainage.
+
 **Service-specific quotation request:** Provide the pathway route, usable width, threshold levels and photos of roots and irrigation points. Request the sub-base, compaction, edging, falls, root protection, irrigation diversion and final drainage test as distinct items.
 
 **When needed and evidence for pricing:** Sketch the walking route from gate to entrances, noting usable width, levels, irrigation and existing trees. Photograph ponding and thresholds.
@@ -54,6 +64,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 ## 6. Interlock paving
 
+**Detailed contract terms:** Approve interlock sample, joints and settlement remedy.
+
 **Service-specific quotation request:** State the paved area and whether pedestrians or vehicles will use it; photograph settlement and service covers. Request specified paver thickness, base layers, compaction, removal, cover adjustment, edge restraints and a settlement-remedy warranty.
 
 **When needed and evidence for pricing:** Measure the area in square metres, state pedestrian or vehicle loading, and photograph soil, previous settlement, service covers and door thresholds.
@@ -63,6 +75,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Handover inspection:** Check consistent joints, stable edges, no movement under expected loads and no standing water after an appropriate test; check that service covers finish flush without preventing maintenance access.
 
 ## 7. Water features and fountains
+
+**Detailed contract terms:** Separate pumps, waterproofing and lighting; test electrical safety.
 
 **Service-specific quotation request:** Supply basin dimensions, site photos, utility locations and child-access information. Request a water-circulation plan, pump, filtration, waterproofing and electrical safeguards, with separate excavation, commissioning, leak testing and maintenance instructions.
 

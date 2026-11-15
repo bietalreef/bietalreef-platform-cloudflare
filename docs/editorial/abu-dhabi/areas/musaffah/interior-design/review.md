@@ -1,9 +1,9 @@
 # Musaffah — interior-design editorial review
 
-- Status: `in_progress`, specialties 3/4 drafted, 28/49 services in each language.
-- Completed: التصميم المعماري والمخططات (1–14), التصميم الإنشائي (15–21), الإشراف والاستشارات الهندسية (22–28).
-- Next: التصميم الداخلي والمواد, service 29 تصميم المجالس.
-- Service 22–28 texts address site supervision, project management, quality checks, stage acceptance, progress evidence, measurement and bid comparison with separate, auditable deliverables.
-- Arabic and English files re-fetched from GitHub; headings 1–28 sequential in both languages.
-- Quotation reception by Biet Alreef customer service is independent of provider publication. Craftspeople remain separate.
-- Human structural, regulatory and bilingual editorial review required before any publication.
+- Status: sector draft completed; 4/4 specialties and 49/49 services in Arabic and English.
+- Architectural design and drawings: 1–14; structural design: 15–21; supervision and engineering consultancy: 22–28; interior design and materials: 29–49.
+- New interior content addresses room-specific measurements, service coordination, materials, procurement comparisons, technical deliverables and acceptance checks. No invented providers, prices or availability.
+- Both GitHub files were re-fetched after writing; service headings are sequential 1–49 in both languages.
+- Biet Alreef customer service receives RFQs even without a published company; individual craftspeople remain separate.
+- No authority approval is asserted. Any activity-specific regulatory requirement must be verified by the responsible professional before publication.
+- Human technical and bilingual review required before publication.

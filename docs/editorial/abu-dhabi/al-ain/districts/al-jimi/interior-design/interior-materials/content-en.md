@@ -126,6 +126,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional execution review:** Provide headcount by team, meeting-room capacities, printer and storage locations, and data outlets. Request a plan showing meeting privacy and a visitor route from reception that avoids restricted work areas; identify the specialist responsible for reviewing safety and egress before execution. Accept the design against the seating and services schedule. Furniture procurement and network installation are not included without agreement.
 
+**Additional coordination check before design sign-off:** Separate occupied workstations from spare seating; verify chair pull-back clearance and have the responsible specialist review escape routes before approving the office layout.
+
 ## 9. Retail store design
 
 
@@ -144,6 +146,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional execution review:** Document product types, shelf dimensions, display loads, customer entry, checkout and stockroom routes. Ask for display elevations and coordinated lighting, exits and equipment, with structural-load and safety checks assigned to qualified specialists before installation. Compare proposals by display details, circulation and approval stages. Verify measured drawings; shelf supply and point-of-sale installation are separate unless contracted.
 
+**Additional coordination check before design sign-off:** Require entrance-to-display sightlines, back-of-house storage and restocking routes; drawings alone do not certify safety or licensing compliance.
+
 ## 10. Restaurant and café design
 
 
@@ -161,6 +165,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Acceptance and quotation enquiry:** Review service circulation, tables, kitchen interface, waiting areas and required connections before approval. For a comparable design quotation, provide seating capacity, service flow, food-preparation equipment and ventilation; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 **Additional execution review:** Provide the operational brief: seat count, service model, food preparation, washing and storage zones, and staff and order movement. Clarify coordination boundaries with ventilation, drainage and fire-safety specialists; interior layouts are not a substitute for their technical reviews. Compare bids by circulation and services drawings and revision rounds. Check conflicts between customer circulation and food movement before approving the design.
+
+**Additional coordination check before design sign-off:** Check separation of staff movement from food service, handwashing positions and ventilation coordination; refer health and safety compliance to the responsible authority.
 
 ## 11. Salon design
 
@@ -181,6 +187,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 11:** Before approving the salon layout, state the number of service chairs and wash stations, the staff circulation route, and photograph water, drainage, socket and ventilation points. Require clearances around chairs, waiting space and product storage. Compare design quotes on service-point coordination, not renders alone. Check station positions against the site at handover and identify plumbing, electrical work and operating approvals excluded from the design fee.
 
+**Additional coordination check before design sign-off:** Document wash stations, chemical storage, work-area ventilation and moisture-resistant surfaces; drawings are not a facility compliance approval.
+
 ## 12. Clinic design
 
 
@@ -199,6 +207,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 
 **Additional practical review — service 12:** Provide the intended use of each consultation room, reception and waiting area, including circulation routes, without treating the concept as healthcare approval. Separate finishes design from medical equipment, specialist ventilation and statutory reviews by qualified parties. Compare drawing deliverables and coordination responsibilities. Check door clearances, cleanable surfaces and equipment positions with the appropriate specialist before accepting the layout.
+
+**Additional coordination check before design sign-off:** Define waiting, examination, privacy and accessible circulation zones; have applicable clinic requirements reviewed by an appropriately authorised specialist.
 
 ## 13. Exhibition design
 
@@ -219,6 +229,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 13:** Record exhibition floor dimensions, ceiling height, loading access, power supplies and hanging points. Ask whether the fee includes visitor-flow plans, display-base and lighting details, fabrication information or renders only. At design handover check entry and exit paths and maintenance access. Load capacity, fire safety and physical installation require independent specialist verification rather than relying on a 3D image.
 
+**Additional coordination check before design sign-off:** Compare proposals by display-unit loads, fixing methods, visitor circulation and dismantling plans; distinguish safety approval from visual concept design.
+
 ## 14. Reception area design
 
 
@@ -237,6 +249,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 
 **Additional practical review — service 14:** Photograph the approach from the entrance to reception, and document expected visitor volume, queue space, waiting and privacy needs. Compare layouts for entrance visibility, accessible circulation, transaction counter space and document storage. Specify whether signage and data points are included. Test a visitor arrival and check-in scenario against the proposed plan before approving the design.
+
+**Additional coordination check before design sign-off:** Test queue movement, reception positioning and access without exposing visitor information; specify who provides data connections and equipment.
 
 ## 15. Flooring selection
 
@@ -257,6 +271,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 15:** Identify room use, expected moisture, subfloor condition and door thresholds before selecting flooring. Ask for physical samples, floor build-up thickness, joints and edge transitions. Compare proposals on substrate preparation, levelling or waterproofing assumptions, cutting waste and installation responsibility—not product names alone. At design sign-off check threshold levels and transitions; site moisture testing and installation are separate unless contracted.
 
+**Additional coordination check before design sign-off:** Request physical samples and assess slip resistance in wet areas; verify level changes and thresholds before confirming flooring choices.
+
 ## 16. Paint colour selection
 
 
@@ -275,6 +291,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 
 **Additional practical review — service 16:** Photograph walls in daylight and artificial light and record existing flooring and fixed furniture colours. Request precise paint codes and agreed on-wall sample locations; phone images are not final colour references. Compare the number of options, sample trials and revisions. Assign sample provision, surface preparation and painting separately, then verify approved codes against the room schedule.
+
+**Additional coordination check before design sign-off:** Review colour samples under daylight and artificial light in the actual space; record colour reference, sheen and paint system before ordering.
 
 ## 17. Stone and tile selection
 
@@ -295,6 +313,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 17:** Measure surfaces, openings and drains and photograph corners and junctions before choosing stone or tiles. Request a setting-out plan, vein direction, joint width, edge details and samples from the proposed batch. Compare design deliverables while separating slab purchasing, cutting waste, waterproofing and fixing. At handover match material codes and drawings to physical samples rather than photographs.
 
+**Additional coordination check before design sign-off:** Check variation between stone slabs, tile calibration, laying direction and joint layout; do not rely on catalogue photographs alone.
+
 ## 18. Furniture selection
 
 
@@ -313,6 +333,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 
 **Additional practical review — service 18:** Supply room, lift and doorway dimensions, user numbers and a list of furniture to retain. Require a furniture schedule with sizes, materials, colours, model references and acceptable alternatives. Compare fees by item count and revision rounds, not purchasing prices. Check circulation, drawer and door clearance and delivery access; selection is distinct from supply, warranty and assembly.
+
+**Additional coordination check before design sign-off:** Check whether furniture dimensions permit delivery through doors and lifts; document fabric type, cleaning requirements and lead time for custom pieces.
 
 ## 19. Lighting selection
 
@@ -333,6 +355,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 19:** Identify tasks in each area, ceiling heights, screen glare, reflective finishes, existing switches and circuits. Request a luminaire schedule with specifications, placement, control methods and proposed scenes. Compare stated lighting assumptions and electrical coordination. At handover check fittings against air-conditioning outlets and ceiling details; a lighting concept is not an electrical safety inspection.
 
+**Additional coordination check before design sign-off:** Review colour temperature, glare control, maintenance access and circuit layout with the electrical specialist; separate luminaire selection from wiring.
+
 ## 20. Materials mood board
 
 
@@ -352,6 +376,8 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 20:** Collect physical flooring, paint, fabric, metal and timber samples under comparable light, with supplier codes rather than reference images alone. Ask the board to identify each material's intended location, alternatives and sample availability. Agree who authorises substitutions. At acceptance reconcile codes with room drawings; a mood board is not a quantity schedule, purchase order or availability guarantee.
 
+**Additional coordination check before design sign-off:** Link each sample to a code, supplier, acceptable alternative and intended location; a mood board is neither a purchase order nor approval of execution quantities.
+
 ## 21. Finishes schedule
 
 
@@ -370,3 +396,4 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Additional practical review — service 21:** Provide room numbers, current drawing revisions and approved material codes. Require a schedule connecting each surface to its location, finish type, drawing reference and sample. Compare the level of detail and revision-control procedure, including responsibility for resolving drawing conflicts. At handover spot-check rooms, ceilings and edges; schedule preparation does not include final measured quantities, procurement or installation.
 
+**Additional coordination check before design sign-off:** Require revision numbers for finishes schedules and link them to current drawings; resolve code conflicts before ordering and do not treat quantities as final without site measurement.

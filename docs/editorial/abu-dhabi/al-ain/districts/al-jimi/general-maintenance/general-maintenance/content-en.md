@@ -87,7 +87,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare diagnostic criteria, joint preparation, filler and observation period.
 
-**Handover checks:** Inspect adhesion and finish; retain monitoring records where movement is possible.
+**Handover checks:** Check repair adhesion and finish against dated, scaled crack photographs and reference measurements. Concealing a crack with paint is not evidence of structural safety; keep monitoring records and refer renewed movement for competent assessment before accepting cosmetic closure.
 
 **Quotation request details:** Provide dated crack photographs with a scale; ask when structural assessment is required before cosmetic repairs.
 
@@ -117,7 +117,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare minimum call-out, labour hours, travel and unresolved-fault policy.
 
-**Handover checks:** Test each completed item and record unfinished tasks.
+**Handover checks:** Demonstrate each task with the contractor and record its result separately, including missing parts and items needing a return visit. Do not close the entire visit while unresolved items lack a reason and a clear follow-up or cost arrangement.
 
 **Quotation request details:** Send an itemised task list with locations; confirm minimum labour hours, call-out charge and parts policy.
 
@@ -132,7 +132,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare rail lengths, brackets, substrate anchors and old-hole making good.
 
-**Handover checks:** Operate curtains end to end; verify level rail and secure fixings.
+**Handover checks:** Run curtains along the full track and check clearance from AC units and window opening, as well as bracket security. For motorised curtains, test controls separately from structural fixing; reject exposed cables or unsupported gypsum fixings.
 
 **Quotation request details:** Supply opening width, fixing height, wall type and curtain/rail photos; separate supply from installation.
 
@@ -147,7 +147,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare board thickness, brackets, rated loads and hole finishing.
 
-**Handover checks:** Check level and stability with an agreed safe test load.
+**Handover checks:** Check each shelf for level and anchor stability in the actual substrate, then use only a safe agreed test load within the manufacturer's limits. Record the permitted load for the user; never test by standing on a shelf or shock-loading it.
 
 **Quotation request details:** Provide shelf lengths, expected loads and wall construction; request bracket, anchor and rated-load specifications.
 
@@ -162,7 +162,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare bracket rating, anchors and responsibility for protecting the screen.
 
-**Handover checks:** Verify bracket security, articulation, cable slack and screen operation.
+**Handover checks:** Verify that anchors engage a suitable supporting substrate rather than weak cladding. Test the full bracket movement without trapping cables or hitting furniture, power on the screen and confirm ventilation; record bracket rating and anchor type.
 
 **Quotation request details:** Supply screen weight, VESA pattern, wall type and outlet photo; specify bracket and cable-routing responsibility.
 
@@ -177,7 +177,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare corrosion-resistant fixings, drilling method and sealing.
 
-**Handover checks:** Check alignment and firmness without cracked tile or unsealed penetrations.
+**Handover checks:** Check alignment and secure attachment under gentle normal-use loading; inspect tile edges and sealing at fixings near water. Document and properly remedy any suspected waterproofing penetration before acceptance rather than hiding it beneath the accessory cover.
 
 **Quotation request details:** List each accessory with fixing-location photos; clarify tile/waterproofing protection and who supplies fittings.
 
@@ -192,7 +192,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare unit count, assembly labour, packaging disposal and damage responsibility.
 
-**Handover checks:** Test doors, drawers and stability; check unused hardware and anchoring instructions.
+**Handover checks:** Run drawers and doors through their full travel, inspect alignment and fasteners, and follow manufacturer anti-tip anchoring instructions for tall units. Record missing or damaged parts before discarding packaging; do not accept completion where mandatory anchoring remains undone.
 
 **Quotation request details:** Supply furniture model numbers, carton counts and assembly instructions; clarify moving, anchoring and packaging disposal.
 

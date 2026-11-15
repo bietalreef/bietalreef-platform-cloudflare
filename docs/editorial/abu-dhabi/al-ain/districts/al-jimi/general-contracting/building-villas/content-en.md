@@ -4,7 +4,7 @@ This is planning information for owners and project teams, not a statement that 
 
 ## 1. Villa construction
 
-A family planning a villa should settle bedroom count, majlis access, parking and privacy before asking builders to price a design.
+This service covers the overall villa construction contract and its design, structural, finishing and handover responsibilities; the separate new-villa service focuses on early layout, privacy and shading choices. A family planning a villa should settle bedroom count, majlis access, parking and privacy before asking builders to price a design.
 
 **What to document and measure:** Provide plot boundaries, approved architectural and structural drawings where available, floor areas, soil report and site-access photographs. Mark road-to-plot level differences, excavation close to neighbours, and mixer and concrete-pump access. Ask for separate allowances for foundations, shell, waterproofing, finishes and utility connections.
 
@@ -88,7 +88,7 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 ## 8. New villa construction
 
-A new villa allows early coordination of sunlight, privacy, circulation and future family requirements before structural decisions are fixed.
+This service focuses on defining the brief and design options before they are fixed, while “Villa construction” addresses the overall contracting, delivery and handover responsibilities. A new villa allows early coordination of sunlight, privacy, circulation and future family requirements before structural decisions are fixed.
 
 **What to document and measure:** Send the accommodation brief, site survey, preferred room relationships, parking needs and available approved plans; note possible future extensions.
 
@@ -104,7 +104,7 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **What to document and measure:** Show the proposed footprint, distance to the main house, existing utilities, boundary constraints and photographs of the proposed connection points.
 
-**Compare quotations and agree boundaries:** Compare independent foundations against a connection specifically designed and approved by the responsible engineer; do not assume the existing structure can carry new loads. Itemise waterproof junctions, drainage and electrical tie-ins, air conditioning, permits, excavation around buried services and reinstatement of affected paving.
+**Compare quotations and agree boundaries:** Compare independent foundations with connections designed and reviewed by a qualified engineer; never presume the old structure can take additional loads. Itemise buried-service investigation, excavation, waterproof joints, drainage, power and cooling tie-ins, and paving reinstatement. Specify who prepares annex drawings, submits any required approvals and pays associated fees; excavation and connections must await applicable approvals.
 
 **Inspection and acceptance:** Inspect the junction with the existing house, waterproof joints and runoff away from foundations; test electrical, drainage and cooling connections. Record reinstatement of disturbed paving and utilities with the supervising engineer before closing interfaces.
 
@@ -116,7 +116,7 @@ A detached majlis needs comfortable guest circulation, private access, cooling a
 
 **What to document and measure:** Record guest capacity, entry route, seating layout, floor levels, outdoor exposure, AC needs and proposed sanitary connections.
 
-**Compare quotations and agree boundaries:** Compare shading, thermal and acoustic insulation, cooling capacity, doors and glazing, washroom drainage, pantry provision and external paving. Distinguish fixed joinery from loose furniture, and specify who tests the AC and drainage systems before handover.
+**Compare quotations and agree boundaries:** Separate structure, thermal and acoustic insulation, cooling, finishes, sanitary and pantry fittings, fixed joinery and loose furniture. Agree who prepares majlis plans, obtains applicable construction or addition approvals, and provides external utility connections; record AC and drainage commissioning responsibilities.
 
 **Inspection and acceptance:** Walk the guest entrance and service routes, operate doors and cooling, test washroom and pantry drainage, and inspect water-tightness where roof, glazing and shade structures meet before accepting the external works.
 
@@ -128,7 +128,7 @@ Adding a room or floor to an existing villa requires checking the old structure 
 
 **What to document and measure:** Provide as-built plans if available, photographs of columns and roof junctions, the intended extra area and an assessment by a qualified structural engineer.
 
-**Compare quotations and agree boundaries:** Request a qualified structural assessment and approved design before selecting the connection method. Compare investigation, temporary supports, any engineer-approved strengthening, new foundations or framing, waterproof joints, utility diversions and reinstatement as separate cost items; never assume the old structure has spare capacity.
+**Compare quotations and agree boundaries:** Separate specialist structural assessment, design, applicable approvals, temporary supports, engineer-approved strengthening, new foundations or framing, waterproof junctions, diverted utilities and reinstatement. Name the party responsible for drawing submissions and approvals before removal or strengthening, and agree concealed-connection inspection hold points. Do not promise a fixed structural connection before assessment.
 
 **Inspection and acceptance:** Obtain inspection records for engineered connections and temporary supports under the approved design; inspect movement and waterproof joints between old and new construction and test diverted services. Visual inspection alone cannot establish structural adequacy.
 
@@ -140,7 +140,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 **What to document and measure:** Mark walls to remove or build on before-and-after plans; photograph ceilings, risers and any suspected load-bearing members.
 
-**Compare quotations and agree boundaries:** Separate intrusive investigation, identification and safe isolation of concealed services, approved demolition, debris routes, new partitions, fire-stopping and reinstatement. Confirm whether the building is occupied, how shared services will be protected and which structural alterations require a qualified engineer's design and authority approval.
+**Compare quotations and agree boundaries:** Separate investigation of load-bearing walls and hidden services, safe utility isolation, permitted demolition, debris routes, new partitions, fire-stopping and reinstatement. Identify who arranges engineering review, drawings and applicable authority approvals before structural or escape-route changes, how occupied units are protected, and how restored utilities and fire-stopping will be tested.
 
 **Inspection and acceptance:** Check new partitions and openings against approved alterations, test isolated and restored utilities, verify required acoustic separation and fire-stopping at penetrations, and confirm shared corridors are clean and accessible.
 
@@ -148,7 +148,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 ## 13. Villa restoration
 
-Restoration should address the cause of cracking or dampness, not merely cover its appearance with new paint.
+This service treats villa restoration as a coordinated project across structure, waterproofing and finishes; the separate restoration-and-renovation specialty may be more appropriate for an individual defect or element without assuming a whole-villa project. Restoration should address the cause of cracking or dampness, not merely cover its appearance with new paint.
 
 **What to document and measure:** Photograph defects with dates and scale references, note previous repairs and leaks, and seek a specialist assessment for suspected structural distress.
 

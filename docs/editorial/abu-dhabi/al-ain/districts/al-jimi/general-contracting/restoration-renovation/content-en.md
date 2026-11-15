@@ -84,9 +84,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Handover checks:** Witness essential-system operation and receive closed defect records, keys and agreed documents. Witness essential systems operating and collect keys, closed defects and equipment documentation.
 
+**Request a quotation:** Attach an equipment and defect register, meter readings, panel and valve locations and any maintenance records. Request separate prices for readiness tests, critical repairs, cleaning and witnessed restart, with clear repair exclusions and delivery of keys and records.
+
 ## Request a quote with Biet Al Reef
 
 Specify the service, Al Jimi site location, condition photographs, dimensions and available reports. Biet Al Reef customer service may help structure the request and look for a company; availability, pricing and dates are not guaranteed.
-
-**Request a quotation:** Attach an equipment and defect register, meter readings, panel and valve locations and any maintenance records. Request separate prices for readiness tests, critical repairs, cleaning and witnessed restart, with clear repair exclusions and delivery of keys and records.
-

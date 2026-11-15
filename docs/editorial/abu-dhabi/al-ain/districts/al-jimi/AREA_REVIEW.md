@@ -1328,3 +1328,9 @@
 - **الحالة: `in_progress`**؛ عُززت الخدمات السبع في التصميم الإنشائي بملاحظات فنية خاصة بكل خدمة بالعربية والإنجليزية، وأعيدت قراءة ملفات المحتوى والمراجعة من GitHub للتحقق.
 - الملفات: [العربية](./interior-design/structural-design/content-ar.md) · [English](./interior-design/structural-design/content-en.md) · [المراجعة](./interior-design/structural-design/review.md).
 - **النواقص التالية بالترتيب:** تدقيق تكرار فقرات المقاسات والاستلام في `interior-design/architectural-plans` للخدمات 1–14، ثم تدقيق نطاق الاتفاق والتكافؤ الفني في `interior-design/structural-design` 1–7، ثم `interior-design/engineering-supervision` 1–7 (التحقق من slug) و`interior-design/interior-materials` 1–21؛ ثم بقية تخصصات الشركات عبر القطاعات الثمانية وجرد 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## 2026-11-15 — تدقيق القياسات والاستلام للتصميم المعماري والمخططات
+
+- **الحالة: `in_progress`**. استبدلت العبارات العامة المتكررة في المعاينة وفحص الاستلام للخدمات الأربع عشرة بنصوص خاصة بكل خدمة في [العربية](./interior-design/architectural-plans/content-ar.md) و[الإنجليزية](./interior-design/architectural-plans/content-en.md)، دون تغيير أسماء الخدمات أو ترتيبها. أُعيدت قراءة الملفين من الفرع بعد الرفع وتطابق المحتوى.
+- **نقطة الاستئناف الدقيقة:** تدقيق نطاق الاتفاق والتكافؤ الفني للخدمات 1–7 في `interior-design/structural-design`، ثم `interior-design/engineering-supervision` الخدمات 1–7، ثم `interior-design/interior-materials` الخدمات 1–21، ثم بقية التخصصات؛ تدقيق شامل للخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.

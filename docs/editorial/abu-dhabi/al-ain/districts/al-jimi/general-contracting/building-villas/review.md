@@ -88,3 +88,10 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Reworked all eight acceptance checks in both languages: turnkey commissioning and snags; new-villa dimensions and drainage; annex interfaces; outdoor majlis cooling and drainage; engineer-reviewed villa extensions; residential alterations and fire-stopping; villa restoration diagnostics; occupied-building phased handover.
 - Read back both saved language files from the target branch; each retains 14 numbered service headings. This is not a final service-by-service semantic, safety, or originality certification. Next: compare all 14 services end to end, then remaining company specialties and 434 bilingual services.
+
+## تدقيق بنيوي ثنائي اللغة لجميع الخدمات — 2026-11-15
+
+- فُحصت ملفات المحتوى المحفوظة في الفرع نفسه، خدمةً بخدمة، من 1 إلى 14. تطابق عدد الأقسام وترتيبها بين العربية والإنجليزية (14/14)، وتوجد لكل خدمة خمسة عناصر تحريرية: السياق والنطاق، البيانات والمقاسات، المقارنة والاتفاق، فحص الاستلام، وطلب عرض السعر. في الإنجليزية يظهر سياق الحاجة في الفقرة الافتتاحية دون عنوان مستقل.
+- جرى التحقق من وجود عناوين خدمات الشركات الأصلية الأربعة عشر بالعربية، ومن مقابلاتها الإنجليزية بالترتيب نفسه. هذه مراجعة بنيوية وليست إثباتًا أن كل معلومة فنية أو استثناء مطابق تمامًا بين اللغتين.
+- **نواقص فنية محددة قبل الاعتماد:** تدقيق التمييز التحريري بين «إنشاء الفلل» (1) و«بناء الفلل الجديدة» (8)، ومراجعة حدود التداخل بين «ترميم الفلل» (13) وتخصص الترميم والتجديد؛ مراجعة مسؤوليات التصاريح والتصميم والتنفيذ في الخدمات 9–12، وإثبات استثناءات الأعمال الخارجية والتوصيلات في خدمات 1 و7 و8. يجب مقارنة جميع فقرات الخدمات 1–14 يدويًا للتحقق من التكافؤ الدلالي والسلامة الفنية، وعدم تحويل الإرشادات إلى اعتماد هندسي.
+- **الحالة:** `editorial_rewrite_verified_pending_area_audit`؛ منطقة الجيمي `in_progress` حتى مراجعة بقية تخصصات الشركات والخدمات الـ434 بكل لغة، بما فيها المقيدة والمقترحة.

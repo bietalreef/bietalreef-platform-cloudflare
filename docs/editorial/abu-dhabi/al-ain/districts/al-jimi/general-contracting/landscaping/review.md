@@ -25,3 +25,7 @@
 ## 2026-11-14 — Service-specific quotation audit
 
 Added and read back 14 distinct quotation-request paragraphs in each language, one per original company/establishment service. The additions specify the relevant drawings, dimensions, samples, scope boundaries, comparative price items, and inspection or follow-up terms. Arabic names and sequence remain unchanged; this non-selectable category remains preparatory only. This specialty has not yet passed the full independent technical and semantic audit required for area approval.
+
+## 2026-11-15 — Acceptance-check revision
+
+Revised all 14 service-specific acceptance checks in Arabic and English, covering drawings and access, planted materials, irrigation, drainage, pruning safety, treatment records, waste clearance and maintenance logs. Both files were read back and matched. The category remains non-selectable and preparatory; final independent area-wide quality review remains pending.

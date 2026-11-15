@@ -96,7 +96,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 **Technical approval detail:** Record the drawing revision used for the renders, specify whether daylight and evening views are needed, and distinguish editable model delivery from final images. Log discrepancies between a render and the plan as design comments, not completed site changes.
 
 
-**When it is useful:** when the client needs to compare visual options before purchasing finishes. Define rooms, viewpoints, level of detail and whether the supplied drawings are approved or preliminary.
+**When it is useful:** when a flat plan cannot show how furniture proportions, lighting or finish combinations will feel before purchases are made. Supply the exact drawing revision, site photographs and approved material references; identify rooms, camera viewpoints, daylight or evening scenes and required output resolution. Ask for provisional design choices to be labelled rather than presented as approved construction details.
 
 **Photographs, dimensions and specifications:** supply plan, existing photos, colour references and requested views.
 
@@ -104,7 +104,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Comparing quotes and agreeing terms:** Specify render viewpoints, resolution, revision rounds and source-file inclusion; check drawing fidelity rather than comparing image fees alone.
 
-**Acceptance and quotation enquiry:** Compare delivered views with agreed camera angles and confirm materials and any differences from construction drawings. For a comparable design quotation, provide reference drawings, camera viewpoints, image resolution and revision allowance; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
+**Acceptance and quotation enquiry:** Match each view to the agreed camera position, drawing revision and material codes; check door openings, ceiling heights and luminaire positions. Record any illustrative-only feature or departure from the approved plans before accepting the package. For a comparable design quotation, provide reference drawings, camera viewpoints, image resolution and revision allowance; request stated deliverables, revision rounds and design fees separately from execution. Biet Al Reef customer service can help structure the enquiry without guaranteeing a firm, price or date.
 
 **Additional execution review:** Before pricing, define rooms, camera angles and image resolution, and link every view to a specific design drawing revision. Distinguish presentation renders from editable model files and construction drawings, which are not automatically included. Compare bids by view count, revision rounds and source-file delivery. At acceptance, check doors, lighting and finishes against the plan rather than visual appeal alone.
 

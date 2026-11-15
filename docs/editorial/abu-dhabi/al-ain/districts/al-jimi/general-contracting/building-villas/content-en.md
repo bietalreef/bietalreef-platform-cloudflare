@@ -82,7 +82,7 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 **Compare quotations and agree boundaries:** Compare named material ranges, substitution approval, warranties, commissioning, cleaning and final documentation. Identify owner-supplied items and any permit or utility exclusions.
 
-**Inspection and acceptance:** Walk through every room, operate installed systems, reconcile the snag list and collect manuals, test records and warranties before final settlement.
+**Inspection and acceptance:** Reconcile the approved finish schedule room by room; witness operation of the contracted AC, lighting, pumps and appliances with the responsible specialists. Record model numbers, warranties, commissioning results and outstanding snags, with an agreed remedy before final sign-off.
 
 **Quote request:** Attach a room-by-room completion schedule and ask bidders to itemise appliances, AC commissioning, utility activation, external works, warranties and handover documents.
 
@@ -94,7 +94,7 @@ A new villa allows early coordination of sunlight, privacy, circulation and futu
 
 **Compare quotations and agree boundaries:** Compare insulation and shading systems against stated performance specifications, and distinguish current works from future extension provisions. Separate design-development allowances from fixed construction quantities and clarify whether boundary works, external paving, pools and utility connections are included.
 
-**Inspection and acceptance:** Measure key rooms and openings against approved plans; inspect levels, drainage falls and finishes through agreed milestones.
+**Inspection and acceptance:** Measure rooms, openings and finished levels against approved drawings; inspect external drainage falls, specified waterproofing and shading, and collect system test and handover records rather than relying on finished photographs alone.
 
 **Quote request:** Ask for alternatives covering insulation and shading, future extension provisions, privacy, outdoor drainage and owner-supplied finishes.
 
@@ -106,7 +106,7 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **Compare quotations and agree boundaries:** Compare independent foundations against a connection specifically designed and approved by the responsible engineer; do not assume the existing structure can carry new loads. Itemise waterproof junctions, drainage and electrical tie-ins, air conditioning, permits, excavation around buried services and reinstatement of affected paving.
 
-**Inspection and acceptance:** Inspect joints, water run-off, utility testing and safe separation or integration with the existing building.
+**Inspection and acceptance:** Inspect the junction with the existing house, waterproof joints and runoff away from foundations; test electrical, drainage and cooling connections. Record reinstatement of disturbed paving and utilities with the supervising engineer before closing interfaces.
 
 **Quote request:** Send annex footprint and service tie-in photos; request separate investigation, permits, foundations, drainage connections and reinstatement allowances.
 
@@ -118,7 +118,7 @@ A detached majlis needs comfortable guest circulation, private access, cooling a
 
 **Compare quotations and agree boundaries:** Compare shading, thermal and acoustic insulation, cooling capacity, doors and glazing, washroom drainage, pantry provision and external paving. Distinguish fixed joinery from loose furniture, and specify who tests the AC and drainage systems before handover.
 
-**Inspection and acceptance:** Check guest access, door operation, air-conditioning performance, drainage falls and water-tightness of exposed joints.
+**Inspection and acceptance:** Walk the guest entrance and service routes, operate doors and cooling, test washroom and pantry drainage, and inspect water-tightness where roof, glazing and shade structures meet before accepting the external works.
 
 **Quote request:** Specify guest capacity and majlis access; request separate prices for cooling, acoustic comfort, washrooms, external paving and fixed versus loose furniture.
 
@@ -130,7 +130,7 @@ Adding a room or floor to an existing villa requires checking the old structure 
 
 **Compare quotations and agree boundaries:** Request a qualified structural assessment and approved design before selecting the connection method. Compare investigation, temporary supports, any engineer-approved strengthening, new foundations or framing, waterproof joints, utility diversions and reinstatement as separate cost items; never assume the old structure has spare capacity.
 
-**Inspection and acceptance:** Inspect the engineered connections, differential-movement details, waterproof junctions and reinstated services with the supervising consultant.
+**Inspection and acceptance:** Obtain inspection records for engineered connections and temporary supports under the approved design; inspect movement and waterproof joints between old and new construction and test diverted services. Visual inspection alone cannot establish structural adequacy.
 
 **Quote request:** Request a structural assessment before pricing a fixed extension; separate investigation, approved strengthening, temporary support, new construction and restoration.
 
@@ -142,7 +142,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 **Compare quotations and agree boundaries:** Separate intrusive investigation, identification and safe isolation of concealed services, approved demolition, debris routes, new partitions, fire-stopping and reinstatement. Confirm whether the building is occupied, how shared services will be protected and which structural alterations require a qualified engineer's design and authority approval.
 
-**Inspection and acceptance:** Confirm approved opening dimensions, safe reinstatement of utilities, repaired fire or acoustic separations and clean common areas.
+**Inspection and acceptance:** Check new partitions and openings against approved alterations, test isolated and restored utilities, verify required acoustic separation and fire-stopping at penetrations, and confirm shared corridors are clean and accessible.
 
 **Quote request:** Attach marked existing and proposed plans; ask for separate rates for investigation, utility isolation, authorised demolition, new partitions and fire-stopping repairs.
 
@@ -154,7 +154,7 @@ Restoration should address the cause of cracking or dampness, not merely cover i
 
 **Compare quotations and agree boundaries:** Compare diagnostic investigations and moisture or crack monitoring with the proposed repair method, compatible materials, affected finishes and any post-repair observations. Require a qualified structural engineer to assess suspected structural distress; record photographs before concealment, and state which hidden defects remain provisional until opened and assessed.
 
-**Inspection and acceptance:** Check evidence that the source was treated, inspect repairs before concealment and document any agreed monitoring period.
+**Inspection and acceptance:** Compare dated crack and dampness photographs before and after repair; obtain diagnosis, evidence that the cause was addressed and pre-concealment inspection records. Agree any specialist-recommended monitoring period; repainting alone is not proof of structural safety.
 
 **Quote request:** Send dated crack or dampness photographs and request a diagnostic stage before repair pricing, with concealed-defect contingencies and monitoring responsibilities.
 
@@ -166,7 +166,7 @@ Renovating an occupied building requires careful sequencing so residents retain 
 
 **Compare quotations and agree boundaries:** Compare phased work zones, dust and noise containment, temporary barriers, waste routes, resident notices and service-shutdown windows. Agree access and emergency-egress arrangements with building management, identify who responds to complaints and unexpected hidden defects, and set a separate handover checklist for each occupied unit.
 
-**Inspection and acceptance:** Inspect concealed work before closing walls, verify service restoration, clear shared routes and record defects separately for each completed area.
+**Inspection and acceptance:** Hand over each occupied unit separately with electrical, water and AC tests and a closed snag register. Confirm restoration of shared services, removal of waste and barriers, and safe access to emergency exits and lifts.
 
 **Quote request:** Request a phased, occupied-building programme covering resident notices, safe access, service outages, dust barriers, waste routes and per-unit handover.
 

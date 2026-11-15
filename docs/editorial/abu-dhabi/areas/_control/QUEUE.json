@@ -480,7 +480,8 @@
       "completed_sectors": [
         "general-contracting",
         "interior-design",
-        "general-maintenance"
+        "general-maintenance",
+        "building-materials"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-ar.md",
@@ -498,20 +499,19 @@
         "docs/editorial/abu-dhabi/areas/musaffah/building-materials/review.md"
       ],
       "last_attempt": "2026-11-16",
-      "review_note": "Verified 28/49 bilingual numbered building-materials service sections on GitHub, sequential 1–28, 2/5 specialties. Area 238/434 per language, 3/8 sectors complete. Next service 29; technical and language review pending.",
+      "review_note": "Verified 49/49 Arabic and English building-materials service sections on GitHub. Musaffah 259/434 per language, 4/8 sectors complete. Remaining 175 across aluminium-glass, furniture-decor, equipment-rental, cleaning-services. Human editorial review pending.",
       "editorial_progress": {
-        "sector": "building-materials",
-        "last_completed_sector": "general-maintenance",
-        "last_completed_specialty": "العزل المائي والحراري",
-        "last_completed_service_number": 105,
-        "next_specialty": "مواد البناء والتشطيب",
+        "sector": "aluminium-glass",
+        "last_completed_sector": "building-materials",
+        "last_completed_specialty": "السيراميك والبورسلان",
+        "last_completed_service_number": 49,
+        "next_specialty": "المطابخ والخزائن والأبواب الخشبية",
         "next_service_number": 1,
-        "next_service_name": "توريد الأسمنت",
-        "sector_total": 49,
+        "sector_total": 56,
         "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 210,
-        "remaining_area_services": 224,
+        "area_completed": 259,
+        "remaining_area_services": 175,
         "editorial_draft_completed": false
       },
       "progress": {

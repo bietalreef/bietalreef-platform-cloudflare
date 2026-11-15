@@ -10,7 +10,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare hydraulic calculations, pipe diameters, valves, filters and maintenance access; excavation and installation are separate unless included.
 
-**Handover:** Check coverage of remote zones, valve access and independent isolation.
+**Handover:** Check coverage of remote zones, valve access and independent isolation. Match final zone drawings to the flow schedule and available pressure; confirm isolation valves, backflow protection and zone identifiers are documented before accepting the design.
 
 **Service-specific quotation request:** Provide each zone's area, planting types, water-source position and any measured pressure and flow. Request separate prices for zone drawings, hydraulic calculations and equipment schedules versus excavation and installation; agree on revision rounds and editable drawing handover.
 
@@ -22,7 +22,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare emitter flow rates, filtration, line fixing and flushing method; main supply repairs are separate.
 
-**Handover:** Run the zone and check end emitters, leaks and wetting near each plant.
+**Handover:** Run the zone and check end emitters, leaks and wetting near each plant. Flush the line end under competent instructions, check soil wetting at the first and last emitter, and record blocked outlets before burying lines.
 
 **Service-specific quotation request:** Send planting-row lengths, tree counts, spacing and supply photos. Ask for emitter quantity and flow, filter and regulator positions, flushing, uniformity testing and whether disturbed soil will be reinstated.
 
@@ -34,7 +34,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare nozzle range, heads, zones and control valves; paving reinstatement must be specified separately.
 
-**Handover:** Observe a full watering cycle for dry strips, overspray and ponding.
+**Handover:** Observe a full watering cycle for dry strips, overspray and ponding. Test coverage along paving edges under representative wind conditions and log overspray and any settlement around sprinkler heads.
 
 **Service-specific quotation request:** Provide lawn area, obstacles, paths and photographs of spray boundaries. Ask for head counts, nozzle specifications, overlap and actual coverage tests, plus responsibility for damaged paving or planting.
 
@@ -46,7 +46,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare pump curve, tank, valves, dry-run protection and mounting base; electrical and civil works require explicit scope.
 
-**Handover:** Have a qualified technician test start-stop control, dry-run protection, leakage and unusual vibration. Do not energise the pump before appropriate earthing and electrical protection have been checked, and isolate power safely for inspection; record operating results and pump details.
+**Handover:** Have a qualified technician test start-stop control, dry-run protection, leakage and unusual vibration. Do not energise the pump before appropriate earthing and electrical protection have been checked, and isolate power safely for inspection; record operating results and pump details. Record operating pressure and flow with a representative zone running; check access to isolation valves, filter servicing and pump dry-run protection.
 
 **Service-specific quotation request:** Share tank-space dimensions, electrical supply location, furthest sprinkler elevation and required flow. Ask for tank capacity, pump curve, protection, connections, foundation and commissioning as separate priced items, with electrical/civil exclusions and warranty recorded.
 
@@ -58,7 +58,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare diagnosis, parts, excavation, reinstatement and retesting; controllers and pumps are separate unless listed.
 
-**Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces.
+**Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces. Compare pressure readings before and after the repair in the affected zone, and inspect reinstatement and access to every repaired valve or joint.
 
 **Service-specific quotation request:** Photograph the fault, controller and zone identifiers; note when low pressure or blockage occurs. Separate diagnosis from parts, excavation and reinstatement, and require written approval before unforeseen repairs.
 
@@ -70,7 +70,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare programming, sensor checks, saved settings and user handover; new wiring and valves are separate.
 
-**Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature.
+**Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature. Receive a written start time and duration for each zone, and test cancellation using the stop command or rain sensor where fitted.
 
 **Service-specific quotation request:** Share controller model, display photographs, zone/plant list and current watering times. Request a written seasonal schedule, backed-up settings, recovery instructions and practical user training; specify whether sensor or wiring replacement is excluded.
 
@@ -82,7 +82,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Quotation, contract and exclusions:** Compare tracing method, accuracy limits, exploratory excavation and reporting; detection does not automatically include repair or reinstatement.
 
-**Handover:** Obtain documented suspected locations and test findings; commission and verify repairs separately if needed.
+**Handover:** Obtain documented suspected locations and test findings; commission and verify repairs separately if needed. Record meter and pressure-test results zone by zone, stating whether the leak location is confirmed or remains a suspected point needing further investigation.
 
 **Service-specific quotation request:** Provide meter readings while irrigation is off, timing of damp patches and any pipe plan. Request the detection method, accuracy limits, trial excavation charges and a written suspected-location report; price repair and reinstatement separately.
 

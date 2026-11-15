@@ -1345,3 +1345,8 @@
 
 - أُضيفت 7 ضوابط تطبيقية عربية و7 إنجليزية في `interior-design/engineering-supervision`، مع تحديث ملف مراجعة التخصص. تغطي نقاط التوقف والفحوص والتغيير والجودة والاستلام والتقدم والكميات ومقارنة العروض.
 - الحالة `in_progress`؛ نقطة الاستئناف: تدقيق الاتساق الفني والتكرار في `interior-design/interior-materials` للخدمات 7–21، ثم جرد بقية تخصصات الشركات في `general-maintenance` و`building-materials` و`aluminium-glass` و`furniture-decor` و`equipment-rental` و`cleaning-services`، ومراجعة شاملة لـ434 خدمة في كل لغة قبل المويجعي.
+
+## متابعة تحريرية — 2026-11-15 — التصور ثلاثي الأبعاد
+
+- الحالة: `in_progress`. حُسنت دواعي الحاجة وفحوص الاستلام للخدمة 7 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، مع التحقق بإعادة القراءة من GitHub. [مراجعة التخصص](./interior-design/interior-materials/review.md).
+- **أول نقص دقيق:** تدقيق الخدمات 8–21 في `interior-design/interior-materials` من حيث المدخلات والنطاق والاستثناءات والاستلام والتكافؤ بين اللغتين، ثم بقية تخصصات الشركات بالقطاعات الثمانية؛ فحص التكرار والسلامة والتصنيفات المقيدة والمقترحة وجرد 434 خدمة لكل لغة قبل اعتماد الجيمي. لا يبدأ المويجعي.

@@ -123,3 +123,64 @@ A concrete wall may be retaining, shear-resisting or simply a barrier, each with
 ### 28. Removal and transport of demolition waste
 
 Demolition waste may include concrete, steel, timber, plasterboard and glass, as well as material requiring specialist handling. Provide site photographs, approximate quantities by material and loading access details. Ask for a quotation that separates sorting, skips, loading, trips, permitted destination and protection of roads and occupied premises. Suspected hazardous materials should be assessed separately rather than mixed into ordinary rubble. At handover, check site clearance, any damage to retained surfaces or services, and transport records where applicable.
+
+
+## Landscaping and garden maintenance
+
+> Editorial coverage of a category currently marked non-selectable in the source taxonomy; this does not activate it or confirm provider availability.
+
+### 29. Home garden design
+
+Start with a measured site plan showing sunlight, pedestrian and vehicle access, and buried services; identify seating, planting and circulation zones. Compare designs for usable area, drainage, irrigation demand and upkeep, and request dimensioned drawings and an implementable plant and material schedule.
+
+### 30. Villa landscaping
+
+For implementation, photograph existing levels, boundaries and utility outlets, and separate grading, soil preparation, planting and pathways in the quote. Check base layers, plant specifications and watering arrangements, then inspect levels, edging stability and plant establishment within the agreed observation period.
+
+### 31. Outdoor space design
+
+State whether the area serves seating, children or vehicles: the use changes shade, lighting, drainage and privacy needs. Ask for circulation drawings, suitable slip-resistant paving and electrical point details; approve levels and building junctions, not presentation images alone.
+
+### 32. Lawn and green-area installation
+
+Measure the net planted area, excluding beds and paths, before quantities are set. Compare soil preparation, grading, drainage, irrigation and ground-cover specification; inspect even coverage, surface levels and watering without persistent pooling at handover.
+
+### 33. Tree and shrub planting
+
+Supply planting locations, dimensions and distances from walls and services, specifying delivered size as well as species. Compare pit preparation, soil, staking, watering and replacement terms for failed establishment; check root condition and spacing at acceptance.
+
+### 34. Natural turf installation
+
+Natural turf needs suitable soil and regular irrigation; assess soil condition, levels and shade before choosing a variety. Compare ground preparation, turf supply, laying and initial watering, and accept a stable surface with a clear early mowing and watering plan.
+
+### 35. Artificial turf installation
+
+Specify decorative, walking or play use and provide edge and drain measurements; these affect pile choice, sub-base and drainage. Separate excavation, compaction, base, rolls, seams and edging in quotations, then inspect anchoring, evenness and unobstructed runoff.
+
+### 36. Plant and tree installation
+
+This broader service may combine beds and trees: prepare a schedule of quantities, sizes and locations rather than requesting generic planting. Compare nursery stock, planting medium, initial feeding and irrigation, and receive a planted-species register with locations and care instructions.
+
+### 37. Tree pruning and shaping
+
+Photograph the full tree and nearby buildings or cables, explaining whether the aim is deadwood removal, clearance or crown thinning. Avoid indiscriminate topping; agree pruning limits, access method and waste removal, then inspect cut quality and tree stability.
+
+### 38. Lawn maintenance
+
+Record lawn area, type, condition, shaded zones and bare patches before seeking maintenance. Compare mowing frequency and height, irrigation checks, weed control and patch repairs; require visit logs describing work and observations rather than visit counts alone.
+
+### 39. Plant feeding and treatment
+
+Describe symptoms with leaf and soil photographs and watering history: yellowing can reflect drainage or irrigation problems rather than nutrient deficiency. Seek diagnosis and a condition-specific product and application plan from a competent specialist, with follow-up rather than indiscriminate chemical use.
+
+### 40. Garden pest management
+
+Identify affected plants and photograph pests or damage and when it appeared; distinguish insects from disease or environmental stress. Compare diagnosis, intervention, precautions for people and pets, and follow-up; blanket spraying should not be assumed necessary.
+
+### 41. Garden cleaning
+
+Clarify whether the work is leaf and branch collection, weeding, pruning debris or path washing; photograph collection points and access. Compare labour, containers, loading, disposal and plant protection, then inspect cleanliness without damage to irrigation or beds.
+
+### 42. Garden maintenance contracts
+
+Before contracting, map lawn areas, tree counts, beds and irrigation points, and clarify whether consumables and replacement plants are included. Compare visit schedules, fault response, reports and pruning or pest-control limits; use recurring checklists and before-and-after photos for acceptance.

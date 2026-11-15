@@ -26,3 +26,7 @@ Added matched Arabic/English acceptance guidance for qualified electrical checks
 
 - أُضيفت سبع تعليمات طلب سعر مختلفة لكل خدمة بالعربية وسبع مكافئة بالإنجليزية، تتناول المخططات والحسابات والضغط والتصرف والرش والمضخات والتشخيص والبرمجة والكشف؛ دون تغيير أسماء الخدمات أو ترتيبها.
 - الحالة التحريرية للتخصص: `in_progress` لحين تدقيق التكافؤ الدلالي والسلامة والتفرد بصورة مستقلة. التصنيف غير قابل للاختيار حاليًا، ولا ضمان لشركة أو سعر أو موعد.
+
+## 2026-11-15 — Bilingual acceptance review
+
+Expanded the acceptance/handover checks for all seven original irrigation-network services in Arabic and English: hydraulic schedules, drip flushing, sprinkler overspray, pump commissioning, repair pressure records, controller programmes and leak-test certainty. Read back both saved content files from the target branch. Category remains non-selectable and preparatory. Independent final technical/semantic review is still pending.

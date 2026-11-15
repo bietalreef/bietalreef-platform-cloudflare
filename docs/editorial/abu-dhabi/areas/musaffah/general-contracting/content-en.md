@@ -93,3 +93,33 @@ Identify the façade system and the condition of cladding, paint, joints and wat
 ### 21. Preparing a building for reuse
 
 When bringing a vacant building back into use, define its intended activity, occupancy needs, spatial layout and services instead of requesting a generic refurbishment. Survey the structure, power, ventilation, drainage and circulation routes. Identify any assessments or authority decisions needed for the proposed change without assuming approval has been granted. Compare rehabilitation, fit-out and commissioning scopes; handover should include test records, relevant drawings and operating instructions.
+
+## Demolition and concrete works
+
+### 22. Demolition works
+
+Before removing part of a building, mark precisely what is to be demolished and retained on a drawing, and photograph connections to adjacent structures and visible services. A competent assessment should identify load-bearing elements, concealed utilities, isolation needs and any temporary support. Compare proposals on the demolition sequence, barriers, dust and noise controls and waste handling, not breaking cost alone. Confirm applicable project approvals before work starts. Acceptance should cover the condition of retained structures, site clearance and appropriate disposal evidence.
+
+### 23. Removal of buildings and annexes
+
+Removing a whole annex is not the same as opening an internal partition. Supply plot boundaries, annex dimensions, and distances to occupied buildings, boundary walls and underground utilities. The method statement should address power and water isolation, salvageable fittings, protection of neighbouring foundations, machinery and truck access. Compare the complete cost of removal, backfilling, levelling and debris transport, with responsibility for adjacent damage made explicit. Inspect the cleared footprint, final ground level and protected services before handover.
+
+### 24. Concrete cutting and core drilling
+
+A request may involve a duct penetration, pipe sleeve or an enlarged opening. Record the required diameter, depth, member thickness and position relative to beams and columns. Visible dimensions alone do not establish that a cut is safe: reinforcement, embedded services and structural implications must be checked by a competent professional where necessary. Quotations should specify cutting equipment, water and dust containment, core removal and protection of finished surfaces. Check the final location, dimensions, edges and surrounding services at acceptance.
+
+### 25. Foundation and footing concrete pours
+
+Foundation pricing needs structural drawings, ground investigation information where required, footing types, dimensions and founding levels—not just plot area. Separate excavation, replacement fill, formwork, reinforcement, concrete, waterproofing and backfill in the bill of quantities, identifying testing responsibility. Before pouring, inspect excavation levels, reinforcement, cover and column starters against the drawings. Retain concrete test and curing records, and agree inspection hold points before concealing the work.
+
+### 26. Concrete roof and floor slab pours
+
+Provide the slab type, spans, thickness, service openings and intended concentrated loads from structural drawings. Compare formwork, propping, pour sequence, pump access, concrete specification, curing and striking procedures, with electrical and HVAC penetrations coordinated beforehand. Check reinforcement, levels and openings before pouring, and record concrete tests and site observations. Handover must address test results and any honeycombing or cracks with the responsible engineer, not simply surface flatness.
+
+### 27. Construction of concrete walls
+
+A concrete wall may be retaining, shear-resisting or simply a barrier, each with different design demands. Supply drawings showing length, height, thickness, reinforcement, joints, penetrations and retained soil loads where relevant. Compare formwork, reinforcement, concrete, access, waterproofing and drainage to the actual design. Inspect formwork stability, cover and joints before the pour, then check alignment, curing, surface quality and specified tests before backfilling or cladding.
+
+### 28. Removal and transport of demolition waste
+
+Demolition waste may include concrete, steel, timber, plasterboard and glass, as well as material requiring specialist handling. Provide site photographs, approximate quantities by material and loading access details. Ask for a quotation that separates sorting, skips, loading, trips, permitted destination and protection of roads and occupied premises. Suspected hazardous materials should be assessed separately rather than mixed into ordinary rubble. At handover, check site clearance, any damage to retained surfaces or services, and transport records where applicable.

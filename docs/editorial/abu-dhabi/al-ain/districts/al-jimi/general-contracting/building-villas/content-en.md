@@ -46,7 +46,7 @@ Masonry work can look straightforward but misaligned openings or poorly coordina
 
 **Compare quotations and agree boundaries:** Compare net measured wall area after deducting agreed openings, block thickness and type, mortar, local reinforcement, lintels, scaffolding, transport, waste removal and making good around services. Record the measurement and variation-approval method in the contract.
 
-**Inspection and acceptance:** Before plastering, check wall plumb, course alignment, door and window opening dimensions and lintel positions against the drawings; document corrections before the work is concealed.
+**Inspection and acceptance:** Before plastering, compare wall locations and thicknesses, door and window clear openings and lintel levels with the drawings; inspect plumb, course alignment and wall ties to structural elements. Coordinate electrical and plumbing chases before blocks are cut, and record approved changes to openings or materials in an inspection note. Visual checks are not structural approval.
 
 **Quote request:** Request measured wall quantities with deductions for openings, stated block specifications, scaffolding, lintels, service chases and waste handling.
 
@@ -58,7 +58,7 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 **Compare quotations and agree boundaries:** Price concrete supply, reinforcement fixing, formwork, pumping, sampling and laboratory testing, curing, night pours and rejected loads separately. Record responsibility for delays, mix rejection and pre-pour reinforcement approval.
 
-**Inspection and acceptance:** Review reinforcement sign-off before casting, delivery tickets, sample-test results, planned construction joints, curing and formwork-striking records. Have any honeycombing remediation assessed and approved by the responsible engineer.
+**Inspection and acceptance:** Obtain pre-pour formwork, reinforcement, concrete-cover and service-embed inspection records. Match delivery tickets to the approved mix and sampling/test logs; record pour sequence, construction joints, curing and formwork striking under the responsible engineer's instructions. Refer visible honeycombing or cracking for qualified assessment before concealment or repair; appearance alone does not establish concrete strength.
 
 **Quote request:** Request a pour-by-pour breakdown of concrete grade, reinforcement, formwork, pumping, laboratory testing, curing and contingency for rejected loads.
 
@@ -70,7 +70,7 @@ The frame ties foundations, columns, beams and slabs together; errors at an earl
 
 **Compare quotations and agree boundaries:** Compare reinforcement, formwork, concrete, scaffolding, temporary supports, survey setting-out and consultant inspections separately. Record pre-pour inspection hold points for every stage, service-penetration coordination and who bears redesign or approval delays.
 
-**Inspection and acceptance:** Verify surveyed levels and positions, pre-pour reinforcement and cover checks, test results, temporary-support sign-off and documented acceptance of each structural stage before concealed work proceeds.
+**Inspection and acceptance:** At each pour hold point, have the consultant review surveyed gridlines and levels, reinforcement sizes and spacing, concrete cover, service openings, temporary support arrangements and their planned removal. Keep floor-by-floor concrete test and defect-remediation records; do not conceal work requiring inspection without the agreed technical and contractual sign-offs.
 
 **Quote request:** Ask for a staged structural-frame offer identifying survey setting-out, temporary works, reinforcement checks, pour approvals and responsibility for design revisions.
 

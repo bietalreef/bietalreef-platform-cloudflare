@@ -1230,3 +1230,9 @@
 ## Editorial continuation — 2026-11-15
 
 - `in_progress`: Building-villas services 2–3 (residential and commercial buildings) received bilingual, service-specific handover and acceptance checks, with GitHub read-back verified. Next: services 4–14 technical/parity review, then other specialties and final 434-service bilingual audit. Do not advance to Al Muwaiji before completion.
+
+## متابعة فحص الاستلام — 2026-11-15 — أعمال البناء والخرسانة والهيكل
+
+- الحالة: `in_progress`. حُسّنت فقرات الاستلام للخدمات 4 «تنفيذ أعمال البناء»، 5 «تنفيذ الأعمال الخرسانية»، 6 «تنفيذ الهيكل الإنشائي» في [العربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md)، مع التحقق من حفظ الملفين وإبقاء عناوين الخدمات الأربع عشرة.
+- شملت الإضافات فحص الفتحات والبلوك قبل اللياسة، ومحاضر التسليح والقوالب وعينات الخرسانة، ونقاط توقف فحص الهيكل والدعامات المؤقتة، دون ادعاء اعتماد هندسي.
+- **أول نقص تالٍ:** تدقيق الخدمة 7 «تسليم المشاريع بنظام المفتاح» ثم الخدمات 8–14 في تخصص `general-contracting/building-villas`؛ بعدها تدقيق بقية تخصصات الشركات بالقطاعات الثمانية ومطابقة 434 خدمة في كل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.

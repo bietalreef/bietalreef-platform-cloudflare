@@ -63,3 +63,33 @@ For an occupied residential refurbishment, inventory units, shared areas and pla
 ## Preparing a quotation request
 
 Include your name, contact number, Musaffah project location, building type, plot or work area, drawings or photographs, current project stage and preferred timing. Request itemised quantities, written exclusions and inspection and handover milestones. This page makes no promise of contractor availability, price or permit approval. Individual tradespeople are maintained in a separate taxonomy from companies and establishments.
+
+## Restoration and renovation
+
+### 15. Old-building restoration
+
+Restoring an older building starts with a record of cracks, dampness, settlement and previous alterations, supported by photographs and available drawings. Repainting or removing finishes should not be mistaken for diagnosing the cause. Request a technical assessment of the structure and existing services, then separate strengthening or repairs from finishes and debris disposal. Compare proposed methods, materials, tests and protection of occupied areas; inspect concealed repairs before covering them.
+
+### 16. Villa renovation
+
+For a villa renovation, list what remains and what will be replaced—kitchens, bathrooms, flooring, wiring, air conditioning or façades—and provide room dimensions and photographs. Survey concealed services before approving demolition. The programme should address phasing, furniture protection and worker access. Compare material grades, temporary works, exclusions and warranties rather than a single area rate; test fittings, water tightness and finishes at handover.
+
+### 17. Apartment renovation
+
+An apartment renovation needs a clear unit boundary, a survey of floors, walls and shared services, and confirmation of any building-management requirements before work. Provide a dimensioned layout and photographs of bathrooms, kitchen and distribution board. Agree access, working arrangements and waste removal where relevant. Quotations should include protection of lifts and corridors and making good at interfaces; handover should test drainage, water and electrical functions and close recorded defects.
+
+### 18. Building rehabilitation
+
+Building rehabilitation may involve deteriorated elements, ageing services and operational improvements, not simply new décor. Prepare a condition register covering roof, envelope, pipework and plant, and request a report distinguishing urgent interventions from phased works. Compare shutdown requirements, priorities, testing and deliverables at each stage. Handover needs commissioning records, updated drawings where relevant and evidence that listed defects were resolved.
+
+### 19. Structural crack remediation
+
+A superficial finish crack is not the same as a crack associated with structural movement. Record each crack's location, orientation, approximate width and changes over time using dated photographs. Before injection or replastering, obtain an assessment by a suitably qualified engineer to establish the cause and whether monitoring or strengthening is required. The proposal should specify the repair method, materials, limits and follow-up checks; acceptance should follow the assessment rather than visual concealment alone.
+
+### 20. Façade refurbishment
+
+Identify the façade system and the condition of cladding, paint, joints and water-entry points, supported by overall and close-up photographs and access heights. A proposal should address safe access, substrate repairs, the coating or cladding system, and protection of glazing and passers-by. Compare duration, specified materials and appropriate adhesion or water-resistance checks. Inspect finish consistency, joints and drainage before acceptance.
+
+### 21. Preparing a building for reuse
+
+When bringing a vacant building back into use, define its intended activity, occupancy needs, spatial layout and services instead of requesting a generic refurbishment. Survey the structure, power, ventilation, drainage and circulation routes. Identify any assessments or authority decisions needed for the proposed change without assuming approval has been granted. Compare rehabilitation, fit-out and commissioning scopes; handover should include test records, relevant drawings and operating instructions.

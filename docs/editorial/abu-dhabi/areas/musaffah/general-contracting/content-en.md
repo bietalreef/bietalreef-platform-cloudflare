@@ -184,3 +184,35 @@ Clarify whether the work is leaf and branch collection, weeding, pruning debris 
 ### 42. Garden maintenance contracts
 
 Before contracting, map lawn areas, tree counts, beds and irrigation points, and clarify whether consumables and replacement plants are included. Compare visit schedules, fault response, reports and pruning or pest-control limits; use recurring checklists and before-and-after photos for acceptance.
+
+## Irrigation networks
+
+> Editorial description of a currently non-selectable taxonomy category, not activation or provider confirmation.
+
+### 43. Irrigation system design
+
+Provide a planting plan, water-source locations and measured available pressure and flow, separating trees from turf needs. Request irrigation zones, flow calculations, valve and pipe locations and controller details, and review maintenance access before design approval.
+
+### 44. Drip irrigation installation
+
+Identify plant rows, emitter counts, line lengths and soil type, and specify filtration, pressure regulation and flushing ends. At handover test emitter uniformity, blockage and leaks, with a marked drawing of buried lines.
+
+### 45. Sprinkler installation
+
+Map lawn edges, paths and walls before selecting throw distances and arcs to avoid spraying façades or roads. Compare head counts, spacing and operating pressure, then test actual coverage, overlap and overspray at acceptance.
+
+### 46. Irrigation tanks and pumps
+
+Size storage against demand and watering schedule, not garden area alone, and confirm tank placement, cleaning access and refill source. Separate pump, electrical protection, controls, pipework and valves in the quote; test pressure, safe shut-off and leak tightness.
+
+### 47. Irrigation system maintenance
+
+Record dry spots or pooling and photograph the controller and valves, then request pressure, filter, head and emitter checks. Compare diagnosis, parts, repair and final testing separately; obtain a record of resolved faults and operating settings.
+
+### 48. Automatic irrigation programming
+
+Identify plant types, soil, seasons and shade before setting runtimes; one schedule may overwater some zones and starve others. Document zones, durations, days and manual override procedures, then demonstrate a full cycle with the client.
+
+### 49. Irrigation leak detection
+
+If pressure drops or a wet patch persists, record meter readings, watering times and the affected location before excavation. Request zone isolation and testing to locate the likely fault, distinguishing detection, repair and reinstatement of disturbed surfaces.

@@ -478,7 +478,8 @@
       "kind": "district",
       "status": "in_progress",
       "completed_sectors": [
-        "general-contracting"
+        "general-contracting",
+        "interior-design"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-ar.md",
@@ -490,20 +491,20 @@
         "docs/editorial/abu-dhabi/areas/musaffah/interior-design/review.md"
       ],
       "last_attempt": "2026-11-15",
-      "review_note": "Contracting 56/56 complete, interior-design 28/49 AR/EN verified by GitHub re-fetch. Area 84/434, 350 remaining; next interior design and materials service 29. No publication.",
+      "review_note": "Contracting 56/56 and interior design 49/49 AR/EN verified by GitHub re-fetch. Area 105/434, 329 remaining. Next general-maintenance service 1. No publication.",
       "editorial_progress": {
-        "sector": "interior-design",
-        "last_completed_sector": "general-contracting",
-        "last_completed_specialty": "الإشراف والاستشارات الهندسية",
-        "last_completed_service_number": 28,
-        "next_specialty": "التصميم الداخلي والمواد",
-        "next_service_number": 29,
-        "next_service_name": "تصميم المجالس",
-        "sector_total": 49,
-        "sector_completed": 28,
+        "sector": "general-maintenance",
+        "last_completed_sector": "interior-design",
+        "last_completed_specialty": "التصميم الداخلي والمواد",
+        "last_completed_service_number": 49,
+        "next_specialty": "الصيانة العامة",
+        "next_service_number": 1,
+        "next_service_name": "الصيانة الدورية للفلل",
+        "sector_total": 105,
+        "sector_completed": 0,
         "area_total": 434,
-        "area_completed": 84,
-        "remaining_area_services": 350,
+        "area_completed": 105,
+        "remaining_area_services": 329,
         "editorial_draft_completed": false
       }
     },

@@ -414,7 +414,7 @@
       "name_ar": "الرحبة",
       "name_en": "Al Rahba",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -422,13 +422,13 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/content-en.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/interior-design/review.md",
@@ -449,25 +449,26 @@
         "docs/editorial/abu-dhabi/areas/al-rahba/equipment-rental/review.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/cleaning-services/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-rahba/cleaning-services/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-rahba/cleaning-services/review.md"
+        "docs/editorial/abu-dhabi/areas/al-rahba/cleaning-services/review.md",
+        "docs/editorial/abu-dhabi/areas/al-rahba/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-15",
-      "review_note": "2026-11-15: cleaning-services AR/EN services 1–7 fetched and verified sequentially; 7 sectors complete, 399/434 drafted per language, 35 cleaning services remain. Independent human review required.",
+      "review_note": "2026-11-15: Re-fetched 16 bilingual sector content files on review branch; verified 8/8 sectors, 434/434 sequential service headings in Arabic and English, 50 specialties per taxonomy sector totals. Cleaning review and area review updated. Editorial draft complete only; independent technical, regulatory and linguistic approval required before publication.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "specialty": "تنظيف المفروشات",
         "last_completed_sector": "cleaning-services",
-        "last_completed_specialty": "تنظيف المنازل والمباني",
-        "last_completed_service_number": 7,
-        "last_completed_service_name": "عقود التنظيف الدورية",
-        "next_service_number": 8,
+        "last_completed_specialty": "خدمات العمالة والتشغيل",
+        "last_completed_service_number": 42,
+        "next_service_number": null,
         "sector_total": 42,
-        "sector_completed": 7,
+        "sector_completed": 42,
         "area_total": 434,
-        "area_completed": 399,
-        "remaining_area_services": 35,
-        "editorial_draft_completed": false
-      }
+        "area_completed": 434,
+        "remaining_area_services": 0,
+        "editorial_draft_completed": true,
+        "area_editorially_approved": false
+      },
+      "completed_at": "2026-11-15"
     },
     {
       "sequence": 7,

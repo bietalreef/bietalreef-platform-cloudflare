@@ -32,9 +32,6 @@ If furniture delivery is imminent, specify the property handover date and when a
 
 A recurring contract needs more than a promise of comprehensive cleaning. Prepare a task schedule for each area, separating daily, weekly and separately authorized extra work. Supply site area, visiting hours and high-use zones; ask who supervises, covers staff absence and provides materials and tools. Compare complaint handling, visit records and measurable quality checks, such as task completion and washroom condition. Review logs regularly and document any change in scope when the premises' use changes.
 
-## Request a quotation through Biet Al Reef
-
-Even where no company profile is published, customers can submit a quotation request to Biet Al Reef customer service. Collect the customer's name and contact number, Al Rahba as the location, the requested service, property type and approximate size, room or floor counts where relevant, photographs, occupancy, preferred timing, delicate materials and access restrictions. The request is reviewed for follow-up without promising price, timing or provider availability. Individual tradespeople remain a separate directory.
 
 ## Upholstery cleaning
 

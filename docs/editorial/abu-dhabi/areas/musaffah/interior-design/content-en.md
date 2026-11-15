@@ -91,6 +91,36 @@ Strengthening a beam, column, slab or foundation starts by establishing the caus
 
 Owners may need a structural report before alteration, after visible damage or to interpret a specific investigation. State its intended use and recipient, elements to be assessed, and available plans, photographs and test records. Clarify visits, investigation methods, assumptions, and whether laboratory testing or follow-up is separately charged. Accept a dated report describing the site, methods, referenced photographs, measured observations, findings, limitations, recommendations and responsible professional. Distinguish measured facts from hypotheses so decisions can be checked later.
 
+## Engineering supervision and consultancy
+
+### 22. Construction supervision
+
+Site supervision checks whether work follows the agreed drawings and specifications, particularly before services are concealed or structural work becomes inaccessible. Supply the approved drawing set, programme, contractor agreement and change records. Define visit frequency, mandatory inspection hold points, how observations are issued and how corrections are closed out; distinguish periodic visits from full-time site attendance. Compare proposals by disciplines covered, material and test checks, and variation responsibilities. Require dated reports, location-specific photographs and traceable findings. Supervision does not transfer the contractor's workmanship obligations to the consultant.
+
+### 23. Project management
+
+Where several contractors or suppliers share a project, management coordinates programme, costs and decisions rather than treating every delay in isolation. Provide contracts, work schedules, target budget, delivery milestones and outstanding decisions. Require a baseline plan identifying critical activities, responsible parties, risks, variations and approval routes. Compare offers by meeting and reporting arrangements, claims handling and the project manager's authority; project management does not automatically include design or technical supervision. At handover, review decision, change and payment registers alongside evidence supporting reported progress.
+
+### 24. Work quality review
+
+An owner may commission a quality review to check completed work against drawings and specifications during construction or before accepting a stage. Provide the work-item list, approved samples, required tests and photographs of suspected defects. Agree documented inspections, sampling or tests where warranted, nonconformity records and corrective actions. Compare offers by site visits, testing scope, reviewer independence and repeat-inspection responsibility. Accept a location- and drawing-referenced defect register with closure evidence. A quality report cannot certify uninspected work as compliant.
+
+### 25. Project stage acceptance
+
+Before authorising payment or moving to the next phase, stage acceptance distinguishes completed work from outstanding or soon-to-be-concealed items. Identify whether the stage concerns foundations, structure, waterproofing, services or finishes; supply drawings, checklists and earlier test records. Ask for checks of relevant dimensions, levels, samples and test results, recording items that will be hidden after closure. Clarify the number of visits and return inspections in the quote. Require a dated acceptance record listing accepted work, reservations, defects and responsibility for closure; partial acceptance is not final project handover.
+
+### 26. Progress report preparation
+
+When an owner cannot reconcile reported completion with the programme and payments, a progress report should link percentages to measurable work. Supply the approved schedule, bill of quantities, contracts, meeting minutes and earlier photographs. Ask for progress by measured quantities or completed milestones, reasons for delay, critical activities and a look-ahead. Compare proposals by reporting frequency, evidence sources and how progress is verified, not presentation graphics alone. Reports should state their cut-off date, show location-tagged photographs and list decisions needed, distinguishing physical progress from expenditure.
+
+### 27. Quantity take-off
+
+A quantity take-off supports budgeting, tender pricing or payment assessment, but its basis must be clear: design drawings or work actually measured on site. Provide current drawing revisions, specifications, project boundaries and the measurement units required. Request auditable schedules linking each quantity to dimensions, calculations and drawing references, with assumptions, waste allowances and exclusions stated. Compare offers by disciplines covered, measurement method, clash review and change handling. Check sample calculations and duplicate counts at handover. Measured quantities are neither agreed prices nor proof of completed construction.
+
+### 28. Contractor bid review
+
+Two tenders with similar totals may differ significantly in materials, quantities, testing, exclusions and payment terms. Supply the original enquiry, drawings, specifications, bill of quantities and bidders' clarifications. Request a like-for-like comparison matrix showing quality, duration, warranties, temporary works, payment conditions and risks. Separate arithmetic errors from specification substitutions and scope omissions. Accept a reasoned report identifying assumptions and questions to resolve before award. The cheapest total is not automatically the best value, and bid review cannot guarantee contractor performance.
+
 ## Requesting a quotation
 
 Provide the service, property location and use, available area or dimensions, photographs, existing drawings, required deliverables, target date, your name and contact number. Biet Alreef customer service can receive the request even without a listed firm; this does not guarantee price or availability. Individual craftspeople are a separate category.

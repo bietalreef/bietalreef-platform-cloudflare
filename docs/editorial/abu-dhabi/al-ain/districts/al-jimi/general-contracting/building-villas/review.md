@@ -77,3 +77,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Expanded service 2 residential-building handover to cover access to shared equipment, risers, life-safety records, staged inspection and defect retesting.
 - Expanded service 3 commercial-building handover to cover shop clearances, tenant service interfaces, fire-stopping and separation of shell-and-core from tenant fit-out approvals.
 - Arabic and English saved files were independently read back from GitHub. Services 4–14 and final bilingual technical audit remain pending; no specialty or area completion claim.
+
+## Acceptance inspection refinement — 2026-11-15
+
+- Services 4–6 (تنفيذ أعمال البناء، تنفيذ الأعمال الخرسانية، تنفيذ الهيكل الإنشائي) now include distinct Arabic/English acceptance checks for blockwork openings and service chases; pre-pour formwork, cover and sample records; and structural survey, temporary works and hold-point sign-offs.
+- Both content files were read back from the target branch after writing; all 14 numbered headings remained present.
+- **Pending:** full semantic and technical audit of services 1–14, particularly services 7–14; review all remaining specialties and 434 bilingual service entries. Area status remains `in_progress`.

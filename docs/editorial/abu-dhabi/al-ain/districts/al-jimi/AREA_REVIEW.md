@@ -1265,3 +1265,9 @@
 
 - `general-contracting/irrigation-networks`: revised acceptance sections for services 1–7 in both languages and verified both files by GitHub read-back; specialty review updated.
 - **Status remains `in_progress`.** Next exact checkpoint: `general-contracting/shade-outdoor-works` services 1–7, followed by remaining specialty audits and area-wide 434-service semantic review. No later area has been started.
+
+## تقدم تدقيق 2026-11-15 — المظلات والأعمال الخارجية
+
+- جرى تعزيز فحص الاستلام للخدمات السبع بالعربية والإنجليزية، مع تفصيل خاص للمثبتات والتصريف وحدود المساحة والصيانة والحماية الكهربائية؛ أعيدت قراءة الملفين من GitHub بعد الرفع وتأكد وجود 7 عناوين لكل لغة.
+- الملفات: [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [مراجعة](./general-contracting/shade-outdoor-works/review.md).
+- **الحالة: `in_progress`**؛ لا تكفي تغطية 434 عنوانًا لكل لغة لاعتماد الجودة. التالي: تدقيق التخصصات المتبقية عبر القطاعات الثمانية، وتحديد المقاطع المتكررة والتحقق من التكافؤ الدلالي والتصنيفات المقيدة والمقترحة قبل الانتقال إلى المويجعي.

@@ -12,7 +12,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare visit frequency, response windows, consumables and emergency exclusions; require a report per visit.
 
-**Handover checks:** Verify test results and outstanding faults before closing each job.
+**Handover checks:** Reconcile completed visits with the agreed maintenance schedule; request dated operating readings for each inspected asset, photographs of repaired components and a list of deferred faults with reasons. Test each serviced function before closing its item; a routine visit is not a guarantee against concealed defects.
 
 **Quotation request details:** Send the fault log, equipment count and desired visit frequency; request separate labour, consumables and emergency allowances.
 
@@ -27,7 +27,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare attendance coverage, safe isolation arrangements, reporting and spares allowances.
 
-**Handover checks:** Inspect closure logs and verify common facilities work after servicing.
+**Handover checks:** Match the service report to common-area fault tickets and verify safe restoration of pumps, lighting and access points isolated during the work. Record any continuing outage and its owner; do not accept lift or fire-system certification from an unqualified general maintenance crew.
 
 **Quotation request details:** Provide shared-facility inventory, access hours and complaint logs; ask for staffing coverage and responsibility boundaries.
 
@@ -42,7 +42,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare patch extent, sample matching, furniture protection and waste removal.
 
-**Handover checks:** Check adhesion and visible patch edges in daylight and raking light.
+**Handover checks:** Inspect the patch at normal viewing distance in daylight and raking light after the finish has cured, checking for peeling or raised edges. Record any colour tolerance accepted against the sample; do not sign off a cosmetic patch while the underlying leak or movement remains unresolved.
 
 **Quotation request details:** Attach damage photographs, affected area and finish type; ask for separate preparation, patch, sample and waste-removal items.
 
@@ -57,7 +57,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare replacement hardware, dismantling, adjustment and closure warranty.
 
-**Handover checks:** Cycle opening, latching and locking repeatedly; check seals and clearances.
+**Handover checks:** Cycle each leaf through its full travel and test the lock, latch and seals without abnormal rubbing or force. Record replaced parts with photographs; check weather tightness by the agreed safe method without flooding or damaging interior finishes.
 
 **Quotation request details:** Provide hinge and lock photos and door-leaf dimensions; request a parts list and clarify whether frame adjustment is included.
 
@@ -72,7 +72,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare investigation method, opening-up allowance, drying period and moisture readings.
 
-**Handover checks:** Review before/after readings and inspect following an appropriate controlled test.
+**Handover checks:** Compare moisture readings at the same marked locations before treatment and after the agreed drying interval; review evidence of source repair and the relevant controlled leak test. Do not accept painting over damp substrate or treat one reading as proof that an intermittent leak is resolved.
 
 **Quotation request details:** Supply dated stain photographs and known pipe locations; request staged pricing for investigation, source repair, drying and refinishing.
 
@@ -102,7 +102,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare snag quantities, revisit allowances, acceptance criteria and debris removal.
 
-**Handover checks:** Walk the site jointly, close each snag with evidence and record deferred items.
+**Handover checks:** Match every numbered snag against its room-specific closure photo and operate adjusted doors and fittings with the responsible party. Distinguish closed, deferred and rejected items; a finishes walk-through cannot replace specialist system commissioning certificates.
 
 **Quotation request details:** Send the numbered snag list and photographs; request itemised prices and the number of return inspections.
 
@@ -207,7 +207,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Comparing quotations and agreement:** Compare diagnostic fees, parts approval and escalation rules.
 
-**Handover checks:** Test under normal operation and request written fault and remedy details.
+**Handover checks:** Demonstrate the previously faulty function in the contractor's presence and log symptoms before and after repair and any replaced part. If the fault recurs or its cause remains unknown, require a diagnostic note and follow-up action rather than closing the ticket after temporary symptom relief.
 
 **Quotation request details:** Describe symptoms and provide safe photographs if available; agree a diagnostic fee cap and approval before replacing parts.
 

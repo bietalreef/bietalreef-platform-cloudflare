@@ -1366,3 +1366,9 @@
 
 - **الحالة: `in_progress`**. عُدلت ضوابط فحص الاستلام للخدمات **6 و8 و9 و10 و11 و12 و13** في [العربية](./general-maintenance/general-maintenance/content-ar.md) و[English](./general-maintenance/general-maintenance/content-en.md)، مع [سجل التخصص](./general-maintenance/general-maintenance/review.md). يركز التدقيق على الشقوق الإنشائية المحتملة، المهام غير المغلقة، تثبيت الستائر والرفوف والشاشات والإكسسوارات وتجميع الأثاث.
 - **أول نقص دقيق تالٍ:** تدقيق التكافؤ الدلالي وفحص الاستلام للخدمات **1–5 و7 و14** من `general-maintenance/general-maintenance`، ثم استثناءات وتكرار الخدمات **1–14**، ثم `general-maintenance/integrated-finishes` الخدمات **1–7** (تحقق من slug)، ثم بقية تخصصات الشركات في القطاعات الثمانية. يلزم جرد الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة قبل اعتماد الجيمي. **لا تبدأ المويجعي.**
+
+
+## 2026-11-16 — تدقيق استلام الصيانة العامة (7 خدمات إضافية)
+
+- الحالة: `in_progress`. جرى تحسين فحص الاستلام للخدمات **1–5 و7 و14** في [العربية](./general-maintenance/general-maintenance/content-ar.md) و[English](./general-maintenance/general-maintenance/content-en.md)، مع [مراجعة التخصص](./general-maintenance/general-maintenance/review.md). أعيدت قراءة الملفين من GitHub وتحقق وجود 14 خدمة في كل لغة.
+- **النواقص الدقيقة التالية:** تدقيق الاستثناءات والتكرار والتكافؤ الدلالي لجميع خدمات `general-maintenance/general-maintenance` **1–14**؛ ثم `general-maintenance/integrated-finishes` **1–7**؛ ثم بقية تخصصات الصيانة والمواد والورش والأثاث والمعدات والتنظيف. يلزم جرد وتدقيق **434 خدمة بكل لغة** عبر 50 تخصصًا ومراجعة المقيد والمقترح قبل اعتماد الجيمي؛ لا تبدأ المويجعي.

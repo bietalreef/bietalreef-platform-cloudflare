@@ -476,11 +476,31 @@
       "name_ar": "المصفح",
       "name_en": "Musaffah",
       "kind": "district",
-      "status": "pending",
+      "status": "in_progress",
       "completed_sectors": [],
-      "files": [],
-      "last_attempt": null,
-      "review_note": null
+      "files": [
+        "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-en.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/review.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/AREA_REVIEW.md"
+      ],
+      "last_attempt": "2026-11-15",
+      "review_note": "Musaffah specialty 1 drafted and re-fetched: 14/56 general-contracting services in each language, 14/434 overall. Continue specialty 2 service 15. No live changes.",
+      "editorial_progress": {
+        "sector": "general-contracting",
+        "last_completed_specialty": "إنشاء المباني والفلل",
+        "last_completed_service_number": 14,
+        "last_completed_service_name": "تجديد المباني السكنية",
+        "next_specialty": "الترميم والتجديد",
+        "next_service_number": 15,
+        "next_service_name": "ترميم المباني القديمة",
+        "sector_total": 56,
+        "sector_completed": 14,
+        "area_total": 434,
+        "area_completed": 14,
+        "remaining_area_services": 420,
+        "editorial_draft_completed": false
+      }
     },
     {
       "sequence": 8,

@@ -83,3 +83,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Services 4–6 (تنفيذ أعمال البناء، تنفيذ الأعمال الخرسانية، تنفيذ الهيكل الإنشائي) now include distinct Arabic/English acceptance checks for blockwork openings and service chases; pre-pour formwork, cover and sample records; and structural survey, temporary works and hold-point sign-offs.
 - Both content files were read back from the target branch after writing; all 14 numbered headings remained present.
 - **Pending:** full semantic and technical audit of services 1–14, particularly services 7–14; review all remaining specialties and 434 bilingual service entries. Area status remains `in_progress`.
+
+## Bilingual acceptance review — 2026-11-15, services 7–14
+
+- Reworked all eight acceptance checks in both languages: turnkey commissioning and snags; new-villa dimensions and drainage; annex interfaces; outdoor majlis cooling and drainage; engineer-reviewed villa extensions; residential alterations and fire-stopping; villa restoration diagnostics; occupied-building phased handover.
+- Read back both saved language files from the target branch; each retains 14 numbered service headings. This is not a final service-by-service semantic, safety, or originality certification. Next: compare all 14 services end to end, then remaining company specialties and 434 bilingual services.

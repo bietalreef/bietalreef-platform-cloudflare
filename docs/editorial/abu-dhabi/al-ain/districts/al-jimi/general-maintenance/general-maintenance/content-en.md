@@ -8,6 +8,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Agree a preventive inspection calendar and minor repairs; concealed pipe replacement and major plant changes require separate scope.
 
+**Specifications, materials and equipment:** Request an asset register with model numbers and last-service dates, and agree the inspection instruments such as temperature readings or operational tests; replacement parts need approval.
+
 **Comparing quotations and agreement:** Compare visit frequency, response windows, consumables and emergency exclusions; require a report per visit.
 
 **Handover checks:** Verify test results and outstanding faults before closing each job.
@@ -20,6 +22,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Collect common-area defect logs, access hours and building equipment inventory.
 
 **Scope and exclusions:** Separate shared-space maintenance from private units; lifts and fire systems require competent authorised specialists.
+
+**Specifications, materials and equipment:** Inventory shared pumps, service panels and common areas, showing access routes and isolation points; identify equipment that cannot be shut down while the building is occupied.
 
 **Comparing quotations and agreement:** Compare attendance coverage, safe isolation arrangements, reporting and spares allowances.
 
@@ -34,6 +38,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Local patching includes preparation and finish matching; underlying leaks or structural movement are separate.
 
+**Specifications, materials and equipment:** Identify the wall substrate, filler and paint or cladding layers and colour reference where available; require a sample patch before repairing prominent surfaces.
+
 **Comparing quotations and agreement:** Compare patch extent, sample matching, furniture protection and waste removal.
 
 **Handover checks:** Check adhesion and visible patch edges in daylight and raking light.
@@ -46,6 +52,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Record leaf size, swing direction and hardware; photograph hinges, locks and rubbing points.
 
 **Scope and exclusions:** Allow for alignment, hinges, seals and lock service; new frames, glazing or opening repairs are separate.
+
+**Specifications, materials and equipment:** Specify leaf and frame materials, hinge type, lock-cylinder dimensions and seal profile; check compatibility before ordering replacements.
 
 **Comparing quotations and agreement:** Compare replacement hardware, dismantling, adjustment and closure warranty.
 
@@ -60,6 +68,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Identify and address the moisture source, dry substrate then refinish; paint alone is not remediation.
 
+**Specifications, materials and equipment:** Record moisture and surface-temperature readings at several points; determine whether leak detection or a waterproofing test is needed before opening finishes.
+
 **Comparing quotations and agreement:** Compare investigation method, opening-up allowance, drying period and moisture readings.
 
 **Handover checks:** Review before/after readings and inspect following an appropriate controlled test.
@@ -72,6 +82,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Photograph cracks with a scale and note dates, location and recurrence.
 
 **Scope and exclusions:** Repair confirmed non-structural cracks with suitable filler; widening or settlement cracks need structural assessment.
+
+**Specifications, materials and equipment:** Measure crack width at fixed reference points and record its direction; do not specify injection or strengthening before assessing the cause and seeking engineering input where structural movement is suspected.
 
 **Comparing quotations and agreement:** Compare diagnostic criteria, joint preparation, filler and observation period.
 
@@ -86,6 +98,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Include finish touch-ups and fitting adjustments; specialist commissioning is separately specified.
 
+**Specifications, materials and equipment:** Provide room plans and a snag register grouped by finish type; state whether test equipment and specialist commissioning certificates form part of the engagement.
+
 **Comparing quotations and agreement:** Compare snag quantities, revisit allowances, acceptance criteria and debris removal.
 
 **Handover checks:** Walk the site jointly, close each snag with evidence and record deferred items.
@@ -98,6 +112,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Bundle small tasks with photos and locations for each tap, handle or fitting.
 
 **Scope and exclusions:** Specify jobs feasible in one visit and who supplies parts; hazardous electrical or gas work is excluded.
+
+**Specifications, materials and equipment:** Provide photos and dimensions of likely spare parts and their labels; do not assume stock or substitute compatibility without inspection.
 
 **Comparing quotations and agreement:** Compare minimum call-out, labour hours, travel and unresolved-fault policy.
 
@@ -112,6 +128,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Specify rail, bracket spacing and fixings; fabric supply or motor wiring is not automatically included.
 
+**Specifications, materials and equipment:** Specify fabric weight, track length and ceiling construction; request gypsum reinforcement details if no suitable load-bearing fixing is available.
+
 **Comparing quotations and agreement:** Compare rail lengths, brackets, substrate anchors and old-hole making good.
 
 **Handover checks:** Operate curtains end to end; verify level rail and secure fixings.
@@ -124,6 +142,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Provide shelf dimensions, quantity, intended loads and wall photos; flag concealed services.
 
 **Scope and exclusions:** Include setting-out and suitable anchors; gypsum reinforcement or hidden-service repairs are separate.
+
+**Specifications, materials and equipment:** Identify whether the wall is concrete, block or gypsum, the shelf thickness and intended load; check concealed electrical and water services before drilling.
 
 **Comparing quotations and agreement:** Compare board thickness, brackets, rated loads and hole finishing.
 
@@ -138,6 +158,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Fit a compatible rated bracket and adjust alignment; new outlets or concealed wiring need separate scope.
 
+**Specifications, materials and equipment:** Match the VESA pattern and TV weight to the bracket plate and travel range; allow clearance from furniture and doors and maintain device ventilation.
+
 **Comparing quotations and agreement:** Compare bracket rating, anchors and responsibility for protecting the screen.
 
 **Handover checks:** Verify bracket security, articulation, cable slack and screen operation.
@@ -150,6 +172,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** List accessories and fixing positions; photograph tiles, gypsum and possible waterproofing zones.
 
 **Scope and exclusions:** Mark and fix with appropriate anchors; damaged tiles or waterproofing repairs are not assumed.
+
+**Specifications, materials and equipment:** State accessory material and whether the location is wet or dry; specify suitable anchors and sealant for fixings near water.
 
 **Comparing quotations and agreement:** Compare corrosion-resistant fixings, drilling method and sealing.
 
@@ -164,6 +188,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Scope and exclusions:** Include sorting, assembly and adjustment; heavy moving, wall anchoring and missing parts require explicit scope.
 
+**Specifications, materials and equipment:** Check supplied fasteners against the manufacturer's parts list; specify anti-tip precautions and safe wall restraint for tall units.
+
 **Comparing quotations and agreement:** Compare unit count, assembly labour, packaging disposal and damage responsibility.
 
 **Handover checks:** Test doors, drawers and stability; check unused hardware and anchoring instructions.
@@ -176,6 +202,8 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 **When needed and what to send:** Describe symptoms, timing, sounds, smells or leaks; stop use if unsafe.
 
 **Scope and exclusions:** Start with bounded diagnosis and minor repair; electrical circuits, gas and load-bearing issues require qualified specialists.
+
+**Specifications, materials and equipment:** Agree written diagnostic limits, instruments and the suspected component; signs of scorching or gas leakage require stopping use and referral to a qualified specialist.
 
 **Comparing quotations and agreement:** Compare diagnostic fees, parts approval and escalation rules.
 

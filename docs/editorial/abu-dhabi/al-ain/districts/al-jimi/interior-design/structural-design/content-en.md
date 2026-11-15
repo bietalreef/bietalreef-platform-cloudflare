@@ -14,6 +14,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Acceptance checks:** Check grid lines, levels, connection details, revision register and accountable engineer's calculations.
 
+**Technical hold point and reliance limits:** Request a schedule linking occupancy and load assumptions to drawing revisions and naming who reassesses slab openings changed after design issue. No column relocation or cutting of structural members should proceed on site without the responsible designer's review.
+
 **Service-specific quotation brief:** Attach grid, floor and opening plans. Request separately itemised analysis, reinforcement drawings and services coordination. Fix the design code, revision allowance, calculation deliverables and responsibility for architectural changes after design starts.
 
 ## 2. Foundation and footing design
@@ -27,6 +29,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 **Comparing quotations and agreement terms:** Compare groundwater and settlement assumptions, neighbour protection interfaces and redesign obligations if soil findings change.
 
 **Acceptance checks:** Verify footing dimensions, founding levels, reinforcement schedules and links to the agreed soil report and column reactions.
+
+**Technical hold point and reliance limits:** Record the geotechnical report's validity limits and assumed founding level, and assign responsibility for unexpected soil strata during excavation. Site photographs cannot replace borehole evidence.
 
 **Service-specific quotation brief:** Send the soil report, site levels, adjacent boundaries and buried-service records. Ask which foundation options will be assessed and how redesign following new borehole results is priced. Specify excavation, waterproofing and settlement-report interfaces.
 
@@ -42,6 +46,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Acceptance checks:** Check sheet references, grid labels, schedules, issue dates and incorporation of relevant architectural revisions.
 
+**Technical hold point and reliance limits:** Require an open clash register showing mechanical penetrations, beam positions and closure dates before construction drawings are issued. Specify whether contractor-driven drawing revisions are included or separately charged.
+
 **Service-specific quotation brief:** Provide a revision register for drawings, openings and equipment, and clarify whether this is drafting or a fresh engineered design. Request a sheet and detail schedule, editable deliverables and an allowance for clash-resolution rounds.
 
 ## 4. Structural load review
@@ -55,6 +61,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 **Comparing quotations and agreement terms:** Compare calculation approach, material evidence, missing-drawing assumptions and separately priced tests.
 
 **Acceptance checks:** Require a qualified conclusion with stated conditions, missing evidence or a designed strengthening requirement, not a vague verbal approval.
+
+**Technical hold point and reliance limits:** Record the existing member condition and temporary use restrictions before new loading; distinguish analytical verification from field testing. Do not position heavy tanks or equipment without a documented engineering decision.
 
 **Service-specific quotation brief:** Include equipment or tank mass, bearing-point dimensions, location, member photographs and existing plans. Price site inspection, testing and analysis separately. Require a written statement of allowable loads, installation conditions or strengthening needs.
 
@@ -70,6 +78,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Acceptance checks:** Receive a mapped defect register, risk categories, further-test recommendations and explicit uncertainty; serious danger calls for immediate site safety action.
 
+**Technical hold point and reliance limits:** For widening cracks or visible settlement, agree on isolating unsafe areas, escalation and urgent assessment before cosmetic work. State whether the deliverable is a preliminary opinion or a tested investigation.
+
 **Service-specific quotation brief:** Supply dated, scaled crack photographs, defect locations and prior reports. Request a staged investigation plan, access requirements and immediate-hazard response. Separate laboratory test costs from the assessment report and repair recommendations.
 
 ## 6. Structural strengthening design
@@ -84,6 +94,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Acceptance checks:** Receive buildable details and hold points with acceptance tests; temporary supports should not be removed without documented engineering clearance.
 
+**Technical hold point and reliance limits:** Specify inspection hold points, movement monitoring during strengthening and who installs, checks and authorises removal of temporary props. Selecting a strengthening material is not, by itself, an approved engineering design.
+
 **Service-specific quotation brief:** Provide diagnosis, as-built plans and occupancy constraints. Request strengthening options, load-transfer details, temporary support sequence and test criteria. Separate design and supervision from supply and installation and identify who authorises removal of props.
 
 ## 7. Structural engineering report preparation
@@ -97,6 +109,8 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 **Comparing quotations and agreement terms:** Compare supporting evidence, traceability, engineer accountability, permitted uses and revision terms.
 
 **Acceptance checks:** Check report version, visit date, observations, conclusions, limitations and photo locations; challenge unsupported conclusions.
+
+**Technical hold point and reliance limits:** Separate observations from conclusions and assumptions, attach a traceable index of photographs and tests with dates, and list uninspected elements and follow-up visits needed before decisions rely on the report.
 
 **Service-specific quotation brief:** Name the report recipient and precise engineering question; attach drawings, test results and photographs. Request an itemised scope of visits, tests, appendices, accountable signature, permitted uses and fees for revisions or authority submission.
 

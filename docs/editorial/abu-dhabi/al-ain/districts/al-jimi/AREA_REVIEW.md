@@ -1334,3 +1334,9 @@
 
 - **الحالة: `in_progress`**. استبدلت العبارات العامة المتكررة في المعاينة وفحص الاستلام للخدمات الأربع عشرة بنصوص خاصة بكل خدمة في [العربية](./interior-design/architectural-plans/content-ar.md) و[الإنجليزية](./interior-design/architectural-plans/content-en.md)، دون تغيير أسماء الخدمات أو ترتيبها. أُعيدت قراءة الملفين من الفرع بعد الرفع وتطابق المحتوى.
 - **نقطة الاستئناف الدقيقة:** تدقيق نطاق الاتفاق والتكافؤ الفني للخدمات 1–7 في `interior-design/structural-design`، ثم `interior-design/engineering-supervision` الخدمات 1–7، ثم `interior-design/interior-materials` الخدمات 1–21، ثم بقية التخصصات؛ تدقيق شامل للخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة تحريرية — 2026-11-15 (حدود التصميم الداخلي)
+
+- عُدّلت فقرات النطاق للخدمتين 5 «تصميم الحمامات» و6 «توزيع الأثاث» في `interior-design/interior-materials/content-ar.md` و`content-en.md`، مع التحقق من إعادة القراءة بعد كل رفع.
+- راجع [العربية](./interior-design/interior-materials/content-ar.md) و[English](./interior-design/interior-materials/content-en.md) و[تقرير التخصص](./interior-design/interior-materials/review.md).
+- **الحالة `in_progress`**: الأولوية تدقيق الخدمات 7–21 من التصميم الداخلي من حيث تكافؤ المدخلات والنطاق والاستلام، ثم بقية التخصصات الخمسين والخدمات الـ434 في كل لغة. لا انتقال إلى المويجعي قبل اكتمال تدقيق الجيمي. لا يُفهم حفظ الملفات كاعتماد نهائي.

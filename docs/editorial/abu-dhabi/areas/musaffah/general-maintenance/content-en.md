@@ -326,3 +326,62 @@ Record equipment model, serial number, part number and failure symptoms before o
 ### 77. Periodic maintenance contracts
 
 A useful contract lists each unit, its location and type, visit frequency, tasks and emergency response arrangements. Clarify whether cleaning, refrigerant, consumables, major repairs and extra call-outs are included. Compare measurable service schedules, maintenance logs, performance readings and defect rectification deadlines rather than subscription price alone.
+
+
+## Smart systems and surveillance
+
+### 78. Smart lighting controls
+
+List the lighting circuits, lamp types, dimming compatibility and existing switch positions before selecting controllers. The proposal should specify relay load ratings, local manual operation during network outages and scene scheduling. Test each circuit, dimming and recovery after power interruption; obtain wiring records and account settings.
+
+### 79. Smart air-conditioning controls
+
+Identify each unit model and its existing control method—wired thermostat, infrared remote or central controller. Universal compatibility should not be assumed. Ask which setpoints, schedules and sensors are supported and how manual control remains available. Commission cooling modes, fan speeds and recovery after connectivity loss.
+
+### 80. Smart lock installation
+
+Measure door thickness, mortise type, handing and handle-to-cylinder spacing before ordering. Compare fingerprint, PIN, card and mechanical backup access, and define how permissions are issued and revoked. Test latching from both sides, low-battery warnings and access when batteries fail, without compromising emergency egress.
+
+### 81. Motorised curtain installation
+
+Record opening width, ceiling height, fabric weight, travel distance and power location. Clarify whether the quote includes track, motor, fabric and any ceiling alterations, and whether manual override is possible. At handover test travel limits, motor stopping, fabric clearance and reprogramming instructions.
+
+### 82. Connecting devices to a mobile app
+
+Inventory device brands and protocols and verify network coverage at each location. Separate the owner's account from installer access, with explicit permissions, password management and update arrangements. Test local and, if requested, remote operation; transfer account ownership and recovery instructions without retaining the owner's credentials.
+
+### 83. Smart automation scenes
+
+Define each scene's trigger, participating devices, delay and cancellation rule before programming—for example, switching off selected lights when leaving without disabling essential equipment. Resolve conflicts between schedules, sensors and manual overrides. Test normal conditions and internet or power loss, and obtain an editable scene inventory.
+
+### 84. Smart home system maintenance
+
+Distinguish a single-device fault from hub, network or software-update failures. Record error messages, firmware versions and when symptoms began, and back up configurations where possible before resetting equipment. The service report should identify the cause, changes made, tested functions and any unresolved devices.
+
+### 85. CCTV camera installation
+
+Specify each camera's purpose, field of view, night lighting and subject distance rather than buying by camera count alone. Request a location and cabling plan, power arrangements, weather protection and retention requirements. Verify day/night image quality, viewing angles and access rights; check applicable privacy and permit requirements before installation.
+
+### 86. Video recorder installation
+
+Recorder selection depends on channel count, camera resolution, frame rate and retention period—not disk capacity alone. Request a storage estimate, ventilation provision and backup power if required. Test date-based search, export and recording recovery after restart, then transfer administrator credentials to the owner.
+
+### 87. Alarm system installation
+
+Clarify whether the system is for intrusion, fire or leakage, as sensor selection and design requirements differ. Request a zone plan, sensor types, sounders, power and battery provisions and notification procedure. A consumer alarm must not be presented as a compliant fire alarm; applicable authority requirements need checking. Witness tests for each sensor, alerts and power failure.
+
+### 88. Access control installation
+
+List doors, user groups, permitted hours, access levels and emergency exit requirements. A comparable quote identifies readers, controllers, locks, power supplies, wiring and management software, plus intercom integration if needed. Test credential issuance and revocation, event logs and safe egress under power loss for the specific door design.
+
+### 89. Intercom installation
+
+Define the number of entrances and indoor stations, audio or video needs, remote door release and cable distances. Check compatibility with gate locks, networking and power, and whether phone calling is included. Test audio, image and release functions at every station and explain limitations during internet outages.
+
+### 90. CCTV maintenance
+
+Separate camera image faults from recording or connectivity faults. Inspect lenses, power, connectors, storage health, timestamps and network settings before replacing hardware. Document cameras tested, available recording retention and a sample playback/retrieval test while protecting recorded footage during maintenance.
+
+### 91. Mobile CCTV viewing setup
+
+Specify whether mobile access needs live viewing, playback or motion alerts and who may use each function. Prefer supported secure access with suitable authentication and current software rather than unnecessary exposed ports. Test access from an external network and removal of a former user's device, transferring full account control to the owner.

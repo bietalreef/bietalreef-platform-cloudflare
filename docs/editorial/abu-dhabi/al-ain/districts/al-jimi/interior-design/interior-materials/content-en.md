@@ -64,7 +64,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** photograph drains and water points; measure floor levels and doorway.
 
-**Scope and exclusions:** The principal deliverable is a sanitary layout and finishes showing falls and waterproofing zones. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Waterproofing installation and drain relocation are not included.
+**Scope and exclusions:** The design deliverables comprise sanitary-fixture layout, shower section, wet-zone boundaries and maintenance access, with drainage falls, waterproofing and service alterations referred for specialist verification. Breaking out tiles, flood-testing waterproofing, rerouting drainage and purchasing fixtures are not included; price them separately and name who checks actual floor levels before work.
 
 **Comparing quotes and agreeing terms:** Require sanitary-fixture layout, floor falls and wet-area details; clarify who coordinates waterproofing and drainage changes.
 
@@ -82,7 +82,7 @@ Practical preparation guidance for company-led design enquiries. No available fi
 
 **Photographs, dimensions and specifications:** measure existing furniture, passages and doorways; identify retained items.
 
-**Scope and exclusions:** The principal deliverable is a dimensioned furniture plan with clear circulation. The design fee covers the agreed drawings and schedules only. Material purchasing, physical installation, professional site surveys and authority submissions require separately defined scope, responsibility and fees where applicable. Furniture supply and verification of unapproved product dimensions are excluded.
+**Scope and exclusions:** Furniture layout delivers a dimensioned plan distinguishing retained from proposed pieces, including door swings, chair pull-back, drawer clearance and circulation. Purchasing, moving or fabricating furniture and guaranteeing unverified catalogue dimensions are excluded; assign responsibility for measuring existing pieces and checking final dimensions before orders.
 
 **Comparing quotes and agreeing terms:** Compare alternative furniture arrangements and clear circulation widths; identify retained pieces and who checks product sizes before ordering.
 

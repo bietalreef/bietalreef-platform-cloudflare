@@ -1254,3 +1254,9 @@
 - **المراجعة المنفذة:** تحسين فحص الاستلام لكل الخدمات السبع في `general-contracting/restoration-renovation` بالعربية والإنجليزية، مع إلغاء سبع جمل ختامية متكررة أو شبه مكررة في كل لغة واستبدالها بفحوص مخصصة للسياق. أُعيدت قراءة الملفات الثلاثة من GitHub بعد الحفظ.
 - **الملفات:** [العربية](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [المراجعة](./general-contracting/restoration-renovation/review.md).
 - **النواقص الدقيقة:** التدقيق المستقل للخدمات السبع في هذا التخصص لم يُغلق؛ راجع تكرار جمل النطاق والمواصفات والاتفاق في `restoration-renovation`، ثم انتقل إلى `general-contracting/demolition-concrete` وأكمل المراجعة التفصيلية لبقية التخصصات وفق الفهرس. تبقى مراجعة التفرّد والتكافؤ الدلالي والسلامة لجميع التخصصات الخمسين والخدمات الـ434 في كل لغة قبل اعتبار الجيمي مكتملة. لا تبدأ المويجعي قبل ذلك.
+
+## 2026-11-15 — Landscaping editorial checkpoint
+
+- `general-contracting/landscaping`: expanded acceptance inspections for all 14 original services in `content-ar.md` and `content-en.md`, verified both GitHub read-backs; updated the specialty review. This is a focused revision, **not** a declaration that the 434-service area-wide semantic audit has passed.
+- **Status:** `in_progress`; 8 sectors/50 specialties/434 services per language remain saved, but editorial acceptance is pending.
+- **Next exact checkpoint:** `general-contracting/irrigation-networks` services 1–7 (Arabic and English, service-specific acceptance and scope audit), followed by `general-contracting/shade-outdoor-works` services 1–7, then remaining specialty-by-specialty review across all sectors. Recheck duplicate wording, technical safety, original taxonomy order, and language equivalence before marking the area complete.

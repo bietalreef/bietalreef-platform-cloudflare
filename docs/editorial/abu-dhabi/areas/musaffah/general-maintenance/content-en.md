@@ -119,3 +119,34 @@ Check substrate flatness, any underlying moisture and whether the chosen marble-
 ### 28. Gypsum repairs and maintenance
 
 Cracks, sagging or stains in gypsum walls or ceilings may result from frame movement, leaks, impact or unsupported loads. Photograph the defect with a scale, note whether it has recurred and request inspection of concealed components where warranted before patching and painting. Compare a local patch, board replacement and framing or services repairs as separate scopes. Check rigidity, flatness and paint blending after drying; never conceal an active leak behind new board.
+
+
+## Flooring and wall cladding
+
+### 29. Ceramic tile installation
+
+Specify whether the ceramic tiles are for an interior floor, bathroom wall or kitchen splashback: substrate condition, water exposure and wear influence the tile and adhesive system. Provide dimensioned plans and photographs of corners, drains and thresholds, together with tile size, laying direction and grout-joint width. Quotations should separate removal of existing tiles, substrate levelling, any necessary waterproofing, tile supply, installation, skirting and grouting. Approve a setting-out sample to avoid awkward narrow cuts at doorways. On handover check joint alignment, surface levels, falls towards drains, loose tiles and raised edges.
+
+### 30. Porcelain tile installation
+
+Large-format porcelain needs particular attention to substrate flatness, handling and cutting; it should not be priced as small ceramic tiles without checking the installation method. Supply room dimensions, slab dimensions and thickness, door locations and movement joints. Ask for the specified adhesive system, substrate preparation, suitable lifting equipment and levelling method. Compare allowances for waste and cuts around columns and service penetrations, separating material and labour costs. Agree any stone-effect vein layout, then inspect levels, edge alignment, visible voids and grout finish before acceptance.
+
+### 31. Parquet flooring installation
+
+Identify whether the floor is solid timber, engineered wood or another composite product, since moisture limits, expansion allowances and maintenance requirements differ. Provide room areas, substrate photographs, door positions and fixed furniture locations. Request moisture and flatness checks in line with the selected product's instructions. The quotation should identify any underlay or moisture barrier, board direction, perimeter expansion gaps, skirting and transitions between rooms. Approve a physical sample rather than a phone photograph alone. At handover walk the floor to check stability, unexpected noises, joints, edges and door clearance.
+
+### 32. Vinyl flooring installation
+
+Glue-down vinyl, click-lock planks and sheet vinyl have different installation and joint requirements. Describe the room's use, expected foot traffic and cleaning routine, and provide dimensions, substrate photographs and any history of dampness. Specify thickness, wear layer and slip-performance needs appropriate to the setting. Compare quotations for subfloor levelling, seam treatment, adhesive or locking system and perimeter trims. In wet areas, check suitability of the complete installed system rather than relying on a generic 'waterproof' product label. Inspect edges, transitions, ripples and bubbles on completion.
+
+### 33. Interlocking paving installation
+
+For interlocking paving in a walkway or yard, surface area alone is not enough: state whether pedestrians or vehicles will use it, and assess ground condition and drainage. Supply lengths, widths, levels and photographs of entrances and gullies. Ask for the excavation depth, compaction method, sub-base and bedding layers, edge restraints, paver thickness and laying pattern. Compare proposals on layer specifications, compaction checks, drainage and waste removal rather than surface-rate alone. Check falls, stability, joint consistency and settlement at edges at handover.
+
+### 34. Wall cladding installation
+
+Wall cladding may be stone, timber, manufactured panels or tile; selection depends on weight, moisture exposure and the supporting wall. Provide wall height and width, sockets, corners, openings and photographs of any existing cracks or dampness. Request a setting-out drawing, the manufacturer's appropriate mechanical fixing or adhesive method, corner and movement-joint details and access to concealed services. Price substrate preparation separately from panels, cutting and finishing. On completion inspect fixing security, alignment, edges and service openings, and never conceal an active moisture defect behind new cladding.
+
+### 35. Flooring repairs
+
+A flooring defect may be a cracked tile, failed bond, settled base or leak-related damage; replacing a single piece without diagnosing the cause may not last. Send overview and close-up photographs, the approximate affected area, flooring type, age and whether the damage is spreading. Request separate allowances for lifting damaged material, inspecting and repairing the base, resolving the underlying cause and reinstating the finish. Establish whether a matching replacement is available or a deliberate transition is needed. Check levels, firmness and trip hazards, and test drainage where the repair is in a wet area.

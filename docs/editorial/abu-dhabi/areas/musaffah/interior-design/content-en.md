@@ -121,6 +121,93 @@ A quantity take-off supports budgeting, tender pricing or payment assessment, bu
 
 Two tenders with similar totals may differ significantly in materials, quantities, testing, exclusions and payment terms. Supply the original enquiry, drawings, specifications, bill of quantities and bidders' clarifications. Request a like-for-like comparison matrix showing quality, duration, warranties, temporary works, payment conditions and risks. Separate arithmetic errors from specification substitutions and scope omissions. Accept a reasoned report identifying assumptions and questions to resolve before award. The cheapest total is not automatically the best value, and bid review cannot guarantee contractor performance.
 
+
+## Interior design and materials
+
+### 29. Majlis design
+
+Define guest capacity, seating style, hospitality entrance and serving routes before selecting colours. Measure walls, doors, windows, AC outlets and sockets. Compare schemes by circulation clearance, seating lengths, upholstery durability and cleaning needs. At handover check furniture layouts, wall elevations, lighting locations and the material schedule.
+
+### 30. Living room design
+
+Photograph all four corners and identify television position, daily seating, children’s movement and through-routes. Require a dimensioned furniture plan showing clearances, screen glare and power outlets. Compare usable storage and maintenance access, and receive an actionable layout rather than only a visual rendering.
+
+### 31. Bedroom design
+
+Start with bed size, wardrobe door swings, privacy, curtains and AC distribution. Check walking clearance around the bed and bedside switching before fixing joinery dimensions. Request wardrobe elevations, lighting and electrical layouts and cleanable finish specifications; reconcile them against site measurements.
+
+### 32. Kitchen design
+
+Record water, drainage, extraction and actual appliance dimensions, separating preparation, washing and cooking zones. Check drawer swings, appliance ventilation and worktop resistance to moisture and heat. Compare cabinet quantities, hardware and surface thickness; obtain coordinated joinery and service drawings before fabrication.
+
+### 33. Bathroom design
+
+Measure the room, waste outlets, floor falls, wet zones and door swing. Coordinate fixtures with waterproofing layers and access to concealed valves and cisterns. Require a tile-setting plan showing cuts and falls; compare slip resistance and cleaning demands, then review concealed details before wall closure.
+
+### 34. Furniture space planning
+
+Provide a measured inventory of existing and proposed furniture rather than room area alone. Test walking routes, door and drawer swings and clashes with sockets or AC outlets. Receive a scaled furniture plan with clearance dimensions and a list of items to resize or omit.
+
+### 35. Interior 3D visualisation
+
+Agree the approved layout, camera angles and required fidelity for finishes and lighting. Distinguish concept imagery from a representation of actually selected products; digital lighting can alter perceived colour. Compare view counts, revision rounds and output formats, and receive images linked to material references and drawings.
+
+### 36. Office interior design
+
+Define headcount, working patterns, meetings, privacy and records storage. Survey columns, exits and services; coordinate data, power and AC with workstation locations. Compare seating density, circulation and future adaptability. Receive furniture and services layouts with a fit-out equipment schedule.
+
+### 37. Retail store design
+
+Start with merchandise type, stock volumes, customer entry, checkout and collection points. Survey shopfront dimensions, heights, storage and services before designing displays. Compare visibility, rearrangement flexibility and safe circulation. Receive display, counter and lighting drawings with finish specifications.
+
+### 38. Restaurant and café design
+
+Map food flow from receiving and storage through preparation and service to dish return, separating guest and operational routes where practicable. Supply equipment dimensions, loads, extraction and drainage needs. Require coordinated kitchen, seating and services layouts and activity-specific authority checks before construction, with clear operational drawings.
+
+### 39. Salon interior design
+
+Define service chairs, wash basins, storage, waiting capacity and privacy needs. Review water, drainage, ventilation and electrical points near equipment; select finishes suitable for frequent cleaning. Compare staff circulation and workstation clearances. Receive a station plan and equipment and materials schedules.
+
+### 40. Clinic interior design
+
+Begin with clinical specialty, procedures, room count and patient, staff and material flows. Do not finalise reception aesthetics before assessing privacy, equipment, ventilation, cleaning and requirements of the relevant healthcare authority. Request workflow and equipment layouts, an approvals checklist and explicit design assumptions and exclusions.
+
+### 41. Exhibition space design
+
+Identify exhibit sizes, weights, display duration, visitor circulation and changeover requirements. Check suspension points, electrical routes, lighting and glare. Compare assembly and dismantling effort and object protection; obtain display support drawings, visitor routes and a material list.
+
+### 42. Reception area design
+
+Estimate peak visitor numbers, waiting space, enquiry point and staff sightlines to the entrance. Measure corridors, door positions and power and data points before detailing the counter. Compare wayfinding, privacy and accessibility. Receive counter, lighting and signage layouts.
+
+### 43. Floor finish selection
+
+Match finishes to use, moisture, wheeled traffic, furniture and cleaning methods rather than colour alone. Request physical samples, thickness, slip characteristics, installation method and joint details. Compare substrate preparation, waste and maintenance as well as supply cost. Receive a floor-finish schedule with transitions and edges.
+
+### 44. Paint colour selection
+
+Test large samples on actual walls in daylight and under evening lighting; screen colours are insufficient. Coordinate shades with floors, timber and curtains, specifying paint type, sheen and washability for each room. Receive colour codes, application locations and approved sample references before ordering.
+
+### 45. Stone and ceramic selection
+
+Define application areas, module sizes, thickness and acceptable variation in veining or production batches. Request slab photographs or tile samples and a setting-out drawing showing cuts, joints and edges. Compare absorption, slip performance and care needs. Receive a location-based procurement schedule including cutting waste.
+
+### 46. Furniture specification and selection
+
+Verify item dimensions against entrances, lifts and turning clearances before ordering. Define daily use, frame materials, fabrics, cushions and warranty expectations; request samples where needed. Compare prices inclusive of delivery and installation. Receive a coded furniture schedule with sizes, locations and inspection notes.
+
+### 47. Lighting selection
+
+Separate task, ambient and accent lighting, noting ceiling heights, reflective surfaces and control points. Request luminaire data for power, colour temperature, beam distribution and maintainability. Compare uniformity, glare and running cost. Receive a point layout and fixture schedule.
+
+### 48. Material mood board preparation
+
+Combine coordinated samples of flooring, walls, timber, metal and fabric with actual product names and codes, not untraceable inspiration images. Review them together under expected lighting and identify substitutions if stock changes. Receive a documented board with supplier references, intended locations and approval status.
+
+### 49. Finish schedule preparation
+
+Translate design decisions into a room-by-room schedule covering surface, material, colour, product code, installation method and detail reference. Check drawings, wet areas, edges and joints and identify sample and supply responsibilities. At handover verify completeness, document revisions and consistency with the bill of quantities.
+
 ## Requesting a quotation
 
 Provide the service, property location and use, available area or dimensions, photographs, existing drawings, required deliverables, target date, your name and contact number. Biet Alreef customer service can receive the request even without a listed firm; this does not guarantee price or availability. Individual craftspeople are a separate category.

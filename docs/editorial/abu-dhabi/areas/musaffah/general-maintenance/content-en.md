@@ -150,3 +150,62 @@ Wall cladding may be stone, timber, manufactured panels or tile; selection depen
 ### 35. Flooring repairs
 
 A flooring defect may be a cracked tile, failed bond, settled base or leak-related damage; replacing a single piece without diagnosing the cause may not last. Send overview and close-up photographs, the approximate affected area, flooring type, age and whether the damage is spreading. Request separate allowances for lifting damaged material, inspecting and repairing the base, resolving the underlying cause and reinstating the finish. Establish whether a matching replacement is available or a deliberate transition is needed. Check levels, firmness and trip hazards, and test drainage where the repair is in a wet area.
+
+
+## Electrical systems and lighting
+
+### 36. Building electrical first fix
+
+For a new building, review load distribution drawings, panel locations, lighting points and outlets before walls are closed. Supply floor plans, circuit counts and major equipment loads; request a schedule of conduit routes, cable sizes, protection and inspection points. Compare concealed-work scope, testing and documentation rather than point counts alone. Require updated as-built drawings and insulation and continuity test records from a qualified specialist before accepting the first fix.
+
+### 37. Wire and cable installation
+
+For a new circuit or replacement run, identify approximate route length, connected load and whether cables pass through conduits, trunking or exposed containment. Quotations should identify conductor cross-section, insulation, terminations and mechanical protection, not merely a rate per metre. Require circuit identification and appropriate connection and insulation checks, and do not add loads to an existing circuit without assessing capacity.
+
+### 38. Distribution board installation
+
+List circuits, connected loads, installation location and maintenance clearances before selecting a distribution board. Request a single-line diagram, breaker schedule, protective devices, earthing details and circuit labels; separate the board price from rewiring. Lights switching on does not establish board safety. Have a qualified electrician verify protection, insulation and labelling before handover.
+
+### 39. Socket and switch installation
+
+Specify outlet and switch quantities, mounting heights, furniture positions, appliances and any damp locations. Photographs should show whether existing accessories are being replaced or new points require wiring and wall repairs. Compare accessory suitability, fixings and finishing scope; verify polarity, earthing and operation of each outlet and switch at handover.
+
+### 40. Electrical supply to annexes
+
+Before supplying a detached annex, list lighting, air conditioning, pumps and anticipated equipment, together with the distance from the existing supply. The source capacity, cable route, protection and earthing need assessment, including trenching or external containment and reinstatement. Price the sub-board separately and request appropriate loaded-operation tests before acceptance.
+
+### 41. Electrical network refurbishment
+
+Do not begin an ageing-network refurbishment by replacing cables indiscriminately. Record recurring faults, unidentified circuits, equipment loads and known past alterations. Ask for a condition assessment identifying retained and replaced sections, safe isolation arrangements and a phased work plan. Compare circuit scope, wall reinstatement, test records and as-built diagrams rather than outlet counts alone.
+
+### 42. Electrical load assessment
+
+For repeated breaker trips or planned high-power equipment, collect appliance ratings, usage patterns and panel photographs. A useful assessment includes measured currents, phase balance and an evaluation of cable and breaker capacity by a competent specialist, rather than summing nameplate ratings alone. Request a report with measurements, operating conditions, recommendations and limitations before authorising increased loads.
+
+### 43. Indoor lighting installation
+
+Room lighting depends on dimensions, ceiling height, tasks and furniture placement, not simply the number of downlights. Request a layout addressing task illuminance, colour temperature, glare, controls and ceiling penetrations. Compare luminaire specifications, warranty and making-good work, then inspect light distribution and dimming performance where fitted.
+
+### 44. Outdoor lighting installation
+
+Identify entrances, paths, facades and locations exposed to rain or dust, with photographs, dimensions and supply routes. Specify suitable enclosure protection for each location, mounting, cable containment and switching. Separate equipment, installation, excavation and reinstatement costs. Check aiming, glare and night-time operation before handover.
+
+### 45. Chandelier installation
+
+Confirm chandelier weight, ceiling height, supporting substrate and clearance above tables or circulation routes. Supply the fitting specifications, ceiling photograph and power-point location; heavier fittings may require structural support independent of the electrical box. Agree lifting, anchoring, assembly and cleaning arrangements, then check balance, stability and circuit operation.
+
+### 46. Concealed lighting installation
+
+Design concealed lighting around the recess dimensions, LED position, heat dissipation and access to drivers. Specify run lengths, colour temperature, dimming and separately controlled zones. Compare strips, channels, diffusers and drivers as distinct items. Inspect light uniformity and unwanted visible points or shadows at handover.
+
+### 47. Garden lighting installation
+
+Mark paths, trees and features to illuminate, and identify irrigation lines and excavation areas to avoid clashes with pipes and roots. Specify luminaires suitable for ground or raised installation, protected cable routes, maintenance access and timed controls. Check beam direction, secure mounting and night-time operation, and record buried cable routes.
+
+### 48. Motion sensor installation
+
+Choose sensor positions from detection distance, field of view, mounting height and pedestrian or vehicle movement rather than the nearest switch. Explain whether the sensor serves a corridor or an exterior entrance, and specify switch-off delay and daylight threshold. Test detection from several approach directions to reduce false triggers, and check manual override where needed.
+
+### 49. Lighting fixture maintenance
+
+For flickering, overheating or failed luminaires, record type, model, number affected and when symptoms occur. Drivers, connections and the fitting itself may each be responsible; request diagnosis before replacement and confirm compatible parts. A competent person should isolate the circuit safely, then verify stable operation, visible heat signs and secure mounting after repair.

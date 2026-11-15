@@ -1260,3 +1260,8 @@
 - `general-contracting/landscaping`: expanded acceptance inspections for all 14 original services in `content-ar.md` and `content-en.md`, verified both GitHub read-backs; updated the specialty review. This is a focused revision, **not** a declaration that the 434-service area-wide semantic audit has passed.
 - **Status:** `in_progress`; 8 sectors/50 specialties/434 services per language remain saved, but editorial acceptance is pending.
 - **Next exact checkpoint:** `general-contracting/irrigation-networks` services 1–7 (Arabic and English, service-specific acceptance and scope audit), followed by `general-contracting/shade-outdoor-works` services 1–7, then remaining specialty-by-specialty review across all sectors. Recheck duplicate wording, technical safety, original taxonomy order, and language equivalence before marking the area complete.
+
+## 2026-11-15 — Irrigation editorial checkpoint
+
+- `general-contracting/irrigation-networks`: revised acceptance sections for services 1–7 in both languages and verified both files by GitHub read-back; specialty review updated.
+- **Status remains `in_progress`.** Next exact checkpoint: `general-contracting/shade-outdoor-works` services 1–7, followed by remaining specialty audits and area-wide 434-service semantic review. No later area has been started.

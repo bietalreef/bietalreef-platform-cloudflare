@@ -216,3 +216,36 @@ Identify plant types, soil, seasons and shade before setting runtimes; one sched
 ### 49. Irrigation leak detection
 
 If pressure drops or a wet patch persists, record meter readings, watering times and the affected location before excavation. Request zone isolation and testing to locate the likely fault, distinguishing detection, repair and reinstatement of disturbed surfaces.
+
+## Shades and external works
+
+> Editorial coverage includes a currently non-selectable category. This does not activate services or establish provider availability.
+
+### 50. Car shade installation
+
+Measure the bays, vehicle dimensions and required headroom; photograph column locations, entrances and finished ground levels. Request a fixing layout identifying the frame, shade membrane, drainage and wind-design assumptions assessed by a competent designer. Compare whether foundations and paving reinstatement are included, then check column alignment, fabric tension and door and vehicle clearance.
+
+### 51. Pergola construction
+
+Set out the seating footprint, sun exposure, roof height and clearance from doors and windows. Compare treated timber and metal by upkeep, finish and fixing method; request connection and foundation details plus lighting provisions if required. Inspect structural stability, edge finishing, drainage and unobstructed paths at handover.
+
+### 52. Outdoor seating area construction
+
+Provide a layout showing seating capacity, circulation and any barbecue or water points, alongside photographs of the existing surface. Have the quotation separate sub-base, paving, seating, shade and lighting, with outdoor-suitable materials and cleaning requirements. Check seat stability, surface falls away from the building and safe circulation.
+
+### 53. External fence installation
+
+Survey boundary lengths, changing ground levels, gates and junctions with buildings rather than pricing solely from photographs. Request drawings for footings, posts, movement joints, materials and finishes; confirm property boundaries and applicable requirements before work. Check alignment, anchorage, gate operation and drainage on completion.
+
+### 54. Garden pathway construction
+
+Mark the route, intended walking width and connections to entrance levels; photograph ponding spots and nearby tree roots. Compare surfacing, sub-base, edge restraints, drainage and slip resistance, and approve a material sample. Walk the completed path to check levels, falls and secure edges without damage to planting.
+
+### 55. Interlocking paver installation
+
+Provide the paved area, anticipated pedestrian or vehicle loads and utility-cover locations. Specify paver thickness, compacted base, bedding, joints and edge restraints; price removal of old surfacing separately. Check consistent levels, drainage falls and any settlement under trial traffic before acceptance.
+
+### 56. Waterfall and fountain construction
+
+Define basin dimensions, location, water and power sources and splash clearance from walls and seating; provide site and utility-route photographs. Quotations should identify waterproofing, pumps, filtration, cleaning access, electrical protection and leak control, not just appearance. Test a full operating cycle, noise, splash spread and maintenance access.
+

@@ -385,3 +385,63 @@ Separate camera image faults from recording or connectivity faults. Inspect lens
 ### 91. Mobile CCTV viewing setup
 
 Specify whether mobile access needs live viewing, playback or motion alerts and who may use each function. Prefer supported secure access with suitable authentication and current software rather than unnecessary exposed ports. Test access from an external network and removal of a former user's device, transferring full account control to the owner.
+
+## Painting
+
+### 92. Villa painting
+
+Survey rooms, ceilings and elevations, distinguishing new substrates from previously painted areas. Measure net surfaces and specify crack or damp treatment, filler, primer, finish coats and sheen. Approve a sample under the actual lighting. Inspect coverage, edges and protection of doors and flooring after drying.
+
+### 93. Apartment painting
+
+For an occupied apartment, agree which furniture stays, room access, ventilation and reoccupation timing. Photograph existing defects and price removal of flaking coatings separately from finishing coats. Specify interior-compatible products and inspect colour consistency in daylight, along with clean switches and floors, before furniture is returned.
+
+### 94. Exterior building painting
+
+Record substrate type, access heights, cracks and existing coatings. Colour alone is insufficient: require a compatible system for the surface and weather exposure, cleaning and repair steps, and safe access arrangements. Check a sample's adhesion and consistent coverage around windows and corners, documenting repaired areas at handover.
+
+### 95. Painting doors and timber
+
+Identify whether each door is solid wood, veneer or MDF and whether refinishing or a colour change is required. Agree hardware removal or protection, sanding, primer, edge treatment and a sample finish. Inspect smoothness, colour, door clearance and functioning hinges and locks before acceptance.
+
+### 96. Decorative paint finishes
+
+Define the selected effect, its boundaries and a physical sample. Cement-look, metallic and textured finishes differ in application and cleaning. Approve texture, colour, protective topcoat and maintenance guidance, compare preparation and coat counts, then inspect the result against the sample under site lighting.
+
+### 97. Removing and treating old paint
+
+Identify why coatings are peeling—moisture, poor adhesion, contamination or incompatible layers—before stripping. Photograph affected areas, define removal limits and dust containment. Do not coat loose paint: require cleaning, drying, repairs and an appropriate adhesion check before priming. Verify repaired edges are sound.
+
+### 98. Paint repairs and repainting
+
+Distinguish a small patch from repainting an entire wall: aged paint may not match a new batch exactly. Record defects, causes and colour codes where available. Price filler, primer and finish separately. Inspect after drying from several angles and agree how conspicuous differences in colour or sheen will be addressed.
+
+## Waterproofing and thermal insulation
+
+### 99. Roof waterproofing
+
+Survey roof area, falls, drains, joints, equipment bases and ponding locations. Specify a membrane or coating compatible with the substrate and exposure, including upstands, penetrations and protective layers. Agree a suitable test before covering the system and document treated zones and the scope of any warranty.
+
+### 100. Bathroom waterproofing
+
+Check plumbing, drainage and finished levels before membrane application. Identify wet floor and wall zones, corners, drains and penetrations, plus curing time before tiling. Request layer records and an appropriate, safe water-retention test where feasible. Inspect and accept the waterproofing before it is concealed.
+
+### 101. Water tank waterproofing
+
+Confirm tank construction, condition and intended water use before selecting an internal lining. Inspect cracks, joints and pipe entries, and specify draining, cleaning, ventilation and safe entry. For potable water, verify documented suitability of the product and applicable requirements. Require tightness testing and documented cleaning before reuse.
+
+### 102. Building thermal insulation
+
+Specify whether insulation is for walls, roofs or ceilings, and measure coverage including openings and thermal bridges. Compare thickness, thermal performance and fire characteristics appropriate to the application, not just price per square metre. Review fixing and moisture protection details and inspect continuity and specified products.
+
+### 103. External wall waterproofing
+
+Trace moisture to cracks, window joints or services before proposing a full façade coating. Record wall height, substrate and damp locations. Specify joint repairs, surface preparation, protection and final finish. Use an appropriate localised test after treatment; an immediately dry-looking stain does not establish that the wall has dried.
+
+### 104. Rainwater leak remediation
+
+Trace entry points at roofs, parapets, openings and drains using photographs and the timing of dampness. Separate fall corrections and drainage clearing from membrane or joint repairs. Record each treated location and use a suitable test without flooding elements not designed for it, followed by observation during the next rainfall.
+
+### 105. Waterproofing maintenance
+
+Inspect blisters, tears, laps, equipment penetrations and ponding areas. Identify the existing system and use compatible repair materials rather than trapping moisture under patches. Request a marked repair plan, before-and-after photographs, testing records and clear warranty boundaries, plus periodic checks of drains and upstands.

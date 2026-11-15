@@ -1287,3 +1287,9 @@
 
 - الحالة: `in_progress`؛ أضيفت 14 فقرة اتفاق مستقلة بالعربية و14 بالإنجليزية إلى [المحتوى العربي](./general-contracting/landscaping/content-ar.md) و[الإنجليزي](./general-contracting/landscaping/content-en.md)، مع التحقق بإعادة قراءة الملفين من GitHub، وتوثيق [المراجعة](./general-contracting/landscaping/review.md).
 - **أول نقص تالٍ:** تدقيق نطاق العمل وبنود الاتفاق للخدمات 1–7 في `general-contracting/irrigation-networks` ثم الخدمات 1–7 في `general-contracting/shade-outdoor-works`، ثم بقية تخصصات الشركات بالقطاعات الثمانية، وتدقيق أصالة النصوص والتكافؤ الفني والتصنيفات المقيدة والمقترحة لجميع الخدمات الـ434 بكل لغة. لا تبدأ المويجعي قبل الاعتماد الكامل.
+
+## متابعة 2026-11-15 — تدقيق بنود الاتفاق لثلاثة تخصصات
+
+- الحالة: `in_progress`. أضيفت بنود اتفاق خاصة بكل خدمة في تنسيق الحدائق (14 خدمة)، وشبكات الري (7 خدمات)، والمظلات والأعمال الخارجية (7 خدمات)، بالعربية والإنجليزية، وأُعيدت قراءة ملفات المحتوى الستة من GitHub للتحقق.
+- الروابط: [تنسيق الحدائق](./general-contracting/landscaping/review.md) · [شبكات الري](./general-contracting/irrigation-networks/review.md) · [المظلات والأعمال الخارجية](./general-contracting/shade-outdoor-works/review.md).
+- **النواقص الدقيقة التالية:** تدقيق أصالة النطاق والاستثناءات والتكافؤ الفني لخدمات `general-contracting/building-villas` 1–14، ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7؛ مراجعة `interior-design/interior-materials` 1–21 وبقية تخصصات الشركات في القطاعات الثمانية، ومطابقة 434 خدمة في كل لغة، وتوثيق المقيدة والمقترحة. لا تنتقل إلى المويجعي قبل الاعتماد الكامل للجيمي.

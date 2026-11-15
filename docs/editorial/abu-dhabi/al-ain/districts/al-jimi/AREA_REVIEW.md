@@ -1355,3 +1355,9 @@
 
 - استُكملت إضافات فحص تنسيقي مخصصة للخدمات 8–21 في [العربية](./interior-design/interior-materials/content-ar.md) و[الإنجليزية](./interior-design/interior-materials/content-en.md)، مع [مراجعة التخصص](./interior-design/interior-materials/review.md).
 - الحالة `in_progress`. أول نقص تالٍ: مراجعة الجودة والتكرار والتكافؤ الفني لكل خدمة في `general-maintenance/general-maintenance` ثم بقية تخصصات الصيانة ومواد البناء والورش والأثاث والمعدات والتنظيف؛ جرد جميع تخصصات الشركات الخمسين وخدماتها الـ434 بكل لغة، والتحقق من التصنيفات المقيدة والمقترحة قبل اعتماد الجيمي. لا تبدأ المويجعي.
+
+## 2026-11-16 — الصيانة العامة: المواصفات والمعدات
+
+- الحالة: `in_progress`. أُضيفت فقرات مميزة للمواصفات والخامات والمعدات في الخدمات 1–14 بالعربية والإنجليزية: [العربية](./general-maintenance/general-maintenance/content-ar.md) · [English](./general-maintenance/general-maintenance/content-en.md) · [المراجعة](./general-maintenance/general-maintenance/review.md).
+- أُعيدت قراءة ملفي المحتوى من GitHub وتأكد وجود 14 عنوانًا بكل لغة وتطابق النص بعد الرفع.
+- **أول نقص تالٍ:** تدقيق التكافؤ الدلالي والاستثناءات للخدمات 1–14 في `general-maintenance/general-maintenance` ثم `general-maintenance/integrated-finishing` الخدمات 1–7، ثم بقية تخصصات `general-maintenance` تباعًا، ثم مواد البناء والورش والأثاث والمعدات والتنظيف. مراجعة جميع تخصصات الشركات الخمسين والخدمات الـ434 بكل لغة، والتكرار والتصنيفات المقيدة والمقترحة قبل اعتماد الجيمي. لا تبدأ المويجعي.

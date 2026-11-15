@@ -269,3 +269,60 @@ Tank lining requires knowledge of shell material, stored-water use, cracks, join
 
 Repairing a damp patch begins by confirming that the leak has stopped, not immediately repainting. Photograph damage, track moisture over time and assess affected gypsum, insulation or timber. Separate source repair, drying, removal of damaged material, filling and repainting in quotations. Accept finishes only once the substrate is dry and recurrence risks have been reviewed.
 
+## Air conditioning and refrigeration
+
+### 64. Split air-conditioner installation
+
+Before choosing a split unit, record room dimensions, ceiling height, solar exposure, internal heat gains and occupancy; floor area alone does not determine capacity. Survey indoor placement, condensate drainage, outdoor-unit ventilation and service access. Quotations should specify refrigerant pipe length, insulation, brackets and electrical provision. At handover check secure mounting, drainage, insulation, delivered air temperatures and commissioning records.
+
+### 65. Central air-conditioning installation
+
+A central system needs drawings showing zone cooling loads, supply and return airflow, duct routes and plant space. Request an equipment schedule with capacities, controls, noise considerations and maintenance clearances. Separate electrical, drainage, insulation and testing costs from equipment prices. Commissioning should include airflow balancing, temperature checks and operation across relevant modes, not merely confirmation that the compressor starts.
+
+### 66. Concealed air-conditioning installation
+
+A concealed unit must fit the ceiling void while leaving access to filters, fan components and condensate connections. Supply reflected ceiling plans showing lighting and structural obstructions before gypsum closure. Compare external static-pressure suitability, duct insulation, drainage arrangements and controls. Handover should verify airflow at each outlet and future maintenance access without demolition.
+
+### 67. Air-conditioning pipework installation
+
+Refrigerant pipe sizing and permissible lengths depend on the equipment, refrigerant and manufacturer's vertical-separation limits. Document routes, penetrations, sunlight protection, brazing, insulation, pressure testing and evacuation before concealing pipework. The quotation should identify wall opening and reinstatement responsibilities. Obtain photographs of hidden routes and test results for future maintenance.
+
+### 68. Air duct installation
+
+Begin with a layout showing design airflow per room, duct sections and supply and return locations. Oversizing a duct alone does not guarantee proper distribution. Ask for sheet material, thickness, supports, joint sealing, insulation and cleaning access details. At handover review visible leakage, airflow measurements, noise and coordination with ceilings and light fixtures.
+
+### 69. Air-conditioning equipment replacement
+
+Investigate poor performance before replacing equipment: leaks, blocked airflow, faulty controls or incorrect sizing may explain the complaint. If replacement is justified, check electrical capacity, refrigerant lines, supports and drainage for compatibility. Compare removal, safe handling of the old unit, new installation, warranty and commissioning separately. Record baseline performance measurements at handover.
+
+### 70. System commissioning and inspection
+
+After installation or repair, a commissioning run should check thermostat response, fan operation, condensate drainage, airflow distribution, connections and fault indications. Ask for a checklist recording supply and return temperatures and, where applicable, electrical current and operating pressures in line with manufacturer instructions. Log defects and retest them before final acceptance.
+
+### 71. Air-conditioner cleaning
+
+Distinguish filter and coil cleaning from drain-pan cleaning, odour investigation and condensate blockage removal. Provide photographs and symptoms, and ask how chemicals, electrical components, furnishings and dirty water will be managed. Inspect coils, trays, drainage and fan operation at completion. Cleaning alone is not a remedy for a refrigerant leak.
+
+### 72. Refrigerant recharge
+
+Low refrigerant in a sealed system calls for leak diagnosis before recharge. Identify the refrigerant from the unit nameplate, then specify leak testing, repair, evacuation and charging quantity according to the manufacturer's method. Compare diagnostic, repair, test and refrigerant costs rather than a generic refill price. Retain operating readings and avoid intentional refrigerant release.
+
+### 73. Air-conditioning fault repair
+
+Describe whether the system fails to cool, trips a breaker, makes noise, leaks water or ignores controls; include timing and any fault code. Diagnosis may cover supply, sensors, capacitors, fans, pressure and drainage. Do not approve compressor replacement without supporting tests. Request the diagnosed fault, repair options, parts warranty and post-repair operating checks.
+
+### 74. Air duct cleaning
+
+Duct cleaning is not the same as cleaning filters or visible grilles. Identify accessible sections, inspection openings and whether the concern is construction dust, odour or visible contamination requiring specialist assessment. Ask for dust containment, extraction, protection of ceilings and furniture, and before-and-after photographs of inspected sections. Avoid unsupported claims of complete disinfection or guaranteed health benefits.
+
+### 75. Central air-conditioning maintenance
+
+Start with an asset register, operating hours and fault history, then inspect filters, belts, bearings, coils, fans, drains and protective controls appropriate to each unit. Agree which tasks require shutdown, which consumables are included and what performance readings will be recorded before and after. Review individual unit reports and defect actions rather than a single visit invoice.
+
+### 76. Replacement of spare parts
+
+Record equipment model, serial number, part number and failure symptoms before ordering. Check electrical and mechanical compatibility, not visual similarity alone. Quotations should separate parts, labour and testing, identify original or alternative components and specify warranty terms. Retain the removed part where practical and verify that the fault, leaks or vibration have not persisted.
+
+### 77. Periodic maintenance contracts
+
+A useful contract lists each unit, its location and type, visit frequency, tasks and emergency response arrangements. Clarify whether cleaning, refrigerant, consumables, major repairs and extra call-outs are included. Compare measurable service schedules, maintenance logs, performance readings and defect rectification deadlines rather than subscription price alone.

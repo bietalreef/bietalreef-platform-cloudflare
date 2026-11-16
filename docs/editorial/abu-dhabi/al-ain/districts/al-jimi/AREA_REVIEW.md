@@ -1419,3 +1419,8 @@
 
 - الحالة `in_progress`؛ أُضيفت سبع فحوص مستقلة لكل لغة لخدمات الدهانات 1–7 في [العربية](./general-maintenance/painting/content-ar.md) و[English](./general-maintenance/painting/content-en.md)، مع [مراجعة التخصص](./general-maintenance/painting/review.md). أُعيدت قراءة الملفات بعد الحفظ.
 - **أول نقص تالٍ:** `general-maintenance/waterproofing-insulation` (يُتحقق من اسم المسار قبل التحرير) لخدمات العزل 1–7، ثم تدقيق التكافؤ والاستثناءات للخدمات 1–14 في `general-maintenance/smart-systems-surveillance`، ثم جرد ومراجعة جميع خدمات الشركات الـ434 بكل لغة في القطاعات الثمانية والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## 2026-11-16 — العزل المائي والحراري: تدقيق الاستلام
+
+- الحالة `in_progress`. عُززت فحوص الاستلام للخدمات السبع بالعربية والإنجليزية، مع إعادة قراءة الملفين للتحقق: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [مراجعة التخصص](./general-maintenance/waterproofing-thermal-insulation/review.md).
+- **النواقص الدقيقة التالية:** مراجعة التكافؤ الفني والاستثناءات للخدمات 1–7 في العزل، ثم الخدمات 1–14 في `general-maintenance/smart-systems-surveillance`، ثم تدقيق باقي تخصصات الشركات في القطاعات الثمانية، ومطابقة أسماء ومحتوى 434 خدمة بكل لغة، ومراجعة المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

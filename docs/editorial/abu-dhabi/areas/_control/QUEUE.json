@@ -510,18 +510,18 @@
         "docs/editorial/abu-dhabi/areas/musaffah/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-16",
-      "review_note": "6 sectors completed; equipment-rental 28/53 AR and EN, verified GitHub sequential headings 1-28; next specialty stores and equipment service 29. Cleaning 42 pending. No publication.",
+      "review_note": "GitHub re-fetch verified equipment-rental 42/53 Arabic and English numbered services 1–42; 6/8 sectors complete, 381/434 area services each language. Next equipment 43 نقل مواد البناء. Human review pending; no live changes.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
-        "last_completed_specialty": "مصانع الرخام والحجر",
-        "last_completed_service_number": 28,
-        "next_service_number": 29,
+        "last_completed_specialty": "نقل الأثاث والممتلكات",
+        "last_completed_service_number": 42,
+        "next_service_number": 43,
         "sector_total": 53,
-        "sector_completed": 28,
+        "sector_completed": 42,
         "area_total": 434,
-        "area_completed": 367,
-        "remaining_area_services": 67,
+        "area_completed": 381,
+        "remaining_area_services": 53,
         "editorial_draft_completed": false
       },
       "progress": {

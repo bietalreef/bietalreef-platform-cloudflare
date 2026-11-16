@@ -1450,3 +1450,8 @@
 
 - الحالة: `in_progress`. أضيفت حدود تغيير واعتماد مختلفة لكل خدمة من خدمات التشطيبات المتكاملة السبع بالعربية والإنجليزية، ووُثقت في [العربية](./general-maintenance/integrated-finishes/content-ar.md) و[English](./general-maintenance/integrated-finishes/content-en.md) و[المراجعة](./general-maintenance/integrated-finishes/review.md). أعيدت قراءة الملفات الثلاثة وتطابقت مع المحتوى المحفوظ.
 - **أول نقص تالٍ:** تدقيق التكرار والتكافؤ الدلالي للخدمات 1–7 في `general-maintenance/gypsum-decor` ثم `general-maintenance/flooring-cladding`، يليهما استكمال تدقيق بقية تخصصات الشركات وفق الشجرة. لا تزال المطابقة النهائية لأسماء وتغطية الخدمات الـ434 بكل لغة عبر التخصصات الخمسين والتصنيفات المقيدة والمقترحة غير معتمدة؛ لا يبدأ المويجعي.
+
+## متابعة 2026-11-16 — طلبات عروض أسعار الأرضيات والكسوات
+
+- الحالة `in_progress`؛ خُصصت طلبات عروض أسعار الخدمات السبع في [العربية](./general-maintenance/flooring-cladding/content-ar.md) و[الإنجليزية](./general-maintenance/flooring-cladding/content-en.md) ووُثقت في [المراجعة](./general-maintenance/flooring-cladding/review.md). أُعيدت قراءة الملفين من GitHub بعد الكتابة وتطابقا.
+- **أول نقص تالٍ:** تدقيق تكافؤ اللغة ومطابقة أسماء خدمات `general-maintenance/electrical-lighting` (1–14) ثم `plumbing-leak-detection` (1–14)، وبقية تخصصات الشركات عبر القطاعات الثمانية؛ إجراء جرد أسماء وتغطية وجودة 434 خدمة بكل لغة في 50 تخصصًا ومراجعة المقيد والمقترح. لا يبدأ المويجعي قبل الاعتماد النهائي.

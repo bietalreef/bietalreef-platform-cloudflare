@@ -122,6 +122,66 @@ Identify stone type, surface condition, stains, scratches and existing sealers w
 
 Send a delivery schedule by floor or zone, drawing references, quantities and spare pieces, with required dates and storage arrangements. Assign responsibility for final measurement and post-sample changes. Compare per-piece pricing, edge treatments, packing and freight; reconcile piece IDs with packing lists before accepting deliveries.
 
+## Tools and equipment stores — currently unavailable for selection
+
+### 29. Hand tool sales
+
+When equipping a Musaffah workshop or maintenance crew, provide a list of tasks, users and required wrench, screwdriver, plier and measuring-tool sizes. Insulated electrical tools differ from plumbing or mechanical fastening tools; a generic “complete set” is not a useful specification. Compare steel grade, size coverage, defect warranty and replacement options. Check every item against the order and test moving joints and handle integrity on receipt.
+
+### 30. Power tool sales
+
+Describe the material to be drilled or cut, expected duty cycle and available power supply before selecting drills, grinders or saws. For cordless tools, specify battery count, capacity and compatible charger; for corded models, check voltage and protective features. Compare included accessories, consumables and after-sales support rather than the tool price alone. Inspect serial numbers, guards and switches at handover.
+
+### 31. Safety equipment sales
+
+Match helmets, eyewear, gloves, footwear and fall-protection equipment to a task-specific risk assessment; personal protection does not replace eliminating or engineering out hazards. Provide worker counts, sizes and exposure to dust, sparks or falls, and request relevant product documentation rather than accepting a generic “approved” label. Compare fit, compatibility, manufacturing dates and instructions. Inspect markings, packaging and harness condition on delivery.
+
+### 32. Workshop equipment sales
+
+Specify processes, materials, available floor area, handling aisles, ventilation and power locations before ordering compressors, presses, benches or cutting machinery. Request equipment dimensions, maintenance clearances, electrical demand and anchoring details. Separate machine cost from delivery, commissioning and training. Witness functional and emergency-stop checks and obtain operating manuals and spare-part details.
+
+### 33. Cleaning equipment sales
+
+Choose floor scrubbers, industrial vacuums or pressure washers according to floor area, contamination, finish sensitivity and water and drainage arrangements. Supply surface photographs, aisle widths and access heights; ask for realistic productivity, tank and filter details and compatible chemicals. Compare brushes, attachments and maintenance costs, then trial the equipment on a small area to confirm it cleans without scratching or excessive residual moisture.
+
+### 34. Spare parts sales
+
+Do not order solely from appearance. Provide manufacturer, model, serial number, a photograph of the nameplate and the failed part. State whether an original or compatible replacement is acceptable and who will verify fit before installation. Compare part numbers, revisions, warranty and return conditions. Inspect packaging, markings and dimensions before fitting to avoid damaging or immobilising the equipment.
+
+### 35. Equipment maintenance
+
+Record symptoms, operating hours, fault codes and when failures occur; include a nameplate photograph without bypassing guards or interlocks. Ask for diagnosis to be itemised separately from repair, including replacement parts, testing and transport responsibility. At handover review the work record and replaced components, then conduct a controlled functional test and check for leaks and working stop mechanisms.
+
+## Furniture and belongings transport
+
+### 36. Home furniture removals
+
+List rooms, bulky items and fragile appliances, with photographs of doors, lifts and stairs at collection and destination. Identify items requiring dismantling, clearance restrictions and floor or wall protection. Compare labour, vehicle, wrapping, unloading, reassembly and damage-cover terms. Reconcile the inventory and inspect condition before signing the delivery record.
+
+### 37. Office furniture removals
+
+Count workstations, chairs, cabinets and meeting-room equipment, distinguishing furniture from records and devices requiring controlled custody or data handling. Agree on item labels, a destination layout and a move window to limit disruption. Compare responsibility for disconnecting and reconnecting devices, assembly and packaging removal. Check each destination zone against its inventory for damage and stability.
+
+### 38. Furniture dismantling and reassembly
+
+Photograph each item before dismantling and document its fixings, panel condition and any joints unsuitable for repeated assembly. Require parts to be numbered and hinges and fasteners bagged by item; clarify whether wall re-anchoring is included. Compare dismantling, carriage, reassembly and replacement-fixing charges. At acceptance test drawer movement, door alignment and unit stability.
+
+### 39. Furniture wrapping
+
+Different materials need different protection: painted timber, glass, leather, upholstery and electronics should not all be wrapped identically. Provide photographs, dimensions and expected transit or storage duration, identifying edges that need rigid guards. Compare wrap layers, separation materials, package labels and unpacking responsibility. Ensure adhesive never touches finished surfaces and inspect glass at destination.
+
+### 40. Loading labour provision
+
+Specify item counts, approximate weights, floor levels, manual carrying distances, obstructions and permitted loading times. Staffing numbers alone do not define a safe task: identify handling aids, heavy-item arrangements and supervision. Compare working hours, task boundaries and waiting charges, and record shortages or damage on the delivery sheet before the team leaves.
+
+### 41. Temporary storage
+
+List contents, approximate volume and storage period, separating moisture-sensitive or perishable goods from ordinary furniture. Request details of storage conditions, stacking, access, inventory and protection from water and pests; do not assume every facility is climate-controlled or insured. Compare intake and retrieval charges, minimum periods and damage cover. Obtain a receipt recording package counts, condition and photographs.
+
+### 42. Inter-emirate belongings transport
+
+Supply collection and destination addresses, building access rules, permitted hours, an item list and any vehicle restrictions. Separate haulage from packing, dismantling, reassembly, waiting and extra handling, and name a contact at each end. Photograph fragile items and count packages before loading; reconcile the inventory and note loss or damage before closing the job.
+
 ## Preparing a quotation request
 
 Send the service, Musaffah project location, drawings, photographs, quantities, material specifications and requested delivery date, plus your name and contact number, to Biet Al Reef customer support. Requests can be received without a published company; this draft does not activate a restricted factory specialty or confirm price or availability.

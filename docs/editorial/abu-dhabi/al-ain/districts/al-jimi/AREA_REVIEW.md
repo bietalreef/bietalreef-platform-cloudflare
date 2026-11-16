@@ -1424,3 +1424,8 @@
 
 - الحالة `in_progress`. عُززت فحوص الاستلام للخدمات السبع بالعربية والإنجليزية، مع إعادة قراءة الملفين للتحقق: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [مراجعة التخصص](./general-maintenance/waterproofing-thermal-insulation/review.md).
 - **النواقص الدقيقة التالية:** مراجعة التكافؤ الفني والاستثناءات للخدمات 1–7 في العزل، ثم الخدمات 1–14 في `general-maintenance/smart-systems-surveillance`، ثم تدقيق باقي تخصصات الشركات في القطاعات الثمانية، ومطابقة أسماء ومحتوى 434 خدمة بكل لغة، ومراجعة المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## 2026-11-16 — العزل: استثناءات وحدود الفحص باللغتين
+
+- الحالة `in_progress`؛ أضيفت حدود فحص ومسؤولية خاصة لكل واحدة من خدمات العزل السبع في [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) و[English](./general-maintenance/waterproofing-thermal-insulation/content-en.md)، ووثقت في [مراجعة التخصص](./general-maintenance/waterproofing-thermal-insulation/review.md). أُعيدت قراءة الملفين بعد الحفظ وتطابقت المحتويات.
+- **أول نقص دقيق:** تدقيق الخدمات 1–14 في `general-maintenance/smart-systems-surveillance` للتكافؤ الفني والاستثناءات والخصوصية؛ ثم تدقيق الصيانة العامة 1–14 والتشطيبات المتكاملة 1–7 وبقية التخصصات الخمسين، مع جرد ومطابقة أسماء ومحتوى 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

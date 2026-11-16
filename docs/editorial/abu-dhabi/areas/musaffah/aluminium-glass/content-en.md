@@ -121,3 +121,62 @@ Specify whether the decoration uses slats, frames or raised panels and where mov
 ### 28. Interior finishing and handover
 
 Final interior handover needs an item-by-item checklist matching approved drawings to completed work, including coatings, edges, joints, doors and hardware. Record defects with photographs and locations, agree rectification responsibilities and obtain care instructions and agreed warranties. Snag closure does not replace specialist electrical or fire-safety inspections.
+
+
+## Aluminium doors and windows
+
+### 29. Aluminium window fabrication
+
+Measure each finished opening at several points and confirm opening direction, curtain clearance and access. Require shop drawings identifying profile system, section thickness, finish, gaskets, glazing and rainwater drainage. Compare quotations by profiles and hardware rather than metre rate alone; inspect frame squareness, dimensions and corner joints before dispatch.
+
+### 30. Aluminium window installation
+
+Survey opening alignment, sill level and safe fixing points before work. The scope should specify anchors, perimeter seals and treatment of the frame-to-wall joint without blocking drainage slots. At handover operate each sash and lock, inspect gasket contact and agree a controlled water check that will not damage finishes.
+
+### 31. Aluminium door fabrication
+
+Record clear opening dimensions, swing direction, frequency of use, lock location and threshold requirements. Shop drawings should show reinforcement at hinges, infill or glass type and coating. Compare hinge and handle suitability and warranty terms; inspect sash squareness and joint integrity before transport.
+
+### 32. Aluminium door installation
+
+Check finished floor level, door swing and clashes with furniture or equipment. Agree frame anchorage, threshold treatment, perimeter sealing, lock adjustment and door stop. Accept only after checking even gaps, smooth closure, no floor rubbing and documenting any scratches or finish damage.
+
+### 33. Screen installation
+
+Distinguish removable insect mesh from a security grille: they require different materials, fixings and performance. Measure after windows are installed and plan cleaning access and safe opening where applicable; do not assume ordinary mesh provides security. Inspect mesh tension, edges, frame fixing and unobstructed window operation.
+
+### 34. Door and window maintenance
+
+Describe the symptom: sticking rollers, poor closure, dust or water ingress, or loose sashes. Ask for tracks, rollers, seals and hinges to be inspected before replacing an entire frame. The quote should separate cleaning, adjustment and new parts; test operation after repair and record the diagnosed cause.
+
+### 35. Hardware and glazing replacement
+
+Photograph the failed part and measure existing glass dimensions, thickness and location, retaining any manufacturer markings. Replacement glazing must have the appropriate safety characteristics for its application, while hardware must match the existing system. Itemise removal, handling and safe disposal; check glazing retention, locks and sash movement at handover.
+
+### 36. Aluminium kitchen fabrication
+
+Begin with a dimensioned layout showing appliances, sink, electrical and plumbing services and cabinet heights. Request finish and infill samples plus profile, hinge and drawer-runner specifications, with moisture-prone areas addressed. Compare itemised units, hardware and thicknesses; inspect doors, edges and alignment before delivery.
+
+### 37. Aluminium kitchen installation
+
+Verify as-built dimensions, floor levels and concealed utilities before drilling. Include cabinet fixing, jointing, drawer and door alignment, and appliance ventilation according to equipment instructions. Check stability, worktop level and opening clearances; have the relevant specialist test sink connections.
+
+### 38. Aluminium cabinet fabrication
+
+Specify storage purpose, expected loads, shelf spans, depth and whether the cabinet is indoors or exposed. Approve drawings showing door operation, anchorage, finish and appropriate environmental resistance. Inspect dimensions, shelf stability, hinge movement and sharp edges before acceptance.
+
+### 39. Bathroom cabinet fabrication
+
+Measure around the basin, trap, water connections and mirror, allowing adequate door clearance. Specify moisture-tolerant panels and edges, service openings and access for leak repairs. Compare infill and hardware specifications; at handover inspect water clearance and access to plumbing.
+
+### 40. Outdoor storage unit fabrication
+
+Identify contents, loads, sun and rain exposure, floor condition and fixing location. The design should address ventilation, drainage, corrosion resistance and locking; ordinary cabinets must not be assumed suitable for hazardous substances. Test anchorage, door operation and absence of standing water at the base.
+
+### 41. Aluminium kitchen refurbishment
+
+Survey which frames remain sound and which are distorted or moisture-damaged. Obtain an itemised scope separating replacement fronts, hinges and runners from structural cabinet replacement, with compatible finish samples. Compare refurbishment against replacement by component condition; test door and drawer alignment after work.
+
+### 42. Kitchen hinge and hardware maintenance
+
+Identify sagging doors and sticking drawers, photographing hinge or runner type and fixing dimensions. Inspect stripped screw holes, warped fronts and soft-close adjustments before ordering parts. New hardware alone cannot repair an unsound cabinet carcass; test repeated opening and closing and shelf stability after repair.

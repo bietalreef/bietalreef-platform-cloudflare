@@ -326,6 +326,64 @@ Identify equipment model, serial number, part number and failure symptoms before
 
 Define every covered unit and location, visit frequency and response arrangements, distinguishing routine inspection and cleaning from excluded repairs and parts. Request scheduled deliverables, operating records, fault tickets and property-management access arrangements. Compare emergency visit allowances, cancellation terms and parts responsibility. Review service reports and fault closure performance before renewal.
 
+## Smart systems and surveillance
+
+### 78. Smart lighting control
+
+List the lighting circuits and distinguish simple switching from dimming; not every lamp or driver supports dimming. Supply switchboard photographs and point counts. Specify load compatibility, wiring needs and manual operation when connectivity fails. Compare programming, accessories and warranty, then test every circuit and scheduled scene.
+
+### 79. Smart air-conditioning control
+
+Record air-conditioner models, controller types and connection-terminal photographs before selecting an interface. Infrared control is not equivalent to direct wired integration. Identify rooms, schedules and user permissions. Specify the limits of control and offline behaviour. Verify start/stop, setpoint changes and settings recovery without bypassing original protections.
+
+### 80. Smart lock installation
+
+Measure door thickness, cylinder type, handing and handle clearance, and photograph the door edge and latch. Compare access methods, code administration, battery backup, emergency key and safe egress. Test mechanical and electronic locking from both sides and transfer administrator privileges to the owner.
+
+### 81. Smart curtain installation
+
+Provide opening width and height, curtain weight, track type and photographs of the power or battery location. Require the quote to identify motor capacity, track length, fixing method and cable concealment. Test travel limits, manual override where supported, and fabric clearance; record the final calibration.
+
+### 82. Connecting devices to a phone app
+
+Inventory devices, brands, firmware versions and existing apps, and identify the account owner and guest users. Check supported connectivity protocols rather than assuming a single app can operate everything. Compare hub costs, subscriptions and updates. Test local and remote control and transfer the primary account to the customer.
+
+### 83. Smart automation scenes
+
+Describe specific routines such as switching off nonessential lighting when leaving, excluding safety-critical equipment. Document triggers, schedules and precedence when rules conflict. Request a readable logic diagram for each scene. Compare programming and later editing costs. Test arrival, departure, internet outages and manual override.
+
+### 84. Smart home system maintenance
+
+Inventory devices, hubs, software versions, error messages and failure times. Distinguish power and network faults from pairing or automation errors before replacing hardware. With owner consent, back up configurations and plan reversible updates. Acceptance requires retesting affected devices and documenting access permissions without retaining customer passwords.
+
+### 85. CCTV camera installation
+
+Define each camera's purpose, permissible field of view, power, network and storage requirements; avoid capturing other people's private spaces. Request a location plan specifying resolution, night performance and weather protection. Compare cabling, retention and warranty, and verify applicable regulatory requirements before installation. Test daytime and nighttime images and access controls.
+
+### 86. Video recorder installation
+
+Count cameras, resolution, frame rates and required retention to size storage rather than relying on advertised disk capacity. Specify ventilation, power backup and export procedures. Compare channel capacity, camera compatibility and secure access. Test recording, playback and export under the owner's permissions.
+
+### 87. Alarm system installation
+
+Clarify whether the requirement concerns intrusion, fire or technical alerts: components and responsible authorities differ. Provide entry plans, zones and sensor locations. Specify power, battery backup, communications and integration limits. Do not claim official approval without verification. Test each detector, notification, acknowledgement and reset procedure.
+
+### 88. Access control installation
+
+Specify doors, user counts, access windows, readers and emergency exit arrangements. Request a diagram showing locks, power, network and entry-log retention, with relevant life-safety checks. Compare software licences and maintenance. Test different permissions, power loss and revocation of a former user's credential.
+
+### 89. Intercom installation
+
+Count indoor stations and entrances, measure cable runs and specify audio, video and remote door release needs. Check compatibility with existing locks, networking and power. Compare audio/video quality and exterior protection. Test calls from each station, release operation and administrator permissions.
+
+### 90. CCTV camera maintenance
+
+Collect examples of blurred or interrupted footage and recording gaps. Check lens, power, cabling, network and storage before proposing camera replacement. Clarify whether cleaning, configuration and firmware updates are included. Compare diagnostics and parts. Accept only after image and playback tests, without deleting existing evidence.
+
+### 91. Connecting CCTV to a phone
+
+Identify recorder model, connectivity and account ownership before enabling remote viewing. Prefer secure access with strong authentication over unnecessary open ports. Compare app limitations, alerts, data use and subscriptions. Test live view and notifications on the owner's device, then revoke temporary technician access.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

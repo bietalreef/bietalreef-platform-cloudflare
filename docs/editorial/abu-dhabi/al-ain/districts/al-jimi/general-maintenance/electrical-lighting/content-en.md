@@ -10,7 +10,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Specify conduits, boxes, conductors and protection; wall reinstatement is excluded unless priced. Compare point and circuit counts, protective devices and pre-closure tests; require separate pricing for chasing and wall reinstatement.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Inspect routes against the approved layout and photograph concealed work. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Approve point and circuit schedules before chasing; require photographs of concealed conduits and boxes and qualified test records before closure. Inspect routes against the approved layout and photograph concealed work. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 2. Cable and wire installation
 
@@ -20,7 +20,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Specify cables and compliant terminations; new conduit routes are excluded unless quoted. Compare specified conductor sizes, route lengths, protection, terminations and insulation testing rather than metre rates alone.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Request insulation and continuity test records and cable-end identification. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree cable routes, sizes and termination locations; require qualified insulation and continuity test records before concealment. Request insulation and continuity test records and cable-end identification. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 3. Distribution board installation
 
@@ -30,7 +30,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Itemise enclosure, protective devices and labels; upstream supply upgrades require separate approval. Compare board capacity, spare ways, protection types, circuit labelling and test reports; price any supply upgrade separately.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check circuit labelling, test documentation and safe maintenance access. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Confirm the protective-device schedule, labelling and safe isolation responsibility; obtain board test results and an updated circuit diagram. Check circuit labelling, test documentation and safe maintenance access. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 4. Sockets and switches installation
 
@@ -40,7 +40,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Identify accessories and boxes; new circuit wiring is separate unless included. Compare accessory models, point counts, back boxes, wiring alterations and individual point tests.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Operate every switch and test each socket with covers securely fitted. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree accessory counts, mounting heights, models and wet-area locations; require a functional and fixing check for every point by the contractor. Operate every switch and test each socket with covers securely fitted. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 5. Electrical supply for annexes
 
@@ -50,7 +50,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Price cable, protection and termination; trenching and paving reinstatement are separate unless listed. Compare supply-route length, outdoor protection, excavation, backfill, paving reinstatement and required approvals as distinct items.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Verify protected routing and documented commissioning under expected load. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Separate supply route, cable protection, permits, trenching and paving reinstatement in the agreement; obtain commissioning and route records. Verify protected routing and documented commissioning under expected load. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 6. Electrical network rehabilitation
 
@@ -60,7 +60,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Identify circuits to isolate and replace; a full-property rewire is not assumed. Compare the circuit replacement schedule, planned outages, reinstatement, commissioning records and updated drawings.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Obtain updated circuit records and relevant electrical test results. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** List replaced circuits, outage windows and occupied-area protection; receive as-built circuit drawings and test results for each affected circuit. Obtain updated circuit records and relevant electrical test results. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 7. Electrical load assessment
 
@@ -70,7 +70,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Agree on measurements and written findings; remedial electrical works are separate. Compare measurement duration, operating-load conditions, report scope and recommendations; exclude unspecified repairs from assessment fees.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check that the report identifies observed loads, limitations and recommended action. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Specify measurement conditions, duration and included equipment; receive a report distinguishing measured from estimated loads and assessment from repairs. Check that the report identifies observed loads, limitations and recommended action. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 8. Indoor lighting installation
 
@@ -80,7 +80,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** List fittings and connections to existing points; additional wiring is separate. Compare fitting quantities, locations, colour temperature, wattage and dimmer compatibility; separate new-point wiring.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Test switching, dimming where specified and evenness of illumination. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Approve fitting layout, colour temperature and dimming requirements before purchase; test lighting distribution and controls in each room. Test switching, dimming where specified and evenness of illumination. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 9. Outdoor lighting installation
 
@@ -90,7 +90,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Specify weather-suitable fittings and secure fixings; access equipment must be quoted. Compare environmental suitability, weather sealing, fixings, access equipment and weather-related product warranty.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Inspect cable entries and fittings and test after dark. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree environmental suitability, safe access and fixing methods; check sealed cable entries and operation after dark. Inspect cable entries and fittings and test after dark. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 10. Chandelier installation
 
@@ -100,7 +100,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Include an engineered fixing suited to the substrate; ceiling reinforcement or lifts are separate. Compare fixture weight against fixing capacity, ceiling assessment, lifting equipment and the responsibility for structural reinforcement.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Confirm support stability and operation of every lamp. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Require a competent assessment of suspension capacity before lifting the chandelier; verify secure support and operation of all lamps. Confirm support stability and operation of every lamp. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 11. Concealed cove lighting
 
@@ -110,7 +110,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** List LED strips, channels and drivers; gypsum construction is a separate scope. Compare strip lengths, light density, driver access and replaceability; price gypsum work and access hatches separately.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Check uniformity, flicker and access to replace drivers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Fix driver positions and access panels before gypsum closure; inspect light uniformity and replacement access without demolition. Check uniformity, flicker and access to replace drivers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 12. Garden lighting installation
 
@@ -120,7 +120,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Specify protected outdoor wiring and fittings; landscaping and irrigation are separate. Compare fitting positions, protected cable routes at irrigation crossings, excavation and landscape reinstatement.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Conduct a night-time check and confirm wiring avoids irrigation works. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Coordinate cable routing with irrigation and excavation; receive a route record and night check for glare and trip hazards. Conduct a night-time check and confirm wiring avoids irrigation works. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 13. Motion sensor installation
 
@@ -130,7 +130,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Include sensor connection and sensitivity/timer adjustment; full circuit replacement is separate. Compare detection coverage, environmental rating, timing and sensitivity settings, with an on-site walk test.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Walk-test intended approaches and check for nuisance triggers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree detection direction, sensitivity and delay; walk-test intended approaches and record nuisance activation. Walk-test intended approaches and check for nuisance triggers. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 14. Lighting fixture maintenance
 
@@ -140,4 +140,4 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Separate diagnosis, replacement parts and whole-unit replacement in the quotation. Compare diagnostic fees, part specifications, complete replacement options and separate parts/workmanship warranties.
 
-**Agreement and handover:** Record responsibilities, work stages and inspections in writing. Test repaired units and record parts warranty. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree diagnostic scope, replacement parts and warranty first; test repaired fittings and document any unresolved fault. Test repaired units and record parts warranty. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.

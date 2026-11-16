@@ -1440,3 +1440,8 @@
 - الحالة: `in_progress`؛ لم تُعتمد الجيمي مكتملة ولا يُبدأ المويجعي.
 - حُررت سبع فقرات مواصفات وخامات ومعدات مخصصة بالعربية والإنجليزية لخدمات [التشطيبات المتكاملة](./general-maintenance/integrated-finishes/review.md)، مع فحص إعادة القراءة للملفين: 7 عناوين و7 فقرات مواصفات بكل لغة. [عربي](./general-maintenance/integrated-finishes/content-ar.md) · [English](./general-maintenance/integrated-finishes/content-en.md).
 - أول نقص تالٍ: تدقيق الاستثناءات والتكافؤ الدلالي للخدمات 1–14 في `general-maintenance/general-maintenance`، ثم المراجعة النوعية للتشطيبات المتكاملة 1–7 وبقية التخصصات؛ جرد 50 تخصصًا ومطابقة 434 خدمة لكل لغة وفحص التكرار والسلامة وحالات التصنيفات المقيدة والمقترحة قبل الاعتماد.
+
+## متابعة 2026-11-16 — حدود الاستثناءات للصيانة العامة
+
+- الحالة: `in_progress`؛ أُضيفت حدود نطاق خاصة لكل واحدة من خدمات الصيانة العامة 1–14 باللغتين: [العربية](./general-maintenance/general-maintenance/content-ar.md) · [English](./general-maintenance/general-maintenance/content-en.md) · [المراجعة](./general-maintenance/general-maintenance/review.md). أُعيدت قراءة ملفي المحتوى من GitHub وتحقق تطابقهما مع الكتابة.
+- **أول نقص دقيق تالٍ:** مراجعة التكافؤ الدلالي والاستثناءات للخدمات 1–7 في `general-maintenance/integrated-finishes`، ثم `general-maintenance/gypsum-decor` الخدمات 1–7، ثم `general-maintenance/flooring-cladding` الخدمات 1–7، ثم بقية تخصصات الشركات عبر القطاعات الثمانية؛ جرد 50 تخصصًا و434 خدمة بكل لغة ومراجعة التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

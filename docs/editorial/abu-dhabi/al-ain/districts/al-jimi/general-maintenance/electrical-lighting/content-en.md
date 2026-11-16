@@ -40,7 +40,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Identify accessories and boxes; new circuit wiring is separate unless included. Compare accessory models, point counts, back boxes, wiring alterations and individual point tests.
 
-**Agreement and handover:** Agree accessory counts, mounting heights, models and wet-area locations; require a functional and fixing check for every point by the contractor. Operate every switch and test each socket with covers securely fitted. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Agree accessory counts, mounting heights, models and wet-area locations; require a functional and fixing check for every point by the contractor. Have a qualified electrical contractor verify operation and protective measures at each socket and switch after safe re-energisation; the customer should not test live electrical points. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 5. Electrical supply for annexes
 
@@ -48,9 +48,9 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Site evidence and specifications:** Supply distance, projected load and proposed underground or overhead route. Assess existing supply capacity, crossing route and property boundaries before choosing the connection.
 
-**Quotation boundaries:** Price cable, protection and termination; trenching and paving reinstatement are separate unless listed. Compare supply-route length, outdoor protection, excavation, backfill, paving reinstatement and required approvals as distinct items.
+**Quotation boundaries:** Price cable, protection and termination; trenching and paving reinstatement are separate unless listed. Compare supply-route length, outdoor protection, excavation, backfill, paving reinstatement and the required approvals, their application responsibility and fees as distinct items; approval is not guaranteed.
 
-**Agreement and handover:** Separate supply route, cable protection, permits, trenching and paving reinstatement in the agreement; obtain commissioning and route records. Verify protected routing and documented commissioning under expected load. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Separate supply route, cable protection, permits, trenching and paving reinstatement in the agreement; obtain commissioning and route records. Obtain a qualified electrician's documented protection checks and commissioning results under a safely controlled operating load, only after applicable approvals have been obtained. The customer must not conduct live testing. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 6. Electrical network rehabilitation
 

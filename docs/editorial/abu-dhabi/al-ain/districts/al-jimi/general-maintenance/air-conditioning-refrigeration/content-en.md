@@ -14,6 +14,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Attach room dimensions, both unit locations and the refrigerant and drain routes; request separate prices for equipment, brackets, piping, power alterations and wall repairs.
 
+**Safety and scope clarification:** A qualified AC technician should verify room load, power supply and condensate drainage before drilling. Unit installation does not itself authorise façade alterations or a new electrical circuit. Assign responsibility for penetrations, insulation and reinstatement, and obtain route photographs and a drainage test.
+
 ## 2. Central AC installation
 
 **When to request it:** For multiple rooms, unit price alone is insufficient without room-by-room cooling loads, plant access and air distribution design.
@@ -25,6 +27,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Require commissioning records, airflow and temperature readings, condensate checks and accessible filters.
 
 **Request a quotation:** Supply plans, area schedule and ceiling heights; request itemised load calculations, ductwork, insulation, controls, air balancing and commissioning.
+
+**Safety and scope clarification:** Check room-by-room loads, return-air paths and filter service access before approving equipment and ductwork. Ceiling changes, fire-system alterations and electrical upgrades are excluded unless expressly priced. Request coordinated drawings, airflow balancing results and a named party to resolve service clashes.
 
 ## 3. Concealed AC installation
 
@@ -38,6 +42,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Show the ceiling void, service hatch, supply and return positions; ask for separate costs for the concealed unit, drainage, gypsum and access panels.
 
+**Safety and scope clarification:** Confirm ceiling-void clearance and that filters and the condensate tray can actually be serviced through an accessible hatch. Do not accept a unit sealed behind fixed gypsum. Price access panels and ceiling reinstatement separately, then demonstrate service access and drainage at handover.
+
 ## 4. AC refrigerant piping
 
 **When to request it:** Relocating a unit or roughing-in before finishes depends on correct copper sizing, length and protection.
@@ -49,6 +55,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Use manufacturer-appropriate tightness testing and retain route photographs and test records before closing surfaces.
 
 **Request a quotation:** State the unit model, copper sizes, run length and height difference; request per-metre piping, insulation, fittings, tightness testing and concealed-work photographs.
+
+**Safety and scope clarification:** Set copper diameters, run lengths and elevation differences to the equipment manufacturer's requirements and protect insulation from UV and abrasion. Photograph joints and obtain a qualified technician's appropriate tightness-test record before concealment; power and condensate lines are separate unless expressly included.
 
 ## 5. Air duct installation
 
@@ -74,6 +82,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Provide old-unit nameplate and route photographs; ask for removal, refrigerant recovery, mounting and connection changes, disposal and warranty as distinct items.
 
+**Safety and scope clarification:** Check new-unit capacity against existing mounts, electrical supply, drains and pipework before assuming reuse. Itemise removal, compliant refrigerant recovery and lawful disposal of the old unit. Record the replacement model, commissioning and warranty; a new unit alone may not correct poor air distribution.
+
 ## 7. System testing and commissioning
 
 **When to request it:** After installation or major repair, commissioning must document performance rather than just power-on.
@@ -97,6 +107,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Check visible cleanliness, drainage and restored airflow without cleaning chemical residue in occupied rooms.
 
 **Request a quotation:** List unit counts, access heights and filter and drain photographs; request exact cleaning areas, chemicals, furniture protection and wastewater handling.
+
+**Safety and scope clarification:** Isolate electrical power and protect furnishings before coil and condensate-tray washing. Agree wastewater capture, cleaning products and surfaces where chemicals are unsuitable. Cleaning excludes refrigerant leak repair and replacement components; verify free drainage after restart.
 
 ## 9. Refrigerant charging
 
@@ -122,6 +134,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Send fault codes, symptom video and model details; request diagnostic fees, written cause, each part cost, labour and repair warranty.
 
+**Safety and scope clarification:** Do not authorise compressor or control-board replacement from symptoms alone. Obtain a qualified technician's documented fault diagnosis, error codes and operating measurements. Quote components, labour and warranty separately, and retest the original failure condition after repair.
+
 ## 11. Air duct cleaning
 
 **When to request it:** Dust inside ductwork, especially after renovations, requires defining affected runs rather than merely wiping grilles.
@@ -146,6 +160,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Supply unit inventory, run hours, fault history and roof access; request unit-by-unit checks with consumables, parts and lifting separately priced.
 
+**Safety and scope clarification:** Rooftop and plant-room maintenance requires safe-access arrangements and electrical isolation, with shutdowns and lifting equipment clearly identified. Log each unit's ID, readings, filters, belts and drains; require written approval before additional parts are replaced.
+
 ## 13. AC spare-part replacement
 
 **When to request it:** A fan, sensor or capacitor fault does not justify replacing an entire board without diagnosis and compatibility checks.
@@ -158,6 +174,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Provide unit and component numbers with diagnostic findings; ask whether the part is genuine or approved equivalent, its warranty, labour and old-part return.
 
+**Safety and scope clarification:** Match the replacement part to the exact equipment model, electrical ratings and manufacturer requirements; visual similarity is not proof of compatibility. Specify origin, warranty and return of the old component where practical, then document a functional test of the original fault.
+
 ## 14. Scheduled AC maintenance contracts
 
 **When to request it:** Multiple units or locations benefit from planned visits with defined response terms rather than ad-hoc calls.
@@ -169,3 +187,6 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Review visit reports, fault log and open actions; a maintenance contract is not a guarantee against breakdowns.
 
 **Request a quotation:** Send equipment inventory, locations and operating hours; request visit frequency, response terms, emergency coverage, exclusions and parts approval procedure.
+
+**Safety and scope clarification:** List covered assets, visit frequency, tasks, response windows and fault-reporting procedure. Spare parts, refrigerant and lifting are excluded unless expressly included and priced. Review visit reports and unresolved actions; response time does not guarantee repair completion.
+

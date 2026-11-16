@@ -180,3 +180,64 @@ Survey which frames remain sound and which are distorted or moisture-damaged. Ob
 ### 42. Kitchen hinge and hardware maintenance
 
 Identify sagging doors and sticking drawers, photographing hinge or runner type and fixing dimensions. Inspect stripped screw holes, warped fronts and soft-close adjustments before ordering parts. New hardware alone cannot repair an unsound cabinet carcass; test repeated opening and closing and shelf stability after repair.
+
+
+## Glass facades and glazing
+
+### 43. Glass facade construction
+
+Start with drawings, opening dimensions, design loads, heights and anchor locations, not glass tint alone. Require system details for supports, joints, weather sealing, drainage and maintenance access, with project-appropriate glazing specifications. Compare complete systems and required testing; specialist checks of anchorage, leakage and finishes precede handover.
+
+### 44. Tempered glass installation
+
+Confirm each pane's use, dimensions and hardware holes before tempering: tempered glass cannot be cut or drilled afterwards. Specify thickness, edge treatment, fittings and safe lifting arrangements. Verify suitability for its location and applicable safety requirements, then inspect edges, scratches and secure retention.
+
+### 45. Shopfront construction
+
+Survey shopfront width and height, entrance movement, signage and existing services. Request drawings for profiles, glass, locks, thresholds and fixing zones, pricing electrical work and signage separately. At acceptance check access, door alignment, edge protection and perimeter sealing.
+
+### 46. Glass door installation
+
+Measure the opening and finished floor, swing or sliding path, handles, hinges and closer positions. The quote should identify glazing type, fittings, edge protection and system limitations, with suitability checked for its intended use. Test repeated closing, floor clearance and absence of clashes at handover.
+
+### 47. Glass partition construction
+
+Define privacy, door positions, ceiling heights and conflicts with air-conditioning or lighting before setting out partitions. Specify glass, joints, supports, cleaning access and relevant acoustic or safety needs. Compare panel layout, doors and hardware; inspect plumb lines and joint stability.
+
+### 48. Glass balustrade installation
+
+A balustrade prevents falls, so its design and anchorage need appropriate engineering review for its position, height and loads. Require base and anchor drawings, glass composition, lamination and edge details before quoting. Appearance is insufficient: specialist inspection, documentation and any required tests must precede acceptance.
+
+### 49. Glass facade maintenance
+
+Photograph leaks, cracks or loose covers, noting floor level and safe access requirements. Diagnose gaskets, joints, anchors and glazing rather than assuming fresh sealant will solve every fault. Separate access-equipment costs from repair and testing; hand over a record of treated areas and safety checks.
+
+## Steel and metal fabrication
+
+### 50. Steel door fabrication
+
+Measure the opening and finished level; establish use, swing, locks, hinges and expected weight. Request drawings specifying steel sections, thickness, reinforcement, weld treatment and suitable corrosion protection. Compare fabrication and fitting scopes, then inspect squareness, welds and hinge positions before delivery.
+
+### 51. Metal railing fabrication
+
+Stair and balcony guardrails differ from decorative barriers. Record location, height, run length and fixing points. Dimensions, loads, spacing and engineering details require review before fabrication, particularly for fall protection. Inspect welds, coating, anchors and technical records at handover.
+
+### 52. Canopy fabrication
+
+Define the shaded area, headroom, rainwater route, covering and column positions. Request frame, joint and foundation drawings, specialist assessment of site-appropriate loads and corrosion protection. Compare frame, cover and footing specifications; inspect slope, stability and drainage.
+
+### 53. Structural steelwork
+
+Steel structures require engineering drawings defining spans, loads, connections and foundations, together with quantities, steel grades and protection systems. Reference photographs alone cannot establish a buildable scope or price. Request fabrication and erection plans, bolt and weld inspections and relevant test records before handover.
+
+### 54. Stainless steel fabrication
+
+Specify whether the item is a handrail, preparation surface or cladding and its exposure to water and cleaning chemicals. Ask for stainless grade, finish, thickness, weld method and post-weld cleaning rather than a vague rustproof claim. Check edges, finish consistency, joint quality and secure installation.
+
+### 55. Welding services
+
+Describe base metal, thickness, joint location and whether the connection is structural or a minor repair. Specify welding process, surface preparation and protection against sparks and heat; structural connections need qualified specialist oversight. Compare preparation, inspection and finishing, then inspect weld quality and distortion.
+
+### 56. Metalwork maintenance
+
+Photograph rust, cracks and loose joints or bases before requesting a quote. Diagnose corrosion or vibration causes, then distinguish repairable components from those needing replacement or structural assessment. Itemise cleaning, corrosion treatment, recoating and parts; inspect stability and protection after repair.

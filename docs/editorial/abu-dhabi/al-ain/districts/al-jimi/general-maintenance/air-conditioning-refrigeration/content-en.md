@@ -12,7 +12,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Request manufacturer-compliant leak and evacuation checks, then verify cooling, condensate flow, vibration and noise.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Attach room dimensions, both unit locations and the refrigerant and drain routes; request separate prices for equipment, brackets, piping, power alterations and wall repairs.
 
 ## 2. Central AC installation
 
@@ -24,7 +24,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Require commissioning records, airflow and temperature readings, condensate checks and accessible filters.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Supply plans, area schedule and ceiling heights; request itemised load calculations, ductwork, insulation, controls, air balancing and commissioning.
 
 ## 3. Concealed AC installation
 
@@ -36,7 +36,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Check that filters and drain pan can be serviced without demolition; test airflow distribution and drainage.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Show the ceiling void, service hatch, supply and return positions; ask for separate costs for the concealed unit, drainage, gypsum and access panels.
 
 ## 4. AC refrigerant piping
 
@@ -48,7 +48,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Use manufacturer-appropriate tightness testing and retain route photographs and test records before closing surfaces.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** State the unit model, copper sizes, run length and height difference; request per-metre piping, insulation, fittings, tightness testing and concealed-work photographs.
 
 ## 5. Air duct installation
 
@@ -60,7 +60,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Inspect duct support, leakage at joints, balanced flow and absence of rattling or whistling.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Send the ceiling plan, outlets and obstacles; request duct quantities, metal specification, insulation, supports, inspection access and penetration sealing.
 
 ## 6. AC unit replacement
 
@@ -72,7 +72,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Confirm new model and warranty documentation, operating checks and free condensate drainage.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Provide old-unit nameplate and route photographs; ask for removal, refrigerant recovery, mounting and connection changes, disposal and warranty as distinct items.
 
 ## 7. System testing and commissioning
 
@@ -84,7 +84,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Obtain a dated readings report, pass/defect findings and retesting after correction.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Provide equipment IDs, drawings and previous faults; request a measurement schedule, test duration, signed results and any retest charge.
 
 ## 8. AC unit cleaning
 
@@ -96,7 +96,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Check visible cleanliness, drainage and restored airflow without cleaning chemical residue in occupied rooms.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** List unit counts, access heights and filter and drain photographs; request exact cleaning areas, chemicals, furniture protection and wastewater handling.
 
 ## 9. Refrigerant charging
 
@@ -108,7 +108,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Request a qualified technician's record of refrigerant type, quantity, leak cause and post-repair operating readings.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Share the nameplate refrigerant type, charging history and symptoms; ask for separate diagnosis, leak repair, tightness test, evacuation and weighed recharge.
 
 ## 10. AC fault repair
 
@@ -120,7 +120,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Reproduce the original fault conditions, verify no leakage or repeat breaker trip, and retain a short service report.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Send fault codes, symptom video and model details; request diagnostic fees, written cause, each part cost, labour and repair warranty.
 
 ## 11. Air duct cleaning
 
@@ -132,7 +132,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Request matched before/after internal photos and verify clean outlets with no debris left inside.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Specify duct zones, access points and deposit photographs; ask how dust is contained, extracted, documented and whether any chemical treatment is proposed.
 
 ## 12. Central AC maintenance
 
@@ -144,7 +144,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Receive unit-by-unit readings, photos, critical defects and an approved remedial plan before extra parts are changed.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Supply unit inventory, run hours, fault history and roof access; request unit-by-unit checks with consumables, parts and lifting separately priced.
 
 ## 13. AC spare-part replacement
 
@@ -156,7 +156,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Test the affected operating mode and retain part identifier and warranty invoice.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Provide unit and component numbers with diagnostic findings; ask whether the part is genuine or approved equivalent, its warranty, labour and old-part return.
 
 ## 14. Scheduled AC maintenance contracts
 
@@ -168,4 +168,4 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Acceptance check:** Review visit reports, fault log and open actions; a maintenance contract is not a guarantee against breakdowns.
 
-**Request a quotation:** Send the evidence above, clarify supply-and-install versus work on existing equipment, and ask for separate labour, materials and exclusions.
+**Request a quotation:** Send equipment inventory, locations and operating hours; request visit frequency, response terms, emergency coverage, exclusions and parts approval procedure.

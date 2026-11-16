@@ -12,6 +12,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Obtain as-built routes, concealed-work photos and pressure-test results before covering. Send the water-point layout, estimated pipe runs and required diameters; request separate prices for pipework, valves and pressure testing.
 
+**Execution boundaries and safety:** Before concealment, agree inspection hold points for joint photos and separate circuit tests; route or diameter changes need recorded approval, and repainting is excluded unless itemised.
+
 ## 2. Drainage rough-in
 
 **When and scope:** Start with drain locations, finished-floor levels and discharge connection to prevent backflow.
@@ -21,6 +23,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare falls, inspection access and leak tests; price excavation and tiling reinstatement separately. Agree drain levels, connection points, cleanouts and who reinstates tiles after flow testing.
 
 **Handover checks:** Run water through every outlet; check for ponding, leakage and odour. Attach drain levels, the discharge connection and cleanout positions; request a separate allowance for flow testing and finish reinstatement.
+
+**Execution boundaries and safety:** Record each outlet level against finished floor and keep rodding access reachable; do not bury an inspection point behind permanent finishes, and price defects in the existing network separately.
 
 ## 3. Sanitary fixture installation
 
@@ -32,6 +36,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Operate each tap and flush; check stability and dry joints. Provide connection photos, fixture models and quantities; specify who supplies fittings and removes existing fixtures.
 
+**Execution boundaries and safety:** Check seals, fittings and fixing details against the exact fixture model and adjacent surface; installation does not cure poor system pressure or include bathroom floor waterproofing unless stated.
+
 ## 4. Water tank installation
 
 **When and scope:** Confirm capacity, location, base suitability, fill line and overflow route.
@@ -41,6 +47,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare tank material, lid, float valve, connections and cleaning; base works and lifting are separate unless included. Specify tank capacity, base requirements, overflow routing and responsibility for lifting and testing.
 
 **Handover checks:** Check stability, lid and overflow; fill and inspect for leaks. Provide tank capacity, base dimensions and lifting access; request separate amounts for the tank, lifting, base and connections.
+
+**Execution boundaries and safety:** Confirm safe access for lid inspection, cleaning and fill-line protection; structural assessment of a roof or design of a new base requires a qualified specialist and separate scope.
 
 ## 5. Water pump installation
 
@@ -52,6 +60,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Observe cut-in/out, pressure, vibration and leak-free connections. Send storey count, pressure readings and electrical connection photos; ask for the pump duty, protection and any electrical alteration costs.
 
+**Execution boundaries and safety:** Do not select by motor rating alone: request a duty point covering flow, pressure and electrical protection, then check leaks, noise and cycling on commissioning; board changes are not assumed.
+
 ## 6. Pipework rehabilitation
 
 **When and scope:** Determine whether recurring corrosion, low pressure or distributed leaks justify replacement.
@@ -61,6 +71,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare partial versus full replacement, pipe grade and reinstatement; approve extra openings first. Agree removal limits, replacement routes, wall reinstatement and commissioning tests.
 
 **Handover checks:** Test each circuit and record new joints and routes before concealment. Provide old-route photos and estimated affected lengths; ask for separately priced partial and full replacement with reinstatement.
+
+**Execution boundaries and safety:** Agree opening limits, dust protection and isolation of occupied areas before breaking finishes; concealed deterioration may require a separate quotation and approval before expanding work.
 
 ## 7. Drainage maintenance
 
@@ -72,6 +84,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Flow-test after cleaning and request defect footage if a camera was used. Identify affected drains, blockage frequency and manhole access; ask for separate clearing and camera-survey options.
 
+**Execution boundaries and safety:** If blockage recurs, record its position and likely deposit type rather than repeating clearance without diagnosis; camera surveys and correction of pipe falls are separate unless priced.
+
 ## 8. Water leak detection
 
 **When and scope:** Note meter movement and damp timing when fixtures are off.
@@ -81,6 +95,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare detection methods, uncertainty and location report; tracing does not automatically include opening or repair. Require a report distinguishing test indications from confirmed leak locations; price detection separately from repairs.
 
 **Handover checks:** Request a suspected-location report, confidence level and next step without a guarantee of certainty. Provide dated meter readings and damp photographs; ask for the detection method, report format and uncertainty limits without assuming repair is included.
+
+**Execution boundaries and safety:** Dampness may arise from condensation or failed waterproofing rather than a broken pipe; record readings, test conditions and alternative causes before authorising destructive opening.
 
 ## 9. Pipe leak repair
 
@@ -92,6 +108,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Test under operating pressure and photograph the joint before closing. Show shutoff access, leak photos and pipe material if known; request separate opening, joint repair, test and finish reinstatement items.
 
+**Execution boundaries and safety:** Keep the repair accessible until the line is tested under suitable operating conditions; define tile, membrane and adjacent finish reinstatement as separate contract items.
+
 ## 10. Tank leak detection
 
 **When and scope:** Distinguish tank-shell leakage from pipe, float-valve or overflow faults.
@@ -101,6 +119,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare shell and fitting inspection plus level monitoring; cleaning, repair and lining are separate. Distinguish tank-shell inspection from pipe and float-valve checks, with a safe test method.
 
 **Handover checks:** Obtain suspected-source findings and test evidence before approving repair. Provide tank volume, fitting photos and water-level observations; ask how the inspection distinguishes shell, float-valve and overflow leaks.
+
+**Execution boundaries and safety:** Distinguish tank-shell testing from pipe, float and overflow checks; water at the base does not prove a shell leak, and internal coating needs a diagnosed cause and compatible material.
 
 ## 11. Bathroom waterproofing
 
@@ -112,6 +132,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Request a documented appropriate flood test before tiling, subject to system instructions. Supply bathroom area, drain positions and proposed upstand heights; ask for system details, curing, flood testing and tiling allowances.
 
+**Execution boundaries and safety:** Resolve corners, penetrations and drain interfaces before tiling; arrange any flood test to protect adjacent units, and do not assume sanitary fixtures will be refitted without an explicit item.
+
 ## 12. Roof waterproofing
 
 **When and scope:** Inspect ponding, drains and roof-wall junctions before choosing a system.
@@ -121,6 +143,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare old-layer removal/treatment, drain details and warranty; slope correction is separate. Specify falls, drains, upstands, membrane protection and responsibility for moving existing equipment.
 
 **Handover checks:** Inspect adhesion, edges, drainage and appropriate water testing at handover. Provide roof area, drain locations, ponding photos and existing membrane details; separate falls correction, waterproofing and protection.
+
+**Execution boundaries and safety:** Distinguish a patch from full membrane replacement, including falls, outlets and parapet upstands; inspect before covering, and exclude structural crack repair unless specifically contracted.
 
 ## 13. Water tank waterproofing
 
@@ -132,6 +156,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Request product evidence, curing time and fill/leak test before use. Identify tank volume and water use, with internal-surface photos; request product suitability evidence, safe-access method and testing plan.
 
+**Execution boundaries and safety:** Require documented suitability for potable-water contact before applying any internal material; specify draining, cleaning, return-to-service and leak checks, with structural cracks separately assessed.
+
 ## 14. Leak-related damp remediation
 
 **When and scope:** Do not repaint before stopping the source and checking substrate dryness.
@@ -141,3 +167,6 @@ This is preparatory information for requesting quotations from companies, not a 
 **Quotes and agreement:** Compare removal, drying, mould treatment and reinstatement; paint alone does not fix leakage. Resolve the moisture source before drying; specify whether plaster repairs and repainting are included.
 
 **Handover checks:** Check no recurring moisture, dry substrate and sound finish after agreed observation. Provide dated stain photos, damaged area and any evidence of source repair; separate drying, plaster restoration and repainting.
+
+**Execution boundaries and safety:** Stop the water source and assess drying, salts or mould as relevant before repainting or closing plasterboard; cause correction, removal of damaged materials and reinstatement are distinct stages.
+

@@ -1,0 +1,65 @@
+# Engineering consultancy, design and interiors on Al Reem Island
+
+Start by identifying property use, the required design stage and the exact drawings or deliverables. This guidance does not imply that a firm is listed or an authority approval has been granted.
+
+## Architectural design and drawings
+
+### 1. Villa design
+
+Begin with a room schedule, occupancy and privacy requirements, supported by plot dimensions and existing plans. Compare guest and service entrances, corridor widths, kitchen and stair locations. Accept coordinated dimensioned plans, elevations and area schedules rather than presentation images alone.
+
+### 2. Residential building design
+
+Specify the proposed unit mix, parking and shared facilities. Test resident circulation, lifts, stairs, plant rooms and service risers; reconcile the area schedule with plans and structural and HVAC coordination before accepting the design package.
+
+### 3. Commercial building design
+
+Describe the actual business, customer circulation, deliveries, storage and operating patterns; offices and retail premises require different layouts. Compare flexibility, service access and equipment locations, and require drawings defining landlord versus tenant fit-out scope and maintenance access.
+
+### 4. Architectural drawing preparation
+
+State whether drawings are conceptual, coordination-level or construction-ready. Agree on plans, sections, elevations, levels, dimensions and opening schedules as appropriate, with a revision register. Check dimensions across sheets before handing the package to a contractor.
+
+### 5. Façade development
+
+Supply elevation photos, dimensions, openings and exposure conditions. Compare cladding options for weight, fixing, cleaning, drainage and window junctions; request material samples and inspectable connection details rather than relying on renderings.
+
+### 6. 3D model preparation
+
+Agree whether the model is for visualisation or multidisciplinary clash review. Provide current drawing revisions, define the required level of detail and mark unsurveyed areas. Review views against dimensions and revision dates; a concept model is not an as-built survey.
+
+### 7. Existing plan amendments
+
+Provide the approved original, site photographs and a precise change list. Distinguish partition changes from alterations affecting structure or services; require marked-up differences, revised sheet registers and discipline coordination before construction use.
+
+### 8. Permit drawing preparation
+
+Identify the property, work type and competent authority before pricing the submission package. Agree on drawing and document lists, submission responsibilities and revision milestones. Check areas, setbacks and elevations for consistency; preparing drawings does not constitute approval.
+
+### 9. Building application submission
+
+Request the document and authorisation checklist, with authority charges separated from consultant fees. Retain submission references, dates, comments and responses; track any revised drawings. Filing an application is not permission to commence works.
+
+### 10. Amendment of approved drawings
+
+Record the requested change, its reason and impact on areas, exits, structure and services. Require a clear before-and-after comparison, identify disciplines requiring renewed review, and control superseded drawings when new revisions are issued.
+
+### 11. Maintenance permit applications
+
+Describe whether the work repairs finishes or alters services or structural elements. Ask the qualified consultant to identify property-specific requirements and documents; distinguish application preparation from permit issuance and retain actual authorisation where required.
+
+### 12. Extension permit applications
+
+Provide existing-condition drawings, photos, dimensions and the proposed extension location. Request assessment of foundations, services and floor-area implications, followed by a documented submission checklist. A proposed extension sketch is not an execution approval.
+
+### 13. As-built drawing preparation
+
+Define the survey boundary: layouts, openings, levels and visible services, excluding concealed elements unless separately investigated. Require dated measurements and photos, flag unverified zones and cross-check critical dimensions before design reuse.
+
+### 14. Government approval coordination
+
+Identify relevant authorities and current official submission requirements for the specific project. Require a tracking log of correspondence, comments, dates and responsibilities, separating statutory fees from coordination fees. Never describe an approval as guaranteed or complete without the issued record.
+
+## Request a quotation
+
+Biet Al Reef customer service can receive enquiries even when no provider is published: customer name, contact number, Al Reem Island location, requested service, property type, available dimensions, site photos, earlier drawings and expected deliverables. Any regulatory requirement must be checked against the current official source before approval is promised.

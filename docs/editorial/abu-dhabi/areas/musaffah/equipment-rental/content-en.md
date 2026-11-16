@@ -62,7 +62,66 @@ State whether the water is clean or sediment-laden, required flow, lift height, 
 
 Provide mowing or pruning area, plant types, branch heights, reach and green-waste collection location. Select a mower, trimmer or blower for the actual task and check noise, fuel and batteries. Compare blades, guards and hire duration. Inspect moving parts and safe stopping functions at handover.
 
+## Aluminium and glass factories — currently restricted specialty
+
+### 15. Aluminium profile fabrication
+
+Specify the profile's purpose—frame, façade or partition—and supply an approved section, cut lengths, quantities and finish. Alloy, wall thickness and tolerances matter: a decorative extrusion cannot automatically replace a structural member. Compare material traceability, cutting waste and surface treatment; check straightness, dimensions and edge protection on delivery.
+
+### 16. Door and window fabrication
+
+Provide an opening schedule with widths and heights measured at several points, photographs of heads and sills, opening direction, glazing, locks and seals. Drawings alone may not reflect as-built openings. Compare shop drawings, hardware specifications and required performance tests; check sash movement, gaps and drainage before acceptance.
+
+### 17. Toughened glass production
+
+Define each pane's location, dimensions, required thickness, edge finish and hole positions before heat treatment; cutting or drilling after toughening is generally not feasible. Supply fixing details and impact exposure, and do not assume monolithic toughened glass suits every balustrade. Check specified markings, edge condition and visible defects on delivery.
+
+### 18. Glass façade preparation
+
+Submit elevation drawings, gridlines, levels, openings and the proposed façade system, including thermal movement, wind design, sealing and drainage requirements. Price profile fabrication, glazing preparation, hardware, installation and testing separately. Verify pane identification, gasket compatibility, weep locations and agreement with approved shop drawings at handover.
+
+### 19. Partition fabrication
+
+State whether partitions use glass, aluminium or composite panels, with height, door locations, electrical interfaces and privacy or acoustic needs. Survey floor and ceiling levels and confirm fixing capacity rather than relying solely on plan dimensions. Compare glazing or panel types, finishes and seals; inspect alignment, door stability and joints after installation.
+
+### 20. Glass supply
+
+Send a pane schedule stating quantities, dimensions, glass build-up—laminated, insulated or toughened—thickness, coating and orientation. Window glazing differs from overhead or guarding applications, so check the design specification before ordering. Compare lead time, packaging, traceability and breakage terms; inspect labels, edges and crates on arrival.
+
+### 21. Project-specific factory orders
+
+Prepare a common bill of quantities, approved drawing revisions and staged delivery schedule; assign responsibility for final site measurements and interfaces. Separate mock-ups, revisions, transport and installation from fabrication prices. Approve a sample before repetitive production, then reconcile each batch against packing lists, drawing revisions and snag records.
+
+## Marble and stone factories — currently restricted specialty
+
+### 22. Marble and stone cutting
+
+Provide a cutting layout showing vein direction, finished dimensions and service cut-outs, with stone type and slab thickness. Allow for cutting waste and slab colour matching rather than pricing only by square metre. Compare edge finish, cut quality and piece numbering; inspect cracks and chips while pieces are secured on suitable racks.
+
+### 23. Kitchen worktop fabrication
+
+Supply actual cabinet dimensions, sink and hob positions, edges, overhangs and seams, and specify stone performance against heat and staining. Template only after cabinets are installed and levelled. Compare appliance cut-outs, reinforcement of narrow sections and joint treatment; check flatness and openings before final fixing.
+
+### 24. Stone stair fabrication
+
+State step count, riser and tread dimensions, landings and balustrade locations, with measurements taken after the concrete work. Consistent risers, edge treatment and slip resistance must follow the project design. Compare cutting, drilling, supply and fitting separately; check step numbering and colour continuity before installation.
+
+### 25. Façade stone preparation
+
+Provide façade elevations, panel setting-out, installation heights, fixing points, movement joints and support details. Stone thickness and anchorage cannot be selected for appearance alone; design loads and exposure must govern. Compare fixing slots, reinforcement and panel numbering; inspect dimensions, edges and faces before dispatch.
+
+### 26. Stone carving and decorative detailing
+
+Provide an approved drawing or sample showing carving depth, direction, repeat pattern and corner radii; specify manual or machine work and final mounting orientation. Fine edges can fracture in brittle stone, so approve a full-size sample before batch production. Compare finish, lead time and tolerances; inspect pattern consistency and cracks.
+
+### 27. Marble polishing and treatment
+
+Identify stone type, surface condition, stains, scratches and existing sealers with close-up photographs and measured area. Aggressive grinding does not suit every finish; test a small area and distinguish honing, stain removal and resealing. Compare treatment stages, chemicals and curing time; inspect uniformity without eroded edges or residue.
+
+### 28. Contractor stone order preparation
+
+Send a delivery schedule by floor or zone, drawing references, quantities and spare pieces, with required dates and storage arrangements. Assign responsibility for final measurement and post-sample changes. Compare per-piece pricing, edge treatments, packing and freight; reconcile piece IDs with packing lists before accepting deliveries.
+
 ## Preparing a quotation request
 
-Provide the service, Musaffah project address, site photographs, dimensions, loads or required capacity, start date and duration, and whether operator, transport, fuel and inspection are included. Supply your name, contact number and access details to Biet Al Reef customer support. A request is not a confirmed booking, price or availability.
-
+Send the service, Musaffah project location, drawings, photographs, quantities, material specifications and requested delivery date, plus your name and contact number, to Biet Al Reef customer support. Requests can be received without a published company; this draft does not activate a restricted factory specialty or confirm price or availability.

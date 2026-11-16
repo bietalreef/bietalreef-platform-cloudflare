@@ -476,7 +476,7 @@
       "name_ar": "المصفح",
       "name_en": "Musaffah",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -484,13 +484,13 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/content-en.md",
         "docs/editorial/abu-dhabi/areas/musaffah/general-contracting/review.md",
-        "docs/editorial/abu-dhabi/areas/musaffah/AREA_REVIEW.md",
         "docs/editorial/abu-dhabi/areas/musaffah/interior-design/content-ar.md",
         "docs/editorial/abu-dhabi/areas/musaffah/interior-design/content-en.md",
         "docs/editorial/abu-dhabi/areas/musaffah/interior-design/review.md",
@@ -508,22 +508,27 @@
         "docs/editorial/abu-dhabi/areas/musaffah/furniture-decor/review.md",
         "docs/editorial/abu-dhabi/areas/musaffah/equipment-rental/content-ar.md",
         "docs/editorial/abu-dhabi/areas/musaffah/equipment-rental/content-en.md",
-        "docs/editorial/abu-dhabi/areas/musaffah/equipment-rental/review.md"
+        "docs/editorial/abu-dhabi/areas/musaffah/equipment-rental/review.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/cleaning-services/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/cleaning-services/content-en.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/cleaning-services/review.md",
+        "docs/editorial/abu-dhabi/areas/musaffah/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-16",
-      "review_note": "Verified equipment-rental 53/53 AR/EN sequential on GitHub; Musaffah 392/434, 7/8 sectors. Cleaning next, 42 remaining. Human review required.",
+      "review_note": "Draft 8/8 sectors, 50 company specialties, 434/434 Arabic and 434/434 English entries; cleaning 42/42 re-fetched and checked. Human technical, regulatory and language review pending; no publication.",
       "editorial_progress": {
         "sector": "cleaning-services",
-        "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
-        "last_completed_service_number": 53,
-        "next_service_number": 1,
+        "last_completed_sector": "cleaning-services",
+        "last_completed_specialty": "خدمات العمالة والتشغيل",
+        "last_completed_service_number": 42,
+        "next_service_number": null,
         "sector_total": 42,
-        "sector_completed": 0,
+        "sector_completed": 42,
         "area_total": 434,
-        "area_completed": 392,
-        "remaining_area_services": 42,
-        "editorial_draft_completed": false
+        "area_completed": 434,
+        "remaining_area_services": 0,
+        "editorial_draft_completed": true,
+        "area_editorially_approved": false
       },
       "progress": {
         "sector": "building-materials",
@@ -539,7 +544,8 @@
         "area_completed": 238,
         "remaining_area_services": 196,
         "editorial_draft_completed": false
-      }
+      },
+      "completed_at": "2026-11-16"
     },
     {
       "sequence": 8,

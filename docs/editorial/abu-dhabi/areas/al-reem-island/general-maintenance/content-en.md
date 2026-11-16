@@ -91,6 +91,37 @@ Convert reference images into dimensioned details for gypsum features, wall clad
 
 This service coordinates acceptance of a complete finishing package rather than a single trade. Request the approved scope schedule, revised drawings, materials register, warranties and relevant waterproofing, plumbing and electrical test records. Walk through each room and log defects with photographs, locations, priorities, correction dates and reinspection requirements; freshly painted surfaces do not by themselves constitute acceptance. Reconcile contract items with actual quantities and completed works. Confirm equipment operation, waste removal, keys and agreed documents before final sign-off.
 
+
+## Gypsum and decorative works
+
+### 22. Gypsum ceiling installation
+
+Before closing the ceiling, establish the finished level, clear room height, air-conditioning outlets, sprinklers, lights and maintenance hatches. Supply a dimensioned room plan and photographs of existing beams and services. Ask for the board specification, its suitability for moisture or fire-performance requirements where applicable to the approved design, hanger spacing, metal framing and joint treatment. Compare quotations per square metre including framing, finishing and cut-outs rather than board cost alone. At handover, check levelness, secure suspension, cracks around openings and access to concealed services.
+
+### 23. Gypsum partition construction
+
+Explain whether the partition divides an office or a residential room and whether acoustic insulation, moisture resistance or support for cabinets and screens is needed. Provide length, height, door positions and service layouts. Request details of stud and board thickness, insulation infill, internal reinforcement and floor and ceiling connections. Electrical work, doors and painting should be separately identified in the quotation, along with the treatment of junctions with existing walls. Inspect plumbness, rigidity, finished joints and door openings for vibration or misalignment.
+
+### 24. Concealed lighting coves
+
+A lighting cove conceals the light source and shapes its direction, so specify the intended lighting effect, glare control and how LED strips or drivers can be replaced. Send perimeter measurements, ceiling height, switching and power locations. Request a section showing recess depth, LED setback, ventilation and maintenance access. Compare gypsum construction separately from LED fittings, drivers and controls. At handover, test the lights in a darkened room for even illumination, unwanted shadows and access to drivers without damaging the finish.
+
+### 25. Decorative gypsum features
+
+Begin with a reference photograph and a layout locating cornices, frames and ornaments relative to doors and furniture. Measure actual wall lengths, corners and heights. Ask for a sample profile, fixing method, filler and paint specification, and confirmation whether bespoke moulds are included. Compare linear-metre rates, corner pieces and surface preparation rather than relying on a lump sum. Inspect repeated patterns, straight edges and the absence of visible joints or fixing marks under grazing light.
+
+### 26. Wood-look decorative panel installation
+
+Specify whether the panels will be used on an interior wall or in an area exposed to moisture or impacts; a wood-look label does not establish the material or its performance. Supply wall dimensions and photographs showing sockets and corners. Request the material composition, thickness, moisture limitations, fixing method, allowance for thermal movement and edge details. Compare covered area, waste, trims and joints, and approve a physical colour and texture sample. At handover, check grain direction, attachment, cut edges and access to electrical outlets.
+
+### 27. Marble-look decorative panel installation
+
+Inspect wall flatness and possible exposure to heat, water and cleaning chemicals before selecting panels; some decorative products are unsuitable behind heat sources or in continuously wet locations. Provide surface dimensions, socket cut-outs, corners and site photographs. Request material and thickness data, use limitations, adhesive and substrate preparation details and joint treatment. Compare actual coverage, number of seams and edge finishing rather than appearance alone. Inspect vein alignment, adhesion, bulging, voids and sharp edges.
+
+### 28. Gypsum repair and maintenance
+
+Identify whether the problem is a board-joint crack, sagging ceiling or water stain; do not apply filler before finding the cause. Send close and wide photographs, crack length and its position relative to AC or plumbing services. Request an inspection of framing, hangers and moisture sources before deciding between local repair and replacement. Compare the area to be opened and reinstated, joint treatment, paint matching and waste disposal. After repair, check board stability, dryness, joint alignment and whether the marks recur during an agreed observation period.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

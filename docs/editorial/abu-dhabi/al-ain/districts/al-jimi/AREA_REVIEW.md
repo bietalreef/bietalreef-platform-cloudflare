@@ -1408,3 +1408,9 @@
 
 - الحالة `in_progress`؛ خُصصت طلبات عروض الأسعار للخدمات **1–14** في [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[English](./general-maintenance/air-conditioning-refrigeration/content-en.md) مع [مراجعة التخصص](./general-maintenance/air-conditioning-refrigeration/review.md). تمت إعادة قراءة الملفات بعد الكتابة.
 - **النواقص الدقيقة التالية:** تدقيق التكافؤ الفني والاستثناءات والسلامة لخدمات السباكة وكشف التسربات **1–14** ثم التكييف والتبريد **1–14**، ثم الأنظمة الذكية والمراقبة **1–14** والدهانات **1–7** والعزل **1–7**؛ ومراجعة بقية التخصصات والقطاعات الثمانية وتطابق أسماء الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## 2026-11-16 — الأنظمة الذكية والمراقبة: السلامة والخصوصية
+
+- الحالة `in_progress`؛ أضيفت فحوص مستقلة للخدمات 1–14 في [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) و[English](./general-maintenance/smart-systems-surveillance/content-en.md) مع [مراجعة التخصص](./general-maintenance/smart-systems-surveillance/review.md).
+- أول نقص تالٍ: تدقيق التكافؤ الفني والاستثناءات للأنظمة الذكية 1–14، ثم الدهانات 1–7 والعزل 1–7، ثم جرد بقية تخصصات الشركات في القطاعات الثمانية ومطابقة أسماء 434 خدمة بكل لغة ومراجعة المقيد والمقترح. لا تبدأ المويجعي.

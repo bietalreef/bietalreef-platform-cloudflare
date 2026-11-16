@@ -554,7 +554,9 @@
       "name_en": "Al Reem Island",
       "kind": "district",
       "status": "in_progress",
-      "completed_sectors": [],
+      "completed_sectors": [
+        "general-contracting"
+      ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-en.md",
@@ -562,20 +564,20 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/AREA_REVIEW.md"
       ],
       "last_attempt": "2026-11-16",
-      "review_note": "Re-fetched 35 numbered service explanations in both languages; 3/6 contracting specialties complete, 0/8 sectors, 399 services remaining. Independent technical and language review pending.",
+      "review_note": "General contracting 56/56 AR and EN verified after GitHub upload, six specialties complete. Seven sectors remain. Human review pending.",
       "editorial_progress": {
-        "sector": "general-contracting",
-        "last_completed_specialty": "تنسيق الحدائق وصيانتها",
-        "last_completed_service_number": 35,
-        "last_completed_service_name": "تركيب العشب الصناعي",
-        "next_specialty": "شبكات الري",
-        "next_service_number": 36,
-        "next_service_name": "تصميم شبكات الري",
-        "sector_completed": 35,
-        "sector_total": 56,
-        "area_completed": 35,
+        "sector": "interior-design",
+        "last_completed_sector": "general-contracting",
+        "last_completed_specialty": "المظلات والأعمال الخارجية",
+        "last_completed_service_number": 56,
+        "next_specialty": "التصميم المعماري والمخططات",
+        "next_service_number": 1,
+        "next_service_name": "تصميم الفلل",
+        "sector_completed": 0,
+        "sector_total": 49,
+        "area_completed": 56,
         "area_total": 434,
-        "remaining_area_services": 399,
+        "remaining_area_services": 378,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

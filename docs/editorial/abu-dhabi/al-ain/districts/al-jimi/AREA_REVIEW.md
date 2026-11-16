@@ -1429,3 +1429,8 @@
 
 - الحالة `in_progress`؛ أضيفت حدود فحص ومسؤولية خاصة لكل واحدة من خدمات العزل السبع في [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) و[English](./general-maintenance/waterproofing-thermal-insulation/content-en.md)، ووثقت في [مراجعة التخصص](./general-maintenance/waterproofing-thermal-insulation/review.md). أُعيدت قراءة الملفين بعد الحفظ وتطابقت المحتويات.
 - **أول نقص دقيق:** تدقيق الخدمات 1–14 في `general-maintenance/smart-systems-surveillance` للتكافؤ الفني والاستثناءات والخصوصية؛ ثم تدقيق الصيانة العامة 1–14 والتشطيبات المتكاملة 1–7 وبقية التخصصات الخمسين، مع جرد ومطابقة أسماء ومحتوى 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## 2026-11-16 — الأنظمة الذكية والمراقبة: تدقيق النطاق والتسليم (14 خدمة)
+
+- الحالة `in_progress`؛ أضيفت 14 ملاحظة متخصصة لكل لغة في [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) و[الإنجليزية](./general-maintenance/smart-systems-surveillance/content-en.md) ووُثقت في [المراجعة](./general-maintenance/smart-systems-surveillance/review.md). تحققت إعادة قراءة الملفات الثلاثة من الفرع بعد كل كتابة.
+- **أول نقص تالٍ:** تدقيق الاستثناءات والتكافؤ الدلالي لخدمات `general-maintenance/general-maintenance` 1–14 ثم `general-maintenance/integrated-finishes` 1–7، ثم بقية تخصصات الشركات بالقطاعات الثمانية؛ يلزم جرد 50 تخصصًا و434 خدمة بكل لغة والتحقق من التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

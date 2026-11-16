@@ -60,6 +60,36 @@ Define the survey boundary: layouts, openings, levels and visible services, excl
 
 Identify relevant authorities and current official submission requirements for the specific project. Require a tracking log of correspondence, comments, dates and responsibilities, separating statutory fees from coordination fees. Never describe an approval as guaranteed or complete without the issued record.
 
+## Structural design
+
+### 15. Concrete structural frame design
+
+Provide occupancy, spans, loading requirements, architectural drawings and relevant ground investigation. Compare column and beam layouts against usable space; require coordinated structural drawings, reinforcement details and engineer-reviewed calculations before construction.
+
+### 16. Foundation design
+
+Do not choose footings from building area alone. Supply ground investigation findings, column loads and groundwater information where available. Require explicit bearing and settlement assumptions, service coordination, foundation levels and details aligned with the geotechnical report.
+
+### 17. Structural drawing preparation
+
+Define the required issue stage and revision control. Request structural plans, sections, schedules and reinforcement or connection details appropriate to the system. Check grids, levels and openings against architectural and services drawings, recording clashes before tender.
+
+### 18. Structural load review
+
+Explain the trigger, such as changed occupancy, new equipment or tanks, and supply drawings and actual load data. Require assumptions, load paths, affected elements and limitations to be documented; a visual inspection alone cannot certify capacity.
+
+### 19. Building structural safety assessment
+
+Collect dated crack, settlement and leakage photos plus drawings and alteration history. Agree inspection access, testing scope and limitations; require a report separating observations from diagnosis and identifying urgent actions where warranted, without unsupported safety assurances.
+
+### 20. Structural strengthening design
+
+Start with a diagnosis identifying deficiencies, affected members and present and future loads. Compare strengthening methods for constructability, temporary support and protection of services; require fixing details, work sequence, inspection hold points and acceptance criteria.
+
+### 21. Structural engineering reports
+
+Define the engineering question: cracking, alterations, capacity or a specific member. Provide plans, photos and test results; require documented methods, findings, assumptions, limitations, recommendations and the responsible engineer's sign-off rather than an informal verbal opinion.
+
 ## Request a quotation
 
 Biet Al Reef customer service can receive enquiries even when no provider is published: customer name, contact number, Al Reem Island location, requested service, property type, available dimensions, site photos, earlier drawings and expected deliverables. Any regulatory requirement must be checked against the current official source before approval is promised.

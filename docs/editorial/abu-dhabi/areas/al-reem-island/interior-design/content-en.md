@@ -120,6 +120,92 @@ Measure against drawings with identified revision numbers, agreed measurement ru
 
 Do not compare headline totals alone. Issue the same scope, drawings and specifications to bidders, then review exclusions, substitutions, materials, warranties, programme and payment terms. Prepare a comparison schedule highlighting unpriced items, quantity differences and variation exposure. The deliverable is a reasoned recommendation and written clarification questions, not a promise that the lowest bidder is suitable or available.
 
+## Interior design and materials
+
+### 29. Majlis design
+
+Establish seating capacity, hospitality use and serving circulation before selecting sofas and tables. Survey room dimensions, doors, windows, AC outlets and sockets; review fabric samples, cleanability and clear walking routes. Compare furniture schedules, lighting and detailed drawings, then sign off final dimensions and electrical points.
+
+### 30. Living room design
+
+Map everyday family activities, television viewing, storage and occasional guest seating. Record wall dimensions, viewing distance and door swings, and coordinate furniture with lighting and cooling. Request dimensioned layouts, a procurement schedule and finish samples; check circulation after furniture is positioned.
+
+### 31. Bedroom design
+
+Set the bed, wardrobes and bedside furniture from measured dimensions, including drawer and door clearances. Coordinate reading lights, bedside controls, air-conditioning and privacy; distinguish ready-made items from bespoke joinery. At handover, check installed dimensions against the plan and test wardrobe access.
+
+### 32. Kitchen design
+
+Inventory appliances and their dimensions, water, drainage and extraction points before planning preparation surfaces, storage and door clearances. Obtain joinery drawings, services coordination and worktop specifications suitable for heat and moisture exposure. Compare cabinet quantities, drawer hardware and warranties; test alignment and operation at handover.
+
+### 33. Bathroom design
+
+Survey the bathroom, drainage, ventilation and finished levels before selecting showers, basins and storage. Coordinate floor falls, waterproofing zones, mixer access and tile junctions. Require fixture and finish layouts; during installation, check maintenance access and waterproofing test records before concealment.
+
+### 34. Furniture layout planning
+
+Draw the usable room area, doors, windows and fixed elements before choosing pieces. Compare layouts against occupancy, circulation and actual furniture dimensions. Obtain a dimensioned plan and item list, and mark key furniture footprints on site before placing orders.
+
+### 35. 3D visualisation
+
+Provide measured plans, site photographs and intended finishes to avoid attractive but unbuildable images. Specify the number of views, revision rounds and limits of colour and lighting accuracy; distinguish renders from construction drawings. Check dimensions, openings and material references against approved plans.
+
+### 36. Office design
+
+Plan workstations around staff numbers, collaboration, meetings, storage and privacy. Survey power, data, air outlets and clear routes; coordinate monitor positions and task lighting. Compare expansion flexibility, furniture schedules and electrical scope, and approve coordinated layouts before fit-out.
+
+### 37. Retail store design
+
+Start with product categories, stock volumes, customer circulation and checkout and collection points. Survey shopfront dimensions, power and lighting, and allow for display and replenishment. Request shelving and signage drawings with material schedules; inspect fixture stability and price visibility at handover.
+
+### 38. Restaurant and café design
+
+Map ordering, preparation, service and cleaning flows while separating customer and operational areas as appropriate. Document equipment sizes, loads, ventilation, water and drainage; have competent professionals check applicable requirements before finalising. Compare operational capacity and cleanability, and obtain equipment and services schedules.
+
+### 39. Salon design
+
+Count treatment, washing, waiting and storage stations, including staff and client circulation. Coordinate water, drainage, mirrors, task lighting and cleanable finishes. Compare usable station capacity and mechanical scope; test movement and water connections at handover.
+
+### 40. Clinic design
+
+Define clinical services, room functions, equipment and patient and staff routes, with privacy needs. Obtain equipment dimensions, loads and utility requirements; refer licensing, safety and infection-control requirements to competent authorities and specialists before design approval. Require coordinated plans and a documented compliance review.
+
+### 41. Exhibition design
+
+Specify exhibits, weights, visitor routes, duration and installation and dismantling methods. Survey clear heights, suspension points, power, lighting and protection of displayed items; confirm venue restrictions with the operator. Obtain installation drawings and material schedules, then inspect stability, connections and safe dismantling.
+
+### 42. Reception area design
+
+Estimate peak visitor numbers, wayfinding, privacy and accessibility needs. Measure entry width, door positions, data points and waiting space; design a counter around actual staff tasks. Compare clear circulation and maintenance access, then approve counter, signage and lighting drawings.
+
+### 43. Flooring selection
+
+Choose materials against traffic, moisture, cleaning and location-appropriate slip resistance. Measure areas, waste allowance, finished levels and total build-up including adhesives and preparation layers. Review physical samples, laying details and joints; inspect flatness and transitions at handover.
+
+### 44. Paint colour selection
+
+Test painted samples on actual walls in daylight and evening light; screen images are unreliable colour references. Check substrate condition, primer, sheen, washability and specified coats. Inspect uniformity, edges and coverage after full drying.
+
+### 45. Marble and ceramic selection
+
+Define application areas, tile sizes, laying patterns, cuts, joints and falls. Review batch samples, veining variation, absorption and use-appropriate slip properties; compare installed cost including wastage and preparation rather than unit price alone. Inspect alignment, levels and joints.
+
+### 46. Furniture selection
+
+List pieces by room, function and size, including lift and doorway constraints before ordering. Compare frames, cushioning, upholstery, cleanability, warranties and lead times without assuming availability. On delivery inspect dimensions, stability, surface damage, hinges and assembly.
+
+### 47. Lighting selection
+
+Plan ambient, task and accent lighting around activities and appropriate illumination levels. Coordinate ceiling positions, air-conditioning, controls, glare, colour temperature and replaceability. Compare fixture schedules, energy use and warranties; test circuits, switches and scenes at handover.
+
+### 48. Material mood board preparation
+
+Assemble flooring, paint, timber, fabric and metal samples with codes, supplier references and acceptable alternatives. Review combinations under suitable lighting and assess use, cleaning and budget. Deliver a numbered board cross-referenced to drawings and finish schedules to control substitutions.
+
+### 49. Finish schedule preparation
+
+Convert selections into a room-by-room, surface-by-surface schedule of material codes, colours, sizes, reference quantities and installation methods. Coordinate it with drawings, procurement and junction details; record approved substitutions and revisions. At handover reconcile installed finishes and issue an as-built schedule.
+
 ## Request a quotation
 
 Biet Al Reef customer service can receive enquiries even when no provider is published: customer name, contact number, Al Reem Island location, requested service, property type, available dimensions, site photos, earlier drawings and expected deliverables. Any regulatory requirement must be checked against the current official source before approval is promised.

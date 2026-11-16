@@ -14,6 +14,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Additional pre-cover check:** Record drain outlet levels and membrane terminations at equipment plinths; do not add ponding-test loads without a competent assessment of roof capacity.
 
+**Inspection limits and responsibility:** Cracks in the slab or settlement around outlets require separate structural assessment before waterproofing is approved. Passing one leak test does not cover future drainage faults.
+
 **Quotation brief for this service:** Ask for a breakdown of measured roof area, upstand and joint lengths, drain counts, removal of old membrane, fall correction and protective finish, with a defined leak-test procedure.
 
 ## 2. Bathroom waterproofing
@@ -27,6 +29,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotes, agreement and acceptance:** Compare curing time, protection from punctures and reinstatement cost. Require a safe ponding test before tiling and obtain concealed-work photographs, test results and confirmation of falls to the drain.
 
 **Additional pre-tiling check:** Inspect membrane continuity around the shower base, floor drain and threshold; a ponding result does not rule out separate supply or waste-pipe leaks.
+
+**Inspection limits and responsibility:** Do not cover a membrane before its specified curing period. A water-retention test is not a substitute for checking drain falls or the integrity of supply and waste pipes.
 
 **Quotation brief for this service:** Provide floor area, shower perimeter, required wall upstand height and penetration counts. Price demolition and tile reinstatement separately from the membrane, safe water test and concealed-work records.
 
@@ -42,6 +46,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Additional return-to-service check:** Do not return a potable-water tank to use until lining cure, cleaning and applicable water-quality checks are completed; a watertightness test alone does not establish potability.
 
+**Inspection limits and responsibility:** Keep lining work separate from verification of drinking-water quality. No worker should enter an enclosed tank without a risk assessment, appropriate permit and rescue arrangements.
+
 **Quotation brief for this service:** State tank capacity, water use, shell material, access opening and entry conditions. Request lining suitability documentation, a confined-space safety plan if relevant, and separate emptying, cleaning, testing and recommissioning costs.
 
 ## 4. Building thermal insulation
@@ -55,6 +61,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotes, agreement and acceptance:** Compare documented performance rather than thickness alone and compatibility with the roof assembly. Inspect fastening and gaps before closing and retain installation photos and product data.
 
 **Additional pre-closure check:** Photograph insulation continuity around openings and thermal bridges; verify required ventilation paths remain clear and approved fire details are not compromised.
+
+**Inspection limits and responsibility:** Do not accept a promised percentage reduction in energy bills without a separate assessment. Check condensation risks, fire performance and compatibility with the existing assembly.
 
 **Quotation brief for this service:** Supply roof and wall areas, known assembly layers and AC penetrations. Require declared thermal resistance, installed thickness and details for thermal bridges, fire safety and condensation control, rather than a board-only price.
 
@@ -70,6 +78,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Additional acceptance check:** Inspect window-frame junctions, movement joints and cladding terminations; flag structural cracks for separate assessment rather than concealing them under waterproofing.
 
+**Inspection limits and responsibility:** Surface coatings must not conceal moving structural cracks or unsafe cladding fixings. Require cause assessment and a safe-access plan for elevated work.
+
 **Quotation brief for this service:** Share facade length and height, joint and window photographs, and internal damp marks. Separate diagnosis, crack preparation, coating system, access scaffolds and sample testing, excluding unassessed structural repairs.
 
 ## 6. Rainwater ingress repair
@@ -84,6 +94,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Additional post-repair check:** Target any controlled spray test at the diagnosed ingress path, protect electrical fittings and finishes, and record areas whose performance can only be confirmed during later rainfall.
 
+**Inspection limits and responsibility:** Any spray test needs an agreed location, duration and site permission. Do not direct test water near exposed wiring or unprotected electrical equipment.
+
 **Quotation brief for this service:** Record dates and locations of rain-linked dampness and possible window, outlet or roof paths. Ask for two stages: documented source tracing, then defined repair, reinstatement and appropriate retesting—not blanket recoating without evidence.
 
 ## 7. Waterproofing maintenance
@@ -97,6 +109,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotes, agreement and acceptance:** Compare targeted repair with wider replacement and their risks and limited warranties. Agree a local test before covering and obtain photos of laps and a record of untreated areas.
 
 **Additional maintenance check:** Compare before-and-after photos at drains, joints and blisters; record patch locations and compatibility with the existing membrane rather than relying on surface appearance.
+
+**Inspection limits and responsibility:** A brittle membrane of unknown composition may not accept a new patch. Request an adhesion test or system manufacturer's guidance before choosing local repair.
 
 **Quotation brief for this service:** Provide damaged membrane area, lap-edge photographs and system age if known. Compare a compatible local patch with sectional replacement, including warranty limits and seam testing.
 

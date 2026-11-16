@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { useRef } from 'react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import styles from './DirectoryKnowledge.module.css';
 import DirectoryReadingDialog from './DirectoryReadingDialog';
 import DirectoryResponsiveImage from './DirectoryResponsiveImage';
@@ -210,10 +212,25 @@ function KnowledgeTopic({ topic, locale }) {
   </article>;
 }
 
-export default function DirectoryKnowledge({ locale = 'ar' }) {
-  return <section id="guide" className={styles.guide} aria-label={locale === 'en' ? 'Construction and service guide' : 'دليل البناء والخدمات'}>
+export default function DirectoryKnowledge({ locale = 'ar', variant = 'directory' }) {
+  const strip = useRef(null);
+  const en = locale === 'en';
+  const home = variant === 'home';
+  const move = direction => {
+    const node = strip.current;
+    if (!node) return;
+    const card = node.querySelector('article');
+    const distance = (card?.getBoundingClientRect().width || node.clientWidth) + 16;
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    node.scrollBy({ left: (en ? direction : -direction) * distance, behavior: reduced ? 'auto' : 'smooth' });
+  };
+  return <section id="guide" className={`${styles.guide} ${home ? styles.homeGuide : ''}`} aria-label={en ? 'Construction and service guide' : 'دليل البناء والخدمات'}>
     <div className={styles.heading}><span>{locale === 'en' ? 'KNOW BEFORE YOU CHOOSE' : 'اعرف قبل أن تختار'}</span><h2>{locale === 'en' ? 'A clearer path from question to action' : 'من السؤال إلى خطوة واضحة'}</h2><p>{locale === 'en' ? 'Practical guidance for your project, with a path to the right service or official source.' : 'معلومات عملية لمشروعك، وروابط توصلك للتخصص أو المصدر الرسمي المناسب.'}</p></div>
-    <div className={styles.grid}>{topics.map((topic) => <KnowledgeTopic key={topic.id} topic={topic} locale={locale} />)}</div>
+    {home && <div className={styles.homeControls}>
+      <button type="button" onClick={() => move(-1)} aria-label={en ? 'Previous guide' : 'الدليل السابق'}>{en ? <ChevronLeft aria-hidden="true"/> : <ChevronRight aria-hidden="true"/>}</button>
+      <button type="button" onClick={() => move(1)} aria-label={en ? 'Next guide' : 'الدليل التالي'}>{en ? <ChevronRight aria-hidden="true"/> : <ChevronLeft aria-hidden="true"/>}</button>
+    </div>}
+    <div ref={strip} className={`${styles.grid} ${home ? styles.homeGrid : ''}`} tabIndex={home ? 0 : undefined} aria-label={home ? (en ? 'Project guides' : 'أدلة المشروع') : undefined}>{topics.map((topic) => <KnowledgeTopic key={topic.id} topic={topic} locale={locale} />)}</div>
     <p className={styles.reviewed}>{locale === 'en' ? 'Official links reviewed: 3 November 2026.' : 'مراجعة الروابط الرسمية: 3 نوفمبر 2026.'}</p>
   </section>;
 }

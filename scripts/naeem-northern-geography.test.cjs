@@ -1,4 +1,5 @@
 const assert=require('node:assert/strict');
+const {alNaeemCanonicalRoute}=require('../lib/alNaeemCanonical.cjs');
 const fs=require('node:fs'),path=require('node:path');
 const read=p=>fs.readFileSync(path.join(__dirname,'..',p),'utf8');
 const lib=read('lib/alNaeemPresence.js');
@@ -33,6 +34,14 @@ for(const lang of ['ar','en']){
 assert.ok(profile.includes("alNaeemPath('ar',{kind:'home'})+'#company'"),'stable brand identity absent');
 assert.ok(profile.includes('geoCrumbs'),'geographic breadcrumb schema missing');
 assert.ok(profile.includes('contextEmirateSlug'),'emirate context not in breadcrumbs');
+for(const kind of ['services','offers','service-areas']) {
+ assert.deepEqual(alNaeemCanonicalRoute({kind,contextBase:'/uae/dubai/al-barsha/cleaning-services'}),{kind},'duplicate collections resolve to the main company collection');
+}
+const localService={kind:'services',slug:'villa-cleaning',contextBase:'/uae/dubai/al-barsha/cleaning-services'};
+assert.equal(alNaeemCanonicalRoute(localService),localService,'individual geographic services retain their own canonical route');
+const localProfile={kind:'home',contextBase:'/uae/dubai/al-barsha/cleaning-services'};
+assert.equal(alNaeemCanonicalRoute(localProfile),localProfile,'geographic company profiles retain their own route');
+assert.ok(profile.includes('AL_NAEEM_ORIGIN+canonicalPath'),'page metadata uses the selected canonical');
 assert.ok(discovery.includes("if(cardOnly)return listingMode===\'services\'?publishedServices:profileCard"),'cleaning should not duplicate profile');
 assert.ok(discovery.includes('href:contextHref+\'/services/\'+service.slug'),'service href must preserve hierarchy');
 console.log('Sharjah, Ras Al Khaimah, Fujairah, UAQ: profile in directory; real services in cleaning; nested bilingual route and schema PASS');

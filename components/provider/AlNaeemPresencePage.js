@@ -9,6 +9,7 @@ import { Phone, MessageCircle, MapPin, ArrowLeft, ArrowRight, ChevronDown, Clock
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import { alNaeemPath, AL_NAEEM_ORIGIN } from '../../lib/alNaeemPresence';
+import { alNaeemCanonicalRoute } from '../../lib/alNaeemCanonical.cjs';
 
 const texts = {
   ar: {
@@ -184,7 +185,9 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
   const root=alNaeemPath(locale,{kind:'home',...(route.contextBase?{contextBase:route.contextBase}:{})}), path=alNaeemPath(locale,route);
    const locationName=route.contextBase?(en?route.contextPlaceEn:route.contextPlaceAr):null;
    const contextualNav=(kind,slug=null)=>alNaeemPath(locale,{kind,slug,...(route.contextBase?{contextBase:route.contextBase}:{})});
-  const alt=alNaeemPath(en?'ar':'en',route);
+  const canonicalRoute=alNaeemCanonicalRoute(route);
+  const canonicalPath=alNaeemPath(locale,canonicalRoute);
+  const alt=alNaeemPath(en?'ar':'en',canonicalRoute);
   const serviceChoices=[...data.services,...(data.additionalRequests||[]).map(request=>({...request,isInquiry:true}))];
   const cols={services:serviceChoices,offers:data.offers,'service-areas':data.coverageAreas||data.areas};
   const item=route.slug?cols[route.kind]?.find(x=>x.slug===route.slug):null;
@@ -199,7 +202,7 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
   const phone=data.profile.phone,wa=data.profile.whatsapp;
   const related=item?data.services.filter(x=>x.slug!==item.slug).slice(0,2):[];
   const companySchema={'@context':'https://schema.org','@type':'LocalBusiness','@id':AL_NAEEM_ORIGIN+alNaeemPath('ar',{kind:'home'})+'#company',name,url:AL_NAEEM_ORIGIN+alNaeemPath('ar',{kind:'home'}),telephone:phone,image:AL_NAEEM_ORIGIN+photo,address:{'@type':'PostalAddress',streetAddress:'Damascus Street, Al Qusais',addressLocality:'Dubai',addressCountry:'AE'},areaServed:(data.coverageAreas||data.areas).map(a=>({'@type':'Place',name:pick(a,locale)}))};
-  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+path,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:route.contextBase?[{'@type':'Place',name:en?route.contextPlaceEn:route.contextPlaceAr}]:area?[{'@type':'Place',name:pick(area,locale)}]:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
+  const pageSchema={'@context':'https://schema.org','@type':item&&route.kind==='services'?'Service':route.kind==='home'?'WebPage':item&&route.kind==='offers'?'WebPage':'CollectionPage',name:title,url:AL_NAEEM_ORIGIN+canonicalPath,description:summary,...(item&&route.kind==='services'?{provider:{'@id':companySchema['@id']},areaServed:route.contextBase?[{'@type':'Place',name:en?route.contextPlaceEn:route.contextPlaceAr}]:area?[{'@type':'Place',name:pick(area,locale)}]:companySchema.areaServed}:{about:{'@id':companySchema['@id']}})};
   const geoCrumbs=route.contextEmirateSlug?[
     {name:en?'UAE directory':'دليل الإمارات',item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/uae'},
     {name:en?route.contextEmirateEn:route.contextEmirateAr,item:AL_NAEEM_ORIGIN+(en?'/en':'')+'/uae/'+route.contextEmirateSlug},
@@ -215,15 +218,15 @@ export default function AlNaeemPresencePage({data,locale='ar',route={kind:'home'
     <Head>
       <title>{metaTitle}</title><meta name="description" content={(summary||t.lead).slice(0,165)}/>
       <meta name="robots" content="index,follow"/>
-      <link rel="canonical" href={AL_NAEEM_ORIGIN+path}/>
-      <link rel="alternate" hrefLang={en?'en-AE':'ar-AE'} href={AL_NAEEM_ORIGIN+path}/>
+      <link rel="canonical" href={AL_NAEEM_ORIGIN+canonicalPath}/>
+      <link rel="alternate" hrefLang={en?'en-AE':'ar-AE'} href={AL_NAEEM_ORIGIN+canonicalPath}/>
       <link rel="alternate" hrefLang={en?'ar-AE':'en-AE'} href={AL_NAEEM_ORIGIN+alt}/>
-      <link rel="alternate" hrefLang="x-default" href={AL_NAEEM_ORIGIN+alNaeemPath('ar',route)}/>
+      <link rel="alternate" hrefLang="x-default" href={AL_NAEEM_ORIGIN+alNaeemPath('ar',canonicalRoute)}/>
       <meta property="og:title" content={metaTitle}/>
       <meta property="og:description" content={(summary||t.lead).slice(0,165)}/>
       <meta property="og:type" content="website"/>
       <meta property="og:image" content={AL_NAEEM_ORIGIN+photo}/>
-      <meta property="og:url" content={AL_NAEEM_ORIGIN+path}/>
+      <meta property="og:url" content={AL_NAEEM_ORIGIN+canonicalPath}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(structured).replace(/</g,'\\u003c')}}/>
     </Head>
     <Navbar locale={locale}/>

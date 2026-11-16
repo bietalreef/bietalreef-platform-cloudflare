@@ -1,5 +1,4 @@
 import ScrollToSection from '../ScrollToSection';
-import BusinessCategoryIcon from '../BusinessCategoryIcon';
 import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -8,6 +7,32 @@ import { SERVICE_CATEGORIES } from '../../data/siteTaxonomy';
 import { MARKET_URL, PROVIDERS_APP_URL } from '../../lib/platformUrls';
 import styles from './ProjectDiscovery.module.css';
 import PlatformStoryVideo from '../PlatformStoryVideo';
+import HomeSectorShowcase from './HomeSectorShowcase';
+import DirectoryKnowledge from '../DirectoryKnowledge';
+import { UAE_SECTOR_ASSETS } from '../../data/uaeDirectoryVisuals';
+import visualData from '../../data/sectorGuideVisuals.json';
+
+// Reuse the illustrations already displayed inside the directory sectors.
+const serviceImages = {
+  'general-contracting': visualData['general-contracting'].items[0],
+  'engineering-consultants': visualData['interior-design'].items[2],
+  'interior-design': visualData['interior-design'].items[3],
+  'finishing-works': visualData['general-maintenance'].items[1],
+  'general-maintenance': visualData['general-maintenance'].items[0],
+  'building-materials': visualData['building-materials'].items[0],
+  'furniture-decor': { mobile: UAE_SECTOR_ASSETS['furniture-decor'].small },
+  'carpentry': visualData['aluminium-glass'].items[0],
+  'electrical': visualData['general-maintenance'].items[4],
+  'plumbing': visualData['general-maintenance'].items[5],
+  'ac-technicians': visualData['general-maintenance'].items[6],
+  'aluminium-glass': visualData['aluminium-glass'].items[2],
+  'marble-ceramic': visualData['building-materials'].items[4],
+  'smart-systems': visualData['general-maintenance'].items[7],
+  'landscaping': visualData['general-contracting'].items[3],
+  'cleaning-services': visualData['cleaning-services'].items[0],
+  'equipment-rental': { mobile: UAE_SECTOR_ASSETS['equipment-rental'].small },
+  'transport-logistics': visualData['building-materials'].items[7],
+};
 
 const copy = {
   ar: {
@@ -70,7 +95,11 @@ export default function ProjectDiscovery({ locale = 'ar' }) {
 
     <section className={styles.section} aria-labelledby="gateways-title"><div className={styles.sectionHead}><div><span className={styles.eyebrow}>{en ? 'EXPLORE BIET AL REEF' : 'اكتشف بيت الريف'}</span><h2 id="gateways-title">{t.doors}</h2><p>{t.doorsText}</p></div></div><div className={styles.gateways}>{gateways.map((item,i)=>{const Icon=item.icon;return <Link key={item.href} href={item.href} className={styles.gateway}><div className={styles.gatewayVisual}><Image src={item.image} alt="" fill sizes="(max-width: 760px) 50vw, 25vw"/></div><div className={styles.gatewayBody}><Icon aria-hidden="true"/><h3>{t.gateways[i]}</h3><p>{t.descriptions[i]}</p><span>{t.browse}<Arrow aria-hidden="true"/></span></div></Link>;})}</div></section>
 
-    <section id="service-discovery" className={`${styles.section} ${styles.serviceSection}`} aria-labelledby="service-title"><div className={styles.sectionHead}><div><span className={styles.eyebrow}>{en ? 'START WITH YOUR NEED' : 'ابدأ من احتياجك'}</span><h2 id="service-title">{t.services}</h2></div><Link href={`${prefix}/services`} className={styles.textLink}>{t.all}<Arrow aria-hidden="true"/></Link></div><label className={styles.categorySearch}><Search aria-hidden="true"/><span className="sr-only">{t.searchLabel}</span><input value={query} onChange={event=>setQuery(event.target.value)} placeholder={t.searchPlaceholder} type="search" maxLength={100}/></label><div className={styles.serviceGrid}>{visible.map((item,i)=>{return <Link key={item.slug} href={`${prefix}${en ? '/categories/' : '/services/'}${item.slug}`} className={styles.service}><span aria-hidden="true"><BusinessCategoryIcon category={item.slug} /></span><b>{en?item.nameEn:item.nameAr}</b><Arrow aria-hidden="true"/></Link>;})}</div>{!visible.length&&<p role="status" className={styles.empty}>{t.noMatch}</p>}{!term&&available.length>6&&<button type="button" aria-expanded={showAll} className={styles.showAll} onClick={()=>setShowAll(!showAll)}>{showAll?(en?'Show fewer':'عرض أقل'):t.all}<ChevronDown aria-hidden="true"/></button>}</section>
+    <HomeSectorShowcase locale={en ? 'en' : 'ar'} />
+
+    <section id="service-discovery" className={`${styles.section} ${styles.serviceSection}`} aria-labelledby="service-title"><div className={styles.sectionHead}><div><span className={styles.eyebrow}>{en ? 'START WITH YOUR NEED' : 'ابدأ من احتياجك'}</span><h2 id="service-title">{t.services}</h2></div><Link href={`${prefix}/services`} className={styles.textLink}>{t.all}<Arrow aria-hidden="true"/></Link></div><label className={styles.categorySearch}><Search aria-hidden="true"/><span className="sr-only">{t.searchLabel}</span><input value={query} onChange={event=>setQuery(event.target.value)} placeholder={t.searchPlaceholder} type="search" maxLength={100}/></label><div className={styles.serviceGrid}>{visible.map(item => <Link key={item.slug} href={`${prefix}${en ? '/categories/' : '/services/'}${item.slug}`} className={styles.service}><span className={styles.servicePhoto} aria-hidden="true"><img src={serviceImages[item.slug]?.mobile || serviceImages[item.slug]?.desktop || '/images/gateway/services-offers-gateway.webp'} alt="" width="160" height="100" loading="lazy" decoding="async"/></span><b>{en?item.nameEn:item.nameAr}</b><Arrow aria-hidden="true"/></Link>)}</div>{!visible.length&&<p role="status" className={styles.empty}>{t.noMatch}</p>}{!term&&available.length>6&&<button type="button" aria-expanded={showAll} className={styles.showAll} onClick={()=>setShowAll(!showAll)}>{showAll?(en?'Show fewer':'عرض أقل'):t.all}<ChevronDown aria-hidden="true"/></button>}</section>
+
+    <DirectoryKnowledge locale={en ? 'en' : 'ar'} variant="home" />
 
     <section className={`${styles.section} ${styles.places}`} aria-labelledby="places-title"><div><span className={styles.eyebrow}>{en ? 'NEAR YOUR PROJECT' : 'أقرب لمشروعك'}</span><h2 id="places-title">{t.places}</h2><p>{t.placesText}</p></div><div className={styles.locationLinks}>{locations.map((href,i)=><Link key={href} href={`${prefix}${href}`}><MapPin aria-hidden="true"/>{t.locations[i]}<Arrow aria-hidden="true"/></Link>)}</div></section>
 

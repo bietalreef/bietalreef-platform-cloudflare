@@ -8,6 +8,10 @@ import {areaEditorialFor} from '../data/sharjahAjmanAreaEditorial';
 import {UAE_SECTOR_ASSETS} from '../data/uaeDirectoryVisuals';
 import { localSitemap } from '../lib/localServices';
 import { cleaningGuideSitemap, cleaningGuidePaths } from '../lib/alAinCleaningModel';
+import { alAinHubModel } from '../lib/alAinHubModel';
+import { REVIEWED_AL_AIN_DISTRICTS, getAlAinDistrictSectorEditorial, getReviewedDistrictServiceGuides } from '../lib/alAinAreaSectorProps';
+import { getSectorTaxonomy } from '../lib/sectorTaxonomyExplorer';
+import { alAinReviewedSitemapPairs } from '../lib/alAinReviewedSitemap.cjs';
 import { getLocalProviders } from '../lib/localProviderData';
 import { buildSearchIndexEntries } from '../lib/searchIndexRoutes.js';
 import { getRehabSiteData, presencePath } from '../lib/rehabPresence';
@@ -112,6 +116,23 @@ export async function getServerSideProps({ res }) {
       { ...shared, loc: alternates.en }
     );
   };
+
+  // Reuse the page models and reviewed district content, independent of
+  // provider publication. Cleaning keeps its existing single owner above.
+  // The district maintenance template additionally requires live taxonomy.
+  const maintenanceTaxonomy = await Promise.all(['ar', 'en'].map(locale =>
+    getSectorTaxonomy('general-maintenance', locale, []).catch(() => null)
+  ));
+  for (const pair of alAinReviewedSitemapPairs({
+    sectors: UAE_MAIN_SECTORS,
+    cityModel: alAinHubModel,
+    districts: REVIEWED_AL_AIN_DISTRICTS,
+    districtEditorial: getAlAinDistrictSectorEditorial,
+    districtGuides: getReviewedDistrictServiceGuides,
+    maintenanceTaxonomy,
+  })) {
+    addPair(pair.ar, pair.en, UAE_SECTOR_ASSETS[pair.sector]?.desktop);
+  }
 
   // Existing emirate-sector pages and geographic paths backed by published services.
   for (const emirate of ['abu-dhabi','dubai','sharjah','ajman','umm-al-quwain','ras-al-khaimah','fujairah']) for (const sector of UAE_MAIN_SECTORS) {

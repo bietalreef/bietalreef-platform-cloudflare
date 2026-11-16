@@ -90,6 +90,36 @@ Start with a diagnosis identifying deficiencies, affected members and present an
 
 Define the engineering question: cracking, alterations, capacity or a specific member. Provide plans, photos and test results; require documented methods, findings, assumptions, limitations, recommendations and the responsible engineer's sign-off rather than an informal verbal opinion.
 
+## Engineering supervision and consultancy
+
+### 22. Construction supervision
+
+Before appointing a supervisor for construction or fit-out works on Al Reem Island, define whether the service involves periodic visits or resident supervision, which disciplines are covered, and where the designer's and contractor's responsibilities begin and end. Require inspection hold points before concealed work is closed, dated site photographs, issue logs and corrective responses. At handover, check visit records, test results and closed defects; supervision does not transfer the contractor's execution obligations.
+
+### 23. Project management
+
+Project management is distinct from technical supervision: it coordinates the programme, budget, procurement, risks and project participants. Supply contracts, drawings, milestones and target dates, and specify who may instruct changes or approve variations. Compare management proposals by meeting frequency, reporting, and claims-control procedures. Deliverables should include decision logs, updated schedules, cost forecasts and a record of approved changes.
+
+### 24. Workmanship quality review
+
+Set inspection criteria for the relevant stage: floor flatness, wet-area falls, cladding fixings, weld quality or applicable test results. Finished-surface photographs cannot establish the quality of concealed waterproofing or services; request test records and pre-closure photographs. The review should identify each defect's location, reference, significance and corrective action, followed by a documented reinspection rather than a generic quality statement.
+
+### 25. Project stage inspections and acceptance
+
+Agree on inspection and acceptance points before work starts, such as foundations, structure, waterproofing, services and finishes, as applicable to the project. For each stage, provide current approved drawings, inspection requests, results and photographs before covering the work. Record accepted items, outstanding defects, responsible parties and reinspection dates. Stage acceptance is neither final project handover nor an authority approval.
+
+### 26. Construction progress reporting
+
+Useful reporting requires the baseline programme, updates, measured completed quantities, delivery records and a log of constraints. Distinguish physical progress from payments: an advance payment does not prove equivalent work on site. Require dated photographs, planned-versus-actual comparisons, critical activities, decisions needed and recovery measures, with the source and limitations of reported percentages stated.
+
+### 27. Quantity surveying and measurement
+
+Measure against drawings with identified revision numbers, agreed measurement rules and explicit units for each item. Separate paint areas from tiling areas, lengths from counts, and explain openings, wastage, supply and installation without double counting. Reconcile the bill of quantities with plans and details, and request auditable calculations identifying assumptions and provisional items. Tender estimates are not final measurements of executed work.
+
+### 28. Contractor tender evaluation
+
+Do not compare headline totals alone. Issue the same scope, drawings and specifications to bidders, then review exclusions, substitutions, materials, warranties, programme and payment terms. Prepare a comparison schedule highlighting unpriced items, quantity differences and variation exposure. The deliverable is a reasoned recommendation and written clarification questions, not a promise that the lowest bidder is suitable or available.
+
 ## Request a quotation
 
 Biet Al Reef customer service can receive enquiries even when no provider is published: customer name, contact number, Al Reem Island location, requested service, property type, available dimensions, site photos, earlier drawings and expected deliverables. Any regulatory requirement must be checked against the current official source before approval is promised.

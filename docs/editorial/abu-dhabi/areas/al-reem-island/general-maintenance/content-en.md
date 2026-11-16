@@ -210,6 +210,64 @@ Select sensors for the actual purpose—corridor, entrance or utility-area light
 
 For flickering or failed lights, record affected fittings, models and when the fault occurs before replacing everything. Provide label, ceiling and control photographs. Request checks of supply, terminations, drivers and cooling before identifying failed parts. Compare original or compatible parts, access equipment, labour and warranty. Run the repaired lights for an agreed test period and check stable output and safe connection temperatures.
 
+## Plumbing and leak detection
+
+### 50. Water supply pipework installation
+
+Plan new supply pipework around the number and location of outlets and expected supply pressure, rather than pipe length alone. Share kitchen and bathroom layouts and wall-route photographs; request pipe diameters, materials, jointing, isolation valves and maintenance access. Compare chasing and reinstatement separately from pipe installation. Before concealment, obtain a documented pressure test, route photographs and an as-built outlet plan.
+
+### 51. Drainage pipework installation
+
+Drainage performance depends on gradients, venting and cleanout access before finishes are selected. Provide fixture locations, finished-floor levels and the existing connection point. Ask for pipe sizes, routing, inspection openings and any necessary acoustic treatment. Separate excavation, backfill, reinstatement and waste removal in quotes. Accept only after flow and leakage checks and confirmation that maintenance access remains possible.
+
+### 52. Sanitary fixture installation
+
+Before fitting a toilet, basin or mixer, check the product dimensions against water and waste connections and comfortable mounting heights. Share connection photographs, model references and dimensions; specify brackets, seals, silicone and isolation valves. Distinguish product supply, fitting, removal of the old unit and any pipe alterations. Test supply and drainage and inspect stability and every joint for seepage.
+
+### 53. Water tank installation
+
+A tank installation needs a defined capacity, support location, lifting route and cleaning access. Supply base photographs, dimensions and demand information; require a check of support capacity, tank material, cover, vent, overflow and drain. Compare base preparation, insulation, pipework and lifting equipment separately. At handover inspect anchorage, watertight joints, fill valve operation and overflow routing.
+
+### 54. Water pump installation
+
+Select a pump from measured incoming pressure, required delivery head and simultaneous demand. Share the existing nameplate where available, installation space and electrical supply. Request a suitable performance curve, dry-run protection and vibration/noise isolation. Compare pump, pressure vessel, connections, warranty and maintenance obligations. Test pressure at distant outlets and verify leak-free automatic starting and stopping.
+
+### 55. Pipework rehabilitation
+
+Repeated faults in ageing pipes do not automatically justify full replacement. Gather joint photographs, leak history and valve locations; request a survey distinguishing local repairs, section replacement and rerouting. Compare demolition, reinstatement, water shutdowns and pressure testing. Handover should include updated routing records, test results for new connections and identification of retained older pipework.
+
+### 56. Drainage network maintenance
+
+Slow drainage or recurring odours may reflect a blockage, trap fault or inadequate venting. Identify affected outlets, when symptoms occur and inspection-chamber photographs. Request diagnosis before choosing rodding, mechanical cleaning or camera inspection. Compare included pipe length, waste disposal and exclusions for repairs. Verify drainage from multiple outlets, site cleanliness and no wastewater backup.
+
+### 57. Water leak detection
+
+Before opening a damp wall, record meter readings with fixtures off, photographs, onset date and nearby pipe routes. Ask for tests that distinguish pressurised supply leaks from drainage, condensation and waterproofing defects, including equipment limitations. Compare detection fees with excluded opening and repair work. Obtain a report identifying the probable source, evidence and confirmation steps rather than an unconditional no-damage promise.
+
+### 58. Leaking pipe repair
+
+Isolate the affected line and identify pipe material, diameter and defect location before selecting a fitting or replacement length. Share leak and surrounding-area photographs and available pressure information. Specify replacement extent, jointing method and material compatibility. Price wall opening, protection and finish reinstatement separately. Require an appropriate pressure check and joint observation, documenting the repair before concealment.
+
+### 59. Water tank leak investigation
+
+Falling tank level alone does not prove that the tank shell leaks: fill valves, connections and overflows can be responsible. Log level changes over a defined interval and photograph the base, walls and connections. Request separate checks of the shell and attached pipework. Compare draining, cleaning, testing and repair options. Accept a documented level or integrity test identifying the fault.
+
+### 60. Bathroom waterproofing
+
+Coordinate bathroom waterproofing with floor falls, drains and pipe penetrations before tiling. Provide dimensions and photographs of floors, walls and penetrations. Specify substrate preparation, upstand height, corners and joint detailing. Compare membrane layers, protection, flood testing and finish reinstatement. Do not accept concealed waterproofing without a suitable documented test and correction of visible leaks or ponding.
+
+### 61. Roof waterproofing
+
+Investigate roof ponding, outlets, joints and service penetrations before covering defects with another coating. Supply roof area, layout and photographs of cracks and wet spots. Request removal of failed layers, falls correction and perimeter detailing. Compare membrane system, thickness, protection and actual warranty terms. Handover should include drainage inspection, detailing checks and a suitable integrity test before reuse.
+
+### 62. Water tank waterproofing
+
+Tank waterproofing depends on tank construction, condition and whether it stores drinking water. Provide dimensions, photographs of cracks and old coatings, and access and ventilation details. Specify materials suitable for the intended water use and cleaning, preparation and joint treatment. Compare downtime, testing, disinfection and recommissioning. Verify coating condition, watertightness and safe confined-space procedures before acceptance.
+
+### 63. Treatment of leak-related damp
+
+Find the moisture source before repainting: condensation, pressurised pipe leaks, drainage and failed waterproofing need different remedies. Record patch location, growth, weather or usage patterns and photographs from both sides where possible. Request moisture measurements, diagnosis, drying scope and removal of damaged materials. Compare source repair, drying and redecorating separately. Accept after drying checks and an agreed observation period without recurrence.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

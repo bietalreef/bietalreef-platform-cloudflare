@@ -131,7 +131,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Comparing quotations and agreement:** compare field of view, night image, storage and approvals. Agree equipment, labour, programming, tests, warranty, dates and variation approval in writing.
 
-**Acceptance checks:** check day/night angles and exclude private areas. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
+**Acceptance checks:** Check angles in daylight and actual night lighting; record and retrieve a short test clip with correct date and time, then confirm privacy masks persist after a device restart. Do not use footage of unrelated people for testing; exclude private areas. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
 **Additional safety and privacy check:** Define camera angles to avoid unjustified capture of neighbouring property or private areas and check applicable requirements.
 **Focused scope and handover audit:** Approve camera angles, privacy masks and recording retention against applicable requirements; do not capture neighbours' property or private spaces without proper authority.

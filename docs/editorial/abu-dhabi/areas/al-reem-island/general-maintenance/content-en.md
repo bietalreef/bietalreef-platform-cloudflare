@@ -152,6 +152,64 @@ Fixing methods differ for stone, ceramic, composite and timber wall cladding. St
 
 A damaged floor may involve loose tiles, cracks, swollen parquet or substrate settlement; the cause matters. Photograph defects close up and in context, record affected area and any recent leaks or movement. Require diagnosis before pricing and distinguish local replacement from wider removal and substrate or waterproofing repair. Compare matching material availability, acceptable colour variation, downtime and waste removal. Inspect stability, levels, joints and affected drains or doors at handover.
 
+## Electrical systems and lighting
+
+### 36. Building electrical first fix
+
+Plan the installation from load schedules and room layouts before closing walls. Supply floor plans, circuit counts, major appliances and AC and kitchen points. Request a qualified designer's circuit schedule covering conduit routes, cable sizing, protective devices and earthing. Compare chasing, reinstatement and testing as separate items. Photograph concealed routes before closing and obtain continuity, insulation and earthing test records from a competent electrician.
+
+### 37. Wire and cable installation
+
+An added circuit or replacement of aged wiring requires more than a cable-length estimate. Document the supply point, anticipated load, route and protection from heat and abrasion. Specify conductor material, insulation rating, cross-section, conduit pulling and identification at both ends. Compare actual cable lengths, access openings and making good. Accept only after insulation, termination and circuit-labelling checks; do not energise untested circuits.
+
+### 38. Distribution board installation
+
+For a new or replacement board, inventory the circuits and loads and check working clearance. Provide photographs of the existing board, main protective device and connected equipment. Ask a qualified professional to review a single-line diagram, circuit schedule and suitable protective devices. Price the enclosure, assembly, reconnection, outage arrangements and testing separately. Check circuit labels, secure covers, access and recorded protective-device tests at handover.
+
+### 39. Socket and switch installation
+
+State the number, positions, mounting heights and expected use of outlets and switches, especially near water or behind furniture. Supply wall photographs and known wiring routes. Specify fittings, suitable protection and fixing methods. Compare a new point with replacement of an existing faceplate, including chasing and repainting. Have a competent electrician check operation, secure mounting, polarity and appropriate protection before acceptance.
+
+### 40. Electrical supply to annexes
+
+A separate annex supply needs the distance from the source, equipment loads and whether the route is external or buried. Share a site plan, passage photographs and entry points. Request load and voltage-drop calculations, cable and protective-device selection, earthing and isolation arrangements. Compare trenching, weather-resistant containment and surface reinstatement separately. Record the buried route before backfilling and obtain insulation and protection tests before gradually loading the supply.
+
+### 41. Electrical network refurbishment
+
+Repeated trips or undocumented alterations call for a circuit survey before proposing complete rewiring. Gather board photographs, fault history, previous modifications and sensitive equipment details. The report should distinguish termination repairs, circuit replacement and board upgrades, including safe phased isolation. Compare inspection scope, as-built diagrams and downtime. Handover should include measurements, an updated circuit schedule and a record of outstanding defects.
+
+### 42. Electrical load assessment
+
+Assess loads before adding high-demand equipment or where breakers overheat or trip repeatedly. Provide equipment ratings, operating patterns and board photographs. Request representative current measurements, phase balance and connection checks under realistic operation. Compare quotations on whether they deliver measured results and redistribution recommendations, not just a visit. Obtain a report of readings, conditions, instruments and actions; upsizing a breaker without checking the wiring is not a solution.
+
+### 43. Indoor lighting installation
+
+Choose fittings around room use, ceiling height, finishes and furniture. Share a plan marking power points, switching and downlight positions. Specify wattage, colour temperature, beam angle and maintenance access. Compare supply, installation, gypsum cutting and wiring alterations separately. Inspect actual light distribution, flicker and alignment against the approved layout.
+
+### 44. Outdoor lighting installation
+
+Entrances, paths and façades require fittings suited to dust, water exposure and maintenance access. Provide site photographs, fixing distances, cable routes and drainage positions, and distinguish security lighting from architectural accent lighting. Specify ingress protection, safe junction positions and light aiming that avoids neighbouring windows. Compare excavation, mounting and controls. Test at night and inspect sealing and water drainage around connections.
+
+### 45. Chandelier installation
+
+A chandelier's weight, ceiling construction, suspension point and clear height matter as much as its appearance. Provide ceiling photographs, dimensions, product weight and assembly details. Require verification that the structural fixing can carry the load independently of the electrical cable. Compare access equipment, assembly, fitting and final alignment. Check secure suspension, balance, clearance and operation of every lighting group.
+
+### 46. Concealed strip lighting
+
+Coordinate concealed LED strips with the gypsum recess, heat dissipation and an accessible driver location. Supply run length, recess section, ceiling photographs and switch positions. Specify strip output, aluminium profile, diffuser and controller. Compare power feeds, drivers and gypsum modifications separately. Inspect a uniform light line, absence of harsh visible dots or abnormal heating, and service access to the driver.
+
+### 47. Garden lighting installation
+
+Map paths, trees, irrigation zones and water services before positioning garden lights. Supply approximate bed dimensions, site photographs and power points. Specify moisture-suitable fittings and protected underground joints, keeping cables clear of routine digging. Compare fitting count, cable routes, excavation, replanting and timers. Test after dark and check for exposed cables or water pooling around connections.
+
+### 48. Motion sensor installation
+
+Select sensors for the actual purpose—corridor, entrance or utility-area lighting—because range, field of view and switch-off delay vary. Provide entrance layouts, mounting heights and photographs of false-trigger sources such as AC discharge or moving trees. Specify sensor type, compatible lighting load, sensitivity and timing. Compare wiring points and switch modifications. Walk-test detection in daylight and darkness and check for nuisance activation.
+
+### 49. Lighting fixture maintenance
+
+For flickering or failed lights, record affected fittings, models and when the fault occurs before replacing everything. Provide label, ceiling and control photographs. Request checks of supply, terminations, drivers and cooling before identifying failed parts. Compare original or compatible parts, access equipment, labour and warranty. Run the repaired lights for an agreed test period and check stable output and safe connection temperatures.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

@@ -14,6 +14,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test dimming, physical switches and offline behaviour. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Before approving dimmers, test lamp-module compatibility and document physical switch operation during network failure.
 **Request a quotation:** Provide lighting circuits, switch positions, controller models and wiring compatibility; price programming and testing separately. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 2. Smart air-conditioning control
@@ -28,6 +29,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test start/stop, setpoint readings and equipment safeguards. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Verify controller compatibility with the exact AC model; do not bypass protective circuits or alter control wiring without qualified personnel.
 **Request a quotation:** Provide air-conditioning zones, existing controller models, connection method and possible subscription; specify manual-operation tests. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 3. Smart lock installation
@@ -42,6 +44,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test both sides, emergency override and code revocation. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Check free egress from inside during power failure, applicable life-safety requirements and the emergency key.
 **Request a quotation:** Provide door count, cylinder type, door thickness and emergency release; separate lock, fitting and configuration costs. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 4. Motorised curtain installation
@@ -56,6 +59,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** run several cycles and confirm smooth stops without fabric strain. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Request evidence of track load capacity, fixing points and a stop method if fabric jams.
 **Request a quotation:** Provide window count, curtain dimensions, fabric weight and power supply; itemise motors, switches and programming. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 5. Connecting devices to a mobile app
@@ -70,6 +74,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** sign in on owner's phone, remove installer access and test alerts. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** The owner should create the administrator account and review app permissions and installer access removal at handover.
 **Request a quotation:** Provide device list, models, operating systems, requested app and owner account; separate integration, subscriptions and support. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 6. Smart automation scenes
@@ -84,6 +89,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test return states, offline cases and unobstructed emergency exits. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Exclude automations that disable emergency exits or alarms; test conflicting scenes after power restoration.
 **Request a quotation:** Provide scenario matrix, dependent devices and manual overrides; price setup and testing for each scene. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 7. Smart-home system maintenance
@@ -98,6 +104,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test local control, app access and backups after repair. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Request a settings backup and a documented manual fallback when the hub is unavailable.
 **Request a quotation:** Provide fault list, device models, firmware versions and onset dates; separate diagnosis, parts and reset costs. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 8. CCTV camera installation
@@ -112,6 +119,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** check day/night angles and exclude private areas. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Define camera angles to avoid unjustified capture of neighbouring property or private areas and check applicable requirements.
 **Request a quotation:** Provide camera positions, mounting heights, viewing distances and night lighting; itemise cameras, storage, cables and applicable approvals. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 9. CCTV recorder installation
@@ -126,6 +134,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** export a sample clip and verify time, permissions and disk alerts. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Specify retention period, usable storage, encryption and archive viewing permissions.
 **Request a quotation:** Provide channel count, recording resolution and retention period; state usable disk capacity, installation and permissions setup. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 10. Alarm system installation
@@ -140,6 +149,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test each zone, tamper alerts and battery with qualified personnel. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Specify alarm type and competent-authority requirements; do not represent an unapproved system as certified life-safety protection.
 **Request a quotation:** Provide alarm purpose, zones, entrances, sensors and backup battery; identify required approvals and alert testing. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 11. Access-control system installation
@@ -154,6 +164,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** revoke a test credential and verify safe egress on power loss. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Verify door release and safe egress on network or power failure according to the applicable escape requirements.
 **Request a quotation:** Provide door and user counts, access roles, lock types and exit routes; separate hardware, software and training. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 12. Video/audio intercom installation
@@ -168,6 +179,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test calls from each entrance, audio and release without exposing credentials. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Test audio, video and door release locally, and disable unnecessary remote access.
 **Request a quotation:** Provide entrances, screens, distances, network type and door release; itemise units, cables and tests. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 13. CCTV camera maintenance
@@ -182,6 +194,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** verify live and recorded images after the root cause is fixed. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Test connectivity loss, local recording and storage-failure alerts; review device updates without sharing credentials.
 **Request a quotation:** Provide faulty camera IDs, symptoms, timing and recorder model; separate inspection, repair and replacement parts. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 14. Mobile CCTV viewing setup
@@ -196,6 +209,7 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Acceptance checks:** test off-site viewing, revoke installer access and enable available MFA. Obtain operating instructions, owner-held administrator credentials and a list of outstanding defects.
 
+**Additional safety and privacy check:** Use an owner-controlled account and multifactor authentication where available; test lost-device revocation and disable public recording links.
 **Request a quotation:** Provide recorder model, app, user count and connection method; price secure setup, recovery documentation and support. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 ## Quotation assistance
 

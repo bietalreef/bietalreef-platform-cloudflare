@@ -1387,3 +1387,8 @@
 
 - الحالة `in_progress`؛ جرى تدقيق فحص الاستلام للخدمات السبع بالعربية والإنجليزية في [العربية](./general-maintenance/flooring-cladding/content-ar.md) و[English](./general-maintenance/flooring-cladding/content-en.md) و[المراجعة](./general-maintenance/flooring-cladding/review.md). تميزت اختبارات التصريف والعزل وفواصل الحركة ورطوبة القواعد والدمك وحدود الإصلاح.
 - **النواقص التالية:** تدقيق الاستثناءات والتكافؤ الدلالي للصيانة العامة 1–14 والتشطيبات المتكاملة 1–7، ثم `general-maintenance/electrical-lighting` (تحقق من slug) وبقية تخصصات الصيانة، ثم المواد والورش والأثاث والمعدات والتنظيف. لم يكتمل الجرد والتحرير النهائي لـ434 خدمة بكل لغة؛ لا تبدأ المويجعي.
+
+## 2026-11-16 — الكهرباء والإنارة: تخصيص الاتفاق والاستلام
+
+- الحالة: `in_progress`؛ جرى استبدال فقرة الاتفاق العامة لكل الخدمات الأربع عشرة بمتطلبات مستقلة بالعربية والإنجليزية، مع بقاء 14 عنوانًا لكل لغة والتحقق بإعادة القراءة من GitHub: [العربية](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [المراجعة](./general-maintenance/electrical-lighting/review.md).
+- **أول نقص دقيق:** مراجعة تكافؤ المواصفات والفحوص والسلامة للخدمات 1–14 في `general-maintenance/electrical-lighting`، ثم `general-maintenance/plumbing-leak-detection` (التحقق من المسار)، ثم التكييف والتبريد والأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات الثمانية وجرد الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

@@ -1372,3 +1372,8 @@
 
 - الحالة: `in_progress`. جرى تحسين فحص الاستلام للخدمات **1–5 و7 و14** في [العربية](./general-maintenance/general-maintenance/content-ar.md) و[English](./general-maintenance/general-maintenance/content-en.md)، مع [مراجعة التخصص](./general-maintenance/general-maintenance/review.md). أعيدت قراءة الملفين من GitHub وتحقق وجود 14 خدمة في كل لغة.
 - **النواقص الدقيقة التالية:** تدقيق الاستثناءات والتكرار والتكافؤ الدلالي لجميع خدمات `general-maintenance/general-maintenance` **1–14**؛ ثم `general-maintenance/integrated-finishes` **1–7**؛ ثم بقية تخصصات الصيانة والمواد والورش والأثاث والمعدات والتنظيف. يلزم جرد وتدقيق **434 خدمة بكل لغة** عبر 50 تخصصًا ومراجعة المقيد والمقترح قبل اعتماد الجيمي؛ لا تبدأ المويجعي.
+
+## 2026-11-16 — التشطيبات المتكاملة: ضوابط الاتفاق والاستلام
+
+- الحالة: `in_progress`؛ خُصصت ضوابط التعاقد والاستلام للخدمات 1–7 بالعربية والإنجليزية في [المحتوى العربي](./general-maintenance/integrated-finishes/content-ar.md) و[الإنجليزي](./general-maintenance/integrated-finishes/content-en.md) و[مراجعة التخصص](./general-maintenance/integrated-finishes/review.md). أعيدت قراءة الملفات الثلاثة وتأكد وجود سبعة أقسام في كل لغة.
+- **أول نقص تالٍ:** تدقيق الاستثناءات والتكافؤ الدلالي للخدمات 1–14 في `general-maintenance/general-maintenance`، ثم تدقيق الخدمات 1–7 في `general-maintenance/integrated-finishes`، ثم `general-maintenance/gypsum-decor` والخدمات التالية حسب الشجرة، ثم جميع تخصصات الشركات عبر القطاعات الثمانية. جرد 50 تخصصًا و434 خدمة لكل لغة ومراجعة المقيد والمقترح لم يكتمل؛ لا تبدأ المويجعي.

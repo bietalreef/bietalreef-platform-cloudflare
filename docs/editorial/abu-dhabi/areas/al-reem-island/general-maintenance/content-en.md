@@ -268,6 +268,64 @@ Tank waterproofing depends on tank construction, condition and whether it stores
 
 Find the moisture source before repainting: condensation, pressurised pipe leaks, drainage and failed waterproofing need different remedies. Record patch location, growth, weather or usage patterns and photographs from both sides where possible. Request moisture measurements, diagnosis, drying scope and removal of damaged materials. Compare source repair, drying and redecorating separately. Accept after drying checks and an agreed observation period without recurrence.
 
+## Air conditioning and cooling
+
+### 64. Split air-conditioner installation
+
+Select capacity after reviewing room dimensions, ceiling height, solar exposure and occupancy, not floor area alone. Share photographs of the external wall, refrigerant pipe route, condensate drain and electrical supply. Compare included pipe length, insulation, brackets, penetrations and making-good. At handover check both units' fixings, drain fall, supply-air temperature, leakage and vibration while operating.
+
+### 65. Central air-conditioning installation
+
+Central systems need a cooling-load assessment, duct routes, plant access, electrical provision and service clearance. Ask for air-distribution drawings, target airflow, insulation and controls before pricing. Separate equipment supply from ductwork, connections and commissioning. Cooling alone is not sufficient acceptance: request operating records, air balancing and noise and condensation checks.
+
+### 66. Concealed air-conditioning installation
+
+A concealed ceiling unit needs genuine access above the ceiling for filters, pumps and connections. Supply reflected-ceiling drawings, finished height, lighting positions and supply and return grille locations. Compare unit height, fan static pressure, ductwork, condensate routing and ceiling reinstatement. Verify maintenance access, even airflow and the absence of condensate leaks above the ceiling.
+
+### 67. Air-conditioning refrigerant pipe installation
+
+Measure pipe length and elevation between units and check the manufacturer's allowable limits before choosing a route. Specify correctly sized copper pipes, continuous insulation and protected wall penetrations; distinguish refrigerant lines from condensate drainage. Compare route length, joints, openings and finishes. Before concealment, document pressure testing and evacuation to equipment instructions and photograph the routes.
+
+### 68. Air duct installation
+
+Review duct routes, available ceiling voids and clashes with lighting, sprinklers and other services before fabrication. Request sheet-metal thickness, supports, insulation, access panels and dampers as required by the design. Price fabrication, installation, sealing and air balancing separately. At handover inspect supports and joints, air leakage, condensation and measured outlet flows.
+
+### 69. Air-conditioning equipment replacement
+
+Provide the old unit's model, capacity, age, reason for replacement and installation dimensions. Existing piping, electrical supply or supports may not suit the replacement and must be assessed before reuse. Compare removal and disposal, new equipment, accessories, manufacturer warranty and commissioning. Obtain an equipment schedule, test results and confirmation that old refrigerant was handled safely by a competent technician.
+
+### 70. System commissioning and inspection
+
+After installing or modifying air conditioning, request a commissioning plan covering electrical supply and protection, controls, condensate drainage, pressures and temperatures. Supply the equipment schedule, as-built drawings and model numbers. Distinguish individual unit tests from whole-system balancing. Handover should include dated readings, closed defects and operating and maintenance instructions.
+
+### 71. Air-conditioner cleaning
+
+Provide photos of filters, coils, fan and drain condition, and list units and access restrictions. Washing a filter differs from cleaning an evaporator coil and condensate tray: specify disassembly, products and protection of furniture and electrics. Compare indoor and outdoor unit cleaning and drain blockage treatment. Verify component cleanliness, free drainage and performance after restart.
+
+### 72. Refrigerant charging
+
+Poor cooling does not prove refrigerant loss: dirty coils, airflow restrictions or control faults can cause similar symptoms. Require diagnosis, operating measurements and leak checks before adding refrigerant. Record the refrigerant type on the equipment label and never mix types. Compare leak detection, repair, evacuation and weighed charging to manufacturer requirements. Obtain test readings, the quantity charged and the identified loss cause where possible.
+
+### 73. Air-conditioning fault repair
+
+Describe the symptom precisely: compressor not starting, weak cooling, water leakage, breaker trips or unusual noise, including when it occurs and any error code photo. Request electrical, controls and airflow diagnosis before approving expensive replacement parts. Quotations should identify the failure, part number and warranty. Test the affected function under suitable operating conditions and record post-repair measurements.
+
+### 74. Air duct cleaning
+
+Assess the need for duct cleaning through visual inspection of dust or contamination, access points and internal insulation. Provide duct layout, approximate extent and outlet count; specify containment, extraction and protection of occupied areas. Compare supply and return duct cleaning, grille work and waste handling. Do not accept disinfection claims without identifying the product and purpose. Record before-and-after images and inspect duct integrity.
+
+### 75. Central air-conditioning unit maintenance
+
+Maintenance may include filters, belts, bearings, fans, heat exchangers, controls and drains according to unit type and manufacturer guidance. Supply an equipment register, operating hours, alarm history and plant-room access restrictions. Request visit frequency, inspection checklist and exclusions for parts and emergency repairs. Obtain relevant current, temperature and pressure readings and a clear outstanding-defects log.
+
+### 76. Spare-part replacement
+
+Identify equipment model, serial number, part number and failure symptoms before ordering: similar-looking parts are not necessarily compatible. Ask for root-cause diagnosis and confirmation that the replacement meets equipment requirements. Compare part provenance, labour, warranty and return of the failed part. Test the affected circuit or function after fitting rather than accepting a brief power-on check.
+
+### 77. Periodic maintenance contracts
+
+Define every covered unit and location, visit frequency and response arrangements, distinguishing routine inspection and cleaning from excluded repairs and parts. Request scheduled deliverables, operating records, fault tickets and property-management access arrangements. Compare emergency visit allowances, cancellation terms and parts responsibility. Review service reports and fault closure performance before renewal.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

@@ -59,3 +59,93 @@ Villa restoration starts by diagnosing deterioration rather than covering it wit
 ### 14. Residential building refurbishment
 
 A residential refurbishment should inventory affected apartments, corridors and shared systems and define phasing if residents remain. Prepare a condition schedule for finishes, doors, electrical and plumbing works, and specify replacement materials, resident protection and waste handling. Compare the same items and service shutdown windows. Handover covers shared areas, tests and recorded defects.
+
+## Restoration and renovation
+
+### 15. Older building restoration
+
+Restoring an older building begins with a condition survey of load-bearing elements, roofs and services, with dated photographs of cracks and moisture. Request a plan distinguishing retained, strengthened and replaced components, including occupant protection. Compare repair methods, tests and reinstatement, and obtain treatment records and inspection results at handover.
+
+### 16. Villa renovation
+
+For villa renovation, identify rooms and any electrical, plumbing or cooling changes. Supply measured photographs of existing doorways and circulation. Seek a finish schedule, approved samples and a phasing plan for an occupied home. Compare removal, repair, supply and installation separately; test outlets and equipment and inspect finishes room by room.
+
+### 17. Apartment renovation
+
+Apartment renovation needs defined unit boundaries, delivery arrangements and protection of shared lifts and corridors. Provide plans, photographs and measurements of kitchens, bathrooms and floors. Compare waterproofing, service alterations and finishes with waste removal clearly assigned; test drainage, leakage and electrical circuits before closing up.
+
+### 18. Building rehabilitation
+
+Building rehabilitation aims to restore fitness for use, so structural condition and building systems may need assessment before cosmetic work. Provide defect records, available drawings and intended use. Require defined investigation, repair and commissioning stages; compare lifecycle implications and warranties, and document system performance before acceptance.
+
+### 19. Structural crack treatment
+
+Photograph cracks with a scale, locations and dates, noting any change. Injection or painting should not precede diagnosis. A competent structural professional must assess the member, loads and possible movement and decide whether monitoring or strengthening is needed. Compare investigation and repair methods; handover includes measurement and monitoring records, not appearance alone.
+
+### 20. Façade refurbishment
+
+Façade refurbishment requires identification of existing cladding, working heights, damaged areas and water ingress. Provide overview and close-up photographs. Request safe access arrangements, removal of unsound elements, joint treatment and replacement specifications. Compare areas, systems and testing; inspect fixings, finish consistency and water resistance at handover.
+
+### 21. Preparing buildings for reuse
+
+Preparing a building for reuse starts with its former and proposed functions, existing services, entrances and load needs. Provide as-built information and photographs of affected spaces. A qualified assessment should establish necessary alterations and project-specific approvals. Compare strip-out, upgrades, testing and new installations; collect operating and maintenance documentation.
+
+## Demolition and concrete works
+
+### 22. Demolition works
+
+Demolition scope must distinguish removed and retained elements using plans and photographs, including concealed services and access. Require a method covering utility isolation, temporary support, dust and noise control and debris removal. Compare boundaries, plant and waste handling; accept a safe cleared site with condition records.
+
+### 23. Building and annex removal
+
+Removing a whole building or annex requires checking connections to adjacent structures and water, power and drainage. Supply a site plan, removal limits and surrounding photographs, and seek a method protecting retained foundations. Compare breaking, loading, transport and ground reinstatement; confirm service isolation and removal of hazardous voids and debris.
+
+### 24. Concrete cutting and coring
+
+Concrete cutting and coring enquiries need the opening location, size, member thickness and purpose, plus structural drawings and known services. A competent specialist must assess reinforcement and load implications before cutting. Compare cutting method, slurry collection, debris handling and protection; check opening dimensions, edges and surrounding elements.
+
+### 25. Footing and foundation pours
+
+Foundation pouring needs the geotechnical report, approved structural drawings, footing dimensions and excavation levels, including access and any groundwater issues. Compare formwork, reinforcement, concrete, pumping, testing and curing. Inspect bearing conditions, steel and cover before pouring, and document samples and curing afterwards.
+
+### 26. Concrete slab pours
+
+Concrete slab pours require area, thickness, levels, openings and concentrated loads, with reinforcement and service drawings. Request formwork, propping, pour sequencing and curing plans and pre-pour inspections. Check levels, honeycombing, cracking and test records, with support removal governed by the engineering plan.
+
+### 27. Concrete wall construction
+
+For concrete walls, specify length, height, thickness and purpose, including whether soil or water is retained. Provide reinforcement, joint and waterproofing details. Compare formwork, ties, placing, curing and sealing of tie holes. Inspect alignment, levels, joints, waterproofing and concrete test records against the specification.
+
+### 28. Demolition waste removal
+
+Demolition waste removal needs estimated volume, material types, stockpile location and truck access, with potentially hazardous materials identified separately. Request loading, containers, transport and appropriate disposal arrangements. Compare trips, final cleaning and disposal evidence; accept a cleared site without damage to retained services.
+
+## Garden landscaping and maintenance
+
+### 29. Home garden design
+
+Home garden design starts with a measured plan, levels, use patterns, services and shade, supported by site photographs. Request a layout covering paths, planting, irrigation, lighting and maintenance with plant choices suited to intended use and budget. Compare drawings, quantities and running costs; approve the design before procurement.
+
+### 30. Villa landscaping
+
+Villa landscaping needs measured planting zones, seating, paths, play areas, privacy requirements and water supply. Compare soil preparation, irrigation, plants, edging and finishes with an initial care plan. Check ground levels, edge stability, irrigation coverage and plant condition at handover.
+
+### 31. Outdoor space design
+
+External-space design should document intended use, pedestrian and vehicle movement, power, water and drainage points. Supply dimensions and photographs and seek alternatives for paving, shade and lighting with maintenance needs. Compare accessibility, slip resistance, drainage and quantities; accept measurable construction drawings.
+
+### 32. Green-area installation
+
+Green-area installation needs measured area, water source, proposed turf type and usage intensity. The quotation should cover grading, soil improvement, irrigation, planting and establishment care. Compare coverage, material quantities and maintenance plans; test irrigation and assess even establishment before acceptance.
+
+### 33. Tree and shrub planting
+
+Tree and shrub planting requires locations, clearances from walls and services, delivered plant sizes, photographs and irrigation details. Compare pits, soil, stakes, fertilisation and plant-replacement terms, with an initial watering plan. Inspect planting depth, stability, foliage condition and drainage.
+
+### 34. Natural turf installation
+
+Natural turf installation needs measured area, levels, shade photographs and expected foot traffic, because turf selection depends on site and irrigation. Compare weed removal, soil preparation, sod or seeding, irrigation and establishment care. Inspect root contact, surface evenness and water distribution.
+
+### 35. Artificial turf installation
+
+Artificial turf needs intended use, measured area, base type, drainage and heat or wear exposure, with site photographs. Compare pile height and density, base layers, seams and edges rather than sample colour alone. Check surface levels, secure joins and edges and practical drainage at handover.

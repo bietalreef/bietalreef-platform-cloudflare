@@ -4,6 +4,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 1. Villa painting
 
+**Pre-approval check:** Trial the colour on a representative wall under daylight and artificial lighting; record the approved product, colour code and sheen on the sample rather than relying on a phone photo alone.
+
 **When needed:** refreshing several rooms or preparing a villa for occupancy at an Al Jimi property.
 
 **Photos, measurements and specifications:** Record wall/ceiling areas, stairwell heights and room counts, add an overall view of each room and close-ups of cracks or holes; assign the proposed colour to each room.
@@ -17,6 +19,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Provide a room-by-room schedule of approximate wall and ceiling areas, stairwell heights and occupancy. Request separate allowances for furniture protection, defect preparation, coats and colour changes, with an on-site check of high-access areas before quantities are finalised.
 
 ## 2. Apartment painting
+
+**Pre-approval check:** Test adhesion in a discreet area behind furniture, agree ventilation arrangements, and base room reoccupation on actual drying and the product instructions, especially in occupied apartments.
 
 **When needed:** repainting an occupied or rental apartment at an Al Jimi property.
 
@@ -32,6 +36,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 3. Exterior building painting
 
+**Pre-approval check:** Distinguish poor coating adhesion from active moisture; investigate the source of dampness before painting, and record repair quantities and safe access without presenting paint as a leak remedy.
+
 **When needed:** faded or peeling facades exposed to sun and moisture at an Al Jimi property.
 
 **Photos, measurements and specifications:** Record facade area, heights, crack photos and exposure, include full-elevation views and close-ups of peeling around openings and movement joints.
@@ -45,6 +51,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Send views of each elevation where possible, heights, existing coating type and locations of peeling or cracks. Separate substrate preparation, exterior coating system, access equipment, public/window protection and any required permits; do not include structural crack remediation without assessment.
 
 ## 4. Door and timber painting
+
+**Pre-approval check:** Test the proposed finish on an inconspicuous part of the door to assess veneer absorption and compatibility with existing coatings; protect hinges and locks from spray.
 
 **When needed:** scratched doors, faded timber or refinishing at an Al Jimi property.
 
@@ -60,6 +68,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 5. Decorative paint finishes
 
+**Pre-approval check:** Approve a fully dried texture sample on the actual substrate, noting lighting direction and how corners and returns are measured; a small swatch can look different across a full wall.
+
 **When needed:** creating textured, metallic or concrete-effect feature walls at an Al Jimi property.
 
 **Photos, measurements and specifications:** Record feature-wall area, lighting, reference image and flatness, photograph the wall under daylight and artificial lighting and provide a clear texture and colour reference.
@@ -74,6 +84,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 6. Stripping and preparing old paint
 
+**Pre-approval check:** Assess unknown old coatings before stripping and require a safe dust and waste containment method; do not assume dry sanding or heating is suitable before evaluating hazards and the substrate.
+
 **When needed:** recurring flaking or blistering before repainting at an Al Jimi property.
 
 **Photos, measurements and specifications:** Record defect photos, any moisture readings and substrate type, include a wide image of the affected area and close-ups of loose coating edges; avoid disturbing unidentified coatings before assessment.
@@ -87,6 +99,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Photograph peeling boundaries, blistering and any suspected water source; include moisture readings if available. Request a cause assessment and itemised removal, dust containment, disposal and substrate preparation, keeping leak repairs and suspected hazardous material assessment separate.
 
 ## 7. Paint touch-up and recoating
+
+**Pre-approval check:** Compare the dried repair in daylight and evening lighting; where the colour difference remains visible, document the full-wall repaint option instead of accepting a mismatched patch.
 
 **When needed:** local scratches or colour mismatch after service work at an Al Jimi property.
 

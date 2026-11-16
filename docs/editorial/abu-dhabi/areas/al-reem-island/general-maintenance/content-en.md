@@ -122,6 +122,36 @@ Inspect wall flatness and possible exposure to heat, water and cleaning chemical
 
 Identify whether the problem is a board-joint crack, sagging ceiling or water stain; do not apply filler before finding the cause. Send close and wide photographs, crack length and its position relative to AC or plumbing services. Request an inspection of framing, hangers and moisture sources before deciding between local repair and replacement. Compare the area to be opened and reinstated, joint treatment, paint matching and waste disposal. After repair, check board stability, dryness, joint alignment and whether the marks recur during an agreed observation period.
 
+## Flooring and cladding
+
+### 29. Ceramic tile installation
+
+Specify whether the floor is in a bathroom, kitchen or corridor: slip resistance, water absorption and tile thickness depend on the use. Provide floor area, drain and threshold positions, and photographs of the substrate. Ask for tile dimensions, adhesive, grout joints and falls in wet areas, with removal, levelling and waterproofing priced separately from laying. Compare cutting waste and detailing around corners and drains. At handover inspect joint alignment, secure bonding, extensive hollow-sounding areas and drainage falls with a controlled water test.
+
+### 30. Porcelain tile installation
+
+Large-format porcelain requires checking substrate flatness and the access route for bringing slabs into the property. Supply dimensions, doors, stairs and corner photographs, and state whether the work is flooring or wall cladding. Require a compatible adhesive, edge-levelling method, handling and cutting plan, and movement-joint details. Compare slab dimensions, thickness, layout, waste, cuts and skirting. At handover check lippage, alignment, cracks and chipped edges.
+
+### 31. Parquet flooring installation
+
+Distinguish solid wood, engineered wood and wood-look products before specifying parquet, as moisture and maintenance requirements differ. Provide each room's area, existing substrate, doors and AC locations, and check substrate moisture against the product instructions. Require underlay or adhesive details, perimeter expansion gaps, skirting and room transitions. Compare product grade, wear rating, warranty and separate substrate preparation. Inspect board stability, squeaks, door clearance, joint consistency and edge protection from water.
+
+### 32. Vinyl flooring installation
+
+Vinyl may be supplied as sheet, glued planks or floating click flooring. Define traffic, rolling-chair use and water exposure before choosing. Supply room measurements and photographs of substrate cracks and joints; require a check of smoothness and dryness because defects can telegraph through. Quotations should identify wear-layer thickness, adhesive or locking method, seams, trims and skirting. Compare downtime and the permitted time before use. Inspect edges, flatness, bubbles and raised joints.
+
+### 33. Interlocking paving installation
+
+Interlocking pavers should be specified for pedestrian or vehicle loads, ground conditions and stormwater drainage—not colour alone. Provide site dimensions, entrance and drain levels and ground photographs. Request excavation depth, base layers, compaction, paver thickness and edge restraints, with spoil removal separately identified. Compare area, layer thicknesses and cutting around manholes and trees. At handover check levels, falls, restrained edges and local settlement after compaction.
+
+### 34. Wall cladding installation
+
+Fixing methods differ for stone, ceramic, composite and timber wall cladding. State whether the wall is internal or external, its height, area, openings and any supported loads; photograph plaster condition and dampness. Require framing, adhesive or anchors appropriate to the cladding weight, plus corner, joint, movement and exposure details. Compare physical samples, cutting waste and access to concealed services. Inspect secure attachment, alignment, edges and detailing around windows and outlets.
+
+### 35. Floor repair
+
+A damaged floor may involve loose tiles, cracks, swollen parquet or substrate settlement; the cause matters. Photograph defects close up and in context, record affected area and any recent leaks or movement. Require diagnosis before pricing and distinguish local replacement from wider removal and substrate or waterproofing repair. Compare matching material availability, acceptable colour variation, downtime and waste removal. Inspect stability, levels, joints and affected drains or doors at handover.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

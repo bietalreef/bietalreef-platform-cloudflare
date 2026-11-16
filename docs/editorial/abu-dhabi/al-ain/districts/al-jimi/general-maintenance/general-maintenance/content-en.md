@@ -16,6 +16,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Send the fault log, equipment count and desired visit frequency; request separate labour, consumables and emergency allowances.
 
+**Additional scope exclusions:** Concealed-system surveys and AC-unit replacement are excluded; faults discovered during visits need separately approved repair quotations.
 
 ## 2. Routine building maintenance
 
@@ -31,6 +32,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Provide shared-facility inventory, access hours and complaint logs; ask for staffing coverage and responsibility boundaries.
 
+**Additional scope exclusions:** Maintenance of privately occupied units, lift inspections and fire-system certification are excluded from common-area service unless separately assigned to qualified specialists.
 
 ## 3. Repairing interior damage
 
@@ -46,6 +48,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Attach damage photographs, affected area and finish type; ask for separate preparation, patch, sample and waste-removal items.
 
+**Additional scope exclusions:** Repairing an underlying leak or structural movement behind surface damage is excluded until diagnosed and separately authorised.
 
 ## 4. Door and window repairs
 
@@ -61,6 +64,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Provide hinge and lock photos and door-leaf dimensions; request a parts list and clarify whether frame adjustment is included.
 
+**Additional scope exclusions:** Full frame replacement, structural glazing repairs and alteration of wall openings are not included in routine hinge and lock adjustments.
 
 ## 5. Dampness remediation
 
@@ -76,6 +80,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Supply dated stain photographs and known pipe locations; request staged pricing for investigation, source repair, drying and refinishing.
 
+**Additional scope exclusions:** Painting over stains does not resolve moisture ingress; source tracing and waterproofing or pipe repairs must be separated from drying and reinstatement.
 
 ## 6. Crack repairs
 
@@ -91,6 +96,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Provide dated crack photographs with a scale; ask when structural assessment is required before cosmetic repairs.
 
+**Additional scope exclusions:** Moving or widening cracks must not be treated as cosmetic filling; pause surface repairs and seek structural assessment when indicated.
 
 ## 7. Pre-handover building preparation
 
@@ -106,6 +112,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Send the numbered snag list and photographs; request itemised prices and the number of return inspections.
 
+**Additional scope exclusions:** A pre-handover snag list is not a statutory commissioning or certification test for electrical, fire or lift systems.
 
 ## 8. Minor home maintenance
 
@@ -121,6 +128,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Send an itemised task list with locations; confirm minimum labour hours, call-out charge and parts policy.
 
+**Additional scope exclusions:** Minor maintenance visits exclude main service alterations and work at height without appropriate access arrangements and specialists.
 
 ## 9. Curtain installation
 
@@ -136,6 +144,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Supply opening width, fixing height, wall type and curtain/rail photos; separate supply from installation.
 
+**Additional scope exclusions:** Wall reinforcement and new electrical feeds for motorised curtains are priced separately from rail and bracket installation.
 
 ## 10. Shelf installation
 
@@ -151,6 +160,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Provide shelf lengths, expected loads and wall construction; request bracket, anchor and rated-load specifications.
 
+**Additional scope exclusions:** Do not assume plasterboard can carry heavy shelves without verified backing and anchors; reinforcement is a separate item.
 
 ## 11. TV wall mounting
 
@@ -166,6 +176,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Supply screen weight, VESA pattern, wall type and outlet photo; specify bracket and cable-routing responsibility.
 
+**Additional scope exclusions:** TV mounting excludes concealed electrical alterations, relocating outlets and repairing the screen unless explicitly included.
 
 ## 12. Accessory installation
 
@@ -181,6 +192,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** List each accessory with fixing-location photos; clarify tile/waterproofing protection and who supplies fittings.
 
+**Additional scope exclusions:** Bathroom waterproofing reinstatement and substrate corrosion repairs are separate from attaching accessories unless specified.
 
 ## 13. Furniture assembly
 
@@ -196,6 +208,7 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 
 **Quotation request details:** Supply furniture model numbers, carton counts and assembly instructions; clarify moving, anchoring and packaging disposal.
 
+**Additional scope exclusions:** Repairing broken timber parts or supplying missing or defective hinges is separate from standard flat-pack assembly.
 
 ## 14. Minor fault repairs
 
@@ -215,3 +228,6 @@ Practical guidance for requesting quotations from businesses, not a claim that a
 ## Request a quotation
 
 Send site photos, measurements and the itemised scope to Biet Al Reef customer service for help preparing a clear request. No company availability, price or date is guaranteed.
+
+**Additional scope exclusions:** Distribution-board replacement, concealed leaks and major equipment faults require separate diagnosis and quotation, not a minor-fix allowance.
+

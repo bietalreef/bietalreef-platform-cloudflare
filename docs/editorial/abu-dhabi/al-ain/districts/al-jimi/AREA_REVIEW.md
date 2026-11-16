@@ -1382,3 +1382,8 @@
 
 - الحالة `in_progress`. حُررت ضوابط الاستلام للخدمات 1–7 في [العربية](./general-maintenance/gypsum-decor/content-ar.md) و[English](./general-maintenance/gypsum-decor/content-en.md) وسُجلت في [المراجعة](./general-maintenance/gypsum-decor/review.md)، مع فصل الأحمال المعلقة عن ألواح الجبس، وإتاحة الوصول للكهرباء والخدمات، وتوثيق العزل والرطوبة قبل الإغلاق.
 - **أول نقص دقيق تالٍ:** تدقيق الاستثناءات والتكافؤ الفني للخدمات 1–14 في `general-maintenance/general-maintenance` ثم 1–7 في `general-maintenance/integrated-finishes`، ثم `general-maintenance/flooring-cladding` (تحقق من المسار)، ثم بقية تخصصات الشركات؛ جرد أسماء 434 خدمة في كل لغة ومراجعة التصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل الاعتماد الشامل.
+
+## 2026-11-16 — الأرضيات والكسوات: معايير الاستلام
+
+- الحالة `in_progress`؛ جرى تدقيق فحص الاستلام للخدمات السبع بالعربية والإنجليزية في [العربية](./general-maintenance/flooring-cladding/content-ar.md) و[English](./general-maintenance/flooring-cladding/content-en.md) و[المراجعة](./general-maintenance/flooring-cladding/review.md). تميزت اختبارات التصريف والعزل وفواصل الحركة ورطوبة القواعد والدمك وحدود الإصلاح.
+- **النواقص التالية:** تدقيق الاستثناءات والتكافؤ الدلالي للصيانة العامة 1–14 والتشطيبات المتكاملة 1–7، ثم `general-maintenance/electrical-lighting` (تحقق من slug) وبقية تخصصات الصيانة، ثم المواد والورش والأثاث والمعدات والتنظيف. لم يكتمل الجرد والتحرير النهائي لـ434 خدمة بكل لغة؛ لا تبدأ المويجعي.

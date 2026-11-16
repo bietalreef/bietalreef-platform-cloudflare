@@ -149,3 +149,91 @@ Natural turf installation needs measured area, levels, shade photographs and exp
 ### 35. Artificial turf installation
 
 Artificial turf needs intended use, measured area, base type, drainage and heat or wear exposure, with site photographs. Compare pile height and density, base layers, seams and edges rather than sample colour alone. Check surface levels, secure joins and edges and practical drainage at handover.
+
+## Irrigation networks
+
+### 36. Plant and tree installation
+
+List species, nursery sizes and quantities, noting clearance from utilities and foundations and the available shade and water. Ask for planting-pit sizes, soil mix, tree support and delivery sequence; compare replacement obligations during establishment. Inspect planting depth, stability, drainage and plant health at handover.
+
+### 37. Tree pruning and shaping
+
+Provide photographs showing tree height and branches near buildings or paths. Specify whether crown lifting, deadwood removal or selective thinning is needed. Request safe access and debris handling, avoiding excessive cutting that harms the tree. Compare pruning scope and frequency, then check cut quality and clear walkways.
+
+### 38. Lawn and green-area maintenance
+
+State the area, turf type, weak patches and irrigation source, with photos of yellowing or standing water. Maintenance may require mowing, aeration, patch repair and irrigation adjustment according to actual conditions. Compare visit frequency, consumables and patch-replacement terms; request work records and evidence of improved coverage.
+
+### 39. Plant fertilisation and treatment
+
+Do not select fertiliser before recording symptoms, watering history and growing medium. Share foliage and root photographs where practical, and request diagnosis distinguishing nutrient deficiency from overwatering or salinity. Compare product, dosage, application method and follow-up; obtain treatment records and care instructions.
+
+### 40. Garden pest management
+
+Identify affected plants, visible pests and spread using clear photographs, noting children, pets or food areas nearby. Ask for inspection and consideration of pruning or targeted treatment before blanket spraying, following product safety instructions. Compare visits, follow-up and measurable evidence of reduced infestation.
+
+### 41. Garden cleaning
+
+Measure the garden and distinguish leaves, branches, loose soil and construction debris. Identify collection points and equipment access. Separate path and planter cleaning from pruning or heavy waste removal unless included. Compare labour, loading and final clean-up, checking that paths and drains are clear.
+
+### 42. Garden maintenance contracts
+
+Provide planted-area plans, species, irrigation details and a baseline condition record. Request a seasonal schedule separating mowing, pruning, cleaning, inspections and urgent treatment, with explicit consumables and replacement exclusions. Compare response times, reporting and performance measures; photograph conditions at contract start and review points.
+
+### 43. Irrigation network design
+
+Supply planting plans, turf areas, levels, water source and available pressure, identifying zones with different watering needs. Request hydraulic zoning, flow calculations, pipe sizes, valves, controls and drainage. Compare drawings, bills of quantities and maintenance access; accept buildable plans with test points.
+
+### 44. Drip irrigation installation
+
+Specify planting rows, bed lengths and water supply. Request details of filtration, pressure regulation, emitter type and spacing. Compare pipe restraint, protection and flushing access rather than price per metre alone. Run each zone at handover, checking emitter output, leaks and line ends.
+
+### 45. Sprinkler installation
+
+Provide lawn dimensions, paths, walls and relevant wind exposure, plus supply pressure. Ask for a coverage-overlap layout, head selection, levels and protection from vehicles. Compare zoning, water use and adjustable arcs; witness a coverage test that avoids spraying entrances.
+
+### 46. Irrigation tanks and pumps
+
+Describe daily demand, refill source, tank space, pump location, network levels and required pressure. Request tank sizing, pump flow and head calculations, electrical protection, mounting and maintenance access. Compare controls, warranty and backup provisions; test start-stop operation and leak tightness.
+
+### 47. Irrigation network maintenance
+
+Record dry zones and pooling areas, with photographs of heads, valves and controller. Ask for pressure, filter, programming and joint checks before replacing unconfirmed faulty parts. Compare cleaning, repair, spare parts and follow-up; request pressure readings and an operational test for every zone.
+
+### 48. Automatic irrigation programming
+
+Provide plant types, soil, seasonal needs, use periods, zone count and controller model. Request independent run schedules and verification of rain or moisture sensors where fitted, including access permissions and settings backup. Compare user training and follow-up; obtain the program schedule and witness a complete cycle.
+
+### 49. Irrigation leak detection
+
+Document rising consumption, pressure loss and persistently wet patches, with known pipe routes and valves. Request zone isolation and suitable pressure or detection testing before excavation to limit surface damage. Compare diagnosis, repair and reinstatement separately; require a repeat network test at handover.
+
+## Shade structures and external works
+
+### 50. Car shade installation
+
+Provide parking-bay dimensions, vehicle clearance, door swing and known buried services with site photographs. Request drawings for columns, foundations, canopy covering and drainage, with structural loading addressed by the approved design. Compare frame and cover materials and warranty; check anchorage, clearances and drainage.
+
+### 51. Pergola construction
+
+State seating area, height, desired shade and whether the structure fixes to ground or building; provide measurements and photographs. Request framing, cladding, corrosion protection and drainage details for solid roofs. Compare finishes, maintenance and foundations; inspect alignment, connections and safe edges.
+
+### 52. Outdoor seating area construction
+
+Specify seating capacity, footprint, circulation, power, lighting and drainage, with existing levels photographed. Ask for a bill separating paving, shade, fixed seating and planting. Compare slip resistance, cleaning and materials; inspect levels, seating stability and clear routes.
+
+### 53. External fence installation
+
+Provide verified property boundaries, fence lengths, heights, gates and ground conditions; do not use visual estimates to establish the boundary. Request route, design and site-specific requirement checks before work, including posts, footings and corrosion protection. Compare materials, gates and finishes; inspect alignment, stability and gate operation.
+
+### 54. Garden path construction
+
+Mark path route, width, length, entrance levels and drainage, stating pedestrian or trolley use. Request base-layer sections, edging, paving or stone type and surface falls. Compare excavation, compaction, materials and any lighting; inspect evenness, drainage and secure edges.
+
+### 55. Interlocking paving installation
+
+Measure paved area, vehicle or pedestrian loading, manhole and threshold levels and drainage. Request subbase, compaction, paver thickness, laying pattern and edge details, with an approved sample. Compare quantities, wastage and manhole adjustments; inspect levels, settlement and joint stability.
+
+### 56. Waterfalls and fountain construction
+
+Specify basin size, depth, location, child access, water and power sources, desired flow and acceptable noise. Request waterproofing, pump, filtration, drainage, maintenance access and electrical protection details. Compare operating demand, water consumption and warranty; witness leak testing and sustained safe operation.

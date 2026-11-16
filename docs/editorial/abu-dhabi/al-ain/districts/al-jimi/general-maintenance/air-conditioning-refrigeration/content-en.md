@@ -58,7 +58,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Scope and quote comparison:** Compare sheet gauge, joints, supports, insulation, dampers and cleanup; assign fire-stopping and ceiling making good. Specify duct cross-sections, insulation, supports, access panels and inspection requirements before ceiling closure.
 
-**Acceptance check:** Inspect duct support, leakage at joints, balanced flow and absence of rattling or whistling.
+**Acceptance check:** Request joint tightness checks to the project specification and measured airflow at agreed outlets against the approved design; inspect supports, vibration and whistling rather than accepting a simple power-on demonstration.
 
 **Request a quotation:** Send the ceiling plan, outlets and obstacles; request duct quantities, metal specification, insulation, supports, inspection access and penetration sealing.
 
@@ -82,7 +82,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Scope and quote comparison:** Agree a checklist for electrical safety, cooling, drainage, controls and air balance; identify who rectifies defects. Agree commissioning readings, test duration, setting adjustments and the fault report to be handed over.
 
-**Acceptance check:** Obtain a dated readings report, pass/defect findings and retesting after correction.
+**Acceptance check:** Obtain a dated report linking each reading to equipment ID, measurement point, operating conditions and agreed acceptance limit, with pass/rectify status and documented retesting after corrections.
 
 **Request a quotation:** Provide equipment IDs, drawings and previous faults; request a measurement schedule, test duration, signed results and any retest charge.
 
@@ -106,7 +106,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Scope and quote comparison:** Separate diagnosis, leak repair, tightness testing, evacuation and weighed charge; no refrigerant mixing or deliberate venting. Require diagnosis of refrigerant loss, correct refrigerant type, charge quantity and leak testing before recharge.
 
-**Acceptance check:** Request a qualified technician's record of refrigerant type, quantity, leak cause and post-repair operating readings.
+**Acceptance check:** Obtain the qualified technician's leak-location and repair record, tightness and evacuation results, refrigerant type and weighed charge against the unit nameplate, plus post-repair operating readings; topping up alone does not establish a successful repair.
 
 **Request a quotation:** Share the nameplate refrigerant type, charging history and symptoms; ask for separate diagnosis, leak repair, tightness test, evacuation and weighed recharge.
 
@@ -130,7 +130,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Scope and quote comparison:** Compare access method, containment, suitable filtered extraction and plenum/grille cleaning; chemical spraying needs justification and consent. Specify duct sections covered, dust capture, protection of occupied rooms and before-and-after outlet evidence.
 
-**Acceptance check:** Request matched before/after internal photos and verify clean outlets with no debris left inside.
+**Acceptance check:** Require internal before-and-after photographs at agreed access points, a list of inaccessible duct runs, and confirmation that access openings are resealed and no debris remains in ducts or outlets.
 
 **Request a quotation:** Specify duct zones, access points and deposit photographs; ask how dust is contained, extracted, documented and whether any chemical treatment is proposed.
 

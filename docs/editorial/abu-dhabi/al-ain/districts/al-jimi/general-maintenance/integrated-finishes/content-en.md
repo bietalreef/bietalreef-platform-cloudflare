@@ -4,6 +4,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 ## 1. Villa finishing
 
+**Specifications, materials and equipment:** Specify slip resistance for entrance and wet-area flooring, tile adhesive compatibility with the substrate and movement-joint locations; substitutions to approved samples require written acceptance.
+
 **When needed:** Majlis, bedrooms and wet rooms need different specifications; begin with a floor-by-floor plan showing completed structure and services.
 
 **Photos and measurements:** Provide room photos, floor areas, ceiling heights, outlet locations and proposed flooring and paint samples.
@@ -19,6 +21,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Quotation request details:** Attach floor-by-floor areas and the condition of electrical and plumbing rough-ins. State who supplies materials and request itemised trade prices and inspection hold points before concealed work is closed.
 
 ## 2. Apartment finishing
+
+**Specifications, materials and equipment:** Measure lift dimensions and the delivery route for long panels before ordering; define dust containment and protection of fire detectors under building-management procedures, never by unqualified isolation of life-safety systems.
 
 **When needed:** Occupied apartments and shared buildings require lift booking, noise control and common-area protection.
 
@@ -36,6 +40,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 ## 3. Retail shop finishing
 
+**Specifications, materials and equipment:** Check floor suitability for stock trolleys, display-surface abrasion and cleaning resistance, and any required fire-performance documentation before procurement; 'commercial grade' alone is not a specification.
+
 **When needed:** A retail unit needs coordinated frontage, customer circulation, display fixtures and lighting before surface finishes.
 
 **Photos and measurements:** Provide a layout, storefront dimensions, power and data points, ceiling and floor photographs and landlord requirements.
@@ -51,6 +57,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Quotation request details:** Send customer circulation drawings, storefront dimensions and display loads. Request separate prices for counters, cladding, lighting and signage, identifying who handles approvals.
 
 ## 4. Office finishing
+
+**Specifications, materials and equipment:** Set the required acoustic performance of partitions, including perimeter seals and service penetrations, plus chair-traffic floor finishes and data outlet locations; board thickness alone does not establish acoustic performance.
 
 **When needed:** Office layouts depend on workstations, meeting rooms, acoustic privacy and network routes.
 
@@ -68,6 +76,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 ## 5. Interior refurbishment
 
+**Specifications, materials and equipment:** Measure substrate moisture and soundness before new cladding and agree a compatible adhesion test patch; do not conceal friable or damp surfaces beneath adhesive panels.
+
 **When needed:** Before replacing damaged finishes, establish whether moisture, substrate movement or ordinary wear caused failure.
 
 **Photos and measurements:** Photograph damage and its history, measure affected areas, inspect substrate condition and list items to retain.
@@ -84,6 +94,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 ## 6. Decorative fit-out works
 
+**Specifications, materials and equipment:** Match suspended cladding and cabinet loads to the wall construction and anchoring system; specify luminaire ratings, operating temperature and ventilation clearances, with engineered reinforcement where gypsum cannot carry the load.
+
 **When needed:** Decorative work may combine wall cladding, light coves and fixed joinery; clarify boundaries between finisher, carpenter and electrician.
 
 **Photos and measurements:** Supply wall photographs, elevations, socket and AC locations, finish samples and detailed drawings.
@@ -99,6 +111,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Quotation request details:** Provide wall elevations, joint details, finish samples and lighting-driver positions. Ask for a corner mock-up and separate joinery, cladding and electrical allowances.
 
 ## 7. Integrated finishing handover
+
+**Specifications, materials and equipment:** Collect product and colour references, delivery batches, maintenance manuals and concealed-work test records; agree suitable instruments and owner attendance for level and drainage-fall checks.
 
 **When needed:** Handover is more than cleaning: each item must be evidenced and outstanding defects closed before acceptance.
 

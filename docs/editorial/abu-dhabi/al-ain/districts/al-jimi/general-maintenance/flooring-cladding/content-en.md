@@ -12,7 +12,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare measured area, cutting allowance, adhesive specification and curing period; reject quotations that conceal substrate repairs. Record the approved grout and skirting sample, tile and adhesive supply responsibility, bathroom closure during curing, drain protection and debris removal.
 
-**Handover checks:** Check joint alignment, edges and drainage with a controlled water test, and inspect for loose or hollow-sounding tiles after curing.
+**Handover checks:** Compare drainage falls and outlet positions with the agreed layout and inspect joints and edges after the specified cure. Use only a safe, limited drainage check; it is not a substitute for a separate waterproofing test. Record loose or hollow-sounding tiles for investigation before acceptance.
 
 ## 2. Porcelain tile installation
 
@@ -24,7 +24,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare porcelain-compatible adhesive, wastage, joint layout and handling labour. Attach a large-format slab layout and delivery route; allocate breakage risk during handling and cutting, and approve a sample edge before full installation.
 
-**Handover checks:** Inspect layout alignment, sharp lippage, chipped edges and firm adhesion.
+**Handover checks:** Check the approved slab layout and the continuity of required movement joints, then inspect lippage, chipped edges and any voids. Existing movement joints must not be bridged with porcelain without an approved technical detail.
 
 ## 3. Parquet flooring installation
 
@@ -36,7 +36,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare wear-layer thickness, product grade, edge profile, warranty and manufacturer moisture limits. Record the timber type and batch, on-site acclimatisation and manufacturer moisture limits, and responsibility for door trimming or skirting changes.
 
-**Handover checks:** Walk the floor for squeaks or movement; check perimeter expansion and door operation.
+**Handover checks:** Review the substrate moisture record taken before installation, then walk the floor for abnormal squeaks or movement. Confirm concealed perimeter expansion gaps and door clearance, and retain the timber batch reference and manufacturer cleaning and humidity guidance at handover.
 
 ## 4. Vinyl flooring installation
 
@@ -48,7 +48,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare slip suitability, adhesive and moisture specifications, and preparation costs rather than roll price alone. Approve the vinyl product, fixing method and seam locations; itemise substrate levelling and moisture testing and the permitted return-to-use time.
 
-**Handover checks:** Inspect bubbles, threshold gaps, edge adhesion and movement under normal furniture use.
+**Handover checks:** Inspect seams, bubbles, threshold edges and any substrate defects telegraphing through the finish. Do not drag furniture or load the surface before the adhesive or flooring system has reached its specified return-to-use time.
 
 ## 5. Interlocking paver installation
 
@@ -60,7 +60,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare duty-appropriate thickness, any necessary compaction checks and protection of buried services. Document base-course thickness, required compaction evidence, drainage falls and edge restraints, plus buried-service protection and spoil removal.
 
-**Handover checks:** Check for ponding after light wetting, stable edges and no settlement under intended traffic.
+**Handover checks:** Check drainage falls away from entrances, stable edge restraints and filled joints. Request records of the base layers and compaction before they were covered, and inspect for ponding or settlement after the surface is released for its designed traffic; wetting is not a substitute for compaction evidence.
 
 ## 6. Wall cladding installation
 
@@ -72,7 +72,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare panel thickness, fixings, joint access, opening deductions and wastage. Approve a cladding sample, corner and opening details, fixing method and maintenance access; document material suitability for the intended location.
 
-**Handover checks:** Check plumb, secure fixings, neat joints and access to agreed service points.
+**Handover checks:** Check plumb, secure fixings, neat joints and edges, and unobstructed access to outlets and service points. Where required, review product evidence for fire or moisture suitability; cladding does not remedy a damp wall or replace waterproofing.
 
 ## 7. Floor repair
 
@@ -84,7 +84,7 @@ This practical guide serves property owners and businesses in Al Jimi. It does n
 
 **Comparing quotations and agreeing terms:** Compare root-cause method, matching batch availability, base repair costs and warranty on the patched area. Photograph and agree repair boundaries and suspected causes, set a variation process for concealed defects, and approve any colour mismatch before ordering.
 
-**Handover checks:** Check stability, level, colour match and repair boundaries; retain photos of the exposed base before closing.
+**Handover checks:** Retain photos of the exposed base and the recorded root-cause assessment before reinstatement. Check stability, levels, joints, agreed colour variation and patch boundaries, and schedule follow-up where recurring moisture or settlement caused the damage.
 
 ## Request a quotation through Biet Al Reef
 

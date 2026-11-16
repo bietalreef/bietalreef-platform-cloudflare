@@ -18,6 +18,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Agreement and acceptance control:** Require an approved room-by-room sample schedule linking tile and paint references to actual locations. Treat wet-area waterproofing and fall tests as hold points before tiling; installation photographs do not replace a test record.
 
+**Variation and approval boundary:** New openings, wall relocation or changes to structural loads are not ordinary finishing items; obtain separate assessment and approvals before pricing them. Record changes to tile type, area or service points in a variation showing cost and programme effects before work starts.
+
 **Quotation request details:** Attach floor-by-floor areas and the condition of electrical and plumbing rough-ins. State who supplies materials and request itemised trade prices and inspection hold points before concealed work is closed.
 
 ## 2. Apartment finishing
@@ -35,6 +37,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Acceptance check:** Inspect common-area damage, floor edges, sealant, sanitary operation and final cleaning.
 
 **Agreement and acceptance control:** Photograph lift and corridor condition before and after the works and identify who authorises water shutdowns. Record damage to common property separately rather than treating apartment finish warranties as a substitute.
+
+**Variation and approval boundary:** Distinguish replacing finishes within the apartment from penetrating shared walls or rerouting drainage or HVAC. Obtain building-management and competent-authority approvals where required and document reinstatement of common areas.
 
 **Quotation request details:** Attach building management rules, permitted work hours and occupancy status. Request separate allowances for lift and corridor protection, strip-out and new finishes.
 
@@ -54,6 +58,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Agreement and acceptance control:** Sign off dated counter and display layouts before electrical rough-in, and have the competent party check exit-door operation and escape routes. Working display lighting does not establish life-safety compliance.
 
+**Variation and approval boundary:** Do not combine retail finishes with alarm, sprinkler or sign approvals by assumption. Require a responsibility matrix naming the designer, contractor and approving party for each system before works could conceal it.
+
 **Quotation request details:** Send customer circulation drawings, storefront dimensions and display loads. Request separate prices for counters, cladding, lighting and signage, identifying who handles approvals.
 
 ## 4. Office finishing
@@ -71,6 +77,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Acceptance check:** Check door swings, task lighting, data outlets, access panels and finishes around services.
 
 **Agreement and acceptance control:** Obtain a coordinated above-ceiling drawing showing HVAC, sprinklers, data routes and access panels before closing gypsum ceilings. Test network connectivity separately from visible finishing quality.
+
+**Variation and approval boundary:** Changes to office layouts affecting exits, sprinkler coverage or ventilation need competent review. Each variation should identify who revises coordinated drawings and tests affected systems after partitions move.
 
 **Quotation request details:** Provide workstation counts, network layouts and meeting-room needs. Request acoustic partition specifications, service-routing responsibilities and the planned office downtime.
 
@@ -90,6 +98,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Agreement and acceptance control:** Photograph exposed layers after strip-out and approve the root-cause treatment before reinstatement. Do not proceed with concealed-defect extras without a written scope, quantities and agreed price or pricing mechanism.
 
+**Variation and approval boundary:** If strip-out reveals structural damage, extensive mould or an active leak, hold reinstatement in the affected area until the cause and remedial scope are assessed. Document separately contracted remedial work before concealment.
+
 **Quotation request details:** Identify the affected area, any known cause and elements to retain. Ask for priced local-repair and full-refurbishment options and a process for unforeseen concealed defects.
 
 ## 6. Decorative fit-out works
@@ -108,6 +118,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 
 **Agreement and acceptance control:** Approve a physical corner mock-up combining joinery, cladding and lighting, with finish references and service openings. Do not conceal a lighting driver behind a panel that cannot be safely removed.
 
+**Variation and approval boundary:** Changes to suspended loads or wiring routes after mock-up approval are not merely cosmetic. Require revised fixing details, wall-capacity checks and circuit protection review before additions are installed.
+
 **Quotation request details:** Provide wall elevations, joint details, finish samples and lighting-driver positions. Ask for a corner mock-up and separate joinery, cladding and electrical allowances.
 
 ## 7. Integrated finishing handover
@@ -125,6 +137,8 @@ A preparation guide for company quotations, not confirmation of a listed contrac
 **Acceptance check:** Walk each room, operate lights, switches, drains and doors, check falls, and sign a dated outstanding-items record.
 
 **Agreement and acceptance control:** Track every snag by number, location, photograph, owner and reinspection date; document keys and manuals in a separate handover record. A deferred defect is not automatically accepted because the walk-through was signed.
+
+**Variation and approval boundary:** Separate technical acceptance of each system from visual acceptance of finishes, and record warranty terms and commencement for each trade. Receipt of keys does not certify uninspected defects as closed.
 
 **Quotation request details:** Attach the snag list, contracts, available as-built drawings and warranties. Request a test and document handover schedule and named responsibility for closing each defect.
 

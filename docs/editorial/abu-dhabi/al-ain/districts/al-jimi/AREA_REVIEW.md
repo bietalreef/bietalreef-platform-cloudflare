@@ -1445,3 +1445,8 @@
 
 - الحالة: `in_progress`؛ أُضيفت حدود نطاق خاصة لكل واحدة من خدمات الصيانة العامة 1–14 باللغتين: [العربية](./general-maintenance/general-maintenance/content-ar.md) · [English](./general-maintenance/general-maintenance/content-en.md) · [المراجعة](./general-maintenance/general-maintenance/review.md). أُعيدت قراءة ملفي المحتوى من GitHub وتحقق تطابقهما مع الكتابة.
 - **أول نقص دقيق تالٍ:** مراجعة التكافؤ الدلالي والاستثناءات للخدمات 1–7 في `general-maintenance/integrated-finishes`، ثم `general-maintenance/gypsum-decor` الخدمات 1–7، ثم `general-maintenance/flooring-cladding` الخدمات 1–7، ثم بقية تخصصات الشركات عبر القطاعات الثمانية؛ جرد 50 تخصصًا و434 خدمة بكل لغة ومراجعة التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة 2026-11-16 — حدود التغيير والاعتماد للتشطيبات المتكاملة
+
+- الحالة: `in_progress`. أضيفت حدود تغيير واعتماد مختلفة لكل خدمة من خدمات التشطيبات المتكاملة السبع بالعربية والإنجليزية، ووُثقت في [العربية](./general-maintenance/integrated-finishes/content-ar.md) و[English](./general-maintenance/integrated-finishes/content-en.md) و[المراجعة](./general-maintenance/integrated-finishes/review.md). أعيدت قراءة الملفات الثلاثة وتطابقت مع المحتوى المحفوظ.
+- **أول نقص تالٍ:** تدقيق التكرار والتكافؤ الدلالي للخدمات 1–7 في `general-maintenance/gypsum-decor` ثم `general-maintenance/flooring-cladding`، يليهما استكمال تدقيق بقية تخصصات الشركات وفق الشجرة. لا تزال المطابقة النهائية لأسماء وتغطية الخدمات الـ434 بكل لغة عبر التخصصات الخمسين والتصنيفات المقيدة والمقترحة غير معتمدة؛ لا يبدأ المويجعي.

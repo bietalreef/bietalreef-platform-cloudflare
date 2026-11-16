@@ -60,6 +60,37 @@ Provide box photographs, model numbers, furniture dimensions, assembly space and
 
 Describe the fault, its frequency and previous repair attempts, with safe photographs or a short video. Quotations should separate diagnosis and replacement parts and state when a licensed specialist is needed, particularly for electrical or gas-related faults. Require an operational test and a record of the diagnosed cause and work performed.
 
+
+## Integrated finishing
+
+### 15. Villa finishing
+
+Villa finishing should begin with the structural condition, service layouts, approved drawings and interfaces between trades. Supply the built-up area, number of floors and rooms, electrical and plumbing drawings, and site photographs. Request a schedule separating plaster, waterproofing, floors, ceilings, paint, doors and sanitary fittings. Compare measured quantities, material brands and thicknesses, approved samples, exclusions and the phased programme. At handover, check floor levels, falls in wet areas, service tests before concealment, finish consistency and the closure of recorded defects.
+
+### 16. Apartment finishing
+
+For a new or refurbished apartment, record room dimensions, existing floor and wall finishes and ceiling conditions. Establish whether removal, waste disposal and protection of lifts and corridors are included. Photograph kitchen and bathroom connections, distribution boards and air-conditioning outlets; coordinate work affecting shared services with building management. Compare supply, installation, warranties and final cleaning using the same quantities rather than vague lump sums. Inspect joints, door operation, sockets and sanitary fixtures, and confirm any damage to shared areas has been repaired.
+
+### 17. Retail shop finishing
+
+A shop fit-out depends on the trading activity, customer flow, display arrangements and stock storage. Provide a dimensioned plan, ceiling heights, shopfront details and requirements for lighting, ventilation, signage, power and data. Separate partitions, floors and painting from joinery, glazing and operational systems. Specify finishes suitable for the expected wear and verify applicable safety requirements with the relevant authorities and property management. Compare bills of quantities, shop drawings, lead times and testing. At handover, inspect doors, service outlets, point-of-sale areas and shopfront detailing.
+
+### 18. Office finishing
+
+Start with staff numbers, meeting rooms, printer and server locations, and circulation routes. A coordinated layout must align partitions with air conditioning, lighting, electrical points and network cabling. Supply net floor area, ceiling heights, acoustic requirements and floor finishes suitable for rolling chairs. Distinguish fixed finishes from furniture and IT equipment so responsibility remains clear. At handover, test power and data points against the desk plan, check lighting and door operation, and collect test records and as-built layouts.
+
+### 19. Interior space renovation
+
+Renovation need not mean a full strip-out. Mark which floors, doors and services remain and which are to change, supported by room photographs and measurements. Investigate dampness, cracks and concealed services before pricing removal of finishes. For occupied properties, specify furniture protection and separation of work areas. Ask for separately priced repair and replacement options, waste removal and reinstatement of adjoining surfaces. Approve samples and transitions between old and new materials, then inspect alignment, functionality and site cleanliness.
+
+### 20. Decorative fit-out works
+
+Convert reference images into dimensioned details for gypsum features, wall cladding, concealed lighting and decorative elements, including maintenance access. Provide wall lengths, ceiling heights and positions of AC outlets and electrical points. A rendering alone is insufficient without sections showing substrates, fixing methods and materials. Compare panel or timber specifications, finishes, fixings and access provisions, and approve a physical colour and texture sample. Inspect joints, corners, lighting alignment, secure attachment and removable access covers.
+
+### 21. Integrated finishing handover
+
+This service coordinates acceptance of a complete finishing package rather than a single trade. Request the approved scope schedule, revised drawings, materials register, warranties and relevant waterproofing, plumbing and electrical test records. Walk through each room and log defects with photographs, locations, priorities, correction dates and reinspection requirements; freshly painted surfaces do not by themselves constitute acceptance. Reconcile contract items with actual quantities and completed works. Confirm equipment operation, waste removal, keys and agreed documents before final sign-off.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

@@ -1392,3 +1392,9 @@
 
 - الحالة: `in_progress`؛ جرى استبدال فقرة الاتفاق العامة لكل الخدمات الأربع عشرة بمتطلبات مستقلة بالعربية والإنجليزية، مع بقاء 14 عنوانًا لكل لغة والتحقق بإعادة القراءة من GitHub: [العربية](./general-maintenance/electrical-lighting/content-ar.md) · [English](./general-maintenance/electrical-lighting/content-en.md) · [المراجعة](./general-maintenance/electrical-lighting/review.md).
 - **أول نقص دقيق:** مراجعة تكافؤ المواصفات والفحوص والسلامة للخدمات 1–14 في `general-maintenance/electrical-lighting`، ثم `general-maintenance/plumbing-leak-detection` (التحقق من المسار)، ثم التكييف والتبريد والأنظمة الذكية والدهانات والعزل، ثم بقية القطاعات الثمانية وجرد الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## 2026-11-16 — الكهرباء والإنارة: تخصيص مدخلات المعاينة (14 خدمة)
+
+- الحالة: `in_progress`. استُبدلت صياغة المعاينة المتكررة لكل خدمة من الخدمات 1–14 بمتطلبات فنية مميزة في [العربية](./general-maintenance/electrical-lighting/content-ar.md) و[الإنجليزية](./general-maintenance/electrical-lighting/content-en.md)، ووثقت المراجعة في [review.md](./general-maintenance/electrical-lighting/review.md).
+- أُعيدت قراءة الملفات الثلاثة من GitHub بعد الحفظ وتطابقت. هذه خطوة تحسين للمدخلات وليست اعتمادًا شاملًا لسلامة الأعمال الكهربائية أو اكتمال المنطقة.
+- **أول نقص تالٍ:** تدقيق التكافؤ الفني والسلامة والاستثناءات لجميع الخدمات 1–14 في `general-maintenance/electrical-lighting`، ثم مراجعة `general-maintenance/plumbing-leak-detection` خدمات 1–14، ثم التكييف والتبريد والأنظمة الذكية والمراقبة والدهانات والعزل، ثم بقية تخصصات الشركات في القطاعات الثمانية. جرد واعتماد 434 خدمة بكل لغة عبر 50 تخصصًا والتصنيفات المقيدة والمقترحة لم يكتمل؛ لا تبدأ المويجعي.

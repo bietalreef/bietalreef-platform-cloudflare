@@ -182,6 +182,54 @@ List contents, approximate volume and storage period, separating moisture-sensit
 
 Supply collection and destination addresses, building access rules, permitted hours, an item list and any vehicle restrictions. Separate haulage from packing, dismantling, reassembly, waiting and extra handling, and name a contact at each end. Photograph fragile items and count packages before loading; reconcile the inventory and note loss or damage before closing the job.
 
+## Project materials and equipment transport
+
+### 43. Building materials transport
+
+Identify material types, quantities, weights and lengths, plus loading and unloading access and vehicle time slots. Bagged cement, steel sections and fragile panels need different covering, restraint and handling. Compare vehicle type, securing gear, loading, unloading and waiting charges. Check counts and signs of wetting or damage, recording exceptions on the delivery note.
+
+### 44. Timber transport
+
+Supply board lengths, thicknesses, bundle counts and finishes, distinguishing raw timber, coated pieces and engineered panels. Specify separation from the vehicle bed, weather protection and edge guards; straps must not indent finished faces. Compare bed length, handling and packaging. Inspect straightness, edges and piece counts on arrival before stacking.
+
+### 45. Marble transport
+
+Provide a schedule of slab dimensions, thicknesses, bundle weights, cut-outs and vulnerable corners. Agree on appropriate transport frames, slab orientation and lifting arrangements; large slabs must not be handled as ordinary boxed cargo. Compare frames, lifting charges, damage terms and insurance where applicable. Check cracks, chips and piece IDs before unloading the whole consignment.
+
+### 46. Equipment transport
+
+Identify machine model, transport weight and dimensions, centre of gravity and lifting and lashing points, with collection-site and exit-route photographs. Secure moving parts and attachments and agree who isolates power and prepares the machine. Compare low-loader arrangements, any applicable permits, escorts and unloading. Record condition and test agreed functions at handover.
+
+### 47. Waste transport
+
+Separate clean construction rubble, timber, packaging and hazardous or unidentified materials before ordering a skip or truck. Materials requiring special handling must not be mixed with ordinary rubble. Send estimated volume, weight, collection-point photographs and access details; request the appropriate disposal destination and documentation where needed. Compare trips, loading, cleanup and fees, and inspect the cleared site.
+
+### 48. Project truck provision
+
+Prepare a schedule of quantities, loading days, gate slots and journey lengths, specifying payload and material type for each vehicle. Compare per-trip and per-day hire, waiting limits, fuel, handling and changes to the programme. Check vehicle and permissible load details and clarify driver and site responsibilities. Reconcile completed journeys against gate passes and delivery notes.
+
+### 49. Loading and unloading services
+
+Provide package counts, weights, dimensions, unloading height, ground surface and availability of a dock or forklift. Agree who supplies lifting equipment, supervision, pedestrian separation and the handling route, especially for heavy items. Compare labour, machinery, hours and exclusions. Count and inspect the goods before signing the receiving record.
+
+## Concrete, block and cement-product factories — proposed specialty
+
+### 50. Ready-mix concrete manufacturing
+
+State the specified concrete grade, workability, pumping requirements, exposure conditions, pour location and batch volume from approved project documents rather than asking for “strong concrete.” Provide pour timing and mixer and pump access; clarify transit limits, sampling, testing and rejection responsibilities. Compare supply, pumping and waiting separately, and record batch tickets, arrival times and required test results.
+
+### 51. Block manufacturing
+
+Specify solid, hollow or insulated blocks, dimensions, required strength and intended wall locations on the drawings. Calculate waste, opening sizes and compatibility with mortar and finishes rather than ordering by rough piece count alone. Compare test reports, dimensional tolerances, palletising and packing. Inspect representative samples for chips, cracks and straight edges.
+
+### 52. Cement-product manufacturing
+
+Identify the exact product—interlocking pavers, kerbs, channels or other precast pieces—with drawings, dimensions, design loads and exposure conditions. Moulds, reinforcement and surface treatment depend on intended use; request a sample, mix and curing information and applicable tests. Compare mould, transport and lifting costs and agreed damage allowances. Measure delivered pieces and inspect edges, cracks and batch markings.
+
+### 53. Project product supply
+
+Send a quantity schedule linking each item to its installation zone, drawing reference and required date, with unloading and protected storage arrangements. Coordinate dispatch with site readiness to prevent cement products accumulating or breaking before installation. Compare freight, packing, unloading and replacement batches, and reconcile quantities, production IDs and required test documentation with delivery notes.
+
 ## Preparing a quotation request
 
 Send the service, Musaffah project location, drawings, photographs, quantities, material specifications and requested delivery date, plus your name and contact number, to Biet Al Reef customer support. Requests can be received without a published company; this draft does not activate a restricted factory specialty or confirm price or availability.

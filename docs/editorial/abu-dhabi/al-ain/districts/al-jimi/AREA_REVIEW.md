@@ -1434,3 +1434,9 @@
 
 - الحالة `in_progress`؛ أضيفت 14 ملاحظة متخصصة لكل لغة في [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) و[الإنجليزية](./general-maintenance/smart-systems-surveillance/content-en.md) ووُثقت في [المراجعة](./general-maintenance/smart-systems-surveillance/review.md). تحققت إعادة قراءة الملفات الثلاثة من الفرع بعد كل كتابة.
 - **أول نقص تالٍ:** تدقيق الاستثناءات والتكافؤ الدلالي لخدمات `general-maintenance/general-maintenance` 1–14 ثم `general-maintenance/integrated-finishes` 1–7، ثم بقية تخصصات الشركات بالقطاعات الثمانية؛ يلزم جرد 50 تخصصًا و434 خدمة بكل لغة والتحقق من التصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة مواصفات التشطيبات المتكاملة — 2026-11-16
+
+- الحالة: `in_progress`؛ لم تُعتمد الجيمي مكتملة ولا يُبدأ المويجعي.
+- حُررت سبع فقرات مواصفات وخامات ومعدات مخصصة بالعربية والإنجليزية لخدمات [التشطيبات المتكاملة](./general-maintenance/integrated-finishes/review.md)، مع فحص إعادة القراءة للملفين: 7 عناوين و7 فقرات مواصفات بكل لغة. [عربي](./general-maintenance/integrated-finishes/content-ar.md) · [English](./general-maintenance/integrated-finishes/content-en.md).
+- أول نقص تالٍ: تدقيق الاستثناءات والتكافؤ الدلالي للخدمات 1–14 في `general-maintenance/general-maintenance`، ثم المراجعة النوعية للتشطيبات المتكاملة 1–7 وبقية التخصصات؛ جرد 50 تخصصًا ومطابقة 434 خدمة لكل لغة وفحص التكرار والسلامة وحالات التصنيفات المقيدة والمقترحة قبل الاعتماد.

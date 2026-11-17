@@ -135,3 +135,19 @@ Partitions need a layout showing height, divisions, doors, privacy level and gla
 Define the guarding line, height, panel lengths and whether fixing is through the floor or side-mounted. Provide site sections, edge and stair drawings. Request technical review of the support and glass system. Do not approve installation until design suitability for safety is checked; accept after testing stability and connections.
 #### 49. Glass façade maintenance
 Inspect panels, gaskets, sealant, supports, drainage and locations of leakage or vibration. Provide inside and outside photos, location and height. Specify safe access and repair scope. Accept with a record of treated areas, sealing checks and inspection of adjacent panels.
+### Iron and metal fabrication
+
+#### 50. Steel door fabrication
+Define the opening, frame thickness, leaf weight, lock, hinges and protective finish. Provide opening dimensions, swing direction and fixing-point photos. Request drawings showing sections and welds; inspect door alignment, weld quality and protective coating before installation.
+#### 51. Balustrade fabrication
+Measure the route, heights, fixing points, spacing, metal type and finish. Provide stair or balcony sections and edge photos. Request shop drawings and anchor details, and obtain technical review before fabrication. Inspect base stability, line alignment and weld quality.
+#### 52. Canopy fabrication
+Define dimensions, height, roof covering, column locations, anchorage and rainwater drainage. Provide a site plan, obstacle photos and vehicle route. Request structural and coating details. Check alignment, connections, drainage and base stability before use.
+#### 53. Metal-structure works
+A metal structure needs shop drawings defining sections, thicknesses, connections, welding, protection and lifting and installation method. Provide drawings, reference loads and scope. Request engineering review and inspection procedures. Review material certificates, weld reports and dimensions before accepting the structure.
+#### 54. Stainless-steel works
+Specify grade, finish, thickness, location and exposure to moisture or cleaning products. Provide item drawings and a finish sample. Request joint and polishing details. Inspect finish direction, surface consistency and absence of sharp edges or contamination marks.
+#### 55. Welding works
+Define metal type and thickness, joint position and whether the work is repair or fabrication. Provide clear photos and dimensions. Request a suitable welding procedure and post-work inspection. Load-bearing or sensitive components require specialist review before acceptance; inspect the joint and distortion.
+#### 56. Metalwork maintenance
+Inspect corrosion, loose fixings, coating failure or deformation before selecting a repair. Provide photos, location and component dimensions. Specify cleaning, replacement and repainting scope. Check stability, protective finish and welds, and record any replaced components.

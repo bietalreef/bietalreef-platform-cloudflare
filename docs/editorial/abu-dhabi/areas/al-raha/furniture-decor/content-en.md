@@ -45,3 +45,21 @@ The source lists individual skills in custom furniture making, repair, assembly 
 ## Review boundaries
 
 This guide helps describe needs and compare offers; it does not establish the existence of a supplier or certify a product. Confirm dimensions, samples, warranty and delivery terms with the supplier before payment or fabrication.
+
+### Furniture and furnishing stores
+**Source note:** This specialty is marked as currently non-selectable; this content does not change its taxonomy status.
+
+#### 8. Home furniture retail
+Start with an item list, room and doorway dimensions and the delivery route, and define use, material and colour. Provide room photos and required item sizes. Compare model, materials, delivery, installation and warranty; inspect item condition and quantities before signing receipt.
+#### 9. Office furniture retail
+Define user count, work type, desk and chair sizes, storage and cable needs. Provide the office layout and use requirements. Request material, adjustment and warranty details; test chair height, desk stability and circulation space before accepting the order.
+#### 10. Lighting retail
+Choose fittings by application, brightness, colour, protection rating and mounting dimensions. Provide site photos, lighting plan and existing fitting details. Compare wattage, light colour, accessories and warranty; check product condition and compatibility with fixing and control points.
+#### 11. Curtain retail
+Selection requires window width and height, track position, fabric type and desired light control. Provide window photos and a reference sample or colour. Confirm whether track and accessories are included; check fabric length and cleaning instructions before purchase.
+#### 12. Carpet retail
+Define room area and shape, use location, furniture traffic, fibre type and cleaning method. Provide dimensions, floor photos and preferred sample. Compare pile density, backing and edge finish; inspect size, colour and pattern direction on delivery.
+#### 13. Home-accessory retail
+Prepare an item list with dimensions, materials, colours and intended location, checking compatibility with existing furniture. Provide reference photos. Compare finish quality, cleaning and exchange terms; inspect quantity and check for chips or scratches before acceptance.
+#### 14. Furniture supply for projects
+Use a schedule showing models, quantities, dimensions, colours, delivery batches and dates. Provide room plans and delivery route. Request an approved sample or mock-up and packaging plan. Compare supply, installation, warranty and returns, and accept each batch against the schedule.

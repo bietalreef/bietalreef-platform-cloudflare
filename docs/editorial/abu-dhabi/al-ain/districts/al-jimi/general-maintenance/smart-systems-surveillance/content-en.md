@@ -153,6 +153,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Additional safety and privacy check:** Specify retention period, usable storage, encryption and archive viewing permissions.
 **Focused scope and handover audit:** Size recording storage from camera count, resolution, frame rate and required retention; retrieve a dated recording rather than checking live video alone.
 
+**Documented handover test:** Estimate actual retention from recording bitrate, compression settings and camera count; simulate a disk fault using a safe technician-led procedure without risking existing footage, then hand over the user-role matrix and configuration backup to the owner.
+
 **Request a quotation:** Provide channel count, recording resolution and retention period; state usable disk capacity, installation and permissions setup. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 10. Alarm system installation
@@ -169,6 +171,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Additional safety and privacy check:** Specify alarm type and competent-authority requirements; do not represent an unapproved system as certified life-safety protection.
 **Focused scope and handover audit:** Identify detector types, placement, reporting paths and false-alarm handling; test backup power without disabling existing life-safety systems.
+
+**Failure-case test:** Record each detection-zone result, communications loss, low-battery alert and false-alarm handling, identifying who receives alerts and who may silence them; fire-alarm systems require separate scope and approvals.
 
 **Request a quotation:** Provide alarm purpose, zones, entrances, sensors and backup battery; identify required approvals and alert testing. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
@@ -187,6 +191,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Additional safety and privacy check:** Verify door release and safe egress on network or power failure according to the applicable escape requirements.
 **Focused scope and handover audit:** Document doors, users, access schedules and audit logs; test inside emergency release and loss of power before accepting badges or codes.
 
+**Access and emergency test:** Try an active and revoked credential, an access attempt outside permitted hours, and inside egress on power loss; do not accept changes to escape doors without specialist review of applicable requirements.
+
 **Request a quotation:** Provide door and user counts, access roles, lock types and exit routes; separate hardware, software and training. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 12. Video/audio intercom installation
@@ -203,6 +209,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Additional safety and privacy check:** Test audio, video and door release locally, and disable unnecessary remote access.
 **Focused scope and handover audit:** Specify audio/video cabling, door-release method and call permissions; test intelligibility at every station and lock behaviour during network failure.
+
+**Intercom commissioning record:** Test calls from every entrance to each required station, speech intelligibility with ambient noise, night image and door release only by authorised stations; document behaviour during network failure.
 
 **Request a quotation:** Provide entrances, screens, distances, network type and door release; itemise units, cables and tests. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
@@ -221,6 +229,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Additional safety and privacy check:** Test connectivity loss, local recording and storage-failure alerts; review device updates without sharing credentials.
 **Focused scope and handover audit:** Record each camera fault before replacement and distinguish power repair from lens or recorder replacement; test day/night images and clock synchronisation afterwards.
 
+**Root-cause evidence before replacement:** Distinguish power, network, lens and storage faults in a fault log; after repair record and retrieve a fresh clip and verify low-light performance without deleting the owner's existing recordings.
+
 **Request a quotation:** Provide faulty camera IDs, symptoms, timing and recorder model; separate inspection, repair and replacement parts. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 ## 14. Mobile CCTV viewing setup
@@ -237,6 +247,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Additional safety and privacy check:** Use an owner-controlled account and multifactor authentication where available; test lost-device revocation and disable public recording links.
 **Focused scope and handover audit:** Prefer encrypted, permission-limited remote access over unnecessary public port exposure; test removal of an old phone and login alerts from an authorised external network.
+
+**Access-recovery test:** Revoke a test phone using the owner's account and confirm it can no longer view footage, then verify authorised recovery on another phone; document subscriptions and support scope without exposing passwords or unnecessary public ports.
 
 **Request a quotation:** Provide recorder model, app, user count and connection method; price secure setup, recovery documentation and support. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 ## Quotation assistance

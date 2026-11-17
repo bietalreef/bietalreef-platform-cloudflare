@@ -197,6 +197,36 @@ Maintenance covers equipment, electrical and mechanical components, drainage and
 Confirm part number, equipment model, failure cause and electrical or mechanical compatibility before purchase. Provide the data plate and a photo of the old part if possible. State whether the replacement is original or equivalent and its warranty. Check part number and function, test the unit and agree whether the removed part is returned.
 #### 77. Periodic maintenance contracts
 The contract should define visit frequency, covered equipment, cleaning and inspection tasks, emergency response and excluded parts. Provide an asset list with models, locations and fault history. Compare response times, reports, parts allowances and extra-visit charges. Receive a maintenance calendar and a record for every visit.
+### Smart systems and surveillance
+
+#### 78. Smart lighting control
+Start with a schedule of circuits, switches, lamp types and desired control method, and confirm compatibility with existing wiring. Provide lighting plans and panel and switch photos. Specify controllers, connectivity and network dependency. Test every circuit and manual control when connectivity is unavailable.
+#### 79. Smart AC control
+Identify AC models, communication interfaces, operating zones and required sensors. Provide equipment models and a zone plan. Clarify which functions are genuinely supported and whether extra interfaces are needed. Accept after testing each zone, temperature readings and local control continuity.
+#### 80. Smart lock installation
+Check the lock against door type, thickness, handing, cut-out and power source. Send photos of both sides of the door and the proposed lock model. Confirm compatibility and backup-key arrangements. Test the agreed access methods, alerts and manual door operation where required.
+#### 81. Smart curtain installation
+Measure track width, curtain weight, motor location, power and maintenance clearance. Provide window, track and curtain photos and dimensions. Specify load limit and manual override. Test full travel, end stops and control pairing without rubbing or obstruction.
+#### 82. Connecting devices to a phone app
+Inventory devices, protocols, network and accounts, and define who will administer the system. Provide model list and controller photos; do not send passwords in a general request. Compare integration scope, support and updates. Test every device and assign clear account permissions.
+#### 83. Smart-scene programming
+Scenes should be based on clear triggers and conditions, such as time, sensor state or user departure. Describe the desired action and what must not happen, and list affected devices. Request documented logic and exceptions, then test normal operation, network failure and manual cancellation.
+#### 84. Smart-home system maintenance
+Begin by checking controllers, connectivity, updates and devices that have lost pairing. Provide system diagrams, error messages and affected-device list, withholding credentials. Request a backup or settings record before changes. Accept after function tests, restored access and a change log.
+#### 85. CCTV camera installation
+Define the purpose, coverage zones, blind spots, power, network route and recording location. Provide site plans and entrance and corridor photos. Specify viewing angles, lens, storage and protection. Test day and night images, recording and retrieval, and verify applicable privacy and site requirements with the responsible authority.
+#### 86. Recording-device installation
+Choose the recorder based on camera count, resolution, recording rate and required retention period. Provide camera specifications, network plan and equipment location. Request storage, port and backup calculations. Test simultaneous recording, search, export and recovery after power interruption.
+#### 87. Alarm-system installation
+Design begins with the risks to be detected, sensor types and zones, notification paths and backup power. Provide site plans and required system type. Specify coverage limits, testing and maintenance. Test every sensor and alert path and retain fault logs; do not claim formal approval without documentary evidence.
+#### 88. Access-control system installation
+Define doors, readers, user permissions, exit and emergency arrangements. Provide door plans, user count and card or credential type. Specify lock integration and power. Test authorised access, denied access, event logs and safe release arrangements.
+#### 89. Intercom installation
+Select the system by unit count, wiring type, external panel location and audio or video requirements. Provide entrance layout, screen count and supply-point photos. Confirm device compatibility. Test calls to every unit, audio and video clarity and door release if included.
+#### 90. CCTV maintenance
+Maintenance checks lenses, mounts, power, network, recording and time settings, not only the outer glass. Provide a camera list, identifiers, locations and fault details. Request a report identifying failed cameras and causes. Test live view, recording and playback after service.
+#### 91. Connecting surveillance to a phone
+This requires recorder model, app, network and account and notification settings. Provide the device model, phone type and error message without sharing passwords. Ask for secure access and user-management instructions. Test live view, alerts and playback outside the local network as supported by the system.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

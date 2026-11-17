@@ -16,7 +16,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For sand supply to an Al Jimi project, supply plaster, concrete or backfill use, grading, cleanliness and cubic-metre load, plus relevant site or sample photos and drawings. Distinguish washed sand from fill sand and verify grading and cleanliness.
 
-**Quotation scope and comparison:** Compare net cubic-metre volume, sand type, washing and grading, plus tipper waiting charges; agree how delivered volume will be checked. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare net cubic-metre volume, sand type, washing and grading, plus tipper waiting charges; agree how delivered volume will be checked. Separate sand haulage from waiting and unloading charges, and assign responsibility for rejecting a load that differs from the agreed sample or grading. Spreading, compaction and engineering suitability tests are excluded unless expressly included.
 
 **Agreement and acceptance:** Specify sand type, unloading point and how delivered volume will be verified on arrival. At receipt, verify no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -26,7 +26,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For aggregate supply to an Al Jimi project, supply stone size and grading, intended concrete or drainage use, source and load volume, plus relevant site or sample photos and drawings. Match aggregate size and grading to the specified concrete mix.
 
-**Quotation scope and comparison:** Compare nominal size, grading, source and truck volume; specify whether washing and testing are included. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare nominal size, grading, source and truck volume; specify whether washing and testing are included. State who keeps aggregate separate from existing stock, who pays for washing, transport and unloading, and how a load with incorrect grading or nominal size is handled before mixing. Concrete batching, placing and laboratory testing are excluded unless expressly contracted.
 
 **Agreement and acceptance:** Record aggregate grading and source, and keep the load separate from previously stored aggregate. At receipt, verify grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 

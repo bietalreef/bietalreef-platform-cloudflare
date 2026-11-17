@@ -1581,3 +1581,8 @@
 
 - الحالة: `in_progress`. أُعيد تحرير الخدمة 7 «توريد مواد البناء للمشاريع» بالعربية والإنجليزية مع تحديد التوريد المرحلي والتخزين والبدائل ومسؤولية التأخير والاستلام الجزئي: [العربية](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md). أُعيدت قراءة ملفي المحتوى من GitHub بعد الكتابة وتأكد تطابقهما.
 - **أول نقص تالٍ:** الخدمة 8 «توريد الجبس» ثم الخدمات 9–21 في `building-materials/building-finishing-materials` باللغتين، ثم جرد ومراجعة 50 تخصصًا و434 خدمة لكل لغة في القطاعات الثمانية، وفحص التكافؤ والتكرار والسلامة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة 2026-11-17 — تدقيق خدمات مواد البناء والتشطيب 8–11
+
+- الحالة `in_progress`. أعيد تحرير خدمات «توريد الجبس»، «توريد مواد الدهانات»، «توريد مواد العزل»، «توريد الأرضيات» بالعربية والإنجليزية، مع نطاقات ومواصفات وفحوص استلام مخصصة: [العربية](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من النص المحفوظ.
+- **أول نقص دقيق:** الخدمة 12 في `building-materials/building-finishing-materials/content-ar.md` و`content-en.md`، ثم الخدمات 13–21؛ بعدها جرد التخصصات الخمسين والخدمات الـ434 بكل لغة عبر القطاعات الثمانية، ومطابقة الأسماء والترتيب والتكافؤ والتكرار وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

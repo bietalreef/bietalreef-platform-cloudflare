@@ -585,10 +585,13 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/furniture-decor/review.md",
         "docs/editorial/abu-dhabi/areas/al-reem-island/equipment-rental/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-reem-island/equipment-rental/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-reem-island/equipment-rental/review.md"
+        "docs/editorial/abu-dhabi/areas/al-reem-island/equipment-rental/review.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Equipment-rental sector complete: 53/53 services and 8/8 specialties verified in Arabic and English. Al Reem Island 392/434 services, 42/50 company specialties, 7/8 sectors complete; 42 services remain in cleaning-services. Next: تنظيف المنازل والمباني, service 1. The proposed concrete/block/cement-products specialty remains non-active unless separately approved.",
+      "review_note": "Cleaning-services 7/42 services verified in Arabic and English; 1/8 specialties complete. Al Reem Island 399/434 services, 43/50 company specialties, 7/8 sectors complete. Next: تنظيف المفروشات, service 8. No provider, price or appointment is implied; independent technical/language review remains required.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
@@ -607,18 +610,18 @@
       "progress": {
         "sector": "cleaning-services",
         "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
-        "last_completed_service_number": 53,
-        "next_specialty": "تنظيف المنازل والمباني",
-        "next_service_number": 1,
-        "sector_completed": 0,
+        "last_completed_specialty": "تنظيف المنازل والمباني",
+        "last_completed_service_number": 7,
+        "next_specialty": "تنظيف المفروشات",
+        "next_service_number": 8,
+        "sector_completed": 7,
         "sector_total": 42,
-        "area_completed": 392,
+        "area_completed": 399,
         "area_total": 434,
-        "remaining_area_services": 42,
+        "remaining_area_services": 35,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "completed_specialties_in_area": 42
+        "completed_specialties_in_area": 43
       }
     },
     {

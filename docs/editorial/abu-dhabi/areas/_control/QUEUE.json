@@ -559,7 +559,8 @@
         "interior-design",
         "general-maintenance",
         "building-materials",
-        "aluminium-glass"
+        "aluminium-glass",
+        "furniture-decor"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-ar.md",
@@ -577,22 +578,25 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/building-materials/review.md",
         "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/content-ar.md",
         "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/content-en.md",
-        "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/review.md"
+        "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/review.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/furniture-decor/content-ar.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/furniture-decor/content-en.md",
+        "docs/editorial/abu-dhabi/areas/al-reem-island/furniture-decor/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Aluminium-glass complete: 56/56 AR and EN, 5/5 specialties, re-fetched and verified. Area 315/434 services, 30/50 specialties, 5/8 sectors; next furniture-decor service 1. In progress; human review pending.",
+      "review_note": "2026-11-17: furniture-decor completed 24/24 AR and EN, 4/4 specialties; both GitHub files re-fetched and numbered 1–24 sequentially. Area 339/434, 6/8 sectors; next equipment-rental service 1. Human review required.",
       "editorial_progress": {
-        "sector": "furniture-decor",
-        "last_completed_sector": "aluminium-glass",
-        "last_completed_specialty": "تشكيل الحديد والمعادن",
-        "last_completed_service_number": 56,
-        "next_specialty": "تصنيع الأثاث",
+        "sector": "equipment-rental",
+        "last_completed_sector": "furniture-decor",
+        "last_completed_specialty": "الستائر والسجاد والمفروشات",
+        "last_completed_service_number": 24,
+        "next_specialty": "تأجير معدات البناء والرفع",
         "next_service_number": 1,
         "sector_completed": 0,
-        "sector_total": 24,
-        "area_completed": 315,
+        "sector_total": 53,
+        "area_completed": 339,
         "area_total": 434,
-        "remaining_area_services": 119,
+        "remaining_area_services": 95,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

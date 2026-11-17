@@ -1542,3 +1542,8 @@
 
 - الحالة `in_progress`؛ تدقيق تحريري مخصص في [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[English](./general-maintenance/air-conditioning-refrigeration/content-en.md) و[المراجعة](./general-maintenance/air-conditioning-refrigeration/review.md): تنسيق الدكت وحواجز الحريق، شروط قياسات التشغيل، سبب فقد وسيط التبريد، وحدود تنظيف المجاري.
 - **أول نقص تالٍ:** المراجعة الدلالية للخدمات 1–4 و6 و8 و10 و12–14 من التكييف، ثم جرد ومراجعة جميع التخصصات الخمسين والخدمات الـ434 بكل لغة، وتوثيق كل مخالفة وتصحيحها قبل الانتقال إلى المويجعي.
+
+## متابعة 2026-11-17 — اختيار وتنسيق التكييف 1–4
+
+- أضيفت قرارات فنية مستقلة للخدمات 1–4 في [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[English](./general-maintenance/air-conditioning-refrigeration/content-en.md)، مع [سجل المراجعة](./general-maintenance/air-conditioning-refrigeration/review.md). الحالة `in_progress`.
+- **أول نقص تالٍ:** التدقيق الدلالي للتكييف 6 و8 و10 و12–14؛ ثم جرد وتدقيق جميع خدمات تخصصات الشركات الخمسين (434 خدمة بكل لغة) والتصنيفات المقيدة والمقترحة والتفرد والتكافؤ. لا يبدأ المويجعي.

@@ -60,6 +60,65 @@ Diagnose binding or poor latching before replacing parts: hinge sag, leaf warp, 
 
 Inspect the existing coating and whether the substrate is solid timber or veneer before sanding or stripping. Quantify surfaces and doors, specify colour and sheen, and protect hardware and flooring. Compare preparation, primer, coat count and curing time; approve a sample. Inspect consistency, runs and sticking surfaces after reassembly.
 
+
+## Wooden furniture and interior joinery
+
+### 15. Custom furniture fabrication
+
+Define the item's use and location before choosing its appearance: a dining table and a storage bench have different load and cleaning requirements. Provide site dimensions, openings and delivery routes. Request drawings showing thicknesses, structure, fixings and finish. Compare material, hardware, warranty, delivery and fitting, then check stability, surface level and dimensions at handover.
+
+### 16. TV unit fabrication
+
+Measure screen width, viewing height, sockets and router position; decide whether the unit is floor-standing or wall-hung. Drawings should show device ventilation, cable routes and fixings suited to the actual wall. Compare drawers, hinges and finishes. At handover, check load support, door operation and access to connections.
+
+### 17. Storage unit fabrication
+
+List stored items and their weights; photograph the wall, skirtings and switches and measure the space. Request internal compartments, suitably supported shelves and secure anchorage. Tall units need an appropriate anti-tip solution. Compare board thickness, runner capacity and maintainability, then inspect alignment, doors and anchorage.
+
+### 18. Timber wall cladding
+
+Check wall moisture, flatness and concealed electrical or AC services before covering it. Measure the net area including openings, and specify backing, movement joints and removable access where necessary. Compare veneer or panel type, edge protection and moisture suitability. Inspect consistent joints, colour and freedom from bulging.
+
+### 19. CNC decorative woodwork
+
+Provide approved vector artwork or a dimensioned pattern showing board thickness and narrow cut-outs. Clarify whether the panel is purely decorative, a partition or load-bearing. Approve a cut sample to inspect edge quality and detail before batch fabrication. Compare material, finishing, fixing and waste allowances; reject sharp or fractured edges.
+
+### 20. Counter fabrication
+
+Define whether the counter is for reception, service or retail, then measure circulation, standing space, devices and utility points. Request elevations showing working height, storage, corner protection and floor junctions. Compare framework, wear-resistant tops, electrical provisions and installation. Check stability, cleanability and staff access to equipment.
+
+### 21. Retail and office furniture fabrication
+
+Start with a layout showing staff and customer circulation, desks, shelves, power and network outlets. Define display or storage loads, scratch resistance and whether units may be reconfigured. Compare repeated-unit and bespoke pricing, lead time and out-of-hours installation. Check shelving stability, clearances and cable management.
+
+### 22. Interior space design
+
+Survey room dimensions, columns, doors, windows and AC outlets before approving a layout. Request measurable furniture, lighting, material and construction drawings, separating design fees from fabrication and installation. Compare alternative concepts, revision allowances and final deliverables. Check circulation, maintenance access and site compatibility.
+
+### 23. Woodwork fabrication and installation
+
+Compile a component schedule with approved shop drawings and dimensions, distinguishing workshop fabrication from site adjustments. Review anchorage, concealed services and protection of existing floors. Compare fabrication, finishing, delivery, fitting and alterations as separate quotation items. Inspect dimensions, joints, gaps and finish for each installed component.
+
+### 24. Majlis fit-out
+
+Determine seating capacity, furniture layout and entry routes before selecting timber panels and finishes. Photograph walls and ceilings and locate lighting, AC and sockets. Price fixed joinery separately from upholstery and loose furnishings. Compare materials, cleanability and repair access, then inspect circulation, anchorage and edge finishing.
+
+### 25. Bedroom fit-out
+
+Measure bed position, wardrobe opening clearance, drawer travel, sockets and bedside lighting. Request detailed drawings for the bed, headboard, side units and wardrobes, including anchorage of tall components. Compare board, coating, hardware and optional lighting. Test bed rigidity, noise and drawer movement at handover.
+
+### 26. Office and shop fit-out
+
+List fixed counters, partitions and shelving separately from electrical, data and signage works. Record site dimensions, permitted work hours and delivery access, then request a phased installation plan to limit disruption. Compare protection, final cleaning and making-good. Inspect doors, drawers, fixtures and a recorded defects list.
+
+### 27. Decorative timber installations
+
+Choose details for the installation's function and location, not from a photograph alone: ceiling slats and a TV feature wall have different fixing and access needs. Specify dimensions, grain direction, colour and lighting interfaces; approve material and joint samples. Compare concealed supports, edge treatment and maintenance access, then inspect line alignment and finish.
+
+### 28. Interior finishing and handover
+
+Prepare a room-by-room snag list covering joinery, coatings, edges, doors and affected services. Request photographs of concealed work, updated drawings, care instructions and agreed warranties. Clarify final cleaning, remedial work and contractual exclusions. Do not sign off before correcting scratches, irregular joints and faulty moving parts.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Requests can be submitted even if no provider is published. Include customer name and contact number, Al Reem Island location, service name, site photographs and available dimensions, preferred material and finish, and a proposed survey window that is not a confirmed appointment. Pricing and availability must be checked separately.

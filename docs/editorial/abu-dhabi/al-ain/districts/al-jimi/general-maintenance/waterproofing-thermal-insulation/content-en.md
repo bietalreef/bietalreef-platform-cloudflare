@@ -16,6 +16,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Inspection limits and responsibility:** Cracks in the slab or settlement around outlets require separate structural assessment before waterproofing is approved. Passing one leak test does not cover future drainage faults.
 
+**Technical decision before approval:** Ask whether the outlets are low enough or roof falls need correction, and request a small detail drawing showing membrane terminations at plinths and upstands without obstructing drainage before final quantities are priced.
+
 **Quotation brief for this service:** Ask for a breakdown of measured roof area, upstand and joint lengths, drain counts, removal of old membrane, fall correction and protective finish, with a defined leak-test procedure.
 
 **Service-specific agreement:** Name who protects rooftop equipment and outlets during work, who reinstates tiles or protective layers, and when concealed membrane-detail photos must be handed over.
@@ -33,6 +35,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Additional pre-tiling check:** Inspect membrane continuity around the shower base, floor drain and threshold; a ponding result does not rule out separate supply or waste-pipe leaks.
 
 **Inspection limits and responsibility:** Do not cover a membrane before its specified curing period. A water-retention test is not a substitute for checking drain falls or the integrity of supply and waste pipes.
+
+**Technical decision before approval:** Ask how the membrane bonds to the floor-drain flange and rises at the doorway, and in what order pipework and membrane tests will occur; otherwise a retiling price may be accepted before the actual leak source is isolated.
 
 **Quotation brief for this service:** Provide floor area, shower perimeter, required wall upstand height and penetration counts. Price demolition and tile reinstatement separately from the membrane, safe water test and concealed-work records.
 
@@ -52,6 +56,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Inspection limits and responsibility:** Keep lining work separate from verification of drinking-water quality. No worker should enter an enclosed tank without a risk assessment, appropriate permit and rescue arrangements.
 
+**Technical decision before approval:** Distinguish lining a concrete tank from repairing a manufactured tank. Obtain written compatibility with the shell and intended water use, and separate any structural crack repair or fitting replacement in the quotation.
+
 **Quotation brief for this service:** State tank capacity, water use, shell material, access opening and entry conditions. Request lining suitability documentation, a confined-space safety plan if relevant, and separate emptying, cleaning, testing and recommissioning costs.
 
 **Service-specific agreement:** Record the expected tank outage and interim water supply, plus responsibility for entry safety and water-quality checks on recommissioning; do not promise drinking-water suitability in advance.
@@ -69,6 +75,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Additional pre-closure check:** Photograph insulation continuity around openings and thermal bridges; verify required ventilation paths remain clear and approved fire details are not compromised.
 
 **Inspection limits and responsibility:** Do not accept a promised percentage reduction in energy bills without a separate assessment. Check condensation risks, fire performance and compatibility with the existing assembly.
+
+**Technical decision before approval:** Require the thermal resistance of the installed assembly, not just an individual board, and details at joints and service penetrations that avoid trapping moisture; specify any vapour-control layer only where the assembly design calls for it.
 
 **Quotation brief for this service:** Supply roof and wall areas, known assembly layers and AC penetrations. Require declared thermal resistance, installed thickness and details for thermal bridges, fire safety and condensation control, rather than a board-only price.
 
@@ -88,6 +96,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Inspection limits and responsibility:** Surface coatings must not conceal moving structural cracks or unsafe cladding fixings. Require cause assessment and a safe-access plan for elevated work.
 
+**Technical decision before approval:** Have cracks classified as static or moving before selecting fillers or membranes, and obtain movement-joint detailing around windows; simply coating an active crack is not an adequate repair proposal.
+
 **Quotation brief for this service:** Share facade length and height, joint and window photographs, and internal damp marks. Separate diagnosis, crack preparation, coating system, access scaffolds and sample testing, excluding unassessed structural repairs.
 
 **Service-specific agreement:** State the facade access method, who arranges permits where required, and who protects windows and adjacent property and reinstates finishes after joint repairs.
@@ -106,6 +116,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Inspection limits and responsibility:** Any spray test needs an agreed location, duration and site permission. Do not direct test water near exposed wiring or unprotected electrical equipment.
 
+**Technical decision before approval:** Agree an investigation sequence for outlets, joints and limited spray tests, with a stop point if the entry path remains unproven; an interior stain alone should not justify a broad repair scope.
+
 **Quotation brief for this service:** Record dates and locations of rain-linked dampness and possible window, outlet or roof paths. Ask for two stages: documented source tracing, then defined repair, reinstatement and appropriate retesting—not blanket recoating without evidence.
 
 **Service-specific agreement:** Price rain-ingress diagnosis separately from repair, and require client approval and before/after photos before opening any additional finishes, with documented test limits.
@@ -123,6 +135,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Additional maintenance check:** Compare before-and-after photos at drains, joints and blisters; record patch locations and compatibility with the existing membrane rather than relying on surface appearance.
 
 **Inspection limits and responsibility:** A brittle membrane of unknown composition may not accept a new patch. Request an adhesion test or system manufacturer's guidance before choosing local repair.
+
+**Technical decision before approval:** Request a small edge opening to assess adhesion of the old membrane before pricing a patch. If delamination extends beneath the surface, obtain a separately priced sectional replacement option.
 
 **Quotation brief for this service:** Provide damaged membrane area, lap-edge photographs and system age if known. Compare a compatible local patch with sectional replacement, including warranty limits and seam testing.
 

@@ -137,6 +137,36 @@ Garden lighting should consider pedestrian routes, planting, power supply and pr
 Sensor performance depends on detection range, mounting height, coverage angle and the load being switched. Provide a plan and photos of circulation areas and lighting positions. Ask for sensitivity and timer settings. Test movement from several directions and check that irrelevant movement does not trigger repeated switching.
 #### 49. Lighting unit maintenance
 Diagnosis should distinguish a failed lamp, driver, connection or control component, with supply isolated before inspection. Provide fitting type, label photo, symptoms and number of affected units. Compare repair with compatible replacement. After restoration, check secure mounting, operation and absence of flicker.
+### Plumbing and leak detection
+
+#### 50. Water-supply pipework first fix
+Begin with a supply-point plan, pipe sizes, valve positions and fixture schedule, and review routes before walls are closed. Provide bathroom and kitchen plans and the supply source. Specify pipe and fitting materials and pressure testing; record test results and valve locations before concealment.
+#### 51. Drainage pipework first fix
+Drainage requires fixture locations, pipe diameters, falls, cleanouts, venting and connection routes to be defined. Attach plans, finished floor levels and drain positions. Ask for materials and test methods. Check flow, absence of backflow and access to maintenance points before closing the routes.
+#### 52. Sanitary fixture installation
+Toilets, basins, mixers and showers differ by model and by supply and drainage positions. Provide product references, bathroom dimensions and outlet photos, and state whether removal and supply are included. Accept after checking fixing, sealing, drainage, leak-free operation and mixer controls.
+#### 53. Water tank installation
+Define tank capacity, type, location, base loading, delivery route, connections and ventilation. Provide site dimensions, water source and installation-point photos. Specify accessories, float valve and isolation valves. Check base stability, connections, filling, discharge and absence of leakage.
+#### 54. Water pump installation
+Select a pump by flow, pressure, head and actual use rather than nominal power alone. Provide network data, number of outlets and a photo of the pump location. Request the performance curve, accessories and protection. Test pressure, flow, vibration, automatic operation and shut-off.
+#### 55. Pipework rehabilitation
+Start by identifying the ageing or damaged section, pipe routes and existing material. Provide available drawings, leak photos and repair history. Request a phased replacement plan that limits finish removal. Compare materials, joints and testing, then accept an updated route drawing and network test results.
+#### 56. Drainage network maintenance
+Define the work by the blockage location, slow drainage or odour, distinguishing a local obstruction from a main-line issue. List affected fixtures, timing and access points. Ask for the clearing method and whether camera inspection is needed. Test drainage after work and confirm covers are restored and the area cleaned.
+#### 57. Water leak detection
+Detection aims to narrow the likely source before extensive demolition. Provide meter readings if available, stain photos, plumbing plans and when the symptom appears. Ask which detection method is proposed, its limitations and whether opening-up is required. Accept a report identifying the suspected location and next test without claiming certainty beyond the evidence.
+#### 58. Pipe leak repair
+Repair depends on pipe material, location, operating pressure and access. Provide site photos and any earlier detection report, and say whether the pipe is exposed or concealed in a wall or floor. Compare joint repair with section replacement and require a post-repair test before reinstatement. Check dryness, pressure stability and no recurrence.
+#### 59. Tank leak detection
+Identify tank type, material, water level and damp location, while checking connected fittings and pipes as possible sources. Send tank, base and connection photos and any record of level loss. Request a test suitable for the material. The report should distinguish the tank body from its accessories and state inspection limits.
+#### 60. Bathroom waterproofing
+Define floor area, wall upstands, drains and penetrations before tiling. Provide bathroom drawings and substrate photos. Specify the system, preparation, curing period and water-test method. Do not cover the membrane until the test is documented and any failed point repaired.
+#### 61. Roof waterproofing
+Choose the system after checking falls, drains, joints, penetrations and the existing layer. Provide roof area, detail photos and standing-water locations. Ask for layer build-up, protection and edge termination. Inspect drains and junctions and test the membrane before reinstating protection layers.
+#### 62. Water-tank waterproofing
+Confirm tank material and use, the condition of internal or external surfaces and compatibility of the proposed product. Provide internal and external photos and tank dimensions. Request cleaning, preparation, application and return-to-service steps. Accept after checking coverage, details and leakage testing appropriate to the specified system.
+#### 63. Moisture remediation after leakage
+This follows repair of the water source and focuses on drying affected layers, removing damaged material and reinstating finishes. Provide before-and-after photos and any leak-test result. Ask for a clear dryness criterion before closure. Check that staining does not return and the substrate is sound; active moisture must not be hidden with paint.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

@@ -63,3 +63,22 @@ Count curtain panels and record their dimensions, fabric and lining. Clarify whe
 
 Identify the upholstery type, area, material and use, and clarify whether the request is cleaning followed by an approved surface product or a limited surface treatment only. Provide photographs and mention relevant sensitivities to odours or products where this affects method selection. Ask for the product name, label instructions, compatible surfaces, contact time, ventilation and safe return-to-use interval. Avoid accepting claims of “complete disinfection” without a defined product, method and limitations. Compare treatment coverage, drying and documentation, then check that no unsuitable residue or moisture remains.
 
+
+## Façade and site cleaning
+
+### 15. Glass façade cleaning
+
+State façade height, area, divisions and glass type or coating if known. Provide ground-level and internal photographs showing staining, access points and obstructions. The quotation should explain the access method, protective equipment, water or cleaning product and protection for frames, sealants, entrances and pedestrians. Where building coordination is required, confirm access and work arrangements with management before setting a date. Compare crew size, stages, drying and water-mark removal rather than price per square metre alone. Inspect a sample area after cleaning to check for scratches, streaks or cleaning residue.
+
+### 16. Building façade cleaning
+
+Stone, aluminium, painted and composite façades need different methods. Identify the façade material, finish age, soil type and likely source, and provide both close-up and wide photographs. Request a small test patch to assess the effect of pressure, brushing or detergent on colour, joints and surface coating. The quotation should explain access equipment, wash-water collection and protection for windows, openings and signs. Compare cleaning method, coverage, frequency and excluded restoration work. At handover, check colour consistency, joint and paint condition and confirm that water has not entered the building.
+
+### 17. Parking-area cleaning
+
+Specify the number of levels, parking area and floor material, and identify oil stains, tyre dust, litter or standing water. Provide a plan or photographs of aisles, ramps and drains, and state when parking bays can be cleared or temporarily closed. Ask which cleaning method, scrubbing and extraction equipment will be used and how stains and wash water will be managed without directing it into unsuitable areas. Compare crew, equipment, visits, drying time and warning signage. After cleaning, inspect corners, drains and ramps, and confirm that routes are dry and floor markings remain clear.
+
+### 18. Industrial-site cleaning
+
+Before requesting industrial cleaning, describe the activity, areas involved and the type of dust, residue or oil, and state whether machinery or production lines will remain operating. Provide area plans and photographs of visible hazards, power and water points and circulation routes. Identify materials or surfaces that cannot tolerate water or strong chemicals. Request a work plan covering isolation, protective equipment, products, waste collection and disposal, duration and coordination with the site representative. Compare the team's ability to work around equipment, protect assets and document completion. Unknown contaminants require specialist assessment before work begins; handover should follow an inspection of the agreed areas and waste removal.
+

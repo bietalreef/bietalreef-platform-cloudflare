@@ -20,3 +20,9 @@
 3. Inspection inputs, photos/dimensions, quotation comparison and handover are addressed according to the service.
 4. Tradespeople are not conflated with companies.
 5. Service discovery and quotation intake are not conditional on a published company.
+
+## Specialty 2 — Integrated finishing
+- Services covered in this batch: 7/7 (source items 15–21).
+- Distinctions checked: villa, apartment, retail and office fit-outs are treated according to different occupancy and operational needs; interior renovation is separated from new fit-out; decorative work is separated from complete finishing handover.
+- Practical inputs: plans, room schedules, dimensions, equipment needs, finish samples and building-access coordination where applicable.
+- Handover: staged inspection, functional tests, defect register and explicit open-item tracking.

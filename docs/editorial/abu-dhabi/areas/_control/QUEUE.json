@@ -553,7 +553,7 @@
       "name_ar": "جزيرة الريم",
       "name_en": "Al Reem Island",
       "kind": "district",
-      "status": "in_progress",
+      "status": "completed",
       "completed_sectors": [
         "general-contracting",
         "interior-design",
@@ -561,7 +561,8 @@
         "building-materials",
         "aluminium-glass",
         "furniture-decor",
-        "equipment-rental"
+        "equipment-rental",
+        "cleaning-services"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-ar.md",
@@ -591,7 +592,7 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "All 8 sectors and 50 company specialties drafted; 434/434 Arabic and 434/434 English service entries present, pending final repository-wide verification. Cleaning-services 42/42 services and 8/8 specialties complete. Human technical, regulatory and language review remains required before publication.",
+      "review_note": "2026-11-17: Editorial draft complete and re-verified on the review branch: 8/8 sectors, 50/50 company specialties, 434/434 Arabic and 434/434 English service entries. All 16 content files and 8 sector reviews plus AREA_REVIEW.md were re-fetched; service heading counts match the source totals. No companies, prices, appointments or regulatory approvals invented. Independent human technical, regulatory and language review remains required before publication. No master merge, Cloudflare deployment, Supabase/RLS, taxonomy, company data, images or live code changes.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
@@ -619,10 +620,15 @@
         "area_completed": 434,
         "area_total": 434,
         "remaining_area_services": 0,
+        "completed_specialties_in_area": 50,
         "editorial_draft_completed": true,
         "area_editorially_approved": false,
-        "completed_specialties_in_area": 50
-      }
+        "verified_sectors": 8,
+        "verified_service_entries_ar": 434,
+        "verified_service_entries_en": 434,
+        "verification_note": "All 16 sector content files re-fetched from GitHub; numbered service headings verified against sector totals in both languages. All 8 review files and AREA_REVIEW.md present and reconciled."
+      },
+      "completed_at": "2026-11-17"
     },
     {
       "sequence": 9,

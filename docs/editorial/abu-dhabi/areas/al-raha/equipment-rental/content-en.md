@@ -78,3 +78,20 @@ Define partition height, divisions, doors, privacy level, glass or aluminium typ
 State glass type, thickness, dimensions, finish and application, and whether cutting, holes or processed edges are needed. Provide a size schedule and drawings. Request product data and packaging details; inspect count, thickness, edges and breakage on arrival before signing.
 #### 21. Project orders
 Project orders need one schedule linking each item to drawing, dimensions, profile, colour, quantity and delivery phase. Provide opening schedules and approved drawings. Request fabrication, numbering and packaging plans. Compare specification compliance and sequence, and accept each batch against item numbers and drawings.
+### Marble and stone factories
+**Source note:** This specialty is marked as currently non-selectable; editorial content does not change or activate taxonomy.
+
+#### 22. Marble and stone cutting
+Cutting requires stone type, thickness, final dimensions, vein direction, edges and openings. Provide a numbered cutting plan and slab sample or photos. Specify measurement tolerance and piece protection; inspect dimensions, edges and cracks before transport.
+#### 23. Kitchen worktop fabrication
+Fabrication starts with final cabinet measurements and sink, appliance, wall and opening positions. Provide a template and joint and edge drawings. Request a sample and support details; inspect dimensions, openings, pattern direction and joints before delivery.
+#### 24. Stair fabrication
+Stairs require measured riser and tread levels, width, landings and edge profiles. Provide stair sections and final measurements. Request piece numbering and installation drawings; review consistency of steps and fit before transport.
+#### 25. Façade marble preparation
+Façade slabs are defined by drawings, supports, joints, movement, weight and lifting method. Provide elevations, panel schedule and fixing details. Request panel numbering and technical review; inspect edges, holes and drawing compliance before dispatch.
+#### 26. Decorative carving and patterns
+Carving requires a file defining design, depth, thickness, stone type and piece orientation. Provide design file, stone sample and slab dimensions. Request a prototype; inspect detail accuracy, consistent depth and chip-free edges.
+#### 27. Marble polishing and treatment
+Treatment depends on stone type, condition, stains, scratches and required finish. Send side-lit photos and history of products used. Request a local trial; inspect gloss, colour and texture after treatment.
+#### 28. Contractor project orders
+A contractor order needs a bill of quantities, detailed drawings, dimensions and identifiers for every piece and delivery phase. Provide the item list and site dates. Request cutting, packaging and numbering plans. Compare compliance and phased-delivery capacity, and check item references on every batch.

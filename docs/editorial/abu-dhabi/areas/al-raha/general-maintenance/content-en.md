@@ -91,6 +91,22 @@ Panel selection depends on location, moisture exposure, cleaning and fixing meth
 Review panel size, thickness, surface, moisture suitability and joint method, especially around sinks and corners. Send area dimensions and opening photos, and specify vein direction and joint count. Compare adhesive, edge and sealing details; inspect flatness, pattern matching and clean joints.
 #### 28. Gypsum repair and maintenance
 First establish whether damage came from impact, moisture, framing movement or failed fixing. Send close and wide photos and report any leak or vibration. The quote should separate removal, support reinforcement and reinstatement. Accept after checking stability, texture match and paint finish.
+### Flooring and cladding
+
+#### 29. Ceramic tile installation
+Measure the area and inspect the substrate, door levels and drain positions before pricing, including cutting waste. Provide tile size and type with floor photos. Ask for adhesive, joint width and laying pattern; accept after checking level, falls, alignment and hollow-sounding tiles.
+#### 30. Porcelain tile installation
+Porcelain work requires the tile size and thickness, substrate flatness, cutting method and joint specification, particularly for large formats. Attach a layout plan and batch number if the tiles are already purchased. Compare installation tools, setting materials and joints; inspect lippage, cut edges and consistent joint widths.
+#### 31. Parquet installation
+Check substrate moisture and flatness and plan board direction and door transitions before installation. Provide parquet type, thickness and floor photos. Ask for underlay or moisture barrier details and perimeter expansion gaps; accept after checking joints, edges and any unusual movement or noise.
+#### 32. Vinyl flooring installation
+The finish depends on substrate condition, vinyl type and whether it is glued or click-fit; surface irregularities must be addressed first. Provide room area, product specification and base photos. Compare wear layer, thickness and edge details; inspect adhesion, seams and any bubbles.
+#### 33. Interlock paving
+Interlock requires defined area, intended use, vehicle loading, drainage and preparation of the base layers. Attach site dimensions, level photos and drainage points. Ask for paver thickness, base build-up and edge restraints; accept after checking level, pattern, edge stability and absence of standing water.
+#### 34. Wall cladding installation
+Select cladding by weight, wall construction, moisture exposure, fixing system and corner details. Send wall height and width and photos of switches and openings. Request a layout, sample and edge details; inspect straight lines, secure panels, pattern consistency and access to concealed services.
+#### 35. Floor repairs
+Identify whether the issue is a broken tile, debonding, settlement or failure in the bedding layer; replacing the surface alone may not solve it. Send photos, affected area and level difference, and say whether matching spare tiles are available. Compare local repair with wider replacement, then test stability, falls and colour match.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

@@ -4,7 +4,7 @@ This file currently covers only the first two specialties—General Maintenance 
 
 ## Current coverage
 
-This version completes seven of ten specialties and 77 of 105 services. It must not be treated as a complete sector directory.
+This version completes all ten specialties and 105 of 105 services. It must not be treated as a complete sector directory.
 
 
 ## General Maintenance
@@ -412,6 +412,155 @@ Provide unit model and part number or a clear photograph, identifying the fault 
 ### Preventive air-conditioning maintenance contracts
 
 Prepare a schedule of units, capacities, locations, operating hours and access conditions, and define visit frequency and response expectations. Compare inspections, cleaning, consumables, excluded parts, reporting and emergency coverage, including travel to the actual Al Dhafra sites.
+
+
+## Smart Systems and Surveillance
+
+
+### Smart lighting control
+
+Identify lighting circuits, existing switches and network and internet locations, providing a panel schedule if available. Confirm controller and load compatibility and manual operation during connectivity loss, then test each circuit and scene before handover.
+
+
+### Smart air-conditioning control
+
+List air-conditioning types, existing control interfaces and required zones, with unit models and thermostat photographs. Confirm compatibility, integration method, local and remote control and system limits, then test setpoints and each zone's response.
+
+
+### Smart lock installation
+
+Specify door type and thickness, swing, lock dimensions, power source and required entry methods. Photograph the edge, frame and existing handle; check whether modification is possible without weakening the door, then test backup keys, alerts, emergency access and user management.
+
+
+### Smart curtain installation
+
+Measure track width, curtain weight and type, power and control points, and state opening count and travel direction. Confirm motor capacity, bracket loading and maintenance clearance, then test manual and automated opening, closing and travel limits.
+
+
+### Connecting devices to a mobile app
+
+Inventory device models, connection methods, available network and phone types. Clarify app data and permissions, user onboarding and account recovery, and test controls and notifications after disconnecting and restoring connectivity.
+
+
+### Smart automation scene setup
+
+Describe the desired outcome, trigger conditions and participating devices for each scene, such as lights, curtains and cooling. Request an integration map, priority rules, conflict handling and manual override, then test under actual operating conditions.
+
+
+### Smart home system maintenance
+
+Provide a controller, gateway and device inventory, software versions and recurring faults, describing their effect on use. Request connectivity, power, compatibility and backup checks, and identify whether updates or replacements may affect user settings.
+
+
+### CCTV camera installation
+
+Mark areas and entrances to cover, night lighting and power and network points, providing a plan and angle photographs. Request a layout showing field of view, blind spots, storage and cabling, and verify site privacy and lawful-use requirements before installation.
+
+
+### Video recorder installation
+
+State camera count and resolution, required retention period, recorder location and network access. Compare storage capacity, compatibility, channel count, protection and backup power, then test recording, playback, time settings and user permissions.
+
+
+### Alarm system installation
+
+Identify the hazard to detect, protected zones, site entrances, sensor positions and power and communications. Request a plan for coverage, alerting, disarming and maintenance, and test every sensor and notification path without triggering an uncoordinated alarm.
+
+
+### Access control installation
+
+List doors and entry points, user count, permission levels and emergency exit method. Specify readers, locks, power and recorder integration, then test access permissions, event logs and door release during power loss.
+
+
+### Intercom installation
+
+State entrance and unit counts, indoor station types and existing cable or network routes. Provide an installation-point plan, specify audio, video, door release and user controls, then test calls and image and sound quality at every point.
+
+
+### CCTV maintenance
+
+List cameras with lost images, changed angles or recording failures, including identifiers, locations and screen captures. Request lens, power, network, storage and time checks, with a report of cleaning, adjustment or replacement.
+
+
+### Mobile access to surveillance
+
+Provide recorder, camera and router models, user and mobile-device counts, and identify who may view or download footage. Request secure connectivity and account and permission management, then test viewing and alerts after network changes or system restart.
+
+
+## Painting Works
+
+
+### Villa painting
+
+Define interior and exterior areas, wall heights, existing paint condition and desired colours, providing room and façade photographs. Separate substrate repair, filler, primer and finish coats and protection of floors and furniture, with a colour sample before full application.
+
+
+### Apartment painting
+
+Provide the unit plan, room count and wall, door and ceiling condition, stating whether furnished or vacant. Compare paint type, coat count, defect preparation, common-area protection and cleanup, and agree building access and delivery windows.
+
+
+### Exterior building painting
+
+Identify façades, heights, substrate type, peeling or cracking and weather exposure. Specify access and protection, washing and repairs and exterior coating, including adhesion checks and joint treatment before painting.
+
+
+### Door and wood painting
+
+State timber type, old coating condition and whether colour change or protective renewal is required. Photograph edges and hinges; specify removal, sanding, treatment, coats, drying time and refitting of hardware.
+
+
+### Decorative paint finishes
+
+Attach a reference image and specify wall area, lighting, colour and texture, requesting a sample patch on the actual surface. Compare preparation, coat count, application method and future repairability, approving the sample before continuing.
+
+
+### Old paint removal and preparation
+
+Identify substrate, damaged coating layers and affected area, with photographs of peeling, blistering or hollow spots. Determine why the coating failed and specify removal, dust containment and substrate repair; do not cover the problem with new paint before correcting its cause.
+
+
+### Paint maintenance and repainting
+
+Record fading, scratches, stains and colour variation, stating whether touch-up or full repainting is needed. Require colour and sheen matching and adhesion checks of existing paint, with furniture protection and documented repainting limits.
+
+
+## Waterproofing and Thermal Insulation
+
+
+### Roof waterproofing
+
+State roof area, falls, drains, existing membrane and ponding areas, providing post-rain photographs if available. Inspect substrate, joints and penetrations, specify membrane and protection layers, and require a documented test before reinstating finishes.
+
+
+### Bathroom waterproofing
+
+Provide bathroom dimensions, drains, service penetrations and thresholds, stating whether this is new work or repair of an existing leak. Specify corners, penetrations and upstands in wet areas, and test the system before tiling.
+
+
+### Tank waterproofing
+
+Identify tank material, capacity, surface and joint condition and intended water use. Specify a system compatible with that use, product documents, substrate preparation and curing, then carry out a filling test and monitor water level before recommissioning.
+
+
+### Building thermal insulation
+
+Identify elements to insulate—roof, walls or selected zones—and provide existing build-up sections and areas. Specify material, thickness, fixing and treatment of thermal bridges and joints, including effects on doors, façades and finishes.
+
+
+### External wall insulation
+
+Provide façade photographs and wall sections, window and penetration locations, and state whether insulation is external or internal. Specify layer build-up, moisture protection, fixing and edge and opening details, checking compatibility with the existing façade before approval.
+
+
+### Rainwater ingress remediation
+
+Record water-entry location, when it occurs and the internal moisture path, with roof, façade and drain photographs. Request source investigation and suitable testing before opening finishes, then document the repair and verify it under agreed test conditions.
+
+
+### Waterproofing maintenance
+
+Provide previous waterproofing records, system type, installation date and defect locations, with photographs of joints, drains and penetrations. Inspect adhesion, cracks, peeling and ponding, then distinguish local repairs from partial system replacement.
 
 ## Request, comparison and handover
 

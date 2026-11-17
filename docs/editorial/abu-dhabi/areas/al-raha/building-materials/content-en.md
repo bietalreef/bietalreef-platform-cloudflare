@@ -86,3 +86,20 @@ Installation needs a layout that accounts for vein direction, levels, joints, sl
 Interior walls and external façades differ in weight, support, fixing and exposure. Provide wall or façade elevations, fixing drawings and stone type. Request bracket, joint and movement details. Technical design should be reviewed before installation; accept after checking fixings, alignment and edge safety.
 #### 35. Marble maintenance and treatment
 Treatment depends on stain or scratch type, loss of gloss and the condition of previous protection. Send close-up photos and cleaning-product history. Request a stone-compatible trial. Compare local repair with full treatment, then check colour, texture and surface absorption against the agreed result.
+
+### Kitchen and vanity worktops
+
+#### 36. Kitchen worktop fabrication
+Fabrication starts with a final drawing showing length, depth, thickness, edge profile, joints, sink and appliance openings. Provide site measurements after cabinets are fixed or arrange a site survey, and specify material and colour. Review shop drawings before cutting and inspect edges, openings and surface on delivery.
+#### 37. Kitchen worktop installation
+Check cabinet level, support, appliance positions and water and electrical points before placing the worktop. Provide the cutting layout, approximate weight and delivery route. Specify fixing and sealing materials. Inspect level, joints, sink edges and any unintended movement or gaps.
+#### 38. Marble vanity fabrication
+Define vanity dimensions, basin depth, drain position, edge height and support method, allowing for stone weight. Provide a dimensioned drawing and tap and drain photos. Request a finish sample and edge details; inspect basin geometry, drainage fall and polishing before installation.
+#### 39. Sink and appliance cut-outs
+Confirm sink, hob or appliance model, cut-out template and clip positions before cutting. Provide the appliance data sheet, template or exact dimensions and worktop thickness. Clarify cutting tolerance and edge reinforcement. Check opening fit and test the appliance without forcing it or weakening the surface.
+#### 40. Quartz installation
+Quartz slabs are selected by thickness, colour, pattern direction, joint length and cabinet support. Provide worktop drawings, sample photos and opening locations. Request joint, support and cleaning details. Check colour consistency where possible, joint alignment, surface stability and safe edges.
+#### 41. Porcelain-surface installation
+Review slab thickness, support method and protection of edges and openings against chipping. Provide fabrication drawings, piece dimensions and joint positions. Specify the fixing and cutting system. Inspect surface alignment, openings, joints and edges for cracks before use.
+#### 42. Surface maintenance and repolishing
+First identify the surface material and the cause of dullness, scratching or staining; polishing methods differ between marble, quartz and other products. Send side-lit photos and cleaning-product history and request a local trial. Check colour, gloss, texture and absence of new marks.

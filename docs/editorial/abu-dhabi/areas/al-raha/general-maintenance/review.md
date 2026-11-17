@@ -26,3 +26,7 @@
 - Distinctions checked: villa, apartment, retail and office fit-outs are treated according to different occupancy and operational needs; interior renovation is separated from new fit-out; decorative work is separated from complete finishing handover.
 - Practical inputs: plans, room schedules, dimensions, equipment needs, finish samples and building-access coordination where applicable.
 - Handover: staged inspection, functional tests, defect register and explicit open-item tracking.
+
+## التخصص 3 — الجبس والديكور
+- الخدمات المغطاة: 7/7 (22–28).
+- تمييز التنفيذ بين الأسقف والقواطع وبيت النور والزخارف والألواح والإصلاح؛ مع اشتراط رسومات/مقاسات وعينات وفحص التثبيت والوصلات حسب نوع العمل.

@@ -120,3 +120,14 @@ If bed bugs are suspected, identify affected rooms, beds and furniture and when 
 
 Prepare a schedule of buildings, rooms and outdoor areas, known pest activity and required visit frequency. Provide a simple plan showing sensitive locations such as kitchens, waste rooms and stores, and mention children, pets or activities that need special coordination. The quotation should define each visit's scope, products and application methods, reporting, re-treatment where activity persists and contract exclusions. Compare visit frequency, reports, response to complaints and variation terms. Review recurring findings and monitoring records regularly, and request a preventive plan addressing entry points, food and moisture sources rather than relying only on scheduled spraying.
 
+
+## Disinfection services
+
+### 27. Home disinfection spraying
+
+Identify the rooms and surfaces to be treated and the reason for the request. State whether the property is occupied and whether children, pets, food or sensitive equipment are present. Provide photographs and describe flooring and furniture materials. Ask for the product name, application method, compatible surfaces, contact time, ventilation and return-to-use interval according to the label. The quotation should clarify whether prior cleaning is included or whether spraying is applied only to prepared surfaces, and what must be covered or removed. Compare treatment coverage, products and records; do not accept an undefined claim of “complete disinfection”. At handover, review safety instructions and remove any residue as directed.
+
+### 28. Office and facility disinfection
+
+An office or facility request should identify area, occupancy hours, frequently touched points, meeting rooms, reception and washrooms, along with equipment or materials that may be affected by spray. Provide a floor plan and photographs, and select a time that allows rooms to be vacated and ventilated before staff or visitors return. Request a plan stating product, application method, concentration, contact time, ventilation and excluded surfaces in line with the product label and competent advice. Compare crew size, stages, treatment records and repeat-visit charges. At handover, reconcile treated areas against the plan, confirm that equipment and furniture are restored and tell the site representative when the premises may safely be reoccupied.
+

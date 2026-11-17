@@ -61,3 +61,20 @@ Specify metal type and thickness, welding process, power source, work location, 
 Define water source, flow, head, hose length, fluid type and discharge point. Provide a site plan and level difference. Request performance curve, filters and power requirements. Test flow, connections, leakage and suitability for the task.
 #### 14. Garden-equipment rental
 Define garden area, task, plants and surfaces, power source, noise limits and storage. Provide photos and a task list. Specify machine, attachments and protective equipment. Inspect blades, guards and operation, and agree cleaning and return condition.
+### Aluminium and glass factories
+**Source note:** This specialty is marked as currently non-selectable; editorial content does not activate or change taxonomy.
+
+#### 15. Aluminium profile fabrication
+Specify system, profile, thickness, colour, length, end use and surface finish. Provide drawings, profile schedule and sample. Request product documents and dimensional tolerances; inspect straightness, coating, identification and quantity before accepting the batch.
+#### 16. Door and window fabrication
+Approve measurements after finishes and define handing, glazing, hardware, gaskets and frame system. Provide opening schedule and shop drawings. Request a profile sample and drainage details; inspect dimensions, colour, corner assembly and sash movement before delivery.
+#### 17. Toughened-glass fabrication
+Specify glass type, thickness, dimensions, edge processing, cut-outs and intended use. Provide a final template or drawings and hole positions. Request product identification and processing data; inspect markings, edges, dimensions and visible damage before installation.
+#### 18. Glass-façade preparation
+Façade preparation needs panel layouts, supports, joints, drainage, movement and maintenance access. Provide elevations, site photos and glass type. Request fabrication drawings and technical review; check panel numbering, edge details and supports before dispatch.
+#### 19. Partition fabrication
+Define partition height, divisions, doors, privacy level, glass or aluminium type and hardware. Provide space plan, dimensions and service locations. Request a sample and base and joint details; inspect measurements, alignment and edge safety before delivery.
+#### 20. Glass supply
+State glass type, thickness, dimensions, finish and application, and whether cutting, holes or processed edges are needed. Provide a size schedule and drawings. Request product data and packaging details; inspect count, thickness, edges and breakage on arrival before signing.
+#### 21. Project orders
+Project orders need one schedule linking each item to drawing, dimensions, profile, colour, quantity and delivery phase. Provide opening schedules and approved drawings. Request fabrication, numbering and packaging plans. Compare specification compliance and sequence, and accept each batch against item numbers and drawings.

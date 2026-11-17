@@ -12,7 +12,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Measure actual thickness on a sample from each bundle and check sheet flatness, edge swelling and water marks before signing. Reconcile sheet counts, dimensions and MDF grade with the purchase order; photograph damage and segregate rejected boards.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Send sheet counts, MDF dimensions, thickness, density and required moisture-resistance grade; state whether cutting, edging and delivery are included. Biet Al Reef customer service can help structure the enquiry without guaranteeing stock or a delivery date.
 
 ## 2. Solid timber supply
 
@@ -24,7 +24,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Check each section for straightness, length, knots and splits against the agreed timber grade. Where moisture content is contractual, request a documented sample measurement; record rejected pieces and reasons before final unloading.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Provide timber species, section sizes, lengths, quantities and drying requirements, with photos of the acceptable grading sample. Ask for machining and transport as separate items. Customer service can help prepare the request without guaranteeing a supplier or date.
 
 ## 3. Plywood supply
 
@@ -36,7 +36,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Inspect exposed cut edges for voids or delamination, then verify thickness, flatness and face quality against the sample. Record transit swelling or damage, and confirm the specified bonding grade rather than relying on a generic moisture-resistant label.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Specify plywood dimensions, thickness, face and bonding grades, service environment and quantity, attaching an edge photo or reference sample. Biet Al Reef customer service can help compare requests without guaranteeing stock or timing.
 
 ## 4. Melamine-faced board supply
 
@@ -48,7 +48,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Compare finish codes, texture and grain direction across sheets, particularly when batches are mixed. Inspect both faces for scratches and corners for chips, and separate mismatched boards before cutting or edge banding.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Supply the melamine finish code, physical colour sample, grain direction, core thickness, sheet count and edging requirements; state whether cutting and drilling are needed. Customer service can assist without guaranteeing availability.
 
 ## 5. HPL laminate supply
 
@@ -60,7 +60,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Confirm whether the delivery contains raw HPL sheets or pre-faced boards, then check thickness, finish code and quantities. Inspect faces and edges; where bonding to a substrate is included, test an agreed sample for adhesion and bubbles before accepting the batch.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** State whether you need raw HPL laminate or faced boards, with finish code, thickness, substrate, quantities and any pressing service. Biet Al Reef customer service can structure the enquiry without guaranteeing supply or timing.
 
 ## 6. Joinery hardware supply
 
@@ -72,7 +72,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Match hinge, runner and handle models to the hardware schedule, counting plates, screws and other fittings. Test a mounted sample for smooth operation under an appropriate load before accepting the full order, recording shortages and board-thickness incompatibilities.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Attach a hardware schedule with model references, quantities, hinge angles, runner lengths and ratings, and board thickness; request a compatibility sample before bulk supply. Customer service can assist without guaranteeing stock.
 
 ## 7. Board cutting and preparation
 
@@ -84,4 +84,4 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Acceptance check:** Receive parts by numbered cut-list item, not only total count. Sample-check length, width, squareness, grain direction, drilling positions and edge banding; segregate incorrect pieces and agree recutting or compensation before assembly.
 
-**Request a quote:** Give Biet Al Reef customer service the cut list and photos to help prepare a clear request; supplier availability and timing are not guaranteed.
+**Request a quote:** Send a numbered millimetre cut list identifying board type, grain direction, edge treatment, holes, dimensional tolerances, quantities and requested delivery window. Ask for separate cutting, edging and packaging prices. Customer service can assist without guaranteeing a date.

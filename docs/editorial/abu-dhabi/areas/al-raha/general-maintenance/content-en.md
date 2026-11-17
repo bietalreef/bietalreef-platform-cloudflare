@@ -227,6 +227,22 @@ Select the system by unit count, wiring type, external panel location and audio 
 Maintenance checks lenses, mounts, power, network, recording and time settings, not only the outer glass. Provide a camera list, identifiers, locations and fault details. Request a report identifying failed cameras and causes. Test live view, recording and playback after service.
 #### 91. Connecting surveillance to a phone
 This requires recorder model, app, network and account and notification settings. Provide the device model, phone type and error message without sharing passwords. Ask for secure access and user-management instructions. Test live view, alerts and playback outside the local network as supported by the system.
+### Painting
+
+#### 92. Villa painting
+Measure rooms, ceilings and internal façade areas, and assess filler and existing coats; separate repairs from surfaces ready for paint. Provide room areas and daylight photos. Specify paint type, coat count, preparation and floor protection. Check colour consistency, coverage and edges after drying.
+#### 93. Apartment painting
+Define included rooms and whether the apartment is furnished or vacant, and inspect wall condition after any repairs. Send photos of each room and specify colour and sheen. State crack and stain treatment and coat count. Compare area, preparation, materials and cleanup, then accept each room after drying.
+#### 94. External building painting
+Inspect façade condition, existing coating, cracks, moisture sources and safe access. Provide photographs from several angles, building heights and approximate areas. Specify coating system, surface preparation, access and protection. Check coverage, colour consistency and details around openings after curing.
+#### 95. Door and wood painting
+The method depends on wood type, existing finish, indoor or outdoor exposure and the condition of hinges and edges. Send close-up photos and wood details if known, and say whether door removal is included. Compare sanding, filler, primer and finish coats; inspect smoothness, edges and door movement.
+#### 96. Decorative paint finishes
+Define the technique, texture, sample and lighting that will reveal the effect. Send a reference image, wall area and light direction. Request a sample on a comparable surface before full application. Compare coat count, application method and local repairability, then inspect pattern consistency and edge transitions.
+#### 97. Removal and treatment of old paint
+Clarify whether only peeling areas need removal or whether accumulated coating and damaged substrate must be treated, and identify why adhesion failed. Send photos and moisture or repair history. Specify containment, waste collection and substrate preparation. New paint should not begin until the surface is sound and dry.
+#### 98. Paint maintenance and repainting
+Use this for local repairs or repainting after staining, damage or colour mismatch. Define the area and the boundary between old and new paint, and provide the colour code if available. Compare spot repair with repainting the full wall. Check colour under normal lighting and clean edges.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

@@ -16,6 +16,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Safety and scope clarification:** A qualified AC technician should verify room load, power supply and condensate drainage before drilling. Unit installation does not itself authorise façade alterations or a new electrical circuit. Assign responsibility for penetrations, insulation and reinstatement, and obtain route photographs and a drainage test.
 
+**Unit selection decision:** Do not select by nominal capacity alone. Ask how the proposed duty reflects the room load and use, and check airflow direction against fixed seating. Agree expected noise performance, condensate discharge location and responsibility for any subsequent drainage defect.
+
 ## 2. Central AC installation
 
 **When to request it:** For multiple rooms, unit price alone is insufficient without room-by-room cooling loads, plant access and air distribution design.
@@ -29,6 +31,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Request a quotation:** Supply plans, area schedule and ceiling heights; request itemised load calculations, ductwork, insulation, controls, air balancing and commissioning.
 
 **Safety and scope clarification:** Check room-by-room loads, return-air paths and filter service access before approving equipment and ductwork. Ceiling changes, fire-system alterations and electrical upgrades are excluded unless expressly priced. Request coordinated drawings, airflow balancing results and a named party to resolve service clashes.
+
+**System coordination decision:** Distinguish calculated cooling loads from selected equipment capacity. Show return-air paths and any specified fresh-air provision. Before closing ceilings, verify damper access, service doors and whether simultaneous operation of all zones is included in commissioning.
 
 ## 3. Concealed AC installation
 
@@ -44,6 +48,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Safety and scope clarification:** Confirm ceiling-void clearance and that filters and the condensate tray can actually be serviced through an accessible hatch. Do not accept a unit sealed behind fixed gypsum. Price access panels and ceiling reinstatement separately, then demonstrate service access and drainage at handover.
 
+**Maintainability decision:** Request a drawing showing access-panel dimensions, filter withdrawal direction and condensate-pan removal clearance, not just hatch position. If replacing a fan or lifting the unit would require breaking gypsum, record that as a design constraint to resolve before installation.
+
 ## 4. AC refrigerant piping
 
 **When to request it:** Relocating a unit or roughing-in before finishes depends on correct copper sizing, length and protection.
@@ -57,6 +63,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Request a quotation:** State the unit model, copper sizes, run length and height difference; request per-metre piping, insulation, fittings, tightness testing and concealed-work photographs.
 
 **Safety and scope clarification:** Set copper diameters, run lengths and elevation differences to the equipment manufacturer's requirements and protect insulation from UV and abrasion. Photograph joints and obtain a qualified technician's appropriate tightness-test record before concealment; power and condensate lines are separate unless expressly included.
+
+**Route approval decision:** Check allowable pipe length, elevation difference and joints against the exact unit manual; do not assume old-unit copper sizes are suitable. Show supports and insulation protection at penetrations, and retain test records before concealing the route.
 
 ## 5. Air duct installation
 

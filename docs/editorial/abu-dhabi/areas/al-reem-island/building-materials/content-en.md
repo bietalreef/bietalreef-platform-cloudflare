@@ -90,6 +90,36 @@ For a localised repair, photograph the leak area and identify the substrate and 
 
 Give the supplier the site address, access point, vehicle constraints, unloading method, receiving contact and suitable delivery window. Separate transport, lifting and waiting charges from material costs. Photograph damage and record quantities and arrival time before signing receipt.
 
+## Timber and boards
+
+### 22. MDF board supply
+
+Specify board thickness, density and finish, including whether the installation is in a dry interior or exposed to moisture. Send a cutting schedule and lift or access dimensions; compare board, cutting and edge-finishing charges, and inspect swelling and flatness.
+
+### 23. Solid timber supply
+
+Identify timber species, grade, sections, lengths and whether it is for doors, furniture or cladding. Ask about seasoning and suitable moisture content and the intended finish; inspect warping, splits and visible knots, and compare realistic cutting waste.
+
+### 24. Plywood supply
+
+Specify plywood grade, thickness, bonding suitability and exposure conditions; not every sheet is suitable outdoors. Provide part dimensions and a cutting list. Inspect veneer layering, edge voids, bowing and transport damage.
+
+### 25. Melamine-faced board supply
+
+Select the surface colour, texture, batch, board thickness and core for the cabinetry. Request a physical sample because screen colours vary; specify grain direction and matching edge-band lengths. Check batch consistency and scratches before cutting.
+
+### 26. HPL sheet supply
+
+Specify laminate thickness, surface texture, wear requirements and whether the quote covers sheets alone or the backing substrate. Check colour samples, pattern direction and adhesive compatibility; inspect corner chips and product codes on receipt.
+
+### 27. Joinery hardware supply
+
+Provide cabinet drawings, door and drawer counts and approximate weights to select hinges, runners, handles and mechanisms. Compare load ratings, warranties and replacement parts, and test a fitted sample before ordering the full quantity.
+
+### 28. Board cutting and preparation
+
+Supply a cutting schedule with final dimensions, quantities, grain direction, part labels and visible edges. Agree saw tolerances, drilling, edge-banding, packaging and delivery. Measure sample pieces from each size and inspect labels and edge quality.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Enquiries can be received even when no provider is published. Include the area (Al Reem Island), material and service, customer name and contact number, intended use, quantities, dimensions, photographs, specifications, unloading location and requested date. Customer service can receive and coordinate the enquiry without promising a price, stock or delivery slot. Individual tradespeople remain a separate directory from companies and establishments.

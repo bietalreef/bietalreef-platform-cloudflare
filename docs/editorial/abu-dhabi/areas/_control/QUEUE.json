@@ -560,7 +560,8 @@
         "general-maintenance",
         "building-materials",
         "aluminium-glass",
-        "furniture-decor"
+        "furniture-decor",
+        "equipment-rental"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-ar.md",
@@ -587,7 +588,7 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/equipment-rental/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Equipment-rental 49/53 services verified in Arabic and English; 7/8 specialties complete. Al Reem Island 388/434 services, 41/50 company specialties, 6/8 sectors complete. Next: مصانع الخرسانة والطابوق والمنتجات الأسمنتية, service 50 تصنيع الخرسانة الجاهزة. Human technical/language review remains required.",
+      "review_note": "Equipment-rental sector complete: 53/53 services and 8/8 specialties verified in Arabic and English. Al Reem Island 392/434 services, 42/50 company specialties, 7/8 sectors complete; 42 services remain in cleaning-services. Next: تنظيف المنازل والمباني, service 1. The proposed concrete/block/cement-products specialty remains non-active unless separately approved.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
@@ -604,20 +605,20 @@
         "area_editorially_approved": false
       },
       "progress": {
-        "sector": "equipment-rental",
-        "last_completed_sector": "furniture-decor",
-        "last_completed_specialty": "نقل مواد ومعدات المشاريع",
-        "last_completed_service_number": 49,
-        "next_specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
-        "next_service_number": 50,
-        "sector_completed": 49,
-        "sector_total": 53,
-        "area_completed": 388,
+        "sector": "cleaning-services",
+        "last_completed_sector": "equipment-rental",
+        "last_completed_specialty": "مصانع الخرسانة والطابوق والمنتجات الأسمنتية",
+        "last_completed_service_number": 53,
+        "next_specialty": "تنظيف المنازل والمباني",
+        "next_service_number": 1,
+        "sector_completed": 0,
+        "sector_total": 42,
+        "area_completed": 392,
         "area_total": 434,
-        "remaining_area_services": 46,
+        "remaining_area_services": 42,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "completed_specialties_in_area": 41
+        "completed_specialties_in_area": 42
       }
     },
     {

@@ -11,26 +11,28 @@
 | general-contracting | 6/6 | 56/56 | 56/56 |
 | interior-design | 4/4 | 49/49 | 49/49 |
 | general-maintenance | 10/10 | 105/105 | 105/105 |
-| **الإجمالي** | **20/20** | **210/434** | **210/434** |
+| building-materials | 5/5 | 49/49 | 49/49 |
+| **الإجمالي** | **25/25** | **259/434** | **259/434** |
 
-- القطاعات المكتملة: general-contracting، interior-design، general-maintenance.
-- الملفات: لكل قطاع مكتمل content-ar.md وcontent-en.md وreview.md؛ ويحتوي كل ملف على شرح خدماته ومراجعة مستقلة.
-- آخر قطاع مكتمل: general-maintenance؛ آخر تخصص: العزل المائي والحراري؛ آخر خدمة: 105 «صيانة أعمال العزل».
-- نقطة الاستئناف: building-materials، التخصص الأول «مواد البناء والتشطيب»، الخدمة الأولى «توريد الأسمنت».
+- القطاعات المكتملة: general-contracting، interior-design، general-maintenance، building-materials.
+- لكل قطاع مكتمل ملفات content-ar.md وcontent-en.md وreview.md.
+- تحققنا من إعادة قراءة الملفات الستة للمحتوى ومراجعات القطاعات الأربعة. تطابق ترتيب أسماء خدمات الصيانة العامة ومواد البناء مع مصدري التصنيف: 105/105 و49/49؛ وتساوى عدد عناوين الخدمات العربية والإنجليزية.
+- ملاحظة تصنيفية: تخصص «مواد البناء والتشطيب» موسوم في المصدر بأنه غير قابل للاختيار حاليًا؛ هذا المحتوى لا يفعّله ولا يغيّر taxonomy.
+- آخر قطاع مكتمل: building-materials؛ آخر تخصص: السيراميك والبورسلان؛ آخر خدمة: 49 «توريد وتركيب الوزرات».
+- نقطة الاستئناف: aluminium-glass، التخصص الأول بحسب المصدر، الخدمة الأولى بحسب القائمة.
 
 ## القطاعات المتبقية
 
 | القطاع | التخصصات | الخدمات المتبقية |
 |---|---:|---:|
-| building-materials | 5 | 49 |
 | aluminium-glass | 5 | 56 |
 | furniture-decor | 4 | 24 |
 | equipment-rental | 8 | 53 |
 | cleaning-services | 8 | 42 |
-| **الإجمالي** | **30** | **224** |
+| **الإجمالي** | **25** | **175** |
 
-- التقدم الكلي: 3/8 قطاعات، 20/50 تخصصاً، 210/434 خدمة في كل لغة.
-- سياق المنطقة المستخدم: تنسيق فتح الأرضيات واختبار الإصلاح وإعادة البلاط عند انطباقه، مع مراعاة القياسات والأثاث والإنارة ونقاط الكهرباء. لا تُفترض إجراءات موحدة لكل مبنى؛ يُنسق الدخول والتوريد والعمل مع إدارة العقار عند الحاجة.
+- التقدم الكلي: 4/8 قطاعات، 25/50 تخصصاً، 259/434 خدمة في كل لغة.
+- سياق المنطقة المستخدم: تنسيق فتح الأرضيات واختبار الإصلاح وإعادة البلاط عند انطباقه، مع مراعاة القياسات والأثاث والإنارة ونقاط الكهرباء، والتنسيق المسبق للدخول والتوريد مع إدارة العقار عند الحاجة. لا تُفترض إجراءات موحدة لكل مبنى.
 - تمت مراجعة الملفات السابقة الثلاثة؛ ملف الحالة القديم ذي 17 محوراً لا يحل محل قائمة الخدمات الحالية.
 - لم تُخترع شركات أو أسعار أو مواعيد أو توافر أو موافقات. الحرفيون منفصلون عن الشركات.
 - عند غياب شركة منشورة، يستقبل مسار خدمة عملاء بيت الريف طلب عرض السعر دون تعليق الخدمة على وجود شركة في الدليل.
@@ -51,26 +53,28 @@
 | general-contracting | 6/6 | 56/56 | 56/56 |
 | interior-design | 4/4 | 49/49 | 49/49 |
 | general-maintenance | 10/10 | 105/105 | 105/105 |
-| **Total** | **20/20** | **210/434** | **210/434** |
+| building-materials | 5/5 | 49/49 | 49/49 |
+| **Total** | **25/25** | **259/434** | **259/434** |
 
-- Completed sectors: general-contracting, interior-design and general-maintenance.
+- Completed sectors: general-contracting, interior-design, general-maintenance and building-materials.
 - Each completed sector has content-ar.md, content-en.md and review.md.
-- Last completed sector: general-maintenance; last specialty: waterproofing and thermal insulation; last service: 105, “Waterproofing maintenance”.
-- Resume at: building-materials, first specialty “Building and finishing materials”, first service “Cement supply”.
+- All six content files and four sector reviews were re-fetched. Arabic service names and order match the taxonomy source for general maintenance (105/105) and building materials (49/49); Arabic and English service-heading counts match.
+- Taxonomy note: “Building and finishing materials” is marked non-selectable in the source. This editorial content does not activate or change taxonomy.
+- Last completed sector: building-materials; last specialty: ceramic and porcelain; last service: 49, “Skirting supply and installation”.
+- Resume at: aluminium-glass, first source specialty and first service.
 
 ## Remaining sectors
 
 | Sector | Specialties | Remaining services |
 |---|---:|---:|
-| building-materials | 5 | 49 |
 | aluminium-glass | 5 | 56 |
 | furniture-decor | 4 | 24 |
 | equipment-rental | 8 | 53 |
 | cleaning-services | 8 | 42 |
-| **Total** | **30** | **224** |
+| **Total** | **25** | **175** |
 
-- Overall progress: 3/8 sectors, 20/50 specialties, 210/434 services in each language.
-- Area context: coordinate floor opening, repair testing and tile reinstatement where relevant, and account for verified dimensions, furniture, lighting and sockets. Do not assume identical building procedures; coordinate access, deliveries and work with property management where needed.
+- Overall progress: 4/8 sectors, 25/50 specialties, 259/434 services in each language.
+- Area context: coordinate floor opening, repair testing and tile reinstatement where relevant; account for verified dimensions, furniture, lighting and sockets; coordinate access and deliveries with property management where necessary. Do not assume identical procedures across buildings.
 - The three legacy data files were reviewed; the older 17-topic status model does not replace the current service taxonomy.
 - No companies, prices, appointments, availability or approvals have been invented. Craftspeople remain separate from companies.
 - When no company is listed, Bait Al Reef customer service can receive a quotation request without making service discovery conditional on a directory listing.

@@ -132,3 +132,34 @@ Start by identifying whether the issue is general dullness, scratches, absorbed 
 
 For a contractor's multi-area order, use a piece schedule tied to approved drawing revisions, floors and installation locations rather than only a total square-metre figure. Supply dimensions, thicknesses, finishes, vein direction and a delivery sequence based on site readiness. Compare sample and shop-drawing approvals, identification, packing, waste allowances, substitutions, batch dates and responsibility for drawing changes. At each receipt reconcile packing lists, piece codes and quantities, recording damage or shortages before signing delivery acceptance.
 
+## Tools and equipment retailers
+
+This specialty is currently marked non-selectable in the taxonomy source. The text is buying guidance, not confirmation of a registered retailer or available stock. Biet Al Reef customer service can receive a quotation request even without a published company.
+
+### 29. Hand tools sales
+
+For a maintenance crew or workshop, begin with the actual tasks rather than an unspecified tool kit. State wrench, screwdriver and socket sizes and the fasteners involved; supply photographs or model numbers where tools must match existing equipment. Compare material quality, size coverage, included pieces, warranties and replacement terms rather than the number of items alone. On receipt check tips, jaws, hinges and marked dimensions against the invoice.
+
+### 30. Power tools sales
+
+A drill, grinder or saw should be selected for the material, thickness, expected duty cycle, available power and workspace. Provide the intended application and details of any existing battery platform or power supply. Request a specific model, power and speed specifications, guarding and included accessories. Compare the bare tool separately from batteries, chargers, blades and discs. At handover carry out a safe basic function check and reconcile serial number, instructions, warranty and accessories.
+
+### 31. Safety equipment sales
+
+Protective equipment must address a defined hazard, not merely a preferred helmet or vest style. Describe exposure to dust, flying particles, noise or falls and provide the site's risk assessment where available. Request manufacturer data, sizes, limitations and applicable product conformity evidence; one item cannot be assumed suitable for every task. Compare fit, shelf life and replaceable components. Inspect packaging, production dates, straps and closures on receipt. Fall-protection systems require competent inspection and use.
+
+### 32. Workshop equipment sales
+
+When equipping a joinery or metalworking shop, supply a floor plan with access aisles, electrical points, ventilation and material storage. Specify each machine's function, duty requirements and workpiece dimensions, then request machine footprints, safe operating clearances, anchoring requirements and commissioning or training provisions. Compare delivery, installation, trial operation, consumables and servicing, not just purchase price. Accept equipment only after agreed functional checks and verification of guards, emergency stops and documentation.
+
+### 33. Cleaning equipment sales
+
+Before purchasing a scrubber-dryer or industrial vacuum, identify floor types, total area, debris, operating hours and water filling or disposal arrangements. Provide photographs of narrow passages and thresholds. Ask for cleaning width, tank or battery capacity, power supply, brush options and compatible chemicals. Compare practical runtime and the ongoing cost of filters, brushes and maintenance. Test the unit on a representative surface at handover and check suction, leakage, brush marks and daily cleaning instructions.
+
+### 34. Spare parts sales
+
+Parts that look alike may not fit or operate safely in the same machine. Supply the equipment nameplate, model and serial number, old part number if available, and photographs of mounts and connectors. Obtain written compatibility confirmation and clarity on genuine versus aftermarket supply, warranty and return terms, particularly for electrical or safety-critical components. Compare specifications and lead times alongside price. On receipt check part numbers, connectors and dimensions; safety-relevant fitting and testing should be performed by a competent technician.
+
+### 35. Equipment maintenance
+
+Record the fault, operating conditions, hours, noises and error codes before seeking repair, and stop use where an obvious hazard exists. Supply the model, nameplate photograph and service history. Request diagnosis distinguishing routine maintenance, component replacement and calibration. The quotation should separate inspection charges, parts, labour, testing and workmanship warranty, with approval required before extra repairs. At handover obtain a record of replaced parts and test results and confirm guards and protective devices have been reinstated correctly.

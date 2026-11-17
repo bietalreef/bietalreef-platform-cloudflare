@@ -558,7 +558,8 @@
         "general-contracting",
         "interior-design",
         "general-maintenance",
-        "building-materials"
+        "building-materials",
+        "aluminium-glass"
       ],
       "files": [
         "docs/editorial/abu-dhabi/areas/al-reem-island/general-contracting/content-ar.md",
@@ -579,19 +580,19 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Aluminium-glass services 1–42 verified sequential in both languages; 301/434 services, 28/50 specialties, 4/8 sectors. Next service 43 تنفيذ واجهات زجاجية. In progress, human review pending.",
+      "review_note": "Aluminium-glass complete: 56/56 AR and EN, 5/5 specialties, re-fetched and verified. Area 315/434 services, 30/50 specialties, 5/8 sectors; next furniture-decor service 1. In progress; human review pending.",
       "editorial_progress": {
-        "sector": "aluminium-glass",
-        "last_completed_sector": "building-materials",
-        "last_completed_specialty": "أعمال الألمنيوم والأبواب والنوافذ",
-        "last_completed_service_number": 42,
-        "next_specialty": "الواجهات والأعمال الزجاجية",
-        "next_service_number": 43,
-        "sector_completed": 42,
-        "sector_total": 56,
-        "area_completed": 301,
+        "sector": "furniture-decor",
+        "last_completed_sector": "aluminium-glass",
+        "last_completed_specialty": "تشكيل الحديد والمعادن",
+        "last_completed_service_number": 56,
+        "next_specialty": "تصنيع الأثاث",
+        "next_service_number": 1,
+        "sector_completed": 0,
+        "sector_total": 24,
+        "area_completed": 315,
         "area_total": 434,
-        "remaining_area_services": 133,
+        "remaining_area_services": 119,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

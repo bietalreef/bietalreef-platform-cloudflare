@@ -74,43 +74,43 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 8. Gypsum material supply
 
-**When and what to provide:** For gypsum material supply to an Al Jimi project, supply boards or powder, board thickness and specified moisture or fire rating, plus relevant site or sample photos and drawings. Check board type and moisture or fire rating for the intended room.
+**When this is needed and what to provide:** For gypsum board ceilings or partitions, send the area drawings and board schedule showing dimensions, thickness, edge type and any specified moisture or fire rating by location. If gypsum powder is required instead, give its intended use, bag weight and specification; it is not interchangeable with board. Photograph delivery access and a dry, flat storage location.
 
-**Quotation scope and comparison:** Compare board price by size, thickness and rating rather than piece count alone; cover damaged edges and dry storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Compare equivalent square-metre board costs for the same thickness and rating, with pack quantities, edge protection and freight. Request the project-required rating documentation and clarify whether screws, tape, joint compound and framing channels are included or separate. Supply excludes framing installation, joint finishing and certification of the completed fire-rated assembly.
 
-**Agreement and acceptance:** Specify gypsum board type and dimensions and protect board edges against transit moisture. At receipt, verify flat dry boards, intact edges and correct product labels. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record product codes, board ratings and dimensions, breakage allowances and who lifts packs to the required floor. Check pack labels and representative board edges and faces before distribution; document wet, bowed or broken sheets under the agreed rejection procedure. A rated board alone does not establish the fire rating of an installed wall or ceiling assembly; the complete system requires professional approval.
 
-**Requesting quotes:** Specify board type, thickness, dimensions and required gypsum accessories; request moisture- or fire-rated variants where applicable and dry transit protection. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Separate ordinary, moisture-rated and fire-rated boards, and any gypsum powder, in the quantity schedule. Specify unloading and storage arrangements; request accessory prices, lifting charges and damage remedies. Biet Al Reef customer service may help structure the request without guaranteeing a supplier, price or delivery date.
 
 ## 9. Paint material supply
 
-**When and what to provide:** For paint material supply to an Al Jimi project, supply substrate, primer and filler system, topcoat, colour code and sheen, plus relevant site or sample photos and drawings. Specify the full coating system, including primer, filler and finish.
+**When this is needed and what to provide:** For villa or shop paint procurement, identify each substrate—concrete, gypsum, timber or metal—and its condition, including moisture or existing coatings. Send areas, approved colour codes, sheen levels and sample references, plus photos of surfaces and a storage location protected from excessive heat.
 
-**Quotation scope and comparison:** Compare primer, filler and coating by litre, coverage and required coats; check compatibility of the full system rather than isolated unit prices. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Request a compatible filler, primer and finish-coat system with technical datasheets, coverage per coat and permitted thinning. Compare the cost of the complete system for the specified area and coat count, not just price per litre. State whether crack-treatment materials and application tools are included. This is materials supply only: surface preparation, painting labour and workmanship warranty are excluded unless expressly contracted.
 
-**Agreement and acceptance:** Approve paint colour codes and batch numbers and check cans against the agreed sample. At receipt, verify colour and batch codes, shelf life and sealed containers. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record the exact product, colour code, sheen and batch, and agree how additional matching stock will be sourced. At delivery check seals, shelf life, storage condition and container codes; isolate mismatched batches before opening. Container colour is not a final colour approval: the project may require an applied sample.
 
-**Requesting quotes:** Provide paintable area, substrate, primer and finish system, and colour codes; request pack quantities, coverage, matching batch and storage requirements. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Send a surface-and-area schedule, coating system and colour codes. Ask for estimated quantities by product, pack rates, transport and remedies for damaged or incorrect cans. Biet Al Reef customer service can assist with the request without guaranteeing a supplier, price or date.
 
 ## 10. Waterproofing material supply
 
-**When and what to provide:** For waterproofing material supply to an Al Jimi project, supply approved membrane or coating system, thickness, coverage and corner or joint accessories, plus relevant site or sample photos and drawings. Do not mix waterproofing membranes and primers from incompatible systems.
+**When this is needed and what to provide:** For a roof, bathroom or tank waterproofing material order, send the location, drawings, area and approved system—such as bituminous sheets or a liquid-applied membrane—with layer thickness and drain, corner and joint details. Photograph penetrations and interfaces. Do not substitute systems merely because product names sound similar.
 
-**Quotation scope and comparison:** Compare the complete primer, membrane and accessory system by thickness, coverage, shelf life and compatibility; do not mix incompatible products. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Request the complete compatible system: primer, membrane or coating, reinforcement tapes, penetration accessories and protection materials, with technical and storage requirements. Compare effective installed-area coverage after laps, waste and coat count, rather than roll or pail price alone. Substrate preparation, installation, flood or leak testing and workmanship warranty are excluded from supply unless expressly included.
 
-**Agreement and acceptance:** Specify the complete waterproofing system including primer, membrane or coating and shelf life. At receipt, verify compatible components, production and storage condition and required compliance records. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record product and batch codes, shelf life and protection from heat or transit damage. Check packaging, manufacturing labels, quantities and accessory compatibility on receipt. Substitution of a membrane or primer needs approval from the responsible designer or supervisor; intact packaging does not prove performance after installation.
 
-**Requesting quotes:** Identify the waterproofing location, approved system, layer thickness and area; request product datasheets, joint accessories and clear installation and testing exclusions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Provide an area schedule, system specification and drain/joint details. Ask for yield, wastage, accessory quantities, freight, storage requirements and replacement terms. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or delivery.
 
 ## 11. Flooring material supply
 
-**When and what to provide:** For flooring material supply to an Al Jimi project, supply net area plus waste, tile or plank size, finish and slip rating where required, plus relevant site or sample photos and drawings. Allow for cutting waste and colour batches when calculating flooring quantities.
+**When this is needed and what to provide:** For ceramic, porcelain or other flooring materials, send a room-by-room finish schedule with product type, size, thickness, shade, finish and required slip rating. Include net areas, laying direction and skirting quantities. Attach the approved sample and carton storage photos; calibre and shade differences can affect the installed result.
 
-**Quotation scope and comparison:** Compare net square-metre price, cutting waste, shade batch and required slip rating; separate adhesives and installation. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Compare square-metre costs using pieces per carton and cutting waste for the intended layout. Specify shade batch, calibre and sorting grade where applicable. Price adhesives, grout, skirtings, transport and lifting separately. Supply excludes floor levelling, laying labour and on-site slip testing unless explicitly included.
 
-**Agreement and acceptance:** Approve flooring dimensions, shade and batch number and record agreed cutting wastage. At receipt, verify shade and batch consistency, straight pieces and no breakage. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Agree the sample and product code, shade batch, allowable breakage and how matching additional stock will be obtained. Inspect representative cartons before distribution, checking codes, dimensions, chipped edges and breakage, and record discrepancies on delivery. A required slip rating needs appropriate product evidence, not visual judgement alone.
 
-**Requesting quotes:** Attach the floor finish schedule with areas, dimensions, thickness and colours; request unit rates, wastage, skirtings, adhesives, packaging protection and batch consistency. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Provide room areas, sizes, finish codes and estimated waste. Request itemised square-metre and carton rates, skirtings, associated materials, freight and breakage remedies. Biet Al Reef customer service may help prepare the request without guaranteeing a supplier, price or delivery date.
 
 ## 12. Sanitary fixture supply
 

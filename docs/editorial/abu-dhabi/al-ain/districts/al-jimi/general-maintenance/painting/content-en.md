@@ -16,6 +16,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** inspect daylight colour, corners and behind doors. Sign off rooms individually; check that masking has been removed and no paint marks remain on floors or furniture.
 
+**Additional quality gate:** Distinguish active damp patches from superficial defects in the room handover sheet; do not paint over an unresolved leak, and approve colour and sheen only after the sample has dried.
+
 **Request a quotation:** Provide a room-by-room schedule of approximate wall and ceiling areas, stairwell heights and occupancy. Request separate allowances for furniture protection, defect preparation, coats and colour changes, with an on-site check of high-access areas before quantities are finalised.
 
 ## 2. Apartment painting
@@ -31,6 +33,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Compare quotations and agree terms:** compare drying time, odour, protection and cleanup. Set permitted access hours, who clears rooms and moves light furniture, and when protective coverings can be removed and the apartment safely reoccupied.
 
 **Acceptance inspection:** check ceiling edges, skirting and clean outlets/floors. Check outlets, skirting and areas behind furniture for splashes, and note any room still needing ventilation or remedial work.
+
+**Additional quality gate:** Agree protection for vents, air-conditioning units and switches, phased room access and furniture return; check ventilation and residual odour before the space is occupied again.
 
 **Request a quotation:** Share a floor plan or room count, approximate wall areas, hole photographs, furniture layout and permitted working hours. Ask for separate costs for light-item moving and protection, patching, painting and cleanup, plus a realistic room re-entry period after curing.
 
@@ -48,6 +52,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** inspect uniform finish, adhesion, edges and window cleanliness. Inspect window and movement-joint edges from safe viewing points, and verify scaffold removal leaves no damage or debris.
 
+**Additional quality gate:** Specify façade access and protection for passers-by and windows, and assess coating adhesion and surface salts; do not coat over unresolved flaking or dampness.
+
 **Request a quotation:** Send views of each elevation where possible, heights, existing coating type and locations of peeling or cracks. Separate substrate preparation, exterior coating system, access equipment, public/window protection and any required permits; do not include structural crack remediation without assessment.
 
 ## 4. Door and timber painting
@@ -63,6 +69,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Compare quotations and agree terms:** compare application method, odour, sheen and colour sample. Specify whether leaves are removed or finished in place, how hinges and locks are protected, and approval of a sheen sample before all doors are coated.
 
 **Acceptance inspection:** check free opening, even sheen and unpainted hardware. Operate each door after curing and inspect bottom edges, hinges and lock surrounds for tackiness or unwanted coating.
+
+**Additional quality gate:** Record timber species and existing coating before selecting sanding and primer; protect hinges, locks and seals and test door closure after the coating cures.
 
 **Request a quotation:** State the number and dimensions of door leaves and whether both faces, edges and frames are included. Provide photos of veneer and old finish. Ask for an approved colour/sheen sample and separate preparation, primer and topcoat or varnish costs, including work location and no-use period.
 
@@ -80,6 +88,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** compare finished texture to the approved sample under site lighting. Compare the finished feature wall with the approved sample under both daylight and artificial light, recording texture or sheen differences at junctions.
 
+**Additional quality gate:** Approve a sufficiently large texture sample under representative lighting, showing application direction and joint boundaries; agree how future patch repairs will be judged.
+
 **Request a quotation:** Provide a reference image, feature-wall dimensions, lighting conditions and photos showing substrate flatness. Request a sample panel or on-site trial, define the coated area, sealer and cleaning method, and clarify whether sample costs are credited to the final work.
 
 ## 6. Stripping and preparing old paint
@@ -96,6 +106,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** confirm dry, stable substrate before recoating. Photograph the dry, sound substrate before priming and record moisture readings if taken; do not accept a new coat concealing unresolved blistering.
 
+**Additional quality gate:** Assess coating age, composition and possible hazardous constituents before scraping or sanding; do not dry-strip or disperse dust of unknown composition without competent assessment and containment.
+
 **Request a quotation:** Photograph peeling boundaries, blistering and any suspected water source; include moisture readings if available. Request a cause assessment and itemised removal, dust containment, disposal and substrate preparation, keeping leak repairs and suspected hazardous material assessment separate.
 
 ## 7. Paint touch-up and recoating
@@ -111,6 +123,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Compare quotations and agree terms:** compare patch versus whole-wall repainting for consistency. Mark repair boundaries on photos and agree whether a slight colour difference is acceptable or a full wall must be recoated, including how scope increases are priced.
 
 **Acceptance inspection:** check colour from several angles and smoothness. View the patch from normal occupancy distance under two lighting conditions and photograph whether full-wall repainting is required.
+
+**Additional quality gate:** Distinguish ageing-related colour difference from coating adhesion failure; inspect the patch boundary in daylight and reject touch-ups that conceal ongoing dampness or cracking.
 
 **Request a quotation:** Share close and wide photos of each patch, the colour code if known, approximate age of the coating and the full wall area. Ask for two prices—local touch-up and full-wall repainting—and agree in advance how visible colour differences will be assessed.
 ## Biet Al Reef support

@@ -89,3 +89,33 @@ Inventory workstations, counters, display and storage units and customer or staf
 Translate the concept into details for cladding, battens, edges, joints and transitions to walls and ceilings. Provide a visual reference, site measurements and timber sample. Request a mock-up of repeated details; accept after checking alignment, fixing, colour and texture consistency.
 #### 28. Interior joinery finishing and handover
 Use this to close an installed joinery package against the item list, drawings and hardware schedule. Prepare room-by-room photos and snag notes. Request repair of scratches, joints and adjustments before handover; record accepted items, defects, warranties and open work.
+### Aluminium doors and windows
+
+#### 29. Aluminium window fabrication
+Fabrication requires post-finish opening measurements and a defined profile system, glazing, colour, handing and divisions. Provide opening photos, dimensions and façade plans. Request shop drawings and gasket specifications; inspect dimensions, finish and sash movement before delivery.
+#### 30. Aluminium window installation
+Check opening alignment and level, fixing method and perimeter sealing before installation. Provide frame and glass details and site photos, and clarify removal of old units and making good. Test opening, closing, locks, drainage and perimeter joints.
+#### 31. Aluminium door fabrication
+Specify opening width and height, profile depth, infill or glass, lock and hinges. Provide handing, drawings and sample photos. Request leaf-weight and reinforcement details; inspect assembly or weld quality and door alignment before approval.
+#### 32. Aluminium door installation
+Installation requires checks of levels, swing path, fixing points, threshold and closing action. Provide opening, door and hardware photos. Specify sealing and insulation. Accept after testing movement, locking, friction, frame stability and edge sealing.
+#### 33. Insect-screen installation
+Measure each opening and define frame type, removal and cleaning method and mesh durability. Provide window photos and dimensions and state whether fixed or retractable screens are required. Check mesh tension, frame stability, ease of operation and gaps at edges.
+#### 34. Door and window maintenance
+Start by identifying track, hinge, lock, gasket or air and water ingress problems. Send a movement video and hardware photos. Request diagnosis distinguishing adjustment from part replacement; test operation, closure and sealing after service.
+#### 35. Hardware and glass replacement
+Identify profile system, hardware model, glass thickness and dimensions and fixing method before replacement. Provide label and damaged-part photos and opening measurements. Confirm replacement compatibility. Inspect glass fixing and edges and test door or window movement after work.
+#### 36. Aluminium kitchen fabrication
+Design around wall measurements, services, appliances, worktop heights and door finish. Provide a plan, photos and appliance models. Request cabinet layout, profile and hardware details. Compare profile thickness, closing system and durability, then inspect dimensions and assembly.
+#### 37. Aluminium kitchen installation
+Check floor and wall levels, water and electrical points and appliance openings before installation. Provide unit drawings and site photos. Specify fixing, sealing and adjustments. Inspect alignment, cabinet stability, doors and drawers and access to service points.
+#### 38. Aluminium cabinet fabrication
+Define use, dimensions, shelves, doors, ventilation, load and whether the cabinet is indoors or outdoors. Provide site photos and contents list. Request drawings showing profiles, back and edges; inspect door alignment, shelf stability and edge durability.
+#### 39. Bathroom cabinet fabrication
+Measure the space around the basin, drain pipes, moisture exposure and door swing. Provide photos, dimensions and basin model. Specify suitable material and edge treatment; check door clearance and access to isolation valves.
+#### 40. Outdoor storage-unit fabrication
+Define exposure to sun, water and dust, ventilation, load and fixing method. Provide site dimensions and floor and façade photos. Specify profiles, coating and hinges. Check base stability, door sealing, drainage and maintainability.
+#### 41. Aluminium kitchen refurbishment
+Inventory which frames, doors and worktops can be retained and which need replacement. Provide close-up photos, cabinet dimensions and fault notes. Separate door-front replacement from frame replacement in the quote; inspect hardware compatibility and final adjustment.
+#### 42. Kitchen hinge and accessory maintenance
+Identify hinge or runner type and model, quantity and closing or movement fault. Provide fitting and location photos. Request a compatible replacement rather than a merely similar size. Test door and drawer movement and adjustment and check screw security.

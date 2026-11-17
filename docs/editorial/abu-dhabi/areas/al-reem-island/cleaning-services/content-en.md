@@ -162,3 +162,60 @@ Identify tanks, pumps, isolation points, meters and drains, and record leaks, od
 
 State the report purpose—routine monitoring, handover or pre-maintenance assessment—then identify the building and areas to be inspected and whether units are occupied. Ask the quotation to define inspection scope, systems reviewed, inspection depth and access limitations. The report should include dated photographs, location of each finding, description, priority and recommended next action. Compare a simple defect list with a report that links each observation to its location, impact and supporting evidence. It should identify inaccessible areas and matters requiring specialist testing or a separate engineering opinion. At handover, check area coverage, photographs, finding references and follow-up responsibility.
 
+
+## Workforce and facilities operations services
+
+### 36. Cleaning staff provision
+
+Specify property type, area, floor and room count, zones requiring coverage, working hours, shifts and supervision level. Attach a task schedule for daily and periodic duties such as floor care, washrooms, entrances and waste collection, and state who supplies machines and consumables. Request a quotation showing staff numbers and hours, supervisor, training for delicate surfaces, attendance records and absence cover. Compare task scope, consumable costs, extra visits and complaint handling. At mobilisation, review zone allocation, checklists and attendance; headcount alone does not prove that the agreed work has been completed.
+
+### 37. Loading labour provision
+
+Loading labour should be sized from the load, not guessed from property area. Describe materials or furniture, item dimensions and approximate weights, quantities, floors and internal carrying distance. Photograph entrances, corridors and the vehicle standing point, and state whether lifting equipment or trolleys are available. Ask for crew and supervisor numbers, duration, tools, protective equipment and responsibility for heavy or fragile items. Compare team size, working hours, waiting, loading and unloading, separating any equipment charges. At completion, reconcile moved quantities, inspect routes and items and record damage or shortages before accepting the service.
+
+### 38. Maintenance technicians provision
+
+Identify the trade precisely—electrical, plumbing, air-conditioning, finishing or another discipline—then describe the fault or task, number of units, location and access hours. Provide equipment nameplates, defect photographs, available drawings and previous repair history. Clarify whether one visit or continuing coverage is needed. Ask about the technician's relevant experience, duties, tools and materials, approval of additional work, required tests and any workmanship warranty. Compare trade competence, hours, materials responsibility and supervision. At handover, obtain a work report listing tasks completed, parts replaced and test results.
+
+### 39. Site supervisors provision
+
+Before requesting a site supervisor, define project type and size, current stage, number of teams and shifts and the authority the supervisor needs for coordination and follow-up. Provide the programme, site plan and required reporting format, and identify who approves variations and work orders. The quotation should state relevant experience, attendance coverage and responsibility for monitoring quality, safety coordination, deliveries, work interfaces and reporting findings, without assuming the supervisor replaces the consultant or authorised decision-maker. Compare coverage hours, report frequency, escalation and absence cover. At mobilisation, approve a responsibility matrix, daily report template and decision log.
+
+### 40. Residential compound operation
+
+Specify the number of buildings and units, shared areas and amenities in scope, operating hours, expected service requests and how residents submit observations. Provide a compound plan and list building systems and current contractors. Clarify whether cleaning, maintenance, landscaping, waste and facilities follow-up are all included or only selected tasks. Request shift coverage, inspection rounds, a service-request register, follow-up dates and performance reports, with escalation for matters requiring management approval or specialist technicians. Compare team size, service boundaries, response arrangements, reporting and exclusions. At handover, review open requests, escalation procedures and the condition of shared areas.
+
+### 41. Commercial-facility operation
+
+Begin by defining facility use, opening hours, tenant count, shared areas and visitor activity, then allocate cleaning, maintenance and daily coordination responsibilities. Provide a site plan, systems list, delivery windows and work periods that avoid disrupting tenants. Ask for supervisor and staff coverage, service-request handling and monitoring of air-conditioning, electrical and plumbing systems, waste and common areas, including coordination limits with property management and tenants. Compare shifts, coverage hours, performance measures, reports and out-of-scope costs. At handover, review the operating plan, fault and request register, maintenance dates and the person responsible for each action.
+
+### 42. Project support services
+
+Describe the project stage and day-to-day support required, such as delivery coordination, material handling, cleaning, technicians or supervisors. State site, duration, shifts and team numbers. Attach the programme and work-zone plan and identify activities that must not conflict. Clarify who supplies equipment, materials and protective items. Request a quotation specifying personnel and trades, coverage hours, daily reports, attendance, received materials and coordination with the main contractor. Compare capacity for peak periods, absence cover, waiting-time charges and extra-work terms. At close-out, reconcile labour, tasks, equipment and material records against the agreed support scope and document any outstanding follow-up.
+
+## Requesting a quotation when no company is published
+
+A request can be submitted to Biet Al Reef customer service even when no company is displayed for the service. Prepare the following information to help review it:
+
+- Customer name, contact number and preferred contact method.
+- Area: Al Reem Island, with building or site name and available access instructions.
+- Sector, specialty and exact service name used in this guide.
+- Property type, area and relevant room, zone or equipment counts.
+- Description of the need, current condition and expected outcome.
+- Site, surface or equipment photographs, dimensions, drawings or maintenance records where available.
+- Required materials or equipment and any access or working-hour restrictions.
+- Preferred timing or urgency, understood as a request rather than a confirmed booking.
+
+Customer service receives the enquiry, reviews the information and coordinates appropriate follow-up. Submission does not confirm a company, price, appointment or performance.
+
+## Individual tradespeople — separate from companies and establishments
+
+This directory remains separate and is not merged into company-service listings:
+
+- **Homes and buildings cleaning:** home cleaning; villa cleaning; office cleaning; post-construction cleaning.
+- **Upholstery cleaning:** sofa cleaning; carpet cleaning; majlis cleaning; mattress and curtain cleaning.
+- **Façade cleaning:** glass façade cleaning; building façade cleaning; parking cleaning.
+- **Water tanks and pools:** water tank cleaning; tank disinfection; pool cleaning.
+- **Disinfection:** surface disinfection; home disinfection; facility disinfection.
+- **Pest control:** cockroach control; ant control; rodent control; bed bug control.
+

@@ -120,6 +120,96 @@ Provide cabinet drawings, door and drawer counts and approximate weights to sele
 
 Supply a cutting schedule with final dimensions, quantities, grain direction, part labels and visible edges. Agree saw tolerances, drilling, edge-banding, packaging and delivery. Measure sample pieces from each size and inspect labels and edge quality.
 
+## Marble and granite
+
+### 29. Natural marble supply
+
+Specify stone variety, origin, colour range, slab thickness and finish; natural veining differs between slabs. Send area drawings and openings, and establish whether slab selection, transport and cutting are included. Inspect actual slabs and record visible cracks or resin repairs before acceptance.
+
+### 30. Granite supply
+
+State whether granite is for flooring, stairs or counters, together with the finish, slip considerations, thickness and dimensions. Request photographs of the actual slabs rather than catalogue samples alone. Compare cutting, freight and waste costs, then inspect colour, edge chips and piece references.
+
+### 31. Custom marble cutting
+
+Provide a numbered cutting schedule showing length, width, thickness, vein direction, edge profiles and fixing holes. Agree tolerances and joint locations before fabrication; site measurements may differ from drawings. Check finished pieces against a template or accurate dimensions before dispatch.
+
+### 32. Marble grinding and polishing
+
+Identify stone type, scratches, staining and lippage, with photographs under side lighting. Ask for grinding stages, abrasive grades and protection for skirting and furniture, and request a small trial. Inspect consistent sheen and absence of waves or chemical damage.
+
+### 33. Marble floor installation
+
+Supply the tile layout, joints, finished levels and vein direction, and describe the substrate. Compare quotations including surface preparation, bedding materials, cuts and post-installation protection rather than labour per square metre alone. Check flatness, adhesion and joint filling.
+
+### 34. Marble wall and facade cladding
+
+Define cladding height, slab sizes, substrate and proposed fixing method. Anchors and adhesives need a suitable design for loads and exposure. Request corner, joint and opening details and an access plan; inspect fixing security, alignment and finished edges.
+
+### 35. Marble repair and treatment
+
+Identify the cause of stains, cracks or dullness before choosing a treatment; acidic products can damage calcite-based stone. Document defects and affected areas, and clarify the limits of repair and possible colour differences. Approve a test patch and obtain aftercare instructions.
+
+## Kitchen and vanity worktops
+
+### 36. Kitchen worktop fabrication
+
+Measure cabinets after installation and mark sink, hob, joints and overhangs. Specify material, thickness and support at exposed edges, and approve shop drawings before cutting. Compare edge profiling, cut-outs and transport separately, then verify dimensions before fitting.
+
+### 37. Kitchen worktop installation
+
+Check cabinet levelling and fixing before lifting heavy slabs. Agree joint positions, compatible sealant, supports and movement clearance around appliances. Inspect stability, flush joints and sealing around the sink; avoid loading joints before curing.
+
+### 38. Marble vanity fabrication
+
+Specify integrated or countertop basin arrangement, tap and waste positions, and drainage falls. Supply a site template and images of the wall and base, and request corner reinforcement and edge details. Check cut quality and hole positions against the selected fixtures.
+
+### 39. Sink and appliance cut-outs
+
+Use manufacturer templates for sinks and hobs, not rough external measurements, including fixing and ventilation clearances. Agree corner radii, edge distances and reinforcement of weakened sections. Test-fit before permanently fixing appliances or bonding the worktop.
+
+### 40. Quartz worktop installation
+
+Identify the engineered quartz product, thickness and its manufacturer-stated heat and sunlight limitations, particularly near hobs and windows. Compare seam count, support, adhesives and edge detailing. Check pattern alignment, flush joints and sink perimeter sealing.
+
+### 41. Porcelain slab worktop installation
+
+Large-format porcelain needs suitable lifting and cutting equipment to avoid chipped corners. Provide surface dimensions and openings, slab thickness and support details. Agree edge and joint treatments and inspect hairline fractures and cut accuracy before acceptance.
+
+### 42. Worktop repair and repolishing
+
+First establish whether the surface is natural marble, engineered quartz or porcelain: repair methods differ significantly. Photograph chips, stains and heat marks, and test treatments discreetly. Do not mechanically polish products whose manufacturers prohibit it; assess results under working light.
+
+## Ceramic and porcelain tiles
+
+### 43. Ceramic tile supply
+
+Specify wall or floor use, size, finish and suitable slip performance. Quantify area plus cutting waste and identify grout colour and skirting if needed. Request batch and grade references, and inspect matching cartons and corner damage on receipt.
+
+### 44. Porcelain tile supply
+
+Define tile thickness, size, water absorption and appropriate finish, accounting for the handling weight of large formats. Compare supply price with transport, cutting and wastage. Check batch and shade codes, sample flatness and edge condition.
+
+### 45. Outdoor paving tile supply
+
+Describe use, drainage falls and pedestrian or vehicle loading, then select a finish and strength suitable for the design. Compare wet samples where practical, and define thickness, laying system and quantities. Inspect dimensional consistency, breakage and colour against the approved sample.
+
+### 46. Tile cutting and preparation
+
+Provide a layout marking cuts around drains, columns and corners, with final site dimensions. Specify tile type, thickness and cutting equipment, distinguishing exposed edges from concealed cuts. Inspect edge straightness and fine cracking around openings.
+
+### 47. Ceramic tile installation
+
+Check substrate flatness, moisture and waterproofing where needed before tiling. Define layout direction, joint width and bathroom floor falls to drains. Compare quotes including preparation, adhesive and grout; inspect alignment, hollow-sounding tiles and drainage.
+
+### 48. Porcelain tile installation
+
+Large tiles require careful substrate levelling, adhesive coverage, handling and joints; labour price alone is not a sufficient comparison. Request a setting-out plan showing start lines, cuts and room transitions. Inspect edge lippage and secure bedding before handover.
+
+### 49. Skirting tile supply and installation
+
+Specify skirting height, material, colour and actual wall lengths, including corners and door terminations. Agree whether pieces are cut from floor tiles or purpose-made, and how joints and wall interfaces are finished. Inspect consistent height, fixing and clean edges.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Enquiries can be received even when no provider is published. Include the area (Al Reem Island), material and service, customer name and contact number, intended use, quantities, dimensions, photographs, specifications, unloading location and requested date. Customer service can receive and coordinate the enquiry without promising a price, stock or delivery slot. Individual tradespeople remain a separate directory from companies and establishments.

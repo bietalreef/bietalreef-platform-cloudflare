@@ -97,3 +97,26 @@ Tank disinfection usually follows cleaning but should be scoped as a separate ta
 
 For a pool-cleaning enquiry, provide length, width, approximate depth and water volume, lining or tile type, and the condition of the filter and pump. Photograph the water, walls, floor and equipment room, noting algae, scale or a long period without operation. Ask whether the service includes floor and wall brushing, waterline, steps and skimmers, inspection of circulation and water readings before and after treatment. Compare a single visit with recurring service and identify chemical, filter and spare-part costs; cleaning alone should not be presented as a pump repair. At handover, review water clarity, safe equipment operation, test readings and instructions for returning the pool to use.
 
+
+## Pest and rodent control
+
+### 22. Cockroach control
+
+Describe where cockroaches are seen, how often and at what times, and whether activity is noticed in kitchens, bathrooms, service rooms or near drains. Photograph affected areas and mention children, pets or food storage nearby. Ask the provider to explain inspection, identification of food and water sources and entry points, and the difference between baits, targeted treatment and spraying where appropriate. The quotation should state site preparation, any room-clearance period, ventilation and follow-up timing according to product instructions. Compare the treatment plan, report and return visit, then monitor activity points and record recurrence rather than relying on an immediate guarantee.
+
+### 23. Ant control
+
+Map ant trails, entry points and nearby food or moisture sources. Explain whether activity is limited to the kitchen or extends to balconies, planters or corridors. Photograph trails and gathering points; avoid disturbing them before inspection if that would make the source harder to identify. Request a plan for tracing the route, treating entry points and removing attractants, with clear information on the product, application locations and precautions. Compare indoor and outdoor coverage, follow-up and recurrence handling. At handover, obtain storage and cleaning advice and instructions for monitoring trails, and request reassessment if activity continues.
+
+### 24. Rodent control
+
+Record evidence such as droppings, gnaw marks or sounds, where it occurs and when, and photograph possible openings, storage areas and waste points. Do not handle droppings or unidentified bait, and keep children and pets away from affected areas until assessed. Request an inspection identifying entry routes, food and water sources and hiding places, and explaining traps, exclusion work and any specialist treatment. The quotation should identify trap locations, inspection method, removal responsibility and sealing work. Compare prevention and follow-up rather than trap count alone. At handover, review the location report and corrective actions, confirm the next visit and address attractants where practical.
+
+### 25. Bed bug control
+
+If bed bugs are suspected, identify affected rooms, beds and furniture and when signs appeared. Photograph seams, edges and furniture joints without moving items between rooms. Mention adjoining units or recently introduced second-hand furniture because inspection may need to extend beyond the mattress. Ask for a plan covering inspection, treatment method, preparation of bedding and clothing, room-clearance and re-entry instructions, and whether a follow-up visit is needed. Compare heat or chemical methods according to site suitability and product instructions; do not assume one visit will always be sufficient. At handover, obtain monitoring instructions and avoid bringing unchecked items back into treated rooms.
+
+### 26. Periodic pest-control contracts
+
+Prepare a schedule of buildings, rooms and outdoor areas, known pest activity and required visit frequency. Provide a simple plan showing sensitive locations such as kitchens, waste rooms and stores, and mention children, pets or activities that need special coordination. The quotation should define each visit's scope, products and application methods, reporting, re-treatment where activity persists and contract exclusions. Compare visit frequency, reports, response to complaints and variation terms. Review recurring findings and monitoring records regularly, and request a preventive plan addressing entry points, food and moisture sources rather than relying only on scheduled spraying.
+

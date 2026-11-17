@@ -53,5 +53,36 @@ Specify substrate, colour, sheen, quantity and primer system, and state whether 
 Choose products by application location, substrate and complete system rather than trade name alone. Provide the project specification or a photo of the previous product. Compare performance data, compatibility, accessories and shelf life; do not use a substitute without technical approval, and check batch references on receipt.
 #### 21. Delivery of materials to the project
 Delivery requires a material list, quantities, approximate weights, exact site location, unloading point and a time permitted by the site. Clarify whether lifting, unloading or internal movement is included, and agree responsibility for damage, delay and returns. Accept by checking quantities and packaging condition and recording shortages immediately.
+### Wood and panels
 
-undefined
+#### 22. MDF board supply
+Specify board thickness, density, dimensions, required moisture resistance and intended application. Provide a cutting list or cabinet drawings and request face, colour and packaging details. Check flatness, swollen edges and thickness consistency on receipt.
+#### 23. Natural timber supply
+State timber species, grade, moisture condition, required lengths and sections; species and drying affect use and finish. Attach a sample, specification and cutting drawings. Compare grain, knots and straightness, then check dimensions, visible moisture condition and storage before accepting the load.
+#### 24. Plywood supply
+Define plywood by ply count, thickness, adhesive type and interior or exterior grade. Provide dimensions, quantity and application photos. Request edge and moisture-resistance details; inspect delamination, warping, corner damage and dimensional compliance.
+#### 25. Melamine board supply
+Specify core, thickness, colour, texture, both faces and grain direction if relevant. Provide a colour code or sample and cutting plan. Compare scratch resistance, edge quality and batch consistency; inspect for scratches, peeling and colour variation.
+#### 26. HPL board supply
+State thickness, size, colour or pattern, application and installation location, including whether the panels are for cladding or worktops. Provide a reference sample and edge drawings. Request product data and bonding method; inspect flatness, surface and colour before cutting.
+#### 27. Joinery accessory supply
+Select accessories by furniture type, function, hinge or runner dimensions and load capacity. Provide model list, photos and measurements of existing fittings. Compare material, finish, closing action and warranty; test a sample and check all screws and components are included.
+#### 28. Panel cutting and preparation
+Cutting requires a file showing each piece's dimensions, face direction, edges and assembly, allowing for blade width and waste. Provide a numbered cutting plan, board type and thickness. Request piece labels and edge banding if included; check dimensions, angles and labels before collection.
+
+### Marble and granite
+
+#### 29. Natural marble supply
+Specify marble type, grade, thickness, finish, dimensions and quantity. Ask to view actual slabs or batch photos because veining varies between pieces. Provide use layout and joint positions. Compare grading, packaging and transport, and inspect cracks, edges and colour before approving the slabs.
+#### 30. Granite supply
+Select the material by indoor or outdoor use, surface finish, thickness and dimensions. Provide sample photos and area plans. Request batch source and cutting and edge details; inspect consistency, visible defects and dimensions before loading or delivery.
+#### 31. Marble cutting to size
+Cutting needs a final drawing showing dimensions, openings, vein direction and edge profiles. Provide a confirmed site template or measurements and sink or corner drawings. Clarify measurement tolerance and piece numbering. Dry-fit or inspect every piece before transport and verify openings and edges.
+#### 32. Marble grinding and polishing
+First identify stone type, condition, scratch and stain depth and desired finish; grinding may remove surface material. Send side-lit photos and approximate area. Request a trial in a discreet location and a sequence of treatment stages. Accept after checking reflection, even gloss and absence of swirl marks.
+#### 33. Marble floor installation
+Installation needs a layout that accounts for vein direction, levels, joints, slab weight and substrate condition. Provide dimensions, tile sizes and threshold locations. Specify fixing method, setting materials, joints and protection. Check flatness, pattern alignment and stability before polishing the joints.
+#### 34. Marble wall and façade installation
+Interior walls and external façades differ in weight, support, fixing and exposure. Provide wall or façade elevations, fixing drawings and stone type. Request bracket, joint and movement details. Technical design should be reviewed before installation; accept after checking fixings, alignment and edge safety.
+#### 35. Marble maintenance and treatment
+Treatment depends on stain or scratch type, loss of gloss and the condition of previous protection. Send close-up photos and cleaning-product history. Request a stone-compatible trial. Compare local repair with full treatment, then check colour, texture and surface absorption against the agreed result.

@@ -1537,3 +1537,8 @@
 
 - الحالة `in_progress`؛ أُضيف قرار فني قبل التسعير لكل خدمة من خدمات العزل المائي والحراري السبع بالعربية والإنجليزية: [العربية](./general-maintenance/waterproofing-thermal-insulation/content-ar.md) · [English](./general-maintenance/waterproofing-thermal-insulation/content-en.md) · [المراجعة](./general-maintenance/waterproofing-thermal-insulation/review.md).
 - النواقص الدقيقة: تدقيق فني مقارن لخدمات التكييف 1–11 و14، ثم مراجعة جميع تخصصات الشركات في القطاعات الثمانية والتحقق من مطابقة 50 تخصصًا و434 خدمة لكل لغة، وتفرد النصوص وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة 2026-11-17 — قرارات قبول التكييف 5 و7 و9 و11
+
+- الحالة `in_progress`؛ تدقيق تحريري مخصص في [العربية](./general-maintenance/air-conditioning-refrigeration/content-ar.md) و[English](./general-maintenance/air-conditioning-refrigeration/content-en.md) و[المراجعة](./general-maintenance/air-conditioning-refrigeration/review.md): تنسيق الدكت وحواجز الحريق، شروط قياسات التشغيل، سبب فقد وسيط التبريد، وحدود تنظيف المجاري.
+- **أول نقص تالٍ:** المراجعة الدلالية للخدمات 1–4 و6 و8 و10 و12–14 من التكييف، ثم جرد ومراجعة جميع التخصصات الخمسين والخدمات الـ434 بكل لغة، وتوثيق كل مخالفة وتصحيحها قبل الانتقال إلى المويجعي.

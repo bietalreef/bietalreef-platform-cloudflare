@@ -75,6 +75,22 @@ Decorative work turns a concept into buildable drawings, materials and details, 
 #### 21. Complete finishing handover
 Use this service to close a finishing scope delivered by several trades or subcontractors. Prepare a room-by-room checklist covering surfaces, doors, visible electrical and plumbing work, and available material or warranty documents. Appearance alone is not enough: test functions, record defects with photos, assign responsibility and set a reinspection date. The handover record should distinguish accepted items from open items and must not be presented as government approval.
 
+### Gypsum and decor
+
+#### 22. Gypsum ceiling installation
+Ceiling design should follow measured room dimensions, finished heights, AC outlets, lighting positions and maintenance access. Provide a reflected ceiling plan and photos of the existing slab. Ask for board, framing, joint and access-panel specifications; accept after checking level, suspension stability and clean joints.
+#### 23. Gypsum partition walls
+Gypsum partitions divide space or form wall linings. Specify height, thickness, door openings and any loads to be supported. Provide dimensioned plans and service locations, then compare framing, board layers, insulation and infill. Check alignment, anchoring and joint treatment before painting.
+#### 24. Cove lighting
+A cove detail must coordinate the recess shape, light source, wiring route and future access. Provide a section drawing showing depth, width and lighting type, and request a lighting test before closure. Accept for even illumination, accessible maintenance and concealed wiring without visible hotspots.
+#### 25. Decorative gypsum work
+Decorative profiles need shop drawings showing dimensions, repetition and how corners meet doors and ceilings. Attach a reference image and wall or ceiling measurements, and request a sample or profile mock-up before production. Check pattern consistency, straight edges, secure fixing and smooth finishing.
+#### 26. Wood-look panel installation
+Panel selection depends on location, moisture exposure, cleaning and fixing method; a similar image colour is not enough. Provide wall area, obstructions and socket positions. Ask for panel type, thickness, surface layer and edge treatment, then inspect joint alignment, grain continuity and fixing stability.
+#### 27. Marble-look panel installation
+Review panel size, thickness, surface, moisture suitability and joint method, especially around sinks and corners. Send area dimensions and opening photos, and specify vein direction and joint count. Compare adhesive, edge and sealing details; inspect flatness, pattern matching and clean joints.
+#### 28. Gypsum repair and maintenance
+First establish whether damage came from impact, moisture, framing movement or failed fixing. Send close and wide photos and report any leak or vibration. The quote should separate removal, support reinforcement and reinstatement. Accept after checking stability, texture match and paint finish.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

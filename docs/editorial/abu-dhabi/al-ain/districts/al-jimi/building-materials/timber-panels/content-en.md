@@ -64,7 +64,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 6. Joinery hardware supply
 
-**Use case and preparation:** For this order, send a drawing stating hinge, runner and handle quantities, dimensions, load ratings and fixing models, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and supply scope:** Joinery hardware is needed for new cabinetry or when existing hinges and drawer runners cannot safely support a door or drawer. Photograph the existing fitting and its model number if available; measure board thickness, cabinet depth, door or drawer width and opening clearance. Provide a schedule of hinge, runner and handle quantities with required load ratings. The quotation covers only the specified components and accessories; drilling, installation, front alignment and on-site testing require separate agreement.
 
 **Additional survey:** Provide a hardware schedule with door and drawer sizes, hinge types, runner lengths and load requirements.
 

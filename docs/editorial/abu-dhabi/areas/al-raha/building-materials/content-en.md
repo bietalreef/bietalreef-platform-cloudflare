@@ -103,3 +103,19 @@ Quartz slabs are selected by thickness, colour, pattern direction, joint length 
 Review slab thickness, support method and protection of edges and openings against chipping. Provide fabrication drawings, piece dimensions and joint positions. Specify the fixing and cutting system. Inspect surface alignment, openings, joints and edges for cracks before use.
 #### 42. Surface maintenance and repolishing
 First identify the surface material and the cause of dullness, scratching or staining; polishing methods differ between marble, quartz and other products. Send side-lit photos and cleaning-product history and request a local trial. Check colour, gloss, texture and absence of new marks.
+### Ceramic and porcelain
+
+#### 43. Ceramic tile supply
+Specify size, thickness, finish, indoor or outdoor use, grade and quantity, including a suitable waste allowance. Provide sample photos or product code and an area layout. Request batch identification; inspect colour and size variation and breakage before accepting the full quantity.
+#### 44. Porcelain tile supply
+Define porcelain by size, thickness, declared absorption, finish and use rating, checking suitability for floor or wall application. Provide product specification and sample. Compare grade, batch, packaging and spare-stock availability; inspect edges, flatness and colour before delivery.
+#### 45. Outdoor tile supply
+Select outdoor tiles for traffic, water and sun exposure, surface texture and site drainage. Provide area photos, level plan and intended use. Request the product's slip-resistance data against the project specification. Check batch consistency and undamaged edges before installation.
+#### 46. Tile cutting and preparation
+Cutting needs a schedule showing piece dimensions, pattern direction, openings, corners and skirting. Provide a numbered plan, confirmed measurements and batch number. Specify edge protection. Check each piece against its number and dimensions before transport to reduce waste and recutting.
+#### 47. Ceramic tile installation
+Begin by checking substrate flatness, falls, joints and tile layout around doors and drains. Provide tile size, layout and base photos. Specify adhesive and joint width. Check row alignment, falls, hollow areas and lippage after curing.
+#### 48. Porcelain tile installation
+Porcelain installation requires a prepared substrate and materials and tools suitable for tile size and thickness, especially for large formats. Provide tile data, cutting plan and openings. Request a layout that avoids narrow slivers. Inspect lippage, joints, bond and cuts around doors and drains.
+#### 49. Skirting supply and installation
+Measure skirting by wall length, height, floor type, corners and door positions, and state whether it should match the floor tile or use another material. Provide room plans, corner photos and samples. Specify cutting, joints and colour; inspect top-line straightness, consistent height and clean junctions.

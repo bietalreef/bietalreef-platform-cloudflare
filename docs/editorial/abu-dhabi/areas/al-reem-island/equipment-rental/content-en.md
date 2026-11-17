@@ -225,3 +225,24 @@ Specify the load type, dimensions, weight, required trip count, collection and d
 
 This service is useful when a vehicle is arranged but the project needs labour and equipment to handle materials or machinery on site. Specify load type, weights, dimensions, unit count, lifting height and internal carrying distance, and provide photographs of corridors and storage points. Request crew and supervisor numbers, handling equipment, protective materials, work duration and damage responsibility; clarify whether a forklift, trolley or other lifting aid is required. Compare crew capability, experience and the basis for time and waiting charges. At completion, reconcile moved quantities, confirm placement at the agreed locations and check that routes and packaging remain in good condition.
 
+
+## Concrete, block and cement-product factories
+
+> This is a newly proposed specialty in the source taxonomy. Its inclusion in this editorial draft does not make it selectable or active; taxonomy status must be reviewed before operational use.
+
+### 50. Ready-mix concrete manufacturing
+
+A ready-mix enquiry needs more than a volume. Provide the project mix specification, required grade or strength, engineer-defined workability, quantity, pour location and timing. Explain truck access, turning and standing space, whether a pump is needed and its required reach, and the planned pour sequence. Compare mix design, delivered quantity, transport, pumping, waiting time and treatment of unused concrete. Request a delivery ticket identifying the batch. If the project specification calls for sampling or testing, agree responsibility and timing in advance. At delivery, check load details, arrival time and quantity before discharge begins.
+
+### 51. Block and masonry-unit manufacturing
+
+Specify the unit type, intended use, dimensions, thickness and quantity, referring to drawings and designer specifications to distinguish structural units from partitions or other applications. Provide wall schedules, heights and openings so quantities and reasonable wastage can be assessed. Ask for dimensions and tolerances, unit weight, pallet arrangement and packaging, plus any technical data or test results available for the specified product rather than assuming they exist. Compare unit price, transport, pallet count and replacement terms for breakage. On receipt, inspect dimensional consistency, edges and unacceptable damage, and reconcile type and quantity with the purchase order.
+
+### 52. Cement-product manufacturing
+
+This category covers different products, so name the required item instead of requesting generic “cement products”. Provide drawings, a sample or photographs and specify length, width, thickness, shape, colour, texture and quantity, together with any reinforcement or load requirement defined by the project design. If an item serves an opening, route or particular load, attach its location and bearing details. Ask the factory to explain mould preparation, production and curing time, tolerances, lifting and storage methods. Compare samples, specifications, finish, mould charges and delivery. Inspect dimensions, edges, visible cracks and batch consistency before installation.
+
+### 53. Project product supply
+
+Project supply is different from an immediate retail purchase because deliveries may need to follow construction progress in separate batches. Prepare a schedule listing each product name and reference, dimensions, quantity, required batch and storage location. Attach drawings or specifications that prevent substitution with a superficially similar item. Confirm delivery windows, unloading arrangements, responsibility for lifting equipment and labour, and return of pallets or packaging where applicable. Compare product conformity, batch availability, delivery programme, transport, unloading and shortage or breakage terms rather than unit price alone. At each delivery, reconcile product references, batch and quantities against the purchase order and record damage or shortages before signing the receipt.
+

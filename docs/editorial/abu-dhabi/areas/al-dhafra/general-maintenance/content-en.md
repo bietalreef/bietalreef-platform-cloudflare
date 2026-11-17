@@ -4,7 +4,7 @@ This file currently covers only the first two specialties—General Maintenance 
 
 ## Current coverage
 
-This version completes five of ten specialties and 49 of 105 services. It must not be treated as a complete sector directory.
+This version completes seven of ten specialties and 77 of 105 services. It must not be treated as a complete sector directory.
 
 
 ## General Maintenance
@@ -266,6 +266,152 @@ State sensor purpose, coverage area, mounting height and connected lighting or s
 ### Lighting fixture maintenance
 
 List failed fixtures, quantities, heights and types, noting whether the fault appears to involve the lamp, driver or wiring. Provide label photographs if available; request compatible replacement parts and access arrangements, then test lighting after repair.
+
+
+## Plumbing and Leak Detection
+
+
+### Water supply pipework first fix
+
+Provide bathroom, kitchen, tank and appliance layouts, identifying the supply source and proposed pipe routes. Specify materials, diameters, valves, isolation points and testing, and photograph routes before walls or floors are closed for future maintenance.
+
+
+### Drainage pipework first fix
+
+Mark sanitary fixtures, drains, outlet diameters, floor levels and connection routes. Request gradients, cleanouts and venting details, then test flow and leakage before concealing pipes and record their locations on the as-built plan.
+
+
+### Sanitary fixture installation
+
+List each fixture type and model, supply and waste points and installation heights, with photographs after initial finishing. Compare fixing, sealing, silicone, accessories and leak testing, not just the fixture price.
+
+
+### Water tank installation
+
+State tank capacity, material, location, height and delivery access, and describe the base and inlet, overflow and drain routes. Specify material, cover, float valve, connections and support, then inspect base stability, leakage and cleaning access.
+
+
+### Water pump installation
+
+Provide required flow and pressure, number of outlets, lift height and electrical supply, with photographs of the pump location. Specify duty curve, dry-run protection, vibration and noise isolation and valves, then test pressure and operation under a suitable load.
+
+
+### Pipework rehabilitation
+
+Identify pipe age, material, fault locations and previous repairs, providing plans or accessible-area photographs. Request an assessment distinguishing local replacement from full network renewal, with isolation, pressure testing and records of concealed joints before reinstatement.
+
+
+### Drainage network maintenance
+
+Describe blockages, odours or slow drainage, identifying affected outlets and recurrence. Request an inspection locating the obstruction and its cause, then test flow and ensure inspection covers are reinstated and the work area cleaned.
+
+
+### Water leak detection
+
+Record meter readings or changes if available, damp locations and when symptoms occur, noting whether leakage is continuous. Agree the detection method and inspection limits before opening finishes, and request a report identifying the likely area, confidence and next step.
+
+
+### Pipe leak repair
+
+Identify pipe material, leak location and access, providing photographs of the affected area and visible joints. Specify replacement length, fittings and materials, then pressure- or flow-test before closing the wall or floor and retain repair photographs.
+
+
+### Tank leak detection
+
+State tank type, material, capacity, location, water level and observed loss rate, distinguishing leakage from consumption. Request a suitable test of the tank body, fittings and supply lines, documenting findings before choosing a repair.
+
+
+### Bathroom waterproofing
+
+Provide bathroom dimensions, substrate photographs, drain and penetration locations, and state whether this is new work or remediation. Specify waterproofing system, substrate preparation, upstands, corners and penetrations, and the appropriate ponding or other test before tiling.
+
+
+### Roof waterproofing
+
+State roof area, falls, drains, existing membrane type, equipment and penetrations. Require substrate inspection, crack repair, edge and upstand details, membrane and protection layers, with a documented test before reinstating finishes.
+
+
+### Water tank waterproofing
+
+State tank type and substrate and whether it stores water for use, providing photographs of cracks, peeling or joints. Specify a waterproofing product suitable for the intended use with product documentation and curing instructions, then test filling and leakage before recommissioning.
+
+
+### Moisture remediation caused by leaks
+
+Do not repaint until the leak source is confirmed to have stopped. Record wet area, damage depth and affected materials, and request a drying plan, removal of deteriorated sections, treatment of salts or mould where present, and reinstatement after the substrate is verified dry.
+
+
+## Air Conditioning and Refrigeration
+
+
+### Split air-conditioning installation
+
+State room area and height, solar exposure, occupancy, outdoor-unit location, pipe route and condensate drain. Request suitable capacity selection and details for insulation, bracket, power and commissioning, including condensate and cooling tests.
+
+
+### Central air-conditioning installation
+
+Provide architectural plans, zone areas, available heat-load data, equipment locations and service rooms. Request system capacity, air distribution, controls and maintenance design, separating equipment supply from ductwork, insulation, commissioning and testing.
+
+
+### Concealed ducted air-conditioning installation
+
+Specify ceiling void height, duct routes, service-unit positions, access panels and drainage. Request coordinated drawings for air-conditioning, lighting and gypsum, including air pressure, noise and access to filters and maintenance points.
+
+
+### Air-conditioning refrigerant pipework
+
+State system type, connection distance, height differences, pipe route and penetrations, providing a plan or route photographs. Specify pipe diameters, insulation, supports, physical protection and pressure and evacuation tests before charging the system.
+
+
+### Air duct installation
+
+Provide air-distribution plans, opening sizes, ceiling and service-clash locations, and specify duct material and insulation. Require suspension, joint, sealing and inspection-access details, then check leakage, vibration and air distribution during commissioning.
+
+
+### Air-conditioning unit replacement
+
+Provide existing unit data, capacity, electrical supply, installation-space dimensions and fault symptoms, with a nameplate photograph. Compare capacity, efficiency, pipe and control compatibility and warranty, and clarify removal and disposal of the old unit.
+
+
+### Air-conditioning system commissioning and inspection
+
+Provide unit and zone lists, system drawings and previous installation records if available. Request commissioning measurements for temperature, pressure, airflow, current and condensate drainage, with per-unit readings, defects and corrective actions.
+
+
+### Air-conditioning unit cleaning
+
+Identify unit type, location and quantity, noting weak airflow or odours and the last known cleaning. Specify cleaning of filters, coils, drain pan, fan and accessible components, protecting furnishings and electrical parts and testing operation afterward.
+
+
+### Refrigerant recharge
+
+Do not request a recharge without checking the cause of poor cooling or refrigerant loss; provide unit type, data and symptoms. Require leak inspection and repair where needed, using the refrigerant type and quantity specified for the unit, with post-charge readings recorded.
+
+
+### Air-conditioning fault repair
+
+Describe the fault, timing, error codes, unusual noise or leakage, and provide a nameplate photograph or short video. Request diagnosis identifying component and cause before replacement, followed by operational and performance tests.
+
+
+### Air duct cleaning
+
+State the number of units, ducts and zones with dust or odour concerns, and request an inspection of access openings and insulation. Agree cleaning and dust-containment methods, site protection, before-and-after photographs and a report of inaccessible sections.
+
+
+### Central air-conditioning maintenance
+
+Provide equipment inventory, operating hours, fault history and previous service results, stating whether work is urgent or scheduled. Request checks of filters, coils, fans, belts, pumps, controls and drainage, with readings and consumable parts recorded.
+
+
+### Air-conditioning spare-parts replacement
+
+Provide unit model and part number or a clear photograph, identifying the fault that prompted replacement. Confirm compatibility, part source and condition and warranty, retaining the removed part and recording the unit test after installation.
+
+
+### Preventive air-conditioning maintenance contracts
+
+Prepare a schedule of units, capacities, locations, operating hours and access conditions, and define visit frequency and response expectations. Compare inspections, cleaning, consumables, excluded parts, reporting and emergency coverage, including travel to the actual Al Dhafra sites.
 
 ## Request, comparison and handover
 

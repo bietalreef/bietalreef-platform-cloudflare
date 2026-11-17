@@ -4,13 +4,13 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 1. Cement supply
 
-**When and what to provide:** For cement supply to an Al Jimi project, supply approved cement grade, bag weight and count, production date and dry storage, plus relevant site or sample photos and drawings. Check production date and dry-storage requirements before accepting a cement batch.
+**When this is needed and what to send:** For mortar, plaster or concrete work, provide the cement type and grade from the approved specification, bag count and weight, intended use and delivery sequence. Photograph the pallet unloading access and identify whether a crane or manual handling is needed. Specify a dry, sheltered storage area.
 
-**Quotation scope and comparison:** Compare price per bag against weight, grade, manufacturing date and pallet unloading; avoid treating different bag weights as equivalent and require dry storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Request manufacturer, type, grade, pack weight, batch identification, production date and any project-required compliance documents. Compare equivalent total weights rather than bag counts alone. Separate transport, lifting and unloading charges. Mixing, concrete placement and on-site suitability testing are not part of cement supply unless expressly contracted.
 
-**Agreement and acceptance:** Agree cement batch references, delivery window and dry storage location before signing receipt. At receipt, verify grade and batch match, sealed dry bags without lumps. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Agree delivery batches, product-specific storage limits and who replaces torn or moisture-damaged bags. On arrival match grade, bag weight, batch markings and invoice, checking for damp packaging and visible lumps. Segregate suspect stock pending a competent acceptance decision; visual inspection alone cannot certify technical compliance.
 
-**Requesting quotes:** Provide the approved cement grade, bag count and weight, and dry-storage location; request brand, production date, pallet unloading cost and damaged-bag replacement terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Send the approved specification, quantity by weight or bag count and size, and unloading/storage photographs. Ask for itemised delivery, batch dates and damaged-bag replacement terms. Biet Al Reef customer service may help prepare the request without guaranteeing a supplier, price or delivery date.
 
 ## 2. Sand supply
 
@@ -34,23 +34,23 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 4. Block and brick supply
 
-**When and what to provide:** For block and brick supply to an Al Jimi project, supply block dimensions, thickness, solid or hollow type, specified strength and piece count, plus relevant site or sample photos and drawings. Verify block dimensions, strength and approved type before delivery.
+**When this is needed and what to send:** For internal or external masonry walls, provide wall drawings, the block schedule, dimensions, thicknesses and specified strength. Identify solid, hollow or insulating blocks as applicable. Include an approved sample photo, pallet unloading location and safe storage area.
 
-**Quotation scope and comparison:** Compare unit prices by dimensions, thickness and strength, with pallet counts, allowable breakage and replacement of damaged blocks. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Compare unit prices only for matching dimensions, strength and pieces per pallet. Ask for project-required test evidence and clarify breakage allowance, replacement, pallet charges, lifting and transport. Masonry installation, mortar and on-site strength testing are outside material supply unless separately agreed.
 
-**Agreement and acceptance:** Record block dimensions, permitted breakage and replacement terms for damaged pallets. At receipt, verify unbroken edges, correct dimensions and piece count. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record block type, delivery lots and how nonconforming dimensions or damaged pieces will be rejected. Check representative pieces from multiple pallets, count units and compare dimensions, edges and labels with the purchase order. Photograph and record breakage before distributing pallets. Structural material approval remains with the responsible professional.
 
-**Requesting quotes:** Provide the block schedule with dimensions, type, strength and piece count; request unit and pallet prices, breakage allowance and replacement terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Send block dimensions, types, quantities and specified strength. Ask for piece and pallet prices, lifting, damage/replacement terms and available technical evidence. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or timing.
 
 ## 5. Reinforcing steel supply
 
-**When and what to provide:** For reinforcing steel supply to an Al Jimi project, supply bar diameters, steel grade, lengths, tonnage and approved bar schedule, plus relevant site or sample photos and drawings. Request reinforcement compliance certificates for the specified diameters and grades.
+**When this is needed and what to send:** Supply the approved reinforcement bar schedule with diameters, lengths, grades and weights, and state whether straight bars or cut-and-bent reinforcement is required. Photograph truck access, crane position and raised storage supports.
 
-**Quotation scope and comparison:** Compare tonne price by diameter, grade, actual weight and certificates; allocate crane, unloading and bar sorting responsibilities. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Scope and quote comparison:** Compare prices per tonne for equivalent grade, diameter and documented delivery weight. Ask for manufacturer markings, origin, batch traceability and compliance certificates. Itemise cutting, bending, transport, crane hire and unloading where excluded. Fixing, tying and engineering inspection of installed reinforcement are not part of steel supply unless explicitly included.
 
-**Agreement and acceptance:** Approve the bar bending schedule and allocate lifting and sorting duties before dispatch. At receipt, verify identification, certificates, quantities and absence of damaging defects. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Define weighing evidence, traceability documents, procedures for incorrect diameters or lengths and responsibility for waiting and lifting. At receipt compare bundle tags, bar markings and quantities with the schedule and delivery note; check for damaging defects or significant corrosion. Do not substitute grade or diameter without the responsible engineer's approval.
 
-**Requesting quotes:** Attach the approved reinforcement schedule showing bar sizes, grades, lengths and weights; request tonne pricing, certificates, crane charges, sorting and unloading. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Attach the approved bar schedule, access photos and unloading details. Request grade-specific tonne rates, cutting/bending and lifting charges, certificates, delivery stages and shortage remedies. Biet Al Reef customer service can help structure the request without guaranteeing a supplier, price or date.
 
 ## 6. Ready-mix concrete supply
 

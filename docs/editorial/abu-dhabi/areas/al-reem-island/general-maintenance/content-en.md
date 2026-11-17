@@ -384,6 +384,66 @@ Collect examples of blurred or interrupted footage and recording gaps. Check len
 
 Identify recorder model, connectivity and account ownership before enabling remote viewing. Prefer secure access with strong authentication over unnecessary open ports. Compare app limitations, alerts, data use and subscriptions. Test live view and notifications on the owner's device, then revoke temporary technician access.
 
+## Painting
+
+### 92. Villa painting
+
+Survey villa rooms, ceilings and façades separately and photograph peeling, damp patches and cracks. Measure net painted areas and specify furniture and floor protection, filler, primer, coats and product. Diagnose moisture before coating. Compare preparation, materials, drying time and exclusions. Accept uniform colour, clean edges and no roller marks or staining in daylight.
+
+### 93. Apartment painting
+
+For an occupied apartment, provide room dimensions, wall photographs, furniture-moving constraints and permitted working hours. Price hole and hairline-crack repairs separately from painting. Specify washable finish, odour, ventilation and reoccupation time. Approve colour samples on site; inspect corners, sockets, flooring protection and final cleanup.
+
+### 94. Exterior building painting
+
+Inspect render, existing coating, cracks and water-entry points before specifying weather-resistant exterior paint. Provide façade heights, photographs, access method and protection zones. Compare surface preparation, primer, finish coats, application conditions and warranty terms. Check adhesion, consistent coverage and treatment around joints.
+
+### 95. Door and woodwork painting
+
+Identify timber or veneer, existing finish, door leaves, frames and hardware. Photograph scratches and peeling and clarify workshop versus on-site finishing. Compare sanding, filling, primer and spray or brush systems. Inspect for runs and uneven sheen, and confirm doors open freely without sticking at the edges.
+
+### 96. Decorative paint finishes
+
+Request a physical sample showing texture, gloss and colour under the property's lighting, not just a finish name. Specify wall area, substrate and future cleaning needs. Compare layers, application skill and whether local repairs will blend. Approve a mock-up and inspect pattern consistency and junctions with adjacent surfaces.
+
+### 97. Stripping and treating old paint
+
+Investigate moisture, poor adhesion or incompatible coatings before stripping. Photograph affected areas and record known paint age and substrate; avoid dry abrasion of unknown potentially hazardous coatings without specialist assessment. Require dust containment, safe removal, cause remediation and an adhesion trial. Accept only sound, dry, stable new layers.
+
+### 98. Paint maintenance and repainting
+
+Map stains, scratches and colour differences before assuming the whole property needs repainting. Supply daylight photographs and any existing colour code. Compare local touch-ups with full-wall repainting, since aged paint may not blend. Inspect sheen, patch edges, surrounding surfaces and cleanup at handover.
+
+## Waterproofing and thermal insulation
+
+### 99. Roof waterproofing
+
+Survey roof falls, outlets, penetrations, joints and ponding; provide safe photographs after rain where available. Supply roof dimensions and require details for upstands, equipment bases, membrane or coating system and protective layers. Compare preparation, joint treatment and agreed testing. Document drainage and seam integrity before acceptance.
+
+### 100. Bathroom waterproofing
+
+Coordinate bathroom waterproofing with drains, pipe penetrations, thresholds and wall upstand heights before tiling. Provide floor dimensions and plumbing photographs. Specify primer, corner reinforcement, coats and curing time. Arrange an appropriately supervised flood test where suitable and safe, and record acceptance before covering the membrane.
+
+### 101. Tank waterproofing
+
+Identify tank construction, volume, cracks and whether water is intended for drinking. Specify a product suitable for potable-water contact where relevant, and safe tank cleaning, ventilation and confined-space procedures. Compare substrate repairs, curing and leakage tests. Return the tank to service only after product instructions and water-safety checks are satisfied.
+
+### 102. Building thermal insulation
+
+Identify whether the target is a roof, wall or ceiling over conditioned space. Review construction thickness, thermal bridges and condensation risk. Request sections, measurements, thermal conductivity, insulation thickness and relevant fire-performance information. Compare continuity, joint detailing and fixing, not merely price per square metre. Inspect gaps before enclosure.
+
+### 103. Exterior wall waterproofing
+
+Trace dampness to façade cracks, joints or concealed services before selecting wall treatment. Provide crack photographs, exposure orientation and interior damage. Require adhesion and compatibility checks with existing cladding or paint. Compare crack repair, joint sealing, system specification and access. Inspect window perimeters and penetrations at handover.
+
+### 104. Rainwater ingress remediation
+
+Rainwater may enter through window joints, service penetrations or blocked drains rather than directly above the indoor stain. Record timing, rainfall direction and before/after photographs. Request tracing of drainage, falls and joints with minimal unnecessary demolition. Price diagnosis, repair and reinstatement separately; verify the entry route with a suitable safe test where feasible.
+
+### 105. Waterproofing maintenance
+
+Review the existing waterproofing system, installation date, previous patches and photographs of blisters, lifted seams or ponding. Do not apply incompatible patch materials without inspection. Specify repair area, cleaning, lap detailing and curing. Compare local repair with wider renewal for recurring failures. Record detail photographs, agreed tests and repair warranty.
+
 ## Request a quotation
 
 Biet Al Reef customer service accepts requests whether or not companies are published. Provide your name, contact number, Al Reem Island location, service, property type, fault description, photographs, dimensions or equipment counts where relevant, and access constraints. A request is not a confirmation of provider availability, price or appointment.

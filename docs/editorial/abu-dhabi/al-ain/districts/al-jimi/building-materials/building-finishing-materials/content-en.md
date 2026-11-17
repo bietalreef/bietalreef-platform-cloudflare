@@ -56,7 +56,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For ready-mix concrete supply to an Al Jimi project, supply specified strength, workability, volume, pour slot, pump access and testing plan, plus relevant site or sample photos and drawings. Coordinate mixer arrival, pour access and mix testing with the supervising engineer.
 
-**Quotation scope and comparison:** Compare cubic-metre price by strength, workability and haul distance; itemise pump, waiting, tests and short-load charges and confirm the pour window. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare cubic-metre price by strength, workability and haul distance; itemise pump, waiting, tests and short-load charges and confirm the pour window. Clarify whether pumping, transport, sampling and waiting time are included or charged separately. Fresh concrete cannot be returned like packaged goods: agree in advance how delayed trucks or a nonconforming load will be handled, and who authorises acceptance before discharge. Placement, compaction, curing and engineering inspection are excluded from mix supply unless explicitly included.
 
 **Agreement and acceptance:** Confirm pour slot, mixer arrival window, pump responsibility and sampling with the supervising engineer. At receipt, verify batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 

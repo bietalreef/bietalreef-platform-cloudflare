@@ -178,6 +178,67 @@ Identify whether the problem lies in fronts, hinges, worktops or damaged profile
 
 Photograph faulty hinges and runners and record dimensions and any part references. Request door adjustment before deciding which components need replacement, checking replacement compatibility with existing holes. Compare labour, parts and warranty, and cycle each door and drawer repeatedly.
 
+
+## Glazing and glass facades
+
+### 43. Glass facade installation
+
+Facade work requires engineering for wind loads, building movement, drainage and structural support, not area measurements alone. Request system drawings, profiles, glazing, fixings and movement joints reviewed by qualified specialists. Compare performance testing, maintenance and warranties; verify anchors, seals and project documentation at handover.
+
+### 44. Tempered glass installation
+
+Establish panel location, purpose and design thickness, then survey openings and fixing points before fabrication: tempered glass cannot be cut after toughening. Compare product documentation, edges, holes and hardware. Check scratches, metal contact and safe handling during installation.
+
+### 45. Shopfront fabrication and installation
+
+Record entrance width, customer flow, signage, doors and any escape requirements in the approved shop design. Specify glass, frames, thresholds, locks and rainwater management. Compare supply, fitting and protection during works; test doors and inspect alignment and display visibility.
+
+### 46. Glass door installation
+
+Measure opening, height, clearance and swing, and establish leaf weight, hinges or pivots and closing mechanism. Specify safety glazing appropriate to the system and visibility markings where needed. Compare hardware and maintenance provisions; test safe closing and collision clearance.
+
+### 47. Glass partition installation
+
+Define privacy, acoustic performance, circulation and concealed floor or ceiling services. Request drawings showing profiles, doors, glazing and anchorage. Compare performance, finish and removability; check partition alignment, stability and joint sealing.
+
+### 48. Glass balustrade installation
+
+This is a fall-protection element requiring an engineered design for the relevant loads and anchorage to a suitable slab or structure. Record height, dimensions, glass specification, edges and hardware; do not accept an unengineered decorative solution. Inspect design records, anchors and stability before handover.
+
+### 49. Glass facade maintenance
+
+Photograph leaks, breakage or failed gaskets from a safe position, identifying access height and pedestrian protection needs. Diagnose support and drainage systems before replacing panels. Compare sealants, compatible components and access plans; verify weather sealing after repair and record inspections.
+
+## Steel and metal fabrication
+
+### 50. Steel door fabrication
+
+Measure the opening, handing and use, and establish leaf weight, frame, hinge and lock positions. Request sections, weld details, corrosion protection and finish. Compare fitting, hardware and delivery; inspect alignment, operation and weld quality before final coating.
+
+### 51. Metal balustrade fabrication
+
+Define the guard's location, safety function, height and anchorage to stairs or slab. Request drawings for design loads, sections, openings and finish, with engineering review as required. Compare anchors and corrosion protection; inspect stability, edges and fixings.
+
+### 52. Canopy fabrication
+
+Record dimensions, vehicle and pedestrian paths, drainage direction and fixing locations. Require structural consideration of wind, loads, framing and covering rather than selecting by dimensions alone. Compare foundations, coatings, drainage and warranty; inspect slope, anchors and fabric or panel tension.
+
+### 53. Steel structure installation
+
+Use approved structural drawings showing loads, members, connections, anchors and erection sequence. Identify lifting access and exclusion zones before pricing. Compare fabrication, inspection, corrosion protection and erection; verify drawings, welding records and bolted connections.
+
+### 54. Stainless-steel fabrication
+
+Select steel grade and finish for intended use, moisture exposure and cleaning agents. Provide dimensions for rails, counters or cladding, including edges and joints. Compare metal thickness, welding and polishing; inspect stains, scratches and joint consistency.
+
+### 55. Welding services
+
+Identify metal, thickness, joint purpose and whether the connection is structural; a light repair differs from structural welding. Request suitable procedures, qualifications where needed and spark and fire controls. Compare preparation, inspection and recoating; check visible defects and required test records.
+
+### 56. Metalwork maintenance
+
+Diagnose corrosion, cracked welds, loose anchors or binding gates before prescribing repairs. Photograph and measure damaged parts, and specify root-cause treatment and corrosion protection. Compare repair against replacement and warranty limits; inspect joint integrity and operation after work.
+
 ## Request a quotation through Biet Al Reef customer service
 
 Requests can be submitted even if no provider is published. Include customer name and contact number, Al Reem Island location, service name, site photographs and available dimensions, preferred material and finish, and a proposed survey window that is not a confirmed appointment. Pricing and availability must be checked separately.

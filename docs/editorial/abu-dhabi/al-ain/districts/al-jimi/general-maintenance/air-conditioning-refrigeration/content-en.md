@@ -162,6 +162,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Safety and scope clarification:** Rooftop and plant-room maintenance requires safe-access arrangements and electrical isolation, with shutdowns and lifting equipment clearly identified. Log each unit's ID, readings, filters, belts and drains; require written approval before additional parts are replaced.
 
+**Additional operational review:** Before central-unit servicing, request fault history, previous operating readings and an agreed shutdown window compatible with building occupancy. The quote should identify safe energy isolation, checks of filters, belts, fans, heat exchangers and condensate drainage as relevant to the equipment, and excluded replacement parts. At handover, compare recorded before-and-after readings under stated operating conditions and list faults requiring separate repairs; routine servicing does not guarantee every fault is resolved.
+
 ## 13. AC spare-part replacement
 
 **When to request it:** A fan, sensor or capacitor fault does not justify replacing an entire board without diagnosis and compatibility checks.
@@ -175,6 +177,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Request a quotation:** Provide unit and component numbers with diagnostic findings; ask whether the part is genuine or approved equivalent, its warranty, labour and old-part return.
 
 **Safety and scope clarification:** Match the replacement part to the exact equipment model, electrical ratings and manufacturer requirements; visual similarity is not proof of compatibility. Specify origin, warranty and return of the old component where practical, then document a functional test of the original fault.
+
+**Replacement compatibility review:** Provide the unit nameplate, old part number and diagnosed reason for replacement. Compare the proposed part number, ratings and documented compatibility with the equipment model before accepting a quote. Separate the part, diagnosis, labour and any refrigerant work; agree component and installation warranties and disposal or return of the removed part. At handover, record the installed part number and test the function associated with the original fault rather than accepting an unsupported claim of an 'equivalent' part.
 
 ## 14. Scheduled AC maintenance contracts
 

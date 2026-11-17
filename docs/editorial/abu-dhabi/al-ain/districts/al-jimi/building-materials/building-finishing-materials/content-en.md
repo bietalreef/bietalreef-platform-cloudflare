@@ -116,7 +116,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For sanitary fixture supply to an Al Jimi project, supply fixture models, connection dimensions, mixers and fixing accessories, plus relevant site or sample photos and drawings. Confirm sanitary fixture dimensions, drain positions and fixing accessories.
 
-**Quotation scope and comparison:** Compare model, finish, warranty, accessories and connection positions; separately price traps, mixers and any missing fittings. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare sanitary fixtures by exact model, basin or toilet dimensions, outlet position, finish and included fixing kit. Price mixers, traps, isolation valves and connectors separately, and specify fragile-item packing, delivery and lifting charges. Supply does not include relocating water or waste points, fitting fixtures or leak testing unless separately contracted.
 
 **Agreement and acceptance:** List sanitaryware models and fittings and protect fragile units during handling. At receipt, verify correct models, finishes and accessories without cracks or scratches. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -126,7 +126,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For electrical installation material supply to an Al Jimi project, supply cable cross-sections, insulation ratings, breakers and switches per load schedule, plus relevant site or sample photos and drawings. Match voltage, current and cable cross-sections to the approved electrical design.
 
-**Quotation scope and comparison:** Compare cable sizes and breaker ratings against approved schedules and certificates; check reel lengths and delivery costs. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Align offers by conductor material, cable cross-section, insulation class and reel length, and by breaker model, breaking capacity and approved ratings. Request traceability and applicable conformity documents; separate delivery, reel handling and damage protection. Cable pulling, panel termination, insulation tests and earthing tests are installation and inspection tasks, not part of material supply.
 
 **Agreement and acceptance:** Match cable, breaker and accessory ratings against the approved electrical schedule. At receipt, verify ratings, markings and required approvals without unapproved substitutions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -136,7 +136,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For plumbing installation material supply to an Al Jimi project, supply pipe material, diameters, pressure class, compatible fittings and valves, plus relevant site or sample photos and drawings. Match pipe diameters, materials and pressure class to the plumbing drawings.
 
-**Quotation scope and comparison:** Compare pipe material, diameter, pressure class and compatible fittings and valves; require approval before material substitutions. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare pipe material, diameter, wall or pressure class, drainage grade and jointing system, with elbows, valves, seals and compatible jointing products itemised. State pipe lengths, fitting counts, delivery charges and protection needed during transport. Supply excludes welding or joining pipes, installing the network and pressure or leak testing.
 
 **Agreement and acceptance:** Match pipe diameters, working pressures and joint types against the plumbing schedule. At receipt, verify matching diameters and ratings, no cracked or missing fittings. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -146,7 +146,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For construction material retail to an Al Jimi project, supply shopping list, retail units and suitable sizes for the current construction phase, plus relevant site or sample photos and drawings. Prepare a consistent item schedule to prevent substitution of similarly named goods.
 
-**Quotation scope and comparison:** Compare per-retail-unit pricing, pack sizes, return terms and alternatives; distinguish small-order delivery charges. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** For counter sales, compare the actual sale unit, pack count and shelf life of time-sensitive products rather than the item name alone. Confirm stock of the specified size, unopened-pack return conditions, invoice details and small-order delivery fees. A retail purchase does not include installation, engineering approval or permission to substitute structural materials.
 
 **Agreement and acceptance:** List individual retail items and agree count checks and return rules before payment. At receipt, verify invoice, unit counts, quantities and returns terms before collection. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -156,7 +156,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For sanitaryware retail to an Al Jimi project, supply installation dimensions, water and waste connection photos and desired model, plus relevant site or sample photos and drawings. Confirm original connectors and installation fittings are included for each fixture.
 
-**Quotation scope and comparison:** Compare dimensions, waste outlets, genuine accessories, warranty and replacement rules for scratched units before fitting. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** For a ready-made fixture, compare model number, dimensions, waste outlet orientation, finish, warranty and whether the fixing kit, trap or mixer is included. Clarify inspection at collection, replacement of scratched or defective items before fitting and fragile-delivery charges. Retail supply excludes altering water and waste connections, installation and commissioning unless separately quoted.
 
 **Agreement and acceptance:** Check that taps, valves and associated fittings are complete in each package. At receipt, verify complete sets, connection compatibility and documented warranty. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -206,7 +206,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For material delivery to site to an Al Jimi project, supply site address, access photos, clearance, unloading point and lifting needs, plus relevant site or sample photos and drawings. Confirm vehicle access, unloading method and protection against transit damage.
 
-**Quotation scope and comparison:** Compare trip count, vehicle capacity, unloading point, lifting equipment and waiting fees; assign responsibility for transit protection. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** This is a transport service, not a material sale. Compare trip count, load weight and volume, vehicle type, travel distance and delivery point, specifying whether lifting, labour, packaging and load restraint are included. Ask about waiting, failed-access and redelivery charges, transit-damage responsibility and any site-entry permits. Purchasing materials, technical conformity inspection and installation are outside this service.
 
 **Agreement and acceptance:** Agree loading order, vehicle access, unloading location and responsibility for handling damage. At receipt, verify package count, condition, proof of delivery and damage noted before signing. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 

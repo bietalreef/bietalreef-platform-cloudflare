@@ -25,6 +25,69 @@ Specify element thickness, concrete type, cut location, depth and length, and ne
 #### 7. Project-equipment rental
 For equipment not covered by a named category, describe the task and required outcome rather than using a generic label. Provide work list, dimensions, duration and operating location. Request an equipment and attachment list, operator, transport and standby terms. Inspect each machine and its operating documentation before handover.
 
+
+### Furniture and property moving
+
+#### 36. Household furniture moving
+Start with an inventory of rooms and large or fragile items, and measure doors, corridors, lifts and loading points at both properties. Send furniture photos, a simple layout and access routes, and identify items needing dismantling, packing or special lifting. Compare crew size, packing, transport, unloading, placement and damage responsibility; use an itemised condition checklist before loading and after delivery.
+
+#### 37. Office furniture moving
+Inventory workstations, chairs, cabinets, devices and files, and sequence the move to limit business interruption. Provide both office layouts, item dimensions, lift details and access windows; separate IT equipment and records from general furniture where appropriate. Request an item-labelling, packing and reassembly plan. Compare timing and equipment-handling responsibility, then reconcile every item at delivery.
+
+#### 38. Furniture dismantling and assembly
+Identify which items need dismantling, the joint and fixing types, and whether they will be reassembled in the same room or elsewhere. Provide photos of backs and connections and model references where available. Clarify how fasteners are labelled and whether hole or damage repairs are included. After assembly, check level, stability, door and drawer movement and all components.
+
+#### 39. Furniture packing
+Classify items by fragility, material and scratch-sensitive finishes, separating glass, mirrors, appliances and textiles. Provide photos and an inventory, and state the expected transport and any storage period. Request the protective materials and the method for securing corners and items in the vehicle. Compare wrapping layers and removal responsibility; inspect labels, edges and surfaces when unpacking.
+
+#### 40. Loading labour
+State item counts, approximate weights, floors, lift or stair access, route width and expected work duration. Send photos of loading and unloading points and identify any need for trolleys, straps or handling equipment. The quotation should state crew size, supervisor, tools, standby time and entrance protection. Reconcile item counts and check the work areas after loading and unloading.
+
+#### 41. Temporary storage
+Specify the volume of furniture or boxes, storage duration, access frequency and sensitivity to moisture or heat, including whether items are dismantled. Request details of the storage environment, inventory, wrapping, protection, insurance, collection and return terms, and additional charges. Compare costs by duration and handling; obtain a receipt, numbered inventory and condition photos.
+
+#### 42. Inter-emirate property moving
+Record collection and delivery locations, property types, quantities, fragile items and preferred timing, with an estimate of load volume and access at both ends. Send an inventory and photos and specify packing, dismantling, assembly or interim storage. Request vehicle, insurance, transit, delay and standby terms. Do not treat a preferred date as confirmed until agreed; check the inventory and condition on final delivery.
+
+### Project materials and equipment transport
+
+#### 43. Construction-material transport
+Specify material types, quantities, weights and pallet or bundle dimensions, including protection from weather, impact or mixing. Provide the quantity schedule, storage point and unloading location, and coordinate truck access and unloading with property or site management where needed. Compare vehicle capacity, securing, loading and standby terms; verify quantities, packaging and damage on receipt.
+
+#### 44. Timber transport
+State board lengths, sections, bundle counts, finish and the protection needed against moisture and scratches. Provide a dimension schedule and bundle photos, and confirm turning space, suitable vehicle length and unloading route. Request securing that prevents movement or bending, and compare separate or consolidated loads where relevant. Check lengths, edges, warping and quantities before signing.
+
+#### 45. Marble transport
+Transport planning must record slab or piece counts, dimensions, thickness, weight, storage method, supports, lifting equipment and access route. Provide the numbered piece schedule, edge and surface photos and unloading point. Specify corner protection, separators and securing. Compare handling arrangements, insurance and breakage responsibility; inspect each numbered piece for cracks, edge damage and surface condition.
+
+#### 46. Equipment transport
+Provide the machine name, model, dimensions, weight and known centre of gravity, and state whether it can roll or requires lifting equipment or a platform. Identify lifting points, protrusions and pre-move condition, and request securing and power-isolation or preparation in accordance with the manufacturer's instructions. Compare vehicle, loading equipment and insurance; verify the asset ID and condition on arrival.
+
+#### 47. Waste transport
+Identify the waste type and source, estimated volume and whether it is mixed or segregated, supported by photos of the material and collection point. Request the container and vehicle type, loading method, receiving destination and any available delivery record. Do not mix special or unidentified waste with ordinary loads; check site and competent-authority requirements before transport, and retain the quantity and destination record.
+
+#### 48. Project truck provision
+Define the load type, dimensions and weight, number and timing of trips, and whether an open bed, enclosed body or lifting facility is needed. Provide the delivery schedule, access plan and waiting points. Request actual vehicle capacity and dimensions, parking, standby, fuel and driver terms. Compare by trips, payload and time rather than truck name alone; check the vehicle before loading.
+
+#### 49. Loading and unloading services
+List material types, unit counts, weights, floors and final storage location, and state whether unloading is manual or needs a forklift or hoist. Provide photos of corridors, doors and vehicle standing area. Request crew size, supervisor, tools and a plan to protect floors and lifts. Compare damage and standby responsibility; inspect stacking, storage and quantities after completion.
+
+### Concrete, block and cement-product factories
+
+**Taxonomy note:** This is a newly proposed specialty in the taxonomy source; editorial coverage does not activate it or approve any factory.
+
+#### 50. Ready-mix concrete production
+Start with the project engineer's specified mix, including required strength or grade, workability, volume and pour sequence. Provide the pour schedule, pump location, truck route and achievable receiving rate. Request delivery records for each load and the tests specified by the project. Compare delivery timing, standby, pumping and testing; reconcile quantities and batch details before and after placement.
+
+#### 51. Block and masonry-unit production
+Specify unit type, dimensions, intended use, quantity and project requirements; do not substitute a similar-looking size or type. Provide the take-off, drawings, opening details and pallet needs. Request product and batch information and stacking and transport arrangements. Compare breakage, waste, replacement and delivery terms; inspect labels, dimensions, condition and quantity on receipt.
+
+#### 52. Cement-product manufacturing
+Identify the required product, such as kerbs, paving units, channels or custom pieces, with drawings, dimensions, finish, colour and expected loading. Provide a sample or visual reference, quantity schedule and intended location. Request a production sample before a larger batch where appropriate. Compare dimensional tolerance, finish and packaging; inspect pieces, batch, edges and drawing conformity before installation.
+
+#### 53. Supply of products to projects
+Prepare a schedule linking each product to drawing reference, dimensions, quantity, batch and required date, and state storage space and unloading method. Provide the site plan and work sequence and identify who will receive and count the materials. Separate transport, loading, standby and replacement terms in the quotation. Compare batch consistency, packaging and shortage or breakage handling; record each delivery's quantity and condition.
+
 ## Requesting a quotation when no company is listed
 
 Send Bait Al Reef customer service the task description, location, equipment or material type, capacity or dimensions and quantity, hire duration or delivery date, operator requirement, power source, access route, parking and storage point, loading and unloading terms, and any property-management restrictions. A request is not confirmation of availability or price.

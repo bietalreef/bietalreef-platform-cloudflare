@@ -107,6 +107,36 @@ Interlock requires defined area, intended use, vehicle loading, drainage and pre
 Select cladding by weight, wall construction, moisture exposure, fixing system and corner details. Send wall height and width and photos of switches and openings. Request a layout, sample and edge details; inspect straight lines, secure panels, pattern consistency and access to concealed services.
 #### 35. Floor repairs
 Identify whether the issue is a broken tile, debonding, settlement or failure in the bedding layer; replacing the surface alone may not solve it. Send photos, affected area and level difference, and say whether matching spare tiles are available. Compare local repair with wider replacement, then test stability, falls and colour match.
+### Electrical work and lighting
+
+#### 36. Building electrical first fix
+First-fix work must follow drawings, load calculations, room use and equipment schedules; point counts should not be guessed from floor area alone. Provide plans, appliance list and panel locations. Ask for circuit, cable, protection and inspection details. Inspect concealed work before walls are closed and retain test records.
+#### 37. Wire and cable routing
+Cable work requires the route, length, conductor size, load, protection method and surrounding conditions to be defined. Attach route drawings, distances and load information. Specify cable type, conduit or tray and connection points. Check identification, insulation, continuity and secure support against the project specification before energising.
+#### 38. Distribution board installation
+Review the board against circuit count, loads, available space, protection and labelling needs. Send a photo of the existing board and any load schedule, and clarify whether this is replacement or an addition. Compare board capacity, components and circuit arrangement. Acceptance should include labelling, enclosure checks and testing by a qualified technician.
+#### 39. Socket and switch installation
+Socket and switch positions should reflect furniture, use and appliances, while remaining compatible with existing wiring. Provide a plan or photos with heights and furniture positions, and state faceplate type and finish. Check box security, faceplate alignment, operation of each point and safe connections.
+#### 40. Electrical supply to extensions
+An extension requires a schedule of new loads, feeder route, lighting and socket points, and the connection to the existing system. Attach the extension plan, appliance positions and distance to the panel. Ask for circuit capacity, protection and route details. Test and label circuits before closing containment.
+#### 41. Electrical network rehabilitation
+This is appropriate for ageing wiring, repeated faults or added loads. Begin with a survey of existing circuits rather than indiscriminate replacement. Provide available drawings, fault history and panel photos. Request a condition report and phased scope; compare replacement strategy, testing and isolation arrangements. Accept updated drawings and test results.
+#### 42. Electrical load inspection
+Inspection is useful when breakers trip, connections become hot or new high-demand appliances are added. Describe symptoms, equipment and when they occur, and provide panel data if available. Request documented measurements showing circuits, readings and recommendations. Do not replace a breaker or cable based on guesswork; obtain a report explaining findings and proposed action.
+#### 43. Indoor lighting installation
+Define fitting type, ceiling height, supply points and control method. Provide a lighting layout, ceiling photos and fixture models. Ask about cut-outs, mounting and drivers. Test every fitting and switch, colour consistency and secure mounting before accepting the room.
+#### 44. Outdoor lighting installation
+Select fittings for their location, water and dust exposure, fixing method and cable route. Attach façade or pathway photos, dimensions and supply locations. Ask for the fitting's protection specification and sealing method. Check mounting, sealed entries and night-time performance without unintended glare.
+#### 45. Chandelier installation
+Confirm chandelier weight, support capacity, hanging height and clearance below it. Provide the model, weight, dimensions and a photo of the ceiling support, and identify any assembly or lifting requirement. Accept after checking the suspension base, electrical connection, balance and operation of all lamps.
+#### 46. Concealed lighting
+Concealed lighting needs coordination of the recess, LED position, power supply, ventilation and future component replacement. Provide a ceiling section, route lengths and colour and power specification. Request a light sample before closure. Check continuous output, service access and absence of harsh dots or shadows.
+#### 47. Garden lighting
+Garden lighting should consider pedestrian routes, planting, power supply and protection of cables from future gardening work. Provide a garden plan, path photos and tree locations. Request a fitting layout and protection details. Test after dark and check stable bases and unobstructed movement.
+#### 48. Motion sensor installation
+Sensor performance depends on detection range, mounting height, coverage angle and the load being switched. Provide a plan and photos of circulation areas and lighting positions. Ask for sensitivity and timer settings. Test movement from several directions and check that irrelevant movement does not trigger repeated switching.
+#### 49. Lighting unit maintenance
+Diagnosis should distinguish a failed lamp, driver, connection or control component, with supply isolated before inspection. Provide fitting type, label photo, symptoms and number of affected units. Compare repair with compatible replacement. After restoration, check secure mounting, operation and absence of flicker.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

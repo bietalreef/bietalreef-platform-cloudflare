@@ -591,7 +591,7 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Cleaning-services 28/42 services verified in Arabic and English; 6/8 specialties complete. Al Reem Island 420/434 services, 48/50 company specialties, 7/8 sectors complete. Next: تشغيل وصيانة المباني, service 29. Product directions and safe re-entry must follow the label.",
+      "review_note": "Cleaning-services 35/42 services verified in Arabic and English; 7/8 specialties complete. Al Reem Island 427/434 services, 49/50 company specialties, 7/8 sectors complete. Next: خدمات العمالة والتشغيل, service 36. Human technical/language review remains required.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
@@ -610,18 +610,18 @@
       "progress": {
         "sector": "cleaning-services",
         "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "التطهير والتعقيم",
-        "last_completed_service_number": 28,
-        "next_specialty": "تشغيل وصيانة المباني",
-        "next_service_number": 29,
-        "sector_completed": 28,
+        "last_completed_specialty": "تشغيل وصيانة المباني",
+        "last_completed_service_number": 35,
+        "next_specialty": "خدمات العمالة والتشغيل",
+        "next_service_number": 36,
+        "sector_completed": 35,
         "sector_total": 42,
-        "area_completed": 420,
+        "area_completed": 427,
         "area_total": 434,
-        "remaining_area_services": 14,
+        "remaining_area_services": 7,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "completed_specialties_in_area": 48
+        "completed_specialties_in_area": 49
       }
     },
     {

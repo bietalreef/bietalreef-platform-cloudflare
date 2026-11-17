@@ -95,3 +95,20 @@ Carving requires a file defining design, depth, thickness, stone type and piece 
 Treatment depends on stone type, condition, stains, scratches and required finish. Send side-lit photos and history of products used. Request a local trial; inspect gloss, colour and texture after treatment.
 #### 28. Contractor project orders
 A contractor order needs a bill of quantities, detailed drawings, dimensions and identifiers for every piece and delivery phase. Provide the item list and site dates. Request cutting, packaging and numbering plans. Compare compliance and phased-delivery capacity, and check item references on every batch.
+### Equipment and tool stores
+**Source note:** This specialty is marked as currently non-selectable; editorial content does not change or activate taxonomy.
+
+#### 29. Hand-tool retail
+Define the task, tool size and material it will be used on, and request handle, material, accessory and warranty details. Provide a tool photo or product number if available. Inspect handle condition, edges, moving parts and quantity before purchase.
+#### 30. Power-tool retail
+Specify power, speed, grip, attachments, task suitability and power source. Provide a model or task photo. Compare performance data, warranty and parts availability; inspect cable, guards, attachments and product label on receipt.
+#### 31. Safety-equipment retail
+Select protective equipment by hazard, size, duration of use and compatibility with other equipment. State the work type and sizes required. Request product data and declared manufacturing standards; check labels, fit and expiry dates where relevant before use.
+#### 32. Workshop-equipment retail
+Prepare an equipment list based on workshop type, space, power, compressed air, ventilation and fixing needs. Provide site dimensions and available loads. Request operating, maintenance and accessory data; compare warranty, training and spare parts and test operation on delivery.
+#### 33. Cleaning-equipment retail
+Define surface, water source, area, soil type and usage rate. Provide site photos. Request pressure, flow, power and compatible-chemical specifications. Compare accessories, filters and service support, and trial the machine on an appropriate area before acceptance.
+#### 34. Spare-parts retail
+Start with equipment model, part number or a clear photo of the old component and a fault description. Confirm compatibility, whether the part is original or equivalent and return terms. Match number, connectors and dimensions before fitting and retain purchase details.
+#### 35. Equipment maintenance
+Provide model, operating hours, fault and service history, and define whether diagnosis, repair or periodic maintenance is required. Send data-plate photos and error codes. Request a report of cause, parts and labour; accept after an operational test and a list of replaced components.

@@ -194,3 +194,34 @@ Before reserving storage, estimate furniture volume, carton count and likely dur
 
 Provide exact collection and destination addresses, the type and quantity of property, dimensions of large items and the requested date, together with photographs of access and loading areas at both ends. Clarify whether the service includes packing, dismantling, reassembly or storage, or transport only, and whether there are multiple stops or staged deliveries. Compare vehicle type, crew, distance, waiting-time basis, loading, packing and responsibility for transit damage. Do not rely on a final estimate until the inventory and access at both addresses have been reviewed. At destination, reconcile furniture and cartons against the list, inspect their condition and record discrepancies before accepting delivery.
 
+
+## Project materials and equipment transport
+
+### 43. Building materials transport
+
+Identify material types, quantities, package weights and dimensions, and whether goods are palletised or loose. Send the quantity schedule and photographs of loading and delivery locations. State entrance width and height, vehicle turning space and available unloading method. The quotation should identify vehicle type, trip count, lifting and securing equipment, waiting time and responsibility for placing materials after unloading. Compare transport with handling, protection from weather and dust, and damage exposure rather than nominal vehicle capacity alone. On arrival, reconcile quantities and package condition against the delivery note and record shortages or breakage before acceptance.
+
+### 44. Timber transport
+
+MDF boards, natural timber, doors and long sections need a vehicle that supports their length and protects edges and faces from bending, scratches and moisture. Provide board lengths, widths, thicknesses, bundle counts and packing method, with photographs of the storage point and vehicle access route. Ask for truck-bed length, support points, protective separators and securing straps, and whether loading and unloading are included. Compare trip count, protection, handling of long pieces and waiting charges. Inspect boards for breakage, bowing and edge damage at delivery, and match sizes and quantities to the supply order.
+
+### 45. Marble transport
+
+Marble is heavy and may crack if it is poorly supported or exposed to impact, so describe each slab or piece, its dimensions, thickness, quantity and approximate weight before pricing. Provide photographs of edges, finishes and loading points. Ask which racks, padded separators, lifting method, restraints and transport orientation will be used. Compare vehicle type, handling equipment, crew size, loading and unloading responsibility, and any stated insurance or liability limits. A quotation that merely says “marble transport” does not define protection for each piece. At delivery inspect corners, faces and fine cracks and reconcile piece labels with the installation layout.
+
+### 46. Equipment transport
+
+Provide the equipment name and model, weight, dimensions, centre of gravity, wheel or track arrangement and manufacturer-designated lifting points where available. Photograph both sites and the loading route. State whether utilities must be disconnected, fluids drained or moving parts secured before transport. A competent planner should select the truck or trailer and lifting and restraint equipment from the load data; the quotation should identify preparation, movement, loading, waiting and unloading. Compare operator responsibility, mobilisation and contingency arrangements. Record the machine condition before loading and after delivery, then inspect restraints and sensitive components at handover.
+
+### 47. Waste transport
+
+Identify the waste source, material type, approximate volume and weight where possible, and separate reusable items from demolition or packaging waste. Send photographs of containers and the collection area and explain how the vehicle will exit the site and whether manual or mechanical loading is needed. The quotation should state vehicle type, trip count, crew, waiting charges, destination and any available receipt or disposal record. Do not mix hazardous or unidentified materials with ordinary waste; obtain specialist assessment and verify the authorised handler before transport. At completion, check that the area is clear and reconcile trips and loads against the agreement.
+
+### 48. Project truck provision
+
+Specify the load type, dimensions, weight, required trip count, collection and delivery points and site entry windows. Provide a vehicle route and standing and unloading-area photographs. Explain whether the load needs a box truck, flatbed or vehicle with lifting equipment. The quotation should state whether charging is per trip, hour or reserved period and identify fuel, waiting, loading, unloading, operator and additional equipment. Compare usable payload, deck dimensions, securing arrangements and a replacement-vehicle plan in case of breakdown. Record arrival and departure times and delivered quantities for each trip so handover and account reconciliation are clear.
+
+### 49. Loading and unloading services
+
+This service is useful when a vehicle is arranged but the project needs labour and equipment to handle materials or machinery on site. Specify load type, weights, dimensions, unit count, lifting height and internal carrying distance, and provide photographs of corridors and storage points. Request crew and supervisor numbers, handling equipment, protective materials, work duration and damage responsibility; clarify whether a forklift, trolley or other lifting aid is required. Compare crew capability, experience and the basis for time and waiting charges. At completion, reconcile moved quantities, confirm placement at the agreed locations and check that routes and packaging remain in good condition.
+

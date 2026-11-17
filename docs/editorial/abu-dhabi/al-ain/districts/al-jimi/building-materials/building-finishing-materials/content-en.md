@@ -166,7 +166,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For electrical accessories retail to an Al Jimi project, supply part or device model, voltage and current ratings and mounting method, plus relevant site or sample photos and drawings. Check electrical component conformity, insulation and earthing requirements.
 
-**Quotation scope and comparison:** Compare tool model, power rating, accessories, warranty and service; distinguish purchase from hire and include consumables. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare switches, sockets and lighting accessories by model, voltage and current rating, ingress protection and intended environment. Request applicable conformity evidence and warranty terms. Distinguish unit prices from complete sets and installation accessories; itemise delivery and returns separately. Retail supply excludes wiring, connection and electrical safety testing, which require a suitably qualified installer under a separate agreement.
 
 **Agreement and acceptance:** Verify accessory ratings and ingress protection against intended electrical use. At receipt, verify correct specified item and safety rating, with no unsuitable substitution. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -176,7 +176,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For plumbing material retail to an Al Jimi project, supply sample or photo of the old fitting, pipe diameter, material and operating pressure, plus relevant site or sample photos and drawings. Separate hot water, cold water and drainage fittings by pipe material and diameter.
 
-**Quotation scope and comparison:** Compare fixing type, diameter, length, rated load and suitable substrate; request certification for structural applications. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare fittings and valves by pipe material, diameter, thread or joining method, pressure rating and suitability for hot water, cold water or drainage. Request itemised prices for fittings, seals and jointing consumables, along with unused-item return terms and delivery charges. Retail supply does not include installation or pressure testing of the pipework.
 
 **Agreement and acceptance:** Separate plumbing fittings, valves and connectors by size and material on the retail invoice. At receipt, verify thread, dimensions and seals fit before installation. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -186,7 +186,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For paint retail to an Al Jimi project, supply colour code, substrate, coverage area, coat count and sheen, plus relevant site or sample photos and drawings. Approve a colour and sheen sample on the actual substrate before bulk purchase.
 
-**Quotation scope and comparison:** Compare pack unit, expiry, consumption rate and storage conditions; separate perishable products from durable stock. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare paint type, sheen, colour code, pack size, stated coverage and the required primer-and-coat system rather than litre price alone. Ask about tinting fees, repeatability of mixed colours and returns for custom-tinted cans; clarify storage and delivery terms. Retail supply excludes surface preparation, painting labour and workmanship warranties.
 
 **Agreement and acceptance:** Approve paint shade, sheen and pack size and retain the batch reference. At receipt, verify mixed colour matches code, batch and future repeatability. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 
@@ -196,7 +196,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **When and what to provide:** For waterproofing retail to an Al Jimi project, supply leak location, substrate, treatment area and primer/topcoat compatibility, plus relevant site or sample photos and drawings. Verify compatibility with the substrate, temperature and planned application method.
 
-**Quotation scope and comparison:** Compare manufacturing or import lead time, approved samples, minimum order and cancellation terms for custom items. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Compare waterproofing products for the intended application and substrate, including compatible primer, membrane, protection layer, coverage, specified thickness, shelf life and storage limits. Price the complete system with tapes, accessories and waste allowance rather than the tub or roll alone; clarify delivery and replacement terms. Retail supply excludes leak-source repair, application and on-site waterproofing tests.
 
 **Agreement and acceptance:** Confirm waterproofing material compatibility with substrate and required preparation products. At receipt, verify compatible system components, accessories and application instructions. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
 

@@ -63,3 +63,15 @@ Define room area and shape, use location, furniture traffic, fibre type and clea
 Prepare an item list with dimensions, materials, colours and intended location, checking compatibility with existing furniture. Provide reference photos. Compare finish quality, cleaning and exchange terms; inspect quantity and check for chips or scratches before acceptance.
 #### 14. Furniture supply for projects
 Use a schedule showing models, quantities, dimensions, colours, delivery batches and dates. Provide room plans and delivery route. Request an approved sample or mock-up and packaging plan. Compare supply, installation, warranty and returns, and accept each batch against the schedule.
+### Majlis and sofa upholstery
+
+#### 15. Arabic majlis tailoring
+Start with wall and corner measurements, seat height and depth, access routes and the seating layout. Provide a plan, photos, seat count, fabric and filling preferences. Request drawings showing modules and joints; inspect seat level, base stability and fabric match before acceptance.
+#### 16. Sofa tailoring
+Define sofa length, depth, height, seat count, use and the doorway route for delivery. Provide a reference photo and room dimensions. Request fabric sample and foam and frame specifications; test seating comfort and inspect stitching, cushions and leg stability.
+#### 17. Furniture upholstery
+Inspect frame, springs, filling and old fabric to decide what can be retained and what must be replaced. Provide all-side photos and item dimensions. Separate frame repair from fabric and filling in the quote; accept after checking comfort, fabric tension and seam strength.
+#### 18. Sofa fabric replacement
+Identify sofa model, upholstery area, textile type, pattern direction and required durability. Provide photos, measurements and fabric sample. Clarify whether foam removal and repair are included. Inspect pattern alignment, even tension and corner finish after reupholstery.
+#### 19. Foam and filling replacement
+Select filling by seat dimensions, firmness and everyday use. Provide cushion measurements and condition photos. Specify foam type, density and filling layers. Compare a sample by actual seating feel and check shape recovery and even height after installation.

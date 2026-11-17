@@ -18,6 +18,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Quotation brief for this service:** Ask for a breakdown of measured roof area, upstand and joint lengths, drain counts, removal of old membrane, fall correction and protective finish, with a defined leak-test procedure.
 
+**Service-specific agreement:** Name who protects rooftop equipment and outlets during work, who reinstates tiles or protective layers, and when concealed membrane-detail photos must be handed over.
+
 ## 2. Bathroom waterproofing
 
 **When needed:** A bathroom renovation or dampness below tiles may call for waterproofing, but first rule out supply-pipe or drainage leaks.
@@ -33,6 +35,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Inspection limits and responsibility:** Do not cover a membrane before its specified curing period. A water-retention test is not a substitute for checking drain falls or the integrity of supply and waste pipes.
 
 **Quotation brief for this service:** Provide floor area, shower perimeter, required wall upstand height and penetration counts. Price demolition and tile reinstatement separately from the membrane, safe water test and concealed-work records.
+
+**Service-specific agreement:** Identify who removes and reinstalls sanitary fixtures, how the doorway threshold will be protected, and who pays for tiles damaged during investigation.
 
 ## 3. Water tank waterproofing
 
@@ -50,6 +54,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Quotation brief for this service:** State tank capacity, water use, shell material, access opening and entry conditions. Request lining suitability documentation, a confined-space safety plan if relevant, and separate emptying, cleaning, testing and recommissioning costs.
 
+**Service-specific agreement:** Record the expected tank outage and interim water supply, plus responsibility for entry safety and water-quality checks on recommissioning; do not promise drinking-water suitability in advance.
+
 ## 4. Building thermal insulation
 
 **When needed:** High cooling demand or renovation may justify insulation, though thermal bridges and air leakage can also be responsible.
@@ -65,6 +71,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Inspection limits and responsibility:** Do not accept a promised percentage reduction in energy bills without a separate assessment. Check condensation risks, fire performance and compatibility with the existing assembly.
 
 **Quotation brief for this service:** Supply roof and wall areas, known assembly layers and AC penetrations. Require declared thermal resistance, installed thickness and details for thermal bridges, fire safety and condensation control, rather than a board-only price.
+
+**Service-specific agreement:** Tie material approval to product data, fixing details and applicable fire requirements; assign responsibility for addressing condensation risks at junctions before closing finishes.
 
 ## 5. External wall waterproofing
 
@@ -82,6 +90,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Quotation brief for this service:** Share facade length and height, joint and window photographs, and internal damp marks. Separate diagnosis, crack preparation, coating system, access scaffolds and sample testing, excluding unassessed structural repairs.
 
+**Service-specific agreement:** State the facade access method, who arranges permits where required, and who protects windows and adjacent property and reinstates finishes after joint repairs.
+
 ## 6. Rainwater ingress repair
 
 **When needed:** Moisture appearing only during rain may enter at window seals, blocked outlets or roof-wall junctions. Recoating an entire roof before tracing the path may waste money.
@@ -98,6 +108,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Quotation brief for this service:** Record dates and locations of rain-linked dampness and possible window, outlet or roof paths. Ask for two stages: documented source tracing, then defined repair, reinstatement and appropriate retesting—not blanket recoating without evidence.
 
+**Service-specific agreement:** Price rain-ingress diagnosis separately from repair, and require client approval and before/after photos before opening any additional finishes, with documented test limits.
+
 ## 7. Waterproofing maintenance
 
 **When needed:** Detached edges, punctures or failed protective layers may need maintenance; a patch is appropriate only if the remaining substrate and system are sound.
@@ -113,6 +125,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Inspection limits and responsibility:** A brittle membrane of unknown composition may not accept a new patch. Request an adhesion test or system manufacturer's guidance before choosing local repair.
 
 **Quotation brief for this service:** Provide damaged membrane area, lap-edge photographs and system age if known. Compare a compatible local patch with sectional replacement, including warranty limits and seam testing.
+
+**Service-specific agreement:** Define warranty limits for the new patch without extending them to the old membrane; agree who inspects after the next rainfall or suitable water exposure and remedies a failed joint.
 
 ## Request a quotation
 

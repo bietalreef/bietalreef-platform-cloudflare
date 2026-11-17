@@ -243,6 +243,22 @@ Define the technique, texture, sample and lighting that will reveal the effect. 
 Clarify whether only peeling areas need removal or whether accumulated coating and damaged substrate must be treated, and identify why adhesion failed. Send photos and moisture or repair history. Specify containment, waste collection and substrate preparation. New paint should not begin until the surface is sound and dry.
 #### 98. Paint maintenance and repainting
 Use this for local repairs or repainting after staining, damage or colour mismatch. Define the area and the boundary between old and new paint, and provide the colour code if available. Compare spot repair with repainting the full wall. Check colour under normal lighting and clean edges.
+### Waterproofing and thermal insulation
+
+#### 99. Roof waterproofing
+Select the system after inspecting roof area, falls, outlets, joints, penetrations and existing layers. Provide plans and photos of ponding and drain details. Specify layer build-up, protection and system warranty. Accept after an appropriate test and documentation of edges and drains before covering.
+#### 100. Bathroom waterproofing
+Define floor area, wall upstands, pipe penetrations, drains and thresholds. Provide bathroom plans and substrate photos. Specify preparation, thickness, curing time and ponding-test method. Do not install tiles until the test result is recorded and any leakage is corrected.
+#### 101. Tank waterproofing
+Identify tank material, intended use, surface to be treated and compatibility of the waterproofing product. Provide capacity, dimensions and internal and external photos. Request cleaning, preparation, application and return-to-service steps. Check continuous coverage, joints and leakage-test result before filling.
+#### 102. Building thermal insulation
+The solution depends on the element, location, thickness, thermal bridges and possible moisture. Provide wall or roof sections, detail photos and available construction data. Specify material, performance values and gap prevention. Inspect continuity and junction treatment without blocking required ventilation openings.
+#### 103. External wall waterproofing
+Review façade condition, cracks, joints and window junctions before selecting a system. Provide close and wide façade photos and opening details. Specify compatibility with existing finishes, fixing and protection. Check joint treatment, system continuity and that drains or openings remain unobstructed.
+#### 104. Rainwater ingress treatment
+First trace the water path; entry may occur at the roof, joints, window perimeters or service penetrations. Provide photos during and after rain if possible, and locate the internal stain relative to the exterior. Request source inspection before sealing the visible symptom. Accept after testing the repair and monitoring for recurrence.
+#### 105. Waterproofing maintenance
+Identify the waterproofing type, age, damaged location and whether a protection layer covers it. Provide photos, drawings or previous installation records, and mark peeling, separation or ponding. Compare local repair with system replacement. Inspect adhesion, edges, drains and test results before closing the work.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

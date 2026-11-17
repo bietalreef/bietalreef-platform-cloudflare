@@ -96,3 +96,7 @@
 ## تحديث 17 نوفمبر 2026 — تأجير معدات البناء والرفع
 
 أُنشئت [العربية](equipment-rental/content-ar.md) و[الإنجليزية](equipment-rental/content-en.md) و[مراجعة القطاع](equipment-rental/review.md). تحقق إعادة جلب GitHub من وجود الخدمات 1–7 دون فجوات بكل لغة. اكتمل تخصص 1/8 من قطاع المعدات (7/53)، وبذلك إجمالي جزيرة الريم 346/434 خدمة بكل لغة، و35/50 تخصصًا، و6/8 قطاعات مكتملة؛ المتبقي 88 خدمة. التالي «تأجير الأدوات والمعدات الخفيفة»، الخدمة 8 «تأجير مولدات الكهرباء». الحالة in_progress؛ لا نشر ولا دمج.
+
+
+### Progress checkpoint — 2026-11-17
+Equipment-rental now contains 14/53 services in Arabic and English, both files re-fetched and numbered 1–14. Six sectors complete; total Al Reem Island 353/434 services, 81 remaining, status in_progress. Next specialty: مصانع الألمنيوم والزجاج; next service: 15 تصنيع قطاعات الألمنيوم. No other locality started.

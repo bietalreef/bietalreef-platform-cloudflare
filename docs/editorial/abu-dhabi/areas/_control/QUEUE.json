@@ -579,19 +579,19 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/aluminium-glass/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Verified bilingual aluminium-glass services 1–14, 1/5 specialties; 273/434 area services in each language, 4/8 sectors completed; remaining 161. Human technical/regulatory/language review required.",
+      "review_note": "28/56 aluminium-glass services verified in AR and EN, sequential 1–28; 287/434 area services; 27/50 specialties, 4/8 sectors. Next service 29 تصنيع نوافذ الألمنيوم. In progress, independent human review pending.",
       "editorial_progress": {
         "sector": "aluminium-glass",
         "last_completed_sector": "building-materials",
-        "last_completed_specialty": "المطابخ والخزائن والأبواب الخشبية",
-        "last_completed_service_number": 14,
-        "next_specialty": "الأثاث والديكور الخشبي",
-        "next_service_number": 15,
-        "sector_completed": 14,
+        "last_completed_specialty": "الأثاث والديكور الخشبي",
+        "last_completed_service_number": 28,
+        "next_specialty": "أعمال الألمنيوم والأبواب والنوافذ",
+        "next_service_number": 29,
+        "sector_completed": 28,
         "sector_total": 56,
-        "area_completed": 273,
+        "area_completed": 287,
         "area_total": 434,
-        "remaining_area_services": 161,
+        "remaining_area_services": 147,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

@@ -119,3 +119,19 @@ Define exposure to sun, water and dust, ventilation, load and fixing method. Pro
 Inventory which frames, doors and worktops can be retained and which need replacement. Provide close-up photos, cabinet dimensions and fault notes. Separate door-front replacement from frame replacement in the quote; inspect hardware compatibility and final adjustment.
 #### 42. Kitchen hinge and accessory maintenance
 Identify hinge or runner type and model, quantity and closing or movement fault. Provide fitting and location photos. Request a compatible replacement rather than a merely similar size. Test door and drawer movement and adjustment and check screw security.
+### Glass façades and glazing
+
+#### 43. Glass façade works
+The project needs elevations, panel dimensions, support and joint systems, drainage and movement details. Provide drawings, site photos and proposed glass type. Request fixing, loading and technical-review details. Fabrication should wait for drawing approval; accept after checking alignment, joints and weather sealing.
+#### 44. Toughened-glass installation
+Define application, panel size and thickness, processed edges, cut-outs and hinge or fixing positions. Provide opening measurements and frame photos. Request glass specification and product documents; inspect edges for damaging cracks or chips, panel stability and hardware compatibility.
+#### 45. Shopfront façade works
+A shopfront should account for opening width, door movement, signage, fixing points and adjacent finishes. Provide façade dimensions and the intended business layout. Request shop drawings and frame and glass materials. Check door operation, façade alignment and clearance from circulation routes.
+#### 46. Glass-door installation
+Select the door by glass thickness and weight, hinge type, floor or frame support and lock system. Provide opening dimensions and fixing-point photos. Specify hardware and safe clearances. Test door movement, return action, lock, hinge stability and edge clearance.
+#### 47. Glass partition installation
+Partitions need a layout showing height, divisions, doors, privacy level and glass type or treatment. Provide room dimensions and ceiling and floor photos. Request base, connection and gasket details. Inspect alignment, panel stability and the acoustic performance expected by the specification.
+#### 48. Glass balustrade installation
+Define the guarding line, height, panel lengths and whether fixing is through the floor or side-mounted. Provide site sections, edge and stair drawings. Request technical review of the support and glass system. Do not approve installation until design suitability for safety is checked; accept after testing stability and connections.
+#### 49. Glass façade maintenance
+Inspect panels, gaskets, sealant, supports, drainage and locations of leakage or vibration. Provide inside and outside photos, location and height. Specify safe access and repair scope. Accept with a record of treated areas, sealing checks and inspection of adjacent panels.

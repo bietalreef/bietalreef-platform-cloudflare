@@ -4,7 +4,7 @@ This file currently covers only the first two specialties—General Maintenance 
 
 ## Current coverage
 
-This version completes two of ten specialties and 21 of 105 services. It must not be treated as a complete sector directory.
+This version completes five of ten specialties and 49 of 105 services. It must not be treated as a complete sector directory.
 
 
 ## General Maintenance
@@ -117,6 +117,155 @@ Gather detail drawings, samples, wall and ceiling dimensions, lighting and outle
 
 Prepare a room-by-room handover checklist for surfaces, doors, windows, sanitaryware, lighting, equipment and commissioning. Require defect closure and retesting, material and warranty documents and final drawings, recording any items outside the contract scope.
 
+
+
+## Gypsum and Decorative Works
+
+
+### Gypsum ceiling installation
+
+Specify ceiling area, existing height and positions of lights, air-conditioning, sprinklers or access panels. Provide a reflected ceiling plan and obstacle photographs; itemise framing, suspension, boards, joints and access openings, then inspect level and joint stability before painting.
+
+
+### Gypsum partition construction
+
+State partition height, length and thickness, and whether it will support doors, cabinets or equipment. Specify framing, board type, internal insulation, reinforcements and service routes; inspect edge anchorage, alignment and joint treatment before finishing.
+
+
+### Cove and concealed lighting detail
+
+Provide a section showing cove depth and height, light source position and maintenance route. Coordinate gypsum dimensions with the fixture, driver and ventilation, and test light distribution and component access before closing the recess.
+
+
+### Gypsum decorative features
+
+Define the feature's shape, dimensions and position, attaching a reference image or detail drawing and stating whether it connects to the ceiling or wall. Request a finish sample and fixing and joint details; inspect symmetry and surface smoothness before painting.
+
+
+### Wood-look panel installation
+
+Measure the cladding area and define grain direction, joints, edges and socket or door positions. Specify panel type, thickness, moisture performance, fixing and corner treatment, and review a colour sample under site lighting before confirming quantities.
+
+
+### Marble-look panel installation
+
+Provide wall and height measurements, openings and corners, and specify pattern and vein direction. Compare panel thickness, surface, weight and adhesive or mechanical fixing, requiring clear joint, edge and wet-area details.
+
+
+### Gypsum repair and maintenance
+
+Photograph the damaged area and identify whether the cause may be moisture, movement, impact or failed suspension. Inspect surrounding sections before closing, and define replacement limits, cause correction, joint tape, compound and repainting so the repair does more than conceal the symptom.
+
+
+## Flooring and Wall Cladding
+
+
+### Ceramic tile installation
+
+State floor or wall area, tile size, laying pattern and joint width, and provide substrate photographs and door and drain levels. Specify surface preparation, adhesive, grout, cuts and skirting; inspect tile lippage, joint consistency and falls before handover.
+
+
+### Porcelain tile installation
+
+Identify porcelain type, dimensions, thickness, indoor or outdoor use and expected loads. Compare fixing method, compatible adhesive, joint size and cutting system; request a setting-out plan that avoids narrow slivers and coordinates finished levels at doors.
+
+
+### Parquet flooring installation
+
+Check substrate moisture and level, and specify parquet type, installation system and plank direction. Provide room areas and door positions; request underlay, perimeter gap and skirting details, including any manufacturer-required acclimatisation period.
+
+
+### Vinyl flooring installation
+
+Specify vinyl type, installation system, thickness and traffic class, and photograph the substrate and any joints or cracks. Require substrate preparation and seam and threshold details, then inspect adhesion and ensure there are no bubbles or raised edges.
+
+
+### Interlock paving installation
+
+Define paving area, intended use, gate and drain levels and vehicle movement, attaching a boundary plan. Specify sub-base, compaction, bedding sand, edging and pattern, then inspect unit stability, falls and drainage after installation.
+
+
+### Wall cladding installation
+
+Provide wall dimensions, substrate material, door and switch locations, and specify cladding type, weight and orientation. Require fixing, reinforcement, joint, corner and moisture-protection details, then inspect line alignment and edge junctions.
+
+
+### Floor repair
+
+Identify floor type, damage location and area, noting hollow sounds, settlement, cracking or detachment. Provide close and wide photographs; request cause assessment, matching tile availability, removal and reinstatement limits and substrate repair before closure.
+
+
+## Electrical Works and Lighting
+
+
+### Building electrical first fix
+
+Provide architectural plans, furniture and appliance layouts, expected loads, building type and construction stage. Request point, outlet, panel and route drawings, separating first fix from supply, final installation and testing, and record cable routes before walls are closed.
+
+
+### Wire and cable installation
+
+Specify circuits, loads, distances, installation method and cable environment. Require cable sizes and specifications, containment routes, labelling and termination points, with continuity and insulation test results before energisation.
+
+
+### Distribution board installation
+
+Provide the load schedule, circuit diagram, board location and access and ventilation clearances. Specify board capacity, breakers, labels, protection and earthing, then verify circuit-to-schedule matching, wiring arrangement and inspection results.
+
+
+### Socket and switch installation
+
+Specify point count, mounting heights, intended use and furniture and appliance positions, with a marked plan or photographs. Compare product type, protection rating, finish and fixing, then test polarity, operation and faceplate stability.
+
+
+### Electrical extensions for annexes
+
+Provide the annex plan, connection distance, board location and new loads, noting any existing cable route. Request a review of supply capacity, protection and concealed or surface routing, with circuit testing before energisation.
+
+
+### Electrical network rehabilitation
+
+Describe recurring faults, network age and previous additions, and provide photographs of affected boards and circuits. Request an assessment of retained versus replaced components, with safe isolation, circuit labelling and load and insulation testing after rehabilitation.
+
+
+### Electrical load assessment
+
+Compile appliance ratings, operating periods, board schedule and any repeated breaker trips. Request documented load measurements and distribution review against circuit and supply capacity, with clear recommendations before adding equipment or circuits.
+
+
+### Interior lighting installation
+
+Specify room functions, ceiling heights, furniture layout and switch and control positions. Provide a luminaire schedule or product images; request circuit layout, colour temperature, glare and maintenance access, then test operation and lighting scenes.
+
+
+### Exterior lighting installation
+
+Provide façade, path and vehicle-entry plans and identify power points and exposure to water and dust. Compare fixtures, ingress protection, mounting, glare and beam direction, then inspect insulation, connections and night-time operation.
+
+
+### Chandelier installation
+
+Specify chandelier weight, diameter, ceiling height, suspension point and base type, providing product details and a ceiling photograph. Verify the support structure and suspension capacity before lifting, and agree access equipment, installation crew and fixing and connection tests.
+
+
+### Concealed lighting installation
+
+Provide ceiling or wall sections, recess dimensions and driver and control locations, defining the intended light effect. Require ventilation and maintenance access details and fixture distribution, then test uniformity and check for unintended hotspots or shadows.
+
+
+### Garden lighting installation
+
+Mark pedestrian routes, trees, seating areas and known irrigation or buried cable routes. Request circuit and luminaire locations with outdoor protection, and test insulation, earthing and any timers or sensors supplied.
+
+
+### Motion sensor installation
+
+State sensor purpose, coverage area, mounting height and connected lighting or system. Agree sensitivity, hold time and detection direction, then test under actual use conditions to reduce false activation and blind spots.
+
+
+### Lighting fixture maintenance
+
+List failed fixtures, quantities, heights and types, noting whether the fault appears to involve the lamp, driver or wiring. Provide label photographs if available; request compatible replacement parts and access arrangements, then test lighting after repair.
 
 ## Request, comparison and handover
 

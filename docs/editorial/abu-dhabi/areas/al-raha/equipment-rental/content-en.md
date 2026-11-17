@@ -44,3 +44,20 @@ The source lists individual skills in excavator, lifting and site-equipment oper
 ## Review boundaries
 
 This guide does not certify a particular machine or factory or establish an operating permit. Verify equipment suitability, lifting plan, safety and site requirements with the responsible technical professional and relevant authority before operation.
+
+### Light tools and equipment rental
+
+#### 8. Generator rental
+Define required power, fuel type, operating duration, simultaneous loads, generator location and cable route. Provide an appliance schedule and site photos. Specify connections, earthing, fuel, noise and maintenance. Check protection, operation and readings before connecting loads.
+#### 9. Cleaning-equipment rental
+State surface type, soil, area, water and drainage availability and required drying method. Provide site and floor-material photos. Specify machine, attachments and compatible chemicals. Trial on a small area and confirm the finish is not damaged.
+#### 10. Air-compressor rental
+Define working pressure, airflow, connected tool, hire duration and power source. Provide tool data and connection route. Specify receiver capacity, hose, filters and maintenance. Check leakage, pressure and safety valve before operation.
+#### 11. Power-tool rental
+Describe the task, material, tool size, attachment and hire period. Provide site photos and task specifications. Request tool condition, accessories and breakdown-replacement terms. Inspect cable, guards, operation and attachment before handover.
+#### 12. Welding-equipment rental
+Specify metal type and thickness, welding process, power source, work location, ventilation and protection needs. Provide joint photos and task details. Request machine, leads, accessories and safety equipment. Check earthing, cable condition and operation before use.
+#### 13. Water-pump rental
+Define water source, flow, head, hose length, fluid type and discharge point. Provide a site plan and level difference. Request performance curve, filters and power requirements. Test flow, connections, leakage and suitability for the task.
+#### 14. Garden-equipment rental
+Define garden area, task, plants and surfaces, power source, noise limits and storage. Provide photos and a task list. Specify machine, attachments and protective equipment. Inspect blades, guards and operation, and agree cleaning and return condition.

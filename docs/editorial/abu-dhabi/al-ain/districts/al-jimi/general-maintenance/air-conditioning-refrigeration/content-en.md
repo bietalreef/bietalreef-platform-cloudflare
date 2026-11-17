@@ -94,6 +94,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Safety and scope clarification:** Check new-unit capacity against existing mounts, electrical supply, drains and pipework before assuming reuse. Itemise removal, compliant refrigerant recovery and lawful disposal of the old unit. Record the replacement model, commissioning and warranty; a new unit alone may not correct poor air distribution.
 
+**Decision on reusing existing services:** Do not assume old refrigerant pipework, power cabling or mounts suit the replacement merely because they served the previous unit. Ask the contractor to document compatibility against the new model's requirements and identify changes before agreement. Specify who removes and receives the old equipment; refrigerant must not be vented.
+
 ## 7. System testing and commissioning
 
 **When to request it:** After installation or major repair, commissioning must document performance rather than just power-on.
@@ -122,6 +124,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Safety and scope clarification:** Isolate electrical power and protect furnishings before coil and condensate-tray washing. Agree wastewater capture, cleaning products and surfaces where chemicals are unsuitable. Cleaning excludes refrigerant leak repair and replacement components; verify free drainage after restart.
 
+**Cleaning method decision:** Require the quote to distinguish dry cleaning from washing based on the coil, electrical components and installation location, and explain how circuits and finishes are protected and wash water collected. Do not approve disinfectant or chemical misting inside air paths without a defined need and demonstrated material compatibility. Check drainage after drying and restart.
+
 ## 9. Refrigerant charging
 
 **When to request it:** Poor cooling does not by itself prove low refrigerant; diagnose and investigate leaks first.
@@ -149,6 +153,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Request a quotation:** Send fault codes, symptom video and model details; request diagnostic fees, written cause, each part cost, labour and repair warranty.
 
 **Safety and scope clarification:** Do not authorise compressor or control-board replacement from symptoms alone. Obtain a qualified technician's documented fault diagnosis, error codes and operating measurements. Quote components, labour and warranty separately, and retest the original failure condition after repair.
+
+**Repair authorisation decision:** Ask the technician to connect an error code or symptom to a recorded diagnostic measurement or test before authorising board or compressor replacement. Agree the diagnostic charge if repair is declined and the approval process for further parts found necessary after opening the unit. Reproduce and test the original fault under recorded operating conditions after repair.
 
 ## 11. Air duct cleaning
 
@@ -209,4 +215,6 @@ This guide covers company and establishment services, not individual tradesperso
 **Request a quotation:** Send equipment inventory, locations and operating hours; request visit frequency, response terms, emergency coverage, exclusions and parts approval procedure.
 
 **Safety and scope clarification:** List covered assets, visit frequency, tasks, response windows and fault-reporting procedure. Spare parts, refrigerant and lifting are excluded unless expressly included and priced. Review visit reports and unresolved actions; response time does not guarantee repair completion.
+
+**Contract coverage decision:** Identify each covered asset by number and location, and distinguish preventive visits from emergency calls and response time from repair completion time. Check whether outdoor-coil cleaning, drain checks, reports and photographs, follow-up visits and out-of-hours work are included. Set explicit approval and charging rules for excluded parts and work.
 

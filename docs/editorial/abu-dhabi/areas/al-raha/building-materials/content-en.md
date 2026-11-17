@@ -53,3 +53,5 @@ Specify substrate, colour, sheen, quantity and primer system, and state whether 
 Choose products by application location, substrate and complete system rather than trade name alone. Provide the project specification or a photo of the previous product. Compare performance data, compatibility, accessories and shelf life; do not use a substitute without technical approval, and check batch references on receipt.
 #### 21. Delivery of materials to the project
 Delivery requires a material list, quantities, approximate weights, exact site location, unloading point and a time permitted by the site. Clarify whether lifting, unloading or internal movement is included, and agree responsibility for damage, delay and returns. Accept by checking quantities and packaging condition and recording shortages immediately.
+
+undefined

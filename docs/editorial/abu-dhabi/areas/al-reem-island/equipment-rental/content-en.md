@@ -35,3 +35,33 @@ Instead of requesting unspecified 'project equipment', list each task, location,
 ## Request a quotation
 
 Send Biet Al Reef customer service your name, contact number, area (Al Reem Island), service and equipment required, task description, dimensions or quantities, hire period, site and access photos, preferred dates and operating constraints. The enquiry can be reviewed without promising price, availability or a booking. Individual tradespeople are maintained in a separate directory from companies and establishments.
+
+## Light tools and equipment hire
+
+### 8. Generator hire
+
+For a site without adequate electrical supply, list the loads in kW or kVA, operating voltage, motor starting demand and expected running hours. Share equipment nameplate photographs, the proposed generator position and cable routes, and explain whether power is continuous or standby. Compare continuous rather than peak rating, fuel, cables, earthing, noise, servicing, delivery and collection. At handover request a suitable load test, check protection and leaks, and record running hours and fuel level. Connection to a building installation needs a competent designer and safe isolation arrangements.
+
+### 9. Cleaning equipment hire
+
+Identify the surface, area, type of soiling and available water, power and drainage before choosing a floor scrubber, wet vacuum or pressure washer. A carpet extractor is not suitable for every floor finish; ask about brush and chemical compatibility. Provide photos of stains, obstacles and access routes, and clarify tank capacity, cleaning width, attachments and included detergents. Compare transport, consumables and return-cleaning charges. Test suction, leaks, cables and brushes on collection and record the machine's condition after use.
+
+### 10. Air compressor hire
+
+Pneumatic tools require specified working pressure and airflow. Send each tool's specifications, the number used simultaneously and hose lengths. Compressors differ in sustained output and air quality, especially for spraying or applications sensitive to oil and moisture. Compare tank, hoses, connectors, filters, fuel or power and delivery arrangements. Inspect the safety valve, gauge, hoses and leaks and request condensate-draining instructions. Do not use a compressor unsuited to the required pressure.
+
+### 11. Power tool hire
+
+Describe the operation, material and thickness—for example drilling concrete, cutting timber or grinding metal—rather than asking for generic power tools. Provide work-area photographs, hole diameter or cut depth, power supply and whether the site is occupied. Compare model, bits or discs, consumable charges, dust controls and rental period. Inspect the lead, handles, guards and switch, then test the tool without load and under a suitable working load before accepting it.
+
+### 12. Welding equipment hire
+
+Specify the metal, thickness, joint type and approximate weld length, and whether the work is in a workshop or an exposed site. Arc, wire-feed and other welding processes call for different machines, supplies and fixturing. Request the operating current, duty cycle, leads, return clamp and whether wire, electrodes or shielding gas are included. Compare consumables, transport and downtime terms. Check insulation, connections and cooling at handover; arrange fire precautions, ventilation and protection of nearby people before work starts.
+
+### 13. Water pump hire
+
+Describe the water source, volume to remove, vertical lift, discharge distance and hose diameter, and whether the water contains sediment. Surface drainage, excavation dewatering and pumping to an elevated tank require different equipment. Ask for the pump performance curve at the actual head rather than relying on the advertised maximum flow. Send intake and discharge photos and ensure discharge will not damage neighbouring areas. Compare hoses, fittings, power or fuel, maintenance and delivery. Test flow, leaks and dry-run protection at handover.
+
+### 14. Garden equipment hire
+
+Specify the area, plants and task: mowing, hedge trimming, shredding waste or preparing soil. Share photos of slopes, paths and obstacles and identify noise or working-hour constraints. Compare cutting width or machine capacity, fuel or batteries, blades, protective equipment and transport. At handover inspect blade guards, stop controls, tyres or batteries and record fuel or charge level. Avoid using unsuitable cutting equipment near stones or exposed irrigation lines.

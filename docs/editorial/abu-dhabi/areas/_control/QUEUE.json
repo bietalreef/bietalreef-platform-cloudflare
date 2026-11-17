@@ -584,19 +584,19 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/furniture-decor/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Equipment-rental services 1–21 verified bilingual on GitHub, 3/8 specialties in sector; Al Reem 360/434, 74 remaining. Next service 22 قص الرخام والحجر. Editorial draft only; restricted factory categories not activated.",
+      "review_note": "Equipment-rental services 1–28 verified in Arabic and English; 4/8 specialties in this sector, 367/434 total area services; remaining 67. In progress, pending technical/language review.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
-        "last_completed_specialty": "مصانع الألمنيوم والزجاج",
-        "last_completed_service_number": 21,
-        "next_specialty": "مصانع الرخام والحجر",
-        "next_service_number": 22,
-        "sector_completed": 21,
+        "last_completed_specialty": "مصانع الرخام والحجر",
+        "last_completed_service_number": 28,
+        "next_specialty": "متاجر الأدوات والمعدات",
+        "next_service_number": 29,
+        "sector_completed": 28,
         "sector_total": 53,
-        "area_completed": 360,
+        "area_completed": 367,
         "area_total": 434,
-        "remaining_area_services": 74,
+        "remaining_area_services": 67,
         "editorial_draft_completed": false,
         "area_editorially_approved": false
       }

@@ -50,7 +50,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Compare quotations and agree terms:** compare coating system, UV resistance, access equipment and permits. Require a safe access plan for each elevation, protection of vehicles, pedestrians and glazing, and clear responsibility for permits and scaffold-related damage.
 
-**Acceptance inspection:** inspect uniform finish, adhesion, edges and window cleanliness. Inspect window and movement-joint edges from safe viewing points, and verify scaffold removal leaves no damage or debris.
+**Acceptance inspection:** Check colour uniformity, edges and clean glazing from safe access points. Appearance alone does not prove adhesion; request a suitable documented adhesion test where the coating specification requires one. Inspect window and movement-joint edges from safe viewing points, and verify scaffold removal leaves no damage or debris.
 
 **Additional quality gate:** Specify façade access and protection for passers-by and windows, and assess coating adhesion and surface salts; do not coat over unresolved flaking or dampness.
 
@@ -104,7 +104,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Compare quotations and agree terms:** compare stripping limits, dust containment and disposal. Make acceptance of a dry, sound substrate a separate hold point before repainting; assign responsibility for moisture diagnosis and stopping work if suspect hazardous coatings are found.
 
-**Acceptance inspection:** confirm dry, stable substrate before recoating. Photograph the dry, sound substrate before priming and record moisture readings if taken; do not accept a new coat concealing unresolved blistering.
+**Acceptance inspection:** Document removal of unsound coating and assess substrate dryness against the product's applicable limits and the agreed measurement method before priming; visual dryness alone is insufficient. Photograph the dry, sound substrate before priming and record moisture readings if taken; do not accept a new coat concealing unresolved blistering.
 
 **Additional quality gate:** Assess coating age, composition and possible hazardous constituents before scraping or sanding; do not dry-strip or disperse dust of unknown composition without competent assessment and containment.
 

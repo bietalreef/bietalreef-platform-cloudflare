@@ -70,6 +70,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Send the ceiling plan, outlets and obstacles; request duct quantities, metal specification, insulation, supports, inspection access and penetration sealing.
 
+**Pre-closure decision:** Coordinate duct routes against sprinklers, cables and service hatches on the ceiling plan. Assign fire-barrier penetration sealing and reject access points concealed behind fixed gypsum. The quote must state whether air balancing and duct leakage tests are included or separately charged.
+
 ## 6. AC unit replacement
 
 **When to request it:** A failed or inefficient unit should not be replaced without checking capacity and compatibility with existing services.
@@ -95,6 +97,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Obtain a dated report linking each reading to equipment ID, measurement point, operating conditions and agreed acceptance limit, with pass/rectify status and documented retesting after corrections.
 
 **Request a quotation:** Provide equipment IDs, drawings and previous faults; request a measurement schedule, test duration, signed results and any retest charge.
+
+**Commissioning acceptance decision:** Passing a single-unit test is not proof of room-by-room air distribution. Record ambient conditions, filter condition and fan settings during measurements. Do not accept unexplained readings without test locations, or unresolved defects without an assigned owner and retest date.
 
 ## 8. AC unit cleaning
 
@@ -122,6 +126,8 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Request a quotation:** Share the nameplate refrigerant type, charging history and symptoms; ask for separate diagnosis, leak repair, tightness test, evacuation and weighed recharge.
 
+**Diagnosis before charging:** Establish whether refrigerant was lost through a leak or previous servicing and how the underlying cause will be verified as resolved. If the leak location is inaccessible, record that limitation and do not describe a temporary top-up as a permanent repair. Document compliant recovery and handling of refrigerant.
+
 ## 10. AC fault repair
 
 **When to request it:** No-start, icing and water leakage have different causes; diagnose before replacing parts.
@@ -147,6 +153,8 @@ This guide covers company and establishment services, not individual tradesperso
 **Acceptance check:** Require internal before-and-after photographs at agreed access points, a list of inaccessible duct runs, and confirmation that access openings are resealed and no debris remains in ducts or outlets.
 
 **Request a quotation:** Specify duct zones, access points and deposit photographs; ask how dust is contained, extracted, documented and whether any chemical treatment is proposed.
+
+**Cleaning scope decision:** State whether coils, plenums and extraction fans are included or whether the work covers duct runs only. Agree repeatable internal photo locations for before-and-after comparison. Clean grilles alone do not prove that internal duct runs were cleaned; list excluded sections at handover.
 
 ## 12. Central AC maintenance
 

@@ -1586,3 +1586,8 @@
 
 - الحالة `in_progress`. أعيد تحرير خدمات «توريد الجبس»، «توريد مواد الدهانات»، «توريد مواد العزل»، «توريد الأرضيات» بالعربية والإنجليزية، مع نطاقات ومواصفات وفحوص استلام مخصصة: [العربية](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md). تمت إعادة قراءة الملفات الثلاثة من GitHub والتحقق من النص المحفوظ.
 - **أول نقص دقيق:** الخدمة 12 في `building-materials/building-finishing-materials/content-ar.md` و`content-en.md`، ثم الخدمات 13–21؛ بعدها جرد التخصصات الخمسين والخدمات الـ434 بكل لغة عبر القطاعات الثمانية، ومطابقة الأسماء والترتيب والتكافؤ والتكرار وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة 2026-11-17 — تصحيح نطاق بيع المواد 17–20
+
+- الحالة `in_progress`؛ صُححت فقرات نطاق ومقارنة أربع خدمات بيع بالتجزئة بالعربية والإنجليزية في [العربية](./building-materials/building-finishing-materials/content-ar.md) و[English](./building-materials/building-finishing-materials/content-en.md) و[المراجعة](./building-materials/building-finishing-materials/review.md)، وأُعيدت قراءة الملفين بعد الحفظ.
+- **أول نقص تالٍ:** تدقيق الخدمات 12–16 ثم 21 في مواد البناء والتشطيب؛ ثم مطابقة جميع تخصصات الشركات الخمسين والخدمات الـ434 بكل لغة مع المصدر، والتكافؤ الفني والتكرار وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

@@ -167,6 +167,36 @@ Choose the system after checking falls, drains, joints, penetrations and the exi
 Confirm tank material and use, the condition of internal or external surfaces and compatibility of the proposed product. Provide internal and external photos and tank dimensions. Request cleaning, preparation, application and return-to-service steps. Accept after checking coverage, details and leakage testing appropriate to the specified system.
 #### 63. Moisture remediation after leakage
 This follows repair of the water source and focuses on drying affected layers, removing damaged material and reinstating finishes. Provide before-and-after photos and any leak-test result. Ask for a clear dryness criterion before closure. Check that staining does not return and the substrate is sound; active moisture must not be hidden with paint.
+### Air conditioning and refrigeration
+
+#### 64. Split AC installation
+Select the unit against room area, heat load, indoor and outdoor locations, condensate route and electrical supply. Provide room dimensions and height with wall and outdoor-unit photos. Specify capacity, pipe length, insulation and mounting base. Test cooling, condensate drainage and vibration after commissioning.
+#### 65. Central AC installation
+A central system requires review of loads, zones, equipment locations, ductwork, controls and drainage. Attach plans, area schedules and existing-system details if available. Compare capacity, efficiency and supply, installation and testing scope. Accept with a commissioning report and airflow and temperature readings for each zone.
+#### 66. Concealed AC installation
+Coordinate the concealed unit with ceiling height, access panels, air routes, drainage and power. Provide ceiling drawings, available void dimensions and route lengths. Specify supply and return locations and acoustic treatment. Check maintenance access, air balance and condensate leakage.
+#### 67. AC refrigerant pipe installation
+Define pipe diameters, route length, elevation differences, insulation type and joint locations. Attach the proposed route and photos of penetrations. Request leak testing and evacuation before charging. Inspect supports, continuous insulation and route protection before concealment.
+#### 68. Air-duct installation
+Ductwork needs a plan showing sections, lengths, bends, supply and return outlets and ceiling clearances. Provide drawings, dimensions and equipment data. Specify material gauge, insulation, suspension and joint sealing. Inspect duct cleanliness, support stability, air leakage and distribution during operation.
+#### 69. AC unit replacement
+Before replacement, compare the old unit's condition and failure cause with system capacity and available connections; the old capacity should not automatically be assumed correct. Send the data plate and location photos. Clarify removal, disposal, connection changes and warranty. Accept after operation, cooling and drainage tests.
+#### 70. System commissioning and inspection
+Request commissioning after installation, shutdown or a performance complaint. Prepare system drawings, fault history and control-panel photos. Ask for measurements such as temperatures, pressures, airflow and alarms as relevant to the system. Accept a report showing readings, adjustments and defects requiring separate repair.
+#### 71. AC unit cleaning
+Cleaning scope depends on unit type, filter and coil condition and condensate drainage; one chemical method is not suitable for every component. Send unit photos, quantities and access details. Ask which parts will be removed and how the room is protected. Check clean and dry components and clear drainage before restart.
+#### 72. Refrigerant charging
+Do not request charging for weak cooling before checking why the charge is low and whether a leak exists. Provide unit type, refrigerant data, available readings and last service date. Request leak detection and repair, then charging by the manufacturer's specified quantity. Record refrigerant type, amount and operating readings.
+#### 73. AC fault repair
+Start by identifying the symptom: no operation, poor cooling, noise, water leakage or repeated tripping. Provide model, error code and a short noise recording if useful. Compare diagnostic labour, parts and warranty, and ask why replacement is proposed. Test the unit under operating conditions and record the repair.
+#### 74. Air-duct cleaning
+Define the duct sections, units, outlets and any internal lining or filters. Provide AC drawings, outlet count and grille photos. Ask how access is created, dust is contained and the area protected. Request before-and-after images and a record of cleaned sections, then check that all openings are resealed.
+#### 75. Central AC unit maintenance
+Maintenance covers equipment, electrical and mechanical components, drainage and filters as appropriate to the system. Provide model, service history and symptoms. Request a checklist of inspections, consumables and recommendations. Compare included and separately charged work, then accept a condition report and operating readings.
+#### 76. Spare-parts replacement
+Confirm part number, equipment model, failure cause and electrical or mechanical compatibility before purchase. Provide the data plate and a photo of the old part if possible. State whether the replacement is original or equivalent and its warranty. Check part number and function, test the unit and agree whether the removed part is returned.
+#### 77. Periodic maintenance contracts
+The contract should define visit frequency, covered equipment, cleaning and inspection tasks, emergency response and excluded parts. Provide an asset list with models, locations and fault history. Compare response times, reports, parts allowances and extra-visit charges. Receive a maintenance calendar and a record for every visit.
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

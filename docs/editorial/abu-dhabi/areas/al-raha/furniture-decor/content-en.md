@@ -75,3 +75,15 @@ Inspect frame, springs, filling and old fabric to decide what can be retained an
 Identify sofa model, upholstery area, textile type, pattern direction and required durability. Provide photos, measurements and fabric sample. Clarify whether foam removal and repair are included. Inspect pattern alignment, even tension and corner finish after reupholstery.
 #### 19. Foam and filling replacement
 Select filling by seat dimensions, firmness and everyday use. Provide cushion measurements and condition photos. Specify foam type, density and filling layers. Compare a sample by actual seating feel and check shape recovery and even height after installation.
+### Curtains, carpets and furnishings
+
+#### 20. Curtain tailoring
+Measure each window width and height and define track position, fabric, lining, light control and drop. Provide photos, dimensions for every opening and a fabric sample. Request fabric quantity and pleat method; inspect equal lengths, pattern direction and edge finish before installation.
+#### 21. Curtain installation
+Check ceiling or wall type, track length, brackets, travel path and curtain weight. Provide window and track photos and dimensions. Specify anchors. Test full curtain movement, bracket stability and clearance from floors and furniture.
+#### 22. Upholstery-fabric supply
+Define use, abrasion exposure, colour, pattern, textile width, weave and cleaning instructions. Provide a reference sample and required metreage. Compare colourfastness, texture and batch availability; inspect batch number, width and defects before cutting.
+#### 23. Carpet and carpet-tile supply
+Define room area and shape, fixing method, pile density, underlay and traffic. Provide plans, dimensions and floor photos. Specify edges, skirting and cutting. Check pattern direction, colour, dimensions and quantity before installation.
+#### 24. Mattress supply
+Select by bed size, base height, firmness, ventilation and the user's actual needs. Provide bed dimensions and a base photo. Request layer construction, warranty and trial or exchange terms. Check size, product label and packaging condition on delivery.

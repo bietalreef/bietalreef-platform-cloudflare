@@ -52,6 +52,29 @@ Use this service for flat-pack furniture or pieces that need reassembly after re
 #### 14. Minor fault repairs
 This service is for limited faults that may be diagnosed and repaired during a short visit. Describe the symptom rather than writing only “general maintenance”: identify a noise, leak, failed component or intermittent issue, when it occurs and any useful photo or short video. Ask for diagnosis labour to be separated from possible parts. Do not approve an unexplained replacement. At handover, test the repair with the customer and record any replaced components.
 
+### Integrated finishing
+
+#### 15. Villa finishing
+Villa finishing coordinates related items such as surfaces, floors, paint, doors, lighting and fixtures; it is more than a single isolated trade. Define the areas, building condition and completed work, and attach drawings, a finish schedule and site photos. Compare quotations against a bill of quantities, specifications, samples, payment stages and tests. Accept each stage before concealed work is covered.
+
+#### 16. Apartment finishing
+Start with an inventory of rooms, bathrooms, kitchen and corridors, and clarify whether the apartment is new or occupied during renovation. Provide a plan, dimensions and current-condition photos. Identify work that needs building-management coordination, such as deliveries or noisy work windows. The quote should separate materials, labour, protection, cleaning and testing. Accept each item individually and record exclusions.
+
+#### 17. Shop fit-out
+A shop fit-out depends on the business activity, customer circulation, service areas and storage. Fix the space plan before pricing the façade, lighting and floors. Attach the layout, dimensions, visual identity and equipment requirements, and distinguish permanent work from removable fixtures. Compare proposals by item scope and suitability for the intended operation. Inspect workmanship, connection safety and maintainability before the shop is equipped for use.
+
+#### 18. Office fit-out
+An office fit-out should count workstations, meeting rooms, reception and support areas while coordinating circulation, power, data and lighting. Send the furniture plan, expected user count and site photos, and request separate pricing for partitions, ceilings, flooring and services. Where relevant, compare acoustic treatment, finish quality and test procedures. Accept each room after checking sockets, lighting and doors.
+
+#### 19. Interior-space renovation
+Renovation changes the layout or appearance of an existing space while retaining elements that remain serviceable. Identify what will be removed and reused, and provide photos, dimensions and a plan showing existing furniture and services. Ask the contractor to separate strip-out, disposal, repair, supply and installation costs. If the property remains occupied, specify protection for active areas. Accept against the agreed layout, materials and scope.
+
+#### 20. Decorative works
+Decorative work turns a concept into buildable drawings, materials and details, such as wall cladding, display units or feature elements. Send reference images, wall dimensions, heights and the positions of electrical and AC services. Request a physical sample or material board before fabrication. Compare joint details, finish, edges and maintenance requirements, then inspect alignment, fixing stability and clean joints.
+
+#### 21. Complete finishing handover
+Use this service to close a finishing scope delivered by several trades or subcontractors. Prepare a room-by-room checklist covering surfaces, doors, visible electrical and plumbing work, and available material or warranty documents. Appearance alone is not enough: test functions, record defects with photos, assign responsibility and set a reinspection date. The handover record should distinguish accepted items from open items and must not be presented as government approval.
+
 ## Requesting a quotation when no company is listed
 
 Bait Al Reef customer service can receive a service request even when no suitable establishment appears in the directory. Provide a name and contact method, property type and location, service name, problem or desired outcome, photos and dimensions, existing materials or equipment, expected scope, access restrictions and working hours, and whether the request is for inspection, supply, execution or a combination. This information is not a binding quotation; it helps clarify the request and determine the next step without inventing a company, price or appointment.

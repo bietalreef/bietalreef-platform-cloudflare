@@ -62,15 +62,15 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Requesting quotes:** State the specified concrete strength, pour volume, pump location and pour window; request separate rates for concrete, pumping, waiting, tests and part-load charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
-## 7. Project-wide construction material supply
+## 7. Construction material supply for projects
 
-**When and what to provide:** For project-wide construction material supply to an Al Jimi project, supply phased bill of quantities with line-by-line specifications and required dates, plus relevant site or sample photos and drawings. Stage the bill of materials to avoid storing vulnerable goods too early on site.
+**When and what to provide:** For a project requiring several materials over successive construction stages, prepare an approved item schedule showing each product, unit, quantity, specification and planned use date. Attach access photos, an unloading plan and realistic storage capacity; flag products vulnerable to moisture or heat. A generic request for “structural and finishing materials” is not enough for comparable quotations.
 
-**Quotation scope and comparison:** Compare the bill of quantities line by line, not unlike-for-like substitutes; tie deliveries to construction stages and available storage. Itemise transport and unloading separately, and specify returns and transit damage; engineering inspection or installation is excluded unless expressly agreed.
+**Quotation scope and comparison:** Require a separate rate for each specified item, including its grade or manufacturer, unit of measure, quotation validity and any alternative subject to approval. Compare offers using identical quantities, specifications and delivery stages. Separate freight, lifting, unloading and waiting charges. A consolidated supply contract does not automatically include installation, engineering verification or on-site inventory management.
 
-**Agreement and acceptance:** Link each shipment to a bill-of-quantities line, construction stage and available storage area. At receipt, verify each shipment matches its purchase order and site readiness. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Link purchase orders to construction stages and require the responsible technical party to approve substitutions. Define order notice periods, responsibility for late critical items, shortages, damaged goods and returns according to the product type. For each delivery, match quantities, labels and batch references where applicable to the purchase order; photograph discrepancies before materials are distributed. Visual checks alone cannot establish structural-material compliance.
 
-**Requesting quotes:** Send the approved bill of materials split by item, quantity and delivery stage; request permitted substitutions, batch approval steps and itemised invoicing. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Share an itemised, reviewable schedule with quantities, specifications, staged delivery dates and unloading location. Ask for item-by-item prices, lead times, substitution approval rules, replacement conditions and separate delivery invoices. Biet Al Reef customer service can help prepare the request without guaranteeing a supplier, price or delivery date.
 
 ## 8. Gypsum material supply
 

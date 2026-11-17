@@ -100,3 +100,7 @@
 
 ### Progress checkpoint — 2026-11-17
 Equipment-rental now contains 14/53 services in Arabic and English, both files re-fetched and numbered 1–14. Six sectors complete; total Al Reem Island 353/434 services, 81 remaining, status in_progress. Next specialty: مصانع الألمنيوم والزجاج; next service: 15 تصنيع قطاعات الألمنيوم. No other locality started.
+
+### تحديث 17 نوفمبر 2026 — مصانع الألمنيوم والزجاج
+
+أُضيفت الخدمات 15–21 إلى [محتوى المعدات العربي](equipment-rental/content-ar.md) و[الإنجليزي](equipment-rental/content-en.md)، وتحقق إعادة الجلب من وجود 21 عنوان خدمة متسلسلًا بكل لغة. قطاع المعدات 21/53 خدمة و3/8 تخصصات. التقدم التراكمي لجزيرة الريم 360/434 خدمة بكل لغة، 37/50 تخصصًا، و6/8 قطاعات مكتملة؛ المتبقي 74 خدمة. التالي «مصانع الرخام والحجر» الخدمة 22 «قص الرخام والحجر». حالة المنطقة in_progress. تصنيف مصانع الألمنيوم والزجاج غير قابل للاختيار حاليًا؛ التحرير لا يفعله. لا دمج أو نشر.

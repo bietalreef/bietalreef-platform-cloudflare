@@ -131,3 +131,34 @@ Identify the rooms and surfaces to be treated and the reason for the request. St
 
 An office or facility request should identify area, occupancy hours, frequently touched points, meeting rooms, reception and washrooms, along with equipment or materials that may be affected by spray. Provide a floor plan and photographs, and select a time that allows rooms to be vacated and ventilated before staff or visitors return. Request a plan stating product, application method, concentration, contact time, ventilation and excluded surfaces in line with the product label and competent advice. Compare crew size, stages, treatment records and repeat-visit charges. At handover, reconcile treated areas against the plan, confirm that equipment and furniture are restored and tell the site representative when the premises may safely be reoccupied.
 
+
+## Building operations and maintenance
+
+### 29. Maintenance-work management
+
+Maintenance management starts with an asset and work-request register, not simply receiving fault calls. Identify property types, common areas and systems in scope, and provide equipment lists, fault history and existing contracts where available. Ask how requests are logged and prioritised, how a contractor is assigned and how approval is obtained before additional work, with reports showing cost, timing and closure. Compare follow-up coverage, response hours, supplier coordination and warranty administration rather than visit count alone. At handover, review open and closed requests, deferred work and the person responsible for each follow-up.
+
+### 30. Facilities operation
+
+Facilities operation covers day-to-day oversight of areas and systems that support building use, such as entrances, corridors, shared amenities and operational services. State operating hours, occupancy, number of areas, service points and management contacts, and provide a site plan. Request a shift and inspection-round plan, recording of readings and faults, coordination of cleaning and waste, and a route for escalating issues that require specialist technicians. Compare team size, coverage hours, reports and each shift's duties. At handover, confirm daily logs, responsibility matrix and shift-to-shift handover method; do not assume that operation includes technical work not agreed in the scope.
+
+### 31. Preventive maintenance
+
+Prepare an asset register showing equipment type, model, location, operating hours and fault history. Define preventive tasks by manufacturer guidance and actual asset condition. Provide equipment schedules and possible shutdown windows, and request a plan covering routine inspections, consumables, anticipated replacement parts and record keeping. Compare visit frequency, included checks, parts costs, system downtime and whether emergency repairs are outside the contract. Handover should include dated checklists, readings before and after service and recommendations for assets needing follow-up, with a named person responsible for closing each finding.
+
+### 32. Electrical-system monitoring
+
+Identify the panels and areas in scope. Provide a single-line diagram if available, panel and breaker references and records of trips or outages. Ask the provider to define inspection scope, readings to be collected and escalation for heat, odour or unusual loads, and to state who is authorised to carry out repairs. Panels must not be opened or live work undertaken without competent personnel and suitable safety controls. Compare inspection rounds, records, measurement equipment and fault reporting rather than panel count alone. At handover, review readings, findings, corrective actions and any work requiring a separate repair order.
+
+### 33. Air-conditioning system monitoring
+
+Prepare a list of units with locations, models and operating hours, and record complaints about weak cooling, temperature variation, noise or condensate leakage. Provide nameplate, air outlet, filter and plant-area photographs and identify room access windows. Request a plan covering operating and temperature readings, filters, drainage, controls and air distribution, while separating cleaning from fault repair or parts replacement. Compare inspection frequency, reports, spare parts and response to complaints. At handover, review unit readings and deferred findings and confirm that covers are closed and thermostats and work areas have been restored.
+
+### 34. Plumbing and drainage monitoring
+
+Identify tanks, pumps, isolation points, meters and drains, and record leaks, odours, slow drainage, pressure changes and when they occur. Provide photographs of affected areas and plumbing drawings where available. Clarify whether common areas, individual units or both are included. Request inspection rounds, pressure readings, pump, valve and drain checks and repair records, including how services will be isolated if needed. Compare the number of points and visits, materials and responsibility for reinstating finishes after repairs. At handover, test treated points, review leak history and replaced parts and list areas requiring further monitoring.
+
+### 35. Building-condition reports
+
+State the report purpose—routine monitoring, handover or pre-maintenance assessment—then identify the building and areas to be inspected and whether units are occupied. Ask the quotation to define inspection scope, systems reviewed, inspection depth and access limitations. The report should include dated photographs, location of each finding, description, priority and recommended next action. Compare a simple defect list with a report that links each observation to its location, impact and supporting evidence. It should identify inaccessible areas and matters requiring specialist testing or a separate engineering opinion. At handover, check area coverage, photographs, finding references and follow-up responsibility.
+

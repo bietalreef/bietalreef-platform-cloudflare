@@ -163,3 +163,34 @@ Parts that look alike may not fit or operate safely in the same machine. Supply 
 ### 35. Equipment maintenance
 
 Record the fault, operating conditions, hours, noises and error codes before seeking repair, and stop use where an obvious hazard exists. Supply the model, nameplate photograph and service history. Request diagnosis distinguishing routine maintenance, component replacement and calibration. The quotation should separate inspection charges, parts, labour, testing and workmanship warranty, with approval required before extra repairs. At handover obtain a record of replaced parts and test results and confirm guards and protective devices have been reinstated correctly.
+
+## Furniture and property moving
+
+### 36. Household furniture moving
+
+Before requesting a household move, list rooms, large items and sensitive appliances, and record dimensions of pieces that may not pass through doors or lifts. Send photographs of entrances and the loading route, and state the floor, lift availability and building access windows after confirming them with management. Ask for a quotation separating packing materials, dismantling and reassembly, crew size, vehicle type and waiting time. Compare floor and corner protection and the handling of glass, then reconcile every item against the inventory at delivery and record scratches or shortages before signing.
+
+### 37. Office furniture moving
+
+An office move needs an inventory of desks, chairs, cabinets, equipment and files before vehicle and crew requirements can be assessed. Number cartons and workstations and map each item to its destination. Identify who will disconnect computers, networks and equipment that requires a qualified IT technician. Provide floor plans and lift and loading-area photographs, and state acceptable downtime so operations can be planned. Compare packing, labelling, dismantling, reassembly, transport and loading rather than counting trips alone. At handover, reconcile the inventory, inspect furniture and confirm that equipment and files are placed at the agreed locations with no missing accessories.
+
+### 38. Furniture dismantling and reassembly
+
+Use this service when furniture must be taken apart for a move, a joint needs repair or a unit must be reassembled in a different room. Send front and rear photographs, fixing details, the brand or model if known, and images of special screws, hinges and fittings. The quotation should state whether existing hardware can be reused or replacements are required, and whether door and drawer adjustment or wall anchoring is included where appropriate. Compare experience with timber, glass and moving mechanisms as well as the cost of extra parts. Check alignment, stability and smooth operation at handover; do not allow drilling until concealed service routes have been checked.
+
+### 39. Furniture wrapping and packing
+
+Packing methods depend on the surface and the duration of transport or storage: polished timber, glass, fabric and appliances need different protection. Provide an item list and photographs of current condition, identifying fragile pieces and surfaces vulnerable to moisture or scratches. Ask which wrapping materials and protective layers will be used, how corners are protected, how items are secured inside the vehicle and whether every package will be numbered against the inventory. Compare materials, labour, unpacking at destination and waste removal rather than the number of rolls. Photograph items before packing and inspect package condition on delivery before removing the protection.
+
+### 40. Loading labour
+
+State the number of items, approximate weights, floors and carrying distance between the property and vehicle. Identify stairs, narrow corridors and pieces that require a team lift. Photographs of the route and heavy items help avoid estimating crew size from property area alone. Request a quotation showing crew size, supervisor, working hours, minimum booking, tools and lifting equipment where needed, plus the basis for waiting time or overtime. Compare responsibility allocation, corridor protection and fragile-item handling. After loading, reconcile the inventory, check the route for damage and confirm that items are secured safely.
+
+### 41. Temporary storage
+
+Before reserving storage, estimate furniture volume, carton count and likely duration, and identify items sensitive to heat or moisture. Provide an inventory and photographs of valuable or delicate pieces. Ask about warehouse conditions, ventilation, protection from water ingress and pests, access control and inspection arrangements. The quotation should separate intake, release and handling charges, extra-period rates, insurance or liability limits and access terms. Compare item identification and movement records rather than storage area alone. Record item condition and quantities at intake; on release, reconcile the inventory and inspect packaging and contents before closing the request.
+
+### 42. Inter-emirate property moving
+
+Provide exact collection and destination addresses, the type and quantity of property, dimensions of large items and the requested date, together with photographs of access and loading areas at both ends. Clarify whether the service includes packing, dismantling, reassembly or storage, or transport only, and whether there are multiple stops or staged deliveries. Compare vehicle type, crew, distance, waiting-time basis, loading, packing and responsibility for transit damage. Do not rely on a final estimate until the inventory and access at both addresses have been reviewed. At destination, reconcile furniture and cartons against the list, inspect their condition and record discrepancies before accepting delivery.
+

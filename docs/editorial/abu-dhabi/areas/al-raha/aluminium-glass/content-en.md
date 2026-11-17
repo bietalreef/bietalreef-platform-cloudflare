@@ -58,3 +58,34 @@ The source lists skills in joinery, iron and metalwork, aluminium and glass. Lis
 ## Review boundaries
 
 This guide does not certify products or workshops and does not interpret safety or permit requirements. Verify any special rating, mandatory specification or façade consent with the relevant authority, property management and consultant before fabrication or installation.
+
+### Wood furniture and decor
+
+#### 15. Custom furniture fabrication
+Start with site dimensions, item function, expected load, timber or board type and finish. Provide a sketch or reference image and measurements of corridors and doors. Request shop drawings and a colour sample; compare joints, edges, hardware and warranty, then inspect dimensions and stability before handover.
+#### 16. TV console fabrication
+Define the console against screen and equipment dimensions, ventilation openings, cable routes and loads. Provide equipment sizes, socket locations and a wall photo. Request shelf and opening drawings; check stability, cable access and that ventilation is not blocked.
+#### 17. Storage-unit fabrication
+List stored items, their weights and access needs, and review door, drawer and opening clearances. Provide internal and external dimensions and site photos. Request a layout showing shelves and supports; test drawers, doors and shelf loading against the agreed use.
+#### 18. Wooden wall cladding
+Begin with a layout showing panel divisions, grain direction, edges, openings and electrical outlets. Provide wall dimensions, photos and service locations. Request a sample and framing and fixing details; inspect joint alignment, colour consistency and access to maintenance points.
+#### 19. CNC decorative work
+Digital cutting requires an executable design file defining material thickness, piece dimensions, edge treatment and fixing. Provide the available drawing file, board size and sample requirement. Request a prototype for complex patterns; inspect detail accuracy and edges for burning or chipping and verify piece fit.
+#### 20. Counter fabrication
+Measure counter area, height, depth, equipment and cable positions, storage needs and front treatment. Provide plans, photos and surface specification. Request joint and opening drawings; inspect level, frame stability, working edges and ease of cleaning.
+#### 21. Shop and office furniture fabrication
+Define function, user count, equipment dimensions, circulation and storage before fabrication. Provide the space plan, item schedule and brand references. Request material and colour samples; compare durability, maintenance and demountability, then inspect each item in its intended position.
+#### 22. Interior-space design
+Design coordinates furniture, cabinets, circulation, lighting and electrical points rather than treating each item separately. Provide a dimensioned plan, photos and user requirements. Request a layout and elevations or 3D model; review dimensions and openings before fabrication approval.
+#### 23. Joinery fabrication and installation
+This scope combines drawings, measurement, fabrication, transport and installation; responsibility for each stage should be stated. Provide an item list, installation location and samples. Separate material, workshop and installation costs. Accept against drawings and inspect joints, fixing and cleanup.
+#### 24. Majlis fit-out
+Measure walls and entrances and plan seating, storage, cladding and integrated lighting. Provide a plan, photos and required furniture dimensions. Request drawings showing dimensions and service openings; inspect symmetry, usability, cladding stability and maintenance access.
+#### 25. Bedroom fit-out
+Plan units around the bed, circulation, wardrobes, bedside tables, lighting and sockets. Provide room dimensions, bed model and door and window photos. Request a layout showing clearances and storage; check that drawers and doors do not clash and that units are stable.
+#### 26. Office and retail fit-out
+Inventory workstations, counters, display and storage units and customer or staff circulation. Provide an operational layout, equipment dimensions and user count. Request installation drawings and delivery sequence; inspect stability, safe edges and unobstructed circulation.
+#### 27. Wooden decorative features
+Translate the concept into details for cladding, battens, edges, joints and transitions to walls and ceilings. Provide a visual reference, site measurements and timber sample. Request a mock-up of repeated details; accept after checking alignment, fixing, colour and texture consistency.
+#### 28. Interior joinery finishing and handover
+Use this to close an installed joinery package against the item list, drawings and hardware schedule. Prepare room-by-room photos and snag notes. Request repair of scratches, joints and adjustments before handover; record accepted items, defects, warranties and open work.

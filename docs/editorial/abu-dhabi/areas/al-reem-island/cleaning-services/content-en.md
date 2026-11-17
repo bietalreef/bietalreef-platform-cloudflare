@@ -82,3 +82,18 @@ Specify the number of levels, parking area and floor material, and identify oil 
 
 Before requesting industrial cleaning, describe the activity, areas involved and the type of dust, residue or oil, and state whether machinery or production lines will remain operating. Provide area plans and photographs of visible hazards, power and water points and circulation routes. Identify materials or surfaces that cannot tolerate water or strong chemicals. Request a work plan covering isolation, protective equipment, products, waste collection and disposal, duration and coordination with the site representative. Compare the team's ability to work around equipment, protect assets and document completion. Unknown contaminants require specialist assessment before work begins; handover should follow an inspection of the agreed areas and waste removal.
 
+
+## Water tanks and swimming pools cleaning
+
+### 19. Water tank cleaning
+
+State the number, location, approximate capacity and material of each tank, and whether it is underground or elevated. Photograph access openings and the surrounding area and explain how safe access is arranged. Confirm whether the supply can be isolated and the tank drained during the work, and who will refill it afterwards. Ask how sediment is removed, internal walls and base are washed and rinsed, which tools and products are used and how openings are protected from contamination during the job. Compare tank count, capacity, isolation, drying and recommissioning. At handover, inspect internal surfaces, lid condition and sealed openings and request a record of the work performed.
+
+### 20. Water tank disinfection
+
+Tank disinfection usually follows cleaning but should be scoped as a separate task. Identify tank material, type and capacity and request the product name and manufacturer instructions for concentration, contact time, rinsing, ventilation and refilling. Do not rely on a generic dosage without reference to the product label and a competent assessment of the tank. The quotation should explain who isolates the tank and supply, and how use is prevented during treatment, plus whether an inspection or service record is included. Compare product compatibility and documentation. At handover, confirm that treatment and rinsing have followed the instructions, the lid is restored and users are told when the tank can return to service.
+
+### 21. Swimming pool cleaning
+
+For a pool-cleaning enquiry, provide length, width, approximate depth and water volume, lining or tile type, and the condition of the filter and pump. Photograph the water, walls, floor and equipment room, noting algae, scale or a long period without operation. Ask whether the service includes floor and wall brushing, waterline, steps and skimmers, inspection of circulation and water readings before and after treatment. Compare a single visit with recurring service and identify chemical, filter and spare-part costs; cleaning alone should not be presented as a pump repair. At handover, review water clarity, safe equipment operation, test readings and instructions for returning the pool to use.
+

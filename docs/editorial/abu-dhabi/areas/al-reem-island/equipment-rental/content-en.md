@@ -98,3 +98,37 @@ Provide a pane schedule with quantities, dimensions, thicknesses, glass type and
 ### 21. Project order fulfilment
 
 For repeated batches of doors, profiles or glazing units, issue a bill of quantities tied to approved drawing numbers and revisions, with delivery batches aligned to the site programme. Request sample and shop-drawing approvals, a production schedule, and clear packing and identification so units for different floors or openings cannot be mixed up. Compare tooling, waste, changes, transport, testing, storage and remanufacture provisions, not merely the total quotation. At each delivery, reconcile packing lists, drawings and inspection records, and log shortages or damage and agreed remedies before closing the batch.
+
+
+## Marble and stone factories
+
+> This specialty is currently not selectable in the taxonomy. Editorial preparation does not imply an approved factory or service availability.
+
+### 22. Stone and marble cutting
+
+Cutting is needed when supplied slabs must be sized for floors, wall cladding or thresholds. Provide a cutting schedule with each finished dimension, thickness, stone type and vein direction, plus photographs of corners and openings. Specify straight, curved or pipe-opening cuts. Compare quotes on cutting tolerances, expected offcuts, piece identification, edge protection and responsibility for recutting incorrectly sized pieces. At receipt, match labels to the schedule and inspect dimensions, corners and vein orientation; nominal drawing dimensions should not replace final site measurements.
+
+### 23. Kitchen worktop fabrication
+
+Fabrication should follow final templating after cabinets and sink, hob and tap positions are fixed. Supply a layout showing runs, depths, thickness, overhangs, joints and appliance cut-outs. Identify whether the material is natural stone or an engineered product because support and care requirements differ. Compare edge profiles, cut-out reinforcement, polishing, transport, fitting and sealing. At handover check level, appliance clearance, joint finish and cracks near internal corners, with an agreed remedy for pieces that do not fit.
+
+### 24. Stone stair tread fabrication
+
+Measure every riser and tread against finished floor levels rather than assuming all steps match a sample. Provide a stair drawing and photographs of landings, nosings and skirting junctions, together with the project's required slip-resistance finish. Quotes should distinguish supply, cutting, nosing profiles, numbering, fitting and tolerances, and agree acceptable colour variation. Check the numbered pieces, dimensions, edge finishes and chips before installation; after fitting, verify consistent riser heights and secure edges.
+
+### 25. Façade stone preparation
+
+Exterior cladding preparation must follow elevation drawings and the fixing system specified by the designer, rather than ordinary interior tile cutting. Provide elevations, sections, panel dimensions, thicknesses, surface finishes, corner details, joints and anchor holes or slots. Compare material test information, technical submittals, packing, identification and spare-piece allowances. Neither stone nor anchors should be assumed adequate for external loads without engineering review. At delivery reconcile labels, sizes and finishes and inspect fixing points and fractures before lifting panels into place.
+
+### 26. Stone engraving and decorative work
+
+For engraved or inlaid stone, supply a full-scale drawing or vector artwork showing lines, depth and placement, with a material and colour sample. Hand carving, machine engraving and inlay have different outcomes; approve a small physical sample before production. Compare artwork preparation, templates, cutting depth, edge treatment, packing and any installation work. Inspect the motif's alignment, scale, finish consistency and delicate sections for hairline fractures on delivery.
+
+### 27. Marble polishing and treatment
+
+Start by identifying whether the issue is general dullness, scratches, absorbed staining or acid etching, since treatments differ. Provide side-lit photographs, surface area, stone identification and any previous cleaning chemicals, and request a small discreet test patch. The quote should describe grinding or polishing stages, protective products, adjacent-surface protection and whether crack repairs are included. Inspect sheen consistency in natural light, machine swirl marks and the aftercare and curing instructions for any impregnating sealer.
+
+### 28. Preparing contractors' stone orders
+
+For a contractor's multi-area order, use a piece schedule tied to approved drawing revisions, floors and installation locations rather than only a total square-metre figure. Supply dimensions, thicknesses, finishes, vein direction and a delivery sequence based on site readiness. Compare sample and shop-drawing approvals, identification, packing, waste allowances, substitutions, batch dates and responsibility for drawing changes. At each receipt reconcile packing lists, piece codes and quantities, recording damage or shortages before signing delivery acceptance.
+

@@ -108,3 +108,11 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - عُدلت الخدمتان 1 «إنشاء الفلل» و7 «تسليم المشاريع بنظام المفتاح» بالعربية والإنجليزية لتوضيح فصل الأساسات والهيكل والتشطيب، والأسوار والتبليط وتنسيق الحدائق والتوصيلات ورسومها، ومسؤوليات التوريد والتركيب والتشغيل والضمان. فُصلت تجهيزات المطبخ والأجهزة عن الأثاث المتحرك، وطُلبت قائمة استثناءات صريحة بدل افتراض الشمول في سعر المتر أو عبارة «تسليم مفتاح».
 - أُعيدت قراءة ملفي المحتوى من الفرع بعد الكتابة، وبقيت 14 خدمة في كل لغة.
 - **الحالة:** `editorial_rewrite_verified_pending_area_audit`؛ لم تُعتمد الخدمات 1–14 كلها دلاليًا وفنيًا. التالي: تدقيق خدمات 2–6 و8–14 تفصيليًا في كلا النصين، ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7، ثم بقية التخصصات حتى 434 خدمة بكل لغة.
+
+
+## Sector-wide structural verification — 2026-11-17
+
+- Read back both language files for all six company specialties under `general-contracting` on the specified editorial branch: `building-villas`, `restoration-renovation`, `demolition-concrete`, `landscaping`, `irrigation-networks`, `shade-outdoor-works`.
+- Verified original Arabic service-heading sequence and bilingual section counts: **14 + 7 + 7 + 14 + 7 + 7 = 56 services per language**. English sections correspond by position. No missing numbered section or section shorter than 500 characters was found in this sector.
+- Exact duplicate-paragraph scan within each of the twelve language files found **zero repeated paragraphs over 110 characters**. This is a mechanical check, not proof of distinct meaning, natural prose, technical accuracy or full Arabic/English equivalence.
+- **Pending for sector approval:** compare each of the 56 service pairs line by line for technical meaning, scope, safety, exclusions, RFQ details and handover; inspect near-duplicates and restricted/non-selectable labels. Remaining seven sectors and the full 434-service audit are not certified. Area stays `in_progress`; do not start Al Muwaiji.

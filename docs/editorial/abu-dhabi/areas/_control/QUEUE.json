@@ -591,7 +591,7 @@
         "docs/editorial/abu-dhabi/areas/al-reem-island/cleaning-services/review.md"
       ],
       "last_attempt": "2026-11-17",
-      "review_note": "Cleaning-services 7/42 services verified in Arabic and English; 1/8 specialties complete. Al Reem Island 399/434 services, 43/50 company specialties, 7/8 sectors complete. Next: تنظيف المفروشات, service 8. No provider, price or appointment is implied; independent technical/language review remains required.",
+      "review_note": "Cleaning-services 14/42 services verified in Arabic and English; 2/8 specialties complete. Al Reem Island 406/434 services, 44/50 company specialties, 7/8 sectors complete. Next: تنظيف الواجهات والمواقع, service 15. No provider, price or appointment is implied.",
       "editorial_progress": {
         "sector": "equipment-rental",
         "last_completed_sector": "furniture-decor",
@@ -610,18 +610,18 @@
       "progress": {
         "sector": "cleaning-services",
         "last_completed_sector": "equipment-rental",
-        "last_completed_specialty": "تنظيف المنازل والمباني",
-        "last_completed_service_number": 7,
-        "next_specialty": "تنظيف المفروشات",
-        "next_service_number": 8,
-        "sector_completed": 7,
+        "last_completed_specialty": "تنظيف المفروشات",
+        "last_completed_service_number": 14,
+        "next_specialty": "تنظيف الواجهات والمواقع",
+        "next_service_number": 15,
+        "sector_completed": 14,
         "sector_total": 42,
-        "area_completed": 399,
+        "area_completed": 406,
         "area_total": 434,
-        "remaining_area_services": 35,
+        "remaining_area_services": 28,
         "editorial_draft_completed": false,
         "area_editorially_approved": false,
-        "completed_specialties_in_area": 43
+        "completed_specialties_in_area": 44
       }
     },
     {

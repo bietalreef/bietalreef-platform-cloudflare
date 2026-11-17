@@ -1576,3 +1576,8 @@
 
 - الحالة: `in_progress`. حُررت الخدمات 1 «توريد الأسمنت»، 4 «توريد الطابوق والبلوك»، 5 «توريد الحديد» باللغتين في [العربية](./building-materials/building-finishing-materials/content-ar.md) و[الإنجليزية](./building-materials/building-finishing-materials/content-en.md)، ووثقت في [المراجعة](./building-materials/building-finishing-materials/review.md).
 - **أول نقص تالٍ:** مراجعة الخدمة 7 «توريد مواد البناء للمشاريع» ثم الخدمات 8–21 بالتسلسل، مع فحص التكافؤ والتفرد والسلامة؛ ثم بقية التخصصات والجرد الشامل للخدمات الـ434 بكل لغة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة توريد مواد البناء للمشاريع — 2026-11-17
+
+- الحالة: `in_progress`. أُعيد تحرير الخدمة 7 «توريد مواد البناء للمشاريع» بالعربية والإنجليزية مع تحديد التوريد المرحلي والتخزين والبدائل ومسؤولية التأخير والاستلام الجزئي: [العربية](./building-materials/building-finishing-materials/content-ar.md) · [English](./building-materials/building-finishing-materials/content-en.md) · [المراجعة](./building-materials/building-finishing-materials/review.md). أُعيدت قراءة ملفي المحتوى من GitHub بعد الكتابة وتأكد تطابقهما.
+- **أول نقص تالٍ:** الخدمة 8 «توريد الجبس» ثم الخدمات 9–21 في `building-materials/building-finishing-materials` باللغتين، ثم جرد ومراجعة 50 تخصصًا و434 خدمة لكل لغة في القطاعات الثمانية، وفحص التكافؤ والتكرار والسلامة والتصنيفات المقيدة والمقترحة. لا تبدأ المويجعي قبل اعتماد الجيمي.

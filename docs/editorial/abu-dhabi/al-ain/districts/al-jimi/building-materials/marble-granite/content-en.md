@@ -10,7 +10,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check vein matching, batch consistency, sound edges and unacceptable cracks and Match delivered slab numbers against the approved schedule and photograph breakage at unloading before fabrication begins.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Attach a numbered slab schedule, approved sample photographs, net coverage and proposed waste allowance. State whether you need raw slabs only or also cutting and installation. Ask for separate stone, packing, lifting and delivery prices and damaged-slab rejection terms. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or date.
 
 ## 2. Granite supply
 
@@ -20,7 +20,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check finish, dimensions, shade consistency and intact corners and Check sample slab thickness, finish and corners on delivery; obtain written approval before any change of stone grade.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Send the granite name or reference sample, finish, thickness, indoor/outdoor use, quantity and unloading access photographs. For flooring, request applicable slip-performance evidence. Separate slab and waste allowances, haulage, cutting and installation in each quote. Biet Al Reef customer service can assist without guaranteeing stock.
 
 ## 3. Custom marble cutting
 
@@ -30,7 +30,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check dimensions, squareness, clean cut-outs and piece numbering and Measure fabricated pieces against the approved cutting schedule and inspect cut-out edges and vein direction before packing.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Provide a numbered millimetre cutting schedule with finished dimensions, openings, edges and vein direction. Identify who owns and delivers the slabs and who pays for recutting if measurements are wrong. Request separate cutting, polishing, packing and transport rates. Biet Al Reef customer service can help without guaranteeing a workshop or date.
 
 ## 4. Marble honing and polishing
 
@@ -40,7 +40,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check even sheen without burn marks, waves or filler residue and Review the dried trial area under site lighting and inspect for consistent sheen, abrasion marks and treatment residue.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Share daylight photographs of scratches and stains, stone type, approximate area and joint condition. Ask for an assessment and small trial before approving the sheen, and clarify furniture protection, slurry disposal and defects polishing cannot fix. Biet Al Reef customer service may help prepare the enquiry without promising an outcome or date.
 
 ## 5. Marble flooring installation
 
@@ -50,7 +50,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check levelness, joints, thresholds and securely fixed pieces and Check thresholds, joint alignment and tile stability after the specified curing period; log hollow or uneven pieces for rectification.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Attach the tile layout, floor area, door levels, substrate and drain photographs, and say whether stone is already supplied. Request separate rates for levelling, waterproofing, bonding, cutting, joints and laying, plus curing and handover checks. Biet Al Reef customer service can help prepare the enquiry without guaranteeing a contractor or price.
 
 ## 6. Marble wall and facade installation
 
@@ -60,7 +60,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check fixing per approved design, aligned joints and finished edges and Obtain fixing inspection records against the approved engineering details and check joints, edges and safe access before sign-off.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Provide facade drawings, heights, panel dimensions and weights, substrate information, approved fixing details and lifting-access photographs. Require named responsibility for engineering review, anchors, access equipment and inspection evidence; do not accept a proposal without competent technical review. Biet Al Reef customer service can assist without guaranteeing a contractor.
 
 ## 7. Marble repair and treatment
 
@@ -70,4 +70,4 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Acceptance:** Check reasonable visual match, stable repairs and no harmful residue and Review the cured repair against an agreed sample and verify that an identified moisture source has been addressed where included.
 
-**Request a quotation:** Send plans, photos and quantities to Biet Al Reef customer service for comparable requests; no supplier, price or slot is guaranteed.
+**Request a quotation:** Supply close-up and overall photographs of each defect, its history, affected area, suspected moisture source and earlier repairs. Request a priced local trial before treatment or replacement, stating colour-match limits and whether cause correction is included. Biet Al Reef customer service can assist without guaranteeing the result or price.

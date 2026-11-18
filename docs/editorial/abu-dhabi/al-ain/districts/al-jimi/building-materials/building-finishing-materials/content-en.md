@@ -40,6 +40,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Record block type, delivery lots and how nonconforming dimensions or damaged pieces will be rejected. Check representative pieces from multiple pallets, count units and compare dimensions, edges and labels with the purchase order. Photograph and record breakage before distributing pallets. Structural material approval remains with the responsible professional.
 
+**Technical decision before ordering:** Distinguish load-bearing, non-load-bearing and insulating blocks according to the approved drawings. Matching dimensions do not justify substituting strength, thickness or block type. Where the project requires strength or density testing, ask for the applicable test evidence; a pallet count does not establish structural suitability.
+
 **Requesting quotes:** Send block dimensions, types, quantities and specified strength. Ask for piece and pallet prices, lifting, damage/replacement terms and available technical evidence. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or timing.
 
 ## 5. Reinforcing steel supply
@@ -49,6 +51,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Scope and quote comparison:** Compare prices per tonne for equivalent grade, diameter and documented delivery weight. Ask for manufacturer markings, origin, batch traceability and compliance certificates. Itemise cutting, bending, transport, crane hire and unloading where excluded. Fixing, tying and engineering inspection of installed reinforcement are not part of steel supply unless explicitly included.
 
 **Agreement and acceptance:** Define weighing evidence, traceability documents, procedures for incorrect diameters or lengths and responsibility for waiting and lifting. At receipt compare bundle tags, bar markings and quantities with the schedule and delivery note; check for damaging defects or significant corrosion. Do not substitute grade or diameter without the responsible engineer's approval.
+
+**Technical decision before ordering:** Check steel grade, weldability where specified and bar diameters against the approved schedule. Cut-and-bent bars are not automatically interchangeable with straight stock without implications for waste or programme. Agree how delivery weight and batch-linked test certificates will be verified, and reject unapproved substitutions before cutting or fixing.
 
 **Requesting quotes:** Attach the approved bar schedule, access photos and unloading details. Request grade-specific tonne rates, cutting/bending and lifting charges, certificates, delivery stages and shortage remedies. Biet Al Reef customer service can help structure the request without guaranteeing a supplier, price or date.
 

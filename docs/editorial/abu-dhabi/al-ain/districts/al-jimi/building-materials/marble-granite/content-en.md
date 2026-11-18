@@ -8,7 +8,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 **Scope and quotation comparison:** Compare origin, commercial stone name, grade, measured thickness and actual slab photographs, rather than a colour label alone. Establish whether quantities are net square metres or include cutting waste, and price packing, transport, lifting and unloading separately. Approve numbered slabs and a vein-layout photograph before fabrication, with written replacement terms for damaged or non-matching slabs.
 
-**Acceptance:** Match every delivered slab number to the approved schedule. Inspect the visible face, edges, veining and cracks under suitable light; photograph any damage at unloading and segregate disputed slabs before cutting.
+**Acceptance:** Match every delivered slab number to the approved schedule. Inspect faces, edges, veining and cracks under suitable light, distinguishing natural veining from open cracks or undisclosed repairs; photograph any damage at unloading and segregate disputed slabs before cutting.
 
 **Request a quotation:** Attach a numbered slab schedule, approved sample photographs, net coverage and proposed waste allowance. State whether you need raw slabs only or also cutting and installation. Ask for separate stone, packing, lifting and delivery prices and damaged-slab rejection terms. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or date.
 

@@ -12,7 +12,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare approved drawings, the designed steel or aluminium structure, canopy fabric or panel, corrosion protection, foundations, anchors and runoff. Separate permits, excavation, lifting, paving reinstatement and lighting where excluded. Approve post locations, clearances and foundation drawings before excavation; assign responsibility for buried-service checks and reinstating paving.
 
-**Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; compare anchor locations and quantities with the approved design, request foundation photos before concealment and a competent fixing-inspection record, and obtain material and finish warranties.
+**Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; compare anchor locations and quantities with the approved design, request foundation photos before concealment and a fixing-inspection report from a qualified specialist against the approved design, and obtain material and finish warranties. Such a report does not replace any required statutory inspection or approval.
 
 ## 2. Pergola construction
 

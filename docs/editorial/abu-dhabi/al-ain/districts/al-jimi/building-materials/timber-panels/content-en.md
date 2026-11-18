@@ -70,7 +70,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Provide a hardware schedule with hinge counts, opening angles, runner lengths, drawer load ratings, handle dimensions and board thickness. Compare complete set prices including mounting plates, screws and written warranty rather than isolated components. Test a compatible sample before ordering the full quantity.
 
-**Acceptance check:** Match hinge, runner and handle models to the hardware schedule, counting plates, screws and other fittings. Test a mounted sample for smooth operation under an appropriate load before accepting the full order, recording shortages and board-thickness incompatibilities.
+**Acceptance check:** Match hinge, runner and handle models to the hardware schedule, counting plates, screws and other fittings. Where an agreed compatibility sample has been fitted by the customer or workshop, check smooth operation under an appropriate load before approving bulk supply; this does not include on-site fitting or testing by the supplier unless separately contracted. Record shortages and board-thickness incompatibilities.
 
 **Request a quote:** Attach a hardware schedule with model references, quantities, hinge angles, runner lengths and ratings, and board thickness; request a compatibility sample before bulk supply. Customer service can assist without guaranteeing stock.
 

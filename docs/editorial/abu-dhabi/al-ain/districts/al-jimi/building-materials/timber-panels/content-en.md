@@ -4,7 +4,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 1. MDF board supply
 
-**Use case and preparation:** For this order, send a drawing stating board thickness, density, sheet size and moisture-resistance grade appropriate to the room, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and preparation:** MDF is often specified for cabinet carcasses, internal doors and furniture parts needing a consistent surface for painting or facing. Provide a schedule of component thicknesses, sheet dimensions, density and the moisture-resistance grade suited to each location; a panel near a sink warrants different consideration from one in a dry bedroom. State whether you want raw sheets or cutting and edge banding. Fitting is excluded unless separately priced.
 
 **Additional survey:** Inspect MDF sheet edges and damp storage risks; document required thickness, density and quantities.
 
@@ -16,7 +16,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 2. Solid timber supply
 
-**Use case and preparation:** For this order, send a drawing stating wood species, section sizes, lengths, acceptable moisture content and finish, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and preparation:** Solid timber may be needed for door frames, visible-grain joinery and details requiring particular sections. Identify species, grading, finished lengths and sections, indoor or outdoor exposure, acceptable moisture content and how it will be checked. Distinguish rough-sawn stock from planed and prepared pieces; fabrication, fitting and finishing do not automatically follow from timber supply.
 
 **Additional survey:** Photograph timber sections, lengths and visible knots; state the application and required drying condition.
 
@@ -28,7 +28,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 3. Plywood supply
 
-**Use case and preparation:** For this order, send a drawing stating ply count, thickness, bonding grade and suitability for dry or damp conditions, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and preparation:** Plywood can be specified for cabinet backs, partitions and substrates requiring a layered panel, but grades are not interchangeable for damp exposure or structural use. Specify thickness, face grade, bonding classification and exposure conditions, and request product documentation where performance is critical. Supply cut sizes and quantities while keeping board delivery separate from cutting and fixing.
 
 **Additional survey:** Provide a plywood edge photograph, intended wet or dry use and the required bonding grade.
 
@@ -40,7 +40,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 4. Melamine-faced board supply
 
-**Use case and preparation:** For this order, send a drawing stating colour and texture code, core thickness, grain direction and matching edging, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and preparation:** Melamine-faced boards suit cabinetry and shelving where the decorative face is already finished. Before quoting, approve a physical sample and finish code, core type and thickness, and grain direction across adjacent doors; pattern matching may increase sheet waste. Identify exposed edges needing banding and whether the order is for full sheets or cut parts. Assembly is not included by default.
 
 **Additional survey:** Specify the melamine finish code, grain direction, exposed edges and an actual finish sample.
 
@@ -52,7 +52,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 5. HPL laminate supply
 
-**Use case and preparation:** For this order, send a drawing stating laminate thickness, application, colour, texture and intended substrate, alongside site photos and quantities. Specify whether you need raw material or workshop preparation; installation is not assumed.
+**Use case and preparation:** HPL may be specified for worktops, door faces and other surfaces needing a defined decorative finish and application-appropriate durability. First establish whether the order is for raw laminate sheets or factory-faced boards. Then specify laminate thickness, finish code, substrate and exposure to heat or moisture. Bonding, pressing, edge finishing and fitting are separate operations unless explicitly included.
 
 **Additional survey:** Show whether the order is raw HPL laminate or a faced board, with substrate and bonding method.
 

@@ -84,6 +84,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Record product codes, board ratings and dimensions, breakage allowances and who lifts packs to the required floor. Check pack labels and representative board edges and faces before distribution; document wet, bowed or broken sheets under the agreed rejection procedure. A rated board alone does not establish the fire rating of an installed wall or ceiling assembly; the complete system requires professional approval.
 
+**Technical decision before ordering:** Confirm the complete gypsum assembly—framing, hangers, fixings, board layers and joints—not board colour alone. Fire performance belongs to an approved assembly, and moisture resistance does not imply immersion resistance.
+
 **Requesting quotes:** Separate ordinary, moisture-rated and fire-rated boards, and any gypsum powder, in the quantity schedule. Specify unloading and storage arrangements; request accessory prices, lifting charges and damage remedies. Biet Al Reef customer service may help structure the request without guaranteeing a supplier, price or delivery date.
 
 ## 9. Paint material supply
@@ -93,6 +95,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Scope and quote comparison:** Request a compatible filler, primer and finish-coat system with technical datasheets, coverage per coat and permitted thinning. Compare the cost of the complete system for the specified area and coat count, not just price per litre. State whether crack-treatment materials and application tools are included. This is materials supply only: surface preparation, painting labour and workmanship warranty are excluded unless expressly contracted.
 
 **Agreement and acceptance:** Record the exact product, colour code, sheen and batch, and agree how additional matching stock will be sourced. At delivery check seals, shelf life, storage condition and container codes; isolate mismatched batches before opening. Container colour is not a final colour approval: the project may require an applied sample.
+
+**Technical decision before ordering:** Estimate quantities from substrate absorption, primer, coat count and waste; approve an applied sample under site lighting. Do not assume separate production batches will match without testing.
 
 **Requesting quotes:** Send a surface-and-area schedule, coating system and colour codes. Ask for estimated quantities by product, pack rates, transport and remedies for damaged or incorrect cans. Biet Al Reef customer service can assist with the request without guaranteeing a supplier, price or date.
 
@@ -104,6 +108,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Record product and batch codes, shelf life and protection from heat or transit damage. Check packaging, manufacturing labels, quantities and accessory compatibility on receipt. Substitution of a membrane or primer needs approval from the responsible designer or supervisor; intact packaging does not prove performance after installation.
 
+**Technical decision before ordering:** Check primer, membrane, corner and drain details for compatibility with the substrate, and verify potable-water suitability for tanks where applicable. Purchasing a waterproofing product does not establish that the installed system passes testing.
+
 **Requesting quotes:** Provide an area schedule, system specification and drain/joint details. Ask for yield, wastage, accessory quantities, freight, storage requirements and replacement terms. Biet Al Reef customer service can help prepare the request without guaranteeing availability, price or delivery.
 
 ## 11. Flooring material supply
@@ -113,6 +119,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Scope and quote comparison:** Compare square-metre costs using pieces per carton and cutting waste for the intended layout. Specify shade batch, calibre and sorting grade where applicable. Price adhesives, grout, skirtings, transport and lifting separately. Supply excludes floor levelling, laying labour and on-site slip testing unless explicitly included.
 
 **Agreement and acceptance:** Agree the sample and product code, shade batch, allowable breakage and how matching additional stock will be obtained. Inspect representative cartons before distribution, checking codes, dimensions, chipped edges and breakage, and record discrepancies on delivery. A required slip rating needs appropriate product evidence, not visual judgement alone.
+
+**Technical decision before ordering:** Request a sample, batch reference, actual dimensions and quality grade; establish slip resistance where needed, cutting and repair allowance, and adhesive/grout compatibility with the substrate.
 
 **Requesting quotes:** Provide room areas, sizes, finish codes and estimated waste. Request itemised square-metre and carton rates, skirtings, associated materials, freight and breakage remedies. Biet Al Reef customer service may help prepare the request without guaranteeing a supplier, price or delivery date.
 

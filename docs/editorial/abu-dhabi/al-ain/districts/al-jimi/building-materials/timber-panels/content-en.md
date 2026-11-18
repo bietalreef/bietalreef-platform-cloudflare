@@ -82,6 +82,6 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Comparing quotations:** Compare bids against a numbered millimetre cut list specifying board type, grain direction, edge-banding sides and drill locations. Separate sheet cost from cutting, edging, boring and packing, and agree dimensional tolerances and responsibility for recutting incorrect parts. Require labelled parts matching the assembly drawing.
 
-**Acceptance check:** Receive parts by numbered cut-list item, not only total count. Sample-check length, width, squareness, grain direction, drilling positions and edge banding; segregate incorrect pieces and agree recutting or compensation before assembly.
+**Acceptance check:** Before machining, agree dimensional tolerances for part length, width and hole positions, the measurement method, and who pays for rework when a finished part differs from an approved drawing. On delivery, receive parts by numbered cut-list item, not only total count. Sample-check length, width, squareness, grain direction, drilling positions and edge banding; segregate incorrect pieces and agree recutting or compensation before assembly.
 
 **Request a quote:** Send a numbered millimetre cut list identifying board type, grain direction, edge treatment, holes, dimensional tolerances, quantities and requested delivery window. Ask for separate cutting, edging and packaging prices. Customer service can assist without guaranteeing a date.

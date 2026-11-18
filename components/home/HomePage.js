@@ -1,3 +1,4 @@
+import { useEffect, useRef } from 'react';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
 import SEOHead from '../SEOHead';
@@ -22,6 +23,16 @@ export default function HomePage({ locale = 'ar' }) {
   const language = locale === 'en' ? 'en' : 'ar';
   const isEnglish = language === 'en';
   const content = { seo: seo[language] };
+  const offer = useRef(null);
+  useEffect(() => {
+    const dialog = offer.current;
+    if (!dialog || !dialog.showModal) return;
+    try {
+      if (sessionStorage.getItem('home-workspace-offer')) return;
+      dialog.showModal();
+      sessionStorage.setItem('home-workspace-offer', 'seen');
+    } catch { /* The home page remains usable when storage is unavailable. */ }
+  }, []);
   const description = content.seo.description;
   const structuredData = [
     { '@context': 'https://schema.org', '@type': 'Organization', name: isEnglish ? 'Biet Al Reef' : 'بيت الريف', alternateName: isEnglish ? 'بيت الريف' : 'Biet Al Reef', url: SITE_URL, logo: `${SITE_URL}/logo.png`, description, areaServed: { '@type': 'Country', name: 'United Arab Emirates' } },
@@ -33,17 +44,12 @@ export default function HomePage({ locale = 'ar' }) {
     <div dir={isEnglish ? 'ltr' : 'rtl'} lang={isEnglish ? 'en' : 'ar'} className="app-viewport-lock bg-[#FCFBF7] text-gray-900 font-sans">
       <Navbar locale={language} />
       <main>
-        <section aria-label={isEnglish ? 'Google Workspace first-year referral offer' : 'عرض Google Workspace للشركات'} className="border-b border-[#D9E6D8] bg-[#F3F7EF]">
-          <div className="mx-auto flex max-w-7xl flex-col gap-3 px-5 py-4 sm:flex-row sm:items-center sm:justify-between">
-            <div className="text-sm leading-7 text-[#173F35]">
-              <strong className="font-black">{isEnglish ? 'Google Workspace · 10% eligible first-year savings' : 'ميزة للأعمال: خصم مؤهل 10% على السنة الأولى من Google Workspace'}</strong>
-              <span className="block text-xs text-[#52675B]">{isEnglish ? 'New customers; a unique individual promotion code is required. Google Cloud is not included.' : 'للاشتراكات الجديدة المؤهلة وباستخدام رمز ترويجي فردي. الخصم لا يشمل Google Cloud.'}</span>
-            </div>
-            <a href={isEnglish ? '/en/google-workspace-biet-alreef' : '/google-workspace-biet-alreef'} className="inline-flex shrink-0 items-center justify-center rounded-xl bg-[#173F35] px-5 py-3 text-sm font-black text-white hover:bg-[#275949]">
-              {isEnglish ? 'Explore the offer and setup' : 'التفاصيل وتجهيز مساحة عمل لشركتك'}
-            </a>
-          </div>
-        </section>
+        <dialog ref={offer} aria-labelledby="workspace-offer-title" className="m-auto w-[min(90vw,400px)] rounded-3xl border border-slate-200 bg-white p-6 text-start shadow-xl backdrop:bg-slate-900/35">
+          <form method="dialog" className="flex justify-end"><button aria-label={isEnglish ? 'Close offer' : 'إغلاق العرض'} className="h-10 w-10 rounded-full bg-slate-100 text-xl">×</button></form>
+          <h2 id="workspace-offer-title" className="my-3 text-xl font-bold">{isEnglish ? 'Save 10% on your first year of Google Workspace' : 'خصم 10% على السنة الأولى من Google Workspace'}</h2>
+          <p className="mb-5 text-sm leading-7">{isEnglish ? 'For eligible new subscriptions with an individual promotion code. Google Cloud is excluded.' : 'للاشتراكات الجديدة المؤهلة برمز ترويجي فردي. لا يشمل الخصم Google Cloud.'}</p>
+          <a href={isEnglish ? '/en/google-workspace-biet-alreef' : '/google-workspace-biet-alreef'} className="inline-block rounded-xl bg-sky-700 px-5 py-3 font-bold text-white">{isEnglish ? 'Offer details' : 'تفاصيل العرض'}</a>
+        </dialog>
         <ProjectDiscovery locale={language} />
       </main>
       <Footer locale={language} showRequestCTA={false} />

@@ -1,5 +1,5 @@
 import ScrollToSection from '../ScrollToSection';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowLeft, ArrowRight, Search, MapPin, Building2, Wrench, ShoppingBag, Sparkles, ChevronDown, Smartphone, Globe2, Layers, FileCheck2 } from 'lucide-react';
@@ -69,6 +69,40 @@ const copy = {
   },
 };
 
+const heroSlides = [
+  visualData['interior-design'].items[0],
+  visualData['general-contracting'].items[0],
+  visualData['interior-design'].items[3],
+];
+
+function ResponsivePhoto({ photo, locale, priority = false }) {
+  return <picture>
+    <source media="(max-width: 760px)" srcSet={photo.mobile} />
+    <img src={photo.desktop} alt={photo.alt[locale]} title={photo.title[locale]}
+      loading={priority ? 'eager' : 'lazy'} decoding="async" />
+  </picture>;
+}
+
+function HeroGallery({ locale }) {
+  const [active, setActive] = useState(0);
+  const [paused, setPaused] = useState(false);
+  useEffect(() => {
+    if (paused || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const timer = window.setInterval(() => setActive(i => (i + 1) % heroSlides.length), 5500);
+    return () => window.clearInterval(timer);
+  }, [paused]);
+  return <div className={styles.gallery}>
+    {heroSlides.map((photo, i) => <figure key={photo.desktop} className={styles.frame} data-active={i === active} aria-hidden={i !== active}>
+      <ResponsivePhoto photo={photo} locale={locale} priority={i === 0} />
+    </figure>)}
+    <div className={styles.galleryControls}>
+      {heroSlides.map((photo, i) => <button key={photo.desktop} aria-label={photo.title[locale]} aria-pressed={i === active}
+        onClick={() => { setActive(i); setPaused(true); }}><span /></button>)}
+      <button aria-label={paused ? (locale === 'ar' ? 'تشغيل' : 'Play') : (locale === 'ar' ? 'إيقاف مؤقت' : 'Pause')} onClick={() => setPaused(!paused)}>{paused ? '▶' : 'Ⅱ'}</button>
+    </div>
+  </div>;
+}
+
 export default function ProjectDiscovery({ locale = 'ar' }) {
   const en = locale === 'en';
   const t = copy[en ? 'en' : 'ar'];
@@ -80,20 +114,29 @@ export default function ProjectDiscovery({ locale = 'ar' }) {
   const available = SERVICE_CATEGORIES.filter(item => !term || `${item.nameAr} ${item.nameEn}`.toLocaleLowerCase().includes(term));
   const visible = term || showAll ? available : available.slice(0, 6);
   const gateways = [
-    { href: `${prefix}/uae`, icon: MapPin, image: '/images/gateway/uae-directory-gateway.webp' },
-    { href: `${prefix}/providers`, icon: Building2, image: '/images/gateway/providers-gateway.webp' },
-    { href: `${prefix}/services`, icon: Wrench, image: '/images/gateway/services-offers-gateway.webp' },
-    { href: MARKET_URL, icon: ShoppingBag, image: '/images/gateway/materials-products-gateway.webp' },
+    { href: `${prefix}/uae`, photo: visualData['general-contracting'].items[3] },
+    { href: `${prefix}/providers`, photo: visualData['interior-design'].items[2] },
+    { href: `${prefix}/services`, photo: visualData['general-maintenance'].items[0] },
+    { href: MARKET_URL, photo: visualData['building-materials'].items[1] },
   ];
   const locations = ['/uae/abu-dhabi/al-ain', '/uae/abu-dhabi', '/uae/dubai'];
 
   return <div className={styles.experience} dir={en ? 'ltr' : 'rtl'}>
-    <section className={styles.hero} aria-labelledby="project-home-title">
-      <div className={styles.heroCopy}><span className={styles.eyebrow}>{t.eyebrow}</span><h1 id="project-home-title">{t.title}</h1><p>{t.description}</p><div className={styles.actions}><ScrollToSection className={styles.primary} target="service-discovery"><Search aria-hidden="true" />{t.service}</ScrollToSection><Link className={styles.secondary} href={`${prefix}/uae`}><MapPin aria-hidden="true" />{t.city}</Link></div><div className={styles.heroFoot}><span>01</span><span>{en ? 'Discover · Choose · Connect' : 'اكتشف · اختر · تواصل'}</span></div></div>
-      <div className={styles.heroVisual}><Image src="/images/bietalreef-option-one-villa.webp" alt={t.projectImage} fill priority fetchPriority="high" sizes="(max-width: 760px) 100vw, 52vw" className={styles.heroImage}/><div className={styles.visualCaption}><span>{t.imageCaption}</span><Arrow aria-hidden="true"/></div></div>
+    <section className={styles.intro} aria-labelledby="project-home-title">
+      <HeroGallery locale={locale} />
+      <div className={styles.introText}>
+        <h1 id="project-home-title">{en ? 'Biet Al Reef' : 'منصة بيت الريف'}</h1>
+        <p>{en ? 'Find companies, services and materials for your project across the UAE.' : 'اكتشف الشركات والخدمات ومواد البناء لمشروعك في الإمارات.'}</p>
+        <div className={styles.actions}><ScrollToSection className={styles.primary} target="service-discovery"><Search aria-hidden="true" />{t.service}</ScrollToSection><Link className={styles.secondary} href={`${prefix}/uae`}><MapPin aria-hidden="true" />{t.city}</Link></div>
+      </div>
     </section>
 
-    <section className={styles.section} aria-labelledby="gateways-title"><div className={styles.sectionHead}><div><span className={styles.eyebrow}>{en ? 'EXPLORE BIET AL REEF' : 'اكتشف بيت الريف'}</span><h2 id="gateways-title">{t.doors}</h2><p>{t.doorsText}</p></div></div><div className={styles.gateways}>{gateways.map((item,i)=>{const Icon=item.icon;return <Link key={item.href} href={item.href} className={styles.gateway}><div className={styles.gatewayVisual}><Image src={item.image} alt="" fill sizes="(max-width: 760px) 50vw, 25vw"/></div><div className={styles.gatewayBody}><Icon aria-hidden="true"/><h3>{t.gateways[i]}</h3><p>{t.descriptions[i]}</p><span>{t.browse}<Arrow aria-hidden="true"/></span></div></Link>;})}</div></section>
+    <nav className={styles.destinations} aria-label={en ? 'Platform sections' : 'أقسام المنصة'}>
+      {gateways.map((item, i) => <Link key={item.href} href={item.href} className={styles.destination}>
+        <ResponsivePhoto photo={item.photo} locale={locale} />
+        <span>{t.gateways[i]}</span>
+      </Link>)}
+    </nav>
 
     <HomeSectorShowcase locale={en ? 'en' : 'ar'} />
 

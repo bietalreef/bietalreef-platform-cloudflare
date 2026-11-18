@@ -1695,3 +1695,9 @@
 
 - الحالة `in_progress`. قورنت فقرات الخدمات السبع باللغتين وصُحح التفريق بين عروق الرخام الطبيعية والشروخ المفتوحة والإصلاحات غير المصرح بها عند الاستلام. [العربية](./building-materials/marble-granite/content-ar.md) · [English](./building-materials/marble-granite/content-en.md) · [المراجعة](./building-materials/marble-granite/review.md).
 - أول نقص تالٍ: تدقيق الخدمات 8–21 من `building-materials/building-finishing-materials` فقرة بفقرة، ثم الجرد الدلالي والفني لبقية تخصصات الشركات حتى 50 تخصصًا و434 خدمة بكل لغة، والتحقق من حالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## تخصيص مدخلات الخدمات 12–21 — 2026-11-18
+
+- الحالة `in_progress`: حُسنت مدخلات عشر خدمات بالعربية والإنجليزية في [المحتوى العربي](./building-materials/building-finishing-materials/content-ar.md) و[الإنجليزي](./building-materials/building-finishing-materials/content-en.md) مع [المراجعة](./building-materials/building-finishing-materials/review.md).
+- النواقص الدقيقة: تدقيق بقية فقرات الخدمات 12–21، ثم مراجعة تخصصات الشركات الأخرى وتطابق 434 خدمة بكل لغة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.

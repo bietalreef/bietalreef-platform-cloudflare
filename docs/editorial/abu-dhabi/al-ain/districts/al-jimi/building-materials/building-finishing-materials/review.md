@@ -129,3 +129,9 @@
 
 - استُبدلت عبارة الصور والمخططات العامة المتكررة في مقدمات الخدمات العشر 12–21 باللغتين بمدخلات خاصة بكل صنف: نقاط التثبيت، اللوحات الكهربائية، الوصلات، الملصقات، عينات اللون، تفاصيل العزل، ومسار الشاحنة. أسماء الخدمات وترتيبها لم تتغير.
 - الحالة `in_progress`؛ التالي تدقيق بقية فقرات الخدمات 12–21، ثم تخصصات الشركات الأخرى وجرد 434 خدمة بكل لغة والتصنيفات المقيدة والمقترحة.
+
+
+## English intake-sentence grammar audit — 2026-11-18
+
+- Corrected the comma-splice `, Attach` to a separate instruction in the intake paragraphs of services 12–21 (10 sections). Preserved service titles, technical requirements, scope and sequence.
+- This is a language-quality correction, not completion of the technical parity review. Remaining: technical and semantic audit of services 8–21, then all other company specialties against the original taxonomy; Al Jimi remains `in_progress`.

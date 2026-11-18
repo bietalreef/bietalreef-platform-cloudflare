@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
@@ -13,8 +12,6 @@ import {
   Handshake,
   Headphones,
   ShieldCheck,
-  ChevronDown,
-  ChevronUp,
 } from 'lucide-react';
 
 const socialLinks = [
@@ -78,17 +75,19 @@ function FooterLink({ href, children }) {
   return <Link href={href} className={className}>{children}</Link>;
 }
 
-function FooterAccordionSection({ section, isOpen, onToggle, textAlign }) {
+function FooterSection({ section, textAlign }) {
   const Icon = section.icon;
   return (
-    <nav aria-label={section.title} className="min-w-0 border-b border-[#E6DCC8] lg:border-b-0">
-      <button type="button" onClick={onToggle} className={`flex w-full items-center justify-between py-5 ${textAlign} lg:pointer-events-none lg:cursor-default lg:py-0`} aria-expanded={isOpen}>
-        <h2 className="flex min-w-0 items-center gap-2 text-base font-black leading-6 text-primary"><Icon className="h-5 w-5 shrink-0" /><span>{section.title}</span></h2>
-        <span className="shrink-0 text-primary lg:hidden">{isOpen ? <ChevronUp className="h-5 w-5" /> : <ChevronDown className="h-5 w-5" />}</span>
-      </button>
-      <div className={`${isOpen ? 'block' : 'hidden'} pb-5 lg:block lg:pb-0`}>
-        <ul className="space-y-1">{section.links.map(([href, label]) => <li key={`${section.id}-${href}`}><FooterLink href={href}>{label}</FooterLink></li>)}</ul>
-      </div>
+    <nav aria-label={section.title} className={`min-w-0 border-b border-[#E6DCC8] py-5 lg:border-b-0 lg:py-0 ${textAlign}`}>
+      <h2 className="flex items-center gap-2 text-base font-black leading-6 text-primary">
+        <Icon aria-hidden="true" className="h-5 w-5 shrink-0" />
+        {section.title}
+      </h2>
+      <ul className="mt-2 space-y-1">
+        {section.links.map(([href, label]) => (
+          <li key={href}><FooterLink href={href}>{label}</FooterLink></li>
+        ))}
+      </ul>
     </nav>
   );
 }
@@ -138,7 +137,6 @@ export default function Footer({ locale = 'ar', contextualFooter = null, hideEmi
   const router = useRouter();
   const language = locale === 'en' ? 'en' : 'ar';
   const t = copy[language];
-  const [openSection, setOpenSection] = useState(null);
   const textAlign = language === 'en' ? 'text-left' : 'text-right';
   const desktopAlign = language === 'en' ? 'md:text-left' : 'md:text-right';
   const desktopSocial = language === 'en' ? 'md:justify-start' : 'md:justify-end';
@@ -170,7 +168,7 @@ export default function Footer({ locale = 'ar', contextualFooter = null, hideEmi
               <div className={`mt-5 flex flex-wrap items-center justify-center gap-3 ${desktopSocial}`} dir="ltr">{socialLinks.map((item) => <SocialLink key={item.label} {...item} />)}</div>
             </div>
             <div className="lg:contents">
-              {t.sections.map((section) => <FooterAccordionSection key={section.id} section={section} textAlign={textAlign} isOpen={openSection === section.id} onToggle={() => setOpenSection((current) => current === section.id ? null : section.id)} />)}
+              {t.sections.map((section) => <FooterSection key={section.id} section={section} textAlign={textAlign} />)}
             </div>
           </div>
         </div>

@@ -76,7 +76,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 ## 7. Board cutting and preparation
 
-**Use case, scope and exclusions:** This service turns customer-supplied or workshop-procured boards into numbered parts ready for assembly. Send a millimetre cut list specifying each part's length, width, quantity, board grade and thickness, grain direction, edge-banding sides and hole positions. Agree whether the workshop supplies the boards or works on customer-owned sheets, and whether cutting, edging, drilling, labelling and protective packing are included. On-site assembly and fitting, correction of unapproved drawings, and changes after cutting starts are separate unless expressly priced.
+**Use case, scope and exclusions:** This service turns customer-supplied or workshop-procured boards into numbered parts ready for assembly. Send a millimetre cut list specifying each part's length, width, quantity, board grade and thickness, grain direction, edge-banding sides and hole positions. Agree whether the workshop procures and supplies boards or receives customer-owned sheets, and whether cutting, edging, drilling, labelling and protective packing are included. On-site assembly and fitting, correction of unapproved drawings, and changes after cutting starts are separate unless expressly priced.
 
 **Additional survey:** Provide a numbered millimetre cutting list showing edge banding, drilling and grain direction.
 

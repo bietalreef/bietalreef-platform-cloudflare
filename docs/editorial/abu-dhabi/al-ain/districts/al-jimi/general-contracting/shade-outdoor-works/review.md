@@ -34,3 +34,9 @@
 ## 2026-11-15 — Contract detail audit
 
 Added seven distinct bilingual agreement checkpoints covering foundations, drainage, pergola lighting, furniture, boundary survey, paving settlement and fountain electrical safety. Both language files were read back and verified. Status: `in_progress`; final semantic and technical audit remains outstanding.
+
+## تدقيق 2026-11-19 — فحص تثبيت مظلات السيارات
+
+- تحقق مسار التخصص الفعلي `general-contracting/shade-outdoor-works` من فهرس GitHub، وقورنت الخدمات السبع باللغتين مع الشجرة الأصلية؛ الأسماء العربية السبعة وترتيبها مطابقان.
+- صُحح بند استلام «تركيب مظلات السيارات» في اللغتين: تقرير فحص التثبيت يقدمه مختص مؤهل وفق التصميم المعتمد، ولا يحل محل الفحص أو الموافقة النظامية عند اشتراطها. هذا تصحيح في دقة الإرشاد لا إثبات لاعتماد فني أو توفر مزود.
+- المتبقي: التدقيق الدلالي والفني المستقل لبقية خدمات هذا التخصص، ثم مراجعة جميع تخصصات الشركات والخدمات الـ434 بكل لغة؛ المنطقة `in_progress`.

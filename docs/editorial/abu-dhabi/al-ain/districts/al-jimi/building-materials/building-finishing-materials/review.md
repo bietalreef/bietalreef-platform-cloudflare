@@ -135,3 +135,9 @@
 
 - Corrected the comma-splice `, Attach` to a separate instruction in the intake paragraphs of services 12–21 (10 sections). Preserved service titles, technical requirements, scope and sequence.
 - This is a language-quality correction, not completion of the technical parity review. Remaining: technical and semantic audit of services 8–21, then all other company specialties against the original taxonomy; Al Jimi remains `in_progress`.
+
+## تحرير سياقات الحاجة للخدمات 12–21 — 2026-11-18
+
+- أعيدت صياغة افتتاحيات الحاجة للخدمات العشر 12–21 بالعربية والإنجليزية (20 موضعًا) لتفصل توريد تجهيزات الحمامات والكهرباء والسباكة للمشروعات عن مشتريات التجزئة للإصلاح أو استكمال النواقص، وتفصل نقل مواد مشتراة عن بيعها. لم تُغير أسماء الخدمات أو نطاقات الاستلام والاتفاق.
+- أُعيدت قراءة `content-ar.md` و`content-en.md` من الفرع بعد الكتابة وتحقق التطابق، وبقيت 21 خدمة بكل لغة.
+- النواقص: مراجعة التكافؤ الدلالي والفني للخدمات 8–21 فقرة بفقرة، ثم تدقيق التخصصات الـ49 الأخرى ومطابقة الشجرة والتكرار والقيود. هذا تحسين تحرير وليس اعتمادًا نهائيًا.

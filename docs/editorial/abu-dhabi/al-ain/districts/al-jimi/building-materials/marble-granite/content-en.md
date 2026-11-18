@@ -4,7 +4,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 1. Natural marble supply
 
-**Need and survey:** For natural marble supply, prepare colour, veining, slab size, thickness and installation area, accurate measurements, site photographs and an actual sample. For the site survey, provide numbered slab photographs, unloading access and the approved sample; separate included work from exclusions in the quotation.
+**Need and survey:** When selecting natural marble slabs for a floor, wall or stair, identify each installation area, net coverage and preferred vein direction. Photograph the reference stone in daylight and request numbered photographs of the actual slabs rather than a catalogue image alone. Record thickness, the largest slab that can reach the site and whether the request is for raw supply or includes fabrication and laying.
 
 **Scope and quotation comparison:** Compare origin, commercial stone name, grade, measured thickness and actual slab photographs, rather than a colour label alone. Establish whether quantities are net square metres or include cutting waste, and price packing, transport, lifting and unloading separately. Approve numbered slabs and a vein-layout photograph before fabrication, with written replacement terms for damaged or non-matching slabs.
 
@@ -14,7 +14,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 2. Granite supply
 
-**Need and survey:** For granite supply, prepare granite type, thickness, finish and slip suitability where used on floors, accurate measurements, site photographs and an actual sample. For the site survey, provide granite grade, surface finish and dry storage arrangements; separate included work from exclusions in the quotation.
+**Need and survey:** For granite intended for a kitchen worktop, stairs or flooring, specify exposure to water, abrasion and heat. Provide the reference sample, colour, finish, piece dimensions and unloading location; for floors, request evidence that the proposed slip performance suits the use. Distinguish raw slab purchase from edge finishing, cut-outs and installation at the outset.
 
 **Scope and quotation comparison:** Request granite identification, thickness, surface finish and intended indoor or outdoor use; for flooring, confirm the proposed slip characteristics. Compare slab or net-area rates alongside waste, delivery and unloading, separating cutting, installation and adhesives from supply. Agree acceptable natural shade variation and rejection criteria for cracks or repairs before delivery.
 
@@ -24,7 +24,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 3. Custom marble cutting
 
-**Need and survey:** For custom marble cutting, prepare millimetre cut drawings, openings, vein direction and joint allowances, accurate measurements, site photographs and an actual sample. For the site survey, provide the cutting schedule, measured cut-outs and vein direction; separate included work from exclusions in the quotation.
+**Need and survey:** If slabs are already available for thresholds, worktops or steps, supply a numbered cutting schedule in millimetres rather than a total area alone. Show sink openings, corner radii, polished edges and vein direction, supported by site measurement photographs. Agree who signs off final dimensions, who delivers slabs to the workshop and whether dry fitting or transport is included.
 
 **Scope and quotation comparison:** Base each offer on an approved millimetre cutting schedule showing finished sizes, vein direction, cut-outs, corner radii and polished edges. Ask for cutting tolerances, piece labels, dry-fit checks and packaging; allocate responsibility for incorrect dimensions and breakage. Keep stone purchase, fabrication, transport and installation as separate price lines.
 
@@ -34,7 +34,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 4. Marble honing and polishing
 
-**Need and survey:** For marble honing and polishing, prepare photos of scratches and stains, surface area, stone type and existing sealant, accurate measurements, site photographs and an actual sample. For the site survey, provide stain locations, trial area and existing stone finish; separate included work from exclusions in the quotation.
+**Need and survey:** When marble has lost its sheen or shows scratches or stains, photograph defects in both normal and raking light, and state their age and any existing sealer. Measure the work area, note joint condition, adjacent furniture and access to water and power. Request an inspection and limited trial before choosing a honing grade: deep fractures and continuing damp are not polishing defects.
 
 **Scope and quotation comparison:** Distinguish light scratches from deep staining or fractures: polishing cannot correct every defect. Require a small trial area and sign-off on the target sheen before full treatment, stating abrasion stages and dust or wastewater controls. Compare area, condition, consumables, furniture protection and joint protection; document realistic stain-removal limits and possible colour variation.
 
@@ -44,7 +44,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 5. Marble flooring installation
 
-**Need and survey:** For marble flooring installation, prepare tile layout, floor area, door thresholds and substrate condition, accurate measurements, site photographs and an actual sample. For the site survey, provide floor layout, thresholds and substrate condition; separate included work from exclusions in the quotation.
+**Need and survey:** Before laying marble flooring, provide a room layout with doors, drains, finished floor levels and stone thickness. Photograph the existing substrate and identify old tiles, waterproofing or falls that may need work. Ask for removal, levelling and waterproofing to be priced separately from laying and cutting, and approve vein layout and joint positions before work starts.
 
 **Scope and quotation comparison:** Compare quotations against a tile layout, floor area, falls and thresholds, distinguishing substrate levelling, waterproofing and old-floor removal from laying. Specify adhesive or mortar system, joints, edge cuts and the period before use. Approve a vein arrangement and starting point, with remedies for hollow, loose or uneven pieces before handover.
 
@@ -54,7 +54,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 6. Marble wall and facade installation
 
-**Need and survey:** For marble wall and facade installation, prepare wall height, fixing design, panel weight, substrate and approved details, accurate measurements, site photographs and an actual sample. For the site survey, provide facade height, substrate and approved fixing details; separate included work from exclusions in the quotation.
+**Need and survey:** For marble on an internal wall or elevated facade, identify installation height, panel dimensions and weights, substrate type, openings and safe access. Attach elevation drawings, available engineered fixing details and clear site photographs; do not assume adhesive alone or unspecified anchors are adequate. Require named responsibility for design, lifting and inspection before accepting a final quotation.
 
 **Scope and quotation comparison:** Facade rates per square metre are insufficient: require engineered fixing details for panel weights, anchors, substrate, movement and drainage. Separate lifting access, scaffolds, protection, testing and supervision in the quote. A competent designer must approve fixing and safety requirements before installation; record responsibility for anchor verification and unsafe panels.
 
@@ -64,7 +64,7 @@ Natural stone needs a physical approved sample because colour and veining vary. 
 
 ## 7. Marble repair and treatment
 
-**Need and survey:** For marble repair and treatment, prepare crack and stain photos and whether damage is superficial or needs replacement, accurate measurements, site photographs and an actual sample. For the site survey, provide crack locations, staining and possible moisture sources; separate included work from exclusions in the quotation.
+**Need and survey:** For cracked, loose or stained marble, photograph the defect close up and in context with a scale, noting whether cracks are growing or dampness returns after cleaning. State the stone type, location, previous repairs and suspected moisture source. Request diagnosis and a small repair trial, with leak remediation or replacement priced separately from cosmetic refinishing.
 
 **Scope and quotation comparison:** First distinguish scratching, staining, cracking, detachment and moisture damage, as the repair methods differ. Compare filling, injection, refinishing or replacement by affected area, materials and realistic colour-match limits. Agree a sample repair, price any moisture-source correction separately, and refer potentially structural cracking for appropriate assessment.
 

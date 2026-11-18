@@ -6,7 +6,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case and preparation:** MDF is often specified for cabinet carcasses, internal doors and furniture parts needing a consistent surface for painting or facing. Provide a schedule of component thicknesses, sheet dimensions, density and the moisture-resistance grade suited to each location; a panel near a sink warrants different consideration from one in a dry bedroom. State whether you want raw sheets or cutting and edge banding. Fitting is excluded unless separately priced.
 
-**Additional survey:** Inspect MDF sheet edges and damp storage risks; document required thickness, density and quantities.
+**Additional survey:** Inspect MDF edges, storage conditions and possible moisture sources; record thickness, density and quantities. A moisture-resistant grade is not waterproof or suitable for immersion. Request the product's intended-use limitations near sinks and specify exposed-edge sealing as a separate fabrication item where needed.
 
 **Comparing quotations:** Specify MDF grade, density, thickness and stated moisture-resistance classification with a product reference or approved sample; visually similar boards can have different cores. Compare full-sheet dimensions and rates, separating cutting, edging and delivery. Agree rejection criteria for swollen or bowed sheets and dry storage on arrival.
 

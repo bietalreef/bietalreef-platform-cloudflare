@@ -18,7 +18,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare net cubic-metre volume, sand type, washing and grading, plus tipper waiting charges; agree how delivered volume will be checked. Separate sand haulage from waiting and unloading charges, and assign responsibility for rejecting a load that differs from the agreed sample or grading. Spreading, compaction and engineering suitability tests are excluded unless expressly included.
 
-**Agreement and acceptance:** Specify sand type, unloading point and how delivered volume will be verified on arrival. At receipt, verify no visible debris or contamination and delivered volume agrees. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Specify sand type, unloading point and how delivered volume will be verified on arrival. At receipt, verify no visible debris or contamination and delivered volume agrees. Record the truck identifier, delivery time and volume using the agreed measurement method. Photograph debris or differences in colour or grading, and keep a disputed load separate from stored sand. Refer acceptance or rejection to the project supervisor against the approved sample and specification; appearance alone cannot establish conformity.
 
 **Requesting quotes:** State whether sand is for plaster, concrete or fill, the load volume and unloading point; request grading, washing, measurement basis, waiting charges and quantity verification. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -28,7 +28,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare nominal size, grading, source and truck volume; specify whether washing and testing are included. State who keeps aggregate separate from existing stock, who pays for washing, transport and unloading, and how a load with incorrect grading or nominal size is handled before mixing. Concrete batching, placing and laboratory testing are excluded unless expressly contracted.
 
-**Agreement and acceptance:** Record aggregate grading and source, and keep the load separate from previously stored aggregate. At receipt, verify grading, size and cleanliness against the approved sample. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Record aggregate grading and source, and keep the load separate from previously stored aggregate. At receipt, verify grading, size and cleanliness against the approved sample. Inspect samples from different parts of the load for apparent stone size, cleanliness and foreign material, retaining the source details and delivery ticket. Quarantine suspect aggregate before batching and refer any grading or source discrepancy for the specified testing and supervisor decision rather than relying on photographs alone.
 
 **Requesting quotes:** Specify aggregate size, grading, intended use and volume; request source details, required test evidence, truck capacity and washing and unloading charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -58,7 +58,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Quotation scope and comparison:** Compare cubic-metre price by strength, workability and haul distance; itemise pump, waiting, tests and short-load charges and confirm the pour window. Clarify whether pumping, transport, sampling and waiting time are included or charged separately. Fresh concrete cannot be returned like packaged goods: agree in advance how delayed trucks or a nonconforming load will be handled, and who authorises acceptance before discharge. Placement, compaction, curing and engineering inspection are excluded from mix supply unless explicitly included.
 
-**Agreement and acceptance:** Confirm pour slot, mixer arrival window, pump responsibility and sampling with the supervising engineer. At receipt, verify batch tickets, dispatch and arrival times and project-specified tests. Photograph discrepancies on the delivery record before use; obtain project approval for material substitutions where required.
+**Agreement and acceptance:** Confirm pour slot, mixer arrival window, pump responsibility and sampling with the supervising engineer. At receipt, verify batch tickets, dispatch and arrival times and project-specified tests. Check each truck's batch ticket, mix identifier, loading and arrival times and quantity. Record delays, workability concerns and the project-required site test results. The authorised technical representative decides whether to discharge or reject a load under the project specification; do not add water or alter the mix on site without approval, and document rejected loads before departure.
 
 **Requesting quotes:** State the specified concrete strength, pour volume, pump location and pour window; request separate rates for concrete, pumping, waiting, tests and part-load charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 

@@ -204,7 +204,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Confirm waterproofing material compatibility with substrate and required preparation products. At receipt, verify compatible system components, accessories and application instructions. Match the waterproofing system, companion layers, batch numbers, shelf life and storage instructions; note damaged or incompatible packs before receipt. Buying a product does not certify substrate suitability or waterproofing performance.
 
-**Requesting quotes:** State the insulation or waterproofing product type, intended use, area and approved thickness; request datasheets, shelf life, primers and compatible accessories. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
+**Requesting quotes:** Specify the approved waterproofing system (membrane, liquid coating or other specified product), substrate, application location, treatment area and required dry-film or membrane thickness where applicable. Request the matching primer, joint and penetration accessories, technical datasheets, shelf life and storage conditions; do not substitute thermal-insulation products for waterproofing materials. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 21. Material delivery to site
 

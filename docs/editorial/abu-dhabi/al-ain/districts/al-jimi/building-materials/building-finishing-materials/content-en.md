@@ -132,6 +132,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** List sanitaryware models and fittings and protect fragile units during handling. At receipt, verify correct models, finishes and accessories without cracks or scratches. Record each fixture model, finish, accessory count and any chipped ceramic or coating on the delivery note before acceptance. Packaging inspection does not establish compatibility with the site's connection dimensions.
 
+**Decision before purchase:** For wall-hung toilets, check the concealed frame against wall build-up and finished height. For basins, allow room for drawer opening and trap maintenance; a catalogue photo is not a dimensioned installation drawing.
+
 **Requesting quotes:** List sanitary fixture models, dimensions and outlet positions; request separate prices for mixers, basins, toilets, fittings and warranties. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 13. Electrical installation material supply
@@ -141,6 +143,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Quotation scope and comparison:** Align offers by conductor material, cable cross-section, insulation class and reel length, and by breaker model, breaking capacity and approved ratings. Request traceability and applicable conformity documents; separate delivery, reel handling and damage protection. Cable pulling, panel termination, insulation tests and earthing tests are installation and inspection tasks, not part of material supply.
 
 **Agreement and acceptance:** Match cable, breaker and accessory ratings against the approved electrical schedule. At receipt, verify ratings, markings and required approvals without unapproved substitutions. Match breaker, cable and socket identifiers, ratings and packaging labels to the purchase schedule; record shortages and batch differences before receipt. Live electrical testing is outside materials supply.
+
+**Decision before purchase:** Check breaker coordination with the distribution board and the engineer's required breaking capacity; matching amperage alone is insufficient. Request net reel lengths and batch documentation where cable traceability is specified.
 
 **Requesting quotes:** List cable sizes, breaker ratings, switches and quantities; request conformity information, product brands and supply-only exclusions without electrical testing claims. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -152,6 +156,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Match pipe diameters, working pressures and joint types against the plumbing schedule. At receipt, verify matching diameters and ratings, no cracked or missing fittings. Check pipe diameters, pressure classes, fittings, seals and counts; segregate mismatched items before they reach installers. Visual receipt checks do not establish the pressure integrity of an installed system.
 
+**Decision before purchase:** Do not mix fittings from different pipe systems just because nominal diameters match. Verify jointing method, temperature and pressure limits, and drinking-water suitability of sealants where applicable.
+
 **Requesting quotes:** Specify pipe diameters, materials, operating pressures and fittings; request rates by length and fitting, conformity evidence and transport charges. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 15. Construction material retail
@@ -161,6 +167,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Quotation scope and comparison:** For counter sales, compare the actual sale unit, pack count and shelf life of time-sensitive products rather than the item name alone. Confirm stock of the specified size, unopened-pack return conditions, invoice details and small-order delivery fees. A retail purchase does not include installation, engineering approval or permission to substitute structural materials.
 
 **Agreement and acceptance:** List individual retail items and agree count checks and return rules before payment. At receipt, verify invoice, unit counts, quantities and returns terms before collection. Match invoice lines to quantities, sizes and units sold; record broken or expired packs where relevant before leaving the handover point. Do not accept specification substitutions without the buyer's approval.
+
+**Decision before purchase:** Separate returnable stock from custom-cut or mixed goods on urgent small orders. Include the cost of a second collection trip if pack size or unit of sale differs from the request.
 
 **Requesting quotes:** Send an itemised shopping list with units and specifications; request confirmed stock, acceptable alternatives, return terms and delivery fees for each item. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -172,6 +180,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Check that taps, valves and associated fittings are complete in each package. At receipt, verify complete sets, connection compatibility and documented warranty. Where packaging permits, inspect fixture finishes, visible chips, accessories and model numbers against the invoice. Keep dated evidence of condition before installation for any later claim.
 
+**Decision before purchase:** For a replacement mixer, check fixing-centre distances, hose reach and handle clearance near walls. Similar external appearance does not establish interchangeability.
+
 **Requesting quotes:** Supply sanitaryware photos or model numbers, dimensions and connection sizes; request matching accessories, warranty coverage and replacement conditions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 17. Electrical accessories retail
@@ -181,6 +191,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Quotation scope and comparison:** Compare switches, sockets and lighting accessories by model, voltage and current rating, ingress protection and intended environment. Request applicable conformity evidence and warranty terms. Distinguish unit prices from complete sets and installation accessories; itemise delivery and returns separately. Retail supply excludes wiring, connection and electrical safety testing, which require a suitably qualified installer under a separate agreement.
 
 **Agreement and acceptance:** Verify accessory ratings and ingress protection against intended electrical use. At receipt, verify correct specified item and safety rating, with no unsuitable substitution. Verify voltage, power, ingress rating and product identification against the invoice and unit count. Product receipt is not electrical commissioning; installation and testing require an appropriately qualified party.
+
+**Decision before purchase:** Do not select a switch or socket by faceplate appearance alone. Check back-box depth, fixing system and protection requirements in damp locations; circuit safety assessment belongs to a qualified installer.
 
 **Requesting quotes:** Provide model numbers and ratings for switches, sockets and lighting; request conformity and compatibility details, quantities and warranty without implying installation. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -192,6 +204,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Separate plumbing fittings, valves and connectors by size and material on the retail invoice. At receipt, verify thread, dimensions and seals fit before installation. Match fitting diameters, material and pressure ratings, and the agreed make or substitute to the invoice; check threads and seals for visible damage. Post-installation leak testing is not part of retail sale.
 
+**Decision before purchase:** Measure the pipe's outside diameter and thread type where applicable rather than relying on a colloquial size label. Lookalike fittings may use different jointing systems or seals.
+
 **Requesting quotes:** Attach fitting sizes, thread or joint types and photos of existing plumbing parts; request compatibility confirmation and unused-part return conditions. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 19. Paint retail
@@ -201,6 +215,8 @@ This is preparatory information for a company/establishment specialty that is cu
 **Quotation scope and comparison:** Compare paint type, sheen, colour code, pack size, stated coverage and the required primer-and-coat system rather than litre price alone. Ask about tinting fees, repeatability of mixed colours and returns for custom-tinted cans; clarify storage and delivery terms. Retail supply excludes surface preparation, painting labour and workmanship warranties.
 
 **Agreement and acceptance:** Approve paint shade, sheen and pack size and retain the batch reference. At receipt, verify mixed colour matches code, batch and future repeatability. Check colour codes, sheen, base type, batch numbers and shelf-life labels; separate leaking or mismatched cans before tinting or mixing. A similar visible shade does not guarantee batch consistency.
+
+**Decision before purchase:** A touch-up can dry to a different appearance because the existing coating has aged or has a different sheen. Agree a trial patch and the limits of colour matching before opening all cans.
 
 **Requesting quotes:** Specify colour codes, paint type, sheen and pack sizes; request batch identification, manufacturing date, stated coverage and exchange terms. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
@@ -212,6 +228,8 @@ This is preparatory information for a company/establishment specialty that is cu
 
 **Agreement and acceptance:** Confirm waterproofing material compatibility with substrate and required preparation products. At receipt, verify compatible system components, accessories and application instructions. Match the waterproofing system, companion layers, batch numbers, shelf life and storage instructions; note damaged or incompatible packs before receipt. Buying a product does not certify substrate suitability or waterproofing performance.
 
+**Decision before purchase:** Do not choose waterproofing solely from the visible damp patch. Identify the water source and substrate condition first; verify system compatibility at drains, corners and movement joints before buying accessories.
+
 **Requesting quotes:** Specify the approved waterproofing system (membrane, liquid coating or other specified product), substrate, application location, treatment area and required dry-film or membrane thickness where applicable. Request the matching primer, joint and penetration accessories, technical datasheets, shelf life and storage conditions; do not substitute thermal-insulation products for waterproofing materials. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.
 
 ## 21. Material delivery to site
@@ -221,5 +239,7 @@ This is preparatory information for a company/establishment specialty that is cu
 **Quotation scope and comparison:** This is a transport service, not a material sale. Compare trip count, load weight and volume, vehicle type, travel distance and delivery point, specifying whether lifting, labour, packaging and load restraint are included. Ask about waiting, failed-access and redelivery charges, transit-damage responsibility and any site-entry permits. Purchasing materials, technical conformity inspection and installation are outside this service.
 
 **Agreement and acceptance:** Agree loading order, vehicle access, unloading location and responsibility for handling damage. At receipt, verify package count, condition, proof of delivery and damage noted before signing. Record package counts, corners, restraints and wrapping condition at loading and unloading; photograph visible damage and note handover time before signing the transport record. Claims follow agreed carriage terms, not technical acceptance of the goods.
+
+**Decision before transport:** Specify the heaviest individual item, its centre of gravity and lifting method, not just total load weight. Agree whether handover is at the gate or inside the site and who records damage.
 
 **Requesting quotes:** Provide the site address, entrance and clearance photos, load dimensions and unloading point; request trip count, vehicle and lifting equipment, waiting charges and transit damage liability. Biet Al Reef customer service can help prepare a comparable request without guaranteeing a supplier, price or date.

@@ -1701,3 +1701,9 @@
 
 - الحالة `in_progress`: حُسنت مدخلات عشر خدمات بالعربية والإنجليزية في [المحتوى العربي](./building-materials/building-finishing-materials/content-ar.md) و[الإنجليزي](./building-materials/building-finishing-materials/content-en.md) مع [المراجعة](./building-materials/building-finishing-materials/review.md).
 - النواقص الدقيقة: تدقيق بقية فقرات الخدمات 12–21، ثم مراجعة تخصصات الشركات الأخرى وتطابق 434 خدمة بكل لغة وحالات المقيد والمقترح. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## متابعة تدقيق الإنجليزية لخدمات 12–21 — 2026-11-18
+
+- الحالة `in_progress`؛ صُححت صياغة إنجليزية غير سليمة (`، Attach` في تركيب الجملة الإنجليزية) في فقرات تجهيز الطلب للخدمات 12–21 من [مواد البناء والتشطيب](./building-materials/building-finishing-materials/content-en.md)، دون تغيير أسماء الخدمات أو ترتيبها أو متطلباتها الفنية. [مراجعة التخصص](./building-materials/building-finishing-materials/review.md).
+- النواقص التالية: تدقيق التكافؤ الفني والدلالي للخدمات 8–21 في `building-materials/building-finishing-materials/content-ar.md` و`content-en.md`، ثم جرد ومراجعة التخصصات الـ49 الأخرى ومطابقة 434 خدمة لكل لغة، بما يشمل التصنيفات المقيدة والمقترحة. لا تبدأ المويجعي.

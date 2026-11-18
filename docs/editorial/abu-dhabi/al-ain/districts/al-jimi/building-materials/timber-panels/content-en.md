@@ -18,7 +18,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case and preparation:** Solid timber may be needed for door frames, visible-grain joinery and details requiring particular sections. Identify species, grading, finished lengths and sections, indoor or outdoor exposure, acceptable moisture content and how it will be checked. Distinguish rough-sawn stock from planed and prepared pieces; fabrication, fitting and finishing do not automatically follow from timber supply.
 
-**Additional survey:** Photograph timber sections, lengths and visible knots; state the application and required drying condition.
+**Additional survey:** Photograph faces and end grain with a scale, and schedule each group's section width, thickness and length, knot and split locations, and grain direction. State whether sizes are rough-sawn or finished after planing and whether exposure is air-conditioned indoors or outdoors. If a moisture limit is contractual, agree a species-appropriate measurement method and sample locations before ordering.
 
 **Comparing quotations:** Identify timber species, grade, cross-section, length and drying condition, since knots, splits and straightness affect value. Compare volume or linear-metre rates against the stated section, with machining, sanding, finishing and transport separately priced. Record allowable waste and rejection criteria for warping or unacceptable moisture.
 
@@ -30,7 +30,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case and preparation:** Plywood can be specified for cabinet backs, partitions and substrates requiring a layered panel, but grades are not interchangeable for damp exposure or structural use. Specify thickness, face grade, bonding classification and exposure conditions, and request product documentation where performance is critical. Supply cut sizes and quantities while keeping board delivery separate from cutting and fixing.
 
-**Additional survey:** Provide a plywood edge photograph, intended wet or dry use and the required bonding grade.
+**Additional survey:** Supply clear photographs of a cut edge and both faces with a thickness reference, and distinguish dry cabinet use from moisture exposure. Request the supplier's stated bonding and face grades; ply count alone does not establish structural suitability. Attach a cut-size schedule where small parts or openings may affect waste.
 
 **Comparing quotations:** Compare plywood by ply count, face grade, bonding classification and stated service conditions; do not accept a vague 'waterproof' label without a specification. Inspect a sample cut edge for voids and layers, and price cutting, packaging and delivery separately. Agree remedies for delamination or distortion and edge protection in transit.
 
@@ -42,7 +42,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case and preparation:** Melamine-faced boards suit cabinetry and shelving where the decorative face is already finished. Before quoting, approve a physical sample and finish code, core type and thickness, and grain direction across adjacent doors; pattern matching may increase sheet waste. Identify exposed edges needing banding and whether the order is for full sheets or cut parts. Assembly is not included by default.
 
-**Additional survey:** Specify the melamine finish code, grain direction, exposed edges and an actual finish sample.
+**Additional survey:** Photograph a finish sample under neutral light beside existing panels for extension work, recording colour code, core type, thickness and the required finish on each face. Mark grain direction across adjoining door fronts and exposed edges needing matching banding; phone photographs do not replace physical sample approval.
 
 **Comparing quotations:** Approve melamine colour code, texture, grain direction, core thickness and finish on both faces using a sample from the proposed batch. Compare usable sheets and grain-matching waste, with edge tape, cutting and drilling separate. Allocate responsibility for batch mismatch, scratches and chipped corners.
 
@@ -54,7 +54,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case and preparation:** HPL may be specified for worktops, door faces and other surfaces needing a defined decorative finish and application-appropriate durability. First establish whether the order is for raw laminate sheets or factory-faced boards. Then specify laminate thickness, finish code, substrate and exposure to heat or moisture. Bonding, pressing, edge finishing and fitting are separate operations unless explicitly included.
 
-**Additional survey:** Show whether the order is raw HPL laminate or a faced board, with substrate and bonding method.
+**Additional survey:** Include a section photograph distinguishing loose HPL laminate from a faced board, noting laminate and substrate thicknesses. Mark the intended surface, joints, exposed edges and any sink cut-outs, plus likely moisture and heat exposure. Where fabrication is included, request the proposed pressing method, adhesive and edge treatment.
 
 **Comparing quotations:** Distinguish raw HPL laminate sheets from pre-laminated boards; their pricing and fabrication differ. Request laminate thickness, finish code, substrate and intended adhesive, separating pressing or bonding labour from supply. Approve a sample and agree remedies for bubbles, delamination or shade mismatch.
 
@@ -78,7 +78,7 @@ Joinery boards should be chosen for their application, dimensions and assembly m
 
 **Use case, scope and exclusions:** This service turns customer-supplied or workshop-procured boards into numbered parts ready for assembly. Send a millimetre cut list specifying each part's length, width, quantity, board grade and thickness, grain direction, edge-banding sides and hole positions. Agree whether the workshop procures and supplies boards or receives customer-owned sheets, and whether cutting, edging, drilling, labelling and protective packing are included. On-site assembly and fitting, correction of unapproved drawings, and changes after cutting starts are separate unless expressly priced.
 
-**Additional survey:** Provide a numbered millimetre cutting list showing edge banding, drilling and grain direction.
+**Additional survey:** Send a numbered part drawing with millimetre length, width, quantity and grain direction, marking banded sides, tape type and thickness, and hole centres measured from one consistent datum edge. State whether dimensions are finished after banding or raw cut sizes, and identify who signs off the list before machining.
 
 **Comparing quotations:** Compare bids against a numbered millimetre cut list specifying board type, grain direction, edge-banding sides and drill locations. Separate sheet cost from cutting, edging, boring and packing, and agree dimensional tolerances and responsibility for recutting incorrect parts. Require labelled parts matching the assembly drawing.
 

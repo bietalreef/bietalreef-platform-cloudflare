@@ -118,7 +118,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 12. Sanitary fixture supply
 
-**When and what to provide:** For sanitary fixture supply to an Al Jimi project, supply fixture models, connection dimensions, mixers and fixing accessories, Attach photos of fixing points and water/waste connections, with recess dimensions. Confirm sanitary fixture dimensions, drain positions and fixing accessories.
+**When and what to provide:** For sanitary fixture supply to an Al Jimi project, supply fixture models, connection dimensions, mixers and fixing accessories. Attach photos of fixing points and water/waste connections, with recess dimensions. Confirm sanitary fixture dimensions, drain positions and fixing accessories.
 
 **Quotation scope and comparison:** Compare sanitary fixtures by exact model, basin or toilet dimensions, outlet position, finish and included fixing kit. Price mixers, traps, isolation valves and connectors separately, and specify fragile-item packing, delivery and lifting charges. Supply does not include relocating water or waste points, fitting fixtures or leak testing unless separately contracted.
 
@@ -128,7 +128,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 13. Electrical installation material supply
 
-**When and what to provide:** For electrical installation material supply to an Al Jimi project, supply cable cross-sections, insulation ratings, breakers and switches per load schedule, Attach the distribution-board schedule, cable-route drawings and photos of existing component labels. Match voltage, current and cable cross-sections to the approved electrical design.
+**When and what to provide:** For electrical installation material supply to an Al Jimi project, supply cable cross-sections, insulation ratings, breakers and switches per load schedule. Attach the distribution-board schedule, cable-route drawings and photos of existing component labels. Match voltage, current and cable cross-sections to the approved electrical design.
 
 **Quotation scope and comparison:** Align offers by conductor material, cable cross-section, insulation class and reel length, and by breaker model, breaking capacity and approved ratings. Request traceability and applicable conformity documents; separate delivery, reel handling and damage protection. Cable pulling, panel termination, insulation tests and earthing tests are installation and inspection tasks, not part of material supply.
 
@@ -138,7 +138,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 14. Plumbing installation material supply
 
-**When and what to provide:** For plumbing installation material supply to an Al Jimi project, supply pipe material, diameters, pressure class, compatible fittings and valves, Attach the network layout and photos of existing joints and tie-in points. Match pipe diameters, materials and pressure class to the plumbing drawings.
+**When and what to provide:** For plumbing installation material supply to an Al Jimi project, supply pipe material, diameters, pressure class, compatible fittings and valves. Attach the network layout and photos of existing joints and tie-in points. Match pipe diameters, materials and pressure class to the plumbing drawings.
 
 **Quotation scope and comparison:** Compare pipe material, diameter, wall or pressure class, drainage grade and jointing system, with elbows, valves, seals and compatible jointing products itemised. State pipe lengths, fitting counts, delivery charges and protection needed during transport. Supply excludes welding or joining pipes, installing the network and pressure or leak testing.
 
@@ -148,7 +148,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 15. Construction material retail
 
-**When and what to provide:** For construction material retail to an Al Jimi project, supply shopping list, retail units and suitable sizes for the current construction phase, Attach a product-label photo or reference sample and quantities for each line item. Prepare a consistent item schedule to prevent substitution of similarly named goods.
+**When and what to provide:** For construction material retail to an Al Jimi project, supply shopping list, retail units and suitable sizes for the current construction phase. Attach a product-label photo or reference sample and quantities for each line item. Prepare a consistent item schedule to prevent substitution of similarly named goods.
 
 **Quotation scope and comparison:** For counter sales, compare the actual sale unit, pack count and shelf life of time-sensitive products rather than the item name alone. Confirm stock of the specified size, unopened-pack return conditions, invoice details and small-order delivery fees. A retail purchase does not include installation, engineering approval or permission to substitute structural materials.
 
@@ -158,7 +158,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 16. Sanitaryware retail
 
-**When and what to provide:** For sanitaryware retail to an Al Jimi project, supply installation dimensions, water and waste connection photos and desired model, Attach installation-space photos and the existing fixture label if replacing a unit. Confirm original connectors and installation fittings are included for each fixture.
+**When and what to provide:** For sanitaryware retail to an Al Jimi project, supply installation dimensions, water and waste connection photos and desired model. Attach installation-space photos and the existing fixture label if replacing a unit. Confirm original connectors and installation fittings are included for each fixture.
 
 **Quotation scope and comparison:** For a ready-made fixture, compare model number, dimensions, waste outlet orientation, finish, warranty and whether the fixing kit, trap or mixer is included. Clarify inspection at collection, replacement of scratched or defective items before fitting and fragile-delivery charges. Retail supply excludes altering water and waste connections, installation and commissioning unless separately quoted.
 
@@ -168,7 +168,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 17. Electrical accessories retail
 
-**When and what to provide:** For electrical accessories retail to an Al Jimi project, supply part or device model, voltage and current ratings and mounting method, Attach model and rating-plate photos and identify the mounting box type. Check electrical component conformity, insulation and earthing requirements.
+**When and what to provide:** For electrical accessories retail to an Al Jimi project, supply part or device model, voltage and current ratings and mounting method. Attach model and rating-plate photos and identify the mounting box type. Check electrical component conformity, insulation and earthing requirements.
 
 **Quotation scope and comparison:** Compare switches, sockets and lighting accessories by model, voltage and current rating, ingress protection and intended environment. Request applicable conformity evidence and warranty terms. Distinguish unit prices from complete sets and installation accessories; itemise delivery and returns separately. Retail supply excludes wiring, connection and electrical safety testing, which require a suitably qualified installer under a separate agreement.
 
@@ -178,7 +178,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 18. Plumbing material retail
 
-**When and what to provide:** For plumbing material retail to an Al Jimi project, supply sample or photo of the old fitting, pipe diameter, material and operating pressure, Attach front and rear photos of the old fitting and readable pipe markings. Separate hot water, cold water and drainage fittings by pipe material and diameter.
+**When and what to provide:** For plumbing material retail to an Al Jimi project, supply sample or photo of the old fitting, pipe diameter, material and operating pressure. Attach front and rear photos of the old fitting and readable pipe markings. Separate hot water, cold water and drainage fittings by pipe material and diameter.
 
 **Quotation scope and comparison:** Compare fittings and valves by pipe material, diameter, thread or joining method, pressure rating and suitability for hot water, cold water or drainage. Request itemised prices for fittings, seals and jointing consumables, along with unused-item return terms and delivery charges. Retail supply does not include installation or pressure testing of the pipework.
 
@@ -188,7 +188,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 19. Paint retail
 
-**When and what to provide:** For paint retail to an Al Jimi project, supply colour code, substrate, coverage area, coat count and sheen, Attach the colour-card reference and a photo of the actual substrate. Approve a colour and sheen sample on the actual substrate before bulk purchase.
+**When and what to provide:** For paint retail to an Al Jimi project, supply colour code, substrate, coverage area, coat count and sheen. Attach the colour-card reference and a photo of the actual substrate. Approve a colour and sheen sample on the actual substrate before bulk purchase.
 
 **Quotation scope and comparison:** Compare paint type, sheen, colour code, pack size, stated coverage and the required primer-and-coat system rather than litre price alone. Ask about tinting fees, repeatability of mixed colours and returns for custom-tinted cans; clarify storage and delivery terms. Retail supply excludes surface preparation, painting labour and workmanship warranties.
 
@@ -198,7 +198,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 20. Waterproofing retail
 
-**When and what to provide:** For waterproofing retail to an Al Jimi project, supply leak location, substrate, treatment area and primer/topcoat compatibility, Attach photos of drains, joints, cracks and existing membrane build-up. Verify compatibility with the substrate, temperature and planned application method.
+**When and what to provide:** For waterproofing retail to an Al Jimi project, supply leak location, substrate, treatment area and primer/topcoat compatibility. Attach photos of drains, joints, cracks and existing membrane build-up. Verify compatibility with the substrate, temperature and planned application method.
 
 **Quotation scope and comparison:** Compare waterproofing products for the intended application and substrate, including compatible primer, membrane, protection layer, coverage, specified thickness, shelf life and storage limits. Price the complete system with tapes, accessories and waste allowance rather than the tub or roll alone; clarify delivery and replacement terms. Retail supply excludes leak-source repair, application and on-site waterproofing tests.
 
@@ -208,7 +208,7 @@ This is preparatory information for a company/establishment specialty that is cu
 
 ## 21. Material delivery to site
 
-**When and what to provide:** For material delivery to site to an Al Jimi project, supply site address, access photos, clearance, unloading point and lifting needs, Attach gate, truck-route and unloading-point photos. Confirm vehicle access, unloading method and protection against transit damage.
+**When and what to provide:** For material delivery to site to an Al Jimi project, supply site address, access photos, clearance, unloading point and lifting needs. Attach gate, truck-route and unloading-point photos. Confirm vehicle access, unloading method and protection against transit damage.
 
 **Quotation scope and comparison:** This is a transport service, not a material sale. Compare trip count, load weight and volume, vehicle type, travel distance and delivery point, specifying whether lifting, labour, packaging and load restraint are included. Ask about waiting, failed-access and redelivery charges, transit-damage responsibility and any site-entry permits. Purchasing materials, technical conformity inspection and installation are outside this service.
 

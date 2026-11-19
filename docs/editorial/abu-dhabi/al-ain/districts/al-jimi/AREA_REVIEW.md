@@ -1771,3 +1771,8 @@
 
 - الحالة: `in_progress`؛ حُدثت الخدمة 7 «فحص الأحمال الكهربائية» في `general-maintenance/electrical-lighting/content-ar.md` ومقابلها الإنجليزي، مع `review.md`، لتوضيح اختصاص الفني المؤهل بقياس اللوحات ومنع قياس العميل للأجزاء الحية.
 - النواقص التالية: تدقيق السلامة والتكافؤ في بقية الخدمات الكهربائية، ثم `general-maintenance/plumbing-leak-detection` و`air-conditioning-refrigeration` و`smart-systems-surveillance` و`painting` و`waterproofing-thermal-insulation`، ثم بقية القطاعات والتفرد التحريري لجميع 434 خدمة في اللغتين. لا انتقال إلى المويجعي قبل اعتماد الجيمي.
+
+## متابعة سلامة خزانات المياه — 2026-11-19
+
+- الحالة `in_progress`. حُررت نقطة استلام الخدمة 13 «عزل خزانات المياه» في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md)، مع [سجل المراجعة](./general-maintenance/plumbing-leak-detection/review.md): لا يدخل العميل الخزان، وتُوثق معالجة المادة وتنظيفها، ويُفصل اختبار التسرب عن تحقق ملاءمة مياه الشرب بعد العمل.
+- أول نقص تالٍ: تدقيق بقية خدمات السباكة 1–12 و14 سطرًا بسطر للسلامة والتكافؤ، ثم `general-maintenance/air-conditioning-refrigeration` و`smart-systems-surveillance` و`painting` و`waterproofing-thermal-insulation`، ثم بقية تخصصات الشركات في القطاعات الثمانية ومطابقة 434 خدمة لكل لغة مع الشجرة، بما فيها المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

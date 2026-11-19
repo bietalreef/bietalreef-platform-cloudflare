@@ -1776,3 +1776,9 @@
 
 - الحالة `in_progress`. حُررت نقطة استلام الخدمة 13 «عزل خزانات المياه» في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md)، مع [سجل المراجعة](./general-maintenance/plumbing-leak-detection/review.md): لا يدخل العميل الخزان، وتُوثق معالجة المادة وتنظيفها، ويُفصل اختبار التسرب عن تحقق ملاءمة مياه الشرب بعد العمل.
 - أول نقص تالٍ: تدقيق بقية خدمات السباكة 1–12 و14 سطرًا بسطر للسلامة والتكافؤ، ثم `general-maintenance/air-conditioning-refrigeration` و`smart-systems-surveillance` و`painting` و`waterproofing-thermal-insulation`، ثم بقية تخصصات الشركات في القطاعات الثمانية ومطابقة 434 خدمة لكل لغة مع الشجرة، بما فيها المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## متابعة سلامة مضخات المياه — 2026-11-19
+
+- **الحالة: `in_progress`**. عُدّلت الخدمة 5 «تركيب مضخات المياه» في [المحتوى العربي](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزي](./general-maintenance/plumbing-leak-detection/content-en.md)، مع [مراجعة التخصص](./general-maintenance/plumbing-leak-detection/review.md)، لتحديد مسؤولية المختص عن السلامة الكهربائية وتوثيق اختبار الحماية وضبط الضغط. تم التحقق من إعادة قراءة ملفي المحتوى.
+- **أول نقص دقيق:** استكمال مراجعة خدمات السباكة 1–4 و6–12 و14 من حيث التكافؤ الفني والسلامة، ثم التكييف والأنظمة الذكية والدهانات والعزل، ثم الجرد والتدقيق المقارن لبقية تخصصات الشركات والخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

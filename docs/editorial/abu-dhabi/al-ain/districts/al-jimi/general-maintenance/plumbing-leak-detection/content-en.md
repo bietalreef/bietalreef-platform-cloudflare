@@ -48,7 +48,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Check stability, lid and overflow; fill and inspect for leaks. Provide tank capacity, base dimensions and lifting access; request separate amounts for the tank, lifting, base and connections.
 
-**Execution boundaries and safety:** Confirm safe access for lid inspection, cleaning and fill-line protection; structural assessment of a roof or design of a new base requires a qualified specialist and separate scope.
+**Execution boundaries and safety:** Confirm safe access for lid inspection, cleaning and fill-line protection; structural assessment of a roof or design of a new base requires a qualified specialist and separate scope. For potable-water tanks, request evidence that the tank material and fittings are suitable for drinking-water contact, and assign responsibility for cleaning the tank and checking connection hygiene before use; a leak-free fill test is not certification of water potability.
 
 ## 5. Water pump installation
 

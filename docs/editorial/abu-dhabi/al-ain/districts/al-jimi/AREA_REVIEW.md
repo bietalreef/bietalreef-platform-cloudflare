@@ -1787,3 +1787,8 @@
 
 - الحالة `in_progress`. عُدلت الخدمة 4 «تركيب الخزانات» في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md)، مع [المراجعة](./general-maintenance/plumbing-leak-detection/review.md)، لإثبات ملاءمة مواد ملامسة مياه الشرب ومسؤولية التنظيف وعدم مساواة اختبار التسرب بصلاحية المياه للشرب.
 - أول نقص تالٍ: تدقيق خدمات السباكة 1–3 و6–12 و14، ثم التكييف والأنظمة الذكية والدهانات والعزل وبقية تخصصات الشركات، ثم مطابقة 434 خدمة بكل لغة مع الشجرة. لا يبدأ المويجعي.
+
+## متابعة سلامة خدمات السباكة 1–3 — 2026-11-19
+
+- **الحالة `in_progress`**؛ أُضيفت متطلبات اختبار واستلام محددة في [العربية](./general-maintenance/plumbing-leak-detection/content-ar.md) و[الإنجليزية](./general-maintenance/plumbing-leak-detection/content-en.md) وسُجلت في [مراجعة التخصص](./general-maintenance/plumbing-leak-detection/review.md).
+- **أول نقص تالٍ:** تدقيق خدمات السباكة 6–12 و14، ثم التكييف والأنظمة الذكية والدهانات والعزل وبقية التخصصات؛ تدقيق جميع الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة قبل بدء المويجعي.

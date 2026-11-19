@@ -14,6 +14,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Execution boundaries and safety:** Before concealment, agree inspection hold points for joint photos and separate circuit tests; route or diameter changes need recorded approval, and repainting is excluded unless itemised.
 
+
+**Safety and acceptance review:** The specialist should set water-network test pressure and duration for the pipe material and system specification, isolate components not rated for the test, and record results before concealment; the customer must not pressurise the network personally.
 ## 2. Drainage rough-in
 
 **When and scope:** Start with drain locations, finished-floor levels and discharge connection to prevent backflow.
@@ -26,6 +28,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Execution boundaries and safety:** Record each outlet level against finished floor and keep rodding access reachable; do not bury an inspection point behind permanent finishes, and price defects in the existing network separately.
 
+
+**Safety and acceptance review:** Before backfilling or tiling, the specialist should document drainage falls, flow and leakage checks; customers must not open or enter drainage chambers for inspection.
 ## 3. Sanitary fixture installation
 
 **When and scope:** Check basin, WC or mixer compatibility with existing connections before purchase.
@@ -38,6 +42,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Execution boundaries and safety:** Check seals, fittings and fixing details against the exact fixture model and adjacent surface; installation does not cure poor system pressure or include bathroom floor waterproofing unless stated.
 
+
+**Safety and acceptance review:** The installer should verify basin or WC fixing integrity without damaging existing waterproofing, then test discharge and connections under use before handover.
 ## 4. Water tank installation
 
 **When and scope:** Confirm capacity, location, base suitability, fill line and overflow route.

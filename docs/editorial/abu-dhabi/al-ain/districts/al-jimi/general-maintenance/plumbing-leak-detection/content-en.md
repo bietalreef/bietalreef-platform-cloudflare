@@ -60,7 +60,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Handover checks:** Observe cut-in/out, pressure, vibration and leak-free connections. Send storey count, pressure readings and electrical connection photos; ask for the pump duty, protection and any electrical alteration costs.
 
-**Execution boundaries and safety:** Do not select by motor rating alone: request a duty point covering flow, pressure and electrical protection, then check leaks, noise and cycling on commissioning; board changes are not assumed.
+**Execution boundaries and safety:** Do not select by motor rating alone: request a duty point covering flow, pressure and electrical protection, then check leaks, noise and cycling on commissioning; board changes are not assumed. A qualified specialist must check earthing, electrical protection and safe isolation before connecting the pump; the customer must not open the electrical board or test live terminals. Record cut-in/cut-out pressure settings and dry-run protection checks at handover.
 
 ## 6. Pipework rehabilitation
 

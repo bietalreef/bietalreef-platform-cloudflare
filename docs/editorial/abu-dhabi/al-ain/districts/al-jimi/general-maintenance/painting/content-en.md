@@ -4,6 +4,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 1. Villa painting
 
+**Coating-system approval:** Where rooms have different existing finishes or patched substrates, require the contractor to identify compatible primers and topcoats for each surface and the manufacturer's intercoat intervals; extra coats do not compensate for an unsound substrate.
+
 **Pre-approval check:** Trial the colour on a representative wall under daylight and artificial lighting; record the approved product, colour code and sheen on the sample rather than relying on a phone photo alone.
 
 **When needed:** refreshing several rooms or preparing a villa for occupancy at an Al Jimi property.
@@ -21,6 +23,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Provide a room-by-room schedule of approximate wall and ceiling areas, stairwell heights and occupancy. Request separate allowances for furniture protection, defect preparation, coats and colour changes, with an on-site check of high-access areas before quantities are finalised.
 
 ## 2. Apartment painting
+
+**Occupied-apartment controls:** Agree safe material storage away from children and ignition sources and ventilation that does not carry fumes or dust into occupied rooms. Follow product safety and re-entry guidance rather than treating disappearance of odour as proof that the room is ready.
 
 **Pre-approval check:** Test adhesion in a discreet area behind furniture, agree ventilation arrangements, and base room reoccupation on actual drying and the product instructions, especially in occupied apartments.
 
@@ -76,6 +80,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 5. Decorative paint finishes
 
+**Future maintenance record:** Document the finish system, batch or colour reference where available, and approved cleaning method; ask whether local repairs will remain visible. Do not assume a protective sealer tolerates every household cleaner.
+
 **Pre-approval check:** Approve a fully dried texture sample on the actual substrate, noting lighting direction and how corners and returns are measured; a small swatch can look different across a full wall.
 
 **When needed:** creating textured, metallic or concrete-effect feature walls at an Al Jimi property.
@@ -111,6 +117,8 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Photograph peeling boundaries, blistering and any suspected water source; include moisture readings if available. Request a cause assessment and itemised removal, dust containment, disposal and substrate preparation, keeping leak repairs and suspected hazardous material assessment separate.
 
 ## 7. Paint touch-up and recoating
+
+**Repair boundaries:** After plumbing or electrical work, document closure of access openings and curing of patch materials before repainting. Separate responsibility for the original defect from the cosmetic patch; filler must not conceal active leaks or moving cracks.
 
 **Pre-approval check:** Compare the dried repair in daylight and evening lighting; where the colour difference remains visible, document the full-wall repaint option instead of accepting a mismatched patch.
 

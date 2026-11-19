@@ -1824,3 +1824,8 @@
 
 - الحالة `in_progress`. أُضيفت مراجعة تشغيل محلي وملكية الحسابات للخدمات 1–7 باللغتين في [العربية](./general-maintenance/smart-systems-surveillance/content-ar.md) و[الإنجليزية](./general-maintenance/smart-systems-surveillance/content-en.md) مع [مراجعة التخصص](./general-maintenance/smart-systems-surveillance/review.md).
 - **أول نقص تالٍ:** التدقيق الدلالي للخصوصية وحقوق الوصول والاحتفاظ بالتسجيلات في الخدمات 8–14 للأنظمة الذكية؛ ثم `general-maintenance/painting` و`general-maintenance/waterproofing-thermal-insulation` وبقية تخصصات القطاعات الثمانية، ومطابقة جميع الخدمات الـ434 في كل لغة. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## متابعة الخصوصية والحقوق الرقمية — 2026-11-19
+
+- الحالة `in_progress`. أُضيفت ملاحظات مخصصة لخدمات الأنظمة الذكية 8–14 بالعربية والإنجليزية؛ تمت تغطية خدمات التخصص الأربع عشرة في جولة مراجعة تشغيل محلي وخصوصية، دون اعتماد نهائي.
+- **أول نقص تالٍ:** مراجعة التكافؤ الفني الشامل للتخصص، ثم `general-maintenance/painting` و`general-maintenance/waterproofing-thermal-insulation` وبقية القطاعات، وجرد 434 خدمة في كل لغة ومراجعة حالة المقيد والمقترح. لا تبدأ المويجعي.

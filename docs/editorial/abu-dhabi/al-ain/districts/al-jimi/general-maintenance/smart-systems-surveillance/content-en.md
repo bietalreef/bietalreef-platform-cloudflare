@@ -166,6 +166,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Request a quotation:** Provide camera positions, mounting heights, viewing distances and night lighting; itemise cameras, storage, cables and applicable approvals. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
+**Privacy and access-control audit:** Before installation, request a camera field-of-view plan identifying property boundaries and privacy masks. Avoid capturing neighbours' property or private spaces and agree who may view recordings.
+
 ## 9. CCTV recorder installation
 
 **When it helps:** recording and retrieving feeds from several cameras at an Al Jimi property. Define the outcome before selecting hardware.
@@ -184,6 +186,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Documented handover test:** Estimate actual retention from recording bitrate, compression settings and camera count; simulate a disk fault using a safe technician-led procedure without risking existing footage, then hand over the user-role matrix and configuration backup to the owner.
 
 **Request a quotation:** Provide channel count, recording resolution and retention period; state usable disk capacity, installation and permissions setup. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
+
+**Privacy and access-control audit:** Specify channel count, recording resolution, frame rate and required retention before sizing storage. Document secure deletion and export permissions; do not assert a statutory retention period without verification.
 
 ## 10. Alarm system installation
 
@@ -204,6 +208,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Request a quotation:** Provide alarm purpose, zones, entrances, sensors and backup battery; identify required approvals and alert testing. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
+**Privacy and access-control audit:** Separate technical alerts from emergency alarm signals, and specify backup power and loss-of-connection reporting. An app notification test does not replace qualified system testing required for the premises.
+
 ## 11. Access-control system installation
 
 **When it helps:** managing employee and visitor access at an Al Jimi property. Define the outcome before selecting hardware.
@@ -222,6 +228,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Access and emergency test:** Try an active and revoked credential, an access attempt outside permitted hours, and inside egress on power loss; do not accept changes to escape doors without specialist review of applicable requirements.
 
 **Request a quotation:** Provide door and user counts, access roles, lock types and exit routes; separate hardware, software and training. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
+
+**Privacy and access-control audit:** Map controlled doors, escape routes and user access zones. Network failure must not prevent safe egress; have a qualified party review any proposed changes to fire-rated doors.
 
 ## 12. Video/audio intercom installation
 
@@ -242,6 +250,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Request a quotation:** Provide entrances, screens, distances, network type and door release; itemise units, cables and tests. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
+**Privacy and access-control audit:** Record indoor/outdoor unit locations and check audio/video clarity under different lighting. Establish whether recording is enabled and who can access it before handover.
+
 ## 13. CCTV camera maintenance
 
 **When it helps:** lost, blurred or intermittently recorded camera feeds at an Al Jimi property. Define the outcome before selecting hardware.
@@ -260,6 +270,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Root-cause evidence before replacement:** Distinguish power, network, lens and storage faults in a fault log; after repair record and retrieve a fresh clip and verify low-light performance without deleting the owner's existing recordings.
 
 **Request a quotation:** Provide faulty camera IDs, symptoms, timing and recorder model; separate inspection, repair and replacement parts. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
+
+**Privacy and access-control audit:** Request a fault log distinguishing lens, power, network and storage issues. Verify repairs using test imagery that excludes uninvolved people; do not delete existing recordings without owner approval.
 
 ## 14. Mobile CCTV viewing setup
 
@@ -282,3 +294,5 @@ This is preparation guidance for company quotations, not a listing of available 
 ## Quotation assistance
 
 Biet Al Reef customer service can help structure a request and look for a suitable company. No provider availability, price, date or regulatory permission is guaranteed.
+
+**Privacy and access-control audit:** Review the remote-access method, multifactor authentication where supported, and the authorised device list. Revoke a test phone and confirm access ends while local recording continues.

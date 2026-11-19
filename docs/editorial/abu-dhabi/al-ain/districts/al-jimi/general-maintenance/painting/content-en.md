@@ -52,7 +52,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** Check colour uniformity, edges and clean glazing from safe access points. Appearance alone does not prove adhesion; request a suitable documented adhesion test where the coating specification requires one. Inspect window and movement-joint edges from safe viewing points, and verify scaffold removal leaves no damage or debris.
 
-**Additional quality gate:** Specify façade access and protection for passers-by and windows, and assess coating adhesion and surface salts; do not coat over unresolved flaking or dampness.
+**Additional quality gate:** Specify façade access and protection for passers-by and windows, and assess coating adhesion and surface salts; do not coat over unresolved flaking or dampness. Require the contractor to record weather, substrate temperature and humidity during application and stop coating outside the product data sheet limits; work at height must use suitable access and fall protection.
 
 **Request a quotation:** Send views of each elevation where possible, heights, existing coating type and locations of peeling or cracks. Separate substrate preparation, exterior coating system, access equipment, public/window protection and any required permits; do not include structural crack remediation without assessment.
 

@@ -82,6 +82,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Additional technical acceptance check:** When replacing old runs, specify how new and existing pipe materials will be joined and which valves remain accessible; compare a targeted repair against full replacement before approving the latter.
 
+**Quotation detail:** Request a sketch of new pipe routes showing diameters, materials, tie-ins and accessible valves, with tiling and repainting separately itemised. Have the specialist document the test and photograph routes before concealment.
+
 ## 7. Drainage maintenance
 
 **When and scope:** Locate recurring blockage, overflow or odour and note which fixtures are affected.
@@ -95,6 +97,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Execution boundaries and safety:** If blockage recurs, record its position and likely deposit type rather than repeating clearance without diagnosis; camera surveys and correction of pipe falls are separate unless priced.
 
 **Additional technical acceptance check:** Require a blockage-clearing method that avoids pipe damage or discharging debris into shared drains; suspected collapse or defective falls call for a separate inspection report before repeated rodding or opening.
+
+**Quotation detail:** State the number of access chambers, affected outlets and machine access; request separate prices for clearing, camera inspection and any collapsed-pipe repair. Do not enter deep drainage chambers yourself.
 
 ## 8. Water leak detection
 
@@ -110,6 +114,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Additional technical acceptance check:** Record which outlets were closed during meter readings and require a report of measurement locations and equipment limitations; a single acoustic indication alone should not justify breaking a floor.
 
+**Quotation detail:** Attach dated meter readings and damp-stain photos with timings; ask which instruments will be used, the limits of non-invasive tracing and the separately approved cost of opening a suspected location. A single instrument indication is not conclusive.
+
 ## 9. Pipe leak repair
 
 **When and scope:** Isolate supply and determine whether the leak is exposed or concealed before opening finishes.
@@ -123,6 +129,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Execution boundaries and safety:** Keep the repair accessible until the line is tested under suitable operating conditions; define tile, membrane and adjacent finish reinstatement as separate contract items.
 
 **Additional technical acceptance check:** Photograph the defect before and after repair and record replacement length and joint type; test the repaired section using a method appropriate to the pipe material and operating conditions before closing finishes.
+
+**Quotation detail:** Record pipe material, shutoff location and likely opening size; price the joint repair, test, membrane reinstatement and tiling separately. Obtain customer approval before enlarging any opening.
 
 ## 10. Tank leak detection
 
@@ -138,6 +146,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Additional technical acceptance check:** Plan safe level monitoring with inlet and overflow isolated as appropriate; a falling level does not establish shell failure while outlets and fittings remain unaccounted for.
 
+**Quotation detail:** Give tank capacity, construction type, water-level drop timing and float/overflow photos; request a test distinguishing shell leaks from fitting faults without customer tank entry. Do not approve relining before diagnosis.
+
 ## 11. Bathroom waterproofing
 
 **When and scope:** Define wet-zone boundaries, wall upstands and drain detailing.
@@ -152,6 +162,8 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Additional technical acceptance check:** Agree any suitable flood test with the specialist so it does not endanger units below; photograph corners, drains and membrane upstands before covering, and price tile-fall correction separately.
 
+**Quotation detail:** Supply bathroom floor dimensions, drain count and corner/threshold photos; request specified membrane upstands, penetration details, curing period and a suitable pre-tiling test, with tile work itemised separately.
+
 ## 12. Roof waterproofing
 
 **When and scope:** Inspect ponding, drains and roof-wall junctions before choosing a system.
@@ -165,6 +177,8 @@ This is preparatory information for requesting quotations from companies, not a 
 **Execution boundaries and safety:** Distinguish a patch from full membrane replacement, including falls, outlets and parapet upstands; inspect before covering, and exclude structural crack repair unless specifically contracted.
 
 **Additional technical acceptance check:** Document treatment of roof outlets, service penetrations and parapet junctions; do not flood-test where loading, levels or drainage make the procedure unsafe.
+
+**Quotation detail:** Provide roof area and photos of ponding, drains and equipment plinths; itemise fall correction, equipment movement, old-membrane removal and protection separately from the membrane. Agree testing that does not impose unsafe roof loading or flooding.
 
 ## 13. Water tank waterproofing
 
@@ -193,4 +207,6 @@ This is preparatory information for requesting quotations from companies, not a 
 **Execution boundaries and safety:** Stop the water source and assess drying, salts or mould as relevant before repainting or closing plasterboard; cause correction, removal of damaged materials and reinstatement are distinct stages.
 
 **Additional technical acceptance check:** Request documented moisture readings at affected locations after the source is repaired; a faded stain is not proof of dryness, and possible mould treatment, layer drying and finish reinstatement require separate items.
+
+**Quotation detail:** Send dated stain photos, the repaired leak location and damaged plaster area; request residual-moisture findings before closing walls, with removal, drying, mould remediation and repainting priced as separate stages.
 

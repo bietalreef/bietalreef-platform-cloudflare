@@ -44,6 +44,9 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 ## 3. Exterior building painting
 
+**Facade-specific checkpoint:** Distinguish superficial render cracks from movement joints requiring a separate flexible detail before selecting the coating system. Mark the treatment for each type on photos or drawings; do not bridge a movement joint with a rigid paint film. Agree how openings are deducted from measured facade areas before pricing and invoicing.
+
+
 **Pre-approval check:** Distinguish poor coating adhesion from active moisture; investigate the source of dampness before painting, and record repair quantities and safe access without presenting paint as a leak remedy.
 
 **When needed:** faded or peeling facades exposed to sun and moisture at an Al Jimi property.
@@ -61,6 +64,9 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Send views of each elevation where possible, heights, existing coating type and locations of peeling or cracks. Separate substrate preparation, exterior coating system, access equipment, public/window protection and any required permits; do not include structural crack remediation without assessment.
 
 ## 4. Door and timber painting
+
+**Door-leaf handover detail:** Number leaves and frames before removal and photograph hinge and lock positions. Specify whether top and bottom edges and cut-outs are included. Rehang only after the manufacturer's recommended curing period, then check clearance at the frame and floor as well as latch operation.
+
 
 **Pre-approval check:** Test the proposed finish on an inconspicuous part of the door to assess veneer absorption and compatibility with existing coatings; protect hinges and locks from spray.
 
@@ -99,6 +105,9 @@ A useful quotation specifies substrate condition, coating system, quantities and
 **Request a quotation:** Provide a reference image, feature-wall dimensions, lighting conditions and photos showing substrate flatness. Request a sample panel or on-site trial, define the coated area, sealer and cleaning method, and clarify whether sample costs are credited to the final work.
 
 ## 6. Stripping and preparing old paint
+
+**Removal-scope decision:** After assessing hazards, agree a small test area to decide whether removal stops at sound existing coating or extends to a deeper substrate; photograph the boundary before expanding the work. Pause affected work if active moisture or suspect unidentified coatings appear, and require specialist assessment and written approval before any variation.
+
 
 **Pre-approval check:** Assess unknown old coatings before stripping and require a safe dust and waste containment method; do not assume dry sanding or heating is suitable before evaluating hazards and the substrate.
 

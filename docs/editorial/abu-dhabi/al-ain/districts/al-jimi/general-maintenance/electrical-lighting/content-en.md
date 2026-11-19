@@ -70,7 +70,7 @@ A preparation guide for company quotations, not a claim that a company, price or
 
 **Quotation boundaries:** Agree on measurements and written findings; remedial electrical works are separate. Compare measurement duration, operating-load conditions, report scope and recommendations; exclude unspecified repairs from assessment fees.
 
-**Agreement and handover:** Specify measurement conditions, duration and included equipment; receive a report distinguishing measured from estimated loads and assessment from repairs. Check that the report identifies observed loads, limitations and recommended action. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
+**Agreement and handover:** Specify measurement conditions, duration and included equipment; receive a report distinguishing measured from estimated loads and assessment from repairs. A qualified electrical specialist must perform any measurements in distribution boards or near energised parts under suitable isolation and protection procedures; the customer reviews the load report and recommendations without opening the board or taking live readings. Submit these details in a Biet Al Reef quotation request; customer support can help prepare it without guaranteeing a company or appointment.
 
 ## 8. Indoor lighting installation
 

@@ -172,7 +172,7 @@ This is preparatory information for requesting quotations from companies, not a 
 
 **Execution boundaries and safety:** Require documented suitability for potable-water contact before applying any internal material; specify draining, cleaning, return-to-service and leak checks, with structural cracks separately assessed.
 
-**Additional technical acceptance check:** Do not enter or work inside an enclosed tank without specialist confined-space risk assessment, ventilation and rescue arrangements; obtain material suitability documents and curing/cleaning instructions before recommissioning.
+**Additional technical acceptance check:** No one should enter or work inside an enclosed tank without a specialist confined-space risk assessment, ventilation and rescue arrangements; the customer must not enter to inspect the work. Ask the contractor for evidence of lining suitability for the intended water use, a record of curing time and rinsing or cleaning to the manufacturer's instructions, and a fill/leak-test plan before return to service. For potable-water tanks, request the applicable post-work water-suitability checks; a passed leak test alone does not establish that the water is safe to drink.
 
 ## 14. Leak-related damp remediation
 

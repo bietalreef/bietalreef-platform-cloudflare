@@ -22,6 +22,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Service-specific agreement:** Name who protects rooftop equipment and outlets during work, who reinstates tiles or protective layers, and when concealed membrane-detail photos must be handed over.
 
+**Material approval checkpoint:** Obtain compatibility evidence for the new membrane and substrate or retained old system, UV exposure or protective covering, and movement-joint details; do not accept a substitute without written approval of the complete assembly.
+
 ## 2. Bathroom waterproofing
 
 **When needed:** A bathroom renovation or dampness below tiles may call for waterproofing, but first rule out supply-pipe or drainage leaks.
@@ -41,6 +43,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotation brief for this service:** Provide floor area, shower perimeter, required wall upstand height and penetration counts. Price demolition and tile reinstatement separately from the membrane, safe water test and concealed-work records.
 
 **Service-specific agreement:** Identify who removes and reinstalls sanitary fixtures, how the doorway threshold will be protected, and who pays for tiles damaged during investigation.
+
+**Material approval checkpoint:** Check membrane compatibility with tile adhesive and drain-flange detailing, plus protection against puncture during plumbing and tiling; a similarly named product is not proof of interchangeability.
 
 ## 3. Water tank waterproofing
 
@@ -62,6 +66,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Service-specific agreement:** Record the expected tank outage and interim water supply, plus responsibility for entry safety and water-quality checks on recommissioning; do not promise drinking-water suitability in advance.
 
+**Material approval checkpoint:** Check product evidence for compatibility with the tank shell and intended water use, and a tool-cleanliness plan that avoids contamination; watertightness alone is not a drinking-water quality check.
+
 ## 4. Building thermal insulation
 
 **When needed:** High cooling demand or renovation may justify insulation, though thermal bridges and air leakage can also be responsible.
@@ -81,6 +87,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotation brief for this service:** Supply roof and wall areas, known assembly layers and AC penetrations. Require declared thermal resistance, installed thickness and details for thermal bridges, fire safety and condensation control, rather than a board-only price.
 
 **Service-specific agreement:** Tie material approval to product data, fixing details and applicable fire requirements; assign responsibility for addressing condensation risks at junctions before closing finishes.
+
+**Material approval checkpoint:** Request installed-assembly details at penetrations and fire/moisture interfaces, with the proposed thermal resistance; do not compare board thickness alone or omit fastening details.
 
 ## 5. External wall waterproofing
 
@@ -102,6 +110,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Service-specific agreement:** State the facade access method, who arranges permits where required, and who protects windows and adjacent property and reinstates finishes after joint repairs.
 
+**Material approval checkpoint:** The quotation should show primer and membrane compatibility with the facade substrate and moving joints, plus a trial area and documented acceptance criteria; surface coating is not a substitute for fixing the moisture source.
+
 ## 6. Rainwater ingress repair
 
 **When needed:** Moisture appearing only during rain may enter at window seals, blocked outlets or roof-wall junctions. Recoating an entire roof before tracing the path may waste money.
@@ -121,6 +131,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 **Quotation brief for this service:** Record dates and locations of rain-linked dampness and possible window, outlet or roof paths. Ask for two stages: documented source tracing, then defined repair, reinstatement and appropriate retesting—not blanket recoating without evidence.
 
 **Service-specific agreement:** Price rain-ingress diagnosis separately from repair, and require client approval and before/after photos before opening any additional finishes, with documented test limits.
+
+**Material approval checkpoint:** Link the repair product to the demonstrated ingress path and the existing joint or outlet system, documenting compatibility; avoid blanket injection or sealing without diagnosis.
 
 ## 7. Waterproofing maintenance
 
@@ -145,3 +157,6 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 ## Request a quotation
 
 Send photographs, dimensions, the issue and when it occurs to Biet Al Reef customer service for help preparing a comparable brief. Company availability, pricing and appointment dates are not guaranteed.
+
+**Material approval checkpoint:** Have a competent contractor assess patch compatibility and adhesion to the existing membrane, with defined warranty limits; do not cut open the membrane without owner permission and a safe reinstatement plan.
+

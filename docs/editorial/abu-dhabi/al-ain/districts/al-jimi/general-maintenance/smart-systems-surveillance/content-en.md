@@ -21,6 +21,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Functional parity test before handover:** Test one circuit for each lamp type under its real load and record whether the dimmer needs a neutral conductor or minimum load; reject flicker or loss of ordinary switch operation after the controller restarts.
 
+**Owner control and offline-operation audit:** Request a circuit-to-switch/controller schedule and a restorable configuration record. Test essential lighting through its local switch with internet access disconnected only; do not open electrical panels.
+
 ## 2. Smart air-conditioning control
 
 **When it helps:** uneven room temperatures or scheduling needs at an Al Jimi property. Define the outcome before selecting hardware.
@@ -39,6 +41,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Request a quotation:** Provide air-conditioning zones, existing controller models, connection method and possible subscription; specify manual-operation tests. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 **Functional parity test before handover:** Compare the thermostat setpoint with actual AC response and test recovery after a connection outage without bypassing compressor protection delays; zoning controls alone do not prove adequate cooling capacity.
+
+**Owner control and offline-operation audit:** Record the supported control interface, setpoint limits and sensor location. Compare app readings against the local thermostat in two operating modes, and document behaviour when the cloud service is unavailable.
 
 ## 3. Smart lock installation
 
@@ -59,6 +63,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Functional parity test before handover:** Check inside egress and the emergency opening method with a low battery, then revoke a test guest credential and confirm it fails; do not modify fire-rated doors or escape routes without specialist review.
 
+**Owner control and offline-operation audit:** Receive the final user-permission list after removing installer test accounts; change administrator codes with the owner present. Confirm revoking a guest does not impair safe mechanical egress.
+
 ## 4. Motorised curtain installation
 
 **When it helps:** automating high or heavy curtains at an Al Jimi property. Define the outcome before selecting hardware.
@@ -77,6 +83,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Request a quotation:** Provide window count, curtain dimensions, fabric weight and power supply; itemise motors, switches and programming. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 **Functional parity test before handover:** Run the installed curtain with its actual fabric to both end stops, confirm service access and check clearance from AC outlets and lights; ceiling reinstatement is separate unless expressly quoted.
+
+**Owner control and offline-operation audit:** Specify motor capacity, track load, fixing points and maintenance access. Test both travel limits after a controller restart and check that fabric neither jams nor pulls abnormally.
 
 ## 5. Connecting devices to a mobile app
 
@@ -97,6 +105,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Functional parity test before handover:** Obtain an ownership register for every account and cloud service, including renewal charges, and verify sign-in from a second owner-controlled phone after installer access is removed; never request the customer's password or one-time code.
 
+**Owner control and offline-operation audit:** Agree ownership of the primary account, linked email, software licences and recurring fees. Demonstrate transfer of administration to the owner and removal of technician access without sharing passwords.
+
 ## 6. Smart automation scenes
 
 **When it helps:** coordinating sleep and away modes at an Al Jimi property. Define the outcome before selecting hardware.
@@ -116,6 +126,8 @@ This is preparation guidance for company quotations, not a listing of available 
 
 **Functional parity test before handover:** Test a short sequence covering scene activation, manual cancellation, competing triggers and network loss; emergency exits and life-safety alarms must not depend on a convenience scene.
 
+**Owner control and offline-operation audit:** Request a schedule of each scene's trigger, conditions, affected devices and manual-override priority. Test conflicting scenes and network loss, and record a safe disable procedure.
+
 ## 7. Smart-home system maintenance
 
 **When it helps:** automation failures after router or firmware changes at an Al Jimi property. Define the outcome before selecting hardware.
@@ -134,6 +146,8 @@ This is preparation guidance for company quotations, not a listing of available 
 **Request a quotation:** Provide fault list, device models, firmware versions and onset dates; separate diagnosis, parts and reset costs. Request written scope limits, warranty and survey timing; provider availability, price and date are not guaranteed.
 
 **Functional parity test before handover:** Record device state and firmware before updates, then have the owner supervise a sample configuration restore from backup; distinguish network repair from controller replacement before approving extra cost.
+
+**Owner control and offline-operation audit:** Obtain a restorable settings backup, device inventory, software versions and resolved-fault log. Test restoration using a safe test configuration without erasing user data or bypassing protection.
 
 ## 8. CCTV camera installation
 

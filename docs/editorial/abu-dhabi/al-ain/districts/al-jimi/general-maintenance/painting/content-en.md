@@ -70,7 +70,7 @@ A useful quotation specifies substrate condition, coating system, quantities and
 
 **Acceptance inspection:** check free opening, even sheen and unpainted hardware. Operate each door after curing and inspect bottom edges, hinges and lock surrounds for tackiness or unwanted coating.
 
-**Additional quality gate:** Record timber species and existing coating before selecting sanding and primer; protect hinges, locks and seals and test door closure after the coating cures.
+**Additional quality gate:** Record timber species and existing coating before selecting sanding and primer; protect hinges, locks and seals and test door closure after the coating cures. For a fire-rated doorset, do not change coatings, certification labels, intumescent seals or closing hardware without checking the approved doorset specification with a competent specialist; a decorative finish alone does not demonstrate that the fire rating is maintained.
 
 **Request a quotation:** State the number and dimensions of door leaves and whether both faces, edges and frames are included. Provide photos of veneer and old finish. Ask for an approved colour/sheen sample and separate preparation, primer and topcoat or varnish costs, including work location and no-use period.
 

@@ -88,7 +88,7 @@ This guide covers company and establishment services, not individual tradesperso
 
 **Scope and quote comparison:** Clarify removal, compliant refrigerant recovery, disposal, line or bracket modifications; do not assume old piping can be reused. Identify old and replacement units, removal and disposal, mounting compatibility, connections and refrigerant handling.
 
-**Acceptance check:** Confirm new model and warranty documentation, operating checks and free condensate drainage.
+**Acceptance check:** Confirm the replacement model and warranty, and obtain manufacturer-compliant refrigerant-joint tightness, evacuation and charging records where the circuit was opened. Then verify cooling and free condensate drainage; a unit powering on alone does not establish that new joints are sound.
 
 **Request a quotation:** Provide old-unit nameplate and route photographs; ask for removal, refrigerant recovery, mounting and connection changes, disposal and warranty as distinct items.
 

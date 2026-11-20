@@ -24,7 +24,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 **Inspection and acceptance:** Before closing service shafts and suspended ceilings, compare riser routes, access hatches and maintainable equipment clearances with coordinated drawings and inspection records. At handover, check corridor lighting, shared ventilation, pumps, isolation valves and control-panel access; obtain the required lift and life-safety test records from qualified parties and relevant authorities. Log defects by common area and require documented retesting rather than treating a visual walk-through as statutory approval.
 
-**Quote request:** Ask bidders to price apartment units separately from lifts, stairwells, parking, common MEP systems and authority testing, identifying tenant-fit-out exclusions.
+**Quote request:** Attach the apartment count and area schedule, parking, stair and lift drawings and shared plant-room plans. Request separate prices for apartments, common-area finishes, lifts, shared mechanical/electrical and life-safety systems, and commissioning. Identify apartment fit-out boundaries, permit and utility-connection responsibilities and fees, written exclusions, and staged handover dates.
 
 ## 3. Commercial building construction
 
@@ -36,7 +36,7 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 **Inspection and acceptance:** Measure clear shop heights, delivery-door widths, service corridors and façade openings against approved drawings. Confirm that each tenancy has its agreed electrical, water, drainage and ventilation connection points, with test records and applicable fire-stopping at penetrations. Record whether handover covers the base building only; tenant fit-out and any separate approvals must not be silently treated as complete.
 
-**Quote request:** Provide intended tenant uses and request separate shell-and-core, loading-bay, fire-system interface and future fit-out allowances.
+**Quote request:** Attach intended floor uses, tenancy areas, clear heights, loading and entrance layouts, and service plans. Request separate shell-and-core and tenant-fit-out pricing, including signage and specialist ventilation exclusions. Identify who provides and tests each tenant connection point, who secures the applicable safety approvals, and which future works and fees are excluded.
 
 ## 4. General building works
 

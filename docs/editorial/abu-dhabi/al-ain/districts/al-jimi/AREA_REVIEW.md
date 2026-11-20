@@ -1938,3 +1938,8 @@
 
 - الحالة: `in_progress`. نُقحت فقرتا طلب عرض السعر للخدمتين 2 و3 في [العربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md) لتحديد جدول الوحدات والخدمات المشتركة ونقاط الربط والتصاريح والاختبارات والاستثناءات؛ راجع [سجل التخصص](./general-contracting/building-villas/review.md).
 - **النواقص التالية:** مراجعة باقي عناصر الخدمتين 2–3، ثم الخدمات 1 و4–14 فنيًا ودلاليًا في اللغتين، وبعدها `restoration-renovation` 1–7 و`demolition-concrete` 1–7 وبقية تخصصات الشركات حتى اعتماد 434 خدمة في كل لغة. لا يبدأ المويجعي.
+
+## 2026-11-20 — تفصيل عرض سعر بناء الفلل الجديدة (الخدمة 8)
+
+- الحالة `in_progress`؛ نُقحت الخدمة الثامنة في [العربية](./general-contracting/building-villas/content-ar.md) و[English](./general-contracting/building-villas/content-en.md): الرفع المساحي والارتدادات والصور من الجهات الأربع، بدائل العزل والتظليل، فصل أعمال التوسعة المستقبلية، استثناءات الأسوار والمسابح والتوصيلات ومسؤوليات المخططات والاعتمادات. [مراجعة التخصص](./general-contracting/building-villas/review.md).
+- **أول نقص تالٍ:** مراجعة فنية ودلالية كاملة للخدمات 1–7 و9–14 من `general-contracting/building-villas`، وإعادة فحص الخدمة 8 ضمن التدقيق المستقل؛ ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7، وبقية التخصصات حتى مراجعة 434 خدمة لكل لغة. لا يبدأ المويجعي قبل اعتماد الجيمي.

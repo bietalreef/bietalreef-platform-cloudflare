@@ -100,3 +100,11 @@ Do not imply that Realsee API or n8n licensing is already enabled by an old paid
 6. Security and billing review, approvals, then deploy via Cloudflare MCP/API, NOT GitHub Actions.
 
 Status at this commit: specification only; intentionally no live feature activation, migrations or deployment.
+
+## Government Services Assistant and TAMM handoff (2026-11-21)
+
+A personal CEO Agent and per-project Project Agent may invoke an optional Government Services Assistant for Abu Dhabi TAMM and other approved public-service pathways. Project-level data sharing does not confer legal authority to access a government account or sign on a person's behalf. The agent may gather drawings, 360 site evidence, and consultant-approved documentation; it prepares a reviewable handoff package to the authorized applicant. Any UAE PASS authentication, declaration, signature, submission or government-fee payment remains with the authorized human unless a future official mechanism explicitly allows otherwise. No existing TAMM integration or government partnership is claimed.
+
+**Full specification:** [Government Services Assistant — TAMM / Abu Dhabi pilot](./weyaak-government-services-assistant-tamm.md).
+
+**Release status:** documentation only; no changes to project RLS, migrations, TAMM access, Flutter UI or production.

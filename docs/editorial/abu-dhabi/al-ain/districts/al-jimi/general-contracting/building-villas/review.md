@@ -163,3 +163,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Added guest access, sanitary drainage, cooling, scope exclusions and commissioning/acceptance details to service 10 in both languages.
 - Re-fetched both content files after each write and verified the inserted passages. These are targeted editorial improvements, **not** final independent technical approval.
 - **Next exact gap:** complete paragraph-by-paragraph bilingual technical audit of building-villas services 1–14, starting with service 4's remaining paragraphs and checking 9–10 for duplication, then restoration-renovation 1–7 and demolition-concrete 1–7; continue through all remaining company specialties.
+
+
+### مراجعة تحريرية 2026-11-20 — توسعة الفلل وتعديل المباني السكنية
+- تم توسيع طلب عرض السعر للخدمتين 11 و12 في `general-contracting/building-villas/content-ar.md` و`content-en.md` مع تفصيل الصور والمخططات، الكشف، نطاق المقايسة، الاستثناءات، الموافقات وفحوص الخدمات؛ تمت إعادة قراءة النسختين من GitHub بعد الحفظ.
+- الحالة: `in_progress`؛ هذه مراجعة مركزة لفقرة طلب السعر وليست تدقيقًا مستقلاً لبقية فقرات الخدمتين أو لباقي الخدمات. نقطة الاستئناف: التدقيق الفني والدلالي للخدمتين 11 و12 كاملتين، ثم 1–10 و13–14 من إنشاء المباني والفلل، ثم الترميم والتجديد والهدم والأعمال الخرسانية وبقية تخصصات القطاعات الثمانية.

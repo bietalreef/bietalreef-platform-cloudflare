@@ -1898,3 +1898,8 @@
 - الحالة: `in_progress`، ولم تعتمد الجيمي مكتملة. اكتُشفت خمس فقرات تدقيق متخصصة في `general-contracting/shade-outdoor-works` تحت خدمات سابقة غير معنية؛ نُقلت إلى الخدمات الصحيحة في `content-ar.md` و`content-en.md`، وأُعيدت قراءة الملفين بعد الحفظ للتحقق.
 - ملفات التحقق: [العربية](./general-contracting/shade-outdoor-works/content-ar.md) · [English](./general-contracting/shade-outdoor-works/content-en.md) · [المراجعة](./general-contracting/shade-outdoor-works/review.md).
 - **النواقص الدقيقة التالية:** مراجعة مستقلة لخدمات المظلات والأعمال الخارجية 1–7 بعد تصحيح مواضع الفقرات؛ ثم جرد `general-contracting/building-villas` وتدقيق خدماته الـ14 بالعربية والإنجليزية، ثم بقية تخصصات الشركات حتى اكتمال مطابقة 50 تخصصًا و434 خدمة في كل لغة مع الشجرة، وفحص التفرد والسلامة وحالات التقييد والاقتراح. لا يبدأ `al-muwaiji` قبل اعتماد الجيمي.
+
+## تدقيق المظلات السبع — 2026-11-20
+
+- الحالة: in_progress. تمت مقارنة خدمات المظلات والأعمال الخارجية 1–7 بالعربية والإنجليزية من ملفات GitHub مباشرة، ومراجعة مواضع الفقرات الفنية بعد التصحيح السابق. وثقت النتائج في [مراجعة المظلات](./general-contracting/shade-outdoor-works/review.md) مع روابط [العربية](./general-contracting/shade-outdoor-works/content-ar.md) و[الإنجليزية](./general-contracting/shade-outdoor-works/content-en.md). جميع الخدمات السبع تحتوي عناصر نطاق العمل والبيانات وبنود الاتفاق والاستلام وطلب السعر؛ لم يُعتمد فحص هندسي موقعي.
+- أول نقص تالٍ: التدقيق الدلالي الفني لخدمات 1–14 في general-contracting/building-villas، بدءًا من «إنشاء الفلل»، ثم restoration-renovation 1–7 وdemolition-concrete 1–7، ثم landscaping 1–14، ومراجعة الري 1–7 بعد تعديلات الاتفاق. يلي ذلك بقية القطاعات والتخصصات حتى مطابقة جميع الخدمات الـ434 في كل لغة، بما فيها الفئات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

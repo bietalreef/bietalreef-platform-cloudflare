@@ -46,3 +46,11 @@ https://n8n.io/oem/
 
 ## Local tests
 node --test scripts/weyaak-workflow-marketplace.test.cjs
+
+## Project-level agents and multi-company invitations (2026-11-21)
+
+A client can create more than one independent project. Each project has one Project Agent, private project context, scoped invite/membership permissions, assigned provider work packages, delegated sub-agents, explicit human approvals, and project-specific cost records. A provider CEO Agent never inherits access to the client's other projects or provider competitors. The same tenant MCP gateway may serve many logically isolated project capabilities; each invocation must verify project_id + actor + company membership + work package + tool entitlement from trusted server-side state.
+
+**Approved architecture documentation:** [Weyaak Project Workspace / Project Agent / Invitations](./weyaak-project-workspace-rbac.md).
+
+**Verified existing scope:** Supabase public.client_projects has 4 rows and RLS currently restricts SELECT/UPDATE/DELETE to owner_user_id = auth.uid(). Project invitations, scoped member RLS, project-agent activation and revenue metering are specified for a future additive build; they are NOT deployed or inferred to exist. Never extend owner-only access by weakening an existing RLS policy before staging and isolation tests.

@@ -98,7 +98,7 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Service-specific quotation request:** Provide dimensions, drain and edge locations and base photographs. Ask for samples specifying pile height, density, sub-base, seams and infill, with drainage preparation priced separately from rolls.
 
-**Acceptance inspection:** Inspect pile direction, seams, secured edges and water drainage. Test drainage at seams and low spots, inspect for exposed fasteners or adhesive at edges, and confirm the surface is suitable for the intended play or walking use.
+**Acceptance inspection:** Inspect pile direction, seams, secured edges and water drainage. Test drainage at seams and low spots and inspect for exposed fasteners or adhesive at edges. For children's play or seating areas exposed to sun, request product information on surface heat and suitability for the intended use, and assess surface feel and temperature under representative use conditions before handover; a green appearance alone does not establish thermal comfort or safety.
 
 ## 8. Plant and tree installation
 

@@ -24,7 +24,7 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Scope, exclusions and quotation comparison:** Compare spans, sections, fixings, materials, finishes and weather resistance; obtain competent design checks for wind and structural loading where required. Exclude furniture, electrical works and flooring unless itemised. Record pergola spans, anchor locations and required structural checks; approve finish and covering samples, and price lighting connections separately.
 
-**Handover inspection:** Inspect alignment, secure joints, safe edges and roof fall/drainage if covered; check for standing water where the roof meets the wall and retain access to fixings for inspection and maintenance; compare with the approved sample.
+**Handover inspection:** Compare clear span, height, foundation and anchor positions with the approved drawing; inspect alignment, secure joints and safe edges. For a rainproof cover, test runoff away from doors and walls and inspect the flashing where it meets the building rather than assuming sealant alone is permanent waterproofing. Request photographs of concealed fixings and any required structural inspection report, and confirm future access for anchor maintenance.
 
 ## 3. Outdoor seating construction
 

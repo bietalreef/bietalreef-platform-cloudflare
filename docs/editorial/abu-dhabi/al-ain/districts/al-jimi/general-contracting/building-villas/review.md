@@ -135,3 +135,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Read both full service files from the specified branch and split only numbered `## N.` headings (excluding the general RFQ footer). Found 14 Arabic and 14 English numbered services, paired in the same order (1–14); checked each section for its own quotation-request and acceptance headings and minimum 450 characters. No missing section/heading or undersized section in this structural inventory.
 - This is **not** a semantic, safety or originality sign-off. Outstanding: independently compare every service's technical claims, exclusions, evidence, measurements, quote boundaries and handover criteria across languages, then review the remaining company specialties and restricted/proposed classifications. Area stays `in_progress`.
+
+## 2026-11-20 — Bilingual RFQ boundaries for services 2–3
+
+- Rewrote the Arabic and English quotation requests for residential and commercial building construction with specific unit/tenancy schedules, shared equipment, utility interfaces, permit and testing responsibilities, written exclusions and staged handover.
+- This is a targeted bilingual alignment of the RFQ subsections, **not** full technical or semantic certification. Services 1–14 still need full independent cross-language checks; the district remains `in_progress`.

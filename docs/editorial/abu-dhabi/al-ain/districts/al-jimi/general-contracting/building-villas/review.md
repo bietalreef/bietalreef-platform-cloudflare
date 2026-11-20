@@ -122,3 +122,10 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - نُقحت فقرة الأدلة المطلوبة في «ترميم الفلل» (13) لتفصل الصور الواسعة والمقربة والتواريخ ومصادر الرطوبة والتقارير السابقة، بدل تكرار طلب الصور نفسه مرتين.
 - نُقحت فقرتا الأدلة والمقارنة في «تجديد المباني السكنية» (14) لتحديد جدول إشغال الوحدات وحماية المصاعد ومسار المخلفات وإشعارات السكان ومحاضر التلف المخفي وإعادة اختبار الخدمات، دون تكرار عام.
 - أُعيد جلب `content-ar.md` من الفرع بعد الرفع وتأكد تطابقه. **لا تزال المراجعة الدلالية المتقابلة للخدمات 1–14، وتدقيق بقية التخصصات، معلقة.**
+
+
+## 2026-11-20 — Parity refinement, services 13–14
+
+- Compared the Arabic and English source sections for villa restoration and occupied residential-building renovation. Expanded English evidence requirements for dated defect tracking, rain/water correlation, concealed finishes, unit occupancy, isolation points, lift protection and clear waste routes.
+- Expanded occupied-building contract terms to distinguish resident notices, dust barriers, daily waste removal, emergency egress, shutdown/restart tests and written approval of newly uncovered defects.
+- This addresses two specific gaps; **not a full technical or semantic approval** of all 14 services. Next: compare services 1–12 end to end and review 13–14 for any remaining nuance, then restoration-renovation and demolition-concrete. Area remains `in_progress`.

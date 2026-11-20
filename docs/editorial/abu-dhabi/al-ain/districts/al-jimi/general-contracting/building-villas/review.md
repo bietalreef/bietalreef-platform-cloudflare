@@ -151,3 +151,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Expanded the **تنفيذ أعمال البناء / General building works** quotation-request sections in both language files. They now require gross and net blockwork quantities, a written opening-deduction method, separate materials/scaffolding/waste pricing, and advance coordination of service chases and variations.
 - Both changed content files were fetched again from the target branch after writing and the new text was verified. This is one targeted improvement, not an independent sign-off of the full 14-service specialty.
 - **Next exact gap:** compare service 4's remaining scope/evidence/agreement/acceptance paragraphs across languages, then complete independent review of services 1–3 and 5–14; subsequently restoration-renovation 1–7, demolition-concrete 1–7, and all other company specialties. District remains `in_progress`.
+
+## 2026-11-20 — Services 5–7 technical bilingual enhancement
+
+- Expanded concrete works, structural frame construction, and turnkey delivery in both languages with distinct pre-work evidence, bid comparison, consultant-led inspections and acceptance deliverables.
+- These additions are editorial checklists, not technical approval. Independent paragraph-by-paragraph review of services 1–14 remains open; next resume at service 4 remaining paragraphs, then 5–7 full audit and 8–14.

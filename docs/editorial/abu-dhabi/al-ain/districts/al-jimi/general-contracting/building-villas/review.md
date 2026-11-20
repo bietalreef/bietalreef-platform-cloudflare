@@ -140,3 +140,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Rewrote the Arabic and English quotation requests for residential and commercial building construction with specific unit/tenancy schedules, shared equipment, utility interfaces, permit and testing responsibilities, written exclusions and staged handover.
 - This is a targeted bilingual alignment of the RFQ subsections, **not** full technical or semantic certification. Services 1–14 still need full independent cross-language checks; the district remains `in_progress`.
+
+## 2026-11-20 — New-villa RFQ and site-evidence parity (service 8)
+
+- Expanded the Arabic quotation request to require the plot survey, approved setbacks, four-direction photographs, priced insulation/shading alternatives, separation of current works from future extension provisions, explicit external works and utility exclusions, and design/approval responsibility.
+- Aligned English site-evidence and quotation paragraphs with the Arabic scope. No claim of permit approval or available contractor. Remaining: independent technical and semantic audit of all 14 services and the remaining 49 company specialties; area remains `in_progress`.

@@ -1967,3 +1967,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة: `in_progress`. نُقحت فقرتا البيانات والمقارنة في الخدمة الرابعة من [إنشاء المباني والفلل بالعربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md)، لتوضيح الجدران الداخلية والخارجية، والقياس من وجه واحد، وقاعدة خصم الفتحات، وفصل التوريد والتركيب، واعتماد تفاصيل الربط ومسارات الخدمات.
 - **أول نقص تالٍ:** تدقيق فقرتي الاستلام وطلب السعر في الخدمة 4 لتقليل التداخل، ثم تدقيق الخدمات 1–3 و5–14 في التخصص نفسه بندًا بندًا، ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7 وبقية تخصصات الشركات في القطاعات الثمانية؛ مراجعة كل الخدمات الـ434 في اللغتين. لا يبدأ المويجعي حتى اكتمال الجيمي.
+
+## 2026-11-20 — فحص استلام تنفيذ أعمال البناء (الخدمة 4)
+
+- الحالة `in_progress`. دُققت فقرة الاستلام في [المحتوى العربي](./general-contracting/building-villas/content-ar.md) و[الإنجليزي](./general-contracting/building-villas/content-en.md)، مع توثيق القياسات والتلف عند الوصلات ومسؤولية التصحيح وإعادة الفحص؛ [سجل المراجعة](./general-contracting/building-villas/review.md).
+- النواقص الدقيقة: تقليل تكرار فقرة طلب السعر في الخدمة 4، تدقيق الخدمات 1–3 و5–14 كاملًا، ثم `general-contracting/restoration-renovation` 1–7 و`general-contracting/demolition-concrete` 1–7، ثم بقية تخصصات الشركات حتى مراجعة 434 خدمة بالعربية والإنجليزية في القطاعات الثمانية. لا تبدأ المويجعي.

@@ -154,7 +154,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 **Inspection and acceptance:** Check new partitions and openings against approved alterations, test isolated and restored utilities, verify required acoustic separation and fire-stopping at penetrations, and confirm shared corridors are clean and accessible.
 
-**Quote request:** Attach marked existing and proposed plans; ask for separate rates for investigation, utility isolation, authorised demolition, new partitions and fire-stopping repairs.
+**Quote request:** Attach numbered existing and proposed wall and opening plans, photos of distribution boards, pipes, ceilings and shared corridors, and permissible working hours if occupied. Ask for separate items covering investigation of load-bearing elements and hidden services, safe isolation, authorised demolition, debris removal, partitions and finishes, and retesting of electrical, plumbing and required fire-stopping. Record who obtains approvals, protects residents and lifts, repairs damage outside the work zone, and prices defects discovered only after opening up.
 
 ## 13. Villa restoration
 

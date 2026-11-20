@@ -34,3 +34,8 @@ Expanded the acceptance/handover checks for all seven original irrigation-networ
 ## 2026-11-15 — Contract detail audit
 
 Added seven distinct contract checkpoints in Arabic and English, addressing valve approval, trench reinstatement, sprinkler coverage, pump/electrical boundaries, repairs, controller handover and leak detection exclusions. Both content files were read back from GitHub. Status: `in_progress`; independent technical and cross-specialty quality audit remains outstanding.
+
+## 2026-11-20 — Automatic irrigation controls, service 6
+
+- Added bilingual handover checks for controller power-loss recovery, saved clock/programme, ownership and transfer of online access, and validation of seasonal schedules against actual water use. No assertion that a particular controller has backup memory or internet access.
+- Original seven services and non-selectable preparatory status preserved. Final area-wide semantic and safety review remains pending.

@@ -33,3 +33,8 @@ Revised all 14 service-specific acceptance checks in Arabic and English, coverin
 ## 2026-11-15 — Agreement and scope audit
 
 Added 14 distinct, bilingual contract checkpoints for landscaping services 1–14. These address survey/drawing approval, retained assets, drainage, growing medium, nursery substitutions, turf preparation, pruning safety, treatment authorisation, waste and maintenance service levels. Both content files were re-read from GitHub and each contains 14 checkpoints. **Status remains in_progress:** full technical, linguistic and cross-specialty duplication audit is not closed.
+
+## 2026-11-20 — Artificial turf thermal-use review
+
+- Service 7 only: strengthened Arabic and English acceptance guidance for sun-exposed artificial turf used by children or for seating, including product evidence, surface-temperature checks under representative conditions, and drainage/edge checks. No invented safe temperature threshold or guarantee.
+- Original fourteen service headings and non-selectable classification preserved. Full bilingual editorial certification remains pending.

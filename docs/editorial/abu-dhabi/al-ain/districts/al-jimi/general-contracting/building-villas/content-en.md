@@ -130,6 +130,8 @@ A detached majlis needs comfortable guest circulation, private access, cooling a
 
 **Quote request:** Specify guest capacity and majlis access; request separate prices for cooling, acoustic comfort, washrooms, external paving and fixed versus loose furniture.
 
+**Detached-majlis planning:** Record guest capacity, seating arrangement, serving access, washbasins, washrooms and outdoor AC-unit locations. Photograph the proposed service routes from the main villa. Compare structure, insulation and cladding separately from AC, drainage, pantry fittings, lighting and fixed furniture; clarify whether the guest approach and parking are included. Agree responsibility for drainage and ventilation drawings and any necessary approvals. Before closing ceilings and finishes, check drainage falls and test cooling and plumbing connections. At handover, assess guest privacy and access, drain odours, leaks, finish defects and the specialist system test records.
+
 ## 11. Villa extensions
 
 Adding a room or floor to an existing villa requires checking the old structure and services before promising a construction method.

@@ -23,3 +23,18 @@ Next: `general-contracting/landscaping` (Arabic, English, review), then irrigati
 2026-11-15 — Expanded all seven service-specific handover checks in Arabic and English: demolition boundaries and retained elements; annex separation and concealed junctions; coring schedule and reinforcement scans; foundation pre-cover records; slab propping release; wall defects and waterproofing; lawful waste transfer. Professional approvals remain necessary; area status `in_progress`.
 
 2026-11-15 — Independently revised the seven quote-comparison/contract sections in both languages. Each now identifies service-specific cost drivers, exclusions, approval or inspection hold points, and responsibility boundaries. This is a focused scope audit, not full area sign-off; next inspect `general-contracting/landscaping` scope/contract sections and continue through remaining specialties.
+
+
+## 2026-11-20 — Independent bilingual structure and scope audit (services 1–7)
+
+- Read both complete language files directly from the designated editorial branch. Confirmed 7 Arabic and 7 English numbered service sections in corresponding order; this is a structural check, **not** a certification of technical accuracy or full semantic equivalence.
+- Exact service pairs inspected for section presence:
+  - 1. تنفيذ أعمال الهدم / Demolition works
+  - 2. إزالة المباني والملاحق / Removal of buildings and annexes
+  - 3. قص وتخريم الخرسانة / Concrete cutting and coring
+  - 4. صب القواعد والأساسات / Footing and foundation pours
+  - 5. صب الأسقف الخرسانية / Concrete slab pours
+  - 6. تنفيذ الجدران الخرسانية / Concrete wall construction
+  - 7. ترحيل مخلفات الهدم / Demolition waste removal
+- Automated checks for missing numbered pairs, sections shorter than 550 characters and absent quotation wording: no flags under these limited rules.
+- **Still outstanding:** independent human-quality comparison of each service's exclusions, measurements, safety controls, contract responsibility and acceptance criteria; compare near-duplicate wording and confirm classification status against the taxonomy. The area remains `in_progress` and Al Muwaiji must not start.

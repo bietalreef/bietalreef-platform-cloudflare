@@ -12,7 +12,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Check coverage of remote zones, valve access and independent isolation. Match final zone drawings to the flow schedule and available pressure; confirm isolation valves, backflow protection and zone identifiers are documented before accepting the design.
 
-**Detailed contract terms:** Approve water demand and valve locations before excavation.
+**Detailed contract terms:** Approve a numbered zone plan showing each zone's area and plant type, design flow, pressure at the furthest outlet, and valve, filter, flushing and isolation locations. Agree how source pressure and flow will be measured, the limits of those readings and who revises the design if actual supply differs. Do not authorise excavation until buried utilities and valve locations have been checked.
 
 **Service-specific quotation request:** Provide each zone's area, planting types, water-source position and any measured pressure and flow. Request separate prices for zone drawings, hydraulic calculations and equipment schedules versus excavation and installation; agree on revision rounds and editable drawing handover.
 

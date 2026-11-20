@@ -1957,3 +1957,8 @@ Status: `in_progress`. Added bilingual technical guidance for services 5 (concre
 ## Editorial checkpoint — 2026-11-20 (annex and majlis services 9–10)
 
 Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contracting/building-villas/content-ar.md) and [English](./general-contracting/building-villas/content-en.md), covering annex structural/service interfaces and majlis guest-use, drainage and cooling acceptance. [Specialty review](./general-contracting/building-villas/review.md) records the remaining audit. Both content files were re-read and verified after each change. **Outstanding:** independent technical and semantic review of all 14 building-villas services, starting with remaining service 4 paragraphs and checking service 9–10 text for repetition; restoration-renovation 1–7; demolition-concrete 1–7; remaining company specialties across eight sectors until 434 services per language have been independently reviewed. Do not start Al Muwaiji yet.
+
+
+### مراجعة تحريرية 2026-11-20 — توسعة الفلل وتعديل المباني السكنية
+- تم توسيع طلب عرض السعر للخدمتين 11 و12 في `general-contracting/building-villas/content-ar.md` و`content-en.md` مع تفصيل الصور والمخططات، الكشف، نطاق المقايسة، الاستثناءات، الموافقات وفحوص الخدمات؛ تمت إعادة قراءة النسختين من GitHub بعد الحفظ.
+- الحالة: `in_progress`؛ هذه مراجعة مركزة لفقرة طلب السعر وليست تدقيقًا مستقلاً لبقية فقرات الخدمتين أو لباقي الخدمات. نقطة الاستئناف: التدقيق الفني والدلالي للخدمتين 11 و12 كاملتين، ثم 1–10 و13–14 من إنشاء المباني والفلل، ثم الترميم والتجديد والهدم والأعمال الخرسانية وبقية تخصصات القطاعات الثمانية.

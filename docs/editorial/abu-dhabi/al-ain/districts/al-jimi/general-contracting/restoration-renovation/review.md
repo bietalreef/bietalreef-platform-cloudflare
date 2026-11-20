@@ -41,3 +41,18 @@ Seven source-aligned company service headings in each language, original sequenc
 
 - عُدّلت فقرة الاتفاق في الخدمة السادسة «تجديد الواجهات» بالعربية والإنجليزية لتحدد مراجعة صلاحية الركيزة وأحمال الكسوة، واعتماد وسائل الوصول والتصاريح ذات الصلة، والتعامل مع الأجزاء غير الثابتة المكتشفة أثناء الإزالة دون ترك مخاطر على المارة.
 - تمت إعادة قراءة ملفي المحتوى من الفرع بعد الكتابة ومطابقتهما. هذه مراجعة جزئية؛ لا تعني اكتمال التدقيق الدلالي للخدمات السبع أو بقية المنطقة.
+
+
+## 2026-11-20 — Independent bilingual structure and scope audit (services 1–7)
+
+- Read both complete language files directly from the designated editorial branch. Confirmed 7 Arabic and 7 English numbered service sections in corresponding order; this is a structural check, **not** a certification of technical accuracy or full semantic equivalence.
+- Exact service pairs inspected for section presence:
+  - 1. ترميم المباني القديمة / Older building restoration
+  - 2. تجديد الفلل / Villa renovation
+  - 3. تجديد الشقق / Apartment renovation
+  - 4. إعادة تأهيل المباني / Building rehabilitation
+  - 5. معالجة التشققات الإنشائية / Structural crack remediation
+  - 6. تجديد الواجهات / Façade refurbishment
+  - 7. تجهيز المبنى لإعادة الاستخدام / Preparing a building for reuse
+- Automated checks for missing numbered pairs, sections shorter than 550 characters and absent quotation wording: no flags under these limited rules.
+- **Still outstanding:** independent human-quality comparison of each service's exclusions, measurements, safety controls, contract responsibility and acceptance criteria; compare near-duplicate wording and confirm classification status against the taxonomy. The area remains `in_progress` and Al Muwaiji must not start.

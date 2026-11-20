@@ -26,6 +26,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Handover inspection:** Compare clear span, height, foundation and anchor positions with the approved drawing; inspect alignment, secure joints and safe edges. For a rainproof cover, test runoff away from doors and walls and inspect the flashing where it meets the building rather than assuming sealant alone is permanent waterproofing. Request photographs of concealed fixings and any required structural inspection report, and confirm future access for anchor maintenance.
 
+**Seating usability check:** Before approving fixed benches, trace access, serving and cleaning routes on the drawing; specify seat height, depth and exposed edges. For timber or composite decking, request joint, under-deck ventilation and removable access details. An indoor-looking sample is not evidence that a finish is suitable outdoors.
+
 ## 3. Outdoor seating construction
 
 **Detailed contract terms:** List included furniture, waterproofing and service connections.
@@ -37,6 +39,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Scope, exclusions and quotation comparison:** Ask for separate line items for groundworks, structure, fixed seating, shade and lighting, with materials suitable for sun and moisture. Do not assume air-conditioning, loose furniture or utility extensions are included. Specify fixed-seat quantities, circulation space and each built element; identify who connects any power or water services.
 
 **Handover inspection:** Test safe circulation, fixed seating, switch locations and cleanability; check that runoff does not discharge onto seating or walkways, and that exits remain unobstructed.
+
+**Gate and privacy check:** Record each gate's swing, vehicle or pedestrian clearance and lock position. Compare leaf weight, hinges and bracing with the fabricator's detail. Where ground levels differ, obtain a drawing showing transitions and runoff; do not obstruct drains or maintenance access.
 
 ## 4. External fence installation
 
@@ -50,6 +54,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Handover inspection:** Check alignment, post spacing, gate and lock operation and safe edges; verify the approved boundary against the accepted survey rather than relying on visual alignment alone.
 
+**Access and levels check:** Distinguish clear walking width from planting and edging widths, and photograph door thresholds before work. Where accessible use is needed, have gradients, widths, joints and slip performance checked against applicable site requirements rather than accepting a vague claim that the path suits everyone.
+
 ## 5. Garden pathway construction
 
 **Detailed contract terms:** Specify sub-base layers, path falls and drainage.
@@ -62,6 +68,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Handover inspection:** Walk the route to check trip points, joints, gradients, drainage and unobstructed doors; record any ponding observed during testing for correction before acceptance.
 
+**Pavement build-up check:** Do not compare only the rate per square metre. Ask each bidder for base and bedding thicknesses, compaction approach and edge restraints for the intended loading, plus inspection before laying pavers. Photograph service covers before covering work and allocate responsibility for settlement where new trenches meet old paving.
+
 ## 6. Interlock paving
 
 **Detailed contract terms:** Approve interlock sample, joints and settlement remedy.
@@ -73,6 +81,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Scope, exclusions and quotation comparison:** Compare paver type and thickness, base layers, compaction, bedding, joints, edge restraints and drainage. Specify old-paver removal, waste transport and cover adjustments. Specify paver thickness and base build-up for pedestrian or vehicle loads, including manhole adjustments and post-handover settlement remedies.
 
 **Handover inspection:** Check consistent joints, stable edges, no movement under expected loads and no standing water after an appropriate test; check that service covers finish flush without preventing maintenance access.
+
+**Operation and maintenance check:** Request a drawing showing suction and return lines, cleaning openings, strainers and a way to remove the pump without breaking finishes. Agree on low-water shutdown, filter-cleaning responsibility and measures to restrict unsupervised child access appropriate to the site design.
 
 ## 7. Water features and fountains
 

@@ -184,3 +184,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Reworked the Arabic and English **تنفيذ أعمال البناء / General building works** quotation-request paragraphs to request a comparable gross/net quantity return, opening-deduction rule, programme and delivery sequence, explicit junction/chasing/waste boundaries, and written variations. The acceptance section remains focused on inspection and defect correction rather than duplicating the quotation checklist.
 - Both full language files were read back from the editorial branch after saving; 14 numbered services remained in each. This is a targeted overlap correction, not final independent bilingual technical sign-off.
 - **Next outstanding:** end-to-end independent parity and safety review for building-villas services 1–14 (including service 4), then restoration-renovation 1–7, demolition-concrete 1–7, and the other company specialties across all eight sectors. District `in_progress`.
+
+## 2026-11-21 — Services 1–3 acceptance evidence parity
+
+- Updated both languages for services 1–3: signed stage-quantity and concealed-work inspection evidence for villas; separate apartment/common-area defect registers for multi-unit residential work; and per-tenancy service-interface and capacity records for commercial buildings.
+- Read back `content-ar.md` and `content-en.md` from the specified branch after writing; all 14 original numbered services remain in order.
+- **Not approved:** the changes address acceptance evidence only. Complete independent line-by-line safety, scope, exclusions, quotation and bilingual parity checks for services 1–14; then audit restoration-renovation 1–7, demolition-concrete 1–7 and the remaining company specialties. District status remains `in_progress`.

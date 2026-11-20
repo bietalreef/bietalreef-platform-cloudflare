@@ -201,3 +201,12 @@ test('Al Aamerah display name is corrected while old URL slug is preserved until
  assert.match(data,/\['al-yahar', 'العامرة', 'Al Aamerah'\]/);
  assert.equal(require('../data/localServices').AREAS.find(area=>area.slug==='al-yahar').nameAr,'العامرة');
 });
+
+test('Kawkab region and project titles are clean single text nodes for Google',()=>{
+ const region=read('components/provider/KawkabEmiratePage.js');
+ const project=read('components/provider/KawkabProjectPage.js');
+ assert.match(region,/<title>\{pageTitle\}<\/title>/);
+ assert.match(project,/<title>\{pageTitle\}<\/title>/);
+ assert.doesNotMatch(region,/<title>\{guide.headline\} \|/);
+ assert.doesNotMatch(project,/<title>\{name\} \|/);
+});

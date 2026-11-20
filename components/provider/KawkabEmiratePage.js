@@ -74,6 +74,7 @@ export default function KawkabEmiratePage({locale='ar',emirate='abu-dhabi'}) {
   const guide=REGION_GUIDES[emirate][locale], name=area[locale];
   const url=KAWKAB_ORIGIN+kawkabEmiratePath(locale,emirate);
   const description=guide.intro;
+  const pageTitle=`${guide.headline} | ${en?KAWKAB_PROFILE.nameEn:KAWKAB_PROFILE.nameAr} | ${en?'Biet Al Reef':'بيت الريف'}`;
   const faq=[{q:guide.faq,a:guide.answer},{
     q:en?'How do I request a quotation?':'كيف أطلب عرض سعر؟',
     a:en?'Choose a specialty, share the site location, photos and approximate measurements, and contact the company through the enquiry buttons.':'حدد التخصص والموقع، وأرسل الصور والمقاسات التقريبية ثم تواصل مع الشركة عبر أزرار الاتصال أو واتساب.'
@@ -87,7 +88,7 @@ export default function KawkabEmiratePage({locale='ar',emirate='abu-dhabi'}) {
   };
   return <div dir={en?'ltr':'rtl'} lang={en?'en':'ar'} className="min-h-screen bg-[#fbfaf7] pb-20 text-[#252b35] sm:pb-0">
     <Head>
-      <title>{guide.headline} | {en?KAWKAB_PROFILE.nameEn:KAWKAB_PROFILE.nameAr} | {en?'Biet Al Reef':'بيت الريف'}</title>
+      <title>{pageTitle}</title>
       <meta name="description" content={description}/>
       <meta name="robots" content="index, follow, max-image-preview:large"/>
       <link rel="canonical" href={url}/>

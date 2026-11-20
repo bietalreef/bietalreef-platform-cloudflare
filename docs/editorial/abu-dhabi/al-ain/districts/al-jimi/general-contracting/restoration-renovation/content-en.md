@@ -82,7 +82,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Handover checks:** Check cladding security, movement joints and drainage, and inspect the site after access equipment removal. Inspect sample cladding anchors, joint terminations at openings and drainage edges, documenting loose panels or staining while safe access remains in place.
 
-**Contract-specific check:** Require an approved finish and fixing sample, a pedestrian-protection plan for work at height, and photographs of repaired water-entry paths behind cladding before closure.
+**Contract-specific check:** Require an approved finish and fixing sample, a pedestrian-protection plan for work at height, and photographs of repaired water-entry paths behind cladding before closure. Assign competent review of substrate suitability and cladding loads, approval of scaffold or access-platform arrangements and applicable permits, and a written process for newly discovered loose fabric so no elevation or public route is left unsafe.
 
 **Request a quotation:** Send full-elevation photographs, close-ups of loose cladding and joints, and access heights. Request separate prices for access and protection, removal, root-cause repair and replacement finishes, specifying fixings and water-ingress checks.
 

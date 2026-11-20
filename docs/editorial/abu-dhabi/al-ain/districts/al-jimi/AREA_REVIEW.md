@@ -1871,3 +1871,9 @@
 - **الحالة مستمرة:** `in_progress`. ما زالت المراجعة الفنية واللغوية النهائية لجميع خدمات الشركات الـ434 في كل لغة، والتفرد بين التخصصات، غير معتمدة. نقطة الاستئناف التالية: `general-contracting/landscaping` الخدمة 8 ثم الخدمات 9–14، يليها `irrigation-networks` ثم `shade-outdoor-works` ثم القطاعات المتبقية.
 
 - **2026-11-20 / `general-contracting/irrigation-networks`, الخدمة 6:** تحديث ثنائي اللغة لفحص برمجة الري الآلي بعد انقطاع الكهرباء، وتسليم صلاحيات الحساب إن وجدت، والتحقق من جداول الري الفعلية. حالة المنطقة `in_progress`؛ التالي تدقيق بقية خدمات الري 1–5 و7، ثم `shade-outdoor-works` وبقية القطاعات دون افتراض اكتمال المراجعة.
+
+
+## 2026-11-20 — متابعة اتفاقات شبكات الري / Irrigation contract terms
+
+- الحالة: `in_progress`. حُسنت بنود الاتفاق للخدمات 2 و3 و4 و5 و7 من `general-contracting/irrigation-networks` في [العربية](./general-contracting/irrigation-networks/content-ar.md) و[الإنجليزية](./general-contracting/irrigation-networks/content-en.md)، وتحقق الحفظ بإعادة قراءة الملفين من GitHub. [مراجعة التخصص](./general-contracting/irrigation-networks/review.md).
+- أول نقص دقيق: تدقيق الخدمة 1 «تصميم شبكات الري» ومقارنة جميع خدمات الري 1–7 دلاليًا، ثم `general-contracting/shade-outdoor-works` وسائر تخصصات الشركات في القطاعات الثمانية؛ تدقيق جميع الخدمات الـ434 بكل لغة والتصنيفات المقيدة والمقترحة. لا يبدأ المويجعي قبل اعتماد الجيمي.

@@ -90,13 +90,13 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 This service focuses on defining the brief and design options before they are fixed, while “Villa construction” addresses the overall contracting, delivery and handover responsibilities. A new villa allows early coordination of sunlight, privacy, circulation and future family requirements before structural decisions are fixed.
 
-**What to document and measure:** Send the accommodation brief, site survey, preferred room relationships, parking needs and available approved plans; note possible future extensions.
+**What to document and measure:** Provide the plot survey, approved setbacks, accommodation brief, room and parking dimensions, service entrances and available approved plans. Add photographs looking towards all four sides of the plot to document sun exposure and adjacent buildings, and distinguish possible future extensions from the current approved design.
 
 **Compare quotations and agree boundaries:** Compare insulation and shading systems against stated performance specifications, and distinguish current works from future extension provisions. Separate design-development allowances from fixed construction quantities and clarify whether boundary works, external paving, pools and utility connections are included.
 
 **Inspection and acceptance:** Measure rooms, openings and finished levels against approved drawings; inspect external drainage falls, specified waterproofing and shading, and collect system test and handover records rather than relying on finished photographs alone.
 
-**Quote request:** Ask for alternatives covering insulation and shading, future extension provisions, privacy, outdoor drainage and owner-supplied finishes.
+**Quote request:** Attach the plot survey, approved setbacks, room and parking layouts and four-sided site photographs. Request comparable insulation, shading and future-service provision options against stated specifications, priced separately from current construction. Require written inclusions and exclusions for boundary walls, paving, pools and utility connection fees, and identify who revises drawings and secures necessary approvals before work starts.
 
 ## 9. Residential annex construction
 

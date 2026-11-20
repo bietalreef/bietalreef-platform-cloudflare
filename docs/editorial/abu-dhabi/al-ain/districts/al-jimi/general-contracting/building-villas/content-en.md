@@ -116,6 +116,8 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **Quote request:** Send annex footprint and service tie-in photos; request separate investigation, permits, foundations, drainage connections and reinstatement allowances.
 
+**Pre-contract checks:** State whether the annex is structurally independent or attached to the villa. Photograph ground levels, drains, visible service runs and meter positions; require investigation of buried utilities before excavation. Connections to existing foundations or load-bearing elements need qualified design and review, not a contractor's assumption. Compare offers for foundations, movement and waterproof joints, electrical, drainage and cooling tie-ins, and reinstatement of disturbed paving or planting. Allocate drawing and approval duties, require testing before concealing connections, and collect concealed-work photographs, test results and a signed reinstatement record.
+
 ## 10. Outdoor majlis construction
 
 A detached majlis needs comfortable guest circulation, private access, cooling and suitable washroom arrangements.

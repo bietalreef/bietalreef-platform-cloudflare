@@ -168,3 +168,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 ### مراجعة تحريرية 2026-11-20 — توسعة الفلل وتعديل المباني السكنية
 - تم توسيع طلب عرض السعر للخدمتين 11 و12 في `general-contracting/building-villas/content-ar.md` و`content-en.md` مع تفصيل الصور والمخططات، الكشف، نطاق المقايسة، الاستثناءات، الموافقات وفحوص الخدمات؛ تمت إعادة قراءة النسختين من GitHub بعد الحفظ.
 - الحالة: `in_progress`؛ هذه مراجعة مركزة لفقرة طلب السعر وليست تدقيقًا مستقلاً لبقية فقرات الخدمتين أو لباقي الخدمات. نقطة الاستئناف: التدقيق الفني والدلالي للخدمتين 11 و12 كاملتين، ثم 1–10 و13–14 من إنشاء المباني والفلل، ثم الترميم والتجديد والهدم والأعمال الخرسانية وبقية تخصصات القطاعات الثمانية.
+
+## 2026-11-20 — Service 4 bilingual scope and measurement review
+
+- Reviewed service 4 (تنفيذ أعمال البناء / General building works) in both languages. Replaced repetitive evidence and quotation clauses with specific wall classifications, one-face measurement conventions, common opening-deduction rules, itemized supply/installation, service coordination and approved technical details.
+- This is a targeted semantic improvement, not final sign-off. Remaining: verify service 4 acceptance and RFQ for overlap, then full independent technical/parity review of services 1–3 and 5–14; restoration-renovation 1–7, demolition-concrete 1–7, and the other company specialties. Area remains `in_progress`.

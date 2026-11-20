@@ -1978,3 +1978,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - نُقحت فقرة طلب السعر لخدمة «تنفيذ أعمال البناء» في `general-contracting/building-villas/content-ar.md` و`content-en.md` للفصل بين بيانات طلب المقايسة وبنود مقارنة العروض وفحص الاستلام، مع طلب جدول صافي/إجمالي المساحات وجدول التنفيذ وإقرار الاستثناءات والتغييرات كتابيًا.
 - أُعيدت قراءة ملفي اللغتين من فرع المحتوى وتحقق حفظهما وبقاء الخدمات الأربع عشرة. هذه معالجة تكرار محددة وليست اعتمادًا شاملًا.
 - **الحالة `in_progress` — أول نقص تالٍ:** تدقيق تكافؤ وسلامة الخدمات 1–14 كاملةً (بما فيها 4)، ثم خدمات `restoration-renovation` السبع، ثم `demolition-concrete` السبع، ثم بقية تخصصات الشركات عبر القطاعات الثمانية. لا يبدأ المويجعي قبل إكمال الجيمي.
+
+## 2026-11-21 — Restoration-renovation service 5 safety alignment
+
+- Reviewed the seven service pairs in `general-contracting/restoration-renovation` against their existing Arabic/English paragraphs; added matching urgent engineering escalation for potentially unstable cracking in service 5.
+- Verified preservation of all seven service headings and the original service order. This is a focused safety improvement, **not** approval of the specialty or district.
+- **Next precise work:** independent technical/semantic review of `general-contracting/building-villas` services 1–14; `general-contracting/restoration-renovation` services 1–7 (regulatory and specialist validation still pending); `general-contracting/demolition-concrete` services 1–7; then `landscaping`, `irrigation-networks`, `shade-outdoor-works` and remaining company specialties in the other seven sectors. All 434 bilingual service pairs require final verification. Status: `in_progress`; do not start Al Muwaiji.

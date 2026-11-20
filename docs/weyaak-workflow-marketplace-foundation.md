@@ -54,3 +54,9 @@ A client can create more than one independent project. Each project has one Proj
 **Approved architecture documentation:** [Weyaak Project Workspace / Project Agent / Invitations](./weyaak-project-workspace-rbac.md).
 
 **Verified existing scope:** Supabase public.client_projects has 4 rows and RLS currently restricts SELECT/UPDATE/DELETE to owner_user_id = auth.uid(). Project invitations, scoped member RLS, project-agent activation and revenue metering are specified for a future additive build; they are NOT deployed or inferred to exist. Never extend owner-only access by weakening an existing RLS policy before staging and isolation tests.
+
+## Government-services skill example (2026-11-21)
+
+The proposed Government Services Assistant is a scoped subscriber skill. For a project, CEO -> Project Agent -> Government Services Assistant can prepare a municipality/TAMM/BINAA paperwork and evidence packet. Modes are (A) preparation and guided official handoff, (B) user-supervised browser *only if terms permit*, and (C) formally approved API *only after access is verified*. UAE PASS credentials, PIN, OTP, government submission, signatures and fee approvals remain with the authorized human by default. An internal project invitation never creates legal government delegation. No existing governmental API integration is implied.
+
+See [TAMM Government Services Assistant specification](./weyaak-government-services-assistant-tamm.md). Documented only; not deployed.

@@ -1927,3 +1927,9 @@
 
 - **Status: `in_progress`.** Re-read Arabic and English service content for [restoration-renovation](./general-contracting/restoration-renovation/review.md) (7/7 bilingual pairs) and [demolition-concrete](./general-contracting/demolition-concrete/review.md) (7/7 bilingual pairs) directly from the designated branch. Each numbered section is present, at least 550 characters long and contains quotation-request wording; no flags in this limited automated check. The two specialty review files were updated and read back successfully.
 - **Remaining exact gaps:** `general-contracting/building-villas` 1–14 full semantic/technical review; `restoration-renovation` 1–7 and `demolition-concrete` 1–7 line-by-line safety, exclusion and acceptance audit beyond the structural checks; `landscaping` 1–14, `irrigation-networks` 1–7, and the remaining company specialties across all eight sectors. Review originality and restrictions/proposals, then all 434 bilingual service pairs. Do not begin `al-muwaiji` until all checks are approved.
+
+
+## 2026-11-20 — جرد مستقل لبنية إنشاء المباني والفلل
+
+- الحالة: `in_progress`. قُرئت ملفات `general-contracting/building-villas/content-ar.md` و`content-en.md` بالكامل؛ تأكد وجود **14 خدمة مرقمة بكل لغة** بالترتيب نفسه، ووجود قسمي طلب السعر والاستلام في كل خدمة، مع تجاوز كل قسم 450 حرفًا. وثقت نتيجة الجرد في [مراجعة التخصص](./general-contracting/building-villas/review.md).
+- **أول نقص تالٍ:** تدقيق دلالي وفني مستقل للخدمات 1–14 في `general-contracting/building-villas` (الاستثناءات والمقاسات والاتفاق والاستلام والتكافؤ بين اللغتين)، ثم `general-contracting/restoration-renovation` 1–7 و`general-contracting/demolition-concrete` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية؛ جرد 434 خدمة لكل لغة، وفحص التفرد وحالات المقيد والمقترح. لا تبدأ المويجعي قبل اعتماد الجيمي.

@@ -1915,3 +1915,9 @@
 
 - تحسنت مسؤوليات فحص الركيزة ووسائل الوصول والتصاريح ومعالجة الكسوة غير الثابتة في الخدمة السادسة باللغتين؛ تحقق الحفظ بإعادة القراءة.
 - **Status: in_progress.** المتبقي في هذا التخصص: المقارنة الفنية والدلالية للخدمات السبع، مع فحص الاستثناءات والتكرار. وعلى مستوى المنطقة: تدقيق `general-contracting/building-villas` (14 خدمة)، و`general-contracting/demolition-concrete` (7 خدمات)، ثم بقية تخصصات الشركات عبر القطاعات الثمانية، ومطابقة 434 خدمة بكل لغة قبل اعتماد المنطقة. لا يبدأ المويجعي قبل اكتمال الجيمي.
+
+
+## 2026-11-20 — English parity: building-villas services 13–14
+
+- **Status:** `in_progress`. Updated [English content](./general-contracting/building-villas/content-en.md) for villa restoration and occupied-building renovation to match detailed Arabic evidence and contract safeguards; see [Arabic content](./general-contracting/building-villas/content-ar.md) and [specialty review](./general-contracting/building-villas/review.md). All modified files were read back from the target branch.
+- **Next exact gaps:** `general-contracting/building-villas` services 1–12 full semantic/technical comparison, then final parity of 13–14; `general-contracting/restoration-renovation` services 1–7; `general-contracting/demolition-concrete` services 1–7; remaining company specialties across all eight sectors and 434 services per language, including restricted/proposed status and originality. Do not begin al-muwaiji or mark Al Jimi complete.

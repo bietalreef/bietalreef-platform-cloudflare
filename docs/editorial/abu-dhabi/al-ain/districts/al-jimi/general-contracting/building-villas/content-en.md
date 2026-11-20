@@ -62,6 +62,8 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 **Quote request:** Request a pour-by-pour breakdown of concrete grade, reinforcement, formwork, pumping, laboratory testing, curing and contingency for rejected loads.
 
+**Additional technical checks for pricing and acceptance:** Before each pour, have the appointed consultant confirm the specified concrete grade, delivery and transport constraints, casting sequence, curing plan and permitted construction joints. Ask bidders to price formwork, reinforcement, concrete, pumping and tests separately. Review pre-pour formwork, reinforcement and cover inspection records and test results; any honeycombing or structural defect needs a repair method approved by the qualified professional.
+
 ## 6. Structural frame construction
 
 The frame ties foundations, columns, beams and slabs together; errors at an early stage can affect every subsequent trade.
@@ -74,6 +76,8 @@ The frame ties foundations, columns, beams and slabs together; errors at an earl
 
 **Quote request:** Ask for a staged structural-frame offer identifying survey setting-out, temporary works, reinforcement checks, pour approvals and responsibility for design revisions.
 
+**Additional technical checks for pricing and acceptance:** Request a grid-and-floor sequence showing columns, beams and slabs, temporary propping and formwork striking arrangements, and coordinated service openings reserved before casting. Compare bids against approved structural drawings, inspection hold points, crane and scaffold responsibilities and rework procedures. Have the consultant record surveyed grids, levels and openings at handover rather than relying on a visual walk-through.
+
 ## 7. Turnkey project delivery
 
 A turnkey promise is only meaningful when the client and contractor agree exactly what is ready for use at handover.
@@ -85,6 +89,8 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 **Inspection and acceptance:** Reconcile the approved finish schedule room by room; witness operation of the contracted AC, lighting, pumps and appliances with the responsible specialists. Record model numbers, warranties, commissioning results and outstanding snags, with an agreed remedy before final sign-off.
 
 **Quote request:** Attach the room-by-room finish and appliance schedule and request separate supply, installation, commissioning, warranty and handover-document costs. Require an exclusions list for utility connections and activation, external works and owner-supplied equipment.
+
+**Additional technical checks for pricing and acceptance:** Do not rely on the phrase “ready to occupy” in a turnkey offer. Attach a finishes-and-equipment schedule with specified brands, models or measurable quality levels, owner-supplied items, external-works boundaries, connection charges and exclusions. Require documented commissioning of electrical, water and AC systems, waterproofing test records, as-built drawings, warranties, equipment manuals and a dated defects-closeout list before final payment.
 
 ## 8. New villa construction
 

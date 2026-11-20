@@ -1933,3 +1933,8 @@
 
 - الحالة: `in_progress`. قُرئت ملفات `general-contracting/building-villas/content-ar.md` و`content-en.md` بالكامل؛ تأكد وجود **14 خدمة مرقمة بكل لغة** بالترتيب نفسه، ووجود قسمي طلب السعر والاستلام في كل خدمة، مع تجاوز كل قسم 450 حرفًا. وثقت نتيجة الجرد في [مراجعة التخصص](./general-contracting/building-villas/review.md).
 - **أول نقص تالٍ:** تدقيق دلالي وفني مستقل للخدمات 1–14 في `general-contracting/building-villas` (الاستثناءات والمقاسات والاتفاق والاستلام والتكافؤ بين اللغتين)، ثم `general-contracting/restoration-renovation` 1–7 و`general-contracting/demolition-concrete` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية؛ جرد 434 خدمة لكل لغة، وفحص التفرد وحالات المقيد والمقترح. لا تبدأ المويجعي قبل اعتماد الجيمي.
+
+## 2026-11-20 — طلبات عروض الأسعار للمباني السكنية والتجارية
+
+- الحالة: `in_progress`. نُقحت فقرتا طلب عرض السعر للخدمتين 2 و3 في [العربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md) لتحديد جدول الوحدات والخدمات المشتركة ونقاط الربط والتصاريح والاختبارات والاستثناءات؛ راجع [سجل التخصص](./general-contracting/building-villas/review.md).
+- **النواقص التالية:** مراجعة باقي عناصر الخدمتين 2–3، ثم الخدمات 1 و4–14 فنيًا ودلاليًا في اللغتين، وبعدها `restoration-renovation` 1–7 و`demolition-concrete` 1–7 وبقية تخصصات الشركات حتى اعتماد 434 خدمة في كل لغة. لا يبدأ المويجعي.

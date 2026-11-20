@@ -56,3 +56,9 @@ Seven source-aligned company service headings in each language, original sequenc
   - 7. تجهيز المبنى لإعادة الاستخدام / Preparing a building for reuse
 - Automated checks for missing numbered pairs, sections shorter than 550 characters and absent quotation wording: no flags under these limited rules.
 - **Still outstanding:** independent human-quality comparison of each service's exclusions, measurements, safety controls, contract responsibility and acceptance criteria; compare near-duplicate wording and confirm classification status against the taxonomy. The area remains `in_progress` and Al Muwaiji must not start.
+
+## 2026-11-21 — Structural-crack escalation and bilingual comparison
+
+- Compared all seven Arabic/English service pairs in this specialty for scope, photographs/dimensions, quotation boundaries, handover and contract-specific clauses. Found the key safety omission in service 5: progressive settlement or visible displacement was not explicitly escalated before repair work.
+- Added matching Arabic and English stop-work / urgent qualified-engineer assessment / access-restriction guidance to service 5. This is an editorial risk flag, not an engineering diagnosis or approval.
+- Remaining independent checks: local regulatory applicability and technical validation for all seven services, originality and cross-specialty overlap, and district-wide review of 434 services per language. District remains `in_progress`.

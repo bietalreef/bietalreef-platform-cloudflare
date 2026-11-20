@@ -60,7 +60,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 ## 5. Structural crack remediation
 
-**Need and scope:** Do not fill a crack cosmetically before assessing whether it reflects structural movement or surface shrinkage. Commission engineering diagnosis and movement monitoring separately; do not assume injection or strengthening is appropriate.
+**Need and scope:** Do not fill a crack cosmetically before assessing whether it reflects structural movement or surface shrinkage. Where cracking is accompanied by visible displacement, progressive settlement or distorted doors and walls, stop work that could aggravate the hazard and seek urgent assessment by a qualified structural engineer; restrict access to affected areas as they advise. Commission engineering diagnosis and movement monitoring separately; do not assume injection or strengthening is appropriate.
 
 **Photos, dimensions and specifications:** Provide dated photographs with a width scale, its position on a plan and any observed progression. Measure crack width, length and direction, with dated monitoring points before specifying repair materials.
 

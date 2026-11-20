@@ -156,3 +156,10 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Expanded concrete works, structural frame construction, and turnkey delivery in both languages with distinct pre-work evidence, bid comparison, consultant-led inspections and acceptance deliverables.
 - These additions are editorial checklists, not technical approval. Independent paragraph-by-paragraph review of services 1–14 remains open; next resume at service 4 remaining paragraphs, then 5–7 full audit and 8–14.
+
+## 2026-11-20 — Services 9–10 bilingual editorial expansion
+
+- Added distinct annex planning, buried-service investigation, structural interface and reinstatement requirements to service 9 in both languages.
+- Added guest access, sanitary drainage, cooling, scope exclusions and commissioning/acceptance details to service 10 in both languages.
+- Re-fetched both content files after each write and verified the inserted passages. These are targeted editorial improvements, **not** final independent technical approval.
+- **Next exact gap:** complete paragraph-by-paragraph bilingual technical audit of building-villas services 1–14, starting with service 4's remaining paragraphs and checking 9–10 for duplication, then restoration-renovation 1–7 and demolition-concrete 1–7; continue through all remaining company specialties.

@@ -173,3 +173,8 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Reviewed service 4 (تنفيذ أعمال البناء / General building works) in both languages. Replaced repetitive evidence and quotation clauses with specific wall classifications, one-face measurement conventions, common opening-deduction rules, itemized supply/installation, service coordination and approved technical details.
 - This is a targeted semantic improvement, not final sign-off. Remaining: verify service 4 acceptance and RFQ for overlap, then full independent technical/parity review of services 1–3 and 5–14; restoration-renovation 1–7, demolition-concrete 1–7, and the other company specialties. Area remains `in_progress`.
+
+## 2026-11-20 — Service 4 acceptance audit
+
+- Compared Arabic and English acceptance criteria for «تنفيذ أعمال البناء» / General building works; added measured openings, photo evidence of junction defects, specialist review before service chasing and a recorded corrective-action/reinspection loop in both languages.
+- Status remains `in_progress`: service 4 quote/acceptance overlap and independent review of services 1–3, 5–14 still pending; continue restoration-renovation 1–7, demolition-concrete 1–7, then all remaining company specialties and 434 bilingual services.

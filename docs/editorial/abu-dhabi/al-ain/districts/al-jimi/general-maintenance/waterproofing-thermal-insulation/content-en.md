@@ -154,9 +154,8 @@ Preparatory guidance for company and establishment quotations, not a claim of a 
 
 **Service-specific agreement:** Define warranty limits for the new patch without extending them to the old membrane; agree who inspects after the next rainfall or suitable water exposure and remedies a failed joint.
 
+**Material approval checkpoint:** Have a competent contractor assess patch compatibility and adhesion to the existing membrane, with defined warranty limits; do not cut open the membrane without owner permission and a safe reinstatement plan.
+
 ## Request a quotation
 
 Send photographs, dimensions, the issue and when it occurs to Biet Al Reef customer service for help preparing a comparable brief. Company availability, pricing and appointment dates are not guaranteed.
-
-**Material approval checkpoint:** Have a competent contractor assess patch compatibility and adhesion to the existing membrane, with defined warranty limits; do not cut open the membrane without owner permission and a safe reinstatement plan.
-

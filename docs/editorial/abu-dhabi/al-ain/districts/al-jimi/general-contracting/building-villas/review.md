@@ -178,3 +178,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - Compared Arabic and English acceptance criteria for «تنفيذ أعمال البناء» / General building works; added measured openings, photo evidence of junction defects, specialist review before service chasing and a recorded corrective-action/reinspection loop in both languages.
 - Status remains `in_progress`: service 4 quote/acceptance overlap and independent review of services 1–3, 5–14 still pending; continue restoration-renovation 1–7, demolition-concrete 1–7, then all remaining company specialties and 434 bilingual services.
+
+## 2026-11-21 — Service 4 RFQ/acceptance separation
+
+- Reworked the Arabic and English **تنفيذ أعمال البناء / General building works** quotation-request paragraphs to request a comparable gross/net quantity return, opening-deduction rule, programme and delivery sequence, explicit junction/chasing/waste boundaries, and written variations. The acceptance section remains focused on inspection and defect correction rather than duplicating the quotation checklist.
+- Both full language files were read back from the editorial branch after saving; 14 numbered services remained in each. This is a targeted overlap correction, not final independent bilingual technical sign-off.
+- **Next outstanding:** end-to-end independent parity and safety review for building-villas services 1–14 (including service 4), then restoration-renovation 1–7, demolition-concrete 1–7, and the other company specialties across all eight sectors. District `in_progress`.

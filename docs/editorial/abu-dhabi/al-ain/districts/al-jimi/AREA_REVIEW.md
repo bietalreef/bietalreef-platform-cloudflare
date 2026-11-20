@@ -1948,3 +1948,8 @@
 
 - **الحالة: `in_progress`.** حُرر طلب عرض السعر للخدمة 4 «تنفيذ أعمال البناء» باللغتين في [العربية](./general-contracting/building-villas/content-ar.md) و[الإنجليزية](./general-contracting/building-villas/content-en.md)، لتفصيل القياسات الإجمالية والصافية وخصم الفتحات والمواد والسقالات والمخلفات ومسؤولية اعتماد مجاري الخدمات. أُعيدت قراءة ملفي المحتوى من GitHub وتحقق حفظ التعديل.
 - **أول نقص تالٍ:** تدقيق بقية فقرات الخدمة 4 دلاليًا وفنيًا، ثم الخدمات 1–3 و5–14 في `building-villas`، وبعدها `restoration-renovation` 1–7 و`demolition-concrete` 1–7 وبقية تخصصات الشركات والقطاعات الثمانية، وصولًا إلى مراجعة 434 خدمة في كل لغة. لا يبدأ المويجعي قبل اعتماد الجيمي بالكامل.
+
+
+## Editorial checkpoint — 2026-11-20 (building-villas services 5–7)
+
+Status: `in_progress`. Added bilingual technical guidance for services 5 (concrete works), 6 (structural frame) and 7 (turnkey delivery), recorded in [Arabic](./general-contracting/building-villas/content-ar.md), [English](./general-contracting/building-villas/content-en.md), and [review](./general-contracting/building-villas/review.md). Remaining: independent semantic/technical verification of building-villas services 1–14 (service 4 remaining paragraphs first); restoration-renovation services 1–7; demolition-concrete services 1–7; then all remaining company specialties across eight sectors, with 434 services per language requiring final review. Do not start Al Muwaiji before completing Al Jimi.

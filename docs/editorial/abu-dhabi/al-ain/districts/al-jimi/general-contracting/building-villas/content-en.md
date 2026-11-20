@@ -42,9 +42,9 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 Masonry work can look straightforward but misaligned openings or poorly coordinated services cause expensive rework after plastering.
 
-**What to document and measure:** Mark block types, wall lengths and heights, door/window opening dimensions, lintels, wall ties and service penetrations on drawings; photograph the workface.
+**What to document and measure:** Supply a wall layout with lengths, heights, block types and thicknesses, distinguishing internal from external walls and any wall needing special ties or insulation details. Photograph door and window openings, adjoining columns and beams, material access, storage and scaffold locations. Lintel, tying and local reinforcement details must be checked against approved drawings by the responsible specialist rather than inferred from photographs.
 
-**Compare quotations and agree boundaries:** Compare net measured wall area after deducting agreed openings, block thickness and type, mortar, local reinforcement, lintels, scaffolding, transport, waste removal and making good around services. Record the measurement and variation-approval method in the contract.
+**Compare quotations and agree boundaries:** Ask bidders to apply the same opening-deduction rule and state whether wall area is measured on one face or by another agreed bill-of-quantities convention. Separate block supply from laying, mortar, lintels, ties, local reinforcement, scaffolding, delivery and debris removal. Agree written approval before changes to wall height or opening position, and allocate responsibility for clashes with electrical and plumbing routes rather than leaving chasing and making-good as an undefined allowance.
 
 **Inspection and acceptance:** Before plastering, compare wall locations and thicknesses, door and window clear openings and lintel levels with the drawings; inspect plumb, course alignment and wall ties to structural elements. Coordinate electrical and plumbing chases before blocks are cut, and record approved changes to openings or materials in an inspection note. Visual checks are not structural approval.
 

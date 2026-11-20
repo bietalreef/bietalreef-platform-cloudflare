@@ -39,3 +39,10 @@ Added seven distinct contract checkpoints in Arabic and English, addressing valv
 
 - Added bilingual handover checks for controller power-loss recovery, saved clock/programme, ownership and transfer of online access, and validation of seasonal schedules against actual water use. No assertion that a particular controller has backup memory or internet access.
 - Original seven services and non-selectable preparatory status preserved. Final area-wide semantic and safety review remains pending.
+
+
+## مراجعة إضافية 2026-11-20 — بنود الاتفاق للخدمات 2 و3 و4 و5 و7
+
+- أضيفت بنود خاصة بكل خدمة في العربية والإنجليزية: انسداد النقاطات وصيانة المرشحات (2)، معايرة الرشاشات وهبوط التربة (3)، مخطط توصيلات المضخة والحماية (4)، توثيق قطع الغيار وبرمجة المتحكم (5)، وحدود الحفر التجريبي وحماية الخدمات القائمة (7).
+- تحقق الحفظ بإعادة جلب الملفين من GitHub بعد التحديث. هذه مراجعة جزئية وليست اعتمادًا شاملًا لجميع خدمات المنطقة أو التخصص.
+- النواقص التالية: مراجعة خدمة تصميم شبكات الري (1) والتكافؤ النهائي لجميع خدمات الري (1–7)، ثم `general-contracting/shade-outdoor-works` وبقية تخصصات القطاعات الثمانية، ومطابقة جميع خدمات الشركات الـ434 في كل لغة مع الشجرة.

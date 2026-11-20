@@ -116,3 +116,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Verified original Arabic service-heading sequence and bilingual section counts: **14 + 7 + 7 + 14 + 7 + 7 = 56 services per language**. English sections correspond by position. No missing numbered section or section shorter than 500 characters was found in this sector.
 - Exact duplicate-paragraph scan within each of the twelve language files found **zero repeated paragraphs over 110 characters**. This is a mechanical check, not proof of distinct meaning, natural prose, technical accuracy or full Arabic/English equivalence.
 - **Pending for sector approval:** compare each of the 56 service pairs line by line for technical meaning, scope, safety, exclusions, RFQ details and handover; inspect near-duplicates and restricted/non-selectable labels. Remaining seven sectors and the full 434-service audit are not certified. Area stays `in_progress`; do not start Al Muwaiji.
+
+## 2026-11-20 — إزالة تكرار الأدلة والاتفاق في الخدمتين 13–14
+
+- نُقحت فقرة الأدلة المطلوبة في «ترميم الفلل» (13) لتفصل الصور الواسعة والمقربة والتواريخ ومصادر الرطوبة والتقارير السابقة، بدل تكرار طلب الصور نفسه مرتين.
+- نُقحت فقرتا الأدلة والمقارنة في «تجديد المباني السكنية» (14) لتحديد جدول إشغال الوحدات وحماية المصاعد ومسار المخلفات وإشعارات السكان ومحاضر التلف المخفي وإعادة اختبار الخدمات، دون تكرار عام.
+- أُعيد جلب `content-ar.md` من الفرع بعد الرفع وتأكد تطابقه. **لا تزال المراجعة الدلالية المتقابلة للخدمات 1–14، وتدقيق بقية التخصصات، معلقة.**

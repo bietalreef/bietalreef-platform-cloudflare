@@ -150,7 +150,7 @@ Changing a flat layout may involve hidden pipes, electrical routes or structural
 
 This service treats villa restoration as a coordinated project across structure, waterproofing and finishes; the separate restoration-and-renovation specialty may be more appropriate for an individual defect or element without assuming a whole-villa project. Restoration should address the cause of cracking or dampness, not merely cover its appearance with new paint.
 
-**What to document and measure:** Photograph defects with dates and scale references, note previous repairs and leaks, and seek a specialist assessment for suspected structural distress.
+**What to document and measure:** Keep a dated log of crack progression and damp patches, with wide photographs locating each defect in the villa and close-ups beside a ruler. Note whether changes follow rainfall or water use, previous repair locations and finishes that may conceal damage; attach leak-investigation or structural reports if available.
 
 **Compare quotations and agree boundaries:** Compare diagnostic investigations and moisture or crack monitoring with the proposed repair method, compatible materials, affected finishes and any post-repair observations. Require a qualified structural engineer to assess suspected structural distress; record photographs before concealment, and state which hidden defects remain provisional until opened and assessed.
 
@@ -162,9 +162,9 @@ This service treats villa restoration as a coordinated project across structure,
 
 Renovating an occupied building requires careful sequencing so residents retain safe access and essential services.
 
-**What to document and measure:** List affected apartments and shared areas, access hours, service shutdowns, lift protection and waste routes; provide photos and room schedules.
+**What to document and measure:** Prepare a schedule of affected unit numbers, rooms and corridors, whether each unit is occupied and permitted working hours. Photograph defects, electrical isolation panels, water shut-off valves and lift entrances; mark waste-transfer routes and material storage locations without obstructing emergency exits.
 
-**Compare quotations and agree boundaries:** Compare phased work zones, dust and noise containment, temporary barriers, waste routes, resident notices and service-shutdown windows. Agree access and emergency-egress arrangements with building management, identify who responds to complaints and unexpected hidden defects, and set a separate handover checklist for each occupied unit.
+**Compare quotations and agree boundaries:** Compare unit-by-unit sequencing, resident notification lead times, dust-barrier specifications, lift protection, daily waste removal and cleaning responsibilities. Agree shutdown and restart testing windows with building management, keep emergency exits unobstructed, and require a separate written record and approval of costs before proceeding with newly exposed hidden defects. Specify the complaint contact and a separate handover record for each unit.
 
 **Inspection and acceptance:** Hand over each occupied unit separately with electrical, water and AC tests and a closed snag register. Confirm restoration of shared services, removal of waste and barriers, and safe access to emergency exits and lifts.
 

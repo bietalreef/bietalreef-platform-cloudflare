@@ -114,9 +114,7 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 **Inspection and acceptance:** Inspect the junction with the existing house, waterproof joints and runoff away from foundations; test electrical, drainage and cooling connections. Record reinstatement of disturbed paving and utilities with the supervising engineer before closing interfaces.
 
-**Quote request:** Send annex footprint and service tie-in photos; request separate investigation, permits, foundations, drainage connections and reinstatement allowances.
-
-**Pre-contract checks:** State whether the annex is structurally independent or attached to the villa. Photograph ground levels, drains, visible service runs and meter positions; require investigation of buried utilities before excavation. Connections to existing foundations or load-bearing elements need qualified design and review, not a contractor's assumption. Compare offers for foundations, movement and waterproof joints, electrical, drainage and cooling tie-ins, and reinstatement of disturbed paving or planting. Allocate drawing and approval duties, require testing before concealing connections, and collect concealed-work photographs, test results and a signed reinstatement record.
+**Quote request:** Attach the annex footprint, room dimensions, boundary offsets, ground levels, meter and drainage photographs, and equipment-access route. Request itemised buried-utility investigation, excavation and foundations, structural movement and waterproof joints, power, water, drainage and cooling connections, and reinstatement of disturbed paving or planting. Require each bidder to state whether the proposal is structurally independent or attached, who designs and secures required approvals and pays fees, and which concealed-work photographs, connection tests and reinstatement records will be handed over. No foundation connection or excavation should be presumed acceptable without qualified review and applicable approvals.
 
 ## 10. Outdoor majlis construction
 

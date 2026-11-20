@@ -129,3 +129,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Compared the Arabic and English source sections for villa restoration and occupied residential-building renovation. Expanded English evidence requirements for dated defect tracking, rain/water correlation, concealed finishes, unit occupancy, isolation points, lift protection and clear waste routes.
 - Expanded occupied-building contract terms to distinguish resident notices, dust barriers, daily waste removal, emergency egress, shutdown/restart tests and written approval of newly uncovered defects.
 - This addresses two specific gaps; **not a full technical or semantic approval** of all 14 services. Next: compare services 1–12 end to end and review 13–14 for any remaining nuance, then restoration-renovation and demolition-concrete. Area remains `in_progress`.
+
+
+## 2026-11-20 — Independent bilingual structure inventory (14 services)
+
+- Read both full service files from the specified branch and split only numbered `## N.` headings (excluding the general RFQ footer). Found 14 Arabic and 14 English numbered services, paired in the same order (1–14); checked each section for its own quotation-request and acceptance headings and minimum 450 characters. No missing section/heading or undersized section in this structural inventory.
+- This is **not** a semantic, safety or originality sign-off. Outstanding: independently compare every service's technical claims, exclusions, evidence, measurements, quote boundaries and handover criteria across languages, then review the remaining company specialties and restricted/proposed classifications. Area stays `in_progress`.

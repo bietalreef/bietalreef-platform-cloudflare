@@ -142,7 +142,7 @@ Adding a room or floor to an existing villa requires checking the old structure 
 
 **Inspection and acceptance:** Obtain inspection records for engineered connections and temporary supports under the approved design; inspect movement and waterproof joints between old and new construction and test diverted services. Visual inspection alone cannot establish structural adequacy.
 
-**Quote request:** Request a structural assessment before pricing a fixed extension; separate investigation, approved strengthening, temporary support, new construction and restoration.
+**Quote request:** Supply a sketch showing the added floor area and where it joins the villa, photos of roof, wall and floor junctions, utility and meter locations, and any existing drawings. Commission a separate engineering assessment before seeking a fixed construction price. Then ask for measured items for temporary propping, approved foundations or connections, junction waterproofing, diverted electrical, water and drainage services, and finish reinstatement. Allocate responsibility for concealed-condition discoveries, design changes, permits and testing in writing; a structural connection price cannot be treated as final before assessment.
 
 ## 12. Residential building alterations
 

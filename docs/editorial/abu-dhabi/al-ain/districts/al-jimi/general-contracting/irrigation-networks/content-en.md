@@ -26,7 +26,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Run the zone and check end emitters, leaks and wetting near each plant. Flush the line end under competent instructions, check soil wetting at the first and last emitter, and record blocked outlets before burying lines.
 
-**Detailed contract terms:** Specify pipe depth, emitters and paving reinstatement.
+**Detailed contract terms:** Specify pipe depth, emitters and paving reinstatement. Agree on emitter-clogging prevention, filter cleaning and who replaces damaged components during the handover period.
 
 **Service-specific quotation request:** Send planting-row lengths, tree counts, spacing and supply photos. Ask for emitter quantity and flow, filter and regulator positions, flushing, uniformity testing and whether disturbed soil will be reinstated.
 
@@ -40,7 +40,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Observe a full watering cycle for dry strips, overspray and ponding. Test coverage along paving edges under representative wind conditions and log overspray and any settlement around sprinkler heads.
 
-**Detailed contract terms:** Test sprinkler coverage and avoid wetting facades.
+**Detailed contract terms:** Test sprinkler coverage and avoid wetting facades. Agree on nozzle and head adjustments after a site trial and re-levelling any heads that settle after backfilling.
 
 **Service-specific quotation request:** Provide lawn area, obstacles, paths and photographs of spray boundaries. Ask for head counts, nozzle specifications, overlap and actual coverage tests, plus responsibility for damaged paving or planting.
 
@@ -54,7 +54,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Have a qualified technician test start-stop control, dry-run protection, leakage and unusual vibration. Do not energise the pump before appropriate earthing and electrical protection have been checked, and isolate power safely for inspection; record operating results and pump details. Record operating pressure and flow with a representative zone running; check access to isolation valves, filter servicing and pump dry-run protection.
 
-**Detailed contract terms:** Price pump, tank and electrical work separately; test pressure.
+**Detailed contract terms:** Price pump, tank and electrical work separately; test pressure. Require connection and isolation-point diagrams, dry-run protection details, and explicit responsibility for later tank cleaning and pump maintenance.
 
 **Service-specific quotation request:** Share tank-space dimensions, electrical supply location, furthest sprinkler elevation and required flow. Ask for tank capacity, pump curve, protection, connections, foundation and commissioning as separate priced items, with electrical/civil exclusions and warranty recorded.
 
@@ -68,7 +68,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces. Compare pressure readings before and after the repair in the affected zone, and inspect reinstatement and access to every repaired valve or joint.
 
-**Detailed contract terms:** Define replacement parts, repair limits and recommissioning tests.
+**Detailed contract terms:** Define replacement parts, repair limits and recommissioning tests. Request a photographic list and locations of replaced components and specify whether controller reprogramming is included.
 
 **Service-specific quotation request:** Photograph the fault, controller and zone identifiers; note when low pressure or blockage occurs. Separate diagnosis from parts, excavation and reinstatement, and require written approval before unforeseen repairs.
 
@@ -96,7 +96,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Obtain documented suspected locations and test findings; commission and verify repairs separately if needed. Record meter and pressure-test results zone by zone, stating whether the leak location is confirmed or remains a suspected point needing further investigation.
 
-**Detailed contract terms:** Price leak detection separately from excavation and repairs.
+**Detailed contract terms:** Price leak detection separately from excavation and repairs. Agree on the permitted number of trial excavations, protection of existing plants and utilities, and who authorises further investigation if the suspected leak is not confirmed.
 
 **Service-specific quotation request:** Provide meter readings while irrigation is off, timing of damp patches and any pipe plan. Request the detection method, accuracy limits, trial excavation charges and a written suspected-location report; price repair and reinstatement separately.
 

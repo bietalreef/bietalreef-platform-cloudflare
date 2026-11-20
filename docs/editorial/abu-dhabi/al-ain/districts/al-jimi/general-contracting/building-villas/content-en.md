@@ -48,7 +48,7 @@ Masonry work can look straightforward but misaligned openings or poorly coordina
 
 **Inspection and acceptance:** Before plastering, compare wall locations and thicknesses, door and window clear openings and lintel levels with the drawings; inspect plumb, course alignment and wall ties to structural elements. Coordinate electrical and plumbing chases before blocks are cut, and record approved changes to openings or materials in an inspection note. Visual checks are not structural approval.
 
-**Quote request:** Request measured wall quantities with deductions for openings, stated block specifications, scaffolding, lintels, service chases and waste handling.
+**Quote request:** Attach marked wall drawings showing lengths, heights, block thicknesses, door and window openings, plus photos of material access and storage areas. Ask for gross and net measured wall areas with an agreed opening-deduction rule, and separate prices for blocks, mortar, lintels, local reinforcement, scaffolding, delivery and debris removal. Agree in writing who signs off electrical and plumbing penetrations before chasing, how variations are measured and how damaged finishes are reinstated. A visual walk-through is not structural approval.
 
 ## 5. Concrete works
 

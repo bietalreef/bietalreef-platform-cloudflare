@@ -64,17 +64,15 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 ## 6. Structural frame construction
 
-The frame ties foundations, columns, beams and slabs together; errors at an early stage can affect every subsequent trade.
+**When this service is needed and what it covers:** Structural frame construction involves foundations, columns, beams and slabs built to approved drawings, with coordinated formwork, temporary supports and reserved service openings. Structural design, drawing revisions, blockwork and finishes are not automatically included; the contract must define these boundaries.
 
-**What to document and measure:** Provide structural drawings and revisions, soil information, setting-out references and the proposed floor-by-floor sequence.
+**Evidence, dimensions and specifications:** Supply the soil report, revision-controlled structural drawings, grid and floor levels, reinforcement schedules and reserved HVAC, plumbing and electrical penetrations. Photograph access routes, reinforcement storage and crane or pump positions; identify adjoining buildings and site movement restrictions.
 
-**Compare quotations and agree boundaries:** Compare reinforcement, formwork, concrete, scaffolding, temporary supports, survey setting-out and consultant inspections separately. Record pre-pour inspection hold points for every stage, service-penetration coordination and who bears redesign or approval delays.
+**Compare quotations and agree responsibilities:** Request separate measured quantities for concrete, reinforcement, formwork, scaffolding, surveying, pumping and tests, including the basis of measurement and temporary works. Identify who approves shop drawings and changes, resolves service-opening conflicts, supplies cranes and access equipment, and authorizes the pour and formwork striking sequence under the responsible engineer.
 
-**Inspection and acceptance:** At each pour hold point, have the consultant review surveyed gridlines and levels, reinforcement sizes and spacing, concrete cover, service openings, temporary support arrangements and their planned removal. Keep floor-by-floor concrete test and defect-remediation records; do not conceal work requiring inspection without the agreed technical and contractual sign-offs.
+**Inspection and acceptance:** Before each pour, have the consultant document surveyed grids and levels, bar sizes and spacing, cover, reserved penetrations and temporary supports. Retain floor-specific sample and test results, curing records and approved defect-remediation reports. Do not remove props or conceal work before required hold-point checks and technical approvals; this editorial checklist does not replace professional sign-off.
 
-**Quote request:** Ask for a staged structural-frame offer identifying survey setting-out, temporary works, reinforcement checks, pour approvals and responsibility for design revisions.
-
-**Additional technical checks for pricing and acceptance:** Request a grid-and-floor sequence showing columns, beams and slabs, temporary propping and formwork striking arrangements, and coordinated service openings reserved before casting. Compare bids against approved structural drawings, inspection hold points, crane and scaffold responsibilities and rework procedures. Have the consultant record surveyed grids, levels and openings at handover rather than relying on a visual walk-through.
+**Quote request:** Send the approved frame drawings, element-by-floor schedule, pour volumes and site-access constraints. Request a staged offer separating supply, installation, formwork, propping, surveying and testing, with pre-pour hold points, service-opening responsibilities, written exclusions and variations, and floor-by-floor handover evidence.
 
 ## 7. Turnkey project delivery
 

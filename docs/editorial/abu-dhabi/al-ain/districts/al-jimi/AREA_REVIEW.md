@@ -2097,3 +2097,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - الحالة: `in_progress`؛ أضيفت سبع نقاط قرار عملية بالعربية وسبع بالإنجليزية إلى [شبكات الري العربية](./general-contracting/irrigation-networks/content-ar.md) و[English](./general-contracting/irrigation-networks/content-en.md)، وتحقق الحفظ بإعادة القراءة.
 - التخصص غير قابل للاختيار والمعلومات تحضيرية فقط؛ لا ضمان لشركة أو سعر أو موعد.
 - **أول نقص تالٍ:** `general-contracting/shade-outdoor-works/content-ar.md` ثم `content-en.md` و`review.md`؛ بعدها تدقيق جميع تخصصات القطاعات الأخرى ومطابقة 434 خدمة في كل لغة والتفرّد والسلامة والتصنيفات. لا تبدأ المويجعي.
+
+## 2026-11-21 — استكمال تدقيق قرارات المظلات والأعمال الخارجية
+
+- الحالة `in_progress`. أضيفت سبع نقاط تعاقد وسلامة مختلفة بالعربية والإنجليزية إلى [المحتوى العربي](./general-contracting/shade-outdoor-works/content-ar.md) و[English](./general-contracting/shade-outdoor-works/content-en.md)، مع [سجل المراجعة](./general-contracting/shade-outdoor-works/review.md). لا يعني هذا تفعيل التخصص أو ضمان وجود شركة.
+- **النواقص التالية بدقة:** تدقيق `general-contracting/building-villas` الخدمات 1–14 فنيًا وتنظيميًا، ثم `restoration-renovation` 1–7، و`demolition-concrete` 1–7، و`landscaping` 1–14، و`irrigation-networks` 1–7، و`shade-outdoor-works` 1–7 على مستوى المطابقة النهائية، ثم باقي تخصصات الشركات في القطاعات الثمانية؛ جرد وتدقيق 434 خدمة في كل لغة قبل اعتماد الجيمي. لا يبدأ المويجعي.

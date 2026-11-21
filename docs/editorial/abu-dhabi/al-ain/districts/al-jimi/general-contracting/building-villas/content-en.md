@@ -124,51 +124,51 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 ## 11. Villa extensions
 
-Adding a room or floor to an existing villa requires checking the old structure and services before promising a construction method.
+**When and what is included:** A new room, wing or upper floor must be assessed against the existing villa's structural capacity and utility routes. Independent foundations, engineered connections or strengthening may be necessary; photographs and a square-metre rate cannot establish feasibility. A qualified structural engineer must assess the proposal, with applicable design and approvals established before intrusive work.
 
-**What to document and measure:** Provide as-built plans if available, photographs of columns and roof junctions, the intended extra area and an assessment by a qualified structural engineer.
+**Evidence and specifications:** Provide available existing plans and survey, proposed dimensions, levels and approved setbacks. Photograph roof, wall and floor junctions, prior cracks, meters, drains and AC equipment; explain how safe access to the occupied villa will be maintained. Locate concealed utilities before excavation or cutting.
 
-**Compare quotations and agree boundaries:** Separate specialist structural assessment, design, applicable approvals, temporary supports, engineer-approved strengthening, new foundations or framing, waterproof junctions, diverted utilities and reinstatement. Name the party responsible for drawing submissions and approvals before removal or strengthening, and agree concealed-connection inspection hold points. Do not promise a fixed structural connection before assessment.
+**Compare bids and contract:** Price assessment and design separately before requesting measured construction items for temporary propping, excavation, foundations, approved connections, waterproofing, utility diversion, finishes and reinstatement. Identify permit fees, testing, protection and concealed-condition exclusions, and who approves shop drawings and variations. Do not treat a structural connection price as final before investigation.
 
-**Inspection and acceptance:** Obtain inspection records for engineered connections and temporary supports under the approved design; inspect movement and waterproof joints between old and new construction and test diverted services. Visual inspection alone cannot establish structural adequacy.
+**Acceptance:** Keep inspection records for temporary works, reinforcement, connections and concealed waterproofing; inspect old-to-new junctions, drainage falls and diverted utility tests. Obtain as-built records and a dated defect register. A finished surface does not prove structural adequacy.
 
-**Quote request:** Supply a sketch showing the added floor area and where it joins the villa, photos of roof, wall and floor junctions, utility and meter locations, and any existing drawings. Commission a separate engineering assessment before seeking a fixed construction price. Then ask for measured items for temporary propping, approved foundations or connections, junction waterproofing, diverted electrical, water and drainage services, and finish reinstatement. Allocate responsibility for concealed-condition discoveries, design changes, permits and testing in writing; a structural connection price cannot be treated as final before assessment.
+**Request a quotation:** Send a sketch of the addition, junction and utility photos and available plans. Request an engineering assessment first, then an itemised construction quotation with exclusions and inspection stages. Biet Al Reef can help prepare the enquiry without guaranteeing a contractor, price or date.
 
 ## 12. Residential building alterations
 
-Changing a flat layout may involve hidden pipes, electrical routes or structural elements even when the visible work seems minor.
+**When and what is included:** Changing partitions, door openings or circulation may affect load-bearing elements, hidden services or escape provisions. Mark what is removed, rebuilt and kept in use; do not begin demolition before technical checks and any required approvals.
 
-**What to document and measure:** Mark walls to remove or build on before-and-after plans; photograph ceilings, risers and any suspected load-bearing members.
+**Evidence and specifications:** Provide dimensioned existing and proposed plans with numbered walls and openings, plus photos of ceilings, electrical boards, shut-off valves, service risers and lifts. State occupied units and working-hour limits, and specify floor and corridor protection, partition performance, acoustic separation and fire-stopping where applicable.
 
-**Compare quotations and agree boundaries:** Separate investigation of load-bearing walls and hidden services, safe utility isolation, permitted demolition, debris routes, new partitions, fire-stopping and reinstatement. Identify who arranges engineering review, drawings and applicable authority approvals before structural or escape-route changes, how occupied units are protected, and how restored utilities and fire-stopping will be tested.
+**Compare bids and contract:** Separate structural and concealed-service investigation, safe isolation, authorised removal, waste routes, new partitions, relocated outlets, reinstatement and testing. Name who handles engineering review, approvals, resident notices, lift protection and accidental damage. Require written approval before pricing newly exposed defects.
 
-**Inspection and acceptance:** Check new partitions and openings against approved alterations, test isolated and restored utilities, verify required acoustic separation and fire-stopping at penetrations, and confirm shared corridors are clean and accessible.
+**Acceptance:** Check openings against approved drawings, retest diverted electricity, water and drainage, inspect required penetration seals and acoustic separation, and clear shared corridors and emergency exits. Record defects for each affected unit separately.
 
-**Quote request:** Attach numbered existing and proposed wall and opening plans, photos of distribution boards, pipes, ceilings and shared corridors, and permissible working hours if occupied. Ask for separate items covering investigation of load-bearing elements and hidden services, safe isolation, authorised demolition, debris removal, partitions and finishes, and retesting of electrical, plumbing and required fire-stopping. Record who obtains approvals, protects residents and lifts, repairs damage outside the work zone, and prices defects discovered only after opening up.
+**Request a quotation:** Send before-and-after plans, dimensions, photographs and occupancy restrictions. Ask for a survey, itemised quantities, isolation and waste plans, commissioning checks and explicit exclusions. An enquiry can be prepared through Biet Al Reef without guaranteed provider availability.
 
 ## 13. Villa restoration
 
-This service treats villa restoration as a coordinated project across structure, waterproofing and finishes; the separate restoration-and-renovation specialty may be more appropriate for an individual defect or element without assuming a whole-villa project. Restoration should address the cause of cracking or dampness, not merely cover its appearance with new paint.
+**When and what is included:** Whole-villa restoration coordinates structural, waterproofing and finish repairs; a single local defect may instead suit the separate restoration specialty. Progressive or displaced cracks, settlement or visible distortion require stopping work in the affected area and seeking a qualified structural engineer's safety direction before removal or strengthening. Do not paint over recurring moisture without identifying its source.
 
-**What to document and measure:** Keep a dated log of crack progression and damp patches, with wide photographs locating each defect in the villa and close-ups beside a ruler. Note whether changes follow rainfall or water use, previous repair locations and finishes that may conceal damage; attach leak-investigation or structural reports if available.
+**Evidence and specifications:** Keep dated wide and ruler-scale close-up photographs of cracks, damp patches and previous repairs, noting any relation to rain or water use. Attach available plans, leak-investigation or engineering reports and measured repair areas, including cladding that may conceal damage.
 
-**Compare quotations and agree boundaries:** Compare the diagnostic method, correction of the underlying cause, compatible repair materials, drying time and repair warranty, not the appearance of the new finish. State how concealed damage will be opened, assessed, priced and approved before variations, including reinstatement of finishes. If cracks show displacement, progressive widening, settlement or visible distortion, suspend work in the affected area and seek a qualified structural engineer's assessment and site-safety direction; do not authorize structural removal or strengthening on a decorating quotation. Have the responsible professional check whether drawings, permits or authority approvals are required for structural alterations, and assign responsibility for obtaining them and recording inspection before concealment.
+**Compare bids and contract:** Separate diagnosis, exploratory opening, source correction, waterproofing, drying and finish reinstatement. Compare diagnostic methods, compatible materials, monitoring periods and warranty exclusions. Agree who approves concealed defects and costs, and who checks applicable drawings, permits or approvals for structural alterations.
 
-**Inspection and acceptance:** Compare dated crack and dampness photographs before and after repair; obtain diagnosis, evidence that the cause was addressed and pre-concealment inspection records. Agree any specialist-recommended monitoring period; repainting alone is not proof of structural safety.
+**Acceptance:** Obtain diagnostic and concealed-work records, relevant leak or waterproofing test evidence and dated before-and-after photographs. Set a monitoring period if recommended by the specialist. Cosmetic concealment does not demonstrate structural safety.
 
-**Quote request:** Send dated crack or dampness photographs and request a diagnostic stage before repair pricing, with concealed-defect contingencies and monitoring responsibilities.
+**Request a quotation:** Submit a defect log, locations, photographs and available reports. Request a separately priced diagnostic stage followed by an itemised repair scope, materials, tests, exclusions and written concealed-defect variation procedure. Biet Al Reef can help organise an enquiry without guaranteeing a provider or price.
 
 ## 14. Residential building renovation
 
-Renovating an occupied building requires careful sequencing so residents retain safe access and essential services.
+**When and what is included:** Work in an occupied residential building needs unit-by-unit sequencing, resident protection and continuity of essential services. Define whether lobbies, lifts, façades and common services are included; renovating one unit does not authorise an unplanned outage for others.
 
-**What to document and measure:** Prepare a schedule of affected unit numbers, rooms and corridors, whether each unit is occupied and permitted working hours. Photograph defects, electrical isolation panels, water shut-off valves and lift entrances; mark waste-transfer routes and material storage locations without obstructing emergency exits.
+**Evidence and specifications:** Prepare a schedule of unit numbers, areas, occupancy and works, with photographs of defects, distribution boards, water isolation valves, lifts and exits. Measure corridor lengths, floor and paint areas, and identify materials and waste routes and building-approved working hours.
 
-**Compare quotations and agree boundaries:** Compare unit-by-unit sequencing, resident notification lead times, dust-barrier specifications, lift protection, daily waste removal and cleaning responsibilities. Agree shutdown and restart testing windows with building management, keep emergency exits unobstructed, and require a separate written record and approval of costs before proceeding with newly exposed hidden defects. Specify the complaint contact and a separate handover record for each unit.
+**Compare bids and contract:** Require a phased programme for resident notices, agreed service shutdowns, dust barriers, lift protection and daily cleaning. Compare separate unit and common-area quantities, testing and waste costs. Name the complaints contact and who authorises concealed defects and repairs accidental damage.
 
-**Inspection and acceptance:** Hand over each occupied unit separately with electrical, water and AC tests and a closed snag register. Confirm restoration of shared services, removal of waste and barriers, and safe access to emergency exits and lifts.
+**Acceptance:** Hand over each flat with its own finish checks and tests of affected electrical, water and AC systems. Then verify common services, waste removal, barrier removal and unobstructed emergency exits. Record each snag, responsible party and reinspection date.
 
-**Quote request:** Request a phased, occupied-building programme covering resident notices, safe access, service outages, dust barriers, waste routes and per-unit handover.
+**Request a quotation:** Send the unit schedule, measured quantities, photographs, working-hour and access restrictions. Request separate prices for flats and shared spaces, with resident notices, protection, testing and staged handover specified. Biet Al Reef enquiry support remains available without a guaranteed contractor, price or appointment.
 
 ## Biet Al Reef enquiry support
 

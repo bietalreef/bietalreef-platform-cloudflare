@@ -252,3 +252,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Explicitly separated engineering feasibility and temporary support for villa extensions; structural/fire/occupied-unit controls for alterations; diagnosis and escalating structural distress for restoration; and phased resident protection and per-unit acceptance for occupied-building renovation.
 - Both content files were re-fetched after writing and each retains 14 numbered services. This is editorial review, not engineering certification or final area approval.
 - Remaining: technical and regulatory validation of services 1–14; detailed cross-language and originality review of restoration-renovation 1–7, demolition-concrete 1–7, landscaping 1–14, irrigation-networks 1–7, shade-outdoor-works 1–7 and the other specialties across all eight sectors; final 434 bilingual service-pair audit. District stays `in_progress`.
+
+
+## 2026-11-21 — نطاق الخدمات 3–5: المباني التجارية والبلوك والخرسانة
+
+- مراجعة نطاق ثلاث خدمات بالعربية والإنجليزية، مع فصل الأعمال الأساسية عن تجهيزات المستأجرين، وأعمال البلوك عن التغييرات الإنشائية، والصب عن التصميم والاعتماد الفني. لا ادعاء بتوفر شركة أو موافقة تنظيمية.
+- حالة الجيمي `in_progress`؛ يلزم تدقيق بقية فقرات الخدمات 1–14، ثم بقية تخصصات الشركات والـ434 خدمة بكل لغة قبل الاعتماد أو الانتقال للمويجعي.

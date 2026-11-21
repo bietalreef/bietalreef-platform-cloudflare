@@ -112,17 +112,15 @@ A bedroom annex, pantry or store each creates different plumbing, ventilation an
 
 ## 10. Outdoor majlis construction
 
-A detached majlis needs comfortable guest circulation, private access, cooling and suitable washroom arrangements.
+**When and why:** A detached majlis should accommodate the intended guest numbers while keeping guest access separate from the family's private circulation. Decide whether the contract covers only the building or also the approach, parking, pantry, fixed seating and sanitary facilities. Do not assume an addition is permitted before the relevant drawings and requirements are checked.
 
-**What to document and measure:** Record guest capacity, entry route, seating layout, floor levels, outdoor exposure, AC needs and proposed sanitary connections.
+**Evidence, measurements and specifications:** Supply a dimensioned seating and entrance plan showing door swings, washbasins, washrooms, pantry and external AC-unit locations. Photograph ground levels, guest access and existing service routes; measure distances to electrical, water and drainage connections and mark proposed wall or roof penetrations. State preferred flooring, cladding, glazing and thermal/acoustic performance, while leaving AC capacity to a qualified assessment.
 
-**Compare quotations and agree boundaries:** Separate structure, thermal and acoustic insulation, cooling, finishes, sanitary and pantry fittings, fixed joinery and loose furniture. Agree who prepares majlis plans, obtains applicable construction or addition approvals, and provides external utility connections; record AC and drainage commissioning responsibilities.
+**Compare bids and agree the contract:** Require separate lines for foundations and structure, insulation, façade, lighting, AC, plumbing, serving facilities, fixed joinery and external paths. Check whether excavation, paving reinstatement, equipment supply and connections back to the villa are included. Allocate responsibility for plans and applicable approvals, sample sign-off, outdoor AC placement, condensate drainage and written variation approvals.
 
-**Inspection and acceptance:** Walk the guest entrance and service routes, operate doors and cooling, test washroom and pantry drainage, and inspect water-tightness where roof, glazing and shade structures meet before accepting the external works.
+**Inspection and acceptance:** Walk the guest and serving routes and check privacy; operate lighting and cooling, test washroom and pantry drains for leakage and odours, and verify external paving falls away from entrances. Inspect roof-to-glazing joints and concealed-service test records before closure; record finish defects and reinspection dates.
 
-**Quote request:** Specify guest capacity and majlis access; request separate prices for cooling, acoustic comfort, washrooms, external paving and fixed versus loose furniture.
-
-**Detached-majlis planning:** Record guest capacity, seating arrangement, serving access, washbasins, washrooms and outdoor AC-unit locations. Photograph the proposed service routes from the main villa. Compare structure, insulation and cladding separately from AC, drainage, pantry fittings, lighting and fixed furniture; clarify whether the guest approach and parking are included. Agree responsibility for drainage and ventilation drawings and any necessary approvals. Before closing ceilings and finishes, check drainage falls and test cooling and plumbing connections. At handover, assess guest privacy and access, drain odours, leaks, finish defects and the specialist system test records.
+**Quote request:** Send the seating plan, guest capacity, ground-level and service-route photographs, and proposed utility connections. Ask for a measured schedule separating construction and finishes from utility tie-ins, pantry, furniture, paths and parking, with exclusions, permit responsibilities, system tests and handover records.
 
 ## 11. Villa extensions
 

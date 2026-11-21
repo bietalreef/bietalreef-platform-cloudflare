@@ -28,7 +28,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 ## 3. Commercial building construction
 
-A retail or office building must fit its intended occupancy, deliveries, tenant access and future fit-out rather than merely resemble a reference façade.
+A commercial building project combines leasable units with shared corridors, loading areas and building services. Before pricing the shell, record each floor's proposed use, clear unit heights and goods entrances: a retail unit and a restaurant may need different ventilation, drainage and loading provisions. Separate the base-building contract from tenant fit-out, signage and commercial kitchens. Do not imply a future tenant use is approved simply because the unit can be leased. Assign qualified responsibility for escape routes, life-safety review and authority submissions.
 
 **What to document and measure:** Provide the proposed use and floor-by-floor tenancy area schedule, clear heights, loading-bay and delivery-door dimensions, floor loading requirements, façade drawings and allocated electricity, water, drainage and ventilation interfaces for each unit. Photograph adjoining roads, delivery access and boundaries; distinguish design assumptions from confirmed tenant requirements.
 
@@ -40,7 +40,7 @@ A retail or office building must fit its intended occupancy, deliveries, tenant 
 
 ## 4. General building works
 
-Masonry work can look straightforward but misaligned openings or poorly coordinated services cause expensive rework after plastering.
+This is a defined blockwork package after the structural grid and frame have been checked, or an approved partition package in an existing building. Identify each wall's block type, thickness, height and openings; a masonry quote does not authorise new openings in load-bearing members or cutting columns and beams. Separate block and mortar supply from laying, lintels, ties, scaffolding, frame junction treatment and waste removal. Coordinate electrical and plumbing chases before plastering. Structural changes require qualified review and applicable approvals before work.
 
 **What to document and measure:** Supply a wall layout with lengths, heights, block types and thicknesses, distinguishing internal from external walls and any wall needing special ties or insulation details. Photograph door and window openings, adjoining columns and beams, material access, storage and scaffold locations. Lintel, tying and local reinforcement details must be checked against approved drawings by the responsible specialist rather than inferred from photographs.
 
@@ -52,7 +52,7 @@ Masonry work can look straightforward but misaligned openings or poorly coordina
 
 ## 5. Concrete works
 
-Concrete pricing depends on the actual elements, specified mix, access for delivery and the planned pour sequence.
+This service covers defined pours—foundations, columns, slabs or floors—against approved structural documents, not structural design itself. Distinguish structural concrete from blinding or levelling layers and state whether reinforcement, formwork, pumping, curing and testing are included. Before pouring, coordinate service penetrations, permitted construction joints, truck access and the engineer's inspection hold points. A contractor's price cannot replace engineering approval of changes to concrete grade, reinforcement or formwork-striking times.
 
 **What to document and measure:** Provide structural drawings, element volumes, reinforcement schedules, formwork details, access photos and the consultant's concrete specification.
 

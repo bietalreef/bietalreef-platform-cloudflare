@@ -50,9 +50,9 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Supply existing-condition drawings, the proposed activity, expected occupant numbers and operating hours, with photographs of switchboards, cooling plant, entrances, stairs and exits. Ask qualified designers to document anticipated electrical and structural loads, ventilation, escape routes and accessibility, and identify gaps against the intended use; photographs alone do not establish compliance.
 
-**Quotation comparison and agreement:** Separate life-safety and essential-system upgrades from decorative work, and allocate design and approval duties. Assign responsibility for testing reports, permits and delivery of safety and operating documentation.
+**Quotation comparison and agreement:** Compare proposals in two stages: an existing-condition assessment and rehabilitation brief, followed by modifications specified by competent designers and relevant authorities. Require separate allowances for escape routes, ventilation, electrical capacity, accessibility and fire-safety systems versus cosmetic finishes. Do not compare a lump sum with a bid that omits testing, drawings or authority fees. Identify who appoints the consultant, submits applications, pays for retesting after failure and approves unforeseen remedial work in writing.
 
-**Handover checks:** Review commissioning records and exit arrangements before the new use begins. Match commissioning results to the proposed new occupancy, obtain the outstanding-defects register and closure plan, and do not treat a successful trial run as permission to occupy.
+**Handover checks:** Obtain as-built records, applicable load and ventilation test reports, and inspection records for escape routes and accessibility against the proposed use. Keep a snag register with an owner, deadline and retest evidence for each item; request operator training and maintenance records where relevant. A successful trial run or closed technical snag list is not a substitute for applicable authority approvals or occupancy permission.
 
 **Contract-specific check:** Price baseline surveys and system tests separately from remedial work they reveal; do not describe the building as approved for a new use before specialist and authority checks.
 

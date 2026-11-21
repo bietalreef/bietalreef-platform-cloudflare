@@ -2026,3 +2026,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - Rewrote general-contracting/building-villas service 8 (بناء الفلل الجديدة / New villa construction) in Arabic and English. Read back both files on the specified branch; 14 headings in each.
 - Status: in_progress. Next: service 9 بناء الملاحق السكنية, then services 10–14, re-audit 1–8; restoration-renovation 1–7, demolition-concrete 1–7, and the remaining company specialties across all eight sectors. All 434 services in both languages require final editorial certification.
 - Markdown-only editorial changes; no code, database, merge or deployment.
+
+## 2026-11-21 — Outdoor majlis service 10 consolidated bilingual audit
+
+- Replaced the overlapping service 10 quote and detached-majlis addendum with a unified, distinct five-part treatment in both languages. It now addresses guest privacy and circulation, dimensioned seating and service routes, separated building/MEP/external-work bids, applicable approval responsibilities, drainage and AC commissioning, concealed inspections and snag closure.
+- Both files were fetched again from the target GitHub branch and retain 14 numbered services. This is editorial scope and bilingual-parity work, not a permit or engineering certification.
+- **Remaining first:** service 9 independent paragraph-level parity/safety audit, then services 11–14, followed by technical/regulatory recheck of 1–8; then restoration-renovation 1–7, demolition-concrete 1–7, landscaping 1–14, irrigation 1–7, shade-outdoor-works 1–7 and all remaining company specialties. Full 434-service bilingual district quality audit remains open; status `in_progress`.

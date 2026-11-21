@@ -221,3 +221,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Replaced the duplicated technical addendum and repeated drawing request with a single five-part, service-specific treatment in Arabic and English. It now distinguishes structural execution from design and finishes, identifies revision-controlled drawings and service penetrations, separates temporary works and survey pricing, and requires pre-pour hold points and floor-specific acceptance evidence.
 - Both language files were read back from the editorial branch and retain all 14 service headings.
 - **Still pending:** independent detailed review of services 7–14, then 1–6 for regulatory/engineering accuracy and full bilingual parity; final audit of restoration-renovation, demolition-concrete, the other company specialties and all 434 bilingual services. Not certified or approved.
+
+## 2026-11-21 — Turnkey service 7 bilingual RFQ/acceptance consolidation
+
+- Consolidated repeated RFQ and additional-technical-check passages into one coherent service-specific RFQ in Arabic and English, preserving separate pricing for supply, installation, commissioning, handover documents, owner-supplied items and utility/external exclusions.
+- Specified test evidence, as-built documents, manuals, warranties and dated defects/reinspection before final payment; removed duplicate addendum. Read both updated language files back from the target branch; 14 headings remain in each.
+- Status: `in_progress`. Next: independent detailed audit of services 8–14 (starting with service 8, new villa construction), then technical/regulatory recheck of 1–7; restoration-renovation 1–7, demolition-concrete 1–7, and the remaining company specialties in eight sectors. No engineering certification or district completion is implied.

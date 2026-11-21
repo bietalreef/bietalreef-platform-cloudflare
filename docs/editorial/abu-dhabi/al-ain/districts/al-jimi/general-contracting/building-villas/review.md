@@ -270,3 +270,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Expanded the Arabic and English comparison/contract sections for **إنشاء المباني التجارية** to distinguish shell-and-core from tenant fit-out, unit handover condition, approved service capacities, utility upgrade and meter fees, fire-stopping, connection retesting, common-area handover and permit-fee exclusions.
 - Both content files were fetched again from the specified GitHub branch after each write and matched the submitted text; 14 service headings remain in each language.
 - **Pending:** service 3 independent technical/regulatory review of the remaining sections, then services 4–5 and 7–14, plus a final review of services 1, 2 and 6; thereafter the other 49 company specialties and the 434 bilingual service pairs. Al Jimi remains `in_progress` and Al Muwaiji must not start.
+
+## 2026-11-22 — Commercial-building evidence parity check
+
+- Expanded Arabic service 3 evidence requirements to match the existing detailed English unit-by-unit measurement and utility-interface guidance: numbered tenancy schedule, clear heights, loading-door dimensions, site photographs, meter and duct locations, approved versus proposed uses, and designer-confirmed loads/capacities.
+- English service 3 already contained these points; no redundant rewrite was made. The Arabic file was saved to the specified branch. This is a targeted bilingual parity correction, not final certification of service 3 or the district.
+- **Next precise gap:** independent paragraph-by-paragraph technical and regulatory audit of commercial-building service 3, then building-villas services 4–5 and 7–14, followed by 1–2 and 6; continue with the remaining company specialties and final 434-pair audit. District remains `in_progress`.

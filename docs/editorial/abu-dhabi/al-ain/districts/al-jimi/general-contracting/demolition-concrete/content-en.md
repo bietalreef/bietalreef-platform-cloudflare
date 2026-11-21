@@ -8,6 +8,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Photos, dimensions and records:** Provide a colour-marked drawing, photographs of junctions, ceilings and entrances, utility locations, and plant and debris routes.
 
+**Pre-quote safety decision:** Survey and record the condition of retained elements before demolition, and identify occupied areas. Barriers alone are not a substitute for an approved safe-work plan.
+
 **Scope, exclusions and equipment:** Agree dismantling sequence, temporary support, service isolation and dust/vibration controls; debris haulage and adjacent-surface repairs are not automatically included. If asbestos-containing materials or other hazardous contaminants are suspected, stop disturbing them and arrange assessment and removal by suitably qualified specialists under applicable requirements; do not treat them as ordinary demolition waste.
 
 **Comparing quotations and contract terms:** Compare marked removal limits, utility isolation sequence, temporary support, neighbour protection and dust/vibration controls rather than demolition area alone. Assign permit ownership, inspection hold points and the process for pricing concealed elements and repairing incidental damage before work starts.
@@ -21,6 +23,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **When it is needed:** Removing a detached or connected annex requires identifying the structural junction and protecting the occupied building, not simply pricing floor area.
 
 **Photos, dimensions and records:** Photograph all elevations, roof, visible footings, annex dimensions, gate width, services, boundary wall and neighbours.
+
+**Pre-start decision:** Document the retained building and annex junction; assess temporary weatherproofing and utility protection during separation, not only after removal.
 
 **Scope, exclusions and equipment:** Clarify whether separating the annex, removing foundations and paving, levelling ground and repairing shared walls are included as separate items.
 
@@ -36,6 +40,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Photos, dimensions and records:** State each diameter or cut length and depth, element thickness and height; show both faces, access, power and water availability.
 
+**Pre-cut decision:** Do not rely on an architectural opening mark alone. Reconcile the actual position with structural review and service scanning, and agree what happens if an obstruction appears during cutting.
+
 **Scope, exclusions and equipment:** Discuss diamond equipment, anchoring, slurry collection and core removal; strengthening, reinstating waterproofing and edge repairs require explicit inclusion.
 
 **Comparing quotations and contract terms:** Compare each opening by diameter, depth, element type and access, separately pricing scanning, anchoring, slurry collection and waterproofing repair. Changes to penetration positions or any exposed reinforcement must be referred to the competent engineer for documented approval.
@@ -49,6 +55,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **When it is needed:** Foundation pours must follow approved footing dimensions, levels, reinforcement and concrete specifications informed by the relevant ground data.
 
 **Photos, dimensions and records:** Supply structural drawings, footing schedule, available geotechnical report, excavation and rebar photographs, and pump access.
+
+**Pre-pour decision:** Review available ground investigation and the exposed founding surface with a competent professional. Soil colour or appearance alone cannot establish founding suitability.
 
 **Scope, exclusions and equipment:** Separate excavation, dewatering, blinding, formwork, steel, pumping, testing, curing and backfill in the scope.
 
@@ -64,6 +72,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Photos, dimensions and records:** Provide slab area, thickness, levels, approved drawings, formwork photographs, MEP openings and pump access.
 
+**Pre-pour decision:** Name who inspects props, formwork, reinforcement and penetrations before delivery, and agree a safe response to pump failure or supply interruption rather than improvising a construction joint.
+
 **Scope, exclusions and equipment:** Itemise concrete supply, formwork, steel, pump, levelling, curing and striking; identify who approves prop-removal timing.
 
 **Comparing quotations and contract terms:** Compare formwork area, prop retention, concrete and steel quantities, pumping, testing and curing, including a plan for interrupted deliveries. Link striking and subsequent loading to documented competent approval rather than an assumed calendar date.
@@ -78,6 +88,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Photos, dimensions and records:** Provide each wall's length, height and thickness, reinforcement drawings, door and service openings, and photographs of connecting foundations.
 
+**Pre-closure decision:** Check openings, embedded services, reinforcement cover and pour joints with the competent party before closing shutters; later honeycomb repair is not a substitute for proper placement and compaction.
+
 **Scope, exclusions and equipment:** Specify formwork, bracing, placement, compaction, curing, tie-hole treatment and construction joints; external waterproofing is separate unless included.
 
 **Comparing quotations and contract terms:** Compare shuttering area, steel and concrete quantities, service openings, joints and tie-hole treatment, stating whether waterproofing is included. Agree inspection records for cover, reinforcement and openings before closure, and the defect-repair process before cladding.
@@ -91,6 +103,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **When it is needed:** Haulage may involve concrete, blockwork, timber and metal waste; some materials require separate handling and must not be mixed without checking.
 
 **Photos, dimensions and records:** Photograph piles from several angles with scale, estimate waste types and volume, and describe floor, lift, entrance width and loading distance.
+
+**Pre-loading decision:** Separate timber, metal and rubble where required, check vehicle load restrictions, skip location and pedestrian access; never mix suspected hazardous material with ordinary debris.
 
 **Scope, exclusions and equipment:** Clarify labour, skips, manual loading, lifting, transport, receiving-site fees and final sweeping; hazardous materials are normally outside this scope.
 

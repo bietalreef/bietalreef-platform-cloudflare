@@ -282,3 +282,10 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 
 - الحالة: `in_progress`. أضيفت فقرات تدقيق تعاقدي وفني مستقلة بالعربية والإنجليزية إلى خدمات **تنفيذ أعمال البناء** (نموذج الجدار والربط ومجاري الخدمات)، **تنفيذ الأعمال الخرسانية** (استمرارية توريد الصب ونتائج العينات)، و**تسليم المشاريع بنظام المفتاح** (مصفوفة التسليم والضمانات). لم تُعدّل أسماء الخدمات الأربع عشرة أو ترتيبها.
 - **المتبقي أولًا:** تدقيق الخدمة 3 نهائيًا، ثم 8–14، وإعادة فحص 1–2 و6 و4–5 و7؛ بعد ذلك تخصصات `restoration-renovation` و`demolition-concrete` و`landscaping` و`irrigation-networks` و`shade-outdoor-works` ثم جميع تخصصات القطاعات الأخرى. مطابقة 434 خدمة بكل لغة والجودة والسلامة والقيود لم تعتمد؛ لا يبدأ المويجعي.
+
+
+## 2026-11-22 — Independent service-specific audit: services 8–14
+
+- Added seven distinct Arabic and seven matching English checks on new-villa orientation and future allowances, annex utility capacity and existing foundations, outdoor majlis ventilation and drainage, extension movement joints and temporary works, alterations and fire-stopping, restoration moisture evidence, and occupied-building renovation access and shutdowns.
+- Re-read both content files from the specified GitHub branch after writing and confirmed all seven new checks in each language. These are editorial checks, not engineering or authority approvals.
+- **Pending:** detailed independent review of services 1–7, cross-language paragraph parity and technical/regulatory audit for all 14; then restoration-renovation, demolition-concrete, landscaping, irrigation-networks, shade-outdoor-works and remaining company specialties. Do not certify the area before all 434 service pairs pass review.

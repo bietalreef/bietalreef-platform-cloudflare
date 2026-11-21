@@ -276,3 +276,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Expanded Arabic service 3 evidence requirements to match the existing detailed English unit-by-unit measurement and utility-interface guidance: numbered tenancy schedule, clear heights, loading-door dimensions, site photographs, meter and duct locations, approved versus proposed uses, and designer-confirmed loads/capacities.
 - English service 3 already contained these points; no redundant rewrite was made. The Arabic file was saved to the specified branch. This is a targeted bilingual parity correction, not final certification of service 3 or the district.
 - **Next precise gap:** independent paragraph-by-paragraph technical and regulatory audit of commercial-building service 3, then building-villas services 4–5 and 7–14, followed by 1–2 and 6; continue with the remaining company specialties and final 434-pair audit. District remains `in_progress`.
+
+
+## 2026-11-22 — تدقيق مستقل للخدمات 4 و5 و7
+
+- الحالة: `in_progress`. أضيفت فقرات تدقيق تعاقدي وفني مستقلة بالعربية والإنجليزية إلى خدمات **تنفيذ أعمال البناء** (نموذج الجدار والربط ومجاري الخدمات)، **تنفيذ الأعمال الخرسانية** (استمرارية توريد الصب ونتائج العينات)، و**تسليم المشاريع بنظام المفتاح** (مصفوفة التسليم والضمانات). لم تُعدّل أسماء الخدمات الأربع عشرة أو ترتيبها.
+- **المتبقي أولًا:** تدقيق الخدمة 3 نهائيًا، ثم 8–14، وإعادة فحص 1–2 و6 و4–5 و7؛ بعد ذلك تخصصات `restoration-renovation` و`demolition-concrete` و`landscaping` و`irrigation-networks` و`shade-outdoor-works` ثم جميع تخصصات القطاعات الأخرى. مطابقة 434 خدمة بكل لغة والجودة والسلامة والقيود لم تعتمد؛ لا يبدأ المويجعي.

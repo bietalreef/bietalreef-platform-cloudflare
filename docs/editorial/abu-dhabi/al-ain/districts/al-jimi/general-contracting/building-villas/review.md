@@ -233,3 +233,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Rewrote بناء الفلل الجديدة / New villa construction in both languages: project brief, survey evidence, performance specifications, exclusions, inspection records and RFQ instructions.
 - Read back both content files; fourteen numbered services remain in each language.
 - Pending: independent technical and semantic audit of services 1–14; next service 9, then other specialties. No company availability or guaranteed price/date asserted.
+
+## 2026-11-21 — Outdoor majlis service 10 consolidated bilingual audit
+
+- Replaced the overlapping service 10 quote and detached-majlis addendum with a unified, distinct five-part treatment in both languages. It now addresses guest privacy and circulation, dimensioned seating and service routes, separated building/MEP/external-work bids, applicable approval responsibilities, drainage and AC commissioning, concealed inspections and snag closure.
+- Both files were fetched again from the target GitHub branch and retain 14 numbered services. This is editorial scope and bilingual-parity work, not a permit or engineering certification.
+- **Remaining first:** service 9 independent paragraph-level parity/safety audit, then services 11–14, followed by technical/regulatory recheck of 1–8; then restoration-renovation 1–7, demolition-concrete 1–7, landscaping 1–14, irrigation 1–7, shade-outdoor-works 1–7 and all remaining company specialties. Full 434-service bilingual district quality audit remains open; status `in_progress`.

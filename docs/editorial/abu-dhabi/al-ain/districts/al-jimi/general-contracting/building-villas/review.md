@@ -264,3 +264,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - أضيفت نقاط قرار تعاقدية وفنية مستقلة للخدمات «إنشاء الفلل» (ضبط نسخ المخططات وحماية الجوار)، و«إنشاء المباني السكنية» (مصفوفة مسؤوليات الأنظمة المشتركة)، و«تنفيذ الهيكل الإنشائي» (تصميم وفحص الشدات والدعامات المؤقتة)، في العربية والإنجليزية.
 - تحققنا من قراءة ملفي المحتوى بعد رفعهما؛ 14 عنوان خدمة بكل لغة. هذه إضافة تدقيق جزئي وليست اعتمادًا هندسيًا أو اعتمادًا نهائيًا للتخصص.
 - المتبقي: فحص بقية فقرات الخدمات 1–14 وتكافؤ اللغتين والسلامة التنظيمية، ثم مراجعة بقية تخصصات الشركات وجرد 434 خدمة بكل لغة.
+
+## 2026-11-22 — Commercial building service 3: tenant-interface quotation audit
+
+- Expanded the Arabic and English comparison/contract sections for **إنشاء المباني التجارية** to distinguish shell-and-core from tenant fit-out, unit handover condition, approved service capacities, utility upgrade and meter fees, fire-stopping, connection retesting, common-area handover and permit-fee exclusions.
+- Both content files were fetched again from the specified GitHub branch after each write and matched the submitted text; 14 service headings remain in each language.
+- **Pending:** service 3 independent technical/regulatory review of the remaining sections, then services 4–5 and 7–14, plus a final review of services 1, 2 and 6; thereafter the other 49 company specialties and the 434 bilingual service pairs. Al Jimi remains `in_progress` and Al Muwaiji must not start.

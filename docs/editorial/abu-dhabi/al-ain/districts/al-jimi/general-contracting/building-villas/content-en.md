@@ -110,6 +110,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 **Quote request:** Send the plot survey, available plans, room schedule and site-access photographs. Request a stage-by-stage bill of quantities separating design and approvals, structural work, finishes, testing, connections and external works. Where insulation or façade specifications differ, ask for clearly scoped alternatives rather than comparing a single headline “new villa” price. Biet Al Reef can help prepare an RFQ even if no company is listed; contractor availability, price and timing are not guaranteed.
 
+**Additional independent pre-contract and acceptance check:** For a new villa, compare majlis and bedroom openings against sun exposure and privacy before fixing window positions. Require signed confirmation of plot levels, entrances and tank position before irreversible concrete work. Any future lift or solar-panel provision must be a documented, professionally reviewed design item rather than an assumed structural allowance.
+
 ## 9. Residential annex construction
 
 **When this service is needed and what it covers:** An annex can add bedrooms, living space or separate utility rooms within a property. Habitable rooms, storage and kitchens have different ventilation, drainage, loading and insulation requirements. State the intended use and floor area, and whether the contract includes finishes, cooling, access paths and external works. Do not assume the annex may be attached to the existing villa structure, or built at all, without appropriate assessment and required approvals.
@@ -121,6 +123,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 **Inspection and handover:** Obtain inspection records for foundations, reinforcement, waterproofing and concealed work before closure, together with the agreed water, drainage, electrical and cooling test results. Check surface falls and rainwater drainage at the junction, reinstated access routes, and dated defect closure and reinspection. Visible finishes alone do not demonstrate that a structural connection is sound.
 
 **Requesting a quotation:** Send the site sketch, dimensions, photographs, proposed use and available plans, and request a survey visit before a final price. Ask for an itemised bill of quantities, explicit exclusions, responsibility for design and approvals, inspection hold points and handover records. A quotation request can be submitted through Biet Al Reef even where no company is currently listed for the specialty; company availability, price and timing are not guaranteed.
+
+**Additional independent pre-contract and acceptance check:** For a residential annex, do not assume that power and drainage can simply branch off the villa. Request service routes, available capacity, connection points and a foundation assessment close to existing footings. Allocate responsibility for reinstating paving and protecting existing waterproofing.
 
 ## 10. Outdoor majlis construction
 
@@ -134,6 +138,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 **Quote request:** Send the seating plan, guest capacity, ground-level and service-route photographs, and proposed utility connections. Ask for a measured schedule separating construction and finishes from utility tie-ins, pantry, furniture, paths and parking, with exclusions, permit responsibilities, system tests and handover records.
 
+**Additional independent pre-contract and acceptance check:** For an outdoor majlis, record expected occupancy, washroom and ablution arrangements, fresh-air supply and any kitchen extract route. Approve samples for doors, acoustic treatment and exposed transition areas; document air-conditioning, drainage and water-ingress checks before ceilings are closed.
+
 ## 11. Villa extensions
 
 **When and what is included:** A new room, wing or upper floor must be assessed against the existing villa's structural capacity and utility routes. Independent foundations, engineered connections or strengthening may be necessary; photographs and a square-metre rate cannot establish feasibility. A qualified structural engineer must assess the proposal, with applicable design and approvals established before intrusive work.
@@ -145,6 +151,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 **Acceptance:** Keep inspection records for temporary works, reinforcement, connections and concealed waterproofing; inspect old-to-new junctions, drainage falls and diverted utility tests. Obtain as-built records and a dated defect register. A finished surface does not prove structural adequacy.
 
 **Request a quotation:** Send a sketch of the addition, junction and utility photos and available plans. Request an engineering assessment first, then an itemised construction quotation with exclusions and inspection stages. Biet Al Reef can help prepare the enquiry without guaranteeing a contractor, price or date.
+
+**Additional independent pre-contract and acceptance check:** For a villa extension, obtain a qualified structural assessment of the connection between new and existing work and potential differential movement before deciding the joint detail. Distinguish removing a non-load-bearing partition from altering a structural member, and document resident protection, temporary supports and stop-work triggers if new cracking appears.
 
 ## 12. Residential building alterations
 
@@ -158,6 +166,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 **Request a quotation:** Send before-and-after plans, dimensions, photographs and occupancy restrictions. Ask for a survey, itemised quantities, isolation and waste plans, commissioning checks and explicit exclusions. An enquiry can be prepared through Biet Al Reef without guaranteed provider availability.
 
+**Additional independent pre-contract and acceptance check:** For residential alterations, photograph each existing wall and opening before demolition and locate concealed services, alarms and affected escape routes. Require approved alteration drawings where applicable, plus records of renewed waterproofing and fire-stopping tests after cable and pipe penetrations are changed.
+
 ## 13. Villa restoration
 
 **When and what is included:** Whole-villa restoration coordinates structural, waterproofing and finish repairs; a single local defect may instead suit the separate restoration specialty. Progressive or displaced cracks, settlement or visible distortion require stopping work in the affected area and seeking a qualified structural engineer's safety direction before removal or strengthening. Do not paint over recurring moisture without identifying its source.
@@ -169,6 +179,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 **Acceptance:** Obtain diagnostic and concealed-work records, relevant leak or waterproofing test evidence and dated before-and-after photographs. Set a monitoring period if recommended by the specialist. Cosmetic concealment does not demonstrate structural safety.
 
 **Request a quotation:** Submit a defect log, locations, photographs and available reports. Request a separately priced diagnostic stage followed by an itemised repair scope, materials, tests, exclusions and written concealed-defect variation procedure. Biet Al Reef can help organise an enquiry without guaranteeing a provider or price.
+
+**Additional independent pre-contract and acceptance check:** For villa restoration, distinguish cosmetic repair from correction of the underlying cause: repainting a damp patch does not demonstrate that a leak is fixed. Ask for dated photographs and moisture readings before and after opening inspection areas, and a written variation process for hidden damage to concrete or services.
 
 ## 14. Residential building renovation
 
@@ -185,3 +197,5 @@ This service helps an owner turn the needs of a new household into a measurable 
 ## Biet Al Reef enquiry support
 
 Send the exact service name, location within Al Jimi, available drawings, site photographs, measured quantities and preferred access arrangements. Biet Al Reef customer service can help prepare a request for quotation even when no company is published; a company match, price or appointment is not guaranteed.
+
+**Additional independent pre-contract and acceptance check:** For renovation of an occupied residential building, require a unit-by-unit or floor-by-floor plan showing noisy-work windows, utility shutdowns and alternative access. Record lift and corridor condition before work; allocate responsibility for protecting possessions, clearing debris and keeping emergency exits usable.

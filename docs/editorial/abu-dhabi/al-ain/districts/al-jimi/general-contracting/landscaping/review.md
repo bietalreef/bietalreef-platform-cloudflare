@@ -38,3 +38,7 @@ Added 14 distinct, bilingual contract checkpoints for landscaping services 1–1
 
 - Service 7 only: strengthened Arabic and English acceptance guidance for sun-exposed artificial turf used by children or for seating, including product evidence, surface-temperature checks under representative conditions, and drainage/edge checks. No invented safe temperature threshold or guarantee.
 - Original fourteen service headings and non-selectable classification preserved. Full bilingual editorial certification remains pending.
+
+## 2026-11-21 — Pre-work decision audit, 14 bilingual services
+
+Added 14 distinct Arabic and 14 matching English pre-work decisions, covering site access and drainage, existing assets, planting suitability, irrigation, artificial-turf heat, pruning safety, pest controls, waste separation and maintenance inventories. Both language files were fetched again after saving and matched the intended text. Classification remains non-selectable/preparatory. This is not district-wide technical sign-off; continue with irrigation networks, shade/outdoor works and remaining specialties.

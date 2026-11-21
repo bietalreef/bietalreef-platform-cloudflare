@@ -38,3 +38,8 @@ Next: `general-contracting/landscaping` (Arabic, English, review), then irrigati
   - 7. ترحيل مخلفات الهدم / Demolition waste removal
 - Automated checks for missing numbered pairs, sections shorter than 550 characters and absent quotation wording: no flags under these limited rules.
 - **Still outstanding:** independent human-quality comparison of each service's exclusions, measurements, safety controls, contract responsibility and acceptance criteria; compare near-duplicate wording and confirm classification status against the taxonomy. The area remains `in_progress` and Al Muwaiji must not start.
+
+
+## 2026-11-21 — Seven pre-work decision checks, bilingual
+
+Added a distinct safety/decision checkpoint to each of the seven Arabic and English services: retained-structure survey, annex junction protection, pre-core structural scanning, foundation ground verification, slab pour interruption planning, wall pre-closure checks, and waste segregation/skip access. These are editorial preparation notes, not engineering approvals. Full district audit remains `in_progress`.

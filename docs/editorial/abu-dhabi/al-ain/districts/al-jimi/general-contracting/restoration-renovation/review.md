@@ -89,3 +89,9 @@ Seven source-aligned company service headings in each language, original sequenc
 
 - دُققت الخدمات 1–3 و5–7 بالعربية والإنجليزية، مع تحرير مستقل لمستندات المبنى القديم، واستلام غرف الفلل، وقيود المصاعد والمرافق المشتركة للشقق، وتوثيق حركة الشروخ، وسلامة الواجهات، وسجل إعادة تشغيل المبنى. أُعيدت قراءة ملفي المحتوى بعد الرفع، وبقيت سبع خدمات بكل لغة.
 - **الحالة `in_progress`**: يلزم التدقيق المستقل لبقية الفقرات والاعتمادات الفنية المحلية للخدمات 1–7، ثم `building-villas` 1–14 و`demolition-concrete` 1–7، وبقية تخصصات الشركات عبر القطاعات الثمانية؛ لا يعتمد 434/434 قبل التدقيق النهائي.
+
+
+## 2026-11-21 — Seven bilingual pre-work decision gates
+
+- Added distinct decision checkpoints for services 1–7 in both languages: damp diagnosis and temporary protection; bathroom waterproofing/occupied-room phasing; apartment drawings and neighbour protection; rehabilitation capacity assessment; crack movement escalation; façade fixing design and pedestrian controls; and safe recommissioning before reuse.
+- Verified Arabic and English content by re-fetching both files from the specified branch; seven numbered services remain in each. Technical/regulatory certification and the 434-pair district audit remain outstanding; district status `in_progress`.

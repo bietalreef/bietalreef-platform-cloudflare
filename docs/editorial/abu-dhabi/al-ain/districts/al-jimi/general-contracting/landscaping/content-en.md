@@ -8,6 +8,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Photograph doors, facades and shade; provide plot dimensions, service points and threshold levels.
 
+**Pre-work decision:** Before approving the design, check that seating and play areas leave doors and maintenance routes clear. A visual concept is not a construction drawing without verified site levels.
+
 **Quotation comparison, contract and exclusions:** Compare layout alternatives, planting and irrigation drawings; installation and supply are excluded unless contracted.
 
 **Detailed agreement checkpoints:** Agree the drawing scale, approved survey version, number of options and revision rounds, and who signs off tree and path locations before construction drawings.
@@ -21,6 +23,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Inventory existing trees, beds and seating to retain; agree privacy and access needs.
 
 **Photos, dimensions and specifications:** Supply planted-area measurements, machinery access and utility locations with multiple site photographs.
+
+**Pre-work decision:** Locate buried services before excavation and isolate retained trees and seating from machinery routes; do not remove existing planting without an agreed record.
 
 **Quotation comparison, contract and exclusions:** Price grading, soil, plants, irrigation and lighting separately; assign responsibility for protecting existing finishes.
 
@@ -36,6 +40,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Provide entrance plans, path widths, ground falls, drains and service locations.
 
+**Pre-work decision:** Check rainwater and wash-water paths at thresholds and entrances before approving gradients; attractive paving is not adequate if it drains towards the building.
+
 **Quotation comparison, contract and exclusions:** Compare level plans, facade interfaces and paving specifications; permits and structural works are separate unless stated.
 
 **Detailed agreement checkpoints:** Assign responsibility for the level survey, drainage and utility clashes, and confirm whether buildable junction details are included in the design deliverables.
@@ -49,6 +55,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Assess drainage and water supply before choosing a planted ground cover.
 
 **Photos, dimensions and specifications:** Measure square metres, available soil depth, levels and irrigation points; photograph low spots.
+
+**Pre-work decision:** Assign responsibility for checking soil permeability and excess-water discharge before ordering ground cover; extra watering will not cure poor drainage.
 
 **Quotation comparison, contract and exclusions:** Compare soil preparation, planting layer, plant source and establishment care; identify drainage and waste exclusions.
 
@@ -64,6 +72,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** List species, quantities, container sizes, planting positions and clearances to structures and pipes.
 
+**Pre-work decision:** Assess future root clearance from foundations and pipes and mature canopy spread; do not position a tree solely by its nursery size.
+
 **Quotation comparison, contract and exclusions:** Compare nursery stock, pit preparation, soil, staking, watering and replacement terms; utility relocation is separate.
 
 **Detailed agreement checkpoints:** Approve the species and delivered size schedule, substitution approval process, stress-monitoring period and replacement conditions.
@@ -77,6 +87,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Confirm sunlight, irrigation and surface preparation before turf delivery to avoid drying.
 
 **Photos, dimensions and specifications:** Measure area, water access, watering schedule, soil and shaded zones; photograph levels.
+
+**Pre-work decision:** Test irrigation coverage and soil levels before laying turf rolls; agree who corrects settlement or dry patches.
 
 **Quotation comparison, contract and exclusions:** Specify turf variety and source, grading, establishment period and initial watering responsibility; long-term care is separate.
 
@@ -92,6 +104,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Photograph the existing base; measure lengths, edges and drains and note sun exposure.
 
+**Pre-work decision:** Review likely sun-exposed surface heat, drainage and product evidence, particularly in children's play areas; artificial turf should not be assumed to provide a cool surface.
+
 **Quotation comparison, contract and exclusions:** Compare roll specifications, sub-base, seam adhesive, edge fixing and any infill; approve a physical sample.
 
 **Detailed agreement checkpoints:** Approve a physical roll sample, pile direction, edge-fixing method and sub-base build-up; define correction of wrinkles and poor drainage after installation.
@@ -105,6 +119,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Distinguish decorative beds from permanent planting; match species to light, watering and bed size.
 
 **Photos, dimensions and specifications:** Provide plant schedule, counts, bed dimensions, pipe positions and any damaged root photographs.
+
+**Pre-work decision:** Match species and supplied sizes to sun exposure, salinity and irrigation availability, and approve any substitution before delivery.
 
 **Quotation comparison, contract and exclusions:** Compare plant sizes, soil mix, mulch, supports and replacement terms; irrigation alterations are not automatic.
 
@@ -120,6 +136,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Photograph the full canopy and target limbs; estimate height, lift access and debris collection space.
 
+**Pre-work decision:** Assess branch condition, nearby wiring and buildings, and the potential fall zone before pruning; hazardous work near power lines requires coordination with the competent utility.
+
 **Quotation comparison, contract and exclusions:** Compare pruning plan, access equipment, pedestrian protection and green-waste removal; live-line work needs specialist coordination.
 
 **Detailed agreement checkpoints:** List the trees, permitted working heights, exclusion zones and branch-removal routes, and identify who authorises hazardous limb treatment.
@@ -133,6 +151,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Map yellowing, compaction and bare patches before setting mowing and feeding frequency.
 
 **Photos, dimensions and specifications:** Provide lawn area, photographs of weak zones, sprinkler type and any watering logs.
+
+**Pre-work decision:** Distinguish drought caused by irrigation faults from disease or compacted soil before fertilising or replacing lawn areas.
 
 **Quotation comparison, contract and exclusions:** Compare visit frequency, cutting height, clipping disposal and sprinkler checks; reseeding and pest treatment need explicit scope.
 
@@ -148,6 +168,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Photograph both leaf surfaces and soil; list species, affected counts and irrigation condition.
 
+**Pre-work decision:** Diagnose symptoms and check irrigation and soil before treatment; do not specify a chemical or dosage without identifying the issue and following product instructions.
+
 **Quotation comparison, contract and exclusions:** Compare diagnosis, any required tests, product, dosage and follow-up; recovery of severely damaged plants cannot be assumed.
 
 **Detailed agreement checkpoints:** Require diagnosis before treatment selection; record materials and application rates according to authorised labels and instructions, with a reinspection date.
@@ -161,6 +183,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Identify the pest and affected area before choosing treatment; avoid unnecessary blanket spraying.
 
 **Photos, dimensions and specifications:** Provide close-up pest images, affected plant counts, water sources and presence of children or pets.
+
+**Pre-work decision:** Record the pest, its location and proximity to children, pets and water sources; a qualified provider should determine controls, exclusion measures and re-entry conditions.
 
 **Quotation comparison, contract and exclusions:** Compare integrated pest management, authorised product, re-entry precautions and follow-up visits; indoor pest control is separate.
 
@@ -176,6 +200,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Photos, dimensions and specifications:** Photograph waste volumes, paths, drains and furniture or planting requiring protection.
 
+**Pre-work decision:** Agree green-waste removal routes and separation of sharps and unknown substances; suspected hazardous material must not be mixed with routine garden clippings.
+
 **Quotation comparison, contract and exclusions:** Compare collection, sorting, loading, lawful disposal and transport; pressure washing is not necessarily included.
 
 **Detailed agreement checkpoints:** Separate leaf collection from pruning and bulky waste hauling; agree the collection point and evidence of lawful removal.
@@ -189,6 +215,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **When and what to commission:** Create a schedule separating mowing, irrigation, pruning, feeding and monitoring with urgent-call procedures.
 
 **Photos, dimensions and specifications:** Provide a garden plan, tree counts, lawn areas, irrigation assets and baseline photographs.
+
+**Pre-work decision:** Before contracting, inventory plants, pumps and valves with their condition and identify existing faults excluded from routine visits so they cannot be confused with new maintenance charges.
 
 **Quotation comparison, contract and exclusions:** Compare visit frequency, labour hours, consumables, spare parts and replacements; define response and missed-visit remedies.
 

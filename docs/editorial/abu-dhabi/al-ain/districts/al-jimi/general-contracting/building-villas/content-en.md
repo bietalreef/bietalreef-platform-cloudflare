@@ -84,9 +84,7 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 
 **Inspection and acceptance:** Reconcile the approved finish schedule room by room; witness operation of the contracted AC, lighting, pumps and appliances with the responsible specialists. Record model numbers, warranties, commissioning results and outstanding snags, with an agreed remedy before final sign-off.
 
-**Quote request:** Attach the room-by-room finish and appliance schedule and request separate supply, installation, commissioning, warranty and handover-document costs. Require an exclusions list for utility connections and activation, external works and owner-supplied equipment.
-
-**Additional technical checks for pricing and acceptance:** Do not rely on the phrase “ready to occupy” in a turnkey offer. Attach a finishes-and-equipment schedule with specified brands, models or measurable quality levels, owner-supplied items, external-works boundaries, connection charges and exclusions. Require documented commissioning of electrical, water and AC systems, waterproofing test records, as-built drawings, warranties, equipment manuals and a dated defects-closeout list before final payment.
+**Quote request:** Send a room-by-room schedule of measured areas, finishes and approved samples, specifying brands, models or measurable performance grades for equipment and fittings. Require separate prices for supply, installation, commissioning, testing, handover documents and warranties, with explicit responsibility for fitting owner-supplied items, utility connection and meter activation charges, and external works. Link final payment to applicable documented electrical, water, AC and waterproofing tests, as-built drawings, operating manuals, warranties and a dated defects list identifying repair responsibility and reinspection dates. “Ready to occupy” alone is not an acceptance specification.
 
 ## 8. New villa construction
 

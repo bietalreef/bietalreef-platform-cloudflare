@@ -14,6 +14,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Contract-specific check:** Before opening up old fabric, photograph and tag elements to retain; allocate the decision process and cost of emergency propping if hidden weakness appears, and pause affected work for specialist review.
 
+**Pre-work decision:** Ask whether salts, rising damp or leaking services caused the damage. Stripping plaster or repainting is not a permanent remedy until the water source is identified. If opening-up exposes weak structural fabric, secure the area and obtain competent assessment before further removal.
+
 **Request a quotation:** Attach dated moisture and crack photographs, a plan marking fabric to retain and any available structural report. Request separate prices for investigation, limited opening-up, temporary support and repairs, with exclusions and a written variation procedure for concealed damage.
 
 ## 2. Villa renovation
@@ -27,6 +29,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Handover checks:** Inspect each room against its approved layout and finish schedule: operate cabinet doors and drawers, inspect tile levels and joints, and have competent trades test lighting, sockets and drainage. For bathrooms, obtain the agreed waterproofing test record and concealed-pipe photographs before covering up. Record defects with owners and rectification dates, then re-inspect before closing the room's handover sheet.
 
 **Contract-specific check:** Attach an occupied-room schedule; assign furniture moving, protection and staged cleaning, and require written approval of tile or cabinetry substitutions before ordering.
+
+**Pre-work decision:** For every bathroom, establish whether only tiles are removed or whether waterproofing and pipework are replaced, and who signs off waterproofing tests before concealment. For occupied rooms, define dust isolation and the point at which each room is safe to use.
 
 **Request a quotation:** Send a room schedule showing finishes to remove or retain, with photographs and whether the villa remains occupied. Request room-by-room pricing for strip-out, protection, materials and installation, plus utility shutdown windows, sample approvals and change control.
 
@@ -42,6 +46,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Contract-specific check:** Agree lift bookings and material routes with building management, photograph common corridors and lift condition before and after, and assign responsibility for damage to shared property.
 
+**Pre-work decision:** Do not remove partitions or reroute services using a marketing floor plan alone; obtain reliable drawings or competent inspection and building-management or statutory approvals where applicable. Agree controls against dust and water migration to neighbouring units.
+
 **Request a quotation:** Attach the apartment plan, doorway and lift clearances, before-work corridor photographs and building management rules. Ask for shared-area protection and waste removal to be priced separately from finishes, with noise windows and responsibility for reinstating common property.
 
 ## 4. Building rehabilitation
@@ -55,6 +61,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Handover checks:** Obtain as-built records, applicable load and ventilation test reports, and inspection records for escape routes and accessibility against the proposed use. Keep a snag register with an owner, deadline and retest evidence for each item; request operator training and maintenance records where relevant. A successful trial run or closed technical snag list is not a substitute for applicable authority approvals or occupancy permission.
 
 **Contract-specific check:** State who supplies original drawings and records, who verifies structural and services suitability, and who pays application fees, tests and failed-test repeats. Make opening-up investigations and assessment a priced stage with defined deliverables; do not authorize substantial alterations before the required design approvals. Agree written change-order rules for concealed defects, and distinguish contractor completion records from statutory approvals.
+
+**Pre-work decision:** Do not compare construction-only bids before the safety assessment and proposed-use requirements are known. If exit capacity or system capacity cannot be substantiated, commission an independent assessment rather than assuming compliance.
 
 **Request a quotation:** Send the Al Jimi site location, present and proposed uses, floor areas, anticipated occupant numbers and operating hours, existing-condition plans and any inspection reports. Request staged prices for measured survey, investigation, engineering assessment, approval drawings and fees, construction, commissioning tests and finishes. Require stated assumptions, exclusions and a schedule of handover evidence. Biet Al Reef customer service may help prepare the enquiry but cannot guarantee a company, price or date.
 
@@ -70,6 +78,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Contract-specific check:** Agree crack gauge positions, reading dates and who interprets results; keep injection or strengthening decisions separate from repainting and record diagnosis before concealment.
 
+**Pre-work decision:** If a crack widens or fresh settlement or distortion appears during monitoring, suspend cosmetic repair and obtain renewed engineering assessment before approving injection or strengthening. Record who remains responsible for post-repair monitoring.
+
 **Request a quotation:** Provide dated crack photographs with a scale, plan locations and any movement history. Commission engineering diagnosis as a separate stage before pricing injection or strengthening; require monitoring responsibility, written repair acceptance criteria and follow-up provisions.
 
 ## 6. Façade refurbishment
@@ -84,6 +94,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Contract-specific check:** Require an approved finish and fixing sample, a pedestrian-protection plan for work at height, and photographs of repaired water-entry paths behind cladding before closure. Assign competent review of substrate suitability and cladding loads, approval of scaffold or access-platform arrangements and applicable permits, and a written process for newly discovered loose fabric so no elevation or public route is left unsafe.
 
+**Pre-work decision:** Before installing new cladding, obtain approval of edge, opening and joint fixing details against the actual substrate; an appearance sample alone does not establish system safety. Keep pedestrian routes protected until inspections are complete.
+
 **Request a quotation:** Send full-elevation photographs, close-ups of loose cladding and joints, and access heights. Request separate prices for access and protection, removal, root-cause repair and replacement finishes, specifying fixings and water-ingress checks.
 
 ## 7. Preparing a building for reuse
@@ -97,6 +109,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Handover checks:** Witness essential-system operation and receive closed defect records, keys and agreed documents. Witness and record a separate functional test for each essential system, including its reading or result and sign-off owner; reconcile keys and equipment identifiers with the handover register.
 
 **Contract-specific check:** Stage recommissioning with recorded electrical, water, cooling and life-safety tests, a residual-defects register and named repair decisions; partial test passes are not occupancy approvals.
+
+**Pre-work decision:** Identify which systems require testing before reoccupation, who is authorised to energise and restart them, and which defects prohibit use. A passed test on one item of equipment is not proof that the whole building is ready.
 
 **Request a quotation:** Attach an equipment and defect register, meter readings, panel and valve locations and any maintenance records. Request separate prices for readiness tests, critical repairs, cleaning and witnessed restart, with clear repair exclusions and delivery of keys and records.
 

@@ -68,3 +68,9 @@ Seven source-aligned company service headings in each language, original sequenc
 - Strengthened service 4 in both languages with anticipated occupant counts, operating hours, electrical and structural load evidence, ventilation, exit/accessibility review and a clear distinction between site photographs and professional compliance assessment.
 - Read back both language files on the specified branch; this is a targeted editorial correction, not regulatory certification.
 - Status: `in_progress`. Next: independently review remaining service 4 paragraphs, then services 1–3 and 5–7 for full bilingual parity, safety and approvals; review building-villas 1–14, demolition-concrete 1–7 and all other company specialties before district sign-off.
+
+## 2026-11-21 — تدقيق مستقل لبنود العروض والاستلام: إعادة تأهيل المباني (4)
+
+- قورنت فقرتا العروض والاستلام للخدمة الرابعة بين اللغتين، وأُعيد تحريرهما لإظهار مرحلة الدراسة قبل أعمال التأهيل، وفصل أنظمة السلامة والخدمات عن التشطيبات، وتحديد مسؤولية الاستشاري والتصاريح وإعادة الاختبار والتغييرات المخفية.
+- أضيفت قائمة استلام تربط المخططات النهائية وتقارير الاختبارات ومحاضر مخارج الإخلاء وإمكانية الوصول بسجل الملاحظات، مع التأكيد أن التشغيل التجريبي ليس إذن إشغال. بقيت الخدمات السبع في كل لغة.
+- المتبقي: تدقيق الخدمة الرابعة في النطاق والمستندات والعقد وطلب السعر مقابل المتطلبات المحلية المعمول بها، ثم الخدمات 1–3 و5–7، ثم `building-villas` 1–14 وبقية التخصصات والقطاعات؛ الحالة `in_progress` ولا يبدأ المويجعي.

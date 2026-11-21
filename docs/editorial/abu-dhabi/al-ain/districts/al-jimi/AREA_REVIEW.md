@@ -2050,3 +2050,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - الحالة `in_progress`. عُدّلت فقرة الصور والمقاسات والمواصفات في `general-contracting/restoration-renovation` للخدمة الرابعة بالعربية والإنجليزية، لتشمل أعداد المستخدمين وساعات التشغيل والأحمال الكهربائية والإنشائية والتهوية والإخلاء وإمكانية الوصول، مع منع اعتبار الصور دليل اعتماد. أعيدت قراءة ملفي المحتوى بعد الرفع وتطابقا.
 - [العربية](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [المراجعة](./general-contracting/restoration-renovation/review.md).
 - **أول نقص دقيق:** تدقيق بقية فقرات الخدمة 4 ثم الخدمات 1–3 و5–7 في `restoration-renovation`، مع تدقيق `building-villas` 1–14 فنيًا وتنظيميًا، ثم `demolition-concrete` 1–7 وبقية تخصصات الشركات عبر القطاعات الثمانية. لا يُعتمد اكتمال 434 خدمة بكل لغة، ولا يبدأ المويجعي.
+
+## 2026-11-21 — الجيمي: مقارنة عروض واستلام إعادة تأهيل المباني (الخدمة 4)
+
+- الحالة: `in_progress`؛ حررت فقرتي مقارنة العروض والاستلام في [العربية](./general-contracting/restoration-renovation/content-ar.md) و[English](./general-contracting/restoration-renovation/content-en.md)، مع [سجل التدقيق](./general-contracting/restoration-renovation/review.md). فُصل تقييم الحالة عن التنفيذ، ومسؤوليات التصاريح والاختبارات، وسجلات الاستلام، دون افتراض إذن إشغال.
+- **أول نقص تالٍ:** تدقيق فقرات النطاق والأدلة والملاحظة التعاقدية وطلب السعر للخدمة 4، ثم الخدمات 1–3 و5–7 في `restoration-renovation`، ثم مراجعة `building-villas` 1–14 و`demolition-concrete` 1–7 وسائر التخصصات؛ مراجعة نهائية لـ434 خدمة بكل لغة قبل الانتقال إلى المويجعي.

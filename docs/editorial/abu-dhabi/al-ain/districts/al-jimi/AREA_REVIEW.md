@@ -2055,3 +2055,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة: `in_progress`؛ حررت فقرتي مقارنة العروض والاستلام في [العربية](./general-contracting/restoration-renovation/content-ar.md) و[English](./general-contracting/restoration-renovation/content-en.md)، مع [سجل التدقيق](./general-contracting/restoration-renovation/review.md). فُصل تقييم الحالة عن التنفيذ، ومسؤوليات التصاريح والاختبارات، وسجلات الاستلام، دون افتراض إذن إشغال.
 - **أول نقص تالٍ:** تدقيق فقرات النطاق والأدلة والملاحظة التعاقدية وطلب السعر للخدمة 4، ثم الخدمات 1–3 و5–7 في `restoration-renovation`، ثم مراجعة `building-villas` 1–14 و`demolition-concrete` 1–7 وسائر التخصصات؛ مراجعة نهائية لـ434 خدمة بكل لغة قبل الانتقال إلى المويجعي.
+
+## 2026-11-21 — استكمال تدقيق إعادة تأهيل المباني (الخدمة 4)
+
+- **الحالة: `in_progress`.** أُعيد تحرير نطاق العمل والملاحظة التعاقدية وطلب عرض السعر في [العربية](./general-contracting/restoration-renovation/content-ar.md) و[الإنجليزية](./general-contracting/restoration-renovation/content-en.md) للخدمة الرابعة، مع توضيح الفصل بين التقييم والتصميم والتنفيذ والموافقات والتكاليف والاستلام. [سجل التخصص](./general-contracting/restoration-renovation/review.md).
+- أُعيدت قراءة الملفين من GitHub بعد الكتابة وتأكد وجود 7 خدمات في كل لغة.
+- **أول نقص دقيق تالٍ:** مراجعة الخدمات 1–3 و5–7 في `general-contracting/restoration-renovation` فقرةً فقرةً، ثم التدقيق الفني والتنظيمي للخدمات 1–14 في `general-contracting/building-villas`، ثم `demolition-concrete` و`landscaping` و`irrigation-networks` و`shade-outdoor-works` وبقية تخصصات الشركات في القطاعات الثمانية. لا يُعتمد اكتمال الجيمي قبل تدقيق 434 خدمة بكل لغة، ولا يبدأ المويجعي.

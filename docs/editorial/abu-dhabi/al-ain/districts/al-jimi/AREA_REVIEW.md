@@ -2044,3 +2044,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - **الحالة: `in_progress`**. أُعيد تحرير الخدمات 11 «توسعة الفلل»، 12 «تعديل المباني السكنية»، 13 «ترميم الفلل»، 14 «تجديد المباني السكنية» كاملةً باللغتين، مع فصل حالات الاستخدام والقياسات والصور والمواصفات والمقايسة والعقود والاستلام وطلب عرض السعر. [العربية](./general-contracting/building-villas/content-ar.md) · [English](./general-contracting/building-villas/content-en.md) · [مراجعة التخصص](./general-contracting/building-villas/review.md).
 - أعيدت قراءة ملفي المحتوى من الفرع المحدد بعد الكتابة؛ **14 عنوانًا في كل لغة**. لا يمثل ذلك اعتمادًا هندسيًا أو تنظيميًا.
 - **أول نقص تالٍ:** التدقيق الفني والتنظيمي المستقل للخدمات 1–14 في `general-contracting/building-villas`، ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7 و`landscaping` 1–14 و`irrigation-networks` 1–7 و`shade-outdoor-works` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية، مع فحص تطابق الأسماء والتغطية والجودة للخدمات الـ434 في كل لغة. لا يبدأ المويجعي قبل اعتماد الجيمي بالكامل.
+
+## 2026-11-21 — إعادة تأهيل المباني: تدقيق الأدلة الثنائية (الخدمة 4)
+
+- الحالة `in_progress`. عُدّلت فقرة الصور والمقاسات والمواصفات في `general-contracting/restoration-renovation` للخدمة الرابعة بالعربية والإنجليزية، لتشمل أعداد المستخدمين وساعات التشغيل والأحمال الكهربائية والإنشائية والتهوية والإخلاء وإمكانية الوصول، مع منع اعتبار الصور دليل اعتماد. أعيدت قراءة ملفي المحتوى بعد الرفع وتطابقا.
+- [العربية](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [المراجعة](./general-contracting/restoration-renovation/review.md).
+- **أول نقص دقيق:** تدقيق بقية فقرات الخدمة 4 ثم الخدمات 1–3 و5–7 في `restoration-renovation`، مع تدقيق `building-villas` 1–14 فنيًا وتنظيميًا، ثم `demolition-concrete` 1–7 وبقية تخصصات الشركات عبر القطاعات الثمانية. لا يُعتمد اكتمال 434 خدمة بكل لغة، ولا يبدأ المويجعي.

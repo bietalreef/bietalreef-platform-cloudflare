@@ -51,3 +51,7 @@ Added seven distinct contract checkpoints in Arabic and English, addressing valv
 
 - عُدلت بنود الاتفاق للخدمة 1 في اللغتين لتشترط مخطط قطاعات مرقمًا، والضغط والتصرف التصميميين، ومواقع المحابس والمرشحات والغسيل، وتحديد مسؤولية إعادة التصميم عند اختلاف قياسات المصدر، والتحقق من الخدمات المدفونة قبل الحفر.
 - تحققت إعادة قراءة ملفي المحتوى بعد الرفع؛ الأسماء السبعة والترتيب لم يتغيرا. لا يزال مطلوبًا فحص الاتساق الدلالي للخدمات 1–7 ضمن تدقيق المنطقة، ولا يُفهم من النص تفعيل التصنيف.
+
+## 2026-11-21 — Bilingual pre-work decisions (7 services)
+
+Added seven service-specific checkpoints to each language file: measured hydraulic inputs, filtration and emitter trial, sprinkler drift, pump protection, maintenance fault diagnosis, controller recovery and leak isolation. Read both content files back after saving and confirmed the updates. Category remains non-selectable/preparatory, not a claim of available suppliers or an engineering approval. Area-wide semantic and safety review remains outstanding.

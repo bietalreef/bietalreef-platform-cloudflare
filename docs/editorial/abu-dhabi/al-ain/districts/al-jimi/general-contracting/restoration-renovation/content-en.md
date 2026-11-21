@@ -48,7 +48,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Need and scope:** A change of use may require reassessment of ventilation, electrical capacity and exits. Define the intended use and life-safety gaps; exclude occupancy before required approvals.
 
-**Photos, dimensions and specifications:** Provide the proposed occupancy, existing drawings and condition reports for structure and services. Document available switchboard and cooling capacity, intended occupancy and existing exit drawings.
+**Photos, dimensions and specifications:** Supply existing-condition drawings, the proposed activity, expected occupant numbers and operating hours, with photographs of switchboards, cooling plant, entrances, stairs and exits. Ask qualified designers to document anticipated electrical and structural loads, ventilation, escape routes and accessibility, and identify gaps against the intended use; photographs alone do not establish compliance.
 
 **Quotation comparison and agreement:** Separate life-safety and essential-system upgrades from decorative work, and allocate design and approval duties. Assign responsibility for testing reports, permits and delivery of safety and operating documentation.
 

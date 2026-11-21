@@ -2102,3 +2102,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة `in_progress`. أضيفت سبع نقاط تعاقد وسلامة مختلفة بالعربية والإنجليزية إلى [المحتوى العربي](./general-contracting/shade-outdoor-works/content-ar.md) و[English](./general-contracting/shade-outdoor-works/content-en.md)، مع [سجل المراجعة](./general-contracting/shade-outdoor-works/review.md). لا يعني هذا تفعيل التخصص أو ضمان وجود شركة.
 - **النواقص التالية بدقة:** تدقيق `general-contracting/building-villas` الخدمات 1–14 فنيًا وتنظيميًا، ثم `restoration-renovation` 1–7، و`demolition-concrete` 1–7، و`landscaping` 1–14، و`irrigation-networks` 1–7، و`shade-outdoor-works` 1–7 على مستوى المطابقة النهائية، ثم باقي تخصصات الشركات في القطاعات الثمانية؛ جرد وتدقيق 434 خدمة في كل لغة قبل اعتماد الجيمي. لا يبدأ المويجعي.
+
+
+## 2026-11-21 — نطاق الخدمات 3–5: المباني التجارية والبلوك والخرسانة
+
+- مراجعة نطاق ثلاث خدمات بالعربية والإنجليزية، مع فصل الأعمال الأساسية عن تجهيزات المستأجرين، وأعمال البلوك عن التغييرات الإنشائية، والصب عن التصميم والاعتماد الفني. لا ادعاء بتوفر شركة أو موافقة تنظيمية.
+- حالة الجيمي `in_progress`؛ يلزم تدقيق بقية فقرات الخدمات 1–14، ثم بقية تخصصات الشركات والـ434 خدمة بكل لغة قبل الاعتماد أو الانتقال للمويجعي.

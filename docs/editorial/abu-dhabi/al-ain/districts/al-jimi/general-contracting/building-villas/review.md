@@ -197,3 +197,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Read both saved content files back from the designated branch; each retains 14 numbered company-service headings, with acceptance and RFQ text in every service.
 - Automated keyword scan (not engineering certification) found explicit permit/approval vocabulary missing in Arabic services 9, 12 and 13, although service 9 and 12 paragraphs do describe approvals in other wording; service 13 needs an explicit applicability check. Several Arabic services do not use the literal word استثناء despite discussing scope boundaries. These are editorial flags, not proof of missing requirements.
 - **Still open:** full bilingual paragraph-by-paragraph semantic, safety and originality audit of services 1–14; restoration-renovation 1–7, demolition-concrete 1–7, landscaping 1–14, irrigation-networks 1–7, shade-outdoor-works 1–7 and all other company specialties across eight sectors; final 434-service-per-language check. No specialty or district approval yet.
+
+## 2026-11-21 — Villa restoration (service 13): structural safety and approval parity
+
+- Expanded the Arabic and English contract-comparison sections to require escalation for progressive/displaced cracking or settlement, a qualified structural engineer's direction, and a check of applicable structural-alteration drawings/permits/approvals; separated hidden-defect variation approval and finish reinstatement from cosmetic repair.
+- Re-read both content files from the target branch after each write; each retains 14 numbered services. This is a targeted safety and bilingual parity correction, not engineering certification or specialty approval.
+- **Remaining:** independently compare all five content dimensions of building-villas services 1–14, including service 13's other paragraphs, then restoration-renovation 1–7, demolition-concrete 1–7 and remaining company specialties. Status remains `in_progress` at district level.

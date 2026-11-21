@@ -14,6 +14,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Handover inspection:** Check vehicle clearance, post positions, foundation fixings, runoff and safe edges; compare anchor locations and quantities with the approved design, request foundation photos before concealment and a fixing-inspection report from a qualified specialist against the approved design, and obtain material and finish warranties. Such a report does not replace any required statutory inspection or approval.
 
+**Pre-contract decision:** If parking is next to an existing wall or utility entrance, do not assume the wall can support a canopy. Ask the designer to confirm whether the shade is freestanding or fixed to verified structural elements, and show where roof runoff reaches neighbouring areas and walkways.
+
 ## 2. Pergola construction
 
 **Detailed contract terms:** Approve pergola structure and drainage fall; separate lighting.
@@ -25,6 +27,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Scope, exclusions and quotation comparison:** Compare spans, sections, fixings, materials, finishes and weather resistance; obtain competent design checks for wind and structural loading where required. Exclude furniture, electrical works and flooring unless itemised. Record pergola spans, anchor locations and required structural checks; approve finish and covering samples, and price lighting connections separately.
 
 **Handover inspection:** Compare clear span, height, foundation and anchor positions with the approved drawing; inspect alignment, secure joints and safe edges. For a rainproof cover, test runoff away from doors and walls and inspect the flashing where it meets the building rather than assuming sealant alone is permanent waterproofing. Request photographs of concealed fixings and any required structural inspection report, and confirm future access for anchor maintenance.
+
+**Pre-contract decision:** For pergolas that may later carry climbing plants or additional panels, ask for the intended design load and permitted future additions. A visual rendering or catalogue photo does not replace site-specific fixing and loading details.
 
 ## 3. Outdoor seating construction
 
@@ -40,6 +44,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Seating usability check:** Before approving fixed benches, trace access, serving and cleaning routes on the drawing; specify seat height, depth and exposed edges. For timber or composite decking, request joint, under-deck ventilation and removable access details. An indoor-looking sample is not evidence that a finish is suitable outdoors.
 
+**Pre-contract decision:** If the seating scheme includes a fire feature or outdoor kitchen, separate it from paving and bench works. Have relevant specialists assess ventilation, clearances and service routes; never assume flame-producing equipment is included in the seating contractor's scope.
+
 ## 4. External fence installation
 
 **Detailed contract terms:** Document boundaries, posts, gates and permit responsibility.
@@ -53,6 +59,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Handover inspection:** Check alignment, post spacing, gate and lock operation and safe edges; verify the approved boundary against the accepted survey rather than relying on visual alignment alone.
 
 **Gate and privacy check:** Record each gate's swing, vehicle or pedestrian clearance and lock position. Compare leaf weight, hinges and bracing with the fabricator's detail. Where ground levels differ, obtain a drawing showing transitions and runoff; do not obstruct drains or maintenance access.
+
+**Pre-contract decision:** For a fence next to a street, neighbour or service corridor, establish the verified site boundary and responsibility for temporary protection before dismantling the old fence. Do not excavate or alter levels before the necessary boundary, utility and approval checks.
 
 ## 5. Garden pathway construction
 
@@ -68,6 +76,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Access and levels check:** Distinguish clear walking width from planting and edging widths, and photograph door thresholds before work. Where accessible use is needed, have gradients, widths, joints and slip performance checked against applicable site requirements rather than accepting a vague claim that the path suits everyone.
 
+**Pre-contract decision:** Where the pathway passes near established tree trunks, request a reroute or root-protection detail before approving excavation. The quotation should describe how irrigation and soil levels will be restored, not just the paving appearance.
+
 ## 6. Interlock paving
 
 **Detailed contract terms:** Approve interlock sample, joints and settlement remedy.
@@ -82,6 +92,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 
 **Pavement build-up check:** Do not compare only the rate per square metre. Ask each bidder for base and bedding thicknesses, compaction approach and edge restraints for the intended loading, plus inspection before laying pavers. Photograph service covers before covering work and allocate responsibility for settlement where new trenches meet old paving.
 
+**Pre-contract decision:** Where interlock paving crosses recent fill or a utility trench, request records of backfill layers, compaction and pre-paving inspection. Distinguish sub-base settlement from defective pavers in the warranty and specify the remedy.
+
 ## 7. Water features and fountains
 
 **Detailed contract terms:** Separate pumps, waterproofing and lighting; test electrical safety.
@@ -95,6 +107,8 @@ This is preparatory information for the companies and establishments taxonomy, n
 **Handover inspection:** Require leak and pump-operation tests and safe shutdown; check noise, overspray, maintenance access and operating instructions and a filter-cleaning and pump-isolation schedule, together with documented electrical-protection testing by a qualified specialist.
 
 **Operation and maintenance check:** Request a drawing showing suction and return lines, cleaning openings, strainers and a way to remove the pump without breaking finishes. Agree on low-water shutdown, filter-cleaning responsibility and measures to restrict unsupervised child access appropriate to the site design.
+
+**Pre-contract decision:** For open-basin fountains, ask the designer to assess slip risks, unsupervised access, suction points and electrical interfaces, and identify who tests and signs off safeguards. A trial run alone is not proof of safety.
 
 ## Preparing a quotation request
 

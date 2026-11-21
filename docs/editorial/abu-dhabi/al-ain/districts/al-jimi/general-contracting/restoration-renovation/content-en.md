@@ -46,7 +46,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 ## 4. Building rehabilitation
 
-**Need and scope:** A change of use may require reassessment of ventilation, electrical capacity and exits. Define the intended use and life-safety gaps; exclude occupancy before required approvals.
+**Need and scope:** For rehabilitation of an existing building, whether to restore its performance or support a different use, first establish the intended activity, structural and building-services condition and maintenance history before selecting finishes. Separate the existing-condition assessment and design of modifications from construction. Neither a change of use nor increased occupancy is automatically permitted; competent professionals and relevant authorities must review the proposal. Findings may require a revised scope or suspension of affected works pending safety assessment.
 
 **Photos, dimensions and specifications:** Supply existing-condition drawings, the proposed activity, expected occupant numbers and operating hours, with photographs of switchboards, cooling plant, entrances, stairs and exits. Ask qualified designers to document anticipated electrical and structural loads, ventilation, escape routes and accessibility, and identify gaps against the intended use; photographs alone do not establish compliance.
 
@@ -54,9 +54,9 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Handover checks:** Obtain as-built records, applicable load and ventilation test reports, and inspection records for escape routes and accessibility against the proposed use. Keep a snag register with an owner, deadline and retest evidence for each item; request operator training and maintenance records where relevant. A successful trial run or closed technical snag list is not a substitute for applicable authority approvals or occupancy permission.
 
-**Contract-specific check:** Price baseline surveys and system tests separately from remedial work they reveal; do not describe the building as approved for a new use before specialist and authority checks.
+**Contract-specific check:** State who supplies original drawings and records, who verifies structural and services suitability, and who pays application fees, tests and failed-test repeats. Make opening-up investigations and assessment a priced stage with defined deliverables; do not authorize substantial alterations before the required design approvals. Agree written change-order rules for concealed defects, and distinguish contractor completion records from statutory approvals.
 
-**Request a quotation:** Provide the intended new use, as-built plans and available building-services condition reports. Ask for separate pricing of studies and approvals, life-safety upgrades, commissioning and finishes, naming the party responsible for each test and handover record.
+**Request a quotation:** Send the Al Jimi site location, present and proposed uses, floor areas, anticipated occupant numbers and operating hours, existing-condition plans and any inspection reports. Request staged prices for measured survey, investigation, engineering assessment, approval drawings and fees, construction, commissioning tests and finishes. Require stated assumptions, exclusions and a schedule of handover evidence. Biet Al Reef customer service may help prepare the enquiry but cannot guarantee a company, price or date.
 
 ## 5. Structural crack remediation
 

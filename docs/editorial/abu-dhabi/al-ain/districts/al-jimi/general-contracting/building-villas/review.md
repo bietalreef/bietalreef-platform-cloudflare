@@ -215,3 +215,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Consolidated the duplicated extra technical-check paragraph into a single actionable Arabic and English RFQ for service 5, covering pour volumes, approved mix, access, construction joints, separate bid lines, rejected loads, inspection evidence and qualified repair approval.
 - Read both content files back from the specified GitHub branch; both retained all 14 original service sections. This is a targeted editorial correction, not technical sign-off.
 - Next: audit service 6 (structural frame) end to end, especially repeated additional-check paragraphs, then services 7–14; revisit 1–5 for full bilingual safety/semantic validation. District remains `in_progress`.
+
+## 2026-11-21 — Structural frame service 6 consolidation
+
+- Replaced the duplicated technical addendum and repeated drawing request with a single five-part, service-specific treatment in Arabic and English. It now distinguishes structural execution from design and finishes, identifies revision-controlled drawings and service penetrations, separates temporary works and survey pricing, and requires pre-pour hold points and floor-specific acceptance evidence.
+- Both language files were read back from the editorial branch and retain all 14 service headings.
+- **Still pending:** independent detailed review of services 7–14, then 1–6 for regulatory/engineering accuracy and full bilingual parity; final audit of restoration-renovation, demolition-concrete, the other company specialties and all 434 bilingual services. Not certified or approved.

@@ -2091,3 +2091,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 - أضيفت 14 نقطة قرار قبل التنفيذ بالعربية و14 مقابلاً بالإنجليزية إلى [تنسيق الحدائق وصيانتها بالعربية](./general-contracting/landscaping/content-ar.md) و[الإنجليزية](./general-contracting/landscaping/content-en.md)؛ جرى التحقق من الملفين بإعادة قراءتهما بعد الحفظ.
 - المحتوى تحضيري للتصنيف غير القابل للاختيار، ولا يثبت توفر شركة أو سعر أو موعد.
 - **أول نطاق تالٍ:** تدقيق `general-contracting/irrigation-networks/content-ar.md` ثم `content-en.md` و`review.md`، ثم `general-contracting/shade-outdoor-works`، ثم بقية التخصصات والقطاعات حتى فحص 434 خدمة في كل لغة ومطابقة الشجرة والتكرار والسلامة. لا تعتمد المنطقة مكتملة دون فحص شامل.
+
+## متابعة شبكات الري — 2026-11-21
+
+- الحالة: `in_progress`؛ أضيفت سبع نقاط قرار عملية بالعربية وسبع بالإنجليزية إلى [شبكات الري العربية](./general-contracting/irrigation-networks/content-ar.md) و[English](./general-contracting/irrigation-networks/content-en.md)، وتحقق الحفظ بإعادة القراءة.
+- التخصص غير قابل للاختيار والمعلومات تحضيرية فقط؛ لا ضمان لشركة أو سعر أو موعد.
+- **أول نقص تالٍ:** `general-contracting/shade-outdoor-works/content-ar.md` ثم `content-en.md` و`review.md`؛ بعدها تدقيق جميع تخصصات القطاعات الأخرى ومطابقة 434 خدمة في كل لغة والتفرّد والسلامة والتصنيفات. لا تبدأ المويجعي.

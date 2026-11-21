@@ -8,7 +8,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Provide dated defect photographs, crack dimensions, original finish details and a structural assessment where necessary. Record original mortar and cladding types, affected areas and protection of retained details.
 
-**Quotation comparison and agreement:** Compare root-cause treatment against cosmetic work, including temporary support and protection of sound existing elements. Agree inspection hold points after opening up and before closing concealed or historic fabric.
+**Quotation comparison and agreement:** Compare root-cause treatment against cosmetic work, including temporary support and protection of sound existing elements. Agree inspection hold points after opening up and before closing concealed or historic fabric. Require a separate compatibility trial for repair materials against existing fabric, with moisture investigation priced apart from surface finishes.
 
 **Handover checks:** Inspect repaired areas and moisture test evidence before concealed finishes are closed. Mark repaired zones on the building plan, inspect concealed-layer photographs before close-up, and record any deferred defects or areas requiring further observation rather than covering them.
 
@@ -22,7 +22,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Supply a room schedule, kitchen and bathroom photographs and marked service relocation points. Provide room dimensions, chosen floor and paint finishes, cabinetry details and temporary storage needs.
 
-**Quotation comparison and agreement:** Compare demolition, protection, supply and installation separately; approve finish samples and concealed-defect variations. Set room-by-room milestones, approved samples, furniture protection and a process for hidden defects.
+**Quotation comparison and agreement:** Compare demolition, protection, supply and installation separately; approve finish samples and concealed-defect variations. Set room-by-room milestones, approved samples, furniture protection and a process for hidden defects. Price bathroom waterproofing and its agreed flood test separately from tile replacement; identify who reinstalls sanitary fixtures.
 
 **Handover checks:** Test doors, drainage and electrics, and check junctions between retained and replacement finishes. Walk through each room against a separate snag list; check floor-joint alignment, cabinet-door operation and the installed electrical points against approved samples and layouts.
 
@@ -36,7 +36,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Document room sizes, kitchen and bathroom defects, access windows and building management rules. Attach apartment dimensions, door and lift clearances and protection specifications for shared flooring.
 
-**Quotation comparison and agreement:** Compare corridor protection, debris transport, water shutdowns and noisy-work arrangements. Agree permitted work hours, lift protection, debris handling and liability for shared-area damage.
+**Quotation comparison and agreement:** Compare corridor protection, debris transport, water shutdowns and noisy-work arrangements. Agree permitted work hours, lift protection, debris handling and liability for shared-area damage. Specify the material-delivery route, lift booking, any management charges and advance notice for shared-water shutdowns.
 
 **Handover checks:** Check utilities and finishes, then inspect shared corridors and lifts for damage. Compare the lift and shared-corridor condition against pre-work photographs with the building representative, recording scratches, leftover debris and agreed reinstatement actions.
 
@@ -64,7 +64,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Provide dated photographs with a width scale, its position on a plan and any observed progression. Measure crack width, length and direction, with dated monitoring points before specifying repair materials.
 
-**Quotation comparison and agreement:** Compare investigation, monitoring and engineer-designed strengthening or injection where appropriate. Tie injection or strengthening to the engineer's report, monitoring evidence and written acceptance criteria.
+**Quotation comparison and agreement:** Compare investigation, monitoring and engineer-designed strengthening or injection where appropriate. Tie injection or strengthening to the engineer's report, monitoring evidence and written acceptance criteria. Distinguish monitoring an active crack from repairing a diagnosed stable one; visible crack length alone cannot price injection.
 
 **Handover checks:** Review the diagnostic report, repair records and monitoring plan before repainting. Compare dated crack-width readings before and after repair, and obtain the engineer's recommended monitoring period and triggers for reassessment if movement resumes.
 
@@ -78,7 +78,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Provide full-elevation photos, close-ups of joints and edges, access heights and existing material types. Measure elevation areas, joint locations, cladding types and required access-platform heights.
 
-**Quotation comparison and agreement:** Compare access equipment, safe removal, substrate repair, waterproofing and the new fixing system. Agree access certification, cladding fixings and the method for checking water ingress.
+**Quotation comparison and agreement:** Compare access equipment, safe removal, substrate repair, waterproofing and the new fixing system. Agree access certification, cladding fixings and the method for checking water ingress. Where the cladding system requires it, price substrate checks or sample fixing trials and treatment of joints and window junctions.
 
 **Handover checks:** Check cladding security, movement joints and drainage, and inspect the site after access equipment removal. Inspect sample cladding anchors, joint terminations at openings and drainage edges, documenting loose panels or staining while safe access remains in place.
 
@@ -92,7 +92,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Photos, dimensions and specifications:** Provide an equipment and defect register, meter photos and any available maintenance history. List equipment identifiers, operational condition, valve and panel locations and available maintenance records.
 
-**Quotation comparison and agreement:** Separate operational repairs from appearance upgrades, including testing, cleaning and key handover. Agree a test checklist for each system, restart responsibilities, warranties and variation boundaries.
+**Quotation comparison and agreement:** Separate operational repairs from appearance upgrades, including testing, cleaning and key handover. Agree a test checklist for each system, restart responsibilities, warranties and variation boundaries. Classify defects as barriers to safe restart or deferrable items, and name who supplies parts and approves safety tests.
 
 **Handover checks:** Witness essential-system operation and receive closed defect records, keys and agreed documents. Witness and record a separate functional test for each essential system, including its reading or result and sign-off owner; reconcile keys and equipment identifiers with the handover register.
 

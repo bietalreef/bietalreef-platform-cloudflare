@@ -6,7 +6,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Need and scope:** Survey moisture, floor settlement and wall condition before deciding which existing fabric should be preserved. Define retained fabric, temporary support and controlled removal; exclude structural changes without assessment and approval.
 
-**Photos, dimensions and specifications:** Provide dated defect photographs, crack dimensions, original finish details and a structural assessment where necessary. Record original mortar and cladding types, affected areas and protection of retained details.
+**Photos, dimensions and specifications:** Photograph both faces of a damp wall where accessible, showing the stain's position relative to floor and ceiling; date the images and include a scale beside cracks. Record plaster thickness, verified original mortar and cladding types, affected dimensions and details to retain. Ask the competent specialist whether material sampling or moisture tests are needed before selecting a repair; do not assume modern cement mortar is compatible with every older wall.
 
 **Quotation comparison and agreement:** Compare root-cause treatment against cosmetic work, including temporary support and protection of sound existing elements. Agree inspection hold points after opening up and before closing concealed or historic fabric. Require a separate compatibility trial for repair materials against existing fabric, with moisture investigation priced apart from surface finishes.
 
@@ -24,7 +24,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Quotation comparison and agreement:** Compare demolition, protection, supply and installation separately; approve finish samples and concealed-defect variations. Set room-by-room milestones, approved samples, furniture protection and a process for hidden defects. Price bathroom waterproofing and its agreed flood test separately from tile replacement; identify who reinstalls sanitary fixtures.
 
-**Handover checks:** Test doors, drainage and electrics, and check junctions between retained and replacement finishes. Walk through each room against a separate snag list; check floor-joint alignment, cabinet-door operation and the installed electrical points against approved samples and layouts.
+**Handover checks:** Inspect each room against its approved layout and finish schedule: operate cabinet doors and drawers, inspect tile levels and joints, and have competent trades test lighting, sockets and drainage. For bathrooms, obtain the agreed waterproofing test record and concealed-pipe photographs before covering up. Record defects with owners and rectification dates, then re-inspect before closing the room's handover sheet.
 
 **Contract-specific check:** Attach an occupied-room schedule; assign furniture moving, protection and staged cleaning, and require written approval of tile or cabinetry substitutions before ordering.
 
@@ -34,7 +34,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Need and scope:** An apartment renovation in an occupied block needs agreed working hours and lift protection. Specify lift access, noise windows, waste routes and permissions; exclude changes to common property without consent.
 
-**Photos, dimensions and specifications:** Document room sizes, kitchen and bathroom defects, access windows and building management rules. Attach apartment dimensions, door and lift clearances and protection specifications for shared flooring.
+**Photos, dimensions and specifications:** Photograph the apartment, approach corridor and lift before work. Supply room plans, floor areas, door openings and the lift's internal height, depth and management-stated load limit. Attach permitted hours, noise rules, lift booking and debris procedures; identify authorized water and electrical isolation points without assuming permission to alter shared systems.
 
 **Quotation comparison and agreement:** Compare corridor protection, debris transport, water shutdowns and noisy-work arrangements. Agree permitted work hours, lift protection, debris handling and liability for shared-area damage. Specify the material-delivery route, lift booking, any management charges and advance notice for shared-water shutdowns.
 
@@ -62,7 +62,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Need and scope:** Do not fill a crack cosmetically before assessing whether it reflects structural movement or surface shrinkage. Where cracking is accompanied by visible displacement, progressive settlement or distorted doors and walls, stop work that could aggravate the hazard and seek urgent assessment by a qualified structural engineer; restrict access to affected areas as they advise. Commission engineering diagnosis and movement monitoring separately; do not assume injection or strengthening is appropriate.
 
-**Photos, dimensions and specifications:** Provide dated photographs with a width scale, its position on a plan and any observed progression. Measure crack width, length and direction, with dated monitoring points before specifying repair materials.
+**Photos, dimensions and specifications:** Photograph each crack square-on under consistent lighting with a ruler and date; mark its position, direction, approximate width and length on the floor plan. Record when it appeared, any changes after rain or adjacent works, and related settlement or sticking doors. A qualified structural engineer must specify monitoring instruments, reading intervals and interpretation. Do not expose or inject a load-bearing element on photographs alone.
 
 **Quotation comparison and agreement:** Compare investigation, monitoring and engineer-designed strengthening or injection where appropriate. Tie injection or strengthening to the engineer's report, monitoring evidence and written acceptance criteria. Distinguish monitoring an active crack from repairing a diagnosed stable one; visible crack length alone cannot price injection.
 
@@ -74,7 +74,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 ## 6. Façade refurbishment
 
-**Need and scope:** Investigate loose cladding, peeling coatings and rainwater entry before choosing replacement finishes. Map removal and repair zones and safe access; exclude unassessed structural alterations.
+**Need and scope:** Where panels are loose or water marks appear around windows, first identify falling-material hazards and protect people below before inspection. Separate investigation of substrate, movement joints and water paths from stripping and replacement; repainting alone will not resolve concealed water ingress. Changes to heavy cladding fixings or supporting elements need competent design review and a safe work-at-height access plan.
 
 **Photos, dimensions and specifications:** Provide full-elevation photos, close-ups of joints and edges, access heights and existing material types. Measure elevation areas, joint locations, cladding types and required access-platform heights.
 
@@ -90,7 +90,7 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Need and scope:** A vacant building may still be unfit for occupation because of failed cooling, electrical faults or leaks. List essential readiness tests and repair limits; exclude redesign of systems unless separately commissioned.
 
-**Photos, dimensions and specifications:** Provide an equipment and defect register, meter photos and any available maintenance history. List equipment identifiers, operational condition, valve and panel locations and available maintenance records.
+**Photos, dimensions and specifications:** Prepare an asset register with each equipment ID, location and last known operating date, supported by switchboard, meter, valve, leak and fault-display photographs. Record how long the building has been vacant and the condition of ventilation, water, drainage and life-safety systems; attach available services drawings and maintenance reports. Have qualified trades assess safe re-energisation and restart before testing rather than assuming previously operating plant is safe.
 
 **Quotation comparison and agreement:** Separate operational repairs from appearance upgrades, including testing, cleaning and key handover. Agree a test checklist for each system, restart responsibilities, warranties and variation boundaries. Classify defects as barriers to safe restart or deferrable items, and name who supplies parts and approves safety tests.
 

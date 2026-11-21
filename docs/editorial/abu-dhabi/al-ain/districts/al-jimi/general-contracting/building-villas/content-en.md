@@ -60,9 +60,7 @@ Concrete pricing depends on the actual elements, specified mix, access for deliv
 
 **Inspection and acceptance:** Obtain pre-pour formwork, reinforcement, concrete-cover and service-embed inspection records. Match delivery tickets to the approved mix and sampling/test logs; record pour sequence, construction joints, curing and formwork striking under the responsible engineer's instructions. Refer visible honeycombing or cracking for qualified assessment before concealment or repair; appearance alone does not establish concrete strength.
 
-**Quote request:** Request a pour-by-pour breakdown of concrete grade, reinforcement, formwork, pumping, laboratory testing, curing and contingency for rejected loads.
-
-**Additional technical checks for pricing and acceptance:** Before each pour, have the appointed consultant confirm the specified concrete grade, delivery and transport constraints, casting sequence, curing plan and permitted construction joints. Ask bidders to price formwork, reinforcement, concrete, pumping and tests separately. Review pre-pour formwork, reinforcement and cover inspection records and test results; any honeycombing or structural defect needs a repair method approved by the qualified professional.
+**Quote request:** Attach a pour schedule showing each element, its volume, the approved concrete grade, permitted construction-joint locations and pump access. Ask bidders to separate concrete supply, reinforcement, formwork, pumping, laboratory sampling and testing, and curing. Identify who bears delivery delays, rejected loads and retesting costs. Require pre-pour inspection records, a curing plan and a qualified engineer's approval of any honeycombing repair method; this guidance is not engineering approval.
 
 ## 6. Structural frame construction
 

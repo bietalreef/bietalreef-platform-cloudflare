@@ -2084,3 +2084,10 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة `in_progress`: أُضيفت سبع نقاط قرار مختلفة في كل لغة لخدمات `general-contracting/demolition-concrete`، تشمل حماية المبنى المتبقي ومسح الخدمات وفحص التأسيس وخطة الصب وفحص الشدة وفرز المخلفات. [العربية](./general-contracting/demolition-concrete/content-ar.md) · [English](./general-contracting/demolition-concrete/content-en.md) · [المراجعة](./general-contracting/demolition-concrete/review.md).
 - النواقص التالية: التدقيق المستقل الفني والتنظيمي لخدمات `general-contracting/restoration-renovation` 1–7 و`building-villas` 1–14 و`demolition-concrete` 1–7، ثم `landscaping` 1–14 و`irrigation-networks` 1–7 و`shade-outdoor-works` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية ومراجعة تطابق 434 خدمة لكل لغة. لا يبدأ المويجعي.
+
+## متابعة تحريرية — 2026-11-21: تنسيق الحدائق وصيانتها
+
+- الحالة: `in_progress`، دون اعتماد اكتمال الجيمي أو الانتقال إلى المويجعي.
+- أضيفت 14 نقطة قرار قبل التنفيذ بالعربية و14 مقابلاً بالإنجليزية إلى [تنسيق الحدائق وصيانتها بالعربية](./general-contracting/landscaping/content-ar.md) و[الإنجليزية](./general-contracting/landscaping/content-en.md)؛ جرى التحقق من الملفين بإعادة قراءتهما بعد الحفظ.
+- المحتوى تحضيري للتصنيف غير القابل للاختيار، ولا يثبت توفر شركة أو سعر أو موعد.
+- **أول نطاق تالٍ:** تدقيق `general-contracting/irrigation-networks/content-ar.md` ثم `content-en.md` و`review.md`، ثم `general-contracting/shade-outdoor-works`، ثم بقية التخصصات والقطاعات حتى فحص 434 خدمة في كل لغة ومطابقة الشجرة والتكرار والسلامة. لا تعتمد المنطقة مكتملة دون فحص شامل.

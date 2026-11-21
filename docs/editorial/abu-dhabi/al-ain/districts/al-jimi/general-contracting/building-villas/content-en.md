@@ -30,7 +30,7 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 A retail or office building must fit its intended occupancy, deliveries, tenant access and future fit-out rather than merely resemble a reference façade.
 
-**What to document and measure:** Include intended use, clear heights, loading access, floor loading requirements and any tenant service allocation; photograph adjoining roads and boundaries.
+**What to document and measure:** Provide the proposed use and floor-by-floor tenancy area schedule, clear heights, loading-bay and delivery-door dimensions, floor loading requirements, façade drawings and allocated electricity, water, drainage and ventilation interfaces for each unit. Photograph adjoining roads, delivery access and boundaries; distinguish design assumptions from confirmed tenant requirements.
 
 **Compare quotations and agree boundaries:** Distinguish base-building work from tenant fit-out, signage, specialist ventilation and utility upgrades. Record the intended use of each commercial floor, responsibility for fire-safety and exit approvals, the testing of tenant service connection points and the agreed handover stages. Require a written schedule of finishes and interfaces.
 

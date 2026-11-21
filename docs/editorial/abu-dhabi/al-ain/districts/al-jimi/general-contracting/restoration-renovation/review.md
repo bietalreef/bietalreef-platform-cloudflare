@@ -62,3 +62,9 @@ Seven source-aligned company service headings in each language, original sequenc
 - Compared all seven Arabic/English service pairs in this specialty for scope, photographs/dimensions, quotation boundaries, handover and contract-specific clauses. Found the key safety omission in service 5: progressive settlement or visible displacement was not explicitly escalated before repair work.
 - Added matching Arabic and English stop-work / urgent qualified-engineer assessment / access-restriction guidance to service 5. This is an editorial risk flag, not an engineering diagnosis or approval.
 - Remaining independent checks: local regulatory applicability and technical validation for all seven services, originality and cross-specialty overlap, and district-wide review of 434 services per language. District remains `in_progress`.
+
+## 2026-11-21 — Change-of-use evidence parity (service 4)
+
+- Strengthened service 4 in both languages with anticipated occupant counts, operating hours, electrical and structural load evidence, ventilation, exit/accessibility review and a clear distinction between site photographs and professional compliance assessment.
+- Read back both language files on the specified branch; this is a targeted editorial correction, not regulatory certification.
+- Status: `in_progress`. Next: independently review remaining service 4 paragraphs, then services 1–3 and 5–7 for full bilingual parity, safety and approvals; review building-villas 1–14, demolition-concrete 1–7 and all other company specialties before district sign-off.

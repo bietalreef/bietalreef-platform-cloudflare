@@ -8,6 +8,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Photos and measurements:** Supply planting plan, water source, available pressure and flow readings, levels and buried services.
 
+**Pre-work decision:** Verify the source of flow and pressure measurements under representative operation and separate planting with different water demands; do not finalise pipe sizes before checking losses and available pressure.
+
 **Quotation, contract and exclusions:** Compare hydraulic calculations, pipe diameters, valves, filters and maintenance access; excavation and installation are separate unless included.
 
 **Handover:** Check coverage of remote zones, valve access and independent isolation. Match final zone drawings to the flow schedule and available pressure; confirm isolation valves, backflow protection and zone identifiers are documented before accepting the design.
@@ -21,6 +23,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Purpose and scope:** Map plant spacing and root depth so emitters wet roots without soaking trunks or leaving bed edges dry.
 
 **Photos and measurements:** Photograph beds; measure row lengths, plant counts and locate supply, filter and regulator.
+
+**Pre-work decision:** Check water quality, filtration, flushing and emitter placement relative to roots; trial one representative zone before burying pipework.
 
 **Quotation, contract and exclusions:** Compare emitter flow rates, filtration, line fixing and flushing method; main supply repairs are separate.
 
@@ -36,6 +40,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Photos and measurements:** Measure lawn widths, paving edges, obstacles and operating pressure; photograph boundaries.
 
+**Pre-work decision:** Check sprinkler overlap and direct spray away from walls, paths and pedestrians; test coverage under representative wind conditions before acceptance.
+
 **Quotation, contract and exclusions:** Compare nozzle range, heads, zones and control valves; paving reinstatement must be specified separately.
 
 **Handover:** Observe a full watering cycle for dry strips, overspray and ponding. Test coverage along paving edges under representative wind conditions and log overspray and any settlement around sprinkler heads.
@@ -49,6 +55,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Purpose and scope:** Estimate storage demand, flow and elevation before selecting a pump or tank.
 
 **Photos and measurements:** Provide tank-space dimensions, electrical supply, suction/discharge route and highest outlet elevation.
+
+**Pre-work decision:** Review tank capacity, dry-run protection, isolation, drainage, ventilation and safe access, with electrical inspection by a qualified person.
 
 **Quotation, contract and exclusions:** Compare pump curve, tank, valves, dry-run protection and mounting base; electrical and civil works require explicit scope.
 
@@ -64,6 +72,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Photos and measurements:** Provide fault locations, zone IDs, recurrence and any pressure readings.
 
+**Pre-work decision:** Determine whether poor irrigation results from blocked filters, pressure loss or leakage, and isolate the affected zone before replacing sound components.
+
 **Quotation, contract and exclusions:** Compare diagnosis, parts, excavation, reinstatement and retesting; controllers and pumps are separate unless listed.
 
 **Handover:** Run each affected zone and record post-repair pressure, leaks and reinstated surfaces. Compare pressure readings before and after the repair in the affected zone, and inspect reinstatement and access to every repaired valve or joint.
@@ -78,6 +88,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Photos and measurements:** Photograph controller model and display; list zone names, current schedules and plant concerns.
 
+**Pre-work decision:** Record existing schedules, permitted watering windows, seasonal settings and shade zones; test manual override and restoration after power interruption.
+
 **Quotation, contract and exclusions:** Compare programming, sensor checks, saved settings and user handover; new wiring and valves are separate.
 
 **Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature. Receive a written start time and duration for each zone, and test cancellation using the stop command or rain sensor where fitted. Follow the controller manual to check what happens to the schedule and clock after power interruption and restoration, recording any reset required. Identify who can change schedules and how account access is transferred if the controller is internet-connected. Do not assume seasonal settings suit every plant without reviewing actual water use.
@@ -91,6 +103,8 @@ This category is **currently non-selectable**. Information is preparatory and do
 **Purpose and scope:** Distinguish normal watering from leakage by checking the meter with zones off and testing zones individually.
 
 **Photos and measurements:** Provide damp-spot locations, timing, meter readings and any pipe layout.
+
+**Pre-work decision:** Isolate zones and compare pressure and flow before excavation, documenting buried services; surface dampness alone cannot pinpoint a leak.
 
 **Quotation, contract and exclusions:** Compare tracing method, accuracy limits, exploratory excavation and reporting; detection does not automatically include repair or reinstatement.
 

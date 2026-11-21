@@ -2125,3 +2125,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - Status: `in_progress`. Expanded the Arabic evidence and measurements paragraph for service 3 in [building-villas Arabic](./general-contracting/building-villas/content-ar.md), aligning numbered tenancy areas, clear heights, loading access, meters, drainage/ventilation interfaces and approved-versus-proposed use with the already detailed [English](./general-contracting/building-villas/content-en.md). See [specialty review](./general-contracting/building-villas/review.md).
 - **First incomplete work:** service 3 independent technical/regulatory paragraph audit; then services 4–5 and 7–14, revisit 1–2 and 6; next restoration-renovation 1–7, demolition-concrete 1–7, landscaping 1–14, irrigation-networks 1–7, shade-outdoor-works 1–7 and remaining company specialties across all eight sectors. Full bilingual review of 434 service pairs is not complete. Do not start Al Muwaiji.
+
+
+## 2026-11-22 — تدقيق مستقل للخدمات 4 و5 و7
+
+- الحالة: `in_progress`. أضيفت فقرات تدقيق تعاقدي وفني مستقلة بالعربية والإنجليزية إلى خدمات **تنفيذ أعمال البناء** (نموذج الجدار والربط ومجاري الخدمات)، **تنفيذ الأعمال الخرسانية** (استمرارية توريد الصب ونتائج العينات)، و**تسليم المشاريع بنظام المفتاح** (مصفوفة التسليم والضمانات). لم تُعدّل أسماء الخدمات الأربع عشرة أو ترتيبها.
+- **المتبقي أولًا:** تدقيق الخدمة 3 نهائيًا، ثم 8–14، وإعادة فحص 1–2 و6 و4–5 و7؛ بعد ذلك تخصصات `restoration-renovation` و`demolition-concrete` و`landscaping` و`irrigation-networks` و`shade-outdoor-works` ثم جميع تخصصات القطاعات الأخرى. مطابقة 434 خدمة بكل لغة والجودة والسلامة والقيود لم تعتمد؛ لا يبدأ المويجعي.

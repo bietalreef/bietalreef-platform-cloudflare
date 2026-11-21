@@ -2066,3 +2066,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة `in_progress`: حسّنت مقارنة عروض الخدمات 1–3 و5–7 بالعربية والإنجليزية، مع تفاصيل مختلفة للاختبارات والتوريد والمسؤوليات. [العربية](./general-contracting/restoration-renovation/content-ar.md) · [English](./general-contracting/restoration-renovation/content-en.md) · [المراجعة](./general-contracting/restoration-renovation/review.md).
 - أول نقص: تدقيق بقية فقرات الخدمات 1–3 و5–7 في `restoration-renovation` ثم التدقيق المستقل لـ`building-villas` 1–14 و`demolition-concrete` 1–7 وبقية التخصصات عبر القطاعات الثمانية؛ فحص 434 خدمة بكل لغة قبل اعتماد الجيمي أو بدء المويجعي.
+
+## 2026-11-21 — تحرير أدلة وفحوص ست خدمات في الترميم والتجديد
+
+- الحالة `in_progress`: جرى تحسين الأدلة والصور والمقاسات للخدمات 1 و3 و5 و7، وتحسين فحص الاستلام للخدمة 2 ونطاق العمل للخدمة 6، بالعربية والإنجليزية، في [المحتوى العربي](./general-contracting/restoration-renovation/content-ar.md) و[الإنجليزي](./general-contracting/restoration-renovation/content-en.md) و[المراجعة](./general-contracting/restoration-renovation/review.md). تم التحقق بإعادة القراءة من الفرع.
+- **أول نقص:** تدقيق باقي الفقرات والمخاطر التنظيمية للخدمات 1–7 في `general-contracting/restoration-renovation`، ثم تدقيق `building-villas` 1–14 و`demolition-concrete` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية والتحقق الشامل من 434 خدمة في كل لغة. لا يبدأ المويجعي حتى اكتمال الجيمي.

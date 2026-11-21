@@ -2020,3 +2020,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - **الحالة: `in_progress`.** دُمجت فقرتا طلب عرض السعر والتفصيل الفني المكرر في خدمة «تسليم المشاريع بنظام المفتاح» بالعربية والإنجليزية؛ أصبح النص يربط جدول الغرف والعينات والموديلات بالتسعير المنفصل للتوريد والتركيب والتشغيل والاختبارات والضمان، ومحاضر الأنظمة والمخططات النهائية وقائمة العيوب قبل الدفعة الأخيرة. [العربية](./general-contracting/building-villas/content-ar.md) · [English](./general-contracting/building-villas/content-en.md) · [المراجعة](./general-contracting/building-villas/review.md). أُعيدت قراءة الملفين وتحقق وجود 14 خدمة في كل لغة.
 - **أول نقص دقيق تالٍ:** تدقيق الخدمة 8 «بناء الفلل الجديدة» ثم الخدمات 9–14 فقرةً فقرةً، وإعادة مراجعة الخدمات 1–7 فنيًا وتنظيميًا، ثم `restoration-renovation` 1–7 و`demolition-concrete` 1–7 و`landscaping` 1–14 و`irrigation-networks` 1–7 و`shade-outdoor-works` 1–7 وبقية تخصصات الشركات في القطاعات الثمانية. لا يعتمد اكتمال 434 خدمة بكل لغة ولا يبدأ المويجعي قبل انتهاء التدقيق.
+
+## Editorial continuation — 2026-11-21
+
+- Rewrote general-contracting/building-villas service 8 (بناء الفلل الجديدة / New villa construction) in Arabic and English. Read back both files on the specified branch; 14 headings in each.
+- Status: in_progress. Next: service 9 بناء الملاحق السكنية, then services 10–14, re-audit 1–8; restoration-renovation 1–7, demolition-concrete 1–7, and the remaining company specialties across all eight sectors. All 434 services in both languages require final editorial certification.
+- Markdown-only editorial changes; no code, database, merge or deployment.

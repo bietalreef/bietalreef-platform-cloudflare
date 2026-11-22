@@ -55,3 +55,8 @@ Added seven distinct contract checkpoints in Arabic and English, addressing valv
 ## 2026-11-21 — Bilingual pre-work decisions (7 services)
 
 Added seven service-specific checkpoints to each language file: measured hydraulic inputs, filtration and emitter trial, sprinkler drift, pump protection, maintenance fault diagnosis, controller recovery and leak isolation. Read both content files back after saving and confirmed the updates. Category remains non-selectable/preparatory, not a claim of available suppliers or an engineering approval. Area-wide semantic and safety review remains outstanding.
+
+## 2026-11-22 — ضبط تسليم صلاحيات برمجة الري (الخدمة 6)
+
+- عُدلت بنود الاتفاق بالعربية والإنجليزية لتشمل جدول القطاعات وأوقات التشغيل وحدود التعديل، ونسخة الإعدادات والاستعادة، ونقل ملكية الحساب وإزالة وصول الفني عند وجود متحكم متصل، ومعايرة الحساسات واختبار الانقطاع. استُثني إصلاح الأسلاك والصمامات وتوفير الإنترنت ما لم يذكر العرض خلاف ذلك.
+- التصنيف غير قابل للاختيار؛ مراجعة تحريرية تحضيرية وليست ضمانًا أو اعتمادًا هندسيًا. **المتبقي:** تدقيق فقرات الخدمات 1–7 في الري بالكامل، ثم المظلات والأعمال الخارجية 1–7، وتدقيق باقي تخصصات الجيمي قبل اعتماد 434 خدمة بكل لغة.

@@ -60,3 +60,10 @@ Added seven service-specific checkpoints to each language file: measured hydraul
 
 - عُدلت بنود الاتفاق بالعربية والإنجليزية لتشمل جدول القطاعات وأوقات التشغيل وحدود التعديل، ونسخة الإعدادات والاستعادة، ونقل ملكية الحساب وإزالة وصول الفني عند وجود متحكم متصل، ومعايرة الحساسات واختبار الانقطاع. استُثني إصلاح الأسلاك والصمامات وتوفير الإنترنت ما لم يذكر العرض خلاف ذلك.
 - التصنيف غير قابل للاختيار؛ مراجعة تحريرية تحضيرية وليست ضمانًا أو اعتمادًا هندسيًا. **المتبقي:** تدقيق فقرات الخدمات 1–7 في الري بالكامل، ثم المظلات والأعمال الخارجية 1–7، وتدقيق باقي تخصصات الجيمي قبل اعتماد 434 خدمة بكل لغة.
+
+## 2026-11-22 — Independent structured bilingual audit (services 1–7)
+
+- Read the complete Arabic and English files directly from the target branch. Verified all seven exact Arabic company-service names and their order against TAXONOMY_SOURCE_AR.md; English has seven aligned numbered sections.
+- Checked each service for seven independent elements: purpose/scope, photos and measurements, pre-work technical decision, comparison/exclusions, handover, detailed agreement and a service-specific quotation request. All seven elements are present in both languages for each service.
+- Safety cautions cover water backflow, electrical commissioning, buried utilities and controller-account handover. This is an editorial structural and semantic spot-check, not engineering approval or a claim of available providers.
+- Specialty review remains `in_progress` for deeper technical validation, cross-specialty duplication checks and full area-wide audit of 50 specialties/434 services per language.

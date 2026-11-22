@@ -119,3 +119,9 @@ Seven source-aligned company service headings in each language, original sequenc
 - الخدمة 1: إضافة معيار عملي للأملاح والرطوبة، واختبار توافق مواد الإصلاح على عينة محدودة، وفصل ضمان التنفيذ عن مصدر الرطوبة المستثنى في اللغتين.
 - الخدمة 3: إضافة توثيق الأجزاء المشتركة وحماية الجيران، وقواعد نقل المخلفات، ومحاضر اختبار العزل والصرف قبل استلام الشقة في اللغتين.
 - لا تعني الإضافتان اعتمادًا هندسيًا أو اكتمال التكافؤ؛ النواقص: مراجعة بقية بنود الخدمات 1–7 سطرًا بسطر، ثم إنشاء المباني والفلل 1–14 والحدائق 1–14، وباقي تخصصات الشركات حتى مراجعة 434 زوجًا. الحالة `in_progress`.
+
+## 2026-11-22 — Building reuse service 7: scope and handover parity
+
+- Added distinct Arabic/English guidance for proposed-use feasibility, occupancy and operating hours, exit/accessibility drawings, utility capacities, separating suitability assessment and authority decisions from works, and reconciling as-built records with approved use at handover.
+- Both language files were re-fetched after writes and each retains seven original numbered company-service headings.
+- Pending: independent full-paragraph technical and language audit of services 1–7; the other company specialties and final 434 bilingual pairs. This is not an authority approval. Specialty and district remain `in_progress`.

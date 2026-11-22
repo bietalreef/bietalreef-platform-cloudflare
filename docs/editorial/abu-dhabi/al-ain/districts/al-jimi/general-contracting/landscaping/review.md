@@ -46,3 +46,8 @@ Added 14 distinct Arabic and 14 matching English pre-work decisions, covering si
 ## 2026-11-22 — Independent checks for services 10–13
 
 Added distinct bilingual checks to lawn maintenance (moisture and sprinkler evidence), plant feeding (diagnosis and treatment traceability), garden pest control (product suitability, drift prevention and re-entry), and garden cleaning (waste segregation and disposal evidence). Both content files were re-fetched after writes; all 14 headings remain in each language. Status remains `in_progress`; services 1–9 and 14 still require independent paragraph-by-paragraph quality and semantic review, followed by irrigation-networks 1–7, shade-outdoor-works 1–7, other company specialties and full 434-pair district certification. No activation or supplier availability is implied.
+
+## 2026-11-22 — مراجعة قرارات الاستلام والتعاقد للخدمات 1–9 و14
+
+- أضيفت عشر فقرات مختلفة بالعربية وعشر مقابلة بالإنجليزية: توثيق مصادر الري في التصميم، حماية الموجود، مقاطع العتبات، تأسيس الغطاء النباتي، فحص توريد الأشجار، متابعة تجذير العشب الطبيعي، نفاذية العشب الصناعي وحرارته، خريطة الزراعة، سلامة تقليم الأشجار، وسجلات عقود الصيانة.
+- أُعيد جلب ملفي المحتوى بعد الكتابة، وحُفظت العناوين الأربع عشرة بالترتيب. **الحالة `in_progress`** حتى تدقيق التكافؤ الكامل للخدمات 1–14 ومراجعة الري والمظلات وجميع تخصصات المنطقة. التصنيف غير قابل للاختيار، ولا ضمان شركة أو سعر أو موعد.

@@ -16,6 +16,8 @@ This service covers the overall villa construction contract and its design, stru
 
 **Quote request:** Attach the room schedule, floor areas, available approved plans and site-access photographs. Request separate foundation, structural and finishing quantities, plus an explicit included/excluded schedule for boundary walls, external paving, landscaping, electricity, water and drainage connections and their fees. Identify who arranges each connection and at what stage; do not assume they are included in a floor-area rate.
 
+**Change and acceptance evidence review:** If an entrance level, tank location or service room changes during villa construction, require an approved revision before work and record its effect on waterproofing, drainage and vehicle access. At handover, verify paving falls and roof outlets against test records rather than appearance alone.
+
 ## 2. Residential building construction
 
 For a multi-unit residential building, the number of apartments is only part of the scope: stairs, lifts, parking, shared meters and service shafts affect cost and coordination.
@@ -30,6 +32,8 @@ For a multi-unit residential building, the number of apartments is only part of 
 
 **Quote request:** Attach the apartment count and area schedule, parking, stair and lift drawings and shared plant-room plans. Request separate prices for apartments, common-area finishes, lifts, shared mechanical/electrical and life-safety systems, and commissioning. Identify apartment fit-out boundaries, permit and utility-connection responsibilities and fees, written exclusions, and staged handover dates.
 
+**Shared-system handover review:** Link each shared-building defect to a system identifier, location and responsible party, with operation manuals and isolation points. Finished apartments do not substitute for as-built drawings, plant-room keys and commissioning records for the shared services.
+
 ## 3. Commercial building construction
 
 A commercial building project combines leasable units with shared corridors, loading areas and building services. Before pricing the shell, record each floor's proposed use, clear unit heights and goods entrances: a retail unit and a restaurant may need different ventilation, drainage and loading provisions. Separate the base-building contract from tenant fit-out, signage and commercial kitchens. Do not imply a future tenant use is approved simply because the unit can be leased. Assign qualified responsibility for escape routes, life-safety review and authority submissions.
@@ -41,6 +45,8 @@ A commercial building project combines leasable units with shared corridors, loa
 **Inspection and acceptance:** Record each tenancy's service handover interface separately, including the agreed supply capacity; do not assume the base-building provision suits any later tenant use without qualified review. Measure clear shop heights, delivery-door widths, service corridors and façade openings against approved drawings. Confirm that each tenancy has its agreed electrical, water, drainage and ventilation connection points, with test records and applicable fire-stopping at penetrations. Record whether handover covers the base building only; tenant fit-out and any separate approvals must not be silently treated as complete.
 
 **Quote request:** Attach intended floor uses, tenancy areas, clear heights, loading and entrance layouts, and service plans. Request separate shell-and-core and tenant-fit-out pricing, including signage and specialist ventilation exclusions. Identify who provides and tests each tenant connection point, who secures the applicable safety approvals, and which future works and fees are excluded.
+
+**Commercial unit readiness review:** At base-building handover, record each unit's allocated connections, actual condition and tested boundaries, including reserved but unused penetrations. Approval of a tenant's intended activity, fit-out and specific life-safety provisions remains separate unless expressly included in the contract and relevant approvals.
 
 ## 4. General building works
 
@@ -56,6 +62,8 @@ This is a defined blockwork package after the structural grid and frame have bee
 
 **Quote request:** Send approved wall layouts, the opening schedule and access photographs. Ask bidders to return a comparable quantity sheet showing gross and net wall areas, the opening-deduction convention, the programme and the block-delivery sequence. Require explicit inclusions or exclusions for block-to-frame junction treatment, permitted service chasing and making good, and waste removal. Changes to openings or service chases need the responsible technical approval first; quantity differences should be documented as written variations before work proceeds.
 
+**Concealed masonry evidence review:** Before plastering, photograph block-to-column junctions, lintels and service chases with a scale and date; record remediation of cracks or irregularities before concealment. Do not accept increased masonry quantities without opening deductions and the agreed measurement method.
+
 ## 5. Concrete works
 
 This service covers defined pours—foundations, columns, slabs or floors—against approved structural documents, not structural design itself. Distinguish structural concrete from blinding or levelling layers and state whether reinforcement, formwork, pumping, curing and testing are included. Before pouring, coordinate service penetrations, permitted construction joints, truck access and the engineer's inspection hold points. A contractor's price cannot replace engineering approval of changes to concrete grade, reinforcement or formwork-striking times.
@@ -69,6 +77,8 @@ This service covers defined pours—foundations, columns, slabs or floors—agai
 **Independent pre-contract check:** Reconcile the pour schedule with ready-mix deliveries, pump positions and truck routes, and agree an engineer-approved contingency for supply interruption or an unacceptable pour delay. Identify who records ambient and concrete conditions where required, who can stop a pour, and who reviews failed test results and remedial proposals; an informal site agreement cannot replace technical approval.
 
 **Quote request:** Attach a pour schedule showing each element, its volume, the approved concrete grade, permitted construction-joint locations and pump access. Ask bidders to separate concrete supply, reinforcement, formwork, pumping, laboratory sampling and testing, and curing. Identify who bears delivery delays, rejected loads and retesting costs. Require pre-pour inspection records, a curing plan and a qualified engineer's approval of any honeycombing repair method; this guidance is not engineering approval.
+
+**Pour continuity and curing review:** For each pour, log the structural element, concrete delivery times, acceptance tests and start of curing. Agree who can stop a pour if supply fails. An unplanned construction joint or nonconforming result requires a documented decision by the qualified engineer before proceeding or certifying payment.
 
 ## 6. Structural frame construction
 
@@ -84,6 +94,8 @@ This service covers defined pours—foundations, columns, slabs or floors—agai
 
 **Quote request:** Send the approved frame drawings, element-by-floor schedule, pour volumes and site-access constraints. Request a staged offer separating supply, installation, formwork, propping, surveying and testing, with pre-pour hold points, service-opening responsibilities, written exclusions and variations, and floor-by-floor handover evidence.
 
+**Temporary support and structural sequence review:** Do not remove formwork or props solely because a fixed number of days has passed; obtain the appointed engineer's instructions and relevant test evidence. Record embedded items and penetrations before casting, and refer changes affecting load paths or openings for design review.
+
 ## 7. Turnkey project delivery
 
 A turnkey promise is only meaningful when the client and contractor agree exactly what is ready for use at handover.
@@ -97,6 +109,8 @@ A turnkey promise is only meaningful when the client and contractor agree exactl
 **Independent pre-contract check:** Test the phrase 'ready for use' against a sample room: who hands over keys, controls and operating manuals, balances the cooling system and remedies leaks or poorly closing doors? Require a handover responsibility matrix distinguishing contractor works, owner supplies and third-party utility services, with warranty start dates for each system and documented delivery of agreed spares or accessories.
 
 **Quote request:** Send a room-by-room schedule of measured areas, finishes and approved samples, specifying brands, models or measurable performance grades for equipment and fittings. Require separate prices for supply, installation, commissioning, testing, handover documents and warranties, with explicit responsibility for fitting owner-supplied items, utility connection and meter activation charges, and external works. Link final payment to applicable documented electrical, water, AC and waterproofing tests, as-built drawings, operating manuals, warranties and a dated defects list identifying repair responsibility and reinspection dates. “Ready to occupy” alone is not an acceptance specification.
+
+**Meaningful turnkey handover review:** Define 'ready for use' by room and system, with an inventory of keys, customer-owned device credentials, warranties and operating manuals. Keep cosmetic snagging separate from system commissioning and permits; handing over keys does not itself establish occupation approval.
 
 ## 8. New villa construction
 

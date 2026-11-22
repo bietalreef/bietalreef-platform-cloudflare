@@ -2157,3 +2157,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة `in_progress`. أُضيفت سبع فقرات قرار فنية وتعاقدية متمايزة بالعربية والإنجليزية إلى [المحتوى العربي](./general-contracting/restoration-renovation/content-ar.md) و[English](./general-contracting/restoration-renovation/content-en.md)، مع تحديث [سجل المراجعة](./general-contracting/restoration-renovation/review.md). أُعيدت قراءة الملفات الثلاثة من GitHub وتطابقت؛ بقيت عناوين الخدمات السبع في كل لغة.
 - **أول نقص تالٍ:** تدقيق التكافؤ الدلالي الكامل لفقرات خدمات `restoration-renovation` 1–7، ثم `demolition-concrete` 1–7، `landscaping` 1–14، `irrigation-networks` 1–7، `shade-outdoor-works` 1–7، وإعادة فحص `building-villas` 1–14؛ ثم بقية تخصصات الشركات عبر القطاعات الثمانية والتدقيق الشامل للخدمات الـ434 في كل لغة. لا يبدأ المويجعي قبل اعتماد الجيمي.
+
+
+## 2026-11-22 — تدقيق تعاقدي إضافي للهدم والأعمال الخرسانية
+
+- الحالة `in_progress`: أُضيفت سبع نقاط تحقق مختلفة بالعربية وسبع مقابلة بالإنجليزية للخدمات 1–7 في [الهدم والأعمال الخرسانية بالعربية](./general-contracting/demolition-concrete/content-ar.md) و[English](./general-contracting/demolition-concrete/content-en.md)، مع [سجل التخصص](./general-contracting/demolition-concrete/review.md). تتناول حركة السكان، فصل الملاحق، جدول القص، فحص القواعد، أحمال السقف، الأعمال المخفية في الجدران، وإثبات ترحيل الركام.
+- **أول نقص محدد:** مطابقة فقرات الخدمات السبع في الهدم بين اللغتين ومراجعتها فنيًا؛ ثم `landscaping` 1–14، `irrigation-networks` 1–7، `shade-outdoor-works` 1–7، وإعادة فحص `building-villas` 1–14 و`restoration-renovation` 1–7، ثم بقية تخصصات الشركات في القطاعات الثمانية وفحص 434 خدمة في كل لغة. لا يبدأ المويجعي.

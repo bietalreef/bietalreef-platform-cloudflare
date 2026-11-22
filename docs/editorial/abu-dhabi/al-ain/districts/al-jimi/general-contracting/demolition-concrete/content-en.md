@@ -18,6 +18,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Handover checks:** Compare removal limits with the approved marked drawing and survey record; obtain photographs of separation and temporary supports before barriers are removed. Have a competent professional check retained elements for new cracking or movement, confirm utilities remain safely isolated or reinstated, and document neighbouring damage and debris clearance before acceptance.
 
+**Additional contract verification:** Where demolition borders an occupied passage, request a drawing separating worker and debris routes from resident access. Assign daily barrier inspections and authority to stop work if the safe boundary changes. Retain dated barrier photographs and inspection records for handover.
+
 ## 2. Removal of buildings and annexes
 
 **When it is needed:** Removing a detached or connected annex requires identifying the structural junction and protecting the occupied building, not simply pricing floor area.
@@ -33,6 +35,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **Service-specific quotation request:** Send annex dimensions, photos of its connection to the retained building and boundary, and truck access details. Ask for distinct prices for superstructure, footings, paving, ground reinstatement and shared-wall repairs, including occupant protection and lawful waste-transfer evidence.
 
 **Handover checks:** Check final ground levels and footing removal against the agreed scope, and have the junction with the retained building, weatherproofing and closed penetrations inspected. Record boundary walls, utilities and truck routes before and after works; do not accept concealed junctions or backfilled excavations before inspection.
+
+**Additional contract verification:** If an annex meets the retained roof waterproofing or drainage, request a drawn edge-closure detail and a drainage re-test after separation. A vague 'make good' allowance is insufficient without specifying waterproofing materials, extent and warranty responsibility.
 
 ## 3. Concrete cutting and coring
 
@@ -50,6 +54,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Handover checks:** Match every opening identifier, diameter, location and depth to the approved penetration schedule; review pre-cut scan photographs and records of exposed reinforcement or services. Inspect edges, slurry removal and waterproofing reinstatement in wet areas, and require engineer approval for changes or any impact on structural members.
 
+**Additional contract verification:** For repeated openings, require a numbered coring schedule identifying room, reference face, diameter, thickness and machine anchoring. Allocate the cost and approval responsibility for rescanning and redesign if reinforcement or hidden services conflict with the proposed position.
+
 ## 4. Footing and foundation pours
 
 **When it is needed:** Foundation pours must follow approved footing dimensions, levels, reinforcement and concrete specifications informed by the relevant ground data.
@@ -65,6 +71,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **Service-specific quotation request:** Attach footing schedules, structural drawings, available ground information and excavation levels. Itemise excavation, dewatering, blinding, steel, formwork, concrete, pumping, tests, curing and backfill; specify pre-pour reinforcement sign-off and who pays for correcting nonconforming work.
 
 **Handover checks:** Check footing dimensions, founding levels and starter-bar locations against drawings and pre-pour inspection records. Obtain concrete delivery tickets, sampling and curing logs, and test results when issued. Do not conceal foundations or backfill before the relevant competent party has inspected waterproofing and other hidden work.
+
+**Additional contract verification:** Record standing water, excavation-bed cleanliness, waterproofing junctions and column starter positions in a photographed pre-pour hold-point record for each footing. Identify who accepts corrections before concrete delivery, rather than after the foundation is concealed.
 
 ## 5. Concrete slab pours
 
@@ -82,6 +90,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Handover checks:** Check slab levels, openings, service positions, visible honeycombing and joints against drawings; retain pre-pour formwork/rebar inspections, delivery tickets and curing records. Appearance alone does not authorise striking or loading: obtain competent approval under the test results and agreed propping-removal plan.
 
+**Additional contract verification:** Request a plan for storage loads on the slab before and after casting, pump access and exclusion zones beneath formwork. Reopening access and removing supports must follow qualified approval, not merely a commercial handover date.
+
 ## 6. Concrete wall construction
 
 **When it is needed:** Concrete walls require approved structural design and accurate opening and connection locations before closing formwork.
@@ -98,6 +108,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 
 **Handover checks:** Measure wall plumb, thickness, openings and starter connections after stripping; inspect honeycombing, construction joints and form-tie holes before cladding. Match reinforcement-cover inspections, pour and curing records, and obtain approval for defect repair and any required waterproofing before concealment or backfill.
 
+**Additional contract verification:** Agree a pre-closure photo record showing waterstops, construction joints and embedded pipe penetrations, followed by the appropriate waterproofing inspection before backfilling. A smooth concrete surface does not replace evidence of concealed works.
+
 ## 7. Demolition waste removal
 
 **When it is needed:** Haulage may involve concrete, blockwork, timber and metal waste; some materials require separate handling and must not be mixed without checking.
@@ -113,6 +125,8 @@ This guide helps prepare comparable scopes, not a claim that a contractor, price
 **Service-specific quotation request:** Photograph debris piles with a scale reference and identify material types, floor level, loading route and skip access. Require container capacity, trips, labour, receiving-site fees and final cleanup in the quote; keep hazardous materials outside ordinary haulage pending assessment and agree on transfer records.
 
 **Handover checks:** Reconcile agreed waste categories and container trips with haulage records and receiving-site receipts where applicable. Check access routes and drains for sharp debris, dust and residual fixings; photograph the cleaned site and record any excluded or suspected hazardous material for separate specialist handling.
+
+**Additional contract verification:** For mixed debris, specify separate sorting and records for timber, metal and concrete, and allocate reloading costs if a receiving facility rejects a load. Close the job against trip records and available receipt evidence, not an empty-site photograph alone.
 
 ## Request a quotation
 

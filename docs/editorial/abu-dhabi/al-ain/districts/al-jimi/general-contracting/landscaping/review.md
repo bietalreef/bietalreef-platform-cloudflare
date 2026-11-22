@@ -42,3 +42,7 @@ Added 14 distinct, bilingual contract checkpoints for landscaping services 1–1
 ## 2026-11-21 — Pre-work decision audit, 14 bilingual services
 
 Added 14 distinct Arabic and 14 matching English pre-work decisions, covering site access and drainage, existing assets, planting suitability, irrigation, artificial-turf heat, pruning safety, pest controls, waste separation and maintenance inventories. Both language files were fetched again after saving and matched the intended text. Classification remains non-selectable/preparatory. This is not district-wide technical sign-off; continue with irrigation networks, shade/outdoor works and remaining specialties.
+
+## 2026-11-22 — Independent checks for services 10–13
+
+Added distinct bilingual checks to lawn maintenance (moisture and sprinkler evidence), plant feeding (diagnosis and treatment traceability), garden pest control (product suitability, drift prevention and re-entry), and garden cleaning (waste segregation and disposal evidence). Both content files were re-fetched after writes; all 14 headings remain in each language. Status remains `in_progress`; services 1–9 and 14 still require independent paragraph-by-paragraph quality and semantic review, followed by irrigation-networks 1–7, shade-outdoor-works 1–7, other company specialties and full 434-pair district certification. No activation or supplier availability is implied.

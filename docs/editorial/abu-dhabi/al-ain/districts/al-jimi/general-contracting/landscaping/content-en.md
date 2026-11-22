@@ -4,6 +4,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 1. Home garden design
 
+**Service-specific preparation note:** Before choosing seating layouts, separate everyday use from maintenance-equipment routes. Specify whether the deliverable is a concept or buildable pricing drawings; irrigation design is not included unless expressly listed.
+
 **When and what to commission:** Define whether seating, play or planting takes priority; map circulation and sun exposure.
 
 **Photos, dimensions and specifications:** Photograph doors, facades and shade; provide plot dimensions, service points and threshold levels.
@@ -21,6 +23,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional acceptance and contract decision:** For design handover, request a schedule linking each area to its intended use, sun exposure and irrigation source. Flag potential clashes with existing services for site verification rather than assuming the ground is clear.
 
 ## 2. Villa landscaping
+
+**Service-specific preparation note:** For an established garden, distinguish trees to retain from plants that may be moved and document exposed roots and old irrigation. Price protection of retained planting separately from replacement supply.
 
 **When and what to commission:** Inventory existing trees, beds and seating to retain; agree privacy and access needs.
 
@@ -40,6 +44,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 3. Outdoor space design
 
+**Service-specific preparation note:** At each path-to-villa entrance, record threshold and nearby drain levels and request a paving build-up section. A 3D perspective cannot establish safe drainage falls.
+
 **When and what to commission:** Plan pedestrian, vehicle and seating routes before selecting paving or features.
 
 **Photos, dimensions and specifications:** Provide entrance plans, path widths, ground falls, drains and service locations.
@@ -57,6 +63,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional acceptance and contract decision:** Before approving circulation routes, request a typical threshold section showing paving build-up, fall and drain location. Perspective renderings alone must not set construction levels.
 
 ## 4. Green area installation
+
+**Service-specific preparation note:** If irrigation leaves standing water, request a field drainage assessment before pricing green cover. Separate soil improvement from plant supply and establishment follow-up.
 
 **When and what to commission:** Assess drainage and water supply before choosing a planted ground cover.
 
@@ -76,6 +84,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 5. Tree and shrub planting
 
+**Service-specific preparation note:** Request a record for each tree covering species, approximate size, root-ball condition and planting position. Substitute species require written approval before delivery.
+
 **When and what to commission:** Site trees for mature size, not just nursery size, clear of utilities and boundaries.
 
 **Photos, dimensions and specifications:** List species, quantities, container sizes, planting positions and clearances to structures and pipes.
@@ -93,6 +103,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional acceptance and contract decision:** For trees and shrubs, agree container size, root condition and stem condition checks at delivery, with a written substitute approval process if the specified species is unavailable; a trade name alone is insufficient.
 
 ## 6. Natural turf installation
+
+**Service-specific preparation note:** For natural turf, document water source, sunlight and the agreed time before use. Obtain initial irrigation and mowing instructions and a measurable standard for repairing bare patches.
 
 **When and what to commission:** Confirm sunlight, irrigation and surface preparation before turf delivery to avoid drying.
 
@@ -112,6 +124,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 7. Artificial turf installation
 
+**Service-specific preparation note:** For children's play areas, request an artificial-turf sample and surface, infill and edge-fixing specifications. Discuss sun-exposed surface heat and drainage without assuming a universal safe temperature.
+
 **When and what to commission:** Choose pile height and density for use; a draining stable base matters more than laying rolls over loose soil.
 
 **Photos, dimensions and specifications:** Photograph the existing base; measure lengths, edges and drains and note sun exposure.
@@ -129,6 +143,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional acceptance and contract decision:** For artificial turf, request a product sample, drainage-permeability data, infill specification and warranty exclusions. Separate a sun-exposure surface-temperature check from any blanket claim that the surface is safe at all times.
 
 ## 8. Plant and tree installation
+
+**Service-specific preparation note:** Price planting-bed preparation separately from seedlings and require a planting map with species, quantities and spacing. Relocations caused by buried-service conflicts need documented approval.
 
 **When and what to commission:** Distinguish decorative beds from permanent planting; match species to light, watering and bed size.
 
@@ -148,6 +164,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 9. Tree pruning
 
+**Service-specific preparation note:** For pruning near cables or buildings, require an access and falling-material risk assessment and an exclusion-zone plan. Severe cutting is not a substitute for species-appropriate pruning.
+
 **When and what to commission:** Identify dead, crossing or obstructing branches; avoid indiscriminate topping or work near power lines without specialists.
 
 **Photos, dimensions and specifications:** Photograph the full canopy and target limbs; estimate height, lift access and debris collection space.
@@ -165,6 +183,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional acceptance and contract decision:** Before pruning tall trees, request an access and exclusion-zone plan and clarify who assesses proximity to power lines. Inspect cut locations and tree condition; do not assume removing every damaged limb is appropriate.
 
 ## 10. Lawn maintenance
+
+**Service-specific preparation note:** For lawn maintenance, compare dry patches against sprinkler coverage before increasing watering or fertiliser. The quotation should specify visit frequency and a return check for damaged areas.
 
 **When and what to commission:** Map yellowing, compaction and bare patches before setting mowing and feeding frequency.
 
@@ -184,6 +204,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 11. Plant feeding and treatment
 
+**Service-specific preparation note:** Before treating yellowing plants, assess irrigation, soil and pests as possible causes. Record the proposed product, application responsibility and follow-up rather than purchasing an unspecified cure.
+
 **When and what to commission:** Do not assume yellow leaves require fertiliser; check watering, drainage, salinity and possible pests first.
 
 **Photos, dimensions and specifications:** Photograph both leaf surfaces and soil; list species, affected counts and irrigation condition.
@@ -201,6 +223,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional treatment check:** Price diagnosis separately from material purchase; identify who retains product packaging and application records and how beds near water sources will be protected. Where disease or infestation is suspected, do not promise recovery before follow-up evidence.
 
 ## 12. Garden pest control
+
+**Service-specific preparation note:** When insects appear, photograph the affected plant and location and note proximity to children, animals and water. Chemical treatment requires suitably qualified operators and clear re-entry instructions.
 
 **When and what to commission:** Identify the pest and affected area before choosing treatment; avoid unnecessary blanket spraying.
 
@@ -220,6 +244,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 ## 13. Garden cleaning
 
+**Service-specific preparation note:** For garden clearance, separate leaves and green waste from glass, sharps and chemical residues. Specify disposal destination and whether drains and planting beds are included.
+
 **When and what to commission:** Separate leaf and branch collection from bulky waste or pond cleaning to avoid scope disputes.
 
 **Photos, dimensions and specifications:** Photograph waste volumes, paths, drains and furniture or planting requiring protection.
@@ -237,6 +263,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Additional disposal check:** Agree before-and-after photographs of collection points and drains, the waste types to be removed and responsibility for hauling charges. Segregate unknown containers or potentially hazardous material for qualified handling rather than including them in routine green-waste removal.
 
 ## 14. Garden maintenance contracts
+
+**Service-specific preparation note:** For maintenance contracts, attach a baseline inventory of trees, lawns and irrigation, and define visit intervals, fault response and exclusions. Compare monthly evidence reports, not visit counts alone.
 
 **When and what to commission:** Create a schedule separating mowing, irrigation, pruning, feeding and monitoring with urgent-call procedures.
 

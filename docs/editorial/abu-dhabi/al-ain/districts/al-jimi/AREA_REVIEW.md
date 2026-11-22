@@ -2219,3 +2219,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الخدمة 9 «بناء الملاحق السكنية»: تحسين فحص طلب العرض في `general-contracting/building-villas/content-ar.md` و`content-en.md` لمواضع الربط والحدود والصرف والحفر والعزل وإعادة الرصف، مع تسجيل التدقيق في `review.md`.
 - الحالة: `in_progress`. التالي: مقارنة خدمات إنشاء المباني والفلل 1–14 فقرة بفقرة، ثم الهدم والأعمال الخرسانية 1–7، وتنسيق الحدائق 1–14، وشبكات الري 1–7، والمظلات 1–7، وبقية تخصصات الشركات في القطاعات الثمانية حتى اعتماد 434 خدمة لكل لغة. لا يبدأ المويجعي قبل ذلك.
+
+## 2026-11-22 — Reuse preparation, restoration-renovation service 7
+
+- Updated `general-contracting/restoration-renovation/content-ar.md` and `content-en.md` for the seventh service, **تجهيز المبنى لإعادة الاستخدام / Preparing a building for reuse**. New service-specific evidence and quotation/acceptance boundaries distinguish professional feasibility and permissions from physical refurbishment; both saved files were re-read and retain seven service headings.
+- Verified source files: [Arabic](general-contracting/restoration-renovation/content-ar.md), [English](general-contracting/restoration-renovation/content-en.md), [specialty review](general-contracting/restoration-renovation/review.md).
+- **Status: `in_progress`.** First remaining: detailed independent paragraph-by-paragraph technical, exclusions and bilingual equivalence audit of restoration-renovation services 1–7, beginning with service 1 (older building restoration), then building-villas 1–14, demolition-concrete 1–7, landscaping 1–14, irrigation-networks 1–7, shade-outdoor-works 1–7, and all remaining company specialties in the eight sectors. The 434-service-per-language area sign-off is outstanding; do not start Al Muwaiji.

@@ -18,6 +18,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Request a quotation:** Attach dated moisture and crack photographs, a plan marking fabric to retain and any available structural report. Request separate prices for investigation, limited opening-up, temporary support and repairs, with exclusions and a written variation procedure for concealed damage.
 
+**Older-building decision check:** Before stripping historic layers, record roof, floor and load-bearing conditions and unknown service routes; require staged opening and specialist-designed support where needed. Separate correction of the damage source from cosmetic repair, and approve newly exposed work through a written variation.
+
 ## 2. Villa renovation
 
 **Need and scope:** Identify rooms to change and floors or cabinetry worth retaining rather than stripping the whole villa. Phase work room by room, identify occupied areas and exclude unlisted service relocations or furniture works.
@@ -33,6 +35,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Pre-work decision:** For every bathroom, establish whether only tiles are removed or whether waterproofing and pipework are replaced, and who signs off waterproofing tests before concealment. For occupied rooms, define dust isolation and the point at which each room is safe to use.
 
 **Request a quotation:** Send a room schedule showing finishes to remove or retain, with photographs and whether the villa remains occupied. Request room-by-room pricing for strip-out, protection, materials and installation, plus utility shutdown windows, sample approvals and change control.
+
+**Villa-renovation decision check:** Require a room-by-room schedule of works, approved finishes, electrical and water isolation points and waste routes. Do not treat layout changes or removal of load-bearing walls as routine decoration; obtain engineering assessment, design and applicable approvals first.
 
 ## 3. Apartment renovation
 
@@ -50,6 +54,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Request a quotation:** Attach the apartment plan, doorway and lift clearances, before-work corridor photographs and building management rules. Ask for shared-area protection and waste removal to be priced separately from finishes, with noise windows and responsibility for reinstating common property.
 
+**Apartment-renovation decision check:** Record corridor, lift and neighbouring-unit conditions before work, agreed noisy-work hours and liability for leaks to the flat below. For renewed bathroom or kitchen floors, request waterproofing test records before tiling, not just finished photographs.
+
 ## 4. Building rehabilitation
 
 **Need and scope:** For rehabilitation of an existing building, whether to restore its performance or support a different use, first establish the intended activity, structural and building-services condition and maintenance history before selecting finishes. Separate the existing-condition assessment and design of modifications from construction. Neither a change of use nor increased occupancy is automatically permitted; competent professionals and relevant authorities must review the proposal. Findings may require a revised scope or suspension of affected works pending safety assessment.
@@ -65,6 +71,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Pre-work decision:** Do not compare construction-only bids before the safety assessment and proposed-use requirements are known. If exit capacity or system capacity cannot be substantiated, commission an independent assessment rather than assuming compliance.
 
 **Request a quotation:** Send the Al Jimi site location, present and proposed uses, floor areas, anticipated occupant numbers and operating hours, existing-condition plans and any inspection reports. Request staged prices for measured survey, investigation, engineering assessment, approval drawings and fees, construction, commissioning tests and finishes. Require stated assumptions, exclusions and a schedule of handover evidence. Biet Al Reef customer service may help prepare the enquiry but cannot guarantee a company, price or date.
+
+**Building-rehabilitation decision check:** Maintain separate defect and test registers for structure, envelope, electrical, plumbing, cooling and life-safety systems, with a named acceptance authority for each. Link payments to closed defects and witnessed tests; a repainted façade does not establish systems readiness.
 
 ## 5. Structural crack remediation
 
@@ -82,6 +90,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Request a quotation:** Provide dated crack photographs with a scale, plan locations and any movement history. Commission engineering diagnosis as a separate stage before pricing injection or strengthening; require monitoring responsibility, written repair acceptance criteria and follow-up provisions.
 
+**Structural-crack decision check:** Photograph each crack with a scale, date, position and direction; distinguish surface defects from potential ongoing movement or settlement without diagnosing from photographs alone. A qualified structural engineer should decide whether monitoring, support or area evacuation is needed before injection or concealment.
+
 ## 6. Façade refurbishment
 
 **Need and scope:** Where panels are loose or water marks appear around windows, first identify falling-material hazards and protect people below before inspection. Separate investigation of substrate, movement joints and water paths from stripping and replacement; repainting alone will not resolve concealed water ingress. Changes to heavy cladding fixings or supporting elements need competent design review and a safe work-at-height access plan.
@@ -98,6 +108,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Request a quotation:** Send full-elevation photographs, close-ups of loose cladding and joints, and access heights. Request separate prices for access and protection, removal, root-cause repair and replacement finishes, specifying fixings and water-ingress checks.
 
+**Façade-refurbishment decision check:** Survey cladding anchors, window perimeters, movement joints, water-entry points and safe access, assigning responsibility for protecting pedestrians and vehicles. Inspect fixing samples, joints, weatherproofing and pre-scaffold-removal records, not colour consistency alone.
+
 ## 7. Preparing a building for reuse
 
 **Need and scope:** A vacant building may still be unfit for occupation because of failed cooling, electrical faults or leaks. List essential readiness tests and repair limits; exclude redesign of systems unless separately commissioned.
@@ -113,6 +125,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Pre-work decision:** Identify which systems require testing before reoccupation, who is authorised to energise and restart them, and which defects prohibit use. A passed test on one item of equipment is not proof that the whole building is ready.
 
 **Request a quotation:** Attach an equipment and defect register, meter readings, panel and valve locations and any maintenance records. Request separate prices for readiness tests, critical repairs, cleaning and witnessed restart, with clear repair exclusions and delivery of keys and records.
+
+**Reuse-readiness decision check:** Record former and proposed occupancy, electrical capacity, ventilation, drainage and escape routes; price suitability assessment separately from repairs and recommissioning. Restarting equipment or handing over keys is not permission for a change of use or an occupancy certificate.
 
 ## Request a quote with Biet Al Reef
 

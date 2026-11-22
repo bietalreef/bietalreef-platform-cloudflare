@@ -20,6 +20,9 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Older-building decision check:** Before stripping historic layers, record roof, floor and load-bearing conditions and unknown service routes; require staged opening and specialist-designed support where needed. Separate correction of the damage source from cosmetic repair, and approve newly exposed work through a written variation.
 
+
+**Hidden-deterioration decision for older fabric:** Where salt deposits or repeated crumbling occur near the foot of a wall, document the affected height and changes after rainfall or water use; investigate the moisture source before specifying repair. Agree a small trial area for cleaning, mortar and coating, its observation period and acceptance criteria. A dry surface on inspection day does not prove that the source is resolved. Distinguish workmanship warranties from promises about moisture originating in excluded services or building elements.
+
 ## 2. Villa renovation
 
 **Need and scope:** Identify rooms to change and floors or cabinetry worth retaining rather than stripping the whole villa. Phase work room by room, identify occupied areas and exclude unlisted service relocations or furniture works.
@@ -57,6 +60,9 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 **Request a quotation:** Attach the apartment plan, doorway and lift clearances, before-work corridor photographs and building management rules. Ask for shared-area protection and waste removal to be priced separately from finishes, with noise windows and responsibility for reinstating common property.
 
 **Apartment-renovation decision check:** Record corridor, lift and neighbouring-unit conditions before work, agreed noisy-work hours and liability for leaks to the flat below. For renewed bathroom or kitchen floors, request waterproofing test records before tiling, not just finished photographs.
+
+
+**Apartment handover and neighbour protection:** Before breaking out finishes, record the permitted photographic condition of the shared corridor, lift entrance and any pre-existing leak in the ceiling below. Agree noisy-work periods, material routes and storage under building rules; distinguish common-area damage repair from work inside the apartment. At handover, run drainage tests for bathrooms and kitchen, inspect waterproofing test records made before tiling where included, and provide a defects register for the owner and building management where applicable.
 
 ## 4. Building rehabilitation
 

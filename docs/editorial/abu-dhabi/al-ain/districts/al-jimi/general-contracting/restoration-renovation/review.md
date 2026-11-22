@@ -125,3 +125,9 @@ Seven source-aligned company service headings in each language, original sequenc
 - Added distinct Arabic/English guidance for proposed-use feasibility, occupancy and operating hours, exit/accessibility drawings, utility capacities, separating suitability assessment and authority decisions from works, and reconciling as-built records with approved use at handover.
 - Both language files were re-fetched after writes and each retains seven original numbered company-service headings.
 - Pending: independent full-paragraph technical and language audit of services 1–7; the other company specialties and final 434 bilingual pairs. This is not an authority approval. Specialty and district remain `in_progress`.
+
+
+## 2026-11-22 — تصحيح موضع تدقيق إعادة الاستخدام (الخدمة 7)
+
+- نُقلت فقرة «تدقيق مستقل لقرار إعادة الاستخدام» وفقرتها الإنجليزية المقابلة من بعد دعوة بيت الريف العامة إلى داخل الخدمة السابعة، قبل قسم طلب المساعدة العام؛ لم تُغيّر أسماء الخدمات أو ترتيبها. تم التحقق بإعادة قراءة ملفي المحتوى من الفرع، وبقيت سبعة عناوين خدمات في كل لغة.
+- **ما لم يُنجز:** التدقيق المستقل لمضمون الخدمات 1–7 كاملًا، ثم `building-villas` 1–14 و`landscaping` 1–14، وتدقيق بقية تخصصات الشركات والخدمات الـ434 لكل لغة. حالة التخصص والمنطقة `in_progress`، ولا يبدأ المويجعي.

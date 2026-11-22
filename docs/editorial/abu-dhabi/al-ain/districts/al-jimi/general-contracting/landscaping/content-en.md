@@ -162,6 +162,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Review visit records, cut consistency and photographed progress of weak patches. Compare photographs of weak patches between visits, inspect blocked sprinklers and scalped turf, and list remedial work needing separate approval.
 
+**Additional visit check:** Where weak patches recur, request comparative soil-moisture readings in healthy and affected areas and check sprinkler overlap. Discolouration alone does not justify pesticide use or heavier feeding. Record whether sprinkler repairs are included or require separate authorisation.
+
 ## 11. Plant feeding and treatment
 
 **When and what to commission:** Do not assume yellow leaves require fertiliser; check watering, drainage, salinity and possible pests first.
@@ -177,6 +179,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Send symptom photos, plant species, watering records and any test results. Require a written diagnosis before product and dose selection, a priced follow-up visit and realistic improvement criteria.
 
 **Acceptance inspection:** Request application records, safe watering instructions and later symptom review rather than instant colour change. Receive the product name, quantity, application location and date; verify plant-specific instructions and the review date before authorising repeat treatment.
+
+**Additional treatment check:** Price diagnosis separately from material purchase; identify who retains product packaging and application records and how beds near water sources will be protected. Where disease or infestation is suspected, do not promise recovery before follow-up evidence.
 
 ## 12. Garden pest control
 
@@ -194,6 +198,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Check treatment records, re-entry instructions and a scheduled reassessment. Check treatment locations against the pest map, receive child and pet precautions and re-entry times, and schedule a follow-up to assess remaining activity.
 
+**Additional safety check:** Before chemical treatment, request evidence that the product is suitable for the intended application and identify the responsible authorised applicator. Plan to prevent drift into edible planting, pools or neighbouring plots. Re-entry conditions must follow product instructions and applicable authority requirements, not a blanket time claim.
+
 ## 13. Garden cleaning
 
 **When and what to commission:** Separate leaf and branch collection from bulky waste or pond cleaning to avoid scope disputes.
@@ -209,6 +215,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Photograph paths, beds and waste piles and describe vehicle access. Price leaf collection separately from bulky branch haulage and pressure washing, and require lawful disposal and plant protection.
 
 **Acceptance inspection:** Check clear paths and drains and no cuttings left in beds or damage to plants. Inspect beneath seats, along planting-bed edges and at drain grates; ensure no sharp debris or bags remain against plants or block drainage.
+
+**Additional disposal check:** Agree before-and-after photographs of collection points and drains, the waste types to be removed and responsibility for hauling charges. Segregate unknown containers or potentially hazardous material for qualified handling rather than including them in routine green-waste removal.
 
 ## 14. Garden maintenance contracts
 

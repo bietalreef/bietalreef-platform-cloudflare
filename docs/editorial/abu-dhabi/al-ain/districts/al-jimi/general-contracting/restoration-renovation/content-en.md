@@ -136,8 +136,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Reuse-readiness decision check:** Record former and proposed occupancy, electrical capacity, ventilation, drainage and escape routes; price suitability assessment separately from repairs and recommissioning. Restarting equipment or handing over keys is not permission for a change of use or an occupancy certificate.
 
+**Independent reuse decision check:** Sound finishes alone do not establish that a building is suitable for a new use. Before pricing, provide the former and proposed use, anticipated occupancy and operating hours, exit and accessibility plans, and available electrical, ventilation and drainage capacities. Price suitability assessment and applicable approvals separately from alterations and commissioning; do not promise permission for the proposed use before the competent authority has reviewed it. At handover, compare the approved use with as-built drawings, system test records and the defects register, and identify any uses excluded from the assessment in writing.
+
 ## Request a quote with Biet Al Reef
 
 Specify the service, Al Jimi site location, condition photographs, dimensions and available reports. Biet Al Reef customer service may help structure the request and look for a company; availability, pricing and dates are not guaranteed.
-
-**Independent reuse decision check:** Sound finishes alone do not establish that a building is suitable for a new use. Before pricing, provide the former and proposed use, anticipated occupancy and operating hours, exit and accessibility plans, and available electrical, ventilation and drainage capacities. Price suitability assessment and applicable approvals separately from alterations and commissioning; do not promise permission for the proposed use before the competent authority has reviewed it. At handover, compare the approved use with as-built drawings, system test records and the defects register, and identify any uses excluded from the assessment in writing.

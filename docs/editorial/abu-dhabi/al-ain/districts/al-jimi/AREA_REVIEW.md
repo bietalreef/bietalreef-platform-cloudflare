@@ -2209,3 +2209,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - الحالة `in_progress`. أضيفت فقرة عملية للخدمة 2 «تجديد الفلل» في [العربية](./general-contracting/restoration-renovation/content-ar.md) و[English](./general-contracting/restoration-renovation/content-en.md)، تحدد العزل المؤقت للمياه والكهرباء وحماية السكان والأثاث ومسارات المخلفات وفحص إعادة التشغيل. [سجل التخصص](./general-contracting/restoration-renovation/review.md). أُعيدت قراءة ملفي المحتوى من الفرع بعد الحفظ.
 - **أول نقص غير مكتمل:** التدقيق المقارن للخدمات 1–7 في `general-contracting/restoration-renovation`، بدءًا من الخدمة 1 ثم مراجعة الخدمة 2 كاملة والخدمات 3–7؛ ثم مراجعة `building-villas` 1–14 و`landscaping` 1–14، وبقية تخصصات الشركات في القطاعات الثمانية. لا يُعتمد اكتمال الجيمي قبل مراجعة 434 خدمة في كل لغة، ولا يبدأ المويجعي.
+
+## 2026-11-22 — تحرير مخصص للمباني القديمة والشقق (الجيمي)
+
+- الحالة `in_progress`. حُرر في [الترميم والتجديد بالعربية](./general-contracting/restoration-renovation/content-ar.md) و[الإنجليزية](./general-contracting/restoration-renovation/content-en.md) محتوى مستقل للخدمة 1 (أملاح الجدران والرطوبة وعينة اختبار المواد وحدود الضمان) والخدمة 3 (حماية الأجزاء المشتركة والجيران واختبارات العزل والصرف عند استلام الشقة). [سجل التدقيق](./general-contracting/restoration-renovation/review.md).
+- أول نقص غير مكتمل: المقارنة التفصيلية لبقية بنود الترميم 1–7، ثم `building-villas` 1–14 و`landscaping` 1–14، ثم بقية تخصصات الشركات بالقطاعات الثمانية؛ لا يعتمد أي إجمالي 434/434 بوصفه مدققًا نهائيًا، ولا يبدأ المويجعي.

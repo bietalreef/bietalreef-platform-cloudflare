@@ -208,8 +208,10 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 **Request a quotation:** Send the unit schedule, measured quantities, photographs, working-hour and access restrictions. Request separate prices for flats and shared spaces, with resident notices, protection, testing and staged handover specified. Biet Al Reef enquiry support remains available without a guaranteed contractor, price or appointment.
 
+**Final records reconciliation:** Where entrance levels, drainage routes or tank positions changed, reconcile approved variations with as-built drawings and test records. List outstanding items, responsible parties and rectification evidence before final sign-off; a general 'completed' statement is not an inspection record.
+
+**Additional independent pre-contract and acceptance check:** For renovation of an occupied residential building, require a unit-by-unit or floor-by-floor plan showing noisy-work windows, utility shutdowns and alternative access. Record lift and corridor condition before work; allocate responsibility for protecting possessions, clearing debris and keeping emergency exits usable.
+
 ## Biet Al Reef enquiry support
 
 Send the exact service name, location within Al Jimi, available drawings, site photographs, measured quantities and preferred access arrangements. Biet Al Reef customer service can help prepare a request for quotation even when no company is published; a company match, price or appointment is not guaranteed.
-
-**Additional independent pre-contract and acceptance check:** For renovation of an occupied residential building, require a unit-by-unit or floor-by-floor plan showing noisy-work windows, utility shutdowns and alternative access. Record lift and corridor condition before work; allocate responsibility for protecting possessions, clearing debris and keeping emergency exits usable.

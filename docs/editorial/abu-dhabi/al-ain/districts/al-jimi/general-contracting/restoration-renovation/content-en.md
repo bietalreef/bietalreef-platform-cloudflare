@@ -38,6 +38,8 @@ This is guidance for preparing real project enquiries, not confirmation of a lis
 
 **Villa-renovation decision check:** Require a room-by-room schedule of works, approved finishes, electrical and water isolation points and waste routes. Do not treat layout changes or removal of load-bearing walls as routine decoration; obtain engineering assessment, design and applicable approvals first.
 
+**Additional occupied-villa protection check:** Before stripping a kitchen or bathroom in an occupied villa, mark the affected water isolation valves and electrical circuits on the room plan, together with debris routes and temporary storage. Agree dust barriers, floor and furniture protection, safe access and advance notice of shutdowns. On reinstatement, obtain documented leak checks and competent testing of affected electrical circuits before those services return to use.
+
 ## 3. Apartment renovation
 
 **Need and scope:** An apartment renovation in an occupied block needs agreed working hours and lift protection. Specify lift access, noise windows, waste routes and permissions; exclude changes to common property without consent.

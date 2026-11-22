@@ -289,3 +289,9 @@ Fourteen original company service headings retained in Arabic and English. Arabi
 - Added seven distinct Arabic and seven matching English checks on new-villa orientation and future allowances, annex utility capacity and existing foundations, outdoor majlis ventilation and drainage, extension movement joints and temporary works, alterations and fire-stopping, restoration moisture evidence, and occupied-building renovation access and shutdowns.
 - Re-read both content files from the specified GitHub branch after writing and confirmed all seven new checks in each language. These are editorial checks, not engineering or authority approvals.
 - **Pending:** detailed independent review of services 1–7, cross-language paragraph parity and technical/regulatory audit for all 14; then restoration-renovation, demolition-concrete, landscaping, irrigation-networks, shade-outdoor-works and remaining company specialties. Do not certify the area before all 434 service pairs pass review.
+
+
+## 2026-11-22 — مراجعة أدلة الاستلام للخدمات 1–7
+
+- أضيفت سبع فقرات مستقلة بالعربية والإنجليزية للخدمات 1–7، تتناول تعديلات المناسيب، تسليم الأنظمة المشتركة، حدود جاهزية الوحدات التجارية، توثيق أعمال البلوك، استمرارية الصب، فك الدعامات، وتسليم المفتاح. جميعها توجيه تحضيري ولا تمثل اعتمادًا هندسيًا أو تنظيميًا.
+- الحالة: `in_progress`. يلزم التدقيق المستقل الكامل والتكافؤ الدلالي للخدمات 1–14، ثم `restoration-renovation` و`demolition-concrete` و`landscaping` و`irrigation-networks` و`shade-outdoor-works` وبقية التخصصات الثمانية قطاعات؛ مراجعة 434 خدمة بكل لغة قبل الانتقال للمويجعي.

@@ -95,3 +95,10 @@ Seven source-aligned company service headings in each language, original sequenc
 
 - Added distinct decision checkpoints for services 1–7 in both languages: damp diagnosis and temporary protection; bathroom waterproofing/occupied-room phasing; apartment drawings and neighbour protection; rehabilitation capacity assessment; crack movement escalation; façade fixing design and pedestrian controls; and safe recommissioning before reuse.
 - Verified Arabic and English content by re-fetching both files from the specified branch; seven numbered services remain in each. Technical/regulatory certification and the 434-pair district audit remain outstanding; district status `in_progress`.
+
+
+## 2026-11-22 — مراجعة قرارات الترميم السبعة باللغتين
+
+- أضيف لكل خدمة من خدمات الترميم والتجديد السبع فحص قرار خاص بها بالعربية والإنجليزية: كشف المباني القديمة، حدود تجديد الفلل، حماية الشقق، سجلات إعادة التأهيل، التشققات الإنشائية، تثبيت الواجهات، وملاءمة إعادة الاستخدام.
+- ما زال الاعتماد الفني والاشتراطات المحلية مسؤولية المختص والجهة المختصة؛ هذه إرشادات تحضيرية، لا ضمان توفر شركة.
+- **المتبقي:** تدقيق التكافؤ الكامل لجميع فقرات هذا التخصص ثم `demolition-concrete` والخدمات الأخرى عبر القطاعات الثمانية ومراجعة 434 خدمة في كل لغة. الحالة `in_progress`.

@@ -2183,3 +2183,9 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - **الحالة `in_progress`**. أضيفت عشر فقرات عملية مستقلة لكل لغة إلى [الحدائق بالعربية](./general-contracting/landscaping/content-ar.md) و[English](./general-contracting/landscaping/content-en.md) وسُجلت في [مراجعة التخصص](./general-contracting/landscaping/review.md). أُعيدت قراءة الملفات بعد حفظها؛ بقيت 14 خدمة في كل لغة.
 - **أول نقص محدد:** مطابقة نهائية سطرًا بسطر للخدمات 1–14 في `general-contracting/landscaping`، ثم تدقيق `irrigation-networks` للخدمات 1–7، ثم `shade-outdoor-works` للخدمات 1–7، ثم إعادة فحص `building-villas` 1–14 و`restoration-renovation` 1–7 وبقية تخصصات الشركات في القطاعات الثمانية؛ مراجعة 434 خدمة بكل لغة لم تعتمد. لا يبدأ المويجعي.
+
+## 2026-11-22 — فحص بنيوي ثنائي اللغة لشبكات الري
+
+- الحالة `in_progress`. أُعيدت قراءة محتوى شبكات الري كاملًا من الفرع: 7 أسماء عربية مطابقة حرفيًا لشجرة الشركات، و7 عناوين إنجليزية مقابلة بالترتيب. تحقق وجود عناصر النطاق والقياسات والقرار الفني والمقارنة والاستثناءات والتسليم والاتفاق وطلب السعر في كل خدمة باللغتين.
+- [العربية](./general-contracting/irrigation-networks/content-ar.md) · [English](./general-contracting/irrigation-networks/content-en.md) · [مراجعة التخصص](./general-contracting/irrigation-networks/review.md).
+- النواقص الدقيقة التالية: التدقيق الفني المستقل والتفرد لشبكات الري 1–7؛ المظلات والأعمال الخارجية `general-contracting/shade-outdoor-works` خدمات 1–7؛ ثم فحص أسماء وتغطية وجودة بقية تخصصات الشركات الخمسين و434 خدمة في كل لغة. لا تبدأ المويجعي قبل الاعتماد الكامل.

@@ -67,3 +67,6 @@ Added seven service-specific checkpoints to each language file: measured hydraul
 - Checked each service for seven independent elements: purpose/scope, photos and measurements, pre-work technical decision, comparison/exclusions, handover, detailed agreement and a service-specific quotation request. All seven elements are present in both languages for each service.
 - Safety cautions cover water backflow, electrical commissioning, buried utilities and controller-account handover. This is an editorial structural and semantic spot-check, not engineering approval or a claim of available providers.
 - Specialty review remains `in_progress` for deeper technical validation, cross-specialty duplication checks and full area-wide audit of 50 specialties/434 services per language.
+
+
+**تصحيح تدقيق 2026-11-22:** عناوين عناصر المحتوى العربي تستخدم صيغًا مختصرة (`الحاجة والنطاق`، `الصور والمقاسات`، `قرار قبل التنفيذ`، `العرض والاتفاق والاستثناءات`، `الاستلام`، `طلب عرض سعر لهذه الخدمة`) وليس العبارات الطويلة المستخدمة في فحص آلي أولي. لذا لا يُعدّ فحص وجود العناصر السبعة في العربية ناجحًا اعتمادًا على التطابق الحرفي للملصقات؛ يجب التحقق من مضمون كل قسم، ويظل فحص التكافؤ التفصيلي مفتوحًا. العناوين السبعة للخدمات نفسها صحيحة ومطابقة للشجرة.

@@ -144,17 +144,17 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 ## 10. Outdoor majlis construction
 
-**When and why:** A detached majlis should accommodate the intended guest numbers while keeping guest access separate from the family's private circulation. Decide whether the contract covers only the building or also the approach, parking, pantry, fixed seating and sanitary facilities. Do not assume an addition is permitted before the relevant drawings and requirements are checked.
+**When and why:** A detached majlis should accommodate the intended guest numbers while keeping guest access separate from the family's private circulation, with planned fresh-air supply and a suitable extract route if the pantry requires it. Decide whether the contract covers only the building or also the approach, parking, pantry, fixed seating and sanitary facilities. Do not assume an addition is permitted before the relevant drawings and requirements are checked.
 
-**Evidence, measurements and specifications:** Supply a dimensioned seating and entrance plan showing door swings, washbasins, washrooms, pantry and external AC-unit locations. Photograph ground levels, guest access and existing service routes; measure distances to electrical, water and drainage connections and mark proposed wall or roof penetrations. State preferred flooring, cladding, glazing and thermal/acoustic performance, while leaving AC capacity to a qualified assessment.
+**Evidence, measurements and specifications:** Supply a dimensioned seating and entrance plan showing door swings, washbasins, washrooms, pantry and external AC-unit locations. Photograph ground levels, guest access and existing service routes; measure distances to electrical, water and drainage connections and mark proposed wall or roof penetrations. State any ablution facilities and preferred flooring, cladding, glazing and thermal/acoustic performance, while leaving AC capacity to a qualified assessment.
 
-**Compare bids and agree the contract:** Require separate lines for foundations and structure, insulation, façade, lighting, AC, plumbing, serving facilities, fixed joinery and external paths. Check whether excavation, paving reinstatement, equipment supply and connections back to the villa are included. Allocate responsibility for plans and applicable approvals, sample sign-off, outdoor AC placement, condensate drainage and written variation approvals.
+**Compare bids and agree the contract:** Require separate lines for foundations and structure, insulation, façade, lighting, AC, plumbing, serving facilities, fixed joinery and external paths. Check whether excavation, paving reinstatement, equipment supply and connections back to the villa are included. Allocate responsibility for plans and applicable approvals, approval of door, acoustic-treatment and exposed-transition samples, outdoor AC placement, condensate drainage and written variation approvals.
 
-**Inspection and acceptance:** Walk the guest and serving routes and check privacy; operate lighting and cooling, test washroom and pantry drains for leakage and odours, and verify external paving falls away from entrances. Inspect roof-to-glazing joints and concealed-service test records before closure; record finish defects and reinspection dates.
+**Inspection and acceptance:** Walk the guest and serving routes and check privacy; operate lighting and cooling, test washroom and pantry drains for leakage and odours, and verify external paving falls away from entrances. Inspect roof-to-glazing joints and AC, drainage, water-ingress and concealed-service test records before ceilings or walls are closed; record finish defects and reinspection dates.
 
 **Quote request:** Send the seating plan, guest capacity, ground-level and service-route photographs, and proposed utility connections. Ask for a measured schedule separating construction and finishes from utility tie-ins, pantry, furniture, paths and parking, with exclusions, permit responsibilities, system tests and handover records.
 
-**Additional independent pre-contract and acceptance check:** For an outdoor majlis, record expected occupancy, washroom and ablution arrangements, fresh-air supply and any kitchen extract route. Approve samples for doors, acoustic treatment and exposed transition areas; document air-conditioning, drainage and water-ingress checks before ceilings are closed.
+
 
 ## 11. Villa extensions
 

@@ -18,6 +18,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Attach grid, floor and opening plans. Request separately itemised analysis, reinforcement drawings and services coordination. Fix the design code, revision allowance, calculation deliverables and responsibility for architectural changes after design starts.
 
+**Frame-specific handover decision:** Require a change register linking material architectural revisions to calculation and drawing versions, with explicit limits for service penetrations and the approver for later changes. An analysis model alone is not a substitute for buildable reinforcement details.
 ## 2. Foundation and footing design
 
 **When it is needed:** Foundation choice for new construction or added loads depends on verified ground conditions, load paths, excavation limits and adjacent structures.
@@ -34,6 +35,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Send the soil report, site levels, adjacent boundaries and buried-service records. Ask which foundation options will be assessed and how redesign following new borehole results is priced. Specify excavation, waterproofing and settlement-report interfaces.
 
+**Foundation-specific handover decision:** Distinguish a design based on an existing ground report from a commission for new geotechnical investigation. If excavation reveals different strata or groundwater from the assumptions, establish a documented engineering review hold point before pouring.
 ## 3. Structural drawing preparation
 
 **When it is needed:** Construction-ready structural drawings are needed to translate engineering decisions into buildable details without architectural or MEP clashes.
@@ -50,6 +52,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Provide a revision register for drawings, openings and equipment, and clarify whether this is drafting or a fresh engineered design. Request a sheet and detail schedule, editable deliverables and an allowance for clash-resolution rounds.
 
+**Drawing-specific handover decision:** Request an issue register identifying superseded sheets, a clash matrix for service openings against beams and columns, and printable PDFs alongside any agreed editable source files. Uncoordinated drawings must not be issued to site as construction-ready.
 ## 4. Structural load review
 
 **When it is needed:** Before placing a water tank or heavy equipment or changing a room's use, review concentrated loads and the full load path, not floor area alone.
@@ -66,6 +69,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Include equipment or tank mass, bearing-point dimensions, location, member photographs and existing plans. Price site inspection, testing and analysis separately. Require a written statement of allowable loads, installation conditions or strengthening needs.
 
+**Load-review handover decision:** Supply operating and dynamic weights, support points and equipment positions. Require a written result naming the members assessed and any restrictions or strengthening needed before installation. The absence of visible cracking does not prove spare load capacity.
 ## 5. Building structural safety assessment
 
 **When it is needed:** Growing cracks, settlement or concrete deterioration call for an assessment of risk and evidence before choosing cosmetic repairs.
@@ -82,6 +86,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Supply dated, scaled crack photographs, defect locations and prior reports. Request a staged investigation plan, access requirements and immediate-hazard response. Separate laboratory test costs from the assessment report and repair recommendations.
 
+**Safety-assessment handover decision:** Require a location-coded observation schedule linking photographs to structural elements and urgency as assessed by the professional; distinguish visual observations from tests and calculations. Where an immediate hazard is suspected, access restrictions and urgent assessment precede cosmetic repairs.
 ## 6. Structural strengthening design
 
 **When it is needed:** Strengthening may follow a load change or confirmed member deficiency; selecting jackets, plates or composites before diagnosis is unsafe.
@@ -98,6 +103,7 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 
 **Service-specific quotation brief:** Provide diagnosis, as-built plans and occupancy constraints. Request strengthening options, load-transfer details, temporary support sequence and test criteria. Separate design and supervision from supply and installation and identify who authorises removal of props.
 
+**Strengthening-design handover decision:** Distinguish temporary works support during construction from permanent strengthening, and assign design, monitoring and approval responsibility at each load-transfer or prop-removal stage. Photographs of installed props alone do not establish adequacy.
 ## 7. Structural engineering report preparation
 
 **When it is needed:** A structural report may document a defect, test finding or proposed change; its purpose and intended recipient should be agreed first.
@@ -117,3 +123,5 @@ This guide helps prepare engineering enquiries; it does not replace a qualified 
 ## Requesting a quotation
 
 State the exact service, Al Jimi project location, available drawings and photographs and preferred timeline. Ask for separate fees for design, visits, tests, revisions and official submissions. Biet Al Reef customer support can help prepare an enquiry without guaranteeing a firm, price or appointment.
+
+**Report-specific handover decision:** Require a stated purpose, reliance limits, evidence register, uninspected elements and recommendations requiring further testing. Do not reuse a report for a different decision without professional reassessment.

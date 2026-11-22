@@ -2178,3 +2178,8 @@ Status: **in_progress**. Expanded services 9 and 10 in [Arabic](./general-contra
 
 - **الحالة: `in_progress`**. استُكملت بنود الاتفاق في [شبكات الري بالعربية](./general-contracting/irrigation-networks/content-ar.md) و[English](./general-contracting/irrigation-networks/content-en.md) للخدمة السادسة: جدول القطاعات والنسخ الاحتياطي ونقل الصلاحيات واختبار الانقطاع وحدود أعمال الأسلاك والإنترنت. [سجل التخصص](./general-contracting/irrigation-networks/review.md).
 - **أول نقص دقيق:** تدقيق بقية فقرات خدمات `general-contracting/landscaping` 1–9 و14 ومطابقتها، ثم `irrigation-networks` 1–7 بالكامل، ثم `shade-outdoor-works` 1–7؛ إعادة تدقيق `building-villas` 1–14 و`restoration-renovation` 1–7 وبقية تخصصات الشركات عبر القطاعات الثمانية. لا يعتمد اكتمال الجيمي قبل مراجعة 434 خدمة في كل لغة، ولا يبدأ المويجعي.
+
+## 2026-11-22 — تدقيق إضافي لخدمات الحدائق 1–9 و14
+
+- **الحالة `in_progress`**. أضيفت عشر فقرات عملية مستقلة لكل لغة إلى [الحدائق بالعربية](./general-contracting/landscaping/content-ar.md) و[English](./general-contracting/landscaping/content-en.md) وسُجلت في [مراجعة التخصص](./general-contracting/landscaping/review.md). أُعيدت قراءة الملفات بعد حفظها؛ بقيت 14 خدمة في كل لغة.
+- **أول نقص محدد:** مطابقة نهائية سطرًا بسطر للخدمات 1–14 في `general-contracting/landscaping`، ثم تدقيق `irrigation-networks` للخدمات 1–7، ثم `shade-outdoor-works` للخدمات 1–7، ثم إعادة فحص `building-villas` 1–14 و`restoration-renovation` 1–7 وبقية تخصصات الشركات في القطاعات الثمانية؛ مراجعة 434 خدمة بكل لغة لم تعتمد. لا يبدأ المويجعي.

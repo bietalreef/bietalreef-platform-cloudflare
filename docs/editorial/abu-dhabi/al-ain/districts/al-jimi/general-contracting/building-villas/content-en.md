@@ -140,6 +140,8 @@ This service helps an owner turn the needs of a new household into a measurable 
 
 **Additional independent pre-contract and acceptance check:** For a residential annex, do not assume that power and drainage can simply branch off the villa. Request service routes, available capacity, connection points and a foundation assessment close to existing footings. Allocate responsibility for reinstating paving and protecting existing waterproofing.
 
+**Annex-specific quotation check:** For a residential annex beside an existing villa, request a sketch showing the separation from the main building and plot boundaries, roof drainage direction and proposed electricity, water and wastewater connections. Ask whether the price covers assessing excavation effects on existing foundations, waterproofing at junctions and reinstating paving disturbed for service routes. Do not assume the annex may share the original structure or services without qualified assessment and applicable approvals.
+
 ## 10. Outdoor majlis construction
 
 **When and why:** A detached majlis should accommodate the intended guest numbers while keeping guest access separate from the family's private circulation. Decide whether the contract covers only the building or also the approach, parking, pantry, fixed seating and sanitary facilities. Do not assume an addition is permitted before the relevant drawings and requirements are checked.

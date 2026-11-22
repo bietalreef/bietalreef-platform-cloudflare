@@ -18,6 +18,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Check usable path widths, unobstructed doors and runoff away from the building. Match the final layout against measured site dimensions, check maintenance-gate swing and irrigation and power access, and record revisions before design approval.
 
+**Additional acceptance and contract decision:** For design handover, request a schedule linking each area to its intended use, sun exposure and irrigation source. Flag potential clashes with existing services for site verification rather than assuming the ground is clear.
+
 ## 2. Villa landscaping
 
 **When and what to commission:** Inventory existing trees, beds and seating to retain; agree privacy and access needs.
@@ -33,6 +35,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Provide a photo inventory of trees and seating to retain and the areas to change. Request itemised protection, soil, planting, irrigation, lighting and waste-removal prices, plus plant establishment follow-up.
 
 **Acceptance inspection:** Inspect levels, irrigation coverage and maintenance access around seating and trees. Walk the completed layout with the installation drawing to confirm valves and access covers remain reachable; obtain an as-planted list with locations and initial care dates.
+
+**Additional acceptance and contract decision:** Before plant procurement, record a retain, relocate or remove decision for each existing feature and assign relocation risk. Obtain protection photographs before machinery enters and condition photographs after completion.
 
 ## 3. Outdoor space design
 
@@ -50,6 +54,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Check accessibility and ensure runoff does not reach door thresholds or walls. Check threshold levels at every paving transition, turning space at entrances and any slope directing runoff towards foundations before signing off the drawings.
 
+**Additional acceptance and contract decision:** Before approving circulation routes, request a typical threshold section showing paving build-up, fall and drain location. Perspective renderings alone must not set construction levels.
+
 ## 4. Green area installation
 
 **When and what to commission:** Assess drainage and water supply before choosing a planted ground cover.
@@ -65,6 +71,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Provide the lawn area, available soil depth and ponding locations. Ask for drainage assessment, soil preparation, ground-cover specification, irrigation and establishment care, with measurable acceptance criteria for gaps.
 
 **Acceptance inspection:** Test irrigation, ponding and initial coverage; agree a follow-up period. Check planted-soil depth at several points, record settlement or erosion after an irrigation trial, and agree a second inspection once the cover has established.
+
+**Additional acceptance and contract decision:** For newly planted green areas, tie acceptance to soil-preparation records, an irrigation trial and observations of ponding. Distinguish the plant-establishment period from any subsequent maintenance contract.
 
 ## 5. Tree and shrub planting
 
@@ -82,6 +90,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Inspect planting depth, stability, loose ties and foliage condition. Reconcile plant tags, quantities and container sizes with the delivery schedule; check exposed root flares and watering basins that do not discharge against walls.
 
+**Additional acceptance and contract decision:** For trees and shrubs, agree container size, root condition and stem condition checks at delivery, with a written substitute approval process if the specified species is unavailable; a trade name alone is insufficient.
+
 ## 6. Natural turf installation
 
 **When and what to commission:** Confirm sunlight, irrigation and surface preparation before turf delivery to avoid drying.
@@ -97,6 +107,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Send turf area, shaded zones, soil type and irrigation points. Request the turf cultivar, base preparation, delivery sequence and rooting-period watering responsibility, plus terms for replacing failed sections.
 
 **Acceptance inspection:** Check close turf joints, initial rooting, even watering and absence of flooding. Check that turf-roll edges meet without overlapping; request a record of the first mow and sprinkler uniformity after rooting begins.
+
+**Additional acceptance and contract decision:** For natural turf, specify checks for sod-to-soil contact, seam levelling and initial watering. Record yellowing patches at initial handover and set a follow-up inspection rather than claiming immediate successful rooting.
 
 ## 7. Artificial turf installation
 
@@ -114,6 +126,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Inspect pile direction, seams, secured edges and water drainage. Test drainage at seams and low spots and inspect for exposed fasteners or adhesive at edges. For children's play or seating areas exposed to sun, request product information on surface heat and suitability for the intended use, and assess surface feel and temperature under representative use conditions before handover; a green appearance alone does not establish thermal comfort or safety.
 
+**Additional acceptance and contract decision:** For artificial turf, request a product sample, drainage-permeability data, infill specification and warranty exclusions. Separate a sun-exposure surface-temperature check from any blanket claim that the surface is safe at all times.
+
 ## 8. Plant and tree installation
 
 **When and what to commission:** Distinguish decorative beds from permanent planting; match species to light, watering and bed size.
@@ -130,6 +144,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 
 **Acceptance inspection:** Inspect intact root balls, spacing and correct planting depth at the crown. Match planting locations to the plan and bed dimensions; log damaged plants and schedule a separate review rather than automatically accepting replacement.
 
+**Additional acceptance and contract decision:** For plant and tree installation, obtain an as-planted location plan showing expected mature clearances from walls and services. Separate relocation and replanting charges from supply of new stock.
+
 ## 9. Tree pruning
 
 **When and what to commission:** Identify dead, crossing or obstructing branches; avoid indiscriminate topping or work near power lines without specialists.
@@ -145,6 +161,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Photograph the canopy and target branches, noting tree height and nearby power lines. Request a pruning method, access equipment, exclusion zone and green-waste haulage; separate work needing utility coordination.
 
 **Acceptance inspection:** Check clean cuts, no hanging limbs and no damage to fences or nearby planting. Inspect pruning cuts relative to branch collars, ensure cuttings are cleared from drains and check nearby cables and fences for visible damage before demobilisation.
+
+**Additional acceptance and contract decision:** Before pruning tall trees, request an access and exclusion-zone plan and clarify who assesses proximity to power lines. Inspect cut locations and tree condition; do not assume removing every damaged limb is appropriate.
 
 ## 10. Lawn maintenance
 
@@ -233,6 +251,8 @@ Use this guide to prepare site-specific enquiries and compare work scopes, not a
 **Service-specific quotation request:** Provide a garden plan, tree inventory, planted areas and irrigation assets. Request a seasonal visit schedule covering mowing, pruning, feeding, inspections and reporting, with consumable prices and missed-visit remedies.
 
 **Acceptance inspection:** Match visit logs to schedules, before/after images, plant health notes and outstanding repairs. Reconcile visit logs and extra charges with the contract, and check that deferred faults, plant replacements and corrective-action dates are documented.
+
+**Additional acceptance and contract decision:** For a garden maintenance contract, request a traceable seasonal schedule and visit records, with separate approval for replacements or pump repairs. Close each visit against photographs and reviewable observations.
 
 ## Requesting a quotation through Biet Al Reef
 

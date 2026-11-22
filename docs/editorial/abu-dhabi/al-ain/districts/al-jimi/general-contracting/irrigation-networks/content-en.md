@@ -94,7 +94,7 @@ This category is **currently non-selectable**. Information is preparatory and do
 
 **Handover:** Test manual and scheduled cycles, stop functions and any rain-delay feature. Receive a written start time and duration for each zone, and test cancellation using the stop command or rain sensor where fitted. Follow the controller manual to check what happens to the schedule and clock after power interruption and restoration, recording any reset required. Identify who can change schedules and how account access is transferred if the controller is internet-connected. Do not assume seasonal settings suit every plant without reviewing actual water use.
 
-**Detailed contract terms:** Hand over controller settings and seasonal irrigation schedule.
+**Detailed contract terms:** Hand over a numbered zone schedule identifying planting types, watering days, start times, run durations and seasonal adjustment limits, with a settings backup and recovery procedure. Where an app-connected controller is present, assign account ownership, credential transfer and removal of the technician's access after handover. Identify responsibility for calibrating installed rain or moisture sensors. Record manual and scheduled-cycle trials and controller behaviour after power loss; wiring, valve repairs and internet provision are separate unless explicitly priced.
 
 **Service-specific quotation request:** Share controller model, display photographs, zone/plant list and current watering times. Request a written seasonal schedule, backed-up settings, recovery instructions and practical user training; specify whether sensor or wiring replacement is excluded.
 

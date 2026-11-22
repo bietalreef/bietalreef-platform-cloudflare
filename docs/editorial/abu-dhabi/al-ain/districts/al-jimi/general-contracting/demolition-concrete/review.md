@@ -43,3 +43,8 @@ Next: `general-contracting/landscaping` (Arabic, English, review), then irrigati
 ## 2026-11-21 — Seven pre-work decision checks, bilingual
 
 Added a distinct safety/decision checkpoint to each of the seven Arabic and English services: retained-structure survey, annex junction protection, pre-core structural scanning, foundation ground verification, slab pour interruption planning, wall pre-closure checks, and waste segregation/skip access. These are editorial preparation notes, not engineering approvals. Full district audit remains `in_progress`.
+
+
+## 2026-11-22 — Additional contract evidence audit
+
+Seven distinct bilingual contractual verification paragraphs added to demolition/concrete services 1–7. Focus: occupied access segregation, annex waterproofing junction, numbered coring schedule, footing pre-pour record, slab loading and exclusion plan, wall concealed waterproofing evidence, and waste sorting/rejection receipts. Seven headings preserved in each language. This is not an engineering sign-off; area remains `in_progress`. Next: semantic comparison of these seven service pairs, then landscaping 1–14, irrigation 1–7, shade/outdoor 1–7, building-villas 1–14, restoration 1–7 and remaining specialties across eight sectors; final 434-pair audit pending.
